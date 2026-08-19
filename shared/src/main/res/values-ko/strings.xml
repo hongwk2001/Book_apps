@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Drawer & Main Screen -->
+    <string name="chapters_title">목차</string>
+    <string name="chapter_label">제 %1$d장</string>
+    <string name="about_title">앱 정보</string>
+    <string name="version_label">버전: Aug 2026</string>
+    <string name="contact_label">문의: tkprof.ai@gmail.com</string>
+    <string name="more_books_btn">더 많은 책 보기</string>
+
+    <!-- Settings Menu -->
+    <string name="settings_title">읽기 설정</string>
+    <string name="language_order_title">언어 순서</string>
+    <string name="order_en_ko">영어 → 한국어</string>
+    <string name="order_ko_en">한국어 → 영어</string>
+    <string name="display_tts_title">화면 및 음성</string>
+    <string name="lang_english">영어</string>
+    <string name="lang_korean">한국어</string>
+    <string name="setting_show">화면 표시</string>
+    <string name="setting_read">음성 읽기</string>
+    <string name="english_voice_title">영어 음성</string>
+    <string name="korean_voice_title">한국어 음성</string>
+    <string name="setting_speed">속도: %.2fx</string>
+    <string name="setting_pitch">음정 (피치): %.2fx</string>
+    <string name="btn_apply">적용</string>
+    <string name="btn_cancel">취소</string>
+    <string name="toast_one_lang_visible">하나 이상의 언어가 화면에 표시되어야 합니다.</string>
+
+    <!-- Paywall Screen -->
+    <string name="paywall_title">전체 책 잠금 해제</string>
+    <string name="paywall_locked_desc">제 %1$d장은 잠겨 있습니다.</string>
+    <string name="paywall_purchase_desc">계속 읽고 모든 챕터를 보려면 전체 책을 구매하세요.</string>
+    <string name="btn_unlock_now">지금 구매하기</string>
+
+    <!-- Audiobook Notification -->
+    <string name="notification_playing">재생 중: %1$s</string>
+    <string name="notification_desc">오디오북 읽는 중...</string>
+    <string name="btn_stop">중지</string>
+</resources>

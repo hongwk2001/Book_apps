@@ -1,0 +1,278 @@
+﻿package com.tkprof.shared.ui.reader
+
+import android.app.Application
+import android.media.AudioManager
+import android.media.AudioFocusRequest
+import android.content.Context
+import android.os.Build
+
+import androidx.lifecycle.AndroidViewModel
+import androidx.lifecycle.viewModelScope
+import com.tkprof.shared.billing.BillingManager
+import com.tkprof.shared.data.BookRepository
+import com.tkprof.shared.model.BilingualChapter
+import com.tkprof.shared.model.BookConfig
+import com.tkprof.shared.model.Language
+import com.tkprof.shared.model.Sentence
+import com.tkprof.shared.model.SentenceSplitter
+import com.tkprof.shared.tts.TtsManager
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.flow.MutableStateFlow
+import kotlinx.coroutines.flow.StateFlow
+import kotlinx.coroutines.launch
+import android.content.Intent
+import androidx.core.content.ContextCompat
+import com.tkprof.shared.tts.TtsPlaybackService
+
+class ReaderViewModel(
+    application: Application,
+    val bookConfig: BookConfig,
+    val ttsManager: TtsManager,
+    val billingManager: BillingManager
+) : AndroidViewModel(application) {
+
+    private val repository = BookRepository(application)
+
+    private val _currentChapter = MutableStateFlow<BilingualChapter?>(null)
+    val currentChapter: StateFlow<BilingualChapter?> = _currentChapter
+
+    private val _currentChapterNumber = MutableStateFlow(1)
+    val currentChapterNumber: StateFlow<Int> = _currentChapterNumber
+
+    private val _speakingSentenceId = MutableStateFlow<String?>(null)
+    val speakingSentenceId: StateFlow<String?> = _speakingSentenceId
+
+    private val _totalChapters = MutableStateFlow(bookConfig.totalChapters)
+    val totalChapters: StateFlow<Int> = _totalChapters
+
+    val isFullUnlocked: StateFlow<Boolean> = billingManager.isFullUnlocked
+    val isSpeaking: StateFlow<Boolean> = ttsManager.isSpeaking
+
+    
+    private val audioManager = application.getSystemService(Context.AUDIO_SERVICE) as AudioManager
+    private var wasPlayingBeforeFocusLoss = false
+
+    private val audioFocusChangeListener = AudioManager.OnAudioFocusChangeListener { focusChange ->
+        when (focusChange) {
+            AudioManager.AUDIOFOCUS_LOSS, AudioManager.AUDIOFOCUS_LOSS_TRANSIENT -> {
+                if (isSpeaking.value) {
+                    wasPlayingBeforeFocusLoss = true
+                    ttsManager.stop()
+                }
+            }
+            AudioManager.AUDIOFOCUS_GAIN -> {
+                if (wasPlayingBeforeFocusLoss) {
+                    wasPlayingBeforeFocusLoss = false
+                    playCurrentSequence()
+                }
+            }
+        }
+    }
+
+    private fun requestAudioFocus(): Boolean {
+        val result = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            val focusRequest = AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+                .setOnAudioFocusChangeListener(audioFocusChangeListener)
+                .build()
+            audioManager.requestAudioFocus(focusRequest)
+        } else {
+            @Suppress("DEPRECATION")
+            audioManager.requestAudioFocus(
+                audioFocusChangeListener,
+                AudioManager.STREAM_MUSIC,
+                AudioManager.AUDIOFOCUS_GAIN
+            )
+        }
+        return result == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+    }
+
+    private val _speakingParagraphIndex = MutableStateFlow(-1)
+    val speakingParagraphIndex: StateFlow<Int> = _speakingParagraphIndex
+
+    // Settings States
+    val isEnFirst = MutableStateFlow(true) // Language Order
+    val showEn = MutableStateFlow(true)
+    val showKo = MutableStateFlow(true)
+    val readEn = MutableStateFlow(true)
+    val readKo = MutableStateFlow(true)
+
+    // Flat queue of all playable sentences in the chapter
+    private var sentenceQueue = listOf<Sentence>()
+    private var currentQueueIndex = -1
+
+        init {
+        loadChapter(1)
+        viewModelScope.launch { _totalChapters.value = repository.availableChapterCount() }
+        
+        // Listen to TTS state to start/stop the foreground service
+        viewModelScope.launch {
+            isSpeaking.collect { speaking ->
+                val intent = Intent(application, TtsPlaybackService::class.java)
+                if (speaking) {
+                    intent.putExtra("BOOK_TITLE", bookConfig.titleEn)
+                    ContextCompat.startForegroundService(application, intent)
+                } else {
+                    application.stopService(intent)
+                }
+            }
+        }
+    }
+
+    fun loadChapter(number: Int) {
+        viewModelScope.launch(Dispatchers.IO) {
+            ttsManager.stop()
+            _speakingSentenceId.value = null
+            currentQueueIndex = -1
+            _currentChapterNumber.value = number
+            val ch = repository.loadChapter(number)
+            _currentChapter.value = ch
+            rebuildSentenceQueue(ch)
+        }
+    }
+
+    private fun rebuildSentenceQueue(chapter: BilingualChapter?) {
+        if (chapter == null) {
+            sentenceQueue = emptyList()
+            return
+        }
+        val queue = mutableListOf<Sentence>()
+        for (paragraph in chapter.paragraphs) {
+            if (paragraph.is_header) continue
+            
+            val enSentences = SentenceSplitter.split(paragraph.en, Language.EN, paragraph.id)
+            val koSentences = SentenceSplitter.split(paragraph.ko, Language.KO, paragraph.id)
+            
+            if (isEnFirst.value) {
+                queue.addAll(enSentences)
+                queue.addAll(koSentences)
+            } else {
+                queue.addAll(koSentences)
+                queue.addAll(enSentences)
+            }
+        }
+        sentenceQueue = queue
+    }
+
+    /** Rebuild queue when Language Order changes */
+    fun updateLanguageOrder(enFirst: Boolean) {
+        isEnFirst.value = enFirst
+        rebuildSentenceQueue(_currentChapter.value)
+    }
+
+    fun nextChapter() {
+        val next = _currentChapterNumber.value + 1
+        if (next <= _totalChapters.value) loadChapter(next)
+    }
+
+    fun previousChapter() {
+        val prev = _currentChapterNumber.value - 1
+        if (prev >= 1) loadChapter(prev)
+    }
+
+    fun isChapterAccessible(chapterNumber: Int): Boolean =
+        chapterNumber <= bookConfig.freeChapters || billingManager.isFullUnlocked.value
+
+    /** Start playing from a specific sentence */
+    fun playFromSentence(sentenceId: String) {
+        val index = sentenceQueue.indexOfFirst { it.id == sentenceId }
+        if (index != -1) {
+            currentQueueIndex = index
+            playCurrentSequence()
+        }
+    }
+
+    fun playOrPause() {
+        if (isSpeaking.value) {
+            wasPlayingBeforeFocusLoss = false
+            ttsManager.stop()
+
+            _speakingSentenceId.value = null
+        } else {
+            if (currentQueueIndex == -1 && sentenceQueue.isNotEmpty()) {
+                currentQueueIndex = 0
+            }
+            if (currentQueueIndex in sentenceQueue.indices) {
+                playCurrentSequence()
+            }
+        }
+    }
+
+    fun nextSentence() {
+        ttsManager.stop()
+        if (currentQueueIndex < sentenceQueue.size - 1) {
+            currentQueueIndex++
+            playCurrentSequence()
+        } else {
+            _speakingSentenceId.value = null
+        }
+    }
+
+    fun previousSentence() {
+        ttsManager.stop()
+        if (currentQueueIndex > 0) {
+            currentQueueIndex--
+            playCurrentSequence()
+        } else {
+            _speakingSentenceId.value = null
+        }
+    }
+
+    private fun playCurrentSequence() {
+        if (!requestAudioFocus()) return
+
+        if (currentQueueIndex !in sentenceQueue.indices) {
+            _speakingSentenceId.value = null
+            _speakingParagraphIndex.value = -1
+            return
+        }
+        
+        val s = sentenceQueue[currentQueueIndex]
+        
+        // Update paragraph index for auto-scroll
+        val ch = _currentChapter.value
+        if (ch != null) {
+            _speakingParagraphIndex.value = ch.paragraphs.indexOfFirst { it.id == s.paragraphId }
+        }
+        
+        // Check if we should read this language
+        val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+        
+        if (!shouldRead) {
+            // Skip and go to next
+            currentQueueIndex++
+            playCurrentSequence()
+            return
+        }
+
+        _speakingSentenceId.value = s.id
+        val onDone = {
+            currentQueueIndex++
+            playCurrentSequence()
+        }
+
+        if (s.lang == Language.EN) {
+            ttsManager.speakEnglish(s.text, onDone)
+        } else {
+            ttsManager.speakKorean(s.text, onDone)
+        }
+    }
+
+    fun stopSpeaking() {
+        wasPlayingBeforeFocusLoss = false
+        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) {
+            @Suppress("DEPRECATION")
+            audioManager.abandonAudioFocus(audioFocusChangeListener)
+        }
+        ttsManager.stop()
+
+        _speakingSentenceId.value = null
+    }
+
+    override fun onCleared() {
+        super.onCleared()
+        ttsManager.shutdown()
+        billingManager.disconnect()
+    }
+}
+
+
