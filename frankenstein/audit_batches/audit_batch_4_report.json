@@ -1,0 +1,23 @@
+[
+  {
+    "id": "P004-3",
+    "en": ".",
+    "ko": "나는 그 문제의 시시비비를 가리려 하지는 않았지만, 내가 아직 정확히 이해하지 못하는 채로 소멸에 눈물지었던 영웅의 의견에 기울어졌습니다.",
+    "chapter": "19",
+    "reason": "The English text is just a period, while the Korean text contains a full sentence."
+  },
+  {
+    "id": "P014-5",
+    "en": "I am miserable, and they shall share my\nwretchedness. Yet it is in your power to recompense me, and deliver\nthem from an evil which it only remains for you to make so great, that\nnot only you and your family, but thousands of others, shall be\nswallowed up in the whirlwinds of its rage.",
+    "ko": "나는 비참하고, 그들 역시 나의 비참함을 나누게 될 것이오. 그러나 당신에게는 나를 보상할 힘이 있고, 오직 당신의 손에 달린 그 거대한 재앙으로부터 그들을 구원할 힘이 있소. 만약 당신이 거부한다면 그 재앙은 너무나 커져서 당신과 당신의 가족뿐만 아니라 수천 명의 다른 사람들까지도 복수의 회오리바람에 휩쓸려 삼켜질 것이오.",
+    "chapter": "14",
+    "reason": "The Korean text adds '만약 당신이 거부한다면' (If you refuse), which is not explicitly in the English text."
+  },
+  {
+    "id": "P076-5",
+    "en": "Once my fancy was soothed with dreams of virtue, of fame, and of enjoyment. Once I falsely hoped to meet with beings who, pardoning my outward form, would love me for the excellent qualities which I was capable of unfolding.",
+    "ko": "한때 내 환상은 미덕, 명성, 기쁨의 꿈들로 달래졌지. 한때 나는 거짓된 희망으로, 나의 외모를 용서하고 내가 드러낼 수 있는 훌륭한 자질들 때문에 나를 사랑해 줄 존재들을 만날 수 있기를 바랐소. 나는 명예와 헌신이라는 높은 생각들로 양육되었지.",
+    "chapter": "28",
+    "reason": "The Korean text contains an extra sentence '나는 명예와 헌신이라는 높은 생각들로 양육되었지.' that is missing from the English text."
+  }
+]

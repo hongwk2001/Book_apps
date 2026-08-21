@@ -1,0 +1,188 @@
+import json
+
+data = {
+    'P001': [
+        (
+            "I sat one evening in my laboratory; the sun had set, and the moon was just rising from the sea; I had not sufficient light for my employment, and I remained idle, in a pause of consideration of whether I should leave my labour for the night or hasten its conclusion by an unremitting attention to it. As I sat, a train of reflection occurred to me which led me to consider the effects of what I was now doing.",
+            "어느 날 저녁 나는 연구실에 앉아 있었다. 해는 지고 달이 막 바다 위로 떠오르고 있었다. 일하기에는 빛이 충분하지 않아 가만히 앉아, 그날 밤은 작업을 중단할지 아니면 끊임없이 집중하여 끝을 재촉할지 곰곰이 생각하며 잠시 멈추어 있었다. 그렇게 앉아 있자니 일련의 상념들이 떠올랐고, 내가 지금 하고 있는 일의 결과에 대해 생각하게 되었다."
+        ),
+        (
+            "Three years before, I was engaged in the same manner and had created a fiend whose unparalleled barbarity had desolated my heart and filled it for ever with the bitterest remorse. I was now about to form another being of whose dispositions I was alike ignorant; she might become ten thousand times more malignant than her mate and delight, for its own sake, in murder and wretchedness.",
+            "3년 전, 나는 같은 방식으로 작업하여 비할 데 없는 야만성으로 내 마음을 황폐하게 하고 영원히 가장 쓰라린 회한으로 채운 악마를 창조했다. 나는 지금 그 성향을 나로서는 전혀 알 수 없는 또 다른 존재를 만들려 하고 있었다. 그녀는 제 짝보다 만 배는 더 악랄해져서 살인과 비참함 그 자체를 즐기게 될지도 모른다."
+        ),
+        (
+            "He had sworn to quit the neighbourhood of man and hide himself in deserts, but she had not; and she, who in all probability was to become a thinking and reasoning animal, might refuse to comply with a compact made before her creation. They might even hate each other; the creature who already lived loathed his own deformity, and might he not conceive a greater abhorrence for it when it came before his eyes in the female form?",
+            "그는 인간의 거주지를 떠나 사막에 숨겠다고 맹세했지만 그녀는 맹세하지 않았다. 십중팔구 생각하고 이성적으로 판단하는 동물이 될 그녀가, 자신이 창조되기 전에 맺어진 약속에 따르기를 거부할지도 모른다. 그들은 서로를 미워하게 될지도 모른다. 이미 살아 있는 그 피조물은 자신의 흉측함을 혐오했는데, 그것이 여성의 형태로 자기 눈앞에 나타날 때 더 큰 혐오감을 품지 않겠는가?"
+        ),
+        (
+            "She also might turn with disgust from him to the superior beauty of man; she might quit him, and he be again alone, exasperated by the fresh provocation of being deserted by one of his own species.",
+            "그녀 역시 그에게서 혐오감을 느끼고 더 우월한 아름다움을 지닌 인간에게 돌아설지도 모른다. 그녀가 그를 떠나고, 같은 종의 피조물에게 버림받았다는 새로운 도발에 격분한 그는 또다시 혼자가 될 수도 있었다."
+        )
+    ],
+    'P002': [
+        (
+            "Even if they were to leave Europe and inhabit the deserts of the new world, yet one of the first results of those sympathies for which the dæmon thirsted would be children, and a race of devils would be propagated upon the earth who might make the very existence of the species of man a condition precarious and full of terror. Had I right, for my own benefit, to inflict this curse upon everlasting generations?",
+            "설령 그들이 유럽을 떠나 신대륙의 사막에 거주한다 하더라도, 악마가 갈망하던 그 공감의 첫 번째 결과 중 하나는 아이들일 것이며, 지구상에는 악마 같은 종족이 번식하여 인류의 존립 자체를 위태롭고 공포로 가득 찬 상태로 만들지도 모른다. 내 자신의 이익을 위해 영원한 세대에게 이 저주를 내릴 권리가 내게 있단 말인가?"
+        ),
+        (
+            "I had before been moved by the sophisms of the being I had created; I had been struck senseless by his fiendish threats; but now, for the first time, the wickedness of my promise burst upon me; I shuddered to think that future ages might curse me as their pest, whose selfishness had not hesitated to buy its own peace at the price, perhaps, of the existence of the whole human race.",
+            "전에 나는 내가 만든 피조물의 궤변에 마음이 흔들렸고 그의 악마적인 위협에 넋을 잃었지만, 지금 처음으로 내 약속의 사악함이 내게 밀려들었다. 자신의 평화를 사기 위해 어쩌면 전 인류의 생존이라는 대가를 치르기를 주저하지 않은 그 이기심 때문에, 미래의 세대들이 나를 인류의 재앙이라며 저주할지도 모른다는 생각에 나는 몸서리쳤다."
+        )
+    ],
+    'P005': [
+        (
+            "I was answered through the moonbeams by a fiendish laugh. It rang on my ears long and heavily; the mountains re-echoed it, and I felt as if all hell surrounded me with mockery and laughter. Surely in that moment I should have been possessed by frenzy and have destroyed my miserable existence but that my vow was heard and that I was reserved for a lingering and tormenting destiny.",
+            "달빛을 뚫고 악마 같은 웃음소리가 대답으로 돌아왔다. 그 소리는 내 귓가에 길고 무겁게 울려 퍼졌고, 산들이 이를 메아리쳤으며, 나는 마치 온 지옥이 나를 조롱과 웃음으로 에워싸는 듯한 느낌을 받았다. 분명 그 순간 나는 광기에 사로잡혀 비참한 내 생명을 끊어버렸어야 했지만, 내 맹세가 전해졌고 나는 고통스럽게 이어지는 운명을 위해 남겨졌다."
+        )
+    ],
+    'P012': [
+        (
+            "It is well. I go; but remember, I shall be with you on your wedding-night.",
+            "좋다. 나는 간다. 하지만 기억해라, 네 결혼식 날 밤에 내가 너와 함께 있을 것이다."
+        )
+    ],
+    'P013': [
+        (
+            "I started forward and exclaimed, “Villain! Before you sign my death-warrant, be sure that you are yourself safe.”",
+            "나는 앞으로 뛰쳐나가며 소리쳤다. \"이 악당아! 내 사형 선고에 서명하기 전에 네놈부터 무사한지 확인해라.\""
+        )
+    ],
+    'P018': [
+        (
+            "All was again silent, but his words rang in my ears. I burned with rage to pursue the murderer of my peace and precipitate him into the ocean. I walked up and down my room hastily and perturbed, while my imagination conjured up a thousand images to torment and sting me.",
+            "모든 것이 다시 고요해졌지만, 그의 말이 내 귓가에 맴돌았다. 나는 내 평화의 살인자를 추격해 그를 바다에 밀어 떨어뜨리고 싶은 분노로 불타올랐다. 나는 동요하여 황급히 방 안을 서성거렸고, 내 상상력은 나를 괴롭히고 찌르는 수천 가지 환영을 만들어냈다."
+        ),
+        (
+            "Why had I not followed him and closed with him in mortal strife? But I had suffered him to depart, and he had directed his course towards the mainland. I shuddered to think who might be the next victim sacrificed to his insatiate revenge.",
+            "왜 나는 그를 뒤쫓아가 목숨을 건 격투를 벌이지 않았던가? 하지만 나는 그가 떠나게 내버려 두었고, 그는 본토를 향해 나아갔다. 그의 만족을 모르는 복수심에 희생될 다음 희생자가 누가 될지 생각하자 몸서리가 쳐졌다."
+        ),
+        (
+            "And then I thought again of his words--\"I WILL BE WITH YOU ON YOUR WEDDING-NIGHT.\" That, then, was the period fixed for the fulfilment of my destiny.",
+            "그리고 다시 그의 말을 떠올렸다. \"네 결혼식 날 밤에 내가 너와 함께 있을 것이다.\" 그렇다면 그때가 바로 내 운명이 완성되기로 정해진 시기였다."
+        ),
+        (
+            "In that hour I should die and at once satisfy and extinguish his malice. The prospect did not move me to fear; yet when I thought of my beloved Elizabeth, of her tears and endless sorrow, when she should find her lover so barbarously snatched from her, tears, the first I had shed for many months, streamed from my eyes, and I resolved not to fall before my enemy without a bitter struggle.",
+            "그 시간에 나는 죽을 것이고, 동시에 그의 악의를 충족시키고 소멸시킬 것이다. 그 예상은 내게 공포를 불러일으키지 않았다. 하지만 나의 사랑하는 엘리자베스, 그녀의 연인이 그토록 야만적으로 그녀에게서 낚아채졌다는 것을 알게 되었을 때 그녀가 흘릴 눈물과 끝없는 슬픔을 생각하자, 몇 달 만에 처음으로 내 눈에서 눈물이 흘러내렸고, 나는 치열한 투쟁 없이는 내 원수 앞에 쓰러지지 않겠노라 다짐했다."
+        )
+    ],
+    'P019': [
+        (
+            "The night passed away, and the sun rose from the ocean; my feelings became calmer, if it may be called calmness when the violence of rage sinks into the depths of despair. I left the house, the horrid scene of the last night's contention, and walked on the beach of the sea, which I almost regarded as an insuperable barrier between me and my fellow creatures; nay, a wish that such should prove the fact stole across me.",
+            "밤이 지나가고 바다에서 해가 떠올랐다. 분노의 폭력이 절망의 심연 속으로 가라앉는 것을 차분함이라고 부를 수 있다면, 내 감정은 더 차분해졌다. 나는 지난밤 논쟁의 끔찍한 현장인 집을 나서서 바닷가를 걸으며, 그 바다를 나와 동족들 사이의 극복할 수 없는 장벽처럼 여겼다. 아니, 사실 그것이 장벽이기를 바라는 마음이 내게 스며들었다."
+        ),
+        (
+            "I desired that I might pass my life on that barren rock, wearily, it is true, but uninterrupted by any sudden shock of misery. If I returned, it was to be sacrificed or to see those whom I most loved die under the grasp of a dæmon whom I had myself created.",
+            "비록 고단할지언정 불행의 갑작스러운 충격에 방해받지 않고 이 척박한 바위 위에서 평생을 보낼 수 있기를 바랐다. 만약 내가 돌아간다면, 그것은 희생제물이 되거나 아니면 내가 스스로 만들어낸 악마의 손아귀에 내가 가장 사랑하는 이들이 죽어가는 것을 보기 위함이었다."
+        )
+    ],
+    'P020': [
+        (
+            "I walked about the isle like a restless spectre, separated from all it loved and miserable in the separation. When it became noon, and the sun rose higher, I lay down on the grass and was overpowered by a deep sleep. I had been awake the whole of the preceding night, my nerves were agitated, and my eyes inflamed by watching and misery.",
+            "나는 사랑하는 모든 것과 떨어져 그 이별에 비참해진, 쉴 곳 없는 유령처럼 섬을 배회했다. 정오가 되어 태양이 더 높이 떠오르자, 나는 풀밭에 누웠고 깊은 잠에 압도되었다. 나는 지난밤 내내 깨어 있었고, 신경은 곤두서 있었으며, 뜬눈으로 밤을 새우고 고통받은 탓에 눈은 충혈되어 있었다."
+        ),
+        (
+            "The sleep into which I now sank refreshed me; and when I awoke, I again felt as if I belonged to a race of human beings like myself, and I began to reflect upon what had passed with greater composure; yet still the words of the fiend rung in my ears like a death-knell; they appeared like a dream, yet distinct and oppressive as a reality.",
+            "내가 지금 빠져든 잠은 나를 상쾌하게 해주었다. 잠에서 깨어났을 때, 나는 다시 인간 세상에 속해 있다는 느낌을 받았고, 더 큰 평정심을 가지고 지나간 일들을 되돌아보기 시작했다. 하지만 악마의 말은 여전히 죽음의 종소리처럼 내 귓가에 울렸다. 그것들은 꿈처럼 여겨졌으나 현실만큼이나 뚜렷하고 억압적이었다."
+        )
+    ],
+    'P022': [
+        (
+            "Yet, before I departed, there was a task to perform, on which I shuddered to reflect; I must pack up my chemical instruments, and for that purpose I must enter the room which had been the scene of my odious work, and I must handle those utensils the sight of which was sickening to me. The next morning, at daybreak, I summoned sufficient courage and unlocked the door of my laboratory.",
+            "그러나 내가 떠나기 전에 해야 할 과업이 하나 있었는데, 생각만 해도 몸서리쳐졌다. 내 화학 도구들을 짐을 꾸려야 했고, 그러기 위해서는 내 혐오스러운 작업의 현장이었던 그 방에 들어가야 했으며, 보는 것만으로도 구역질 나는 그 도구들을 만져야만 했다. 다음 날 아침 동이 틀 무렵, 나는 충분한 용기를 내어 연구실의 문을 열었다."
+        ),
+        (
+            "The remains of the half-finished creature, whom I had destroyed, lay scattered on the floor, and I almost felt as if I had mangled the living flesh of a human being. I paused to collect myself and then entered the chamber.",
+            "내가 파괴해버린 반쯤 완성된 피조물의 잔해들이 바닥에 흩어져 있었고, 나는 마치 살아 있는 인간의 살덩이를 난도질한 것 같은 기분이 들었다. 나는 마음을 추스르기 위해 잠시 멈춰 섰다가 방으로 들어갔다."
+        ),
+        (
+            "With trembling hand I conveyed the instruments out of the room, but I reflected that I ought not to leave the relics of my work to excite the horror and suspicion of the peasants; and I accordingly put them into a basket, with a great quantity of stones, and laying them up, determined to throw them into the sea that very night; and in the meantime I sat upon the beach and employed myself in cleaning and arranging my chemical apparatus.",
+            "나는 떨리는 손으로 도구들을 방 밖으로 옮겼지만, 내 작업의 유물들을 남겨두어 농부들의 공포와 의심을 자극해서는 안 된다는 생각이 들었다. 이에 따라 나는 그것들을 바구니에 담고 많은 양의 돌과 함께 넣은 다음 치워두었다가 바로 그날 밤에 바다에 던져버리기로 결심했다. 그러는 동안 나는 해변에 앉아 화학 장비들을 닦고 정리하는 일에 몰두했다."
+        )
+    ],
+    'P026': [
+        (
+            "Some hours passed thus; but by degrees, as the sun declined towards the horizon, the wind died away into a gentle breeze and the sea became free from breakers. But these gave place to a heavy swell; I felt sick and hardly able to hold the rudder, when suddenly I saw a line of high land towards the south.",
+            "그렇게 몇 시간이 흘렀다. 그러나 점차 태양이 지평선 쪽으로 기울자 바람은 잦아들어 부드러운 산들바람이 되었고 바다에는 쇄파가 사라졌다. 하지만 그 자리를 거대한 너울이 대신했다. 속이 메스꺼워져 키를 잡고 있기도 힘들었을 때, 갑자기 남쪽으로 높이 솟은 땅의 능선이 보였다."
+        )
+    ],
+    'P028': [
+        (
+            "How mutable are our feelings, and how strange is that clinging love we have of life even in the excess of misery! I constructed another sail with a part of my dress and eagerly steered my course towards the land. It had a wild and rocky appearance, but as I approached nearer I easily perceived the traces of cultivation.",
+            "우리의 감정은 어찌나 변덕스러운가. 그리고 지독한 불행 속에서도 삶에 집착하는 우리의 사랑은 어찌나 기묘한가! 나는 내 옷가지 일부로 또 다른 돛을 만들어 필사적으로 땅을 향해 뱃머리를 돌렸다. 그곳은 거칠고 바위투성이인 모습이었지만, 가까이 다가갈수록 경작의 흔적을 쉽게 알아볼 수 있었다."
+        ),
+        (
+            "I saw vessels near the shore and found myself suddenly transported back to the neighbourhood of civilised man. I carefully traced the windings of the land and hailed a steeple which I at length saw issuing from behind a small promontory.",
+            "해안 근처의 배들이 보였고, 나는 갑자기 문명인들의 이웃으로 되돌아왔음을 깨달았다. 나는 조심스럽게 육지의 굽이진 곳들을 따라갔고, 마침내 작은 곶 뒤에서 솟아오른 첨탑을 보고 환호했다."
+        ),
+        (
+            "As I was in a state of extreme debility, I resolved to sail directly towards the town, as a place where I could most easily procure nourishment. Fortunately I had money with me. As I turned the promontory I perceived a small neat town and a good harbour, which I entered, my heart bounding with joy at my unexpected escape.",
+            "나는 극도로 쇠약해진 상태였기에, 가장 쉽게 양식을 구할 수 있는 마을을 향해 곧장 항해하기로 마음먹었다. 다행히 내게는 돈이 있었다. 곶을 돌자 작고 깔끔한 마을과 훌륭한 항구가 보였고, 나는 뜻밖의 탈출에 기쁨으로 심장이 뛰는 것을 느끼며 그곳으로 들어갔다."
+        )
+    ],
+    'P029': [
+        (
+            "As I was occupied in fixing the boat and arranging the sails, several people crowded towards the spot. They seemed much surprised at my appearance, but instead of offering me any assistance, whispered together with gestures that at any other time might have produced in me a slight sensation of alarm.",
+            "배를 정박하고 돛을 정리하는 데 몰두하고 있을 때, 여러 사람이 그곳으로 몰려들었다. 그들은 내 모습을 보고 몹시 놀란 듯했지만, 내게 아무런 도움도 제안하지 않은 채 평소 같았으면 내게 가벼운 경각심을 불러일으켰을 만한 몸짓을 섞어가며 자기들끼리 속닥거렸다."
+        ),
+        (
+            "As it was, I merely remarked that they spoke English, and I therefore addressed them in that language. “My good friends,” said I, “will you be so kind as to tell me the name of this town and inform me where I am?”",
+            "하지만 나는 그들이 영어를 사용한다는 것만 알아챘고, 그래서 그 언어로 말을 건넸다. \"좋은 친구들,\" 내가 말했다. \"내게 이 마을의 이름과 내가 지금 어디에 있는지 친절하게 알려주겠소?\""
+        )
+    ],
+    'P033': [
+        (
+            "While this strange dialogue continued, I perceived the crowd rapidly increase. Their faces expressed a mixture of curiosity and anger, which annoyed and in some degree alarmed me. I inquired the way to the inn, but no one replied.",
+            "이 기묘한 대화가 이어지는 동안, 나는 군중이 빠르게 늘어나는 것을 알아챘다. 그들의 얼굴에는 호기심과 분노가 뒤섞여 있었고, 나는 짜증이 나면서도 어느 정도 불안해졌다. 나는 여관으로 가는 길을 물었지만 아무도 대답하지 않았다."
+        ),
+        (
+            "I then moved forward, and a murmuring sound arose from the crowd as they followed and surrounded me, when an ill-looking man approaching tapped me on the shoulder and said, “Come, sir, you must follow me to Mr. Kirwin’s to give an account of yourself.”",
+            "그런 다음 내가 앞으로 나아가자, 나를 따라오며 둘러싼 군중 속에서 웅성거리는 소리가 일어났다. 그때 인상이 험악한 사내가 다가와 내 어깨를 툭 치며 말했다. \"이보쇼, 커윈 선생님 댁으로 가서 당신에 대해 해명해야겠소.\""
+        )
+    ],
+    'P036': [
+        (
+            "This answer startled me, but I presently recovered myself. I was innocent; that could easily be proved; accordingly I followed my conductor in silence and was led to one of the best houses in the town.",
+            "이 대답은 나를 깜짝 놀라게 했지만, 나는 이내 안정을 되찾았다. 나는 결백했고, 그것은 쉽게 증명할 수 있었다. 그래서 나는 말없이 안내자를 따라나섰고 마을에서 가장 좋은 집 중 하나로 안내되었다."
+        ),
+        (
+            "I was ready to sink from fatigue and hunger, but being surrounded by a crowd, I thought it politic to rouse all my strength, that no physical debility might be construed into apprehension or conscious guilt. Little did I then expect the calamity that was in a few moments to overwhelm me and extinguish in horror and despair all fear of ignominy or death.",
+            "피로와 굶주림으로 쓰러질 지경이었으나, 군중에게 둘러싸여 있었기에 육체적인 쇠약함이 두려움이나 죄책감으로 해석되지 않도록 온 힘을 쥐어짜 내는 것이 현명하다고 생각했다. 잠시 후 나를 압도하여 불명예나 죽음에 대한 모든 두려움을 공포와 절망 속으로 꺼트려버릴 재앙이 닥칠 줄은 그때는 꿈에도 예상하지 못했다."
+        )
+    ]
+}
+
+target_file = r'c:\git_repo\Book_apps\frankenstein\src\main\assets\books\ch_24.json'
+with open(target_file, 'r', encoding='utf-8') as f:
+    d = json.load(f)
+
+# Rebuild the list
+new_d = []
+added_ps = set()
+for item in d:
+    # Check if item belongs to a bad paragraph
+    p_id = item['tag'].split('-')[0]
+    if p_id in data:
+        # We only want to insert the new chunks ONCE per paragraph
+        if p_id not in added_ps:
+            # Add all new chunks for this paragraph
+            for i, (en, ko) in enumerate(data[p_id]):
+                new_item = {
+                    'id': item['id'] + i,  # Roughly. we'll fix IDs later
+                    'tag': f"{p_id}-{i+1}",
+                    'en': en,
+                    'ko': ko,
+                    'is_header': False
+                }
+                new_d.append(new_item)
+            added_ps.add(p_id)
+    else:
+        new_d.append(item)
+
+# Fix IDs
+for i, item in enumerate(new_d):
+    item['id'] = i + 1
+
+with open(target_file, 'w', encoding='utf-8') as f:
+    json.dump(new_d, f, ensure_ascii=False, indent=2)
+
+print("Done updating json.")

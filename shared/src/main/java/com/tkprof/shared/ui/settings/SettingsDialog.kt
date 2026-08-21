@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.ui.settings
+package com.tkprof.shared.ui.settings
 
 import android.speech.tts.Voice
 import android.widget.Toast
@@ -39,6 +39,8 @@ fun SettingsDialog(
     var koSpeed by remember { mutableFloatStateOf(ttsManager.koreanSpeed) }
     var enPitch by remember { mutableFloatStateOf(ttsManager.englishPitch) }
     var koPitch by remember { mutableFloatStateOf(ttsManager.koreanPitch) }
+    
+    var fontSizeMult by remember { mutableFloatStateOf(viewModel.fontSizeMultiplier.value) }
 
     fun ensureShowConstraint(newShowEn: Boolean, newShowKo: Boolean) {
         if (!newShowEn && !newShowKo) {
@@ -63,6 +65,12 @@ fun SettingsDialog(
                     .padding(vertical = 8.dp),
                 verticalArrangement = Arrangement.spacedBy(16.dp)
             ) {
+                // Font Size
+                Text("Text Size: ${"%.1f".format(fontSizeMult)}x", style = MaterialTheme.typography.labelLarge)
+                Slider(value = fontSizeMult, onValueChange = { fontSizeMult = it }, valueRange = 0.8f..2.5f)
+                
+                HorizontalDivider()
+                
                 // Top Level: Language Order
                 Text(stringResource(R.string.language_order_title), style = MaterialTheme.typography.labelLarge)
                 Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
@@ -148,6 +156,7 @@ fun SettingsDialog(
         confirmButton = {
             TextButton(onClick = {
                 // Apply everything
+                viewModel.fontSizeMultiplier.value = fontSizeMult
                 viewModel.showEn.value = showEn
                 viewModel.showKo.value = showKo
                 viewModel.readEn.value = readEn

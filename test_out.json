@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "en": "Chapter 1",
+    "ko": "제1장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "en": "Jonathan Harker's Journal",
+    "ko": "조나단 하커의 일기",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "en": "(Kept in shorthand.)",
+    "ko": "(속기로 작성함.)",
+    "is_header": false
+  }
+]

@@ -1,0 +1,1773 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 24",
+    "ko": "제24장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "My current situation was such that all spontaneous thinking was swallowed up and lost. I was swept away by anger.",
+    "ko": "현재 나의 상황은 모든 자발적인 사고가 삼켜지고 상실된 상태였다. 나는 분노에 휩쓸려 다녔다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P001-2",
+    "en": "Only revenge gave me strength and serenity. Revenge shapes my emotions and allows me to be calculating and calm even when delirium or death would otherwise have been my lot.",
+    "ko": "오직 복수만이 내게 힘과 평정을 부여했다. 복수는 내 감정을 빚어내고, 그렇지 않았다면 섬망이나 죽음이 내 몫이 되었을 시기에도 내가 계산적이고 차분할 수 있도록 해주었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-1",
+    "en": "My first decision was to leave Geneva forever. My country, which was precious when I was happy and loved, has now become a loathsome place in times of adversity. I took my mother's belongings, a few pieces of jewelry and some money, and left.",
+    "ko": "나의 첫 번째 결심은 영원히 제네바를 떠나는 것이었다. 내가 행복하고 사랑받았을 때는 소중했던 나의 조국이 이제 역경의 시기를 맞아 혐오스러운 곳이 되어버렸다. 나는 어머니의 유품인 몇 점의 보석과 약간의 돈을 챙겨 떠났다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003-1",
+    "en": "And now my wanderings, which will end only in death, have begun. I have traversed a vast part of the earth, and have endured all the hardships common to travelers passing through deserts and barbarous countries. Even I barely know how I survived.",
+    "ko": "그리고 이제 죽음으로만 끝날 나의 방랑이 시작되었다. 나는 지구의 광대한 부분을 횡단했으며 사막과 야만적인 국가를 지나는 여행자들이 흔히 겪는 모든 고난을 견뎌냈다. 어떻게 살아남았는지 나조차도 거의 모른다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003-2",
+    "en": "Countless times, I stretched out my weakened limbs on the sandy plain and prayed to die. But revenge kept me alive. As long as my enemy existed, I did not dare to die.",
+    "ko": "수없이 내 쇠약해진 팔다리를 모래 평원에 뻗고 죽기를 기도했다. 하지만 복수심이 나를 살아있게 했다. 내 적수가 존재하는 한 나는 감히 죽을 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-1",
+    "en": "My first labor on leaving Geneva was to obtain some clue by which I could trace the footsteps of my devilish enemy. But my plans were shaky, and I wandered around the outskirts of town for hours, uncertain of which way to take. As night approached, I reached the entrance to the cemetery where William, Elizabeth, and my father were buried.",
+    "ko": "제네바를 떠날 때 나의 첫 번째 수고는 악마 같은 적의 발자취를 추적할 수 있는 어떤 단서를 얻는 것이었다. 하지만 내 계획은 불안정했고, 어느 길로 가야 할지 불확실한 채 수 시간 동안 마을 외곽을 헤매었다. 밤이 다가오자 나는 윌리엄, 엘리자베스, 그리고 내 아버지가 잠들어 있는 묘지의 입구에 이르렀다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-2",
+    "en": "I went inside and approached the headstones that marked their graves. Everything was quiet except for the sound of leaves gently swaying in the wind. The night was almost pitch black, and even to a disinterested observer, the scenery must have been majestic and moving.",
+    "ko": "나는 안으로 들어가 그들의 무덤을 표시하는 묘석으로 다가갔다. 바람에 부드럽게 흔들리는 나뭇잎 소리 외에는 모든 것이 고요했다. 밤은 거의 칠흑같이 어두웠고, 이해관계가 없는 관찰자에게조차 이 풍경은 장엄하고 감동적이었을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-3",
+    "en": "The spirits of the departed seemed to hover around, casting a felt but invisible shadow over the mourners' heads.",
+    "ko": "떠난 이들의 영혼이 주위를 맴돌며 애도자의 머리 위로 느껴지지만 보이지는 않는 그림자를 드리우는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-1",
+    "en": "The deep sadness that this scene first aroused soon gave way to anger and despair. They died and I lived. Their murderer was also alive, and to destroy him I had to drag on through my damnable existence.",
+    "ko": "이 광경이 처음 일깨웠던 깊은 슬픔은 이내 분노와 절망에 자리를 내주었다. 그들은 죽었고 나는 살았다. 그들의 살인자 역시 살아 있었고, 그를 파멸시키기 위해 나는 지긋지긋한 존재를 질질 끌며 버텨야만 했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005-2",
+    "en": "I knelt on the lawn, kissed the ground, and cried out with trembling lips. “I swear on this sacred ground on which I kneel, on the souls that wander by my side, on this deep and eternal sorrow I feel. And on you, O Night, and on the spirits that rule over you, that I will not stop pursuing the devil who brought this misery until he or I perish in this death struggle.",
+    "ko": "나는 잔디밭에 무릎을 꿇고 땅에 입을 맞춘 뒤 떨리는 입술로 외쳤다. \"내가 무릎을 꿇고 있는 이 신성한 대지를 걸고, 내 곁을 떠도는 영혼들을 걸고, 내가 느끼는 이 깊고 영원한 슬픔을 걸고 맹세한다. 그리고 오 밤이여, 그대를 걸고, 그대를 주관하는 정령들을 걸고 맹세하노라, 이 비참함을 초래한 저 악마를 추적하여 그가 혹은 내가 이 죽음의 투쟁에서 멸망할 때까지 멈추지 않겠노라고.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005-3",
+    "en": "For this purpose I will preserve my life. To carry out this precious revenge, I will see the sun again and tread on the green pastures of the earth. Otherwise, things that would have disappeared before my eyes forever.",
+    "ko": "이 목적을 위해 나는 내 생명을 보존할 것이다. 이 소중한 복수를 실행하기 위해 나는 다시 태양을 보고 땅의 푸른 풀밭을 밟을 것이다. 그렇지 않았다면 영원히 내 눈앞에서 사라졌어야 할 것들을.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P005-4",
+    "en": "And I urge you, spirits of the dead, and wandering messengers of vengeance, to help and guide me in my work. Let that accursed, hellish monster drink from the cup of deep suffering. “Let him feel the despair that is torturing me now.”",
+    "ko": "그리고 죽은 자들의 영혼이여, 또한 방랑하는 복수의 사자들이여, 내 작업에서 나를 돕고 인도해 주기를 촉구한다. 저 저주받고 지옥 같은 괴물이 깊은 고통의 잔을 마시게 하라. 지금 나를 고문하는 이 절망을 그 놈도 느끼게 하라.\"",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006-1",
+    "en": "I began this oath with solemnity and awe, almost certain that the spirits of my slain friends had heard and approved of my devotion, but by the end of the oath the goddesses of vengeance had possessed me, and I was choking with rage.",
+    "ko": "나는 이 맹세를 장엄함과 경외감 속에서 시작했고, 살해당한 친구들의 영혼이 내 헌신을 듣고 승인했다는 것을 거의 확신했지만, 맹세가 끝날 무렵 복수의 여신들이 나를 사로잡았고 분노로 인해 목이 메었다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007-1",
+    "en": "A loud, devilish laugh pierced the silence of the night to answer my oath. The sound rang long and heavy in my ears, and the mountains echoed. It seemed as if all hell surrounded me with mockery and ridicule.",
+    "ko": "밤의 정적을 뚫고 크고 악마적인 웃음소리가 내 맹세에 답했다. 그 소리는 길고 무겁게 내 귓가에 울렸고, 산들이 메아리쳤다. 마치 온 지옥이 조롱과 비웃음으로 나를 둘러싼 것 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P007-2",
+    "en": "Surely at that moment I would have been overcome with madness and would have ended my miserable life, but the thought that my oath had reached heaven and that I was left to seek revenge took hold of me. When the laughter died down, a familiar, disgusting voice spoke to me in a whisper that could be heard very close by. “I’m satisfied, you poor thing!",
+    "ko": "분명 그 순간 나는 광기에 사로잡혀 나의 비참한 생명을 스스로 끊어버렸을 것이나, 나의 맹세가 하늘에 닿아 내가 복수를 위해 남겨졌다는 생각이 나를 붙잡았다. 웃음소리가 잦아들었을 때, 귀에 익은 혐오스러운 목소리가 아주 가까이서 들을 수 있는 속삭임으로 내게 말을 건넸다. \"만족한다, 가련한 놈!",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P007-3",
+    "en": "“I am satisfied because you have decided to live.”",
+    "ko": "네가 살기로 결심했으니 나는 만족한다.\"",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P008-1",
+    "en": "I rushed towards the sound, but the demon escaped my grasp. Suddenly, the wide disk of the moon rose, fully illuminating his pale, distorted form as he fled at inhuman speed.",
+    "ko": "나는 소리가 난 쪽으로 돌진했지만 악마는 내 손아귀를 벗어났다. 갑자기 달의 넓은 원반이 떠오르며 인간을 초월한 속도로 도망치는 그의 창백하고 일그러진 형상을 온전히 비추었다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P009-1",
+    "en": "I chased after him, and for many months this was my mission. Guided by a faint clue, I followed the winding waters of the Rhone River, but it was in vain. The blue Mediterranean Sea appeared, and by a strange coincidence I saw the devil sneaking into a ship heading for the Black Sea at night.",
+    "ko": "나는 그를 뒤쫓았고, 여러 달 동안 이것이 나의 임무였다. 희미한 단서에 이끌려 론 강의 굽이진 물길을 따라갔지만 헛수고였다. 푸른 지중해가 나타났고, 기이한 우연으로 나는 밤에 그 악마가 흑해로 향하는 배에 숨어드는 것을 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P009-2",
+    "en": "I was in the same boat, but he somehow escaped.",
+    "ko": "나도 같은 배를 탔지만, 그놈은 어떻게인지 탈출하고 말았다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P010-1",
+    "en": "In Tartary and in the heart of the Russian wilderness he kept avoiding me, but I always followed him. Sometimes the peasants, frightened by this hideous apparition, would tell me his route, and sometimes he would leave marks to guide me, fearing that I would die of despair if I completely missed his trail.",
+    "ko": "타르타리와 러시아의 황무지 한가운데서 그가 나를 계속 피했지만 나는 항상 그의 뒤를 쫓았다. 때로는 이 끔찍한 유령에 겁을 먹은 농부들이 그의 경로를 내게 알려주었고, 때로는 내가 자신의 흔적을 완전히 놓치면 절망하여 죽을까 봐 두려워한 그가 나를 인도할 표시를 남기기도 했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P010-2",
+    "en": "Snow fell over my head and I saw his huge footprints on the white plain. How can you, who are just starting out in life, who does not know what worry is, what is new, what pain is, understand what I felt and what I still feel? Cold, deprivation, fatigue, etc. were the lightest pains I had to endure.",
+    "ko": "내 머리 위로 눈이 내렸고 나는 하얀 평원 위에 찍힌 그의 거대한 발자국을 보았다. 이제 막 인생을 시작하는 당신, 걱정이 무엇인지 새롭고 고통이 무엇인지 모르는 당신이 내가 무엇을 느꼈고 여전히 느끼고 있는지 어떻게 이해할 수 있겠는가? 추위, 결핍, 피로 등은 내가 견뎌야 했던 고통 중 가장 가벼운 것이었다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P010-3",
+    "en": "I was cursed by some demon to carry my eternal hell with me. But a good spirit always followed and guided my steps, and when I was most complaining, he would suddenly rescue me from seemingly insurmountable difficulties. Sometimes, when Mother Nature collapsed from exhaustion from hunger, a meal was prepared in the middle of the desert to restore and revitalize me.",
+    "ko": "나는 어떤 악마의 저주를 받아 나와 함께 나의 영원한 지옥을 지니고 다녔다. 하지만 선한 정령이 언제나 내 발걸음을 따라다니며 인도했고, 내가 가장 몹시 불평할 때면 겉보기에 극복할 수 없을 것 같은 어려움에서 나를 갑자기 구해내곤 했다. 때때로 허기에 지친 대자연이 기진맥진하여 쓰러질 무렵이면, 사막 한가운데서 나를 회복시키고 생기를 불어넣는 식사가 마련되어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P010-4",
+    "en": "The food was, of course, the coarse food eaten by local farmers, but I had no doubt that it had been placed there by the spirits I had summoned to help me. Often, when the sky was dry and the sky was cloudless and I was burning with thirst, a pale cloud would cover the sky, sprinkle a few drops of water to revive me, and then disappear.",
+    "ko": "그 음식은 물론 현지 농부들이 먹는 거친 것이었지만, 나는 내가 나를 돕도록 불러낸 정령들이 그것을 그곳에 놓아두었다는 것을 의심하지 않았다. 종종 사방이 메마르고 하늘에 구름 한 점 없으며 내가 갈증으로 바싹 타들어 갈 때, 엷은 구름이 하늘을 가리고는 나를 소생시키는 몇 방울의 물을 뿌리고 사라지곤 했다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P011-1",
+    "en": "I followed the river whenever possible, but the devil usually avoided it. This is because the population of the local people was mainly gathered here.",
+    "ko": "나는 가능할 때마다 강줄기를 따라갔으나 악마는 대개 강을 피했다. 왜냐하면 이곳에 그 지역 사람들의 인구가 주로 모여 있었기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P011-2",
+    "en": "Elsewhere I rarely saw humans, and I mostly subsisted on the wild animals that crossed my path. Since I had money, I gave it away and built friendships with the villagers. Or they would bring in the prey they had hunted, keep only a small portion, and always give the rest to those who provided the fire and cooking utensils.",
+    "ko": "다른 곳에서는 인간의 모습을 거의 볼 수 없었고, 나는 대개 내 길을 가로지르는 야생 동물로 연명했다. 나는 돈을 가지고 있었기에 그것을 나누어주어 마을 사람들과 우정을 쌓았다. 또는 사냥한 먹잇감을 가져와서 작은 부분만 챙기고 불과 요리 도구를 제공한 이들에게 항상 나머지를 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P012-1",
+    "en": "My life was going on like this, it was truly disgusting, and the only time I could experience joy was when I was sleeping.",
+    "ko": "이렇게 흘러가는 내 삶은 참으로 혐오스러운 것이었고, 내가 기쁨을 맛볼 수 있는 것은 오직 잠을 잘 때뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P012-2",
+    "en": "O blessed sleep! Often, when I lay down to rest in my most miserable moments, dreams would plunge me into a trance. The spirits that protect me have provided me with these moments, or even hours, of happiness so that I do not lose the strength to complete my pilgrimage.",
+    "ko": "오 축복받은 수면이여! 종종 가장 비참할 때 휴식을 취하려 누우면, 꿈은 나를 황홀경에 빠지게 했다. 나를 수호하는 정령들이 나의 순례를 완수할 힘을 잃지 않도록 이 행복의 순간들, 아니 몇 시간들을 제공해 주었던 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P012-3",
+    "en": "Without this rest, I would have collapsed without being able to overcome the hardships. During the day I was sustained and invigorated by hope for the night. Because in my sleep I saw my friends, my wife, and my beloved country.",
+    "ko": "이 휴식이 없었다면 나는 고난을 이기지 못하고 쓰러졌을 것이다. 낮 동안 나는 밤에 대한 희망으로 지탱하고 기운을 얻었다. 수면 속에서 나는 내 친구들, 내 아내, 그리고 사랑하는 조국을 보았기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P012-4",
+    "en": "I saw my father's kind face again, I heard Elizabeth's voice as if it were being rolled away on a silver platter, and I saw the joy of a healthy, young club. Often, when I was worn out by the arduous march, I persuaded myself that I was dreaming until night came, and that at night I would enjoy reality in the arms of my dearest friends.",
+    "ko": "또다시 자애로운 아버지의 얼굴을 보았고, 엘리자베스의 은쟁반 굴러가는 듯한 목소리를 들었으며, 건강하고 젊은 클러벌이 즐거워하는 모습을 보았다. 종종 고된 행군에 지칠 때면 나는 밤이 올 때까지 꿈을 꾸고 있는 것이며 밤이 되면 가장 사랑하는 친구들의 품에서 현실을 즐길 것이라고 스스로를 설득했다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P012-5",
+    "en": "What painful affection I felt for them! How I clung to their lovely images that sometimes hovered over me even during my waking hours, and how I persuaded myself that they were still alive! At such moments, the desire for revenge that burned within me died in my heart, and I followed the path to destroy the devil more like a task commanded by heaven, a mechanical impulse of some force of which I was not conscious, than a passionate desire of my soul.",
+    "ko": "그들에 대해 내가 느꼈던 이 고통스러운 애정이라니! 때때로 깨어있는 시간조차 나를 맴도는 그들의 사랑스러운 형상에 어떻게 매달렸으며, 그들이 여전히 살아있다고 스스로를 어떻게 설득했던가! 그런 순간에는 내 안에서 타오르던 복수심도 마음속에서 죽어버렸고, 나는 악마를 파멸시키기 위한 길을 걷는 것을 내 영혼의 열렬한 소망이라기보다는 하늘이 명한 과업, 내가 의식하지 못하는 어떤 힘의 기계적인 충동처럼 따랐다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P013-1",
+    "en": "I don't know how the person I'm tracking was feeling.",
+    "ko": "내가 추적하고 있는 자의 심정이 어떠했는지 나는 알 수 없다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P013-2",
+    "en": "Indeed, he sometimes carved words on the bark of trees or left marks on stones to guide me and incite my anger. “My reign is not over yet.” These words were written on one of the inscriptions. “You are alive and my power is intact.",
+    "ko": "참으로 그는 때때로 나무껍질에 글을 새기거나 돌에 흔적을 남겨 나를 인도하고 내 분노를 부추겼다. \"나의 통치는 아직 끝나지 않았다.\" 이 말들이 그 중 어느 비문에 적혀 있었다. \"너는 살아있고 나의 권력은 온전하다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P013-3",
+    "en": "follow me",
+    "ko": "나를 따라오라.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P013-4",
+    "en": "I am looking for the North Pole where the ice is permanent. There you will feel the pain of cold and frost, but I will not flinch. If you follow along before it's too late, you'll find a dead rabbit nearby.",
+    "ko": "나는 얼음이 영원한 북극을 찾고 있다. 그곳에서 너는 추위와 서리의 고통을 느끼겠지만 나는 끄떡없다. 만약 네가 너무 늦지 않게 따라온다면, 이 근처에서 죽은 토끼 한 마리를 발견할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P013-5",
+    "en": "Eat and rejuvenate.",
+    "ko": "먹고 원기를 회복하라.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P013-6",
+    "en": "Come, my enemy. “We still have to wrestle for our lives, but until that time comes, you will have to endure many, many hardships.”",
+    "ko": "오라, 나의 적이여. 우리는 아직 우리 목숨을 걸고 씨름을 해야 하지만, 그 시기가 올 때까지 너는 많고도 고된 시간을 견뎌야만 한다.\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P014-1",
+    "en": "The mocking devil! I swear revenge once again. Once again I offer up torture and death to you, you poor devil.",
+    "ko": "조롱하는 악마! 나는 다시 한번 복수를 맹세한다. 다시 한번 너, 이 가련한 악마에게 고문과 죽음을 헌정한다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P014-2",
+    "en": "I will never give up this search until he or I die. And then, and even now, what an ecstasy I will feel when I join Elizabeth and my departed friends, who are preparing to reward me for my tedious toil and terrible pilgrimage!",
+    "ko": "그 놈이나 내가 죽을 때까지 나는 이 수색을 결코 포기하지 않을 것이다. 그리고 그때, 심지어 지금도 나의 지루한 수고와 끔찍한 순례에 대한 보상을 준비하고 있는 엘리자베스와 먼저 떠난 친구들과 합류할 때 느끼게 될 그 황홀경이란!",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P015-1",
+    "en": "As I still continued my journey north, the snow grew thicker and the cold became more and more unbearable. The farmers were confined to their huts, and only a few strong men, driven by hunger, came out of their hiding places to hunt the animals seeking food. The river was covered with ice and no fish could be caught.",
+    "ko": "내가 여전히 북쪽으로 여행을 계속함에 따라 눈은 짙어지고 추위는 견디기 힘들 정도로 끔찍하게 심해졌다. 농부들은 오두막 안에 틀어박혀 있었고, 오직 소수의 억센 자들만이 굶주림에 쫓겨 숨은 곳에서 나와 먹이를 찾는 동물들을 잡기 위해 밖으로 나섰다. 강은 얼음으로 뒤덮였고 물고기는 한 마리도 잡을 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P015-2",
+    "en": "Thus I was cut off from my main source of food.",
+    "ko": "이리하여 나는 나의 주된 식량 공급원으로부터 차단되었다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P016-1",
+    "en": "My enemy's sense of victory grew as the difficulty of my suffering increased. One epitaph he left behind included this: “Get ready!",
+    "ko": "내 적의 승리감은 내 고난의 난이도가 높아짐에 따라 함께 커졌다. 그가 남긴 한 비문에는 이런 내용이 있었다. \"준비하라!",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P016-2",
+    "en": "Your hard work is just beginning. Cover yourself with fur and prepare food. “You will soon embark on a painful journey that will satisfy my eternal hatred.”",
+    "ko": "너의 수고는 이제 막 시작일 뿐이다. 모피로 몸을 감싸고 식량을 준비하라. 곧 나의 영원한 증오를 만족시킬 고통스러운 여행에 돌입하게 될 테니까.\"",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P017-1",
+    "en": "My courage and patience were further inflamed by these mocking words. I resolved not to fail in my purpose and prayed to heaven for strength, and continued to traverse the vast desert with unwavering passion, until the ocean appeared in the distance, forming the ultimate boundary of the horizon.",
+    "ko": "내 용기와 인내심은 이 조롱 섞인 말들로 인해 더욱 불타올랐다. 나는 목적에 실패하지 않겠다고 다짐하고 하늘에 힘을 달라고 기도하며, 꺾이지 않는 열정으로 광활한 사막을 계속 횡단했고 마침내 저 멀리 바다가 나타나 지평선의 끝 경계를 이뤘다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P017-2",
+    "en": "oh! How different it was from the blue seas of the South! The sea, covered with ice, was only distinguished from land by its unique roughness and ruggedness.",
+    "ko": "오! 남부의 푸른 바다와 얼마나 달랐던가! 얼음으로 덮여 있는 그 바다는 특유의 거칠고 험준함으로 육지와 구별될 뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P017-3",
+    "en": "When the Greeks saw the Mediterranean Sea from the hills of Asia, they shed tears of joy and welcomed the end of their labors with joy. I did not cry, but I fell on my knees and with a full heart thanked my guardian spirit who, despite the taunts of my opponent, had guided me safely to the place where I hoped to meet him and meet him.",
+    "ko": "그리스인들은 아시아의 언덕에서 지중해를 보았을 때 기쁨의 눈물을 흘렸고 자신들의 수고의 끝을 환희로 반겼다. 나는 울지는 않았으나 무릎을 꿇고 충만한 마음으로, 적수의 조롱에도 불구하고 그를 만나 맞붙기를 희망하는 곳으로 무사히 나를 인도해 준 수호 정령에게 감사했다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P018-1",
+    "en": "At this point, a few weeks ago, I acquired a sled and dogs, which allowed me to cross the snow at unimaginable speeds. I don't know if the demon had the same advantage as me, but while I used to lag behind every day in the chase, I now found myself catching up with him. He was only a day ahead when I first saw the sea, and I hoped I could intercept him before he reached the beach.",
+    "ko": "이 시점에서 몇 주 전, 나는 썰매와 개들을 구했고 이 덕분에 상상할 수 없는 속도로 눈밭을 건너왔다. 그 악마가 나와 똑같은 이점을 가졌는지는 모르겠으나, 예전에는 추적에서 매일 뒤처졌던 반면 이제는 그를 따라잡고 있음을 알게 되었다. 내가 처음 바다를 보았을 때 그는 불과 하루 거리에 앞서 있었고, 나는 그가 해변에 도달하기 전에 그를 가로막을 수 있기를 희망했다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P018-2",
+    "en": "Therefore, with renewed courage, I advanced, and in two days I arrived at a humble village on the coast. I questioned the residents about the devil and got accurate information.",
+    "ko": "그러므로 나는 새로운 용기를 얻어 전진했고, 이틀 만에 해안가의 초라한 촌락에 도착했다. 나는 주민들에게 악마에 대해 탐문했고 정확한 정보를 얻었다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P018-3",
+    "en": "According to them, the night before, a gigantic monster had arrived armed with guns and many pistols, and its terrifying appearance had scared the residents of the remote cabin into fleeing. He took their winter provisions, loaded them onto a sledge, commandeered several trained dogs to pull them, harnessed them, and continued that night, to the cheers of the terrified villagers, across the sea in a direction that did not lead to land.",
+    "ko": "그들의 말에 따르면, 전날 밤 거대한 괴물 하나가 총과 많은 권총으로 무장하고 도착하여, 그 무시무시한 외모로 외딴 오두막 주민들을 공포로 내몰아 도망치게 했다는 것이다. 그는 그들의 겨울 식량을 빼앗아 썰매에 싣고는, 그것을 끌기 위해 훈련된 개 여러 마리를 징발해 하네스를 채운 다음, 그날 밤 공포에 질린 마을 사람들의 환호 속에 육지로 이어지지 않는 방향으로 바다를 가로지르는 여행을 계속했다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P018-4",
+    "en": "The villagers assumed that he would soon be destroyed by the ice breaking, or that he would freeze to death in eternal cold.",
+    "ko": "마을 사람들은 그가 곧 얼음이 깨져 파괴되거나 영원한 추위에 얼어 죽을 것이라고 추측했다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P019-1",
+    "en": "Hearing this information, I suffered a temporary fit of despair. He was taken from me, and I had to begin that devastating, endless journey across mountains of icy seas that I, born and raised in a warm, sunny climate, in a cold that even the locals could not endure for long, could not hope to survive. But at the thought that the devil would survive and emerge victorious, my anger and desire for revenge returned, overwhelming all other emotions like a great tide.",
+    "ko": "이 정보를 듣고 나는 일시적인 절망의 발작을 겪었다. 그가 내게서 빠져나갔고, 나는 산더미 같은 얼음 바다를 가로지르는, 현지 주민들조차 오래 견디지 못하는 추위 속에서 따뜻하고 햇살 좋은 기후에서 나고 자란 내가 감히 살아남기를 바랄 수 없는 그 파괴적이고 끝없는 여행을 시작해야만 했다. 하지만 악마가 살아남아 승리할 것이라는 생각에 나의 분노와 복수심이 돌아왔고 마치 거대한 조수처럼 다른 모든 감정을 압도했다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P019-2",
+    "en": "After a short rest while the spirits of the dead hovered around me, urging me to labor and seek revenge, I prepared for my journey.",
+    "ko": "죽은 자들의 영혼이 주위를 맴돌며 내게 수고와 복수를 종용하는 동안 짧은 휴식을 취한 후, 나는 내 여행을 준비했다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P020-1",
+    "en": "I exchanged my land sled for one made for the curves of the icy sea, bought plenty of provisions, and set off on land.",
+    "ko": "나는 육지용 썰매를 얼음 바다의 굴곡에 맞게 만들어진 것으로 교환했고 풍족한 식량을 구입한 뒤 육지를 떠났다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P021-1",
+    "en": "I cannot guess how many days have passed since then, but I overcame misery that I could never have endured had it not been for the eternal feeling of just retribution burning within me. Huge and rugged ice mountains often blocked my path, and I often heard the thunder of the bottom sea threatening my destruction. But frost came again, making the sea route safe.",
+    "ko": "그 후로 며칠이 지났는지는 짐작할 수 없으나, 내 마음속에서 불타오르는 정당한 응보에 대한 영원한 감정이 아니었다면 결코 견딜 수 없었을 비참함을 나는 이겨냈다. 거대하고 험준한 얼음 산들이 종종 내 길을 가로막았고, 나의 파멸을 위협하는 바닥 바다의 천둥소리가 빈번히 들려왔다. 그러나 다시 서리가 내려 바다의 길을 안전하게 만들었다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P022-1",
+    "en": "Based on the amount of food I consumed, I guess I spent three weeks on this trip. As hope was delayed and discouragement returned to my heart, I often squeezed bitter tears of despair and sadness from my eyes. Despair had already almost secured her prey, so I too would soon sink into this misery.",
+    "ko": "내가 소비한 식량의 양으로 보아 나는 이 여행에 3주를 보냈을 것으로 추측한다. 희망이 지연되고 낙담이 마음으로 되돌아오는 일이 반복되면서 종종 눈에서 쓰디쓴 절망과 슬픔의 눈물을 쥐어짜 냈다. 절망이 이미 그녀의 먹이를 거의 확보한 셈이어서 나 역시 곧 이 비참함 속에 가라앉았을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P022-2",
+    "en": "One time, after unbelievable effort, the poor animals carrying me reached the top of a steep icy mountain, and when a dog died from exhaustion, I looked at the wilderness spread out before me in anger. Then, suddenly, a dark dot stood out on the hazy plain. I focused my vision to see what it was, and screamed in ecstasy when I distinguished a sled and the well-known misshapen figure within it.",
+    "ko": "한번은 나를 실어 나르는 불쌍한 동물들이 믿기지 않는 수고 끝에 경사진 얼음 산 정상에 다다랐고, 피로를 견디지 못한 개 한 마리가 죽자 나는 분노 속에서 내 앞에 펼쳐진 광야를 바라보았다. 그때 갑자기 흐릿한 평원 위로 어두운 점 하나가 눈에 띄었다. 그것이 무엇인지 알아보기 위해 시력을 집중했고, 한 대의 썰매와 그 안에 있는 잘 알려진 기형적인 형상을 구별해 냈을 때 황홀경의 비명을 질렀다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P022-3",
+    "en": "oh!",
+    "ko": "오!",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P022-4",
+    "en": "How fervently hope rose and found my heart again! Hot tears filled my eyes, and I quickly wiped them away so as not to block my view of the devil. But my vision was still blurred by those hot teardrops, and I finally gave in to the emotions that were suppressing me and cried out loud.",
+    "ko": "희망이 얼마나 뜨겁게 솟구쳐 내 마음을 다시 찾았던가! 뜨거운 눈물이 눈에 가득 고였고, 악마를 바라보는 내 시야를 가리지 않도록 나는 재빨리 눈물을 닦아냈다. 그러나 내 시야는 그 뜨거운 눈물방울로 여전히 흐려졌고, 마침내 나를 억누르던 감정에 굴복하여 나는 소리 내어 울었다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P023-1",
+    "en": "But now was no time to delay. I relieved the dogs of their dead companion and fed them plenty. After a much-needed but bitterly frustrating hour's rest, I continued on my way.",
+    "ko": "하지만 지금은 지체할 때가 아니었다. 나는 개들에게서 죽은 동료의 무게를 덜어주고 충분한 먹이를 주었다. 꼭 필요하지만 내게는 쓰라리게 짜증 나는 한 시간의 휴식을 취한 후, 나는 길을 계속 갔다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P023-2",
+    "en": "The sledge was still visible, and was never again lost from sight except for a short time when the icy rock obscured it with overhanging cliffs.",
+    "ko": "썰매는 여전히 보였고, 짧은 시간 동안 얼음 바위가 튀어나온 벼랑들로 그것을 가렸을 때를 제외하고는 다시는 시야에서 그것을 놓치지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P023-3",
+    "en": "Clearly I was closing the distance, and my heart pounded when I saw my opponent only a mile away after almost two days of travel.",
+    "ko": "확실히 나는 거리를 좁혀가고 있었고, 거의 이틀간의 여행 끝에 불과 1마일 거리에 있는 내 적수를 보았을 때 내 가슴은 두근거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P024-1",
+    "en": "But just when I thought I had my enemy almost in my grasp, my hopes were suddenly extinguished, and I lost all trace of him more thoroughly than ever before. I could hear the sound of the bottom sea, and the thunder of its progress grew more ominous and fearful every moment as the waves rolled and swelled beneath me.",
+    "ko": "하지만 내 원수를 거의 손아귀에 잡았다고 생각한 순간, 내 희망은 갑자기 꺼져버렸고 나는 그 어느 때보다 철저하게 그의 모든 흔적을 잃고 말았다. 바닥 바다 소리가 들려왔고, 내 밑에서 물결이 구르고 부풀어 오르면서 그 진행의 천둥소리는 매 순간 더 불길하고 두려워졌다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P024-2",
+    "en": "I kept going but in vain.",
+    "ko": "나는 계속 나아갔으나 허사였다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P024-3",
+    "en": "The wind blew and the sea roared, and the ice split and cracked with a terrible, overwhelming sound, like the great shock of an earthquake. The work was soon finished.",
+    "ko": "바람이 불고 바다가 포효하더니, 마치 지진의 거대한 충격처럼 끔찍하고 압도적인 소리를 내며 얼음이 쪼개지고 갈라졌다. 작업은 곧 끝이 났다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P024-4",
+    "en": "In a few minutes the rough sea rolled between me and my enemy, and I found myself drifting on the scattered pieces of ice that kept shrinking and prepared me for such a hideous death.",
+    "ko": "몇 분 만에 나와 내 원수 사이로 거친 바다가 굽이쳤고, 나는 계속 작아지며 이토록 흉측한 죽음을 내게 준비해 주는 흩어진 얼음 조각 위를 표류하게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P025-1",
+    "en": "Many terrible hours passed in this way, several of my dogs died, and I myself was about to sink under layers of pain, when I saw your anchored ship holding out to me the hope of rescue and life. I was surprised to see the sight because I had never imagined that a ship would come this far north.",
+    "ko": "이런 식으로 수많은 무시무시한 시간들이 흘렀고, 내 개들 중 여러 마리가 죽었으며, 나 자신도 겹겹이 쌓인 고통 아래 가라앉으려던 찰나, 구조와 생명의 희망을 내게 내미는 닻을 내린 당신의 배를 보았다. 배가 이렇게 북쪽 멀리까지 온다는 것을 나는 상상조차 못했기에 그 광경을 보고 깜짝 놀랐다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P025-2",
+    "en": "I quickly broke down part of my sled to make an oar, and with it I was able, despite great fatigue, to move my ice raft towards your ship.",
+    "ko": "나는 재빨리 내 썰매의 일부를 부수어 노를 만들었고, 이를 이용해 엄청난 피로를 무릅쓰고 내 얼음 뗏목을 당신의 배 방향으로 옮길 수 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P025-3",
+    "en": "I had decided that if you were going south I would rather throw myself to the mercy of the sea than give up my purpose. I was hoping to persuade you to get me a boat to pursue my enemy. But your route was north.",
+    "ko": "나는 만약 당신이 남쪽으로 가고 있다면 목적을 포기하느니 차라리 바다의 자비에 몸을 맡기겠다고 결심했었다. 나는 당신을 설득해 내 적을 추적할 보트를 하나 얻을 수 있기를 희망했다. 하지만 당신의 항로는 북쪽이었다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P025-4",
+    "en": "When my strength was exhausted you would have put me in a boat, and I would have soon sank into my double suffering and met the death I still fear. Because my mission is not yet complete.",
+    "ko": "내 기력이 다했을 때 당신은 나를 배에 태워주었고, 나는 곧 나의 배가된 고난 속으로 가라앉아 내가 여전히 두려워하는 죽음을 맞이했을 것이다. 왜냐하면 나의 임무는 아직 완수되지 않았기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P026-1",
+    "en": "oh!",
+    "ko": "오!",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P026-2",
+    "en": "When will my guardian spirit lead me to the devil and grant me the rest I so desperately desire? Or should I die and he should live on?",
+    "ko": "나의 수호 정령은 언제쯤 나를 그 악마에게로 이끌어 내가 그토록 바라는 안식을 허락해 줄 것인가? 아니면 나는 죽고 그는 계속 살아남아야 한단 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P026-3",
+    "en": "If I die, swear to me, Walton. I won't let him escape. You will find him and satisfy my vengeance with his death.",
+    "ko": "만약 내가 죽는다면 내게 맹세해 주시오, 왈튼. 그가 도망치지 못하게 하겠다고. 당신이 그를 찾아내어 그의 죽음으로 내 복수를 만족시켜 주겠다고.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P026-4",
+    "en": "But would I dare to ask you to undertake this pilgrimage of mine and bear the hardships I have gone through? No, I'm not that selfish.",
+    "ko": "하지만 내가 감히 당신에게 나의 이 순례를 떠맡고 내가 겪어온 고난을 감내해 달라고 부탁할 수 있을까? 아니, 나는 그렇게 이기적이지 않소.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P026-5",
+    "en": "But if he appears after my death and the messengers of vengeance lead him to you, swear to me that you will not let him survive. I will not allow him to trample on my accumulated suffering and survive victoriously to further add to his dark list of crimes. He is very eloquent and persuasive, and his words once touched my heart, but I cannot trust him.",
+    "ko": "그러나 내가 죽은 뒤 그가 나타난다면, 복수의 사자들이 그를 당신에게 이끈다면, 그가 살아남지 못하게 하겠다고 맹세해 주시오. 그가 나의 누적된 고뇌를 짓밟고 승리하며 살아남아 그의 어두운 범죄 목록을 더 늘리지 못하게 하겠다고. 그는 언변이 뛰어나고 설득력이 있어 한때 그의 말들이 내 마음을 움직인 적도 있었지만, 그를 믿어서는 안 되오.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P026-6",
+    "en": "His soul is as hellish as his exterior, full of betrayal and devilish malice.",
+    "ko": "그의 영혼은 그의 겉모습만큼이나 지옥 같으며 배신과 악마 같은 악의로 가득 차 있소.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P026-7",
+    "en": "Don't listen to him. William, Justin, Clubal, Elizabeth, and father, call on the name of Victor, the most miserable, and plunge your sword into his heart. I will hover by your side and guide the blade accurately.",
+    "ko": "그의 말을 듣지 마시오. 윌리엄, 저스틴, 클러벌, 엘리자베스, 그리고 아버지, 가장 비참한 빅터의 이름을 부르며 당신의 칼을 그의 심장에 꽂으시오. 내가 곁을 맴돌며 그 칼날을 정확히 인도하리다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P027-1",
+    "en": "Walton, continuing the story.",
+    "ko": "왈튼, 이야기를 이어가며.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P028-1",
+    "en": "August 26, 17—year.",
+    "ko": "8월 26일, 17—년.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P029-1",
+    "en": "Margaret, you have read this strange and terrible story.",
+    "ko": "마거릿, 너는 이 기이하고 끔찍한 이야기를 읽었지.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P029-2",
+    "en": "Don't you feel your blood curdling with fear, just as it is freezing my blood right now?",
+    "ko": "지금 내 피를 얼어붙게 하는 것처럼 너의 피도 공포로 굳어지는 것을 느끼지 않니?",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P029-3",
+    "en": "Sometimes he was so overcome by sudden pain that he could not continue his story. Sometimes his cracked, piercing voice barely managed to spit out words full of anguish.",
+    "ko": "때때로 갑작스러운 고통에 사로잡힌 그는 이야기를 계속할 수 없었어. 어떤 때는 그의 갈라지고 찌르는 듯한 목소리가 번뇌로 가득 찬 단어들을 간신히 뱉어냈지.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P029-4",
+    "en": "His clear, lovely eyes sometimes burned with anger, and sometimes they were suppressed by deep sadness and died out in endless misery. Sometimes he controlled his expression and tone, suppressing all traces of agitation, and related the most terrible events in a calm voice.",
+    "ko": "그의 맑고 사랑스러운 두 눈은 어떨 때는 분노로 불타올랐고 어떨 때는 푹 숙인 슬픔에 제압되어 끝없는 비참함 속에 꺼져버렸어. 때때로 그는 자신의 표정과 어조를 통제하며 모든 동요의 흔적을 억누른 채 차분한 목소리로 가장 끔찍한 사건들을 이야기했지.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P029-5",
+    "en": "Then, like an erupting volcano, his face suddenly took on an expression of the wildest anger, and he hurled sharp curses at his persecutors.",
+    "ko": "그러다가 마치 분출하는 화산처럼 그의 얼굴은 갑자기 가장 야생적인 분노의 표정으로 바뀌며 그를 박해한 자에게 날카로운 저주를 퍼부었어.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P030-1",
+    "en": "His story was coherent and told with the appearance of the simplest truth, but I confess that the letters of Felix and Sapphie, shown to me, and the sight of the monster on our ship, gave me greater assurance of the truth of his story than any of his claims, no matter how earnest and consistent, could have been. So does such a monster really exist? There's no doubt about it, but I'm in amazement and wonder.",
+    "ko": "그의 이야기는 일관성이 있고 가장 단순한 진실의 겉모습을 띠며 전해졌지만, 나에게 보여준 펠릭스와 사피의 편지, 그리고 우리 배에서 목격한 괴물의 출현은 그의 주장들이 아무리 열렬하고 일관되더라도 그것보다 그의 이야기가 진실이라는 더 큰 확신을 내게 주었다고 고백할게. 그렇다면 그런 괴물이 정말로 존재한단 말인가! 의심할 수는 없지만, 나는 놀라움과 경이에 빠져 있어.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P030-2",
+    "en": "Sometimes I tried to find out from Frankenstein the details of the creation of the monster, but he was silent on this point.",
+    "ko": "때때로 나는 프랑켄슈타인에게서 괴물이 만들어진 세부 사항을 알아내려 했지만 이 점에 관해서 그는 틈을 보이지 않았어.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P031-1",
+    "en": "“Are you crazy, my friend?” he said “Or where does your reckless curiosity lead you?",
+    "ko": "\"당신 미쳤소, 내 친구?\" 그가 말했지. \"아니면 당신의 분별없는 호기심이 당신을 어디로 이끄는 거요?",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P031-2",
+    "en": "Would you like to create a demonic enemy for yourself and the world? Peace, please have peace! “Do not use my misfortune as a lesson to increase your own misfortune.”",
+    "ko": "당신도 자신과 세상을 위해 악마 같은 적을 창조하고 싶소? 평화, 제발 평화를 가지시오! 나의 불행을 교훈 삼아 당신 자신의 불행을 키우려 들지 마시오.\"",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P032-1",
+    "en": "Frankenstein knew I was writing notes about his history.",
+    "ko": "프랑켄슈타인은 내가 그의 이력에 관한 노트를 작성한다는 것을 알았어.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P032-2",
+    "en": "He demanded to see it, and then made many corrections and additions in his own hands, chiefly those parts which gave life and soul to his conversation with his enemy. “Because you have preserved my story,” he said. “I don’t want the truncated story to be passed down to future generations.”",
+    "ko": "그는 그것을 보여 달라고 요구했고, 그런 다음 그 자신만의 손으로 많은 부분을 수정하고 보완했는데, 주로 그가 적과 나눈 대화에 생명력과 영혼을 불어넣는 부분이었지. \"당신이 내 이야기를 보존해 주었으니,\" 그가 말했어. \"절단된 이야기가 후세에 전해지기를 원치 않소.\"",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P033-1",
+    "en": "As the week went by, I listened to the strangest stories the imagination could ever conjure.",
+    "ko": "이렇게 일주일이 지나가는 동안, 나는 상상력이 만들어낸 것 중 가장 기이한 이야기에 귀를 기울였어.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P033-2",
+    "en": "My thoughts and every emotion of my soul were permeated with this story and with the interest in my guest which his noble and gentle manner aroused. I would like to comfort him, but can I really advise someone who is so infinitely miserable and cut off from all hope of comfort to continue living? Oh no!",
+    "ko": "내 생각과 내 영혼의 모든 감정은 이 이야기와 그의 고결하고 온화한 태도가 불러일으킨 내 손님에 대한 흥미로 흠뻑 젖어버렸어. 나는 그를 위로하고 싶지만, 이토록 무한히 비참하고 모든 위안의 희망이 끊긴 사람에게 과연 계속 살라고 충고할 수 있을까? 오, 아니야!",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P033-3",
+    "en": "Now the only joy he will ever know will be when peace and death will soothe his shattered soul.",
+    "ko": "이제 그가 알 수 있는 유일한 기쁨은 산산이 부서진 그의 영혼을 평화와 죽음으로 달랠 때뿐일 거야.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P033-4",
+    "en": "But he enjoys one consolation that is a product of solitude and delirium. When he converses with his friends in his dreams and derives consolation for his misery or inspiration for revenge from their communication, he believes that it is not a figment of his fantasy but the beings themselves who visit him from a distant world. This belief gives his dreams a kind of solemnity, making them as powerful and interesting to me as the truth.",
+    "ko": "하지만 그는 고독과 섬망의 산물인 한 가지 위안을 즐기고 있어. 그는 꿈속에서 친구들과 대화를 나누며 그 교감으로부터 비참함에 대한 위안이나 복수에 대한 자극을 얻을 때, 그것이 자신의 환상이 지어낸 것이 아니라 먼 세계에서 그를 방문하는 존재들 그 자체라고 믿어. 이 믿음은 그의 몽상에 일종의 엄숙함을 부여하여, 그것들이 내게 진실만큼이나 강렬하고 흥미롭게 다가오게 만들지.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P034-1",
+    "en": "Our conversations aren't always limited to his history and misadventures.",
+    "ko": "우리의 대화가 항상 그의 이력과 불행에만 국한되는 것은 아니야.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P034-2",
+    "en": "He shows endless knowledge and quick and keen understanding of all parts of general literature. His eloquence is so persuasive and moving that I cannot listen to him without tears when he relates a sad event or tries to evoke feelings of pity or love.",
+    "ko": "일반 문학의 모든 부분에 대해 그는 끝없는 지식과 빠르고 날카로운 이해력을 보여줘. 그의 웅변은 설득력이 있고 감동적이어서, 그가 비애에 찬 사건을 이야기하거나 연민이나 사랑의 감정을 불러일으키려 할 때면 나는 눈물 없이는 그의 말을 들을 수가 없어.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P034-3",
+    "en": "You can imagine what a glorious creature he must have been in his prosperous days, to see him so noble and god-like even in ruins! He seems well aware of his own worth and the extent of his downfall.",
+    "ko": "그가 번영했던 시절에는 얼마나 영광스러운 피조물이었을지, 폐허 속에서도 이토록 고귀하고 신과 같은 모습을 보니 짐작이 가! 그는 자신의 가치와 자신이 몰락한 정도의 큼을 잘 알고 있는 듯해.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P035-1",
+    "en": "“When I was younger,” he said. “I believed that I was destined for some great achievement. My emotions were deep, but I had the cool-headedness of judgment that befitted great accomplishments.",
+    "ko": "\"더 젊었을 때,\" 그가 말했어. \"나는 내 자신이 어떤 위대한 업적을 위해 운명 지어졌다고 믿었소. 내 감정은 깊지만, 위대한 성취에 어울리는 냉철한 판단력을 지니고 있었지.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P035-2",
+    "en": "This feeling of the worth of my nature has sustained me in situations where others would have been oppressed. Because I thought it was a sin to waste talents that could be useful to my compatriots in useless sorrow.",
+    "ko": "내 본성의 가치에 대한 이런 느낌은 다른 이들이라면 억눌렸을 상황에서도 나를 지탱해 주었소. 내 동포들에게 유용할 수 있는 재능을 쓸데없는 슬픔 속에 낭비하는 것은 죄악이라고 여겼기 때문이오.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P035-3",
+    "en": "When I thought about what I had accomplished, which was none other than the creation of a sentient, rational animal, I did not consider myself to be one of the common planners.",
+    "ko": "내가 이룩해낸 일, 즉 다름 아닌 감각이 있고 이성적인 동물의 창조라는 과업을 생각할 때, 나는 스스로를 흔해 빠진 계획자들의 무리에 섞일 수 없다고 여겼소.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P035-4",
+    "en": "But this thought that supported me at the beginning of my career now only pushes me deeper into the abyss. All my thoughts and hopes were reduced to nothing, and like the archangel who longed for omnipotence, I was bound to eternal damnation. My imagination was vivid, and my analytical and application skills were strong.",
+    "ko": "하지만 내 경력의 시작에서 나를 지탱해 주었던 이 생각이 이제는 나를 더 깊은 구렁텅이로 밀어 넣을 뿐이오. 내 모든 사색과 희망은 아무것도 아니게 되었고, 전능함을 갈망했던 대천사처럼 나는 영원한 지옥에 묶여 버렸소. 내 상상력은 생생했고, 내 분석력과 응용력은 강렬했지.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P035-5",
+    "en": "Through the combination of these qualities, I conceived and put into practice the idea of ​​creating humanity. Even now, when I think of my daydreams when that work was unfinished, I can't suppress my enthusiasm. In my thoughts I walked through the sky, sometimes exulting in my abilities and sometimes burning with thoughts of the outcome.",
+    "ko": "이 자질들의 결합으로 나는 인류의 창조라는 아이디어를 품고 실행에 옮겼소. 지금도 그 작업이 미완성이었을 때의 나의 몽상들을 떠올리면 열정을 억누를 수가 없소. 내 생각 속에서 나는 하늘을 걸었고, 어떨 때는 내 능력에 환희하다가 어떨 때는 그 결과에 대한 생각으로 불타올랐소.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P035-6",
+    "en": "From childhood I was imbued with high hopes and noble ambitions. But how I have fallen!",
+    "ko": "유년 시절부터 나는 높은 희망과 숭고한 야망으로 물들어 있었지. 하지만 나는 얼마나 추락하고 말았는가!",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P035-7",
+    "en": "oh! 내 친구여, 당신이 예전의 나를 알았더라면, 이토록 몰락한 상태의 나를 알아보지 못했을 것이오. Despair rarely came to my heart, and a high destiny seemed to guide me, but at last I fell to a point where I could never rise again.\"",
+    "ko": "오! 내 친구여, 당신이 예전의 나를 알았더라면, 이토록 몰락한 상태의 나를 알아보지 못했을 것이오. 절망은 내 마음에 거의 찾아오지 않았고, 높은 운명이 나를 이끌어 주는 듯했으나, 마침내 나는 다시는, 다시는 일어날 수 없을 정도로 추락하고 말았소.\"",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P036-1",
+    "en": "So should I lose this wonderful person? I've been desperately wanting a friend, searching for someone who would empathize with me and love me.",
+    "ko": "그렇다면 나는 이 훌륭한 사람을 잃어야만 하는 걸까? 나는 친구를 간절히 원해왔고, 나와 공감하고 나를 사랑해 줄 사람을 찾아 헤맸어.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P036-2",
+    "en": "See, on these desolate seas I have found such a man, but I am afraid that I have gained him only to lose him as soon as I realize his worth. I want to reconcile him with life, but he rejects the idea.",
+    "ko": "보아라, 이 황량한 바다 위에서 나는 그런 사람을 찾았건만, 그의 가치를 깨닫자마자 그를 잃기 위해 그를 얻은 것에 불과할까 두렵다. 나는 그를 삶과 화해시키고 싶지만 그는 그 생각을 물리쳐.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P037-1",
+    "en": "“Thank you, Walton.” he said “For your kind intentions toward such a wretch. But when you speak of new bonds and new affections, do you think there exists anything that can take the place of those who have gone?",
+    "ko": "\"당신에게 감사하오, 왈튼.\" 그가 말했어. \"이처럼 비참한 자에게 베푸는 당신의 친절한 의도에. 하지만 당신이 새로운 유대와 새로운 애정을 말할 때, 떠난 사람들을 대신할 수 있는 것이 존재한다고 생각하시오?",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P037-2",
+    "en": "What man could be my clubby friend, and what woman could be the next Elizabeth? Even when our affections are not strongly drawn by any superior merit, the friends of childhood always retain a certain power in the heart, which no friend later in life can ever acquire. They know our childhood tendencies and they know that they can never be eradicated, no matter how much they may change later in life.",
+    "ko": "어떤 남자가 내게 클러벌 같은 친구가 될 수 있으며, 어떤 여자가 제2의 엘리자베스가 될 수 있단 말이오? 우리의 애정이 어떤 뛰어난 장점에 의해 강하게 이끌리지 않는 경우라도, 유년 시절의 친구들은 항상 마음속에 어떤 힘을 지니고 있어서 나중에 사귄 어떤 친구도 결코 그런 힘을 얻을 수 없소. 그들은 우리의 어린 시절의 성향을 알고 있고, 그것이 나중에 아무리 변할지라도 결코 근절되지 않는다는 것을 알지.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P037-3",
+    "en": "And they can judge our actions with firmer conclusions about the purity of our motives. The brother and sister would not suspect that one had deceived the other or made a false deal if there had been no such sign from early on, but another friend, no matter how strong his attachment, might unintentionally be suspected. But I have enjoyed friends who are dear to me, not only for their habits and associations, but for their own merits, and wherever I may be, the comforting voice of my Elizabeth and her conversations with the club will forever linger in my ears.",
+    "ko": "그리고 그들은 우리 동기의 순수성에 대해 더 확고한 결론으로 우리 행동을 판단할 수 있소. 오누이는, 만약 일찍부터 그런 기미가 보이지 않았다면 한쪽이 다른 쪽을 기만이나 거짓된 거래를 했다고 의심하지 않지만, 다른 친구라면 그가 아무리 강한 애착을 갖고 있더라도 본의 아니게 의심을 받을 수도 있소. 하지만 나는 습관과 유대감뿐만 아니라 그들 자신의 장점들 때문에 소중한 친구들을 누렸고, 내가 어디에 있든 내 엘리자베스의 위로하는 목소리와 클러벌과의 대화가 영원히 귓가에 맴돌 것이오.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P037-4",
+    "en": "They are dead, and there is only one feeling left that can persuade me to preserve my life in such deep solitude. If I am involved in a grand project or plan that will be of great use to my fellow countrymen, I will live to see it through to completion.",
+    "ko": "그들은 죽었고, 이토록 깊은 고독 속에서 내 삶을 보존하도록 나를 설득할 수 있는 단 하나의 감정이 남아 있소. 만약 내가 내 동포들에게 엄청난 쓸모가 될 만한 원대한 사업이나 계획에 관여하고 있다면, 그것을 완수하기 위해 살 수 있을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P037-5",
+    "en": "But that is not my destiny. I must hunt down and destroy the being I gave life to. Then my portion on this earth will be fulfilled, and I will be willing to die.”",
+    "ko": "하지만 그것은 내 운명이 아니오. 나는 내가 생명을 부여한 존재를 추적하여 파멸시켜야 하오. 그러면 이 땅에서 내 몫은 다 채워질 것이고 나는 기꺼이 죽을 수 있소.\"",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P038-1",
+    "en": "To my dear sister,",
+    "ko": "사랑하는 나의 누이에게,",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P039-1",
+    "en": "September 2nd.",
+    "ko": "9월 2일.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P040-1",
+    "en": "I write to you, surrounded by danger, not knowing whether I am destined to see again my beloved country, England, and my dearer friends there. We have no escape and are trapped by huge mountains of ice that threaten to crush my ship at any moment. The brave people I persuade to become my companions seek my help, but I have nothing to offer.",
+    "ko": "나는 온통 위험에 둘러싸인 채 내가 사랑하는 조국 영국과 그곳에 사는 더 소중한 친구들을 다시 볼 운명인지 알지 못한 채 너에게 글을 쓴다. 우리는 피할 길이 없고 언제라도 내 배를 부숴버릴 듯 위협하는 거대한 얼음 산들에 갇혀 있어. 내가 설득하여 동반자가 된 용감한 사람들은 나에게서 도움을 구하지만, 내가 줄 수 있는 것은 아무것도 없단다.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P040-2",
+    "en": "Our situation is as dire as it is dire, but my courage and hope do not abandon me. But it is truly painful to think that the lives of all these people are in danger because of me. If we lose our lives, it's because of my reckless plan.",
+    "ko": "우리의 상황은 끔찍할 만큼 무섭지만, 내 용기와 희망은 나를 버리지 않아. 하지만 이 모든 사람들의 목숨이 나로 인해 위태로워졌다고 생각하면 참으로 고통스럽다. 만약 우리가 목숨을 잃는다면, 그것은 바로 나의 무모한 계획 때문이야.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P041-1",
+    "en": "And Margaret, what is your state of mind? You won't hear that I'm dead, so you'll be anxiously waiting for my return.",
+    "ko": "그리고 마거릿, 너의 마음 상태는 어떨까? 넌 내가 죽었다는 소식을 듣지 못할 테니 불안한 마음으로 내 귀환을 기다리겠지.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P041-2",
+    "en": "Years will pass, and you will fall into despair, but then again you will be tortured by hope. oh!",
+    "ko": "여러 해가 지나고, 넌 절망에 빠지기도 하겠지만 또다시 희망으로 고문당할 거야. 오!",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P041-3",
+    "en": "My dear sister, the sight of you falling ill because your earnest expectations have been frustrated is more terrible than my own death. But you can be happy because you have a husband and lovely children.",
+    "ko": "내 사랑하는 누이여, 너의 간절한 기대가 좌절되어 병들어가는 모습은, 상상만으로도 내 자신의 죽음보다 더 끔찍하구나. 하지만 너에겐 남편과 사랑스러운 아이들이 있으니 행복할 수 있을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P041-4",
+    "en": "May heaven bless you and make you so!",
+    "ko": "하늘이 너를 축복하고 그렇게 만들어주기를!",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P042-1",
+    "en": "My unfortunate guest looks upon me with the tenderest pity. He tries to give me hope and talks to me like life is a precious asset. He reminds me how often similar accidents have occurred to other sailors who have tried to navigate these seas, and without realizing it, he fills my mind with pleasant omens.",
+    "ko": "불행한 내 손님은 가장 부드러운 연민으로 나를 바라보고 있어. 그는 내게 희망을 불어넣으려 애쓰며 생명이 소중한 자산인 양 이야기해. 그는 나에게 이 바다를 항해하려 했던 다른 항해사들에게도 같은 사고가 얼마나 자주 일어났었는지 상기시켜 주고, 나도 모르는 사이에 내 마음을 유쾌한 조짐들로 채워준단다.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P042-2",
+    "en": "Even sailors feel the power of his speech. When he speaks, they no longer despair.",
+    "ko": "심지어 선원들조차 그의 언변의 힘을 느껴. 그가 말할 때 그들은 더 이상 절망하지 않아.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P042-3",
+    "en": "As he breathes energy, the sailors listen to his voice and believe that these great mountains of ice are nothing but molehills that will disappear in an instant before the will of man. But these feelings are temporary. As their expectations are postponed day by day, their hearts fill with fear, and I am very afraid that this despair will lead to riots.",
+    "ko": "그가 에너지를 불어넣으면 선원들은 그의 목소리를 듣는 동안 이 거대한 얼음 산들이 인간의 의지 앞에서는 순식간에 사라질 두더지 굴에 불과하다고 믿지. 하지만 이 감정들은 일시적인 거야. 기대가 하루하루 미뤄지면서 그들의 마음은 두려움으로 차오르고, 나는 이 절망으로 인해 폭동이 일어날까 몹시 두려워.",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P043-1",
+    "en": "September 5th.",
+    "ko": "9월 5일.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "tag": "P044-1",
+    "en": "Although there is a high probability that this letter will never reach you, a scene so interesting has just passed that I cannot help but record it.",
+    "ko": "비록 이 편지가 너에게 결코 닿지 못할 확률이 높지만, 너무나 흥미로운 장면이 방금 지나가서 기록하지 않을 수 없구나.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "tag": "P045-1",
+    "en": "We are still surrounded by mountains of ice, and we are still in imminent danger of being shattered by a collision of ice.",
+    "ko": "우리는 여전히 얼음 산들에 둘러싸여 있고, 여전히 얼음의 충돌로 인해 박살 날 임박한 위험에 처해 있어.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "tag": "P045-2",
+    "en": "The cold is harsh, and many of my unfortunate comrades have already found their graves in this desolate landscape. Frankenstein's health is declining day by day. There is still a faint spark of enthusiasm in his eyes, but he is exhausted, and if he rises suddenly to do something difficult, he soon sinks again into a state of apparent death.",
+    "ko": "추위는 혹독하고, 불행한 내 동지들 중 많은 이들이 이 황량한 풍경 속에서 이미 무덤을 찾았단다. 프랑켄슈타인의 건강은 날로 쇠약해지고 있어. 그의 눈에는 여전히 열띤 불꽃이 희미하게 빛나지만, 그는 기진맥진해 있고 무언가 힘든 일을 하기 위해 갑자기 일어났다가도 이내 다시 명백한 빈사 상태로 가라앉고 말아.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "tag": "P046-1",
+    "en": "In my last letter, I talked about my fears of riots.",
+    "ko": "지난 편지에서 폭동에 대한 두려움을 이야기했었지.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "tag": "P046-2",
+    "en": "This morning, as I sat watching my friend's pale face—half-closed eyes and limp limbs—I was awakened by five or six sailors demanding entry into the cabin. They came in and the leader spoke to me. He said that he and his comrades had come to me as representatives of the rest of the crew and that they would make a request that could not justly be refused.",
+    "ko": "오늘 아침, 내가 친구의 창백한 얼굴—반쯤 감긴 눈과 축 늘어진 사지—을 지켜보며 앉아 있을 때, 선실 입장을 요구하는 대여섯 명의 선원들에 의해 깨어났어. 그들이 들어왔고 리더가 나에게 말을 걸었지. 그는 자신과 동료들이 다른 선원들의 대표로 뽑혀 내게 왔으며, 정당하게 거절할 수 없는 요구를 하겠다고 했어.",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "tag": "P046-3",
+    "en": "We are trapped in the ice and will probably never get out, but I am afraid that if the ice melts and the seaway opens up, I may recklessly continue my voyage and lead them, who miraculously escaped this danger, into new danger. Therefore they demanded that I solemnly promise that if the ship were freed I would immediately turn her bow to the south.",
+    "ko": "우리는 얼음 속에 갇혀 있고 아마도 절대 빠져나가지 못하겠지만, 혹시라도 얼음이 녹아 뱃길이 열릴 경우 내가 무모하게도 항해를 계속하여 기적적으로 이 위험을 넘긴 그들을 새로운 위험 속으로 이끌지 않을까 두렵다는 거였지. 그러므로 그들은 만약 배가 풀려나면 내가 즉시 뱃머리를 남쪽으로 돌리겠다고 엄숙히 약속할 것을 요구했어.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "tag": "P047-1",
+    "en": "This speech haunted me.",
+    "ko": "이 연설은 나를 괴롭혔어.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "tag": "P047-2",
+    "en": "I haven't despaired yet, and I haven't even thought about going back even if I were released. But could this request have been rejected, whether in terms of legitimacy or possibility? While I was hesitating to answer, Frankenstein, who had been silent at first and seemed to have little strength to even pay attention to the matter, suddenly stood up.",
+    "ko": "나는 아직 절망하지 않았고, 풀려난다고 해도 돌아간다는 생각은 미처 해보지 못했거든. 하지만 정당성으로 보나 가능성으로 보나 이 요구를 거절할 수 있었을까? 내가 망설이며 대답을 주춤하고 있을 때, 처음에는 침묵을 지키고 있었고 사실 이 일에 신경 쓸 힘조차 거의 없어 보였던 프랑켄슈타인이 갑자기 몸을 일으켰어.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "tag": "P047-3",
+    "en": "His eyes sparkled and his cheeks flushed with temporary vitality. He said, turning to face the men.",
+    "ko": "그의 눈이 반짝였고 두 뺨은 일시적인 활력으로 붉게 달아올랐지. 남자들을 향해 돌아서며 그가 말했어.",
+    "is_header": false
+  },
+  {
+    "id": 132,
+    "tag": "P048-1",
+    "en": "“What do you mean? What are you asking of your captain? You break your resolve so easily?",
+    "ko": "\"무슨 소리요? 당신들의 선장에게 무엇을 요구하는 거요? 당신들은 그렇게도 쉽게 결심을 꺾는단 말이오?",
+    "is_header": false
+  },
+  {
+    "id": 133,
+    "tag": "P048-2",
+    "en": "Didn't you call this a glorious expedition? And why was it glorious?",
+    "ko": "당신들은 이것을 영광스러운 원정이라 부르지 않았소? 그리고 그것이 왜 영광스러웠소?",
+    "is_header": false
+  },
+  {
+    "id": 134,
+    "tag": "P048-3",
+    "en": "Not because the road was smooth and calm like the southern sea, but because it was full of danger and fear. Not because with each new event your patience must be tested and your courage must be revealed. Not because danger and death were lurking and you had to face them and overcome them.",
+    "ko": "길이 남쪽 바다처럼 평탄하고 잔잔해서가 아니라 위험과 공포로 가득 차 있었기 때문이 아니오. 새로운 사건이 일어날 때마다 당신들의 인내심이 시험받고 용기가 드러나야 했기 때문이 아니오. 위험과 죽음이 도사리고 있었고 당신들이 그것들에 맞서 이겨내야 했기 때문이 아니오.",
+    "is_header": false
+  },
+  {
+    "id": 135,
+    "tag": "P048-4",
+    "en": "This is why it was a glorious and such an honorable journey.",
+    "ko": "이래서 영광스럽고 이래서 명예로운 여정이었소.",
+    "is_header": false
+  },
+  {
+    "id": 136,
+    "tag": "P048-5",
+    "en": "You would later be welcomed as benefactors of humanity, and your names revered as brave men who risked death for honor and the good of humanity. But look now.",
+    "ko": "당신들은 후일 인류의 은인으로 환영받고, 명예와 인류의 이익을 위해 죽음에 맞선 용감한 자들로서 당신들의 이름이 추앙받게 될 것이었소. 그런데 지금 보시오.",
+    "is_header": false
+  },
+  {
+    "id": 137,
+    "tag": "P048-6",
+    "en": "At the first prospect of danger, or, if you will, at the first great and terrible ordeal that will test your courage, you retreat and content yourself with being passed down to posterity as a people powerless to withstand cold and danger. And people will say",
+    "ko": "위험이 처음 예상되자, 아니 원한다면 당신들의 용기를 시험하는 첫 번째 거대하고 끔찍한 시련이 닥치자 뒤로 물러나 추위와 위험을 견딜 힘이 없는 자들로 후세에 전해지는 것에 만족하려 하고 있소. 그리고 사람들은 말할 거요.",
+    "is_header": false
+  },
+  {
+    "id": 138,
+    "tag": "P048-7",
+    "en": "Poor souls, they were so cold that they went back to the warm fireside. Why, if it was something like that, there was no need for such preparation.",
+    "ko": "불쌍한 영혼들, 그들은 너무 추워서 따뜻한 화롯가로 돌아가 버렸다고. 왜, 그 정도 일이라면 이런 준비도 필요 없었소.",
+    "is_header": false
+  },
+  {
+    "id": 139,
+    "tag": "P048-8",
+    "en": "There was no need to come this far and inflict the shame of defeat on your captain just to prove that you were cowards. oh!",
+    "ko": "고작 당신들이 겁쟁이라는 걸 증명하기 위해 이렇게 멀리까지 와서 당신들 선장에게 패배의 수치를 안겨줄 필요는 없었단 말이오. 오!",
+    "is_header": false
+  },
+  {
+    "id": 140,
+    "tag": "P048-9",
+    "en": "Be a man, or more than a man. Be firm in purpose and unwavering like a rock. This ice wasn't made with your hearts.",
+    "ko": "사나이가 되시오, 아니 사나이 이상이 되시오. 목적을 확고히 하고 바위처럼 흔들리지 마시오. 이 얼음은 당신들 마음 같은 걸로 만들어지지 않았소.",
+    "is_header": false
+  },
+  {
+    "id": 141,
+    "tag": "P048-10",
+    "en": "It can change and it cannot withstand your will if you say no. Do not return to your families with a brand of dishonor on your forehead. “Go back as heroes who fought and conquered, who do not know what it is to turn your back on the enemy.”",
+    "ko": "그것은 변할 수 있고 만약 당신들이 안 된다고 말한다면 당신들의 의지를 견뎌낼 수 없소. 당신들의 이마에 불명예의 낙인을 찍은 채 가족들에게 돌아가지 마시오. 싸우고 정복한 영웅들로서, 적에게 등을 보이는 것이 무엇인지 모르는 자들로서 돌아가시오.\"",
+    "is_header": false
+  },
+  {
+    "id": 142,
+    "tag": "P049-1",
+    "en": "He said these words with his voice tuned to the different emotions expressed in his speech and his eyes full of noble determination and heroism. So is it any wonder that these men were moved? They looked at each other and couldn't answer.",
+    "ko": "그는 연설에 표현된 여러 감정들에 따라 목소리를 조율하고 고결한 결단과 영웅주의로 가득 찬 눈빛을 발산하며 이 말을 했어. 그러니 이 남자들이 감동받은 것이 놀라운 일이겠니? 그들은 서로를 쳐다보며 아무 대답도 하지 못했어.",
+    "is_header": false
+  },
+  {
+    "id": 143,
+    "tag": "P049-2",
+    "en": "I said it. Take a step back and think carefully about what you were told. If they really want to go south, I won't lead them further north, but I hope they will regain their courage after careful consideration.",
+    "ko": "내가 말했지. 물러가서 들은 말을 곰곰이 생각해 보라고. 그들이 남쪽으로 가기를 강력히 원한다면 북쪽으로 더 이끌지 않겠지만, 심사숙고 후에 용기를 되찾기를 바란다고 말이야.",
+    "is_header": false
+  },
+  {
+    "id": 144,
+    "tag": "P050-1",
+    "en": "They retreated and I turned to my friend, but he was sinking helplessly and looking almost lifeless.",
+    "ko": "그들은 물러갔고 나는 내 친구를 향해 돌아섰지만, 그는 무기력하게 가라앉아 거의 목숨을 잃은 듯 보였어.",
+    "is_header": false
+  },
+  {
+    "id": 145,
+    "tag": "P051-1",
+    "en": "I don't know how this will end, but I would rather die than die in shame without having achieved my purpose. But I'm afraid that's my fate. Because those who lack thoughts of glory and honor are never willing to continue enduring present hardships.",
+    "ko": "이 일이 어떻게 끝날지 모르겠지만, 나는 내 목적을 이루지 못한 채 수치스럽게 돌아가느니 차라리 죽는 편이 나아. 하지만 내 운명은 그렇게 될 것 같아 두려워. 영광과 명예에 대한 생각이 결여된 자들은 결코 현재의 고난을 기꺼이 계속 견뎌내려 하지 않으니까.",
+    "is_header": false
+  },
+  {
+    "id": 146,
+    "tag": "P052-1",
+    "en": "September 7th.",
+    "ko": "9월 7일.",
+    "is_header": false
+  },
+  {
+    "id": 147,
+    "tag": "P053-1",
+    "en": "The die is cast. We agreed to go back if it wasn't destroyed. Thus my hopes were dashed by cowardice and indecision.",
+    "ko": "주사위는 던져졌다. 우리는 파괴되지 않는다면 돌아가기로 동의했다. 이렇게 내 희망은 비겁함과 우유부단함에 의해 산산이 부서졌다.",
+    "is_header": false
+  },
+  {
+    "id": 148,
+    "tag": "P053-2",
+    "en": "I am going back ignorant and disappointed. It would take more philosophy than I have to endure this injustice patiently.",
+    "ko": "나는 무지하고 실망한 채로 돌아가고 있다. 이 불의를 인내심을 갖고 견디기 위해서는 내가 가진 것보다 더 많은 철학이 필요할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 149,
+    "tag": "P054-1",
+    "en": "September 12th.",
+    "ko": "9월 12일.",
+    "is_header": false
+  },
+  {
+    "id": 150,
+    "tag": "P055-1",
+    "en": "It's all in the past now. I am returning to England.",
+    "ko": "이제 다 지나간 일이다. 나는 영국으로 돌아가고 있다.",
+    "is_header": false
+  },
+  {
+    "id": 151,
+    "tag": "P055-2",
+    "en": "I lost the hope and glory of being useful to the world, and I lost my friends. But, my dear sister, I would like to relate these bitter circumstances to you in detail.",
+    "ko": "나는 세상에 유용해지겠다는 희망과 영광을 잃었고, 나의 친구도 잃었다. 그러나 내 사랑하는 누이여, 나는 이 쓰디쓴 정황들을 네게 자세히 이야기해 보려 한다.",
+    "is_header": false
+  },
+  {
+    "id": 152,
+    "tag": "P055-3",
+    "en": "And as I move toward England and toward you, I will never despair.",
+    "ko": "그리고 내가 영국을 향해, 너를 향해 나아가는 동안에는 결코 절망하지 않으려 한다.",
+    "is_header": false
+  },
+  {
+    "id": 153,
+    "tag": "P056-1",
+    "en": "On September 9, the ice began to move, ice islands split and split apart in all directions, and a thunderous roar was heard in the distance.",
+    "ko": "9월 9일, 얼음이 움직이기 시작했고 얼음 섬들이 사방으로 쪼개지고 갈라지면서 멀리서 천둥 같은 굉음이 들려왔다.",
+    "is_header": false
+  },
+  {
+    "id": 154,
+    "tag": "P056-2",
+    "en": "Since we were in the most imminent danger and could only remain passive, my main attention was focused on my unfortunate guest, whose condition had deteriorated to the point where he was completely bedridden. The ice behind us split and we were pushed northward with great force.",
+    "ko": "우리는 가장 임박한 위험에 처해 있었으나 그저 수동적으로 머물러 있을 수밖에 없었기에, 내 주된 관심은 완전히 병석에 누울 정도로 병세가 악화된 불행한 내 손님에게 집중되었다. 우리 뒤편의 얼음이 갈라지며 강한 힘으로 북쪽을 향해 떠밀려갔다.",
+    "is_header": false
+  },
+  {
+    "id": 155,
+    "tag": "P056-3",
+    "en": "A light breeze began to blow from the west, and on the 11th the sea route to the south was completely opened. When the sailors saw this and realized that their return to their homeland was clearly assured, long and fierce shouts of joy broke out among them.",
+    "ko": "서쪽에서 미풍이 불어오기 시작했고, 11일에는 남쪽으로 향하는 뱃길이 완전히 열렸다. 선원들이 이 광경을 보고 고국으로의 귀환이 명백히 보장되었다는 것을 깨닫자, 길고도 격렬한 환희의 함성이 그들 사이에서 터져 나왔다.",
+    "is_header": false
+  },
+  {
+    "id": 156,
+    "tag": "P056-4",
+    "en": "Frankenstein, who had been dozing off, woke up and asked the cause of the commotion. “What they’re yelling is,” I said. “Because I will be returning to England soon.”",
+    "ko": "졸고 있던 프랑켄슈타인이 깨어나 이 소동의 원인을 물었다. \"그들이 소리치는 건,\" 내가 말했다. \"곧 영국으로 돌아갈 것이기 때문이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 157,
+    "tag": "P057-1",
+    "en": "“So are you really going back?”",
+    "ko": "\"그렇다면 당신은 정말 돌아가는 거요?\"",
+    "is_header": false
+  },
+  {
+    "id": 158,
+    "tag": "P058-1",
+    "en": "\"iced coffee!",
+    "ko": "\"아아!",
+    "is_header": false
+  },
+  {
+    "id": 159,
+    "tag": "P058-2",
+    "en": "exactly. I don't have the talent to withstand their demands. “We can’t force them into danger, so we have to go back.”",
+    "ko": "그렇소. 그들의 요구를 견뎌낼 재간이 없소. 억지로 그들을 위험으로 이끌 수는 없으니 돌아가야만 하오.\"",
+    "is_header": false
+  },
+  {
+    "id": 160,
+    "tag": "P059-1",
+    "en": "“If you wish, do so.",
+    "ko": "\"원한다면 그렇게 하시오.",
+    "is_header": false
+  },
+  {
+    "id": 161,
+    "tag": "P059-2",
+    "en": "But I won't go. You can give up your purpose, but I dare not because my purpose was given to me by heaven. I am weak, but I am sure the spirits who will help me with my revenge will give me enough strength.\" While saying this, he tried hard to get up from the bed, but the effort was too much for him, so he fell backwards again and fainted.",
+    "ko": "하지만 나는 안 갈 거요. 당신은 당신의 목적을 포기할 수 있지만, 내 목적은 하늘이 내게 부여한 것이니 감히 그럴 수 없소. 나는 나약하지만 틀림없이 내 복수를 돕는 정령들이 내게 충분한 힘을 주실 거요.\" 이 말을 하며 그는 침대에서 일어나려 안간힘을 썼으나 그에게는 너무 벅찬 노력이라 다시 뒤로 쓰러지며 기절하고 말았다.",
+    "is_header": false
+  },
+  {
+    "id": 162,
+    "tag": "P060-1",
+    "en": "It took a long time for him to wake up, and many times I wondered if he was dead. Finally he opened his eyes.",
+    "ko": "그가 깨어나기까지는 오랜 시간이 걸렸고, 나는 그가 죽은 것은 아닌지 여러 번 생각했다. 마침내 그가 눈을 떴다.",
+    "is_header": false
+  },
+  {
+    "id": 163,
+    "tag": "P060-2",
+    "en": "He was out of breath and unable to speak. The surgeon instructed us to sedate him and leave him to rest. The surgeon then told me that my friend clearly had only a few hours left to live.",
+    "ko": "그는 숨을 헐떡이며 말도 하지 못했다. 외과의사는 그에게 진정제를 먹이고 안정을 취하게 놔두라고 우리에게 지시했다. 그러면서 외과의사는 내 친구가 살날이 분명 몇 시간 남지 않았다고 내게 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 164,
+    "tag": "P061-1",
+    "en": "His sentence was handed down, and I could only grieve and bear it. I sat by his bed and watched him. His eyes were closed so I thought he was asleep.",
+    "ko": "그의 선고가 내려졌고, 나는 그저 슬퍼하며 참을 수밖에 없었다. 나는 그의 침대 곁에 앉아 그를 지켜보았다. 그의 눈이 감겨 있었기에 나는 그가 잠들었다고 생각했다.",
+    "is_header": false
+  },
+  {
+    "id": 165,
+    "tag": "P061-2",
+    "en": "But soon he called me in a weak voice and told me to come to his side and said this. \"iced coffee!",
+    "ko": "그러나 이내 그가 가느다란 목소리로 나를 부르며 곁으로 오라고 하고는 이렇게 말했다. \"아아!",
+    "is_header": false
+  },
+  {
+    "id": 166,
+    "tag": "P061-3",
+    "en": "All the strength I depended on was gone. I feel that my death is not far off, but that bastard, my enemy and persecutor, may still be alive. Walton, do not think that I still feel, in the last moments of my existence, that burning hatred and passionate revenge that I once expressed.",
+    "ko": "내가 의지했던 힘이 다 빠져나갔소. 내 죽음이 멀지 않았음이 느껴지는데 그놈, 나의 적이자 박해자는 여전히 살아있을지도 모르오. 왈튼, 내 존재의 마지막 순간에 내가 예전에 표현했던 그 불타는 증오와 열렬한 복수심을 여전히 느낀다고는 생각하지 마시오.",
+    "is_header": false
+  },
+  {
+    "id": 167,
+    "tag": "P061-4",
+    "en": "But I feel justified in wishing for the death of my enemy. Over the past few days I have looked back on my past actions and found nothing I could be blamed for.",
+    "ko": "하지만 내 적의 죽음을 바라는 것에 대해서는 정당하다고 느끼고 있소. 지난 며칠 동안 나는 내 과거의 행동들을 돌아보았으나 내가 비난받을 일은 찾지 못했소.",
+    "is_header": false
+  },
+  {
+    "id": 168,
+    "tag": "P061-5",
+    "en": "In the throes of a mad passion I created a rational creature, and it was my duty to secure his happiness and well-being as far as was in my power. That was my duty, but there were other duties that had to take precedence.",
+    "ko": "광적인 열정에 사로잡혀 나는 이성적인 피조물을 창조했고, 내 힘이 닿는 한 그의 행복과 안녕을 보장해 주어야 할 의무가 있었소. 그것이 나의 의무였지만, 그보다 더 우선시되어야 할 의무가 또 있었지.",
+    "is_header": false
+  },
+  {
+    "id": 169,
+    "tag": "P061-6",
+    "en": "The duty towards my countrymen had greater cause to attract my attention, because they involved a greater proportion of happiness or misfortune. From this perspective, I refused the first creature's request to make a companion, and I was right in refusing.",
+    "ko": "내 동족들을 향한 의무가 내 주의를 끌어야 할 더 큰 명분이 있었던 것은 그들이 더 많은 비율의 행복이나 불행을 포함하고 있었기 때문이오. 이런 관점에 의해 나는 첫 번째 피조물의 동반자를 만들어 달라는 요구를 거절했고, 거절한 것은 옳은 일이었소.",
+    "is_header": false
+  },
+  {
+    "id": 170,
+    "tag": "P061-7",
+    "en": "He showed unprecedented malice and selfishness in his evil deeds.",
+    "ko": "그는 전례 없는 악의와 악행에서의 이기심을 보여주었소.",
+    "is_header": false
+  },
+  {
+    "id": 171,
+    "tag": "P061-8",
+    "en": "He destroyed my friends and brought to ruin beings of exquisite sense, happiness and wisdom. And I don't know where this thirst for revenge will end.",
+    "ko": "그는 내 친구들을 파괴했고 절묘한 감각, 행복, 그리고 지혜를 지닌 존재들을 파멸에 몰아넣었지. 또한 이 복수에 대한 갈증이 어디서 끝날지 나는 알지 못하오.",
+    "is_header": false
+  },
+  {
+    "id": 172,
+    "tag": "P061-9",
+    "en": "He deserves to die so that he can make himself miserable so that he cannot make others more miserable.",
+    "ko": "그가 다른 사람들을 더 비참하게 만들 수 없도록 스스로 비참해지기 위해, 그는 죽어 마땅하오.",
+    "is_header": false
+  },
+  {
+    "id": 173,
+    "tag": "P061-10",
+    "en": "The task of destroying him was mine, but I failed. When I was driven by selfish and evil motives, I asked you to take on my unfinished task. And now, guided only by reason and virtue, I would like to ask you that favor again.",
+    "ko": "그를 파멸시켜야 할 임무는 나의 것이었으나 나는 실패했소. 내가 이기적이고 악덕한 동기에 이끌렸을 때, 나는 당신에게 내 끝나지 않은 과업을 맡아달라고 부탁했었지. 그리고 이성과 미덕에 의해서만 이끌리고 있는 지금 다시 그 부탁을 하려 하오.",
+    "is_header": false
+  },
+  {
+    "id": 174,
+    "tag": "P062-1",
+    "en": "“But I cannot ask you to give up your country and your friends to complete this task. Now that you are on your way back to England, there will be little chance of you meeting him.",
+    "ko": "\"하지만 이 과업을 완수하기 위해 당신의 조국과 친구들을 포기하라고 요구할 수는 없소. 이제 당신은 영국으로 돌아가는 길이니 그를 만날 가능성도 거의 없을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 175,
+    "tag": "P062-2",
+    "en": "But I will leave it to you to consider these things and weigh out what is your duty. My judgment and thoughts are already disturbed by the approaching death. I don't dare ask you to do what I think is right.",
+    "ko": "그러나 이러한 점들을 고려하고 무엇이 당신의 의무인지 잘 저울질하는 것은 당신에게 맡기겠소. 내 판단력과 생각들은 가까이 다가온 죽음 때문에 이미 흐트러져 있소. 내 생각에 옳은 일을 당신에게 요구할 엄두는 나지 않소.",
+    "is_header": false
+  },
+  {
+    "id": 176,
+    "tag": "P062-3",
+    "en": "I may still be blinded by passion.",
+    "ko": "나 자신이 여전히 열정에 눈이 멀어 있을지도 모르니까 말이오.",
+    "is_header": false
+  },
+  {
+    "id": 177,
+    "tag": "P063-1",
+    "en": "\"It haunts me that he should survive and become an instrument of disaster. But for everything else, as I await my release moment by minute, this is the only happy time I have had in years. The images of my dead loved ones pass before me, and I run into their arms.",
+    "ko": "\"그 놈이 살아남아 재앙의 도구가 된다는 사실이 나를 괴롭히오. 하지만 그 밖의 모든 면에서 내 석방을 시시각각 기다리고 있는 지금 이 시간은 지난 몇 년 동안 내가 누렸던 유일하게 행복한 시간이오. 사랑하는 죽은 이들의 형상이 내 앞을 스쳐 지나가고, 나는 그들의 품으로 달려가고 있소.",
+    "is_header": false
+  },
+  {
+    "id": 178,
+    "tag": "P063-2",
+    "en": "Hello, Walton!",
+    "ko": "안녕히, 왈튼!",
+    "is_header": false
+  },
+  {
+    "id": 179,
+    "tag": "P063-3",
+    "en": "Find happiness in serenity and shun ambition, even if it is a seemingly harmless ambition that will make you stand out in science and discovery. But why am I saying this? “I myself am weighed down by these hopes, but someone else might succeed.”",
+    "ko": "평온함 속에서 행복을 찾고 야심을 멀리하시오, 설령 그것이 과학과 발견에서 당신을 돋보이게 하려는 겉보기에 무해한 야심이라 할지라도 말이오. 하지만 내가 왜 이런 말을 하는 걸까? 나 자신은 이런 희망들에 짓눌렸지만 다른 누군가는 성공할 수도 있겠지.\"",
+    "is_header": false
+  },
+  {
+    "id": 180,
+    "tag": "P064-1",
+    "en": "As he spoke, his voice grew fainter and fainter, until he grew tired of the crowd and sank into silence.",
+    "ko": "말을 하는 동안 그의 목소리는 점점 희미해졌고 마침내 무리에 지쳐 침묵 속으로 가라앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 181,
+    "tag": "P064-2",
+    "en": "About 30 minutes later he tried to speak again but was unable to open his mouth. He vaguely squeezed my hand and closed his eyes forever. The light of a friendly smile faded from his lips.",
+    "ko": "약 30분 후 그는 다시 말을 하려 시도했으나 입을 열지 못했다. 그는 내 손을 희미하게 쥐었고 영원히 눈을 감았다. 다정한 미소의 빛이 그의 입술에서 스러져갔다.",
+    "is_header": false
+  },
+  {
+    "id": 182,
+    "tag": "P065-1",
+    "en": "Margaret, what can I say about the premature demise of this great soul? What can I say to help you understand the depth of my sadness? Anything I can express will be insufficient and weak.",
+    "ko": "마거릿, 이 위대한 영혼의 때 이른 소멸에 대해 내가 무슨 말을 할 수 있겠니? 내 슬픔의 깊이를 네가 이해할 수 있도록 무슨 말을 할 수 있을까? 내가 표현할 수 있는 모든 것은 불충분하고 미약할 뿐일 거야.",
+    "is_header": false
+  },
+  {
+    "id": 183,
+    "tag": "P065-2",
+    "en": "My tears are flowing and my heart is covered with a cloud of disappointment. But I'm heading to England, and maybe I'll find some solace there.",
+    "ko": "내 눈물은 흐르고 내 마음은 실망의 구름으로 뒤덮여 있다. 그러나 나는 영국을 향해 가고 있고, 그곳에서 위안을 찾을 수 있을지도 모르지.",
+    "is_header": false
+  },
+  {
+    "id": 184,
+    "tag": "P066-1",
+    "en": "The writing stopped. What do these sounds portend?",
+    "ko": "글이 중단되었다. 이 소리들은 무엇을 예고하는가?",
+    "is_header": false
+  },
+  {
+    "id": 185,
+    "tag": "P066-2",
+    "en": "It's midnight. The wind blows smoothly and the watchmen on deck barely move. Again, it sounds like a human voice, but a little more hoarse.",
+    "ko": "자정이다. 바람은 순조롭게 불고 갑판의 당직자들은 거의 미동조차 없다. 또다시 사람의 목소리 같지만 좀 더 쉰 듯한 소리가 들려온다.",
+    "is_header": false
+  },
+  {
+    "id": 186,
+    "tag": "P066-3",
+    "en": "That's the sound coming from the cabin where Frankenstein's remains still lie. I'll have to get up and take a look. Sleep well, my sister.",
+    "ko": "그것은 프랑켄슈타인의 유해가 아직 놓여 있는 선실에서 나는 소리다. 일어나서 살펴봐야겠다. 잘 자라, 내 누이여.",
+    "is_header": false
+  },
+  {
+    "id": 187,
+    "tag": "P067-1",
+    "en": "Great God! What scene just unfolded!",
+    "ko": "위대한 신이여! 방금 무슨 광경이 펼쳐진 것인가!",
+    "is_header": false
+  },
+  {
+    "id": 188,
+    "tag": "P067-2",
+    "en": "I still get dizzy just remembering it. I'm not sure I have the energy to describe it in detail. But the story I have written would be incomplete without this final, wonderful catastrophe.",
+    "ko": "나는 그것을 기억하는 것만으로도 여전히 현기증이 난다. 내가 그것을 상세히 묘사할 힘이 있을지 잘 모르겠다. 하지만 내가 기록한 이 이야기는 이 마지막의 경이로운 재앙 없이는 불완전할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 189,
+    "tag": "P068-1",
+    "en": "I entered the cabin where the body of my unfortunate and wonderful friend lay. Bent over it was a figure that I cannot find the words to describe. He was enormous in stature, but his proportions were misshapen and distorted.",
+    "ko": "나는 나의 불운하고 훌륭했던 친구의 시신이 누워 있는 선실로 들어갔다. 그 위로 내게 묘사할 단어를 찾을 수 없는 형상이 구부리고 있었다. 키는 거대했으나 그 비율은 기형적이고 일그러져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 190,
+    "tag": "P068-2",
+    "en": "As he bent over the coffin, his face was obscured by a mass of long, tangled hair, but an enormous hand stretched out, similar in color and texture to that of the mummy. When he heard my footsteps, he stopped sighing in sadness and fear and jumped towards the window.",
+    "ko": "그가 관 위로 몸을 숙였을 때 그의 얼굴은 길고 엉클어진 머리카락 더미로 가려져 있었지만, 거대한 손 하나가 뻗어 나와 있었는데 색깔이나 질감이 미라의 그것과 같았다. 내 발소리를 듣자 그는 슬픔과 공포의 탄식을 내뱉는 것을 멈추고 창문 쪽으로 뛰어올랐다.",
+    "is_header": false
+  },
+  {
+    "id": 191,
+    "tag": "P068-3",
+    "en": "I have never seen a vision of a face so hideous, so repulsive, so hideously hideous. I involuntarily closed my eyes and tried to remember what my duties were in relation to this destroyer. I called him over.",
+    "ko": "나는 그렇게 끔찍하고, 그렇게 혐오스러우면서도 소름 끼치도록 흉측한 얼굴의 환영을 본 적이 없었다. 나는 무심코 눈을 감았고 이 파괴자와 관련하여 내 의무가 무엇인지 기억해내려 애썼다. 나는 그를 불러 세웠다.",
+    "is_header": false
+  },
+  {
+    "id": 192,
+    "tag": "P069-1",
+    "en": "He stopped and looked at me with eyes full of wonder, then seemed to forget my presence as he turned back to the lifeless body of his creator. His every feature and every gesture seemed to have been stirred up by the wildest fury of some uncontrollable passion.",
+    "ko": "그는 멈춰 서서 놀라움이 가득한 눈으로 나를 바라보더니, 다시 그의 창조자의 생기 없는 시신을 향해 돌아서며 나의 존재를 잊은 듯했다. 그의 이목구비와 몸짓 하나하나는 어떤 통제할 수 없는 열정의 가장 거친 분노에 의해 선동된 것처럼 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 193,
+    "tag": "P070-1",
+    "en": "“This is also my victim!” he shouted. “With his murder, my crime was complete.",
+    "ko": "\"이 또한 나의 희생양이다!\" 그가 외쳤다. \"그의 살인으로 나의 범죄는 완성되었다.",
+    "is_header": false
+  },
+  {
+    "id": 194,
+    "tag": "P070-2",
+    "en": "The miserable continuation of my existence is coming to an end! Oh, Frankenstein! O generous and devoted being!",
+    "ko": "내 존재의 비참한 연속도 끝나가는구나! 오, 프랑켄슈타인! 관대하고 헌신적이었던 존재여!",
+    "is_header": false
+  },
+  {
+    "id": 195,
+    "tag": "P070-3",
+    "en": "What good would it do me to ask for your forgiveness now? This I, who has irrevocably destroyed you by destroying everything you loved. iced coffee!",
+    "ko": "이제 와서 내가 당신에게 용서를 구한들 무슨 소용이 있겠는가? 당신이 사랑했던 모든 것을 파괴함으로써 돌이킬 수 없이 당신을 파괴한 이 내가. 아아!",
+    "is_header": false
+  },
+  {
+    "id": 196,
+    "tag": "P070-4",
+    "en": "He is cold and unable to answer.\"",
+    "ko": "그는 차갑게 식었고 대답할 수 없구나.\"",
+    "is_header": false
+  },
+  {
+    "id": 197,
+    "tag": "P071-1",
+    "en": "His voice was suffocating, and my first impulse to whisper a sense of duty to fulfill my friend's final wish to kill his enemy was quickly shelved by a mixture of curiosity and sympathy. I approached this gigantic being.",
+    "ko": "그의 목소리는 질식할 듯했고, 내 친구의 적을 죽여야 한다는 마지막 소원을 들어야 한다는 의무감을 속삭였던 나의 첫 번째 충동은 어느새 호기심과 동정심이 뒤섞여 유보되었다. 나는 이 거대한 존재에게 다가갔다.",
+    "is_header": false
+  },
+  {
+    "id": 198,
+    "tag": "P071-2",
+    "en": "I couldn't bring myself to look up at his face again. There was something so frightening and unearthly about his hideousness.",
+    "ko": "나는 그의 얼굴을 다시 올려다볼 엄두가 나지 않았다. 그의 흉측함에는 너무나 겁을 주고 이 세상 것이 아닌 듯한 무언가가 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 199,
+    "tag": "P071-3",
+    "en": "I opened my mouth to speak, but the words lingered on my lips and died. The monster continued to pour out wild and incoherent self-blame. Finally, taking advantage of the pause in his stormy passion, I gathered my resolve and spoke to him.",
+    "ko": "나는 입을 열어 말을 하려 했으나 말이 입술에서 맴돌다 죽어버렸다. 괴물은 야생적이고 앞뒤가 맞지 않는 자책을 계속 쏟아냈다. 마침내 나는 그의 폭풍 같은 열정이 멈춘 틈을 타 결심을 모아 그에게 말을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 200,
+    "tag": "P072-1",
+    "en": "“Your repentance,” I said. “Now this is unnecessary. If you had listened to your conscience and heeded the pain of remorse before pushing your devilish revenge to such extremes, Frankenstein would still be alive.”",
+    "ko": "\"너의 회개는,\" 내가 말했다. \"이제 불필요한 짓이다. 만약 네가 악마 같은 복수를 이토록 극단으로 밀어붙이기 전에 양심의 소리에 귀 기울이고 가책의 고통을 주의했더라면, 프랑켄슈타인은 아직 살아 있었을 것이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 201,
+    "tag": "P073-1",
+    "en": "“Are you dreaming?” said the devil. “Do you think I was dead in agony and remorse back then?",
+    "ko": "\"당신은 꿈을 꾸고 있나?\" 악마가 말했다. \"당신은 내가 그때 고뇌와 가책에 죽어 있었다고 생각하나?",
+    "is_header": false
+  },
+  {
+    "id": 202,
+    "tag": "P073-2",
+    "en": "“He,” continued the monster, pointing to the body, “he did not suffer in the accomplishment of that deed.",
+    "ko": "그는,\" 괴물이 시신을 가리키며 계속 말했다. \"그는 그 행위의 성취에서 고통받지 않았소.",
+    "is_header": false
+  },
+  {
+    "id": 203,
+    "tag": "P073-3",
+    "en": "oh! I didn't suffer even one ten-thousandth of the pain I felt while the act dragged on.",
+    "ko": "오! 그 행위가 질질 끌리며 실행되는 동안 내가 느낀 고통의 1만 분의 1조차도 겪지 않았지.",
+    "is_header": false
+  },
+  {
+    "id": 204,
+    "tag": "P073-4",
+    "en": "While my heart was poisoned with remorse, a terrible selfishness oppressed me. Do you think Clubbal's moans were music to my ears? My heart was made to feel love and compassion, but when misery twisted it into evil and hatred, it could not withstand the violent change without torture you can't even imagine.",
+    "ko": "내 마음이 가책으로 중독되어 있는 동안 끔찍한 이기심이 나를 다그쳤소. 클러벌의 신음 소리가 내 귀에 음악처럼 들렸을 것 같소? 내 마음은 본래 사랑과 연민을 느낄 수 있도록 빚어졌으나, 비참함으로 인해 악과 증오로 뒤틀렸을 때, 당신이 상상조차 할 수 없는 고문 없이 그 폭력적인 변화를 견뎌내지는 못했소.",
+    "is_header": false
+  },
+  {
+    "id": 205,
+    "tag": "P074-1",
+    "en": "“After killing Clubbal, I returned to Switzerland, overcome with grief. I pitied Frankenstein.",
+    "ko": "\"클러벌을 살해한 후 나는 스위스로 돌아왔고, 비탄에 빠져 압도되었소. 나는 프랑켄슈타인을 불쌍히 여겼지.",
+    "is_header": false
+  },
+  {
+    "id": 206,
+    "tag": "P074-2",
+    "en": "My pity rose to horror and I loathed myself.",
+    "ko": "내 연민은 공포에 달했고 내 자신이 혐오스러웠소.",
+    "is_header": false
+  },
+  {
+    "id": 207,
+    "tag": "P074-3",
+    "en": "But when I discovered that he, who had created me and was at the same time the culprit of my indescribable suffering, dared to wish for happiness, when I realized that while he had brought me all misery and despair, he was in fact trying to enjoy the feelings and passions from which I was forever cut off, a helpless jealousy and a bitter rage filled me, arousing in me an insatiable thirst for revenge. I remembered my threat and decided to carry it out.",
+    "ko": "하지만 그가, 나를 창조한 동시에 나의 형언할 수 없는 고통의 원흉인 그가 감히 행복을 바란다는 사실을 발견했을 때, 그가 내게 온갖 비참함과 절망을 안겨주면서 정작 자신은 내가 영원히 차단된 감정과 열정을 즐기려 한다는 것을 알았을 때, 무력한 시기심과 쓰디쓴 분노가 나를 채워 채울 수 없는 복수의 갈증을 불러일으켰소. 나는 나의 위협을 기억해 냈고 그것을 실행하겠다고 결심했소.",
+    "is_header": false
+  },
+  {
+    "id": 208,
+    "tag": "P074-4",
+    "en": "I knew that I was preparing a fatal torture for myself, but I was not the master of that impulse, but its slave, and although I loathed it, I could not resist it. But when she died! No, I wasn't miserable then.",
+    "ko": "나는 내 자신을 위해 치명적인 고문을 준비하고 있다는 것을 알았지만, 나는 그 충동의 주인이 아니라 노예였고, 그것을 혐오하면서도 거역할 수는 없었소. 하지만 그녀가 죽었을 때! 아니, 그때 나는 비참하지 않았소.",
+    "is_header": false
+  },
+  {
+    "id": 209,
+    "tag": "P074-5",
+    "en": "I cast off all emotion, conquered all agony, and ran wild in the excesses of my despair. From then on, evil became my good.",
+    "ko": "나는 모든 감정을 벗어던지고 모든 고뇌를 정복하여 내 절망의 과잉 속에서 폭주했소. 그때부터 악은 나의 선이 되었지.",
+    "is_header": false
+  },
+  {
+    "id": 210,
+    "tag": "P074-6",
+    "en": "Driven to this point, I had no choice but to adapt my nature to the elements of my willing choice. Completing my diabolical plan has become an insatiable passion. And now it's over.",
+    "ko": "이 지경까지 몰린 이상, 나는 내가 기꺼이 선택한 요소에 내 본성을 적응시키는 것 외에 다른 선택의 여지가 없었소. 악마적인 내 계획을 완성하는 것은 채울 수 없는 열정이 되었소. 그리고 이제 끝났소.",
+    "is_header": false
+  },
+  {
+    "id": 211,
+    "tag": "P074-7",
+    "en": "“Here is my last victim!”",
+    "ko": "여기에 내 마지막 희생자가 있군!\"",
+    "is_header": false
+  },
+  {
+    "id": 212,
+    "tag": "P075-1",
+    "en": "At first I was moved by his pitiful expressions.",
+    "ko": "나는 처음에는 그의 비참한 표현들에 마음이 움직였다.",
+    "is_header": false
+  },
+  {
+    "id": 213,
+    "tag": "P075-2",
+    "en": "But when I remembered what Frankenstein had said about his eloquence and persuasiveness, and looked again at my friend's lifeless form, the anger burned within me again. \"swine!\" I said. “It’s a good thing you came here to whine over the ruins you created.",
+    "ko": "하지만 프랑켄슈타인이 그의 달변과 설득력에 대해 했던 말을 떠올리고 내 친구의 생기 없는 모습을 다시 바라보았을 때, 내 안에서 분노가 다시 타올랐다. \"비열한 놈!\" 내가 말했다. \"네가 만든 폐허 위에서 징징거리기 위해 여기 온 것은 참으로 잘한 일이다.",
+    "is_header": false
+  },
+  {
+    "id": 214,
+    "tag": "P075-3",
+    "en": "It's like throwing a torch at a pile of buildings and then when they burn down, you sit in the ashes and mourn the downfall. Hypocritical devil!",
+    "ko": "건물 더미에 횃불을 던져놓고 그것들이 다 타버리자 잿더미 속에 앉아 몰락을 슬퍼하는 꼴이군. 위선적인 악마여!",
+    "is_header": false
+  },
+  {
+    "id": 215,
+    "tag": "P075-4",
+    "en": "If the one you mourn was still alive, he would still be a target, the victim of your damned revenge once again. What you feel is not pity.",
+    "ko": "네가 애도하는 그가 아직 살아 있었다면 여전히 그는 표적이 될 것이고, 다시 한번 너의 저주받은 복수의 희생양이 될 것이다. 네가 느끼는 것은 연민이 아니다.",
+    "is_header": false
+  },
+  {
+    "id": 216,
+    "tag": "P075-5",
+    "en": "You only grieve because the victim of your malice is out of your power.”",
+    "ko": "너는 그저 네 악의의 희생자가 네 권력에서 벗어났기 때문에 슬퍼할 뿐이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 217,
+    "tag": "P076-1",
+    "en": "“Oh, no—no,” the monster interrupted me. “But the apparent intention of my actions is bound to convey that impression to you. But I am not seeking a companion who will sympathize with my misery.",
+    "ko": "\"오, 그렇지 않소—그렇지 않소,\" 괴물이 내 말을 가로막았다. \"하지만 내 행동의 의도로 보이는 것 때문에 당신에게 그런 인상이 전달될 수밖에 없겠지. 그러나 나는 내 비참함에 동정해 줄 동료를 구하려는 것이 아니오.",
+    "is_header": false
+  },
+  {
+    "id": 218,
+    "tag": "P076-2",
+    "en": "Because I will never find any empathy. When I first asked for it, what I wanted so much that my whole being overflowed were precisely the feelings of love, happiness and affection for the virtues I wanted to share. But now that virtue has become but a shadow to me, and happiness and affection have turned into bitter and loathsome despair, where can I seek sympathy?",
+    "ko": "나는 결코 어떤 공감도 찾을 수 없을 테니까. 내가 처음 그것을 구했을 때, 내 온 존재가 흘러넘칠 정도로 원했던 것은 바로 내가 나누고 싶었던 미덕에 대한 사랑, 행복과 애정의 감정들이었소. 하지만 이제 미덕이 내게 한낱 그림자가 되고, 행복과 애정이 쓰라리고 혐오스러운 절망으로 변해버린 지금, 내가 무엇에서 동정을 구하겠소?",
+    "is_header": false
+  },
+  {
+    "id": 219,
+    "tag": "P076-3",
+    "en": "I am content to suffer alone while the pain continues.",
+    "ko": "나는 고통이 계속되는 동안 홀로 고통받는 것에 만족하오.",
+    "is_header": false
+  },
+  {
+    "id": 220,
+    "tag": "P076-4",
+    "en": "When I die, I will be content to have disgust and stigma attached to my memory.",
+    "ko": "내가 죽으면, 혐오감과 오명이 내 기억에 실리는 것에 만족하겠소.",
+    "is_header": false
+  },
+  {
+    "id": 221,
+    "tag": "P076-5",
+    "en": "Once my fantasies were lulled by dreams of virtue, fame, and joy. I once had a false hope that I would meet someone who would forgive me for my appearance and love me for the wonderful qualities I displayed.",
+    "ko": "한때 내 환상은 미덕, 명성, 기쁨의 꿈들로 달래졌지. 한때 나는 거짓된 희망으로, 나의 외모를 용서하고 내가 드러낼 수 있는 훌륭한 자질들 때문에 나를 사랑해 줄 존재들을 만날 수 있기를 바랐소.",
+    "is_header": false
+  },
+  {
+    "id": 222,
+    "tag": "P076-6",
+    "en": "I was raised with high ideas of honor and devotion. But now crime has brought me down below the lowest animal. You will find no guilt, no vice, no malice, no misery that can compare to mine.",
+    "ko": "나는 명예와 헌신이라는 높은 생각들로 양육되었지. 하지만 지금은 범죄가 나를 가장 비천한 동물보다 더 밑바닥으로 떨어뜨려 놓았소. 어떤 죄책감도, 어떤 악행도, 어떤 악의도, 어떤 비참함도 내 것과 비교할 수 있는 것은 찾을 수 없을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 223,
+    "tag": "P076-7",
+    "en": "As I run through the list of terrible sins I have committed, I cannot believe that I am the same creature whose mind was once filled with visions of the beauty and grandeur of sublime and transcendent goodness. But it really is.",
+    "ko": "내가 지은 끔찍한 죄의 목록을 훑어볼 때면, 나의 생각이 한때 숭고하고 초월적인 선의 아름다움과 장엄함에 대한 환상으로 가득 차 있었던 바로 그 생명체라는 것을 나조차도 믿을 수 없소. 하지만 진정 그러하오.",
+    "is_header": false
+  },
+  {
+    "id": 224,
+    "tag": "P076-8",
+    "en": "Fallen angels become malicious demons. But even the enemies of gods and men had friends and companions in the wilderness.",
+    "ko": "타락한 천사는 악의적인 악마가 되는 법이지. 그러나 심지어 그 신과 인간의 적조차도 황량함 속에서 친구와 동료들을 가지고 있었소.",
+    "is_header": false
+  },
+  {
+    "id": 225,
+    "tag": "P076-9",
+    "en": "But I'm alone.",
+    "ko": "하지만 나는 혼자요.",
+    "is_header": false
+  },
+  {
+    "id": 226,
+    "tag": "P077-1",
+    "en": "“You who call Frankenstein your friend seem to know about my crimes and his misfortunes.",
+    "ko": "\"프랑켄슈타인을 친구라 부르는 당신은 내 범죄와 그의 불행에 대해 알고 있는 것 같소.",
+    "is_header": false
+  },
+  {
+    "id": 227,
+    "tag": "P077-2",
+    "en": "But even in the details he has given you, he could not possibly have summarized the many hours and months of misery I had to endure, consumed by a helpless passion. Because while I dashed his hopes, I could not satisfy my own desires.",
+    "ko": "하지만 그가 당신에게 말해준 세부 사항들 속에서도 그가 무력한 열정에 소진되며 내가 견뎌야 했던 비참함의 수많은 시간과 달들을 다 요약해 줄 수는 없었을 거요. 내가 그의 희망을 쳐부수는 동안에도 내 자신의 욕망을 충족시키지는 못했기 때문이오.",
+    "is_header": false
+  },
+  {
+    "id": 228,
+    "tag": "P077-3",
+    "en": "Those desires were forever burning and longing. I still wanted love and connection and I was still driven away.",
+    "ko": "그 욕망들은 영원히 불타고 갈망하는 상태였지. 나는 여전히 사랑과 교감을 원했고 나는 여전히 쫓겨났소.",
+    "is_header": false
+  },
+  {
+    "id": 229,
+    "tag": "P077-4",
+    "en": "Is there no injustice here? Should I be considered the only criminal when all mankind has sinned against me? Why don't you hate Felix for insultingly kicking out your friend at the door?",
+    "ko": "여기에 불의는 없소? 온 인류가 내게 죄를 지었는데 나만 유일한 범죄자로 여겨져야 하오? 왜 당신은 문전에서 친구를 모욕적으로 쫓아낸 펠릭스를 미워하지 않소?",
+    "is_header": false
+  },
+  {
+    "id": 230,
+    "tag": "P077-5",
+    "en": "Why don't you curse the father-in-law who tried to destroy his child's savior?",
+    "ko": "왜 당신은 제 자식의 구원자를 파멸시키려 했던 촌부를 저주하지 않소?",
+    "is_header": false
+  },
+  {
+    "id": 231,
+    "tag": "P077-6",
+    "en": "Oh, they are noble and pure beings! Miserable and abandoned, I am the only monster who needs to be thrown out, kicked, and trampled. Even at this very moment, my blood boils at the memory of that injustice.",
+    "ko": "오, 그들은 고결하고 순결한 존재들이지! 비참하고 버림받은 나만이 내쳐지고, 발길질당하고, 짓밟혀야 할 괴물이란 말이오. 지금 이 순간에도 그 불공평한 기억에 내 피가 끓어오르오.",
+    "is_header": false
+  },
+  {
+    "id": 232,
+    "tag": "P078-1",
+    "en": "“But it is true that I am a villain. I have murdered lovely, helpless people.",
+    "ko": "\"하지만 내가 악당이라는 것은 사실이오. 나는 사랑스럽고 무력한 이들을 살해했소.",
+    "is_header": false
+  },
+  {
+    "id": 233,
+    "tag": "P078-2",
+    "en": "They have strangled innocent people in their sleep, and have placed their death grip on the necks of people who have never harmed me or any living being. I have reduced my Creator, a perfect specimen worthy of love and admiration among men, to misery and even pursued him to this irreparable destruction.",
+    "ko": "그들이 잠든 사이에 무고한 이들의 목을 졸랐고, 나나 그 어떤 살아있는 존재에게도 해를 끼친 적이 없는 사람의 목을 죽음의 손길로 틀어쥐었지. 나는 사람들 사이에서 사랑과 찬사를 받을 가치가 있는 완벽한 표본인 나의 창조자를 비참함에 몰아넣었고, 심지어 이 돌이킬 수 없는 파멸까지 그를 뒤쫓았소.",
+    "is_header": false
+  },
+  {
+    "id": 234,
+    "tag": "P078-3",
+    "en": "He lies cold and white in death. You may hate me, but your disgust is nothing compared to the disgust I look at myself.",
+    "ko": "그가 죽음 속에서 차갑고 하얗게 누워 있소. 당신은 나를 미워하겠지만, 당신의 혐오감은 내가 나 자신을 바라보는 혐오감에 비할 수 없소.",
+    "is_header": false
+  },
+  {
+    "id": 235,
+    "tag": "P078-4",
+    "en": "I look at the hand that committed the crime, I think of the heart that imagined it, and I long for the moment when this hand will disappear before my eyes and the imagination will no longer torment my thoughts.",
+    "ko": "나는 범행을 저지른 이 손을 바라보고, 그것을 상상해 낸 이 심장을 생각하며, 이 손이 내 눈앞에서 사라지고 그 상상이 더 이상 내 생각을 괴롭히지 않을 순간을 갈망하오.",
+    "is_header": false
+  },
+  {
+    "id": 236,
+    "tag": "P079-1",
+    "en": "“Have no fear that I will be an instrument of harm in the future. My work is almost done.",
+    "ko": "\"내가 미래에 해악을 끼치는 도구가 될 거라는 두려움은 갖지 마시오. 내 일은 거의 끝났소.",
+    "is_header": false
+  },
+  {
+    "id": 237,
+    "tag": "P079-2",
+    "en": "I do not need your death or the death of any other person to complete the continuation of my existence and complete the work that must be done. All I need is my own death.",
+    "ko": "내 존재의 연속을 마치고 반드시 해야 할 일을 완수하기 위해 당신이나 어떤 다른 사람의 죽음도 필요치 않소. 필요한 것은 나 자신의 죽음뿐이오.",
+    "is_header": false
+  },
+  {
+    "id": 238,
+    "tag": "P079-3",
+    "en": "Do not think that I will be slow in making this sacrifice.",
+    "ko": "내가 이 희생을 치르는 데 느려질 것이라고 생각하지 마시오.",
+    "is_header": false
+  },
+  {
+    "id": 239,
+    "tag": "P079-4",
+    "en": "I will leave your ship on the ice raft that brought me here to the northernmost tip of the Earth. I will gather a pyre and burn this wretched body to ashes, lest my remaining remains provide any clues to the curious and profane who would seek to recreate a being like me. I will die.",
+    "ko": "나는 나를 이곳으로 데려온 얼음 뗏목을 타고 당신의 배를 떠나 지구의 가장 북쪽 끝을 향해 갈 것이오. 나는 장작더미를 모아 이 비참한 육체를 재로 태워버릴 것이며, 내 남은 잔해가 나 같은 존재를 다시 만들어내려 하는 호기심 많고 불경스러운 자에게 어떤 실마리도 제공하지 않게 할 것이오. 나는 죽을 것이오.",
+    "is_header": false
+  },
+  {
+    "id": 240,
+    "tag": "P079-5",
+    "en": "I will no longer experience the pain that is consuming me now or fall prey to unfulfilling yet unquenchable emotions.",
+    "ko": "지금 나를 집어삼키고 있는 고통이나, 채워지지 않으면서도 꺼지지 않는 감정들의 먹잇감이 되는 일을 더 이상 겪지 않을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 241,
+    "tag": "P079-6",
+    "en": "The one who brought me into existence is dead, and when I no longer exist, even the memory of us will quickly disappear.",
+    "ko": "나를 존재하게 한 이는 죽었고, 나 또한 더 이상 존재하지 않게 되면 우리 두 사람에 대한 기억마저 신속하게 사라질 거요.",
+    "is_header": false
+  },
+  {
+    "id": 242,
+    "tag": "P079-7",
+    "en": "I will no longer see the sun or stars or feel the wind on my cheek. Light, sensation and perception will all disappear, and it is in this state that I must find my happiness.",
+    "ko": "나는 더 이상 태양이나 별을 보지 못할 것이고 바람이 뺨을 스치는 것도 느끼지 못하겠지. 빛, 감각, 인식이 모두 사라질 것이며, 바로 이 상태에서 나는 나의 행복을 찾아야만 하오.",
+    "is_header": false
+  },
+  {
+    "id": 243,
+    "tag": "P079-8",
+    "en": "Years ago, when the images this world had to offer first opened up to me, when I felt the pleasant warmth of summer and heard the rustling of leaves and the chirping of birds, and when these were everything to me, I would have wailed if I had to die. But now death is my only solace. Polluted by crime, torn by the bitterest remorse, where can I find rest but in death?",
+    "ko": "몇 년 전, 이 세상이 제공하는 형상들이 내게 처음 열렸을 때, 내가 여름의 유쾌한 온기를 느끼고 바스락거리는 나뭇잎 소리와 새들의 지저귐을 들었을 때, 그리고 이것들이 내게 전부였을 때, 나는 죽어야 한다면 통곡했을 거요. 하지만 지금 죽음은 나의 유일한 위안이오. 범죄로 오염되고 가장 쓰라린 가책으로 찢겨진 내가 죽음 외에 어디서 안식을 찾을 수 있겠소?",
+    "is_header": false
+  },
+  {
+    "id": 244,
+    "tag": "P080-1",
+    "en": "“Hello!",
+    "ko": "\"안녕히!",
+    "is_header": false
+  },
+  {
+    "id": 245,
+    "tag": "P080-2",
+    "en": "I am leaving you. You are the last human my eyes will ever see. Goodbye, Frankenstein!",
+    "ko": "나는 당신을 떠나오. 당신은 내 눈이 보게 될 마지막 인간이오. 안녕히, 프랑켄슈타인!",
+    "is_header": false
+  },
+  {
+    "id": 246,
+    "tag": "P080-3",
+    "en": "If you are still alive and harbor a desire for revenge against me, it will be better satisfied while I live than if I die. But it wasn't like that.",
+    "ko": "만약 당신이 아직 살아있어 나를 향한 복수의 열망을 품고 있다면, 그것은 내가 죽는 것보다 살아있는 동안 더 잘 충족될 것이오. 그러나 그렇지 않았지.",
+    "is_header": false
+  },
+  {
+    "id": 247,
+    "tag": "P080-4",
+    "en": "You wanted my death to prevent me from causing more misery. And just in case, in some way I don't know, you haven't stopped thinking and feeling, you don't want any more revenge from me than I feel right now.",
+    "ko": "당신은 내가 더 큰 비참함을 유발하지 못하도록 나의 죽음을 원했소. 그리고 혹시라도, 내가 모르는 어떤 방식으로 당신이 아직 생각하고 느끼는 것을 멈추지 않았다면, 당신은 지금 내가 느끼는 복수 이상의 복수를 내게 원치 않을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 248,
+    "tag": "P080-5",
+    "en": "Even when you were destroyed, my pain was greater than yours. Because the sting of the most bitter remorse will not stop stinging and festering until death closes the wound forever.",
+    "ko": "당신이 파멸되었을 때에도 나의 고통은 당신의 고통보다 더 컸소. 가장 쓰라린 가책의 독침이 죽음이 상처를 영원히 봉합할 때까지 쑤시고 곪기를 멈추지 않을 테니까.",
+    "is_header": false
+  },
+  {
+    "id": 249,
+    "tag": "P081-1",
+    "en": "“But soon,” he cried, with a sorrowful and solemn passion. “I will die and no longer feel what I feel now. Soon this burning misery will disappear.",
+    "ko": "\"그러나 곧,\" 그는 슬프고도 엄숙한 열정으로 외쳤다. \"나는 죽을 것이고, 지금 내가 느끼는 이것을 더 이상 느끼지 않게 될 것이다. 곧 이 타오르는 비참함은 소멸될 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 250,
+    "tag": "P081-2",
+    "en": "I will climb my pyre in triumph and rejoice in the pain of the tormenting flames.",
+    "ko": "나는 의기양양하게 내 장작더미에 오를 것이고, 고문하는 불꽃의 고통 속에서 환희할 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 251,
+    "tag": "P081-3",
+    "en": "The light from that great fire will slowly disappear, and my ashes will be swept by the wind into the sea. My soul will sleep in peace, and if it thinks, it will certainly not think as it does now.",
+    "ko": "그 대화재의 빛은 서서히 사라지고, 내 재는 바람에 의해 바다로 쓸려갈 것이다. 내 영혼은 평화 속에서 잠들 것이고, 만약 영혼이 생각한다면, 틀림없이 지금처럼 생각하지는 않을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 252,
+    "tag": "P081-4",
+    "en": "Goodbye.\"",
+    "ko": "안녕히.\"",
+    "is_header": false
+  },
+  {
+    "id": 253,
+    "tag": "P082-1",
+    "en": "With these words he jumped from the cabin window onto the ice raft that lay close to the ship. He was soon swept away by the waves and disappeared into the darkness and distance.",
+    "ko": "이 말을 남긴 채 그는 선실 창문에서 배 가까이에 놓여 있던 얼음 뗏목 위로 뛰어내렸다. 그는 곧 파도에 휩쓸려 어둠과 먼 곳으로 사라졌다.",
+    "is_header": false
+  }
+]

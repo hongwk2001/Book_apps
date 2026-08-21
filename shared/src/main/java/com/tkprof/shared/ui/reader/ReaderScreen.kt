@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.ui.reader
+package com.tkprof.shared.ui.reader
 
 import android.app.Activity
 import androidx.compose.ui.res.stringResource
@@ -34,6 +34,11 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.compose.foundation.relocation.BringIntoViewRequester
+import androidx.compose.foundation.relocation.bringIntoViewRequester
+import androidx.compose.ui.platform.LocalDensity
+import androidx.compose.ui.unit.IntOffset
+import androidx.compose.ui.geometry.Rect
 import com.tkprof.shared.model.BilingualParagraph
 import com.tkprof.shared.model.Language
 import com.tkprof.shared.model.Sentence
@@ -146,9 +151,11 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
         ) { padding ->
                     val listState = rememberLazyListState()
                     val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
+                    val fontSizeMultiplier by viewModel.fontSizeMultiplier.collectAsState()
                     
-                    LaunchedEffect(speakingParagraphIndex) {
+                    LaunchedEffect(speakingParagraphIndex, chapter) {
                         if (speakingParagraphIndex >= 0) {
+                            kotlinx.coroutines.delay(150)
                             listState.animateScrollToItem(speakingParagraphIndex)
                         }
                     }
@@ -157,20 +164,55 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 PaywallScreen(chapterNumber, viewModel.bookConfig) { viewModel.billingManager.launchPurchaseFlow(activity) }
             } else {
                 chapter?.let { ch ->
-                    LazyColumn(
-                        state = listState,
-                        contentPadding = PaddingValues(top = padding.calculateTopPadding() + 8.dp, bottom = padding.calculateBottomPadding() + 8.dp, start = 16.dp, end = 16.dp),
-                        verticalArrangement = Arrangement.spacedBy(12.dp)
-                    ) {
-                        items(ch.paragraphs, key = { it.id }) { paragraph ->
-                            ParagraphCard(
-                                paragraph = paragraph,
-                                speakingId = speakingId,
-                                isEnFirst = isEnFirst,
-                                showEn = showEn,
-                                showKo = showKo,
-                                onSentenceClick = { sentenceId -> viewModel.playFromSentence(sentenceId) }
-                            )
+                    // Wrapping in a Box to draw the scrollbar
+                    Box(modifier = Modifier.fillMaxSize().padding(padding)) {
+                        LazyColumn(
+                            state = listState,
+                            contentPadding = PaddingValues(top = 8.dp, bottom = 8.dp, start = 16.dp, end = 16.dp),
+                            verticalArrangement = Arrangement.spacedBy(12.dp)
+                        ) {
+                            items(ch.paragraphs, key = { it.id }) { paragraph ->
+                                ParagraphCard(
+                                    paragraph = paragraph,
+                                    speakingId = speakingId,
+                                    isEnFirst = isEnFirst,
+                                    showEn = showEn,
+                                    showKo = showKo,
+                                    fontSizeMultiplier = fontSizeMultiplier,
+                                    onSentenceClick = { sentenceId -> viewModel.playFromSentence(sentenceId) }
+                                )
+                            }
+                        }
+                        
+                        // Custom Scrollbar
+                        val isScrollbarVisible = listState.layoutInfo.totalItemsCount > 0
+                        if (isScrollbarVisible) {
+                            val totalItems = listState.layoutInfo.totalItemsCount
+                            val visibleItems = listState.layoutInfo.visibleItemsInfo.size
+                            val firstVisible = listState.firstVisibleItemIndex
+                            
+                            if (visibleItems < totalItems) {
+                                BoxWithConstraints(
+                                    modifier = Modifier
+                                        .align(Alignment.TopEnd)
+                                        .fillMaxHeight()
+                                        .padding(end = 4.dp, top = 8.dp, bottom = 8.dp)
+                                        .width(4.dp)
+                                        .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f))
+                                ) {
+                                    val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
+                                    val thumbHeightFraction = (visibleItems.toFloat() / totalItems).coerceIn(0.1f, 1f)
+                                    val trackHeight = maxHeight
+                                    
+                                    Box(
+                                        modifier = Modifier
+                                            .fillMaxWidth()
+                                            .fillMaxHeight(thumbHeightFraction)
+                                            .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
+                                            .background(MaterialTheme.colorScheme.primary, shape = androidx.compose.foundation.shape.RoundedCornerShape(2.dp))
+                                    )
+                                }
+                            }
                         }
                     }
                 } ?: Box(modifier = Modifier.fillMaxSize().padding(padding), contentAlignment = Alignment.Center) { CircularProgressIndicator() }
@@ -186,6 +228,7 @@ private fun ParagraphCard(
     isEnFirst: Boolean,
     showEn: Boolean,
     showKo: Boolean,
+    fontSizeMultiplier: Float,
     onSentenceClick: (String) -> Unit
 ) {
     if (paragraph.is_header) {
@@ -208,13 +251,13 @@ private fun ParagraphCard(
     ) {
         Column(modifier = Modifier.padding(16.dp)) {
             if (isEnFirst) {
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, onSentenceClick)
+                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
                 if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, onSentenceClick)
+                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
             } else {
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, onSentenceClick)
+                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
                 if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, onSentenceClick)
+                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
             }
         }
     }
@@ -227,11 +270,15 @@ private fun SentenceBlock(
     paragraphId: Int,
     speakingId: String?,
     textColor: Color,
+    fontSizeMultiplier: Float,
     onClick: (String) -> Unit
 ) {
     val highlightColor = MaterialTheme.colorScheme.primaryContainer
     
     val sentences = remember(text) { SentenceSplitter.split(text, lang, paragraphId) }
+    
+    val requester = remember { BringIntoViewRequester() }
+    var highlightY by remember { mutableFloatStateOf(0f) }
     
     val annotatedString = buildAnnotatedString {
         sentences.forEach { s ->
@@ -245,15 +292,43 @@ private fun SentenceBlock(
         }
     }
 
-    ClickableText(
-        text = annotatedString,
-        style = MaterialTheme.typography.bodyLarge.copy(lineHeight = 26.sp),
-        onClick = { offset ->
-            annotatedString.getStringAnnotations(tag = "SENTENCE", start = offset, end = offset).firstOrNull()?.let {
-                onClick(it.item)
+    Box {
+        ClickableText(
+            text = annotatedString,
+            style = MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp),
+            onTextLayout = { layoutResult ->
+                val annotation = annotatedString.getStringAnnotations("SENTENCE", 0, annotatedString.length)
+                    .firstOrNull { it.item == speakingId }
+                if (annotation != null) {
+                    val rect = layoutResult.getBoundingBox(annotation.start)
+                    highlightY = rect.top
+                }
+            },
+            onClick = { offset ->
+                annotatedString.getStringAnnotations(tag = "SENTENCE", start = offset, end = offset).firstOrNull()?.let {
+                    onClick(it.item)
+                }
             }
+        )
+        
+        Spacer(
+            modifier = Modifier
+                .padding(top = with(LocalDensity.current) { highlightY.toDp() })
+                .size(1.dp)
+                .bringIntoViewRequester(requester)
+        )
+    }
+    
+    val density = LocalDensity.current
+    LaunchedEffect(speakingId, highlightY) {
+        if (sentences.any { it.id == speakingId }) {
+            // Pad the bounding box by 250dp above and below.
+            // This forces the scrolling list to place the sentence near the center of the screen,
+            // rather than stopping the moment it barely crosses the bottom edge.
+            val padding = with(density) { 250.dp.toPx() }
+            requester.bringIntoView(Rect(0f, -padding, 1f, padding))
         }
-    )
+    }
 }
 
 @Composable

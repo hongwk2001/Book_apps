@@ -1,0 +1,110 @@
+--- ID 38 ---
+EN:
+0: Looking back, we should have planned our attack more thoroughly.
+1: In that moment, even I didn't know what to do or if our ordinary weapons would even work on him.
+2: But Harker was fully prepared to test that.
+3: He gripped his large Kukri dagger tightly and swung it fiercely and suddenly at the Count.
+4: It was an incredibly powerful strike, and if the Count hadn't dodged backward with demon-like speed, he would have been killed.
+5: A second later, and that sharp blade would have pierced his heart.
+KO:
+0: 돌이켜보면 공격 계획을 좀 더 철저히 세웠어야 했다.
+1: 그 순간 나조차도 무엇을 해야 할지, 우리의 평범한 무기들이 과연 놈에게 통하기나 할지 알 수 없었으니까.
+2: 하지만 하커는 기꺼이 그것을 시험해 볼 작정이었다.
+3: 그는 커다란 쿠크리 단검을 단단히 쥐고 맹렬하고 갑작스럽게 백작을 향해 휘둘렀다.
+4: 엄청나게 강력한 일격이었고, 백작이 악마처럼 빠른 속도로 뒤로 피하지 않았다면 목숨을 잃었을 것이다. 1초만 늦었어도 그 날카로운 칼날이 놈의 심장을 꿰뚫었으리라.
+
+--- ID 51 ---
+EN:
+0: We returned to the house with devastated hearts, but surprisingly, Mrs. Harker was waiting for us with a bright face.
+1: It was a truly noble demeanor born from her courage and selflessness.
+2: However, she turned as pale as a ghost as soon as she saw our faces.
+3: She closed her eyes for a second or two as if praying in her heart, and then she spoke cheerfully again.
+KO:
+0: 우리는 참담한 심정으로 집으로 돌아왔지만, 뜻밖에도 하커 부인이 밝은 얼굴로 우리를 기다리고 있었다.
+1: 그녀의 용기와 이타심이 만들어낸 참으로 고귀한 태도였다.
+2: 하지만 그녀는 우리 얼굴을 보자마자 죽은 사람처럼 창백해졌다. 1~2초 동안 눈을 감은 채 마음속으로 기도를 올리는 듯하더니, 다시 활기차게 말했다.
+
+--- ID 60 ---
+EN:
+0: Oh, please hush!
+1: In the name of the good Lord, please be quiet.
+2: Do not say such things, my husband Jonathan.
+3: Your words crush me with fear and terror.
+4: Think about it, dear.
+5: I have been thinking about this all day today.
+6: Maybe... someday...
+7: I might need that pity too.
+8: And someone like you, who has every justified reason to be angry, might not show me that pity!
+9: Oh, my dear!
+10: My husband, if there had been any other way, I would have spared you from having such terrible thoughts.
+KO:
+0: 오, 제발 쉿!
+1: 선하신 하느님의 이름으로 제발 조용히 해요.
+2: 그런 말은 하지 말아요, 내 남편 조나단.
+3: 당신의 그런 말은 날 두려움과 공포로 짓누른다고요.
+4: 생각해 봐요, 여보.
+5: 오늘 하루 종일 이 생각만 했어요.
+6: 어쩌면...
+7: 언젠가...
+8: 나도 그런 연민이 필요할지 모른다고요.
+9: 그리고 분노할 정당한 이유가 있는 당신 같은 누군가가 내게 그 연민을 베풀지 않을지도 모른다고요!
+10: 오, 여보!
+11: 내 남편, 다른 방법이 있었다면 당신이 이런 끔찍한 생각은 하지 않게 해주고 싶었어요.
+
+--- ID 86 ---
+EN:
+0: Oh, my dear Mrs. Mina, what a remarkable change.
+1: Look!
+2: Friend Jonathan, the Mrs. Mina of old has finally returned to us today!" He turned back to Mina and asked affectionately, "Now, how can I help you?
+3: You wouldn't have called me at this early hour for no reason.
+KO:
+0: 오, 사랑하는 미나 부인, 정말 놀라운 변화군요.
+1: 보게나!
+2: 친구 조나단, 예전의 미나 부인이 오늘 드디어 우리에게 돌아왔네!" 그는 다시 미나를 향해 다정하게 물었다.
+3: "자, 내가 무얼 도와주면 될까?
+4: 이 꼭두새벽에 아무 이유 없이 나를 부르진 않았을 테니.
+
+--- ID 107 ---
+EN:
+0: Wait, my friends.
+1: Wherever that ship is, it was just weighing anchor while Madam was speaking.
+2: At this very moment, in the vast Port of London, dozens of ships must be weighing anchor.
+3: Which one of those ships do you intend to find?
+4: Thank God, we have finally found a clue, though we don't yet know where it will lead us.
+5: We have been blind all this time.
+6: Blind like mere mortal men.
+7: Looking back now, the things we should have seen and realized beforehand are so terribly clear!
+8: Ah, I'm sorry.
+9: Was I rambling too much?
+KO:
+0: 기다리게, 친구들.
+1: 그 배가 어디에 있든, 부인이 말하는 동안 막 닻을 올리고 있었네.
+2: 지금 이 순간 거대한 런던 항구에서는 수십 척의 배가 닻을 올리고 있을 거야.
+3: 대체 그중 어느 배를 찾겠다는 건가?
+4: 하느님 감사합니다, 그래도 마침내 단서를 찾았네.
+5: 그 단서가 우리를 어디로 이끌지는 아직 모르지만.
+6: 우리는 그동안 앞을 보지 못했네.
+7: 그저 필멸의 인간들처럼 눈이 멀어 있었던 게야.
+8: 이제 뒤돌아보니, 진작 앞을 내다보고 깨달았어야 했던 것들이 너무도 선명하게 보이네!
+9: 아아, 미안하네.
+10: 내 말이 너무 두서가 없었지?
+
+--- ID 108 ---
+EN:
+0: I finally understand why the Count bothered to grab that money even while his life was threatened by Jonathan's fierce attack.
+1: He intended to flee.
+2: Listen well, flee!
+3: He has only one box of earth left, and he realizes that this London, where so many men are chasing him like hounds after a fox, is no longer safe for him.
+4: He has loaded his last box of earth onto a ship and is leaving England.
+5: He may believe he can escape, but he is dead wrong!
+6: We will track him to the very end.
+KO:
+0: 조나단의 맹렬한 공격에 생명의 위협을 느끼면서도 백작이 왜 굳이 그 돈을 챙겼는지 이제야 알겠네.
+1: 놈은 도망칠 작정이었던 거야.
+2: 잘 듣게, 도망이라네!
+3: 놈은 이제 흙 상자가 단 하나밖에 남지 않았고, 여우를 쫓는 사냥개처럼 수많은 사내들이 자신의 뒤를 쫓고 있는 이 런던이 더 이상 자신에게 안전하지 않다는 걸 깨달은 거지.
+4: 놈은 마지막 흙 상자를 배에 싣고 영국을 떠나고 있네.
+5: 자기는 도망칠 수 있다고 믿겠지만, 천만의 말씀!
+6: 우리는 놈을 끝까지 추적할 거야.
+7: 아서가 사냥할 때 붉은 코트를 입고 외치듯, 사냥감을 찾아라!
+

@@ -1,0 +1,625 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 20: I Shall Live Forever—and Ever—and Ever!",
+    "ko": "제20장: 나는 영원히, 영원히, 영원히 살 거야!",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002-1",
+    "en": "But they were forced to wait more than a week. First, there were some very windy days, and then Colin caught a slight cold. These two setbacks would normally have thrown him into a furious rage.",
+    "ko": "하지만 그들은 일주일이 넘는 시간을 기다려야만 했다. 처음에는 바람이 몹시 심하게 부는 날들이 이어졌고, 그다음에는 콜린이 가벼운 감기에 걸렸다. 평소 같았으면 이 두 가지 불운 때문에 콜린은 불같이 화를 냈을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-2",
+    "en": "However, he was kept busy with so much careful, secret planning. Almost every day, Dickon stopped by, even if only for a few minutes, to share updates about the moor, the lanes, the hedges, and the stream banks. He talked about the homes of otters, badgers, and water rats, as well as birds' nests and field mice burrows.",
+    "ko": "하지만 콜린은 아주 신중하고 비밀스러운 계획들을 세우느라 바쁘게 지냈다. 거의 매일 디콘이 아주 잠깐이라도 들러 황야와 좁은 길, 울타리, 그리고 시냇가 둑의 소식들을 들려주었다. 디콘은 수달, 오소리, 물쥐들의 집뿐만 아니라 새 둥지와 들쥐 굴에 대해서도 이야기해 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-3",
+    "en": "Hearing these intimate details from a real animal charmer made them tremble with excitement. They realized how eagerly and anxiously the whole busy underworld of nature was working.",
+    "ko": "진짜 동물 마술사에게서 이런 생생한 세부 사항들을 직접 전해 듣자, 아이들은 흥분으로 몸을 떨었다. 그들은 분주한 대자연의 땅속 세상 전체가 얼마나 열심히, 그리고 애타게 움직이고 있는지 실감했다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003-1",
+    "en": "\"They are just like us,\" Dickon said, \"only they have to build their homes every year. And it keeps them so busy they really scramble to get them done.\"",
+    "ko": "\"그 녀석들도 우리랑 똑같아유.\" 디콘이 말했다. \"매년 집을 새로 지어야 한다는 것만 빼고 말이쥬. 집 짓느라 어찌나 바쁜지 다들 끝내려고 엄청나게 허둥대고 있어유.\"",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004-1",
+    "en": "The most exciting part, however, was preparing to transport Colin to the garden in complete secrecy. No one could see the wheelchair, Dickon, and Mary after they turned a specific corner of the shrubbery and reached the path outside the ivy-covered walls.",
+    "ko": "하지만 가장 짜릿했던 부분은 콜린을 완벽하게 비밀리에 화원으로 데려갈 준비를 하는 것이었다. 관목숲의 정해진 모퉁이를 돌아 담쟁이덩굴로 뒤덮인 담장 밖 산책로에 이르고 나면, 그 누구도 휠체어와 디콘, 그리고 메리를 볼 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-2",
+    "en": "As the days passed, Colin became more convinced that the mystery of the garden was its greatest charm. Nothing must ruin that. No one must ever suspect they had a secret.",
+    "ko": "날이 갈수록 콜린은 화원의 비밀이야말로 가장 큰 매력이라고 더욱 확신하게 되었다. 그 무엇도 그것을 망쳐서는 안 되었다. 그 누구도 그들에게 비밀이 있다는 사실을 눈치채서는 안 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-3",
+    "en": "People had to think he was simply going outside with Mary and Dickon because he liked them and didn't mind them looking at him. They had long, delightful talks about their route. They planned to go up one path, down another, cross over, and circle the fountain flowerbeds, pretending to look at the newly planted flowers that Mr. Roach, the head gardener, had laid out.",
+    "ko": "사람들은 콜린이 메리와 디콘이 마음에 들었고 그들이 자신을 쳐다보는 것을 상관하지 않아서, 단순히 그들과 함께 밖으로 나가는 것뿐이라고 생각해야 했다. 그들은 이동 경로에 대해 길고도 즐거운 이야기를 나누었다. 그들은 한 길로 올라갔다가 다른 길로 내려가고, 중간에 가로질러 분수대 화단을 돌며, 정원장인 로치 씨가 새로 심어 놓은 꽃들을 구경하는 척하기로 계획했다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-4",
+    "en": "It would look so normal that no one would suspect a thing. Then they would turn into the shrubbery paths and disappear until they reached the long walls. The plan was as serious and detailed as a military strategy designed by great generals in wartime.",
+    "ko": "아주 자연스러워 보여서 아무도 의심하지 않을 터였다. 그러고 나서는 관목숲 길로 접어들어 긴 담장에 닿을 때까지 사라지는 것이었다. 이 계획은 전쟁 중에 위대한 장군들이 설계하는 군사 작전만큼이나 진지하고 정밀했다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-1",
+    "en": "Rumors of the strange new things happening in the boy's rooms had naturally spread from the servants' hall to the stables and the gardeners. Even so, Mr. Roach was startled one day when he received orders to go to Master Colin's room. He was told to report to the very apartment that no outsider had ever seen, because the young master wanted to speak to him in person.",
+    "ko": "그 도련님의 방에서 일어나고 있는 기이하고 새로운 일들에 대한 소문은 하인들 대기실에서 마구간과 정원사들에게로 자연스럽게 퍼져 나갔다. 그렇다 하더라도, 어느 날 로치 씨는 콜린 도련님의 방으로 오라는 명령을 받고 깜짝 놀랐다. 외부인은 아무도 본 적이 없는 바로 그 방으로 가야 한다는 말을 들었는데, 젊은 도련님이 직접 그와 이야기하고 싶어 했기 때문이었다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P006-1",
+    "en": "\"Well, well,\" he said to himself as he quickly changed his coat. \"What is going on now? His Royal Highness, who refused to let anyone look at him, is calling for a man he has never even seen.\"",
+    "ko": "\"허 참, 참나.\" 그는 서둘러 코트를 갈아입으며 혼잣말을 했다. \"이번엔 또 무슨 일이래? 남들이 자기 얼굴 보는 것도 싫어하시던 전하께서 평생 본 적도 없는 사람을 다 부르시고 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P007-1",
+    "en": "Mr. Roach was quite curious. He had never caught even a glimpse of the boy and had heard dozens of exaggerated stories about his strange looks, his behavior, and his wild temper tantrums.",
+    "ko": "로치 씨는 꽤나 궁금했다. 그는 그 소년을 단 한 번도 본 적이 없었고, 그의 기이한 외모와 행동거지, 그리고 걷잡을 수 없는 불같은 성미에 관한 과장된 소문들을 수없이 전해 들은 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P007-2",
+    "en": "The most common rumor was that he might die at any moment. People who had never even seen him had spread vivid descriptions of a hunched back and useless limbs.",
+    "ko": "가장 널리 퍼진 소문은 도련님이 언제 죽을지 모른다는 것이었다. 그를 구경조차 못 해본 사람들이 굽은 등과 쓰지 못하는 다리에 대해 마치 눈앞에서 본 것처럼 생생하게 묘사하며 떠들어 댔다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P008",
+    "en": "\"Things are changing in this house, Mr. Roach,\" Mrs. Medlock said, leading him up the back staircase to the corridor outside the mysterious room.",
+    "ko": "\"이 집도 변하고 있어요, 로치 씨.\" 메들록 부인이 그를 데리고 뒷계단을 올라 비밀스러운 방 밖의 복도로 인도하며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P009",
+    "en": "\"Let's hope they are changing for the better, Mrs. Medlock,\" he replied.",
+    "ko": "\"좋은 방향으로 변하는 것이기를 바라야겠지요, 메들록 부인.\" 그가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P010-1",
+    "en": "\"They could hardly change for the worse,\" she continued. \"And strange as it all is, some of us are finding our work a lot easier to bear. Don't be surprised, Mr. Roach, if you walk into a miniature zoo, with Martha Sowerby's Dickon looking more at home than you or I ever could.\"",
+    "ko": "\"이보다 더 나빠질 수도 없으니까요.\" 그녀가 말을 이었다. \"그리고 이 모든 게 이상하긴 하지만, 우리 하인들 중 몇몇은 일이 훨씬 수월해졌다고 느껴요. 로치 씨, 방에 들어섰을 때 작은 동물원 같아 보이더라도 놀라지 마세요. 마사 소어비네 디콘 녀석이 당신이나 나보다 훨씬 더 제집 안방처럼 편안하게 앉아 있을 테니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P011",
+    "en": "There really was a kind of magic about Dickon, just as Mary had always believed in secret. When Mr. Roach heard his name, his expression softened and he smiled.",
+    "ko": "메리가 남몰래 굳게 믿어 왔던 것처럼, 디콘에게는 정말로 어떤 마술 같은 힘이 있었다. 로치 씨는 그 이름을 듣자 얼굴빛이 부드러워지며 미소를 지었다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P012-1",
+    "en": "\"He would be at home in Buckingham Palace or at the bottom of a coal mine,\" he said. \"And yet it is not rudeness at all. He is just a wonderful lad.\"",
+    "ko": "\"그 녀석은 버킹엄 궁전에 내놓든 탄광 구석에 처박아 두든 제집처럼 편하게 지낼 겁니다.\" 그가 말했다. \"그렇다고 무례하게 굴지도 않지요. 참 신기하고 멋진 녀석이에요.\"",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P013-1",
+    "en": "It was a good thing he had been prepared, or he might have been startled.",
+    "ko": "미리 귀띔을 받은 것이 참 다행이었다. 그렇지 않았다면 크게 놀라 자빠졌을 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P013-2",
+    "en": "When the bedroom door opened, a large crow perched comfortably on the high back of a carved chair announced the visitor by calling out \"Caw! Caw!\" very loudly. Despite Mrs. Medlock's warning, Mr. Roach barely managed to keep his dignity and avoid jumping backward.",
+    "ko": "침실 문이 열리자마자 조각된 의자의 높은 등받이에 편안히 앉아 있던 커다란 까마귀가 \"까악! 까악!\" 하고 몹시 크게 울어대며 방문객을 맞이했기 때문이다. 메들록 부인이 미리 경고해 주었음에도, 로치 씨는 채신머리없이 뒤로 펄쩍 물러서지 않으려고 품위를 유지하느라 몹시 애를 써야 했다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P014-1",
+    "en": "The young master was neither in bed nor on his sofa. He was sitting in an armchair, and a young lamb stood beside him, wagging its tail the way lambs do when feeding, while Dickon knelt to feed it milk from a bottle.",
+    "ko": "어린 도련님은 침대에도 소파에도 누워 있지 않았다. 그는 안락의자에 앉아 있었고, 그 곁에는 어린 양 한 마리가 서서 젖을 먹을 때 하듯이 꼬리를 살랑살랑 흔들고 있었다. 디콘은 한쪽 무릎을 꿇고 젖병으로 양에게 우유를 먹이고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P014-2",
+    "en": "A squirrel perched on Dickon's bent back, carefully nibbling a nut. The little girl from India sat on a large footstool, watching the scene.",
+    "ko": "다람쥐 한 마리가 디콘의 구부정한 등 위에 걸터앉아 조심스럽게 견과류를 갉아 먹고 있었다. 인도에서 온 꼬마 아가씨는 커다란 발판 의자에 앉아 그 광경을 지켜보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P015",
+    "en": "\"Here is Mr. Roach, Master Colin,\" Mrs. Medlock said.",
+    "ko": "\"콜린 도련님, 로치 씨가 왔습니다.\" 메들록 부인이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P016",
+    "en": "The young master turned and inspected his employee—at least, that was how the head gardener felt.",
+    "ko": "어린 도련님은 고개를 돌려 자신의 아랫사람을 유심히 뜯어보았다. 적어도 수석 정원사는 그렇게 느꼈다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P017",
+    "en": "\"Oh, you are Roach, are you?\" he said. \"I sent for you to give you some very important orders.\"",
+    "ko": "\"아, 자네가 로치인가?\" 도련님이 말했다. \"아주 중요한 지시를 내리려고 불렀네.\"",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P018",
+    "en": "\"Very good, sir,\" Roach answered, wondering if he was about to be ordered to cut down all the oak trees in the park or turn the fruit orchards into water gardens.",
+    "ko": "\"예, 도련님.\" 로치가 대답했다. 그는 공원에 있는 참나무들을 전부 베어 버리라거나 과수원을 수중 정원으로 바꾸라는 둥의 터무니없는 지시를 받게 되는 건 아닐까 내심 걱정하면서 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P019-1",
+    "en": "\"I am going out in my wheelchair this afternoon,\" Colin said. \"If the fresh air agrees with me, I may go out every day.\"",
+    "ko": "\"오늘 오후에 휠체어를 타고 밖으로 나갈 걸세.\" 콜린이 말했다. \"바깥공기가 내 몸에 잘 맞으면 매일 나갈지도 모르지.\"",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P019-2",
+    "en": "\"When I do, none of the gardeners are to be anywhere near the Long Walk by the garden walls. No one is to be there. I will go out around two o'clock, and everyone must stay away until I send word that they can return to their work.\"",
+    "ko": "\"내가 나갈 때는 정원사들 중 누구도 정원 담장 옆 긴 산책로 근처에 얼씬거려서는 안 되네. 그곳엔 아무도 없어야 해. 나는 두 시쯤 나갈 테니, 내가 다시 일터로 돌아가도 좋다는 전갈을 보낼 때까지 다들 멀리 떨어져 있도록 하게.\"",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P020",
+    "en": "\"Very good, sir,\" Mr. Roach replied, very relieved to hear that the oak trees and orchards were safe.",
+    "ko": "\"예, 도련님.\" 로치 씨가 대답했다. 참나무들과 과수원이 무사하다는 사실에 마음이 아주 홀가분해져서 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P021",
+    "en": "\"Mary,\" Colin said, turning to her, \"what is that phrase you use in India when you are finished talking and want people to leave?\"",
+    "ko": "\"메리,\" 콜린이 그녀에게 고개를 돌리며 말했다. \"인도에서는 할 말이 끝나서 사람들을 물러가게 할 때 뭐라고 말하지?\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P022",
+    "en": "\"You say, 'You have my permission to go,'\" Mary answered.",
+    "ko": "\"‘물러가도 좋다’라고 해.\" 메리가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P023",
+    "en": "Colin waved his hand.",
+    "ko": "콜린이 가볍게 손짓을 해 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P024",
+    "en": "\"You have my permission to go, Roach,\" he said. \"But remember, this is very important.\"",
+    "ko": "\"물러가도 좋다, 로치.\" 그가 말했다. \"하지만 명심하게, 이건 아주 중요한 일이니까.\"",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P025",
+    "en": "\"Caw! Caw!\" the crow remarked, hoarse but not impolite.",
+    "ko": "\"까악! 까악!\" 까마귀가 쉰 목소리로 울었지만 무례하게 들리지는 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P026-1",
+    "en": "\"Very good, sir. Thank you, sir,\" Mr. Roach said, and Mrs. Medlock led him out of the room.",
+    "ko": "\"잘 알겠습니다, 도련님. 감사합니다.\" 로치 씨가 대답하자, 메들록 부인이 그를 방 밖으로 인도했다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P027",
+    "en": "Outside in the corridor, because he was a good-natured man, he smiled and then let out a quiet laugh.",
+    "ko": "그는 본래 성품이 너그러운 사람인지라, 복도로 나와서 미소를 짓더니 이내 픽 하고 나직이 웃음을 터뜨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P028-1",
+    "en": "\"My goodness!\" he said. \"He has a very lordly way about him, doesn't he? You would think he was a whole royal family rolled into one.\"",
+    "ko": "\"세상에나!\" 그가 말했다. \"아주 당당하게 거드름을 피우는군, 안 그렇습니까? 왕실 가족 전체를 하나로 뭉쳐 놓은 것 같단 말입니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P029",
+    "en": "\"Yes,\" Mrs. Medlock sighed. \"We have had to let him walk all over us ever since he had feet, and he thinks that is what people were born for.\"",
+    "ko": "\"그 애가 태어나 발을 갖게 된 날부터 줄곧 우릴 마음대로 휘두르도록 놔두어야 했으니, 다른 사람들이 다 자기를 받들기 위해 태어난 줄 아는 게지요.\" 메들록 부인이 한숨을 쉬었다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P030",
+    "en": "\"Perhaps he will grow out of it, if he lives,\" Mr. Roach suggested.",
+    "ko": "\"살아만 준다면 커 가면서 철이 들겠지요.\" 로치 씨가 넌지시 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P031-1",
+    "en": "\"Well, one thing is certain,\" Mrs. Medlock said. \"If he does live and that girl from India stays here, I guarantee she will teach him that the whole world doesn't belong to him, as Susan Sowerby says. He is bound to find out what his own share is.\"",
+    "ko": "\"글쎄요, 한 가지는 확실해요.\" 메들록 부인이 말했다. \"도련님이 살아남고 저 인도에서 온 계집애가 여기 계속 머문다면, 수잔 소어비의 말마따나 온 세상이 도련님 것만은 아니라는 걸 저 애가 확실히 가르쳐 줄 거예요. 도련님도 자기가 가질 몫이 얼마인지 결국 깨닫게 되겠지요.\"",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P032",
+    "en": "Inside the room, Colin leaned back on his cushions.",
+    "ko": "방 안에서는 콜린이 쿠션에 몸을 기대고 누워 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P033-1",
+    "en": "\"It is all safe now,\" he said. \"And this afternoon I will see it—this afternoon I will be inside it!\"",
+    "ko": "\"이제 다 해결됐어.\" 그가 말했다. \"그리고 오늘 오후에 그걸 보게 될 거야. 오늘 오후에 그 안에 들어갈 거라고!\"",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P034",
+    "en": "Dickon went back to the garden with his animals, while Mary stayed with Colin. She did not think he looked tired, but he was very quiet before their lunch arrived, and remained quiet while they ate. She wondered why and asked him about it.",
+    "ko": "디콘은 동물들을 데리고 정원으로 돌아갔고, 메리는 콜린의 곁에 남았다. 메리가 보기에 콜린은 지쳐 보이지는 않았지만 점심 식사가 나오기 전부터 아주 잠잠했고, 밥을 먹는 동안에도 내내 조용했다. 메리는 그 이유가 궁금하여 그에게 물어보았다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P035-1",
+    "en": "\"What big eyes you have, Colin,\" she said. \"When you are thinking, they get as big as saucers. What are you thinking about now?\"",
+    "ko": "\"눈이 참 크다, 콜린.\" 메리가 말했다. \"생각에 잠길 때면 눈이 찻잔 받침만큼 커지네. 지금은 무슨 생각을 하고 있어?\"",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P036",
+    "en": "\"I can't help thinking about what it will look like,\" he answered.",
+    "ko": "\"그게 어떤 모습일지 생각하지 않을 수가 없어서 그래.\" 콜린이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P037",
+    "en": "\"The garden?\" Mary asked.",
+    "ko": "\"화원 말이야?\" 메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P038-1",
+    "en": "\"The springtime,\" he said. \"I was thinking that I have really never seen it before.\"",
+    "ko": "\"봄날의 풍경 말이야.\" 콜린이 말했다. \"난 여태껏 봄을 한 번도 제대로 본 적이 없다는 생각이 들었어.\"",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P038-2",
+    "en": "\"I hardly ever went outside, and when I did, I never looked at it. I didn't even think about it.\"",
+    "ko": "\"밖에는 거의 나가지도 않았고, 나갔을 때도 쳐다보지도 않았거든. 봄에 대해 생각조차 하지 않았어.\"",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P039",
+    "en": "\"I never saw it in India because there wasn't any,\" Mary said.",
+    "ko": "\"나도 인도에서는 봄을 보지 못했어. 거긴 봄이라는 게 아예 없었으니까.\" 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P040",
+    "en": "Despite his closed-off and gloomy life, Colin had more imagination than Mary did. He had at least spent a lot of time looking at beautiful books and pictures.",
+    "ko": "바깥세상과 단절된 채 우울한 삶을 살아왔음에도, 콜린은 메리보다 상상력이 풍부했다. 적어도 아름다운 책들과 그림들을 들여다보며 아주 많은 시간을 보낸 덕분이었다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P041-1",
+    "en": "\"That morning when you ran in and said, 'It's come! It's come!', you made me feel so strange. It sounded as if spring was coming in a grand procession with bursts of music.\"",
+    "ko": "\"네가 방으로 뛰어 들어오면서 '봄이 왔어! 봄이 왔어!' 하고 소리쳤던 그날 아침에, 내 마음이 참 묘했어. 마치 봄이 웅장한 행진곡을 울리며 성대한 행렬과 함께 오고 있는 것처럼 들렸거든.\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P041-2",
+    "en": "\"I have a picture like that in one of my books—crowds of beautiful people and children with garlands and blossoming branches, everyone laughing, dancing, and playing pipes. That was why I said, 'Perhaps we shall hear golden trumpets' and told you to open the window.\"",
+    "ko": "\"내 책 중에 그런 그림이 있단 말이야. 아름다운 사람들과 아이들이 꽃다발과 꽃이 핀 나뭇가지를 들고 떼를 지어 가며, 다들 웃고 춤추고 피리를 부는 모습이야. 그래서 내가 '어쩌면 금빛 나팔 소리가 들릴지도 몰라' 하고 말하면서 너더러 창문을 열라고 했던 거야.\"",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P042-1",
+    "en": "\"How funny!\" Mary said. \"That is exactly what it feels like.\"",
+    "ko": "\"참 신기해!\" 메리가 말했다. \"정말로 딱 그런 기분이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P042-2",
+    "en": "\"And if all the flowers, leaves, birds, and wild creatures danced past at once, what a crowd it would be! I am sure they would dance, sing, and play flutes, and that would be the music floating on the wind.\"",
+    "ko": "\"그리고 꽃이랑 나뭇잎, 새들이랑 들짐승들이 한꺼번에 춤추며 지나간다면 얼마나 대단한 구경거리가 될까! 분명 다들 춤추고 노래하고 피리를 불 텐데, 바람에 실려 오는 음악 소리가 바로 그것일 거야.\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P043",
+    "en": "They both laughed, not because the idea was silly, but because they liked it so much.",
+    "ko": "두 아이는 함께 웃었다. 그 생각이 어처구니없어서가 아니라, 그 상상이 너무나 마음에 들었기 때문이었다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P044",
+    "en": "A little later, the nurse helped Colin get ready. She noticed that instead of lying still like a log while being dressed, he sat up and tried to help. He talked and laughed with Mary the entire time.",
+    "ko": "조금 뒤, 간호사가 콜린의 외출 준비를 도왔다. 그녀는 콜린이 옷을 입는 동안 통나무처럼 가만히 누워 있는 대신, 몸을 일으켜 스스로 도우려고 애쓰는 모습을 눈여겨보았다. 그는 준비하는 내내 메리와 쉬지 않고 웃고 떠들었다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P045",
+    "en": "\"This is one of his good days, sir,\" she said to Dr. Craven, who stopped by to check on him. \"He is in such good spirits that it makes him feel stronger.\"",
+    "ko": "\"오늘은 도련님의 몸 상태가 아주 좋은 날입니다, 의사 선생님.\" 그의 상태를 살피러 들른 크레이븐 의사에게 간호사가 말했다. \"기분이 무척 좋으셔서 기운이 나시는 모양이에요.\"",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P046-1",
+    "en": "\"I will stop by again later this afternoon, after he comes inside,\" Dr. Craven said. \"I must see how going out agrees with him. I only wish,\" he added in a very low voice, \"that he would let you go with him.\"",
+    "ko": "\"오늘 오후 늦게 도련님이 안으로 들어오면 다시 들르겠소.\" 크레이븐 의사가 말했다. \"외출이 도련님의 몸에 잘 맞는지 꼭 확인해 봐야 하니까. 다만 내가 바라는 것은,\" 그가 목소리를 몹시 낮추어 덧붙였다. \"자네도 동행하게 해 주었으면 좋겠다는 점이네.\"",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P047",
+    "en": "\"I would rather resign from this case right now, sir, than even stay here while that is suggested,\" the nurse answered with sudden firmness.",
+    "ko": "\"그 제안이 나오기 무섭게 그 자리에서 바로 사직서를 내고 떠나겠어요, 의사 선생님.\" 간호사가 갑자기 정색하며 단호하게 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P048-1",
+    "en": "\"I hadn't actually decided to suggest it,\" the doctor said with his usual slight nervousness. \"We will try the experiment. Dickon is a boy I would trust with a newborn baby.\"",
+    "ko": "\"실제로 그렇게 제안하려던 참은 아니었네.\" 의사가 평소처럼 약간 초조해하며 말했다. \"시험 삼아 시도해 보는 거지. 디콘은 갓 태어난 아기도 믿고 맡길 수 있는 아이가 아닌가.\"",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P049",
+    "en": "The strongest footman in the house carried Colin downstairs and placed him in his wheelchair, where Dickon was waiting outside. Once the servant finished arranging his blankets and cushions, Colin waved his hand to him and the nurse.",
+    "ko": "저택에서 힘이 가장 센 남자 하인이 콜린을 아래층으로 안고 내려가 휠체어에 앉혔고, 밖에서는 디콘이 기다리고 있었다. 하인이 담요와 쿠션을 다 정리해 주자, 콜린은 하인과 간호사에게 가볍게 손짓을 해 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P050",
+    "en": "\"You have my permission to go,\" he said. They both left quickly, and it must be admitted that they giggled once they were safely inside the house.",
+    "ko": "\"물러가도 좋다.\" 그가 말했다. 두 사람은 잽싸게 자리를 떴는데, 솔직히 고백하자면 그들은 저택 안으로 안전하게 들어가자마자 쿡쿡거리며 웃어댔다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P051-1",
+    "en": "Dickon began to push the wheelchair slowly and steadily. Mary walked beside it, and Colin leaned back, looking up at the sky. The arch of the sky seemed incredibly high, and the small, snowy clouds looked like white birds floating on outspread wings in the crystal blue.",
+    "ko": "디콘은 천천히 그리고 안정적으로 휠체어를 밀기 시작했다. 메리는 휠체어 옆에서 나란히 걸었고, 콜린은 뒤로 기대어 하늘을 올려다보았다. 둥근 하늘은 믿을 수 없을 만큼 드높아 보였고, 송이송이 뜬 눈부신 구름 조각들은 수정처럼 맑고 푸른 하늘속에 날개를 활짝 펼치고 둥둥 떠다니는 흰 새들 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P051-2",
+    "en": "The wind swept down from the moor in soft, deep breaths, filled with a wild, clean, sweet scent. Colin kept lifting his chest to breathe it in, and his large eyes looked as if they, rather than his ears, were listening intently.",
+    "ko": "황야에서부터 부드럽고 깊은 숨결처럼 불어오는 바람은 날것 그대로의 깨끗하고 향긋한 내음으로 가득했다. 콜린은 연신 가슴을 들썩이며 그 향기를 들이마셨고, 그의 커다란 눈망울은 귀가 아닌 눈으로 무언가에 귀를 바짝 기울이고 있는 듯 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P052",
+    "en": "\"There are so many sounds of singing, humming, and calling out,\" he said. \"What is that scent in the wind?\"",
+    "ko": "\"지저귀고, 윙윙거리고, 서로를 부르는 소리들이 정말 가득해.\" 그가 말했다. \"이 바람에서 나는 냄새는 대체 뭐야?\"",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P053",
+    "en": "\"It is the gorse on the moor opening up,\" Dickon answered. \"Oh, the bees are working wonderfully today.\"",
+    "ko": "\"황야의 가시개작나무 꽃들이 피어나고 있어서 그래유.\" 디콘이 대답했다. \"아유, 오늘 벌들이 신나게 일하고 있구만유.\"",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P054-1",
+    "en": "Not a single person was to be seen along the paths they took. In fact, every gardener and helper had cleared out.",
+    "ko": "그들이 지나간 길목 어디에서도 단 한 사람도 보이지 않았다. 실은 정원사와 일꾼이 모조리 자리를 피한 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P054-2",
+    "en": "They wound in and out of the shrubbery and circled the fountain beds, following their carefully planned route just for the thrill of the mystery. But when they finally turned onto the Long Walk beside the ivy-covered walls, an exciting sense of anticipation made them begin to speak in whispers, for reasons they could not explain.",
+    "ko": "그들은 미지의 흥분을 만끽하기 위해 미리 철저히 계획해 둔 경로를 따라 관목숲 사이를 요리조리 지나가고 분수대 화단을 돌았다. 그러나 마침내 담쟁이덩굴로 뒤덮인 담장 옆 긴 산책로로 접어들었을 때, 말로 설명할 수 없는 어떤 짜릿한 기대감이 밀려와 아이들은 속삭이듯 말하기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P055",
+    "en": "\"This is it,\" Mary whispered. \"This is where I used to walk up and down, wondering and wondering.\"",
+    "ko": "\"여기야.\" 메리가 속삭였다. \"내가 대체 정원이 어딨는 걸까 하고 매일 고민하면서 서성거리던 곳이 바로 여기야.\"",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P056-1",
+    "en": "\"Is it?\" Colin said, his eyes eagerly searching the ivy. \"But I can't see anything,\" he whispered. \"There is no door.\"",
+    "ko": "\"정말 여기야?\" 콜린이 담쟁이덩굴을 애타게 훑어보며 말했다. \"하지만 아무것도 안 보여.\" 그가 속삭였다. \"문이 없잖아.\"",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P057",
+    "en": "\"That is what I thought,\" Mary said.",
+    "ko": "\"나도 처음엔 그렇게 생각했어.\" 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P058",
+    "en": "Then a lovely, breathless silence fell as the wheelchair rolled forward.",
+    "ko": "그 후 휠체어가 앞으로 굴러가면서 숨 막힐 듯 아름다운 고요함이 내려앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P059",
+    "en": "\"That is the garden where Ben Weatherstaff works,\" Mary said.",
+    "ko": "\"저기가 벤 웨더스태프 할아버지가 일하시는 정원이야.\" 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P060",
+    "en": "\"Is it?\" Colin said.",
+    "ko": "\"저기가?\" 콜린이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P061",
+    "en": "After a few more yards, Mary whispered again.",
+    "ko": "몇 걸음 더 움직이고 나서 메리가 다시 속삭였다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P062",
+    "en": "\"This is where the robin flew over the wall,\" she said.",
+    "ko": "\"여기가 그 붉은가슴울새가 담장 너머로 날아갔던 곳이야.\" 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P063",
+    "en": "\"Is it?\" Colin cried. \"Oh, I wish he would come again!\"",
+    "ko": "\"정말 여기야?\" 콜린이 외쳤다. \"아, 그 녀석이 다시 와 주면 좋을 텐데!\"",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P064",
+    "en": "\"And that,\" Mary said with quiet delight, pointing under a large lilac bush, \"is where he perched on the small pile of dirt and showed me the key.\"",
+    "ko": "\"그리고 저기,\" 메리가 커다란 라일락 덤불 밑을 가리키며 은근한 기쁨에 젖어 속삭였다. \"저 녀석이 조그만 흙더미 위에 내려앉아 내게 열쇠를 가르쳐 준 곳이 바로 저기야.\"",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P065",
+    "en": "Then Colin sat up.",
+    "ko": "그 순간 콜린이 상체를 일으켜 앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P066-1",
+    "en": "\"Where? Where? There?\" he cried, his eyes growing as wide as the wolf's in Little Red Riding Hood. Dickon stood still, and the wheelchair stopped.",
+    "ko": "\"어디? 어디? 저기?\" 그가 외쳤다. 그의 두 눈은 빨간 모자에 나오는 늑대의 눈만큼이나 동그랗게 커졌다. 디콘이 멈춰 서자 휠체어도 멈췄다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P067-1",
+    "en": "\"And this,\" Mary said, stepping onto the garden bed close to the ivy, \"is where I went to talk to him when he chirped at me from the top of the wall. And this is the ivy the wind blew back.\" She took hold of the hanging green curtain.",
+    "ko": "\"그리고 여기는,\" 메리가 담쟁이덩굴에 바짝 붙은 화단으로 발을 내딛으며 말했다. \"새가 담장 꼭대기에서 나를 향해 지저귈 때 대답하러 갔던 곳이야. 그리고 이게 바로 바람에 날려 들쳐졌던 담쟁이덩굴이야.\" 그녀는 밑으로 흐드러지게 늘어진 초록색 장막을 손으로 움켜쥐었다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P068-1",
+    "en": "\"Oh! Is it? Is it?\" Colin gasped.",
+    "ko": "\"아! 정말이야? 정말 그곳이야?\" 콜린이 숨을 죽이며 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P069",
+    "en": "\"And here is the handle, and here is the door. Dickon, push him in—push him in quickly!\"",
+    "ko": "\"그리고 여기가 손잡이이고, 여기가 문이야. 디콘, 밀어넣어! 얼른 밀어넣어!\"",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P070",
+    "en": "And Dickon did it with one strong, steady, magnificent push.",
+    "ko": "그러자 디콘은 힘차고 부드러우며 멋진 솜씨로 휠체어를 단숨에 밀어 넣었다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P071-1",
+    "en": "Colin fell back against his cushions, gasping with delight. He covered his eyes with his hands and kept them there, shutting out everything until they were inside. The wheelchair stopped as if by magic, and the door was closed.",
+    "ko": "콜린은 황홀한 기쁨에 숨을 헐떡이며 쿠션에 몸을 털썩 묻었다. 그는 두 손으로 눈을 가린 채 안으로 들어올 때까지 눈앞의 모든 풍경을 차단했다. 휠체어는 마법처럼 멈추어 섰고, 문이 닫혔다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P071-2",
+    "en": "Only then did he lower his hands and look around and around, just as Dickon and Mary had once done. A delicate green veil of young leaves had crept over the walls, the earth, the trees, and the swinging vines. In the grass under the trees, inside the gray urns in the alcoves, and scattered everywhere were splashes of gold, purple, and white.",
+    "ko": "그제야 콜린은 손을 내리고, 예전에 디콘과 메리가 그랬던 것처럼 사방을 두리번두리번 둘러보았다. 여린 새잎들이 자아내는 보드라운 초록빛 베일이 벽과 대지, 나무와 공중에 매달려 흔들리는 덩굴 줄기들을 살포시 덮고 있었다. 나무 아래 풀밭과 벽감의 회색 화분 속, 그리고 사방에 노란색, 보라색, 흰색 꽃들이 화사한 물감 방울처럼 흩뿌려져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P071-3",
+    "en": "The trees above his head showed pink and snowy blossoms. There was a fluttering of wings, faint sweet bird calls, humming bees, and rich scents everywhere. The sun fell warm upon his face like a gentle hand.",
+    "ko": "그의 머리맡에 우뚝 솟은 나무들은 분홍빛과 눈부신 흰색 꽃망울을 가득 피워 올렸다. 퍼덕이는 날갯짓 소리, 희미하고 달콤한 새들의 노랫소리, 윙윙거리는 벌들의 날갯소리, 그리고 짙은 향기가 가득했다. 따스한 햇살이 다정한 손길처럼 그의 얼굴을 감싸 안았다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P071-4",
+    "en": "In wonder, Mary and Dickon stood and stared at him. He looked completely different because a healthy pink glow had spread all over him—across his pale face, his neck, and his hands.",
+    "ko": "메리와 디콘은 놀라움에 가득 찬 눈으로 멈춰 서서 그를 빤히 바라보았다. 콜린은 완전히 딴사람처럼 보였다. 그의 창백했던 얼굴과 목, 손끝에 이르기까지 건강하고 발그레한 핏기가 온통 가득 피어올랐기 때문이었다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P072-1",
+    "en": "\"I will get well! I will get well!\" he cried. \"Mary! Dickon! I will get well! And I will live forever and ever and ever!\"",
+    "ko": "\"난 나을 거야! 난 꼭 건강해질 거야!\" 콜린이 외쳤다. \"메리! 디콘! 난 나을 거야! 그리고 영원히, 영원히 살아갈 거야!\"",
+    "is_header": false
+  }
+]

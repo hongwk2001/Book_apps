@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.ui.reader
+package com.tkprof.shared.ui.reader
 
 import android.app.Application
 import android.media.AudioManager
@@ -33,11 +33,59 @@ class ReaderViewModel(
 
     private val repository = BookRepository(application)
 
+    private val prefs = application.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE)
+
+
     private val _currentChapter = MutableStateFlow<BilingualChapter?>(null)
     val currentChapter: StateFlow<BilingualChapter?> = _currentChapter
 
     private val _currentChapterNumber = MutableStateFlow(1)
     val currentChapterNumber: StateFlow<Int> = _currentChapterNumber
+
+    val fontSizeMultiplier = MutableStateFlow(1.0f)
+
+    private val ttsReceiver = object : android.content.BroadcastReceiver() {
+        override fun onReceive(context: Context?, intent: Intent?) {
+            when (intent?.action) {
+                "com.tkprof.shared.TTS_PLAY" -> {
+                    if (!ttsManager.isSpeaking.value) playOrPause()
+                }
+                "com.tkprof.shared.TTS_PAUSE" -> {
+                    if (ttsManager.isSpeaking.value) playOrPause()
+                }
+                "com.tkprof.shared.TTS_NEXT" -> {
+                    nextSentence()
+                }
+                "com.tkprof.shared.TTS_PREV" -> {
+                    previousSentence()
+                }
+            }
+        }
+    }
+
+    init {
+        androidx.core.content.ContextCompat.registerReceiver(
+            application,
+            ttsReceiver,
+            android.content.IntentFilter().apply {
+                addAction("com.tkprof.shared.TTS_PLAY")
+                addAction("com.tkprof.shared.TTS_PAUSE")
+                addAction("com.tkprof.shared.TTS_NEXT")
+                addAction("com.tkprof.shared.TTS_PREV")
+            },
+            androidx.core.content.ContextCompat.RECEIVER_NOT_EXPORTED
+        )
+    }
+    
+    override fun onCleared() {
+        super.onCleared()
+        try {
+            getApplication<Application>().unregisterReceiver(ttsReceiver)
+        } catch (e: Exception) {}
+        ttsManager.shutdown()
+        billingManager.disconnect()
+    }
+
 
     private val _speakingSentenceId = MutableStateFlow<String?>(null)
     val speakingSentenceId: StateFlow<String?> = _speakingSentenceId
@@ -101,24 +149,39 @@ class ReaderViewModel(
     private var currentQueueIndex = -1
 
         init {
-        loadChapter(1)
+        val lastChapter = prefs.getInt("last_chapter", 1)
+        val lastSentenceId = prefs.getString("last_sentence_id", null)
+        loadChapter(lastChapter, lastSentenceId)
+        
         viewModelScope.launch { _totalChapters.value = repository.availableChapterCount() }
         
-        // Listen to TTS state to start/stop the foreground service
+        // Listen to TTS state to update the foreground service
         viewModelScope.launch {
+            var hasStartedPlaying = false
             isSpeaking.collect { speaking ->
-                val intent = Intent(application, TtsPlaybackService::class.java)
-                if (speaking) {
-                    intent.putExtra("BOOK_TITLE", bookConfig.titleEn)
+                if (speaking) hasStartedPlaying = true
+                if (hasStartedPlaying) {
+                    val intent = Intent(application, TtsPlaybackService::class.java).apply {
+                        putExtra("BOOK_TITLE", bookConfig.titleEn)
+                        putExtra("IS_PLAYING", speaking)
+                    }
                     ContextCompat.startForegroundService(application, intent)
-                } else {
-                    application.stopService(intent)
+                }
+            }
+        }
+        
+        // Auto-save sentence progress
+        viewModelScope.launch {
+            speakingSentenceId.collect { id ->
+                if (id != null) {
+                    prefs.edit().putString("last_sentence_id", id).apply()
                 }
             }
         }
     }
 
-    fun loadChapter(number: Int) {
+    fun loadChapter(number: Int, restoreSentenceId: String? = null) {
+        prefs.edit().putInt("last_chapter", number).apply()
         viewModelScope.launch(Dispatchers.IO) {
             ttsManager.stop()
             _speakingSentenceId.value = null
@@ -127,6 +190,17 @@ class ReaderViewModel(
             val ch = repository.loadChapter(number)
             _currentChapter.value = ch
             rebuildSentenceQueue(ch)
+            
+            if (restoreSentenceId != null) {
+                val idx = sentenceQueue.indexOfFirst { it.id == restoreSentenceId }
+                if (idx != -1) {
+                    currentQueueIndex = idx
+                    _speakingSentenceId.value = restoreSentenceId
+                    _speakingParagraphIndex.value = ch?.paragraphs?.indexOfFirst { it.id == sentenceQueue[idx].paragraphId } ?: -1
+                }
+            } else {
+                prefs.edit().remove("last_sentence_id").apply()
+            }
         }
     }
 
@@ -268,11 +342,6 @@ class ReaderViewModel(
         _speakingSentenceId.value = null
     }
 
-    override fun onCleared() {
-        super.onCleared()
-        ttsManager.shutdown()
-        billingManager.disconnect()
-    }
 }
 
 

@@ -1,0 +1,38 @@
+
+--- Analyzing Chapter 24 ---
+EN lines: 81, KO lines: 79
+
+Possible drift around line 13:
+EN[13]: P13| Dickon chuckled....
+KO[13]: P13| "무슨 일이 일어났는지 사람들이 눈치채지 못하게 하려는 거쥬. 의사 선생님이 콜린 도련님이 스스로 설 수 있다는 걸 알게 되면 크레이븐...
+Context EN:
+  P12| "What for, in Mercy's name?" asked Mrs. Sowerby.
+  P13| Dickon chuckled.
+  P14| "He does it to keep them from guessing what has happened. If the doctor knew Colin had found ou
+  P15| Mrs. Sowerby was laughing a soft, comfortable laugh long before he finished his last sentence.
+  P16| "Ah!" she said. "That pair is enjoying themselves, I'll warrant. They will get a lot of fun out
+Context KO:
+  P12| "맙소사, 대체 무엇 때문에 그런단 말이냐?" 소어비 부인이 물었다.
+  P13| "무슨 일이 일어났는지 사람들이 눈치채지 못하게 하려는 거쥬. 의사 선생님이 콜린 도련님이 스스로 설 수 있다는 걸 알게 되면 크레이븐 주인님께 편지를 보내 알릴 게 뻔하
+  P14| 소어비 부인은 아들의 말이 끝나기도 전부터 낮고 편안한 웃음을 터뜨렸다.
+  P15| "아유!" 그녀가 말했다. "그 두 녀석이 아주 신이 났겠구나. 연극놀이를 하며 엄청 재미를 보고 있겠어. 아이들은 역할극 하는 걸 세상에서 제일 좋아하는 법이지. 디콘아
+  P16| "콜린 도련님은 밖으로 나갈 때마다 매번 의자까지 안겨서 내려오셔유." 디콘이 설명했다. "그러고는 남자 하인인 존이 조심스럽게 안지 않았다고 쏘아붙이지요. 자기가 엄청 
+
+--- Analyzing Chapter 27 ---
+EN lines: 100, KO lines: 101
+
+Possible drift around line 10:
+EN[10]: P9| As he sat gazing into the clear, flowing water, Archibald Craven gradually f...
+KO[10]: P10| 그는 새들이 날아와 부리를 콕 찍어 물을 마신 뒤, 날개를 파닥이며 날아가는 모습을 바라보았다. 개울은 살아 숨 쉬는 것 같았지만, 졸...
+Context EN:
+  P8| But that light had never seemed to touch him until one day. He realized that for the first time 
+  P9| As he sat gazing into the clear, flowing water, Archibald Craven gradually felt his mind and bod
+  P10| “What is it?” he said, almost in a whisper, and he ran his hand over his forehead. “I almost fe
+  P11| I don't know enough about the wonders of undiscovered things to explain how this happened to hi
+  P12| “I am going to live forever and ever and ever!”
+Context KO:
+  P9| 그러나 그 빛은 단 한 번도 그의 마음을 어루만져 주지 못하는 듯했다. 그러던 어느 날, 그는 십 년 만에 처음으로 기이한 일이 일어났음을 깨달았다. 오스트리아 티롤 지방의
+  P10| 그는 새들이 날아와 부리를 콕 찍어 물을 마신 뒤, 날개를 파닥이며 날아가는 모습을 바라보았다. 개울은 살아 숨 쉬는 것 같았지만, 졸졸거리는 그 미세한 소리는 사방의 고
+  P11| 아치볼드 크레이븐은 앉아서 맑게 흐르는 물을 멍하니 바라보는 동안, 자신의 몸과 마음이 모두 계곡만큼이나 잠잠해지는 것을 서서히 느꼈다. 잠에 빠지려는 것인가 싶었지만 졸
+  P12| “이게 뭐지?” 그는 거의 속삭이듯 말하며 이마를 쓸어내렸다. “마치 내가…… 살아 있는 것 같구나!”
+  P13| 아직 밝혀지지 않은 기이한 현상들에 대해 나는 설명할 만큼 아는 바가 없고, 이는 다른 누구도 마찬가지다. 그 자신 역시 무슨 영문인지 전혀 이해하지 못했다. 하지만 훗날

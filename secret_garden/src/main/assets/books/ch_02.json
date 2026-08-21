@@ -1,0 +1,471 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 2: Mistress Mary Quite Contrary",
+    "ko": "제2장 고집쟁이 메리 아가씨",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002-1",
+    "en": "Mary liked looking at her mother from afar, thinking she was very pretty. But Mary barely knew her, so it was hard to expect her to love her or miss her much after she died. In fact, she didn't miss her at all.",
+    "ko": "메리는 멀리서 어머니를 바라보는 것을 좋아했고, 어머니가 아주 아름답다고 생각했다. 하지만 어머니에 대해 아는 것이 거의 없었기에, 어머니가 세상을 떠난 후 슬퍼하거나 그리워하기를 기대하기는 어려웠다. 실제로 메리는 어머니를 전혀 그리워하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-2",
+    "en": "Mary was a self-centered child, so she only ever thought about herself. An older child would have been worried about being left alone in the world. But Mary was very young.",
+    "ko": "메리는 워낙 이기적인 아이라 오직 제 자신만 생각했다. 철이 든 아이였다면 세상에 홀로 남겨진 처지를 걱정했겠지만, 메리는 너무나 어렸다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-3",
+    "en": "She'd always been looked after, so she just assumed she always would be. What she really wanted to know was if she was going to nice people. Would they be polite to her and let her have her own way, just like her Ayah and the other local servants used to?",
+    "ko": "언제나 남들이 알아서 보살펴 주었기에 앞으로도 늘 당연히 그럴 거라고 생각했을 뿐이다. 메리가 정말로 궁금해한 것은 자신이 가게 될 곳에 좋은 사람들이 사는지뿐이었다. 그 사람들은 유모 아야를 비롯한 인도인 하인들이 그랬던 것처럼 자신에게 공손하게 대하고 제멋대로 하게 내버려 둘까?",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003-1",
+    "en": "Mary knew she wouldn't be staying long at the English clergyman's house where she was first taken. She didn't want to stay there anyway. The clergyman was poor.",
+    "ko": "메리는 자신이 처음 보내진 영국인 목사 집에서 오래 머물지 않으리라는 것을 알고 있었다. 어차피 그곳에 머물고 싶지도 않았다. 목사는 가난했다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003-2",
+    "en": "He had five children, all close in age, who wore worn-out clothes. They were always fighting and grabbing toys from each other. Mary hated their messy bungalow.",
+    "ko": "나이대가 고만고만한 아이가 다섯이나 되었는데, 모두 다 닳아 해진 옷을 입고 다녔다. 아이들은 늘 투닥거리며 서로의 장난감을 빼앗기 바빴다. 메리는 그들의 지저분한 단층집이 끔찍이도 싫었다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P003-3",
+    "en": "She was so unpleasant to the children that after a day or two, no one would play with her. By the second day, they'd given her a nickname that made her absolutely furious.",
+    "ko": "메리가 아이들을 워낙 쌀쌀맞게 대했기에, 하루이틀이 지나자 아무도 메리와 놀려고 하지 않았다. 그리고 둘째 날이 되자, 아이들은 메리를 머리끝까지 화나게 만드는 별명을 지어 불렀다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-1",
+    "en": "Basil was the one who thought of it first. He was a little boy with cheeky blue eyes and a turned-up nose, and Mary hated him. She was playing alone under a tree, just like she had been the day the cholera epidemic started.",
+    "ko": "바질이 가장 먼저 그 별명을 생각해 냈다. 바질은 장난기 섞인 파란 눈에 들창코를 가진 사내아이였는데, 메리는 그를 몹시 싫어했다. 메리는 콜레라가 번지기 시작했던 그날처럼 나무 아래서 혼자 놀고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-2",
+    "en": "She was making little mounds of earth and paths for a garden. Basil came and stood nearby to watch her. Soon, he got quite interested and suddenly made a suggestion.",
+    "ko": "흙으로 작은 둔덕을 만들고 정원 길을 꾸미는 놀이였다. 바질이 다가오더니 곁에 서서 메리가 노는 모습을 지켜보았다. 이윽고 흥미를 느낀 바질이 갑자기 툭 한마디를 던졌다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-1",
+    "en": "\"Why don't you put a pile of stones there and pretend it's a rock garden?\" he asked.",
+    "ko": "\"거기에 돌무더기를 쌓아 놓고 바위 정원이라고 하면 어때?\" 바질이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005-2",
+    "en": "\"Right there in the middle.\" He leaned over her to point.",
+    "ko": "\"바로 저기 한가운데 말이야.\" 바질이 몸을 굽히며 손가락으로 가리켰다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P006-1",
+    "en": "\"Go away!\" Mary yelled.",
+    "ko": "\"저리 가!\" 메리가 비명을 지르듯 쏘아붙였다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006-2",
+    "en": "\"I don't want boys around. Go away!\"",
+    "ko": "\"사내애들은 싫어. 저리 가!\"",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P007-1",
+    "en": "For a moment, Basil looked angry. Then he started to tease her.",
+    "ko": "바질은 잠시 화난 표정을 짓더니 메리를 놀려대기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007-2",
+    "en": "He was always teasing his sisters. He danced around her, made faces, sang, and laughed.",
+    "ko": "평소 누이동생들을 놀려먹던 솜씨였다. 바질은 메리 주위를 빙글빙글 맴돌며 춤을 추고, 인상을 찌푸리고, 노래를 흥얼거리며 웃어댔다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P008a",
+    "en": "\"Mistress Mary, quite contrary,",
+    "ko": "\"고집쟁이 메리 아가씨,",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P008b",
+    "en": "How does your garden grow?",
+    "ko": "정원은 어떻게 자라나요?",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P009a",
+    "en": "With silver bells, and cockle shells,",
+    "ko": "은방울과 조개껍데기,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P009b",
+    "en": "And marigolds all in a row.\"",
+    "ko": "나란히 피어난 금잔화라네.\"",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P010-1",
+    "en": "He sang it until the other children heard and started laughing too. The angrier Mary got, the more they sang \"Mistress Mary, quite contrary.\"",
+    "ko": "바질은 다른 아이들이 귀를 기울이고 함께 웃어댈 때까지 소리 높여 노래를 불렀다. 메리가 화를 내면 낼수록 아이들은 더 신이 나서 \"고집쟁이 메리 아가씨\"를 불러댔다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P010-2",
+    "en": "After that, for as long as she stayed with them, they called her \"Mistress Mary Quite Contrary.\" They used it when they talked about her, and often when they spoke directly to her.",
+    "ko": "그 후로 메리가 그 집에 머무는 동안, 아이들은 메리를 '고집쟁이 메리 아가씨'라고 불렀다. 아이들은 메리에 대해 이야기할 때뿐만 아니라, 직접 말을 걸 때도 종종 그 별명을 쓰곤 했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P011",
+    "en": "\"You're going to be sent home,\" Basil told her, \"at the end of the week. And we're glad about it.\"",
+    "ko": "\"이번 주말에 넌 집으로 보내질 거래.\" 바질이 메리에게 말했다. \"우린 정말 잘됐다고 생각해.\"",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P012",
+    "en": "\"I'm glad about it too,\" Mary replied. \"Where is home?\"",
+    "ko": "\"나도 잘됐어.\" 메리가 대꾸했다. \"그런데 그 집이라는 데가 어딘데?\"",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P013-1",
+    "en": "\"She doesn't even know where home is!\" Basil said with the scorn only a seven-year-old can manage. \"It's England, of course.",
+    "ko": "\"집이 어디인지도 모른대!\" 바질이 일곱 살짜리 아이 특유의 얄미운 경멸을 듬뿍 담아 외쳤다. \"당연히 영국이지!",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013-2",
+    "en": "Our grandma lives there, and our sister Mabel was sent to her last year. You're not going to your grandma. You don't have one.",
+    "ko": "우리 할머니도 거기 사시고, 우리 누나 메이블도 작년에 할머니 댁으로 갔어. 하지만 넌 할머니 댁으로 가는 게 아니야. 넌 할머니도 없잖아.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P013-3",
+    "en": "You're going to your uncle. His name is Mr. Archibald Craven.\"",
+    "ko": "넌 고모부한테 가는 거야. 이름이 아치볼드 크레이븐 씨래.\"",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P014",
+    "en": "\"I don't know anything about him,\" Mary snapped.",
+    "ko": "\"난 그 사람에 대해 아무것도 몰라.\" 메리가 날카롭게 쏘아붙였다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P015-1",
+    "en": "\"I know you don't,\" Basil replied. \"You don't know anything.",
+    "ko": "\"모르겠지.\" 바질이 대꾸했다. \"넌 아무것도 몰라.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P015-2",
+    "en": "Girls never do. I heard Mom and Dad talking about him. He lives in a huge, lonely old house in the countryside.",
+    "ko": "원래 여자애들은 아무것도 모르거든. 엄마랑 아빠가 그 사람에 대해 얘기하는 걸 들었는데, 시골에 있는 엄청나게 크고 쓸쓸한 고택에 산대.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P015-3",
+    "en": "No one goes near him. He's so grumpy he won't let anyone, and they wouldn't come even if he did.",
+    "ko": "아무도 그 사람 근처에 가지 않아. 성격이 너무 괴팍해서 곁에 얼씬도 못하게 한다던걸. 설령 오게 해 준대도 갈 사람도 없겠지만 말이야.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P015-4",
+    "en": "He's a hunchback, and he's awful.\"",
+    "ko": "게다가 꼽추래, 정말 끔찍한 사람이지.\"",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P016",
+    "en": "\"I don't believe you,\" Mary said. She turned her back and stuck her fingers in her ears, refusing to listen anymore.",
+    "ko": "\"거짓말 마.\" 메리가 말했다. 그러고는 등을 홱 돌리더니 귀에 손가락을 찔러 넣고 더는 아무 소리도 들으려 하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P017-1",
+    "en": "But she thought about it a lot afterward. That night, when Mrs. Crawford told her she would sail to England in a few days to live with her uncle, Mr. Archibald Craven, at Misselthwaite Manor, Mary looked so cold and stubbornly uninterested that they didn't know what to make of her.",
+    "ko": "하지만 메리는 그 후로도 그 말을 곱씹어 생각했다. 그날 밤, 크로포드 부인이 메리에게 며칠 뒤 배를 타고 영국으로 건너가 미셀스웨이트 저택에 사는 고모부 아치볼드 크레이븐 씨와 살게 될 거라고 말해 주었다. 그때 메리의 얼굴이 어찌나 싸늘하고 고집스러울 정도로 무관심해 보였던지, 부부는 이 아이를 대체 어쩌면 좋을지 갈피를 잡을 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P017-2",
+    "en": "They tried to be kind. But Mary just turned her face away when Mrs. Crawford tried to kiss her. She held herself stiffly when Mr. Crawford patted her shoulder.",
+    "ko": "부부는 다정하게 대해 주려 애썼다. 그러나 메리는 크로포드 부인이 뽀뽀를 하려고 다가오자 고개를 돌려 버렸고, 크로포드 씨가 어깨를 다독여 줄 때도 몸을 뻣뻣하게 굳힌 채 가만히 있을 뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P018-1",
+    "en": "\"She's such a plain child,\" Mrs. Crawford said with pity afterward.",
+    "ko": "\"정말 볼품없는 아이예요.\" 나중에 크로포드 부인이 안타까운 한숨을 내쉬며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P018-2",
+    "en": "\"And her mother was such a beautiful woman. She had such charming manners, too.",
+    "ko": "\"어머니는 참 아름다운 분이셨는데 말이죠. 태도도 무척 우아했고 말이에요.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P018-3",
+    "en": "Mary, though, has the most unappealing ways I've ever seen in a child. The children call her 'Mistress Mary Quite Contrary.' And even though it's naughty of them, you can't help but understand why.\"",
+    "ko": "그런데 메리는 내가 살면서 본 어린아이 중에서 가장 정이 안 가요. 아이들이 메리를 '고집쟁이 메리 아가씨'라고 부르는데, 짓궂은 장난이긴 하지만 왜 그렇게 부르는지 아주 이해가 안 가는 것도 아니에요.\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P019",
+    "en": "\"Perhaps if her mother had brought her pretty face and charming manners into the nursery more often, Mary might have learned some nice ways too. It's very sad, now that the poor beautiful woman is gone, to think that many people never even knew she had a child.\"",
+    "ko": "\"어머니가 그 고운 얼굴과 고상한 몸가짐을 보여 주러 육아실에 더 자주 들렀더라면, 메리도 얌전하고 다정한 몸가짐을 배웠을지도 모르죠. 그 가련하고 아름다운 부인이 세상을 떠난 지금, 아이가 있었다는 사실조차 모르는 사람이 많다니 참 안타까운 일이네요.\"",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P020-1",
+    "en": "\"I believe she hardly ever looked at her,\" Mrs. Crawford sighed. \"When her Ayah died, there was no one to even think about the poor little thing.",
+    "ko": "\"아이를 거의 거들떠보지도 않았던 모양이에요.\" 크로포드 부인이 한숨을 쉬었다. \"유모 아야가 죽었을 때, 그 불쌍한 어린것을 걱정하는 이가 아무도 없었으니 말이에요.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P020-2",
+    "en": "Imagine the servants running away and leaving her all alone in that empty bungalow! Colonel McGrew said he nearly jumped out of his skin when he opened the door and found her standing by herself in the middle of the room.\"",
+    "ko": "하인들이 전부 도망쳐 버리고 텅 빈 단층집에 아이를 홀로 버려두다니 상상이나 할 수 있는 일인가요! 맥그루 대령은 문을 열었다가 방 한가운데에 아이가 덩그러니 혼자 서 있는 것을 보고 심장이 멎는 줄 알았다고 하더군요.\"",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P021-1",
+    "en": "Mary made the long journey to England under the care of an officer's wife. The wife was taking her own children to a boarding school.",
+    "ko": "메리는 어느 장교 부인의 보살핌을 받으며 영국으로 향하는 먼 길에 올랐다. 장교 부인은 제 자식들을 기숙학교에 입학시키러 가는 길이었다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P021-2",
+    "en": "The officer's wife was completely focused on her own son and daughter. She was quite happy to hand Mary over to the woman Mr. Archibald Craven sent to meet her in London. This woman was Mrs. Medlock, the housekeeper at Misselthwaite Manor.",
+    "ko": "부인의 관심은 오직 제 자식들에게만 쏠려 있었기에, 아치볼드 크레이븐 씨가 런던으로 보낸 대리인에게 선뜻 메리를 인계하고 홀가분해했다. 마중 나온 여인은 미셀스웨이트 저택의 살림을 맡고 있는 메들록 부인이었다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P021-3",
+    "en": "She was a plump woman with very red cheeks and sharp black eyes. She wore a very purple dress, a black silk cape with jet fringe, and a black bonnet with purple velvet flowers that stood up and trembled when she moved her head.",
+    "ko": "메들록 부인은 터질 듯 붉은 뺨에 날카로운 검은 눈동자를 가진 풍채 좋은 여자였다. 진보라색 드레스에 검은 실크 망토를 두르고 있었는데, 망토 자락에는 흑옥 장식이 찰랑거렸다. 검은 보닛에는 보라색 벨벳 꽃 장식이 달려 있었는데, 그녀가 고개를 움직일 때마다 꽃들이 꼿꼿이 서서 파르르 떨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P021-4",
+    "en": "Mary didn't like her at all. But since Mary rarely liked anyone, that wasn't surprising. Plus, it was clear Mrs. Medlock didn't think much of Mary either.",
+    "ko": "메리는 그녀가 전혀 마음에 들지 않았다. 하기야 누구든 좋아하는 법이 없는 메리였으니 그리 놀랄 일도 아니었지만 말이다. 게다가 메들록 부인 역시 메리를 곱지 않은 시선으로 바라보는 것이 분명했다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P022-1",
+    "en": "\"My goodness! She's a plain little thing!\" she said.",
+    "ko": "\"세상에! 참 볼품없이 수수한 꼬마로군요!\" 메들록 부인이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P022-2",
+    "en": "\"And we'd heard her mother was a beauty. She hasn't passed much of that on, has she, ma'am?\"",
+    "ko": "\"어머니가 대단한 미인이었다고 들었는데, 그 미모를 거의 물려받지 못했나 보네요, 부인?\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P023-1",
+    "en": "\"Perhaps she'll improve as she gets older,\" the officer's wife said kindly.",
+    "ko": "\"자라면서 인물이 나아지겠지요.\" 장교 부인이 다정하게 대꾸했다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P023-2",
+    "en": "\"If she weren't so pale and had a nicer expression, her features are actually quite good. Children change so much.\"",
+    "ko": "\"너무 창백하고 표정이 어두워서 그렇지, 이목구비는 꽤 반듯한 편이랍니다. 아이들은 자라면서 몰라보게 달라지니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P024",
+    "en": "\"She'll have to change a lot,\" Mrs. Medlock replied. \"And, if you ask me, there's nothing at Misselthwaite that's likely to improve children!\"",
+    "ko": "\"몰라보게 변해야 할 겁니다.\" 메들록 부인이 응수했다. \"그리고 제 생각을 말씀드리자면, 미셀스웨이트 저택에는 아이들 성격에 도움이 될 만한 구석이 눈곱만큼도 없답니다!\"",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P025-1",
+    "en": "They thought Mary wasn't listening. She was standing a little apart from them, by the window of the private hotel they were staying at. She was watching the buses, cabs, and people passing by.",
+    "ko": "그들은 메리가 듣고 있지 않는 줄 알았다. 메리는 그들이 묵고 있는 개인 호텔의 창가 곁에 조금 떨어져 서서, 밖으로 바삐 오가는 마차와 사람들을 지켜보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P025-2",
+    "en": "But she heard everything clearly. She became very curious about her uncle and the place he lived.",
+    "ko": "하지만 메리는 그들의 대화를 한마디도 놓치지 않고 똑똑히 들었다. 메리는 고모부와 그가 산다는 곳에 대해 강한 호기심을 느끼기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P025-3",
+    "en": "What kind of place was it? What would he be like? What was a hunchback?",
+    "ko": "그곳은 대체 어떤 곳일까? 고모부는 어떤 사람일까? 꼽추란 무엇일까?",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P025-4",
+    "en": "She'd never seen one. Maybe there weren't any in India.",
+    "ko": "메리는 꼽추를 단 한 번도 본 적이 없었다. 어쩌면 인도에는 꼽추가 없을지도 몰랐다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P026-1",
+    "en": "Since she'd been living in other people's houses and no longer had an Ayah, she started to feel lonely. She also began to have strange new thoughts. She started to wonder why she never seemed to belong to anyone, even when her parents were alive.",
+    "ko": "남의 집에 얹혀살게 되고 곁에서 보살펴 주던 유모 아야마저 없어지자, 메리는 외로움을 느끼기 시작했다. 그리고 머릿속에 낯선 생각들이 싹트기 시작했다. 어째서 부모님이 살아 계실 때조차 자신은 그 누구에게도 속하지 않은 존재처럼 보였는지 의아해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P026-2",
+    "en": "Other children seemed to belong to their parents, but she never felt like she was truly anyone's little girl. She had servants, food, and clothes, but no one ever paid her any real attention.",
+    "ko": "다른 아이들은 부모의 귀한 자식인 것이 당연해 보였는데, 자신은 단 한 번도 진정으로 누군가의 품에 안긴 딸이었던 적이 없는 것 같았다. 하인도 있었고 먹을 것과 옷도 차고 넘쳤지만, 누구 하나 자신에게 온전한 마음을 주지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P026-3",
+    "en": "She didn't know this was because she was an unpleasant child. But then, of course, she didn't know she was unpleasant. She often thought other people were disagreeable, but she didn't realize she was herself.",
+    "ko": "메리는 이것이 자신이 심술궂고 까다로운 아이이기 때문이라는 사실을 몰랐다. 하긴, 스스로가 남의 비위를 맞출 줄 모르는 성격이라는 것조차 몰랐으니 무리도 아니었다. 메리는 늘 다른 사람들이 괴팍하다고만 여겼을 뿐, 자기 자신이 그렇다는 생각은 털끝만큼도 해보지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P027-1",
+    "en": "Mary thought Mrs. Medlock was the most unpleasant person she'd ever seen. Her face was ordinary and ruddy, and her fancy bonnet was just as common.",
+    "ko": "메리는 메들록 부인이 이제껏 본 사람 중에 가장 불쾌한 사람이라고 생각했다. 부인의 붉고 둔해 보이는 얼굴도 평범했고, 요란스레 꾸민 보닛 역시 천박하기 짝이 없어 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P027-2",
+    "en": "The next day, when they set out for Yorkshire, Mary walked through the station to the train carriage with her head held high. She tried to keep as far away from Mrs. Medlock as possible.",
+    "ko": "다음 날 요크셔로 출발하기 위해 기차역을 지나 객차로 걸어갈 때, 메리는 고개를 꼿꼿이 치켜세웠다. 그러고는 메들록 부인과 최대한 거리를 두며 걸었다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P027-3",
+    "en": "She didn't want to seem like she belonged to her. It would have made her furious if people thought she was Mrs. Medlock's little girl.",
+    "ko": "마치 부인의 일행이 아닌 것처럼 보이고 싶었기 때문이다. 사람들이 자신을 메들록 부인의 딸로 오해한다면 몹시 화가 날 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P028-1",
+    "en": "But Mrs. Medlock wasn't bothered by Mary or her thoughts at all. She was the kind of woman who \"wouldn't stand for any nonsense from young ones.\" At least, that's what she would have said if anyone had asked her.",
+    "ko": "하지만 메들록 부인은 메리의 기색이나 생각 따위엔 조금도 마음을 쓰지 않았다. 부인은 \"어린것들이 실없이 구는 꼴을 눈감아주지 않는\" 성미였다. 누가 물어보았다면 부인도 그렇게 대답했을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P028-2",
+    "en": "She hadn't wanted to go to London, especially since her sister Maria's daughter was getting married.",
+    "ko": "사실 부인은 여동생 마리아의 딸이 혼인을 앞두고 있었기에 런던까지 오고 싶지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P028-3",
+    "en": "But she had a comfortable, well-paid job as housekeeper at Misselthwaite Manor. The only way to keep it was to immediately do whatever Mr. Archibald Craven told her. She never even dared to ask a question.",
+    "ko": "하지만 미셀스웨이트 저택의 살림을 맡아 넉넉한 보수를 받는 이 자리를 보존하려면, 아치볼드 크레이븐 씨의 명령에 묻지도 따지지도 않고 즉각 따르는 수밖에 없었다. 그녀는 주인에게 감히 질문 하나 던질 배짱조차 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P029-1",
+    "en": "\"Captain Lennox and his wife died of cholera,\" Mr. Craven had said in his short, cold way. \"Captain Lennox was my wife's brother, and I am their daughter's guardian.",
+    "ko": "\"레녹스 대위 부부가 콜레라로 세상을 떠났소.\" 크레이븐 씨는 퉁명스럽고 냉정한 어조로 말했었다. \"대위는 내 처남이니, 내가 그들의 딸의 후견인을 맡겠소.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P029-2",
+    "en": "The child needs to be brought here. You must go to London and bring her yourself.\"",
+    "ko": "그 아이를 이곳으로 데려와야 하니, 당신이 직접 런던으로 가서 데려오도록 하시오.\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P030",
+    "en": "So, she packed her small trunk and made the trip.",
+    "ko": "그리하여 메들록 부인은 작은 트렁크를 챙겨 길을 떠났던 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P031-1",
+    "en": "Mary sat in her corner of the train carriage, looking plain and grumpy. She had nothing to read or look at. Her thin, black-gloved hands were folded in her lap.",
+    "ko": "메리는 뚱하고 볼품없는 얼굴로 기차 객차 구석에 앉아 있었다. 읽을 책도, 구경할 거리도 없었다. 검은 장갑을 낀 가냘픈 두 손은 무릎 위에 얌전히 포갠 채였다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P031-2",
+    "en": "Her black dress made her look even paler than usual. Her limp, light hair straggled out from under her black crepe hat.",
+    "ko": "칙칙한 검은 드레스는 메리의 핼쑥한 피부를 평소보다 훨씬 더 창백해 보이게 만들었다. 힘없이 처진 밝은색 머리카락이 검은색 크레이프 모자 아래로 부스스하게 비어져 나와 있었다.",
+    "is_header": false
+  }
+]

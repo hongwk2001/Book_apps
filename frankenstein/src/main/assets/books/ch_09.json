@@ -1,0 +1,492 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 5",
+    "ko": "제5장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "On a dreary November night, I finally witnessed the results of my hard work. With an anxiety bordering on agony, I gathered the instruments of life around me to breathe a spark of existence into the lifeless form at my feet.",
+    "ko": "음산한 11월의 어느 밤, 나는 마침내 내 노고의 결실을 목도하게 되었다. 거의 고통에 가까울 정도의 불안감 속에서 나는 생명의 도구들을 내 주변에 모아두었는데, 이는 내 발치에 놓인 생명 없는 형체에 존재의 불꽃을 불어넣기 위함이었다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P001-2",
+    "en": "It was already 1 a.m. The rain beat dismally against the windowpanes, and my candle was nearly burned out. Just then, in the dim, fading light, I saw the creature's dull yellow eyes open.",
+    "ko": "시간은 이미 새벽 1시를 가리키고 있었다. 빗방울이 창유리를 음산하게 두드렸고 촛불은 거의 다 타들어 가고 있었다. 바로 그때, 반쯤 꺼져가는 희미한 불빛 속에서 나는 그 피조물의 탁한 노란색 눈이 뜨이는 것을 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P001-3",
+    "en": "It breathed heavily, and a convulsive spasm shook its limbs.",
+    "ko": "그것은 거칠게 숨을 쉬었고, 발작적인 경련이 그 사지를 뒤흔들었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P002-1",
+    "en": "How can I find the words to describe my feelings in this catastrophic moment? How can I describe the miserable creature I had tried to form with such infinite care and effort?",
+    "ko": "이 참담한 순간의 내 감정을 어찌 말로 다 설명할 수 있겠는가. 그토록 무한한 수고와 정성을 들여 형상을 빚어내려 했던 그 비참한 존재를 어찌 묘사할 수 있겠는가?",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P002-2",
+    "en": "Its limbs were well-proportioned, and I had chosen features I thought were beautiful. Beautiful! Great God!",
+    "ko": "그 사지는 비율이 맞았고, 나는 아름답다고 생각되는 이목구비를 골라 그에게 부여했었다. 아름답다고! 위대하신 신이시여!",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P002-3",
+    "en": "His yellow skin barely covered the muscles and arteries beneath. His hair was shiny black and flowing, and his teeth were pearly white.",
+    "ko": "그의 노란 피부는 그 아래의 근육과 동맥을 간신히 덮고 있을 뿐이었다. 머리카락은 윤기 나는 검은색에 찰랑거렸으며, 치아는 진주처럼 새하얬다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P002-4",
+    "en": "But this richness only made a more horrifying contrast with his watery eyes, which looked almost the same color as the pale sockets they were set in, his shriveled face, and his straight black lips.",
+    "ko": "하지만 이러한 풍성함은 오히려 그의 물기 어린 눈동자와 더욱 끔찍한 대조를 이룰 뿐이었다. 그 눈동자는 그것이 박혀 있는 거무스름하고 하얀 눈구멍과 거의 같은 색으로 보였고, 그의 안색은 쪼그라들었으며 입술은 시커멓게 일자였다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P003-1",
+    "en": "The various accidents of life are not as unpredictable as human emotions. I had worked hard for nearly two years with the single goal of bringing a lifeless body to life. For this, I had given up both rest and health.",
+    "ko": "삶의 다양한 우연한 사건들도 인간의 감정만큼 변화무쌍하지는 않다. 나는 오로지 생명 없는 육체에 생명을 불어넣겠다는 목적 하나로 거의 2년 동안 고된 작업을 해왔다. 이를 위해 나는 휴식과 건강마저 포기했다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P003-2",
+    "en": "I had craved it with a passion that went far beyond reason. But now that the work was done, the beauty of the dream vanished, and breathless horror and disgust filled my heart.",
+    "ko": "나는 절도를 훨씬 넘어서는 열정으로 그것을 갈망해 왔다. 하지만 막상 일을 끝내고 나니, 그 꿈의 아름다움은 신기루처럼 사라지고 숨 막히는 공포와 혐오감이 내 심장을 가득 채웠다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P003-3",
+    "en": "Unable to stand the sight of the being I had created, I rushed out of the room. I paced around my bedroom for a long time, unable to calm my mind enough to sleep.",
+    "ko": "내가 창조한 그 존재의 끔찍한 몰골을 차마 견딜 수 없어 나는 서둘러 방을 뛰쳐나왔다. 그리고 오랫동안 침실 안을 서성였지만 잠을 청할 만큼 마음을 가라앉힐 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P003-4",
+    "en": "At last, extreme exhaustion took over after the intense turmoil I had experienced, and I threw myself on the bed in my clothes, trying to find a brief moment of forgetfulness. But it was no use. I did sleep, but I was tormented by the wildest dreams.",
+    "ko": "마침내 앞서 겪었던 극심한 혼란 뒤에 극도의 피로가 몰려왔고, 나는 옷을 입은 채로 침대에 몸을 던지며 잠시나마 잊기를 구했다. 그러나 헛된 일이었다. 잠이 들기는 했으나 가장 거칠고 기괴한 꿈들에 시달렸다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P003-5",
+    "en": "In my dream, I saw Elizabeth looking healthy and beautiful, walking down the streets of Ingolstadt. Thrilled and surprised, I embraced her. But as I placed my first kiss on her lips, they turned blue with the color of death.",
+    "ko": "꿈속에서 나는 건강하고 아름다운 엘리자베스가 잉골슈타트의 거리를 걷고 있는 것을 보았다. 기쁘고 놀라운 마음에 나는 그녀를 껴안았다. 그러나 내가 그녀의 입술에 첫 키스를 남기는 순간, 그녀의 입술은 죽음의 빛깔로 파랗게 질려갔다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P003-6",
+    "en": "Her features seemed to change, and suddenly I was holding my dead mother's corpse in my arms. A shroud wrapped her body, and I saw grave-worms crawling through the folds of the flannel.",
+    "ko": "그녀의 이목구비가 변하는 듯하더니, 어느새 나는 죽은 어머니의 시신을 품에 안고 있었다. 수의가 그녀의 몸을 감싸고 있었고, 덮인 플란넬의 주름 사이로 무덤의 구더기들이 기어 다니는 것이 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P003-7",
+    "en": "I woke up in terror. A cold sweat covered my forehead, my teeth chattered, and my whole body convulsed. Then, in the dim, yellow moonlight filtering through the window shutters, I saw it—the miserable monster I had created.",
+    "ko": "나는 공포에 질려 잠에서 깼다. 이마에는 차가운 식은땀이 맺혔고, 이가 부딪히며 온몸의 사지가 경련을 일으켰다. 그때, 창문을 통해 비쳐 드는 흐릿하고 누런 달빛 속에서 나는 보았다. 내가 창조해 낸 그 비참하고 가련한 괴물을.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P003-8",
+    "en": "He lifted the bed curtains, and his eyes—if they could be called eyes—stared right at me. His jaw opened, and he mumbled some meaningless sounds while a smile wrinkled his cheeks.",
+    "ko": "그가 침대 커버를 들어 올렸고, 눈이라 부를 수 있다면 눈이라고 할 그것이 나를 빤히 응시하고 있었다. 그의 턱이 열리더니 알 수 없는 소리를 웅얼거렸고, 두 뺨은 미소로 주름져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P003-9",
+    "en": "He might have said something, but I did not hear it. One hand reached out as if to grab me, but I broke free and hurried downstairs.",
+    "ko": "어쩌면 그가 무슨 말을 했을지도 모르지만 나는 듣지 못했다. 한 손이 쭉 뻗어 나와 나를 붙잡으려는 듯했지만, 나는 빠져나와 아래층으로 서둘러 도망쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P003-10",
+    "en": "I took shelter in the courtyard of my house, where I stayed for the rest of the night. I paced up and down in uncontrollable agitation, listening closely and fearing every sound. I was terrified each noise might signal the approach of the demonic corpse I had so miserably brought to life.",
+    "ko": "나는 내가 머무는 집의 안뜰로 피신했고, 밤새도록 그곳에 머물렀다. 걷잡을 수 없는 흥분 속에서 위아래로 서성거리며, 귀를 기울이고 모든 소리에 신경을 곤두세웠다. 마치 내가 그렇게 비참하게 생명을 부여한 그 악마 같은 시체가 다가오는 것을 알리는 소리일까 두려워하면서 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P004-1",
+    "en": "Oh! No human could bear the horror of that face. Even a mummy brought back to life would not be as hideous as that monster.",
+    "ko": "아! 어떤 인간도 그 끔찍한 얼굴을 견뎌내지는 못할 것이다. 다시 생명을 얻은 미라라 할지라도 그 괴물만큼 흉측하지는 않을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P004-2",
+    "en": "I had stared at him when he was unfinished. He was ugly even then, but once his muscles and joints could move, he became something so terrifying that not even Dante could have imagined it.",
+    "ko": "나는 아직 완성되지 않았을 때도 그를 응시했었다. 그때도 그는 흉측했지만, 근육과 관절이 움직일 수 있게 되자 단테조차 상상하지 못할 만큼 끔찍한 존재가 되어버렸다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P005-1",
+    "en": "I spent the night miserably. Sometimes my pulse beat so fast and hard that I could feel every artery throbbing; at other times, I almost collapsed to the ground from exhaustion and extreme weakness.",
+    "ko": "나는 그 밤을 비참하게 보냈다. 때로는 맥박이 너무 빠르고 강하게 뛰어 모든 동맥의 박동이 느껴질 정도였고, 때로는 나른함과 극도의 쇠약함으로 땅에 쓰러질 뻔했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P005-2",
+    "en": "Along with this terror, I felt the bitter taste of deep despair. The dream that had been my nourishment and sweet comfort for so long had now become a hell for me. The change was so sudden, and the downfall was so complete!",
+    "ko": "이 공포와 더불어 나는 깊은 절망의 쓴맛을 느꼈다. 그토록 오랜 시간 나의 양식이요 달콤한 안식처였던 꿈이 이제는 내게 지옥이 되어버린 것이다. 변화는 너무도 급작스러웠고, 몰락은 너무도 완벽했다!",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P006-1",
+    "en": "At last, a gloomy and wet morning arrived, and my sleepless, aching eyes saw the church of Ingolstadt. I could see its white steeple and the clock showing six o'clock.",
+    "ko": "마침내 음산하고 축축한 아침이 밝았고, 잠들지 못해 욱신거리는 내 눈앞에 잉골슈타트 교회의 모습이 드러났다. 하얀 첨탑과 6시를 가리키는 시계가 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P006-2",
+    "en": "The porter opened the gates of the courtyard that had been my refuge that night, and I stepped out into the streets. I hurried along with quick steps, terrified that the monster I feared would appear at every corner.",
+    "ko": "그날 밤 나의 피난처였던 뜰의 문을 문지기가 열었고, 나는 거리로 나섰다. 거리를 돌 때마다 내가 두려워하는 그 괴물이 나타날까 봐 두려워 잰걸음으로 서둘렀다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P006-3",
+    "en": "I didn't dare go back to the room where I lived, so I had to keep hurrying on. This was despite being completely soaked by the rain pouring from the dark, bleak sky.",
+    "ko": "내가 살던 방으로 돌아갈 엄두가 나지 않아 발걸음을 재촉할 수밖에 없었다. 어둡고 삭막한 하늘에서 쏟아지는 비에 온몸이 흠뻑 젖었음에도 불구하고 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P007-1",
+    "en": "I kept walking like this for a while, trying to ease the burden on my mind through physical movement. I wandered the streets without really knowing where I was or what I was doing.",
+    "ko": "나는 마음을 짓누르는 짐을 육체적인 움직임으로 조금이나마 덜어보려 애쓰며 한동안 이런 식으로 계속 걸었다. 내가 어디에 있는지, 무엇을 하고 있는지조차 제대로 인지하지 못한 채 거리를 헤맸다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P007-2",
+    "en": "My heart pounded with sick fear, and I rushed along with irregular steps, not daring to look around. Like a man on a lonely road, walking in fear and dread, who looks back once and then keeps walking, never turning his head again, because he knows a terrifying demon is walking close behind him. [Coleridge's \"Ancient Mariner.\"]",
+    "ko": "두려움에 질려 심장이 마구 뛰었고, 주위를 둘러볼 엄두조차 내지 못한 채 불규칙한 발걸음으로 서둘러 걸어갔다. 인적 드문 길을 걷는 자처럼, 두려움과 공포 속에서 걸으며, 한 번 뒤돌아본 후에는 계속 걸어갈 뿐, 다시는 고개를 돌리지 않네. 그의 바로 뒤에서 끔찍한 악마가 성큼성큼 쫓아오고 있음을 알기에. [콜리지의 \"노수부의 노래\"]",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P008-1",
+    "en": "As I kept walking, I eventually arrived opposite the inn where stagecoaches and carriages usually stopped. For some unknown reason, I paused there and stood for several minutes, staring at a coach approaching me from the other end of the street.",
+    "ko": "그렇게 계속 걷다 보니 어느새 여러 역마차와 마차들이 주로 멈춰 서는 여관 맞은편에 이르게 되었다. 나는 왜 그랬는지 모르게 그곳에 멈춰 섰고, 거리 반대편에서 내 쪽으로 다가오는 마차에 시선을 고정한 채 몇 분 동안 서 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P008-2",
+    "en": "As the coach got closer, I realized it was the Swiss stagecoach. It stopped exactly where I was standing, and when the door opened, I saw Henry Clerval, who instantly jumped out upon seeing me.",
+    "ko": "마차가 가까워지자 그것이 스위스행 역마차임을 알 수 있었다. 마차는 바로 내가 서 있는 곳에 멈춰 섰고, 문이 열리자 나를 보고 즉시 튀어나오는 헨리 클러벌의 모습이 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P008-3",
+    "en": "\"My dear Frankenstein,\" he exclaimed. \"I am so glad to see you! How incredibly lucky that you are here at the exact moment I arrived!\"",
+    "ko": "\"친애하는 프랑켄슈타인,\" 그가 외쳤다. \"자네를 만나다니 정말 반갑군! 내가 내리는 이 순간 자네가 이곳에 있다니 얼마나 다행스러운 일인가!\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P009-1",
+    "en": "My joy at seeing Clerval was beyond compare. His presence brought back thoughts of my father, Elizabeth, and all the precious scenes of my hometown in my memories.",
+    "ko": "클러벌을 본 나의 기쁨은 무엇과도 비교할 수 없었다. 그의 존재는 내 마음에 아버지와 엘리자베스, 그리고 내 기억 속에 그토록 소중한 고향의 모든 풍경들을 되살려 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P009-2",
+    "en": "I grabbed his hand tightly, and in an instant, I forgot my terror and misfortune. For the first time in months, I suddenly felt a calm and peaceful joy. I welcomed my friend with the most sincere warmth, and we walked toward my university.",
+    "ko": "나는 그의 손을 꽉 잡았고, 한순간에 나의 공포와 불행을 잊어버렸다. 수개월 만에 처음으로 갑자기 고요하고 평온한 기쁨을 느꼈다. 나는 가장 진심 어린 태도로 친구를 맞이했고, 우리는 내 대학을 향해 걸어갔다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P009-3",
+    "en": "Clerval talked for a while about our mutual friends and how lucky he was to be allowed to come to Ingolstadt. \"As you can easily imagine,\" he said, \"it was extremely difficult to convince my father that all necessary knowledge isn't limited to the noble art of bookkeeping.",
+    "ko": "클러벌은 우리들의 공통된 친구들과 잉골슈타트에 오게 된 자신의 행운에 대해 한동안 이야기했다. \"자네도 쉽게 믿겠지만,\" 그가 말했다. \"세상의 모든 필수적인 지식이 장부 정리라는 고귀한 기술에만 국한되지 않는다는 사실을 아버지에게 설득하는 것은 정말 어려운 일이었네.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P009-4",
+    "en": "\"In fact, I think he remained unconvinced to the very end. His constant reply to my endless pleading was exactly like the Dutch schoolmaster in The Vicar of Wakefield: 'I earn ten thousand florins a year without Greek, and I eat perfectly well without Greek.'\"",
+    "ko": "사실 나는 마지막까지 아버지가 믿지 않으셨다고 생각하네. 왜냐하면 내 지칠 줄 모르는 간청에 대한 아버지의 한결같은 대답은 웨이크필드의 목사에 나오는 네덜란드인 교장 선생님의 말과 같았기 때문이지. '나는 그리스어를 몰라도 1년에 1만 플로린을 번단다. 그리스어를 몰라도 밥만 잘 먹지.'",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P009-5",
+    "en": "\"But his love for me finally overcame his dislike of education, and he allowed me to go on a voyage of discovery to the land of knowledge.\"",
+    "ko": "하지만 나를 향한 아버지의 애정이 결국 학문에 대한 반감을 이겨냈고, 지식의 땅으로 탐험을 떠나는 것을 허락해 주셨지.\"",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P010-1",
+    "en": "\"I am incredibly happy to see you. But tell me how my father, brothers, and Elizabeth are doing.\"",
+    "ko": "\"자네를 보게 되어 더할 나위 없이 기쁘네. 하지만 아버지와 동생들, 그리고 엘리자베스는 어떻게 지내는지 말해주게.\"",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P011-1",
+    "en": "\"They are doing very well and are very happy. They are just a little worried because they hear from you so rarely. By the way, I need to scold you a bit on their behalf.",
+    "ko": "\"아주 잘 지내고 매우 행복하다네. 다만 자네의 소식을 너무 드물게 들어서 조금 걱정하고 계시지. 참, 그분들을 대신해서 나도 자네에게 훈계 좀 해야겠어.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P011-2",
+    "en": "\"But, my dear Frankenstein,\" he continued, stopping and looking closely at my face. \"I didn't notice earlier how sick you look. You are so thin and pale. You look like you haven't slept for several nights.\"",
+    "ko": "하지만, 사랑하는 프랑켄슈타인,\" 그는 말을 멈추고 내 얼굴을 빤히 쳐다보며 계속했다. \"아까는 미처 몰랐는데 자네 안색이 정말 안 좋아 보이네. 너무 마르고 창백해. 며칠 밤을 새운 사람 같아.\"",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P012-1",
+    "en": "\"You guessed correctly. I have recently been so deeply engrossed in a single project that, as you can see, I haven't gotten enough rest. But I sincerely hope and pray that all this work is now finished and that I am finally free.\"",
+    "ko": "\"자네 짐작이 맞네. 최근 한 가지 일에 너무 깊이 빠져서, 자네가 보시다시피 충분히 쉬지 못했어. 하지만 이 모든 일들이 이제 끝나고 마침내 내가 자유로워지기를 진심으로 바라고, 또 바라고 있다네.\"",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P013-1",
+    "en": "I trembled violently. I couldn't bear to think about, let alone mention, the events of the previous night. I walked at a quick pace, and we soon arrived at my university.",
+    "ko": "나는 심하게 몸을 떨었다. 지난밤의 일들을 생각하는 것은 물론이고 그것을 언급하는 것조차 견딜 수 없었다. 나는 빠른 걸음으로 걸었고 우리는 곧 내 대학에 도착했다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P013-2",
+    "en": "Then it hit me, and the thought made me shudder, that the creature I had left in my room might still be alive and walking around in there.",
+    "ko": "그때 나는 내가 방에 남겨둔 그 피조물이 아직도 살아서 걸어 다니고 있을지도 모른다는 생각에 몸서리를 쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P013-3",
+    "en": "I was terrified of running into the monster, but I was even more afraid that Henry would see him. So I begged Henry to wait at the bottom of the stairs for a few minutes while I quickly ran up to my room.",
+    "ko": "나는 그 괴물과 마주치는 것도 두려웠지만, 헨리가 그를 보게 되는 것이 더 두려웠다. 그래서 나는 헨리에게 계단 아래에 잠시만 머물러 달라고 간청한 뒤 내 방을 향해 재빨리 올라갔다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P013-4",
+    "en": "My hand was already holding the door handle before I came to my senses. I paused, and a cold shiver ran through my whole body.",
+    "ko": "내 손이 문고리를 잡고 나서야 정신이 들었다. 나는 잠시 멈칫했고, 차가운 전율이 전신을 감돌았다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P013-5",
+    "en": "I threw the door open forcefully, just like children do when they expect a ghost to be waiting for them on the other side, but nothing appeared.",
+    "ko": "나는 문 반대편에 유령이 기다리고 있을 것이라 예상할 때 아이들이 흔히 그러듯 문을 힘껏 열어젖혔지만, 아무것도 나타나지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P013-6",
+    "en": "I stepped inside fearfully. The apartment was empty, and my bedroom was also free of its horrifying guest. I could hardly believe such great luck had come my way. When I was finally sure my enemy had truly run away, I clapped my hands in joy and ran downstairs to Clerval.",
+    "ko": "나는 두려움에 떨며 방 안으로 발을 들여놓았다. 아파트는 비어 있었고, 내 침실 역시 끔찍한 불청객으로부터 해방되어 있었다. 나는 이토록 큰 행운이 내게 찾아왔다는 사실을 거의 믿을 수 없었지만, 내 적이 정말로 달아났다는 것을 확신하게 되자 나는 기쁨에 겨워 손뼉을 치며 클러벌에게 뛰어내려갔다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P014-1",
+    "en": "We went up to my room, and a servant soon brought breakfast. But I was so excited I couldn't control myself. Joy wasn't the only thing I felt. My skin tingled from oversensitivity, and my heart beat frantically.",
+    "ko": "우리는 내 방으로 올라갔고, 곧 하인이 아침 식사를 가져왔다. 그러나 나는 주체할 수 없을 만큼 흥분해 있었다. 나를 사로잡은 것은 단지 기쁨만이 아니었다. 나는 과도한 감각으로 인해 피부가 따끔거렸고 심장 박동은 미친 듯이 뛰었다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P014-2",
+    "en": "I couldn't sit still for even a single second. I jumped over chairs, clapped my hands, and laughed out loud.",
+    "ko": "단 한순간도 한곳에 가만히 있을 수 없었다. 나는 의자를 뛰어넘고, 손뼉을 치며 소리 내어 웃었다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P014-3",
+    "en": "At first, Clerval thought my unusual excitement was just joy at his arrival. But as he watched me more closely, he noticed an unexplainable madness in my eyes, and my loud, uncontrollable, soulless laughter scared and shocked him.",
+    "ko": "클러벌은 처음에는 내 비정상적인 흥분이 자신이 온 것에 대한 기쁨 때문이라고 여겼다. 그러나 나를 더 주의 깊게 관찰한 그는 설명할 수 없는 내 눈의 광기를 보았고, 내 크고 억제되지 않은, 영혼 없는 웃음소리에 겁을 먹고 놀랐다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P015-1",
+    "en": "\"My dear Victor,\" he cried. \"For God's sake, what is wrong? Don't laugh like that. You look so sick! What is the cause of all this?\"",
+    "ko": "\"사랑하는 빅터,\" 그가 소리쳤다. \"제발, 대체 무슨 일인가? 그런 식으로 웃지 말게. 자네 정말 아파 보이네! 이 모든 것의 원인이 무엇인가?\"",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P016-1",
+    "en": "\"Don't ask me,\" I yelled, covering my eyes with my hands because I thought I saw the terrifying ghost glide into the room. \"He would know. Oh, save me! Save me!\"",
+    "ko": "\"묻지 마,\" 나는 두려운 유령이 방 안으로 미끄러져 들어오는 것을 보았다고 생각하여 두 손으로 눈을 가리며 소리쳤다. \"그놈은 알 거야. 오, 날 구해줘! 날 구해줘!\"",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P016-2",
+    "en": "I imagined the monster had grabbed me. I struggled desperately before collapsing in a fit.",
+    "ko": "나는 괴물이 나를 붙잡았다고 상상했다. 나는 필사적으로 발버둥 치다가 발작을 일으키며 쓰러졌다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P017-1",
+    "en": "Poor Clerval! What must he have felt? A reunion he had looked forward to with so much joy had strangely turned into bitterness.",
+    "ko": "가엾은 클러벌! 그의 심정이 어땠을까? 그토록 기쁘게 고대했던 만남이 이토록 이상하게도 씁쓸함으로 바뀌어버리다니.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P017-2",
+    "en": "But I didn't witness his sadness because I lost consciousness and didn't wake up for a very long time.",
+    "ko": "그러나 나는 의식을 잃었고 아주 오랫동안 정신을 차리지 못했기 때문에 그의 슬픔을 목격하지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P018-1",
+    "en": "This was the start of a nervous fever that kept me bedridden for several months. During all that time, Henry was my only nurse.",
+    "ko": "이것이 수개월 동안 나를 꼼짝 못 하게 한 신경열의 시작이었다. 그 모든 시간 동안 헨리는 나의 유일한 간호사였다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P018-2",
+    "en": "I later found out that he hid the true severity of my illness from my family. He knew my father was too old to handle such a long journey and that the news of my sickness would make Elizabeth miserable, so he spared them that grief.",
+    "ko": "나중에 알게 된 사실이지만, 그는 아버지가 연로하시어 그토록 긴 여행을 감당하기 힘드실 거라는 점, 그리고 내 병이 엘리자베스를 얼마나 비참하게 만들지를 알고 있었기에, 내 병세의 심각성을 숨겨 그들에게 이러한 슬픔을 덜어주었다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P018-3",
+    "en": "He knew I couldn't have a kinder or more attentive nurse than himself. And because he strongly believed I would recover, he had no doubt that this was the most caring thing he could do for them, rather than causing them harm.",
+    "ko": "그는 자신이 나를 보살피는 것 이상으로 다정하고 세심한 간호사는 없을 것이라는 점을 알았다. 또한 그는 나의 회복을 굳게 믿었기에, 그런 행동이 오히려 해가 되기보다는 그들을 위한 가장 친절한 처사라고 믿어 의심치 않았던 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P019-1",
+    "en": "But I was actually very sick, and only my friend's endless and constant care brought me back to life. The image of the monster I had brought to life was constantly in front of my eyes, and I babbled about him endlessly.",
+    "ko": "하지만 나는 실제로 매우 심각하게 앓았고, 친구의 무한하고 끊임없는 보살핌이 아니었다면 결코 살아나지 못했을 것이다. 내가 생명을 불어넣어 준 그 괴물의 형상이 늘 내 눈앞에 맴돌았고, 나는 끊임없이 그에 대해 헛소리를 늘어놓았다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P019-2",
+    "en": "My words undoubtedly shocked Henry. At first, he thought they were just the nonsense of my confused imagination. But because I stubbornly kept repeating the same subject, he became convinced that my illness was caused by some unusual and terrible event.",
+    "ko": "의심할 여지 없이 내 말은 헨리를 놀라게 했을 것이다. 처음에는 내 혼란스러운 상상력이 만들어낸 헛소리라 믿었지만, 내가 똑같은 주제를 끈질기게 반복하자 그는 내 병이 무언가 비정상적이고 끔찍한 사건에서 비롯되었다고 확신하게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P020-1",
+    "en": "Very slowly, and with frequent relapses that scared and saddened my friend, I began to recover.",
+    "ko": "아주 서서히, 그리고 친구를 놀라게 하고 슬프게 만든 잦은 재발을 거치면서 나는 회복되어 갔다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P020-2",
+    "en": "I remember the first day I was able to look at things outside with any sense of pleasure. I noticed that the fallen leaves were gone and young buds were sprouting on the trees outside my window.",
+    "ko": "내가 다시 어떤 즐거움을 가지고 외부의 사물들을 관찰할 수 있게 된 첫날을 기억한다. 나는 떨어졌던 낙엽들이 사라지고 내 창문을 가려주던 나무에서 어린 새싹들이 돋아나는 것을 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P020-3",
+    "en": "It was a divine spring, and the change of season helped my recovery immensely.",
+    "ko": "그것은 성스러운 봄이었고, 계절의 변화는 내 회복에 큰 도움을 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P020-4",
+    "en": "Feelings of joy and affection blossomed in my heart again, and my depression vanished. Before long, I became just as cheerful as I was before that deadly obsession took hold of me.",
+    "ko": "내 가슴속에는 다시 기쁨과 애정의 감정이 피어났고, 우울함은 사라져 버렸다. 그리고 얼마 지나지 않아 나는 그 치명적인 열정에 사로잡히기 전처럼 쾌활해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P021-1",
+    "en": "\"My dearest Clerval,\" I exclaimed. \"You are so kind and so good to me. You wasted this entire winter in my sickroom instead of studying as you had promised yourself.",
+    "ko": "\"가장 사랑하는 클러벌,\" 나는 외쳤다. \"자네는 내게 얼마나 친절하고 얼마나 좋은 사람인가. 올겨울 내내 자네가 약속했던 학업에 몰두하는 대신 내 병실에서 시간을 허비해 버렸네.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P021-2",
+    "en": "\"How can I ever repay you? I feel so guilty for the disappointment I've caused you. But please forgive me.\"",
+    "ko": "내가 이 은혜를 어떻게 다 갚을 수 있겠는가? 나 때문에 자네가 겪은 실망감에 큰 죄책감을 느끼네. 하지만 나를 용서해 주게.\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P022-1",
+    "en": "\"You will repay me completely if you stop worrying and get well as fast as you can. And since you seem to be in such good spirits, can I talk to you about one thing?\"",
+    "ko": "\"자네가 불안해하지 않고 최대한 빨리 건강을 되찾는다면 내게 온전히 다 갚는 거라네. 그리고 자네가 이렇게 기분이 좋아 보이니, 한 가지 주제에 대해 이야기해도 되겠지?\"",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P023-1",
+    "en": "I trembled. One thing! What could it be? Was he hinting at the terrible creature I didn't even dare to think about?",
+    "ko": "나는 몸을 떨었다. 한 가지 주제라니! 그게 대체 무엇일까? 설마 내가 감히 생각조차 할 수 없는 그 끔찍한 존재를 암시하는 것일까?",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P024-1",
+    "en": "\"Calm down,\" Clerval said, noticing my face change color. \"I won't bring it up if it upsets you. But your father and cousin would be so happy to receive a handwritten letter from you.",
+    "ko": "\"진정하게,\" 안색이 변하는 것을 본 클러벌이 말했다. \"자네를 동요하게 한다면 언급하지 않겠네. 하지만 자네 아버지와 사촌은 자네가 직접 쓴 편지를 받는다면 매우 기뻐하실 걸세.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P024-2",
+    "en": "\"They hardly know how sick you have been, and they are worried about your long silence.\"",
+    "ko": "두 분은 자네가 얼마나 아팠는지 잘 모르시고, 자네의 오랜 침묵에 불안해하고 계시네.\"",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P025-1",
+    "en": "\"Is that all, my dear Henry? How could you think my first thought wouldn't be of the loving family and friends who I love and who truly deserve my love?\"",
+    "ko": "\"그게 전부인가, 사랑하는 헨리? 내 첫 생각이 내가 사랑하고, 또 내 사랑을 받기에 충분한 사랑하는 나의 가족과 친구들에게 향하지 않았으리라 어떻게 짐작할 수 있단 말인가?\"",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P026-1",
+    "en": "\"If that's how you feel right now, my friend, you might be glad to see a letter that has been waiting here for you for a few days. I believe it's from your cousin.\"",
+    "ko": "\"자네가 지금 그런 마음이라면, 며칠 전부터 이곳에 자네를 기다리고 있던 편지 한 통을 보면 기뻐할지도 모르겠군. 내 생각엔 자네 사촌이 보낸 것 같아.\"",
+    "is_header": false
+  }
+]

@@ -1,0 +1,275 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 9",
+    "ko": "제9장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "Nothing is more painful to the human mind than, after the feelings have been worked up by a quick succession of events, the dead calmness of inaction and certainty which follows and deprives the soul both of hope and fear. Justine died, she rested, and I was alive. The blood flowed freely in my veins, but a weight of despair and remorse pressed on my heart which nothing could remove.",
+    "ko": "인간의 마음에 있어서, 일련의 사건들이 빠르게 이어지며 감정이 극도로 격앙된 뒤에 찾아오는 무기력과 확실성의 죽은 듯한 고요함, 그리하여 영혼에서 희망과 두려움을 모두 앗아가는 것만큼 고통스러운 것은 없다. 저스틴은 죽어 안식을 얻었으나, 나는 살아있었다. 내 혈관 속에는 피가 막힘없이 흐르고 있었지만, 그 어떤 것으로도 덜어낼 수 없는 절망과 회한의 무게가 내 심장을 짓눌렀다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P001-2",
+    "en": "Sleep fled from my eyes; I wandered like an evil spirit, for I had committed deeds of mischief beyond description horrible, and more, much more (I persuaded myself) was yet behind. Yet my heart overflowed with kindness and the love of virtue. I had begun life with benevolent intentions and thirsted for the moment when I should put them in practice and make myself useful to my fellow beings.",
+    "ko": "잠은 내 두 눈에서 달아나버렸다. 나는 악령처럼 떠돌았다. 이루 말할 수 없이 끔찍한 악행을 저질렀고, 스스로 확신하건대 그보다 훨씬, 훨씬 더 많은 악행들이 아직 내 뒤에 도사리고 있었기 때문이다. 그럼에도 내 마음은 다정함과 미덕에 대한 사랑으로 넘쳐흘렀다. 나는 선의를 품고 삶을 시작했으며, 그것을 실천에 옮겨 동류의 인간들에게 쓸모 있는 사람이 될 순간을 갈망해 왔다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P001-3",
+    "en": "Now all was blasted; instead of that serenity of conscience which allowed me to look back upon the past with self-satisfaction, and from thence to gather promise of new hopes, I was seized by remorse and the sense of guilt, which hurried me away to a hell of intense tortures such as no language can describe.",
+    "ko": "그러나 이제 모든 것이 산산조각 났다. 과거를 만족스럽게 돌아보게 해 주고 거기서 새로운 희망의 약속을 끌어내게 해 주던 양심의 평온함 대신, 나는 회한과 죄책감에 사로잡혔고, 그것은 어떤 언어로도 형용할 수 없는 극심한 고문의 지옥으로 나를 몰아넣었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P002-1",
+    "en": "This state of mind preyed upon my health, which had perhaps never entirely recovered from the first shock it had sustained. I shunned the face of man; all sound of joy or complacency was torture to me; solitude was my only consolation—deep, dark, deathlike solitude.",
+    "ko": "이러한 마음 상태는 내 건강을 갉아먹었다. 어쩌면 처음 받았던 충격에서 결코 완전히 회복되지 못한 탓일 수도 있었다. 나는 사람들의 얼굴을 피했다. 모든 기쁨이나 만족의 소리는 내게 고문이었다. 고독, 그 깊고 어둡고 죽음 같은 고독만이 나의 유일한 위안이었다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003-1",
+    "en": "My father observed with pain the alteration perceptible in my disposition and habits and endeavoured by arguments deduced from the feelings of his serene conscience and guiltless life to inspire me with fortitude and awaken in me the courage to dispel the dark cloud which brooded over me. “Do you think, Victor,” said he, “that I do not suffer also?",
+    "ko": "아버지는 내 성향과 습관에 뚜렷이 나타난 변화를 고통스럽게 지켜보셨고, 당신의 평온한 양심과 죄 없는 삶에서 비롯된 감정들을 근거로 삼아 내게 불굴의 의지를 불어넣고, 나를 짓누르는 짙은 먹구름을 떨쳐버릴 용기를 일깨워 주려 애쓰셨다. \"빅터,\" 아버지가 말씀하셨다. \"너는 나 역시 고통받고 있다는 사실을 모르는 거냐?",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P003-2",
+    "en": "No one could love a child more than I loved your brother”—tears came into his eyes as he spoke—“but is it not a duty to the survivors that we should refrain from augmenting their unhappiness by an appearance of immoderate grief? It is also a duty owed to yourself, for excessive sorrow prevents improvement or enjoyment, or even the discharge of daily usefulness, without which no man is fit for society.”",
+    "ko": "내가 네 동생을 사랑했던 것 이상으로 자식을 사랑할 수 있는 사람은 없을 거다.\" 아버지는 말씀하시며 눈물을 글썽이셨다. \"하지만 지나친 슬픔을 겉으로 드러내어 남은 이들의 불행을 가중시키지 않는 것이 살아남은 자들의 의무가 아니겠니? 그것은 너 자신에 대한 의무이기도 하다. 과도한 슬픔은 자기 발전이나 즐거움을 가로막고, 심지어 매일매일의 유용한 일상조차 수행하지 못하게 만드는데, 그런 일상 없이는 어떤 인간도 사회에 적합할 수 없단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-1",
+    "en": "This advice, although good, was totally inapplicable to my case; I should have been the first to hide my grief and console my friends if remorse had not mingled its bitterness, and terror its alarm, with my other sensations. Now I could only answer my father with a look of despair and endeavour to hide myself from his view.",
+    "ko": "이 조언은 비록 좋은 말씀이었지만, 내 경우에는 전혀 들어맞지 않았다. 만약 내 다른 감정들에 회한의 씁쓸함과 공포의 두려움이 뒤섞여 있지 않았더라면, 내가 가장 먼저 내 슬픔을 숨기고 친구들을 위로했을 것이다. 하지만 지금 나는 절망적인 표정으로 아버지에게 대답하고, 아버지의 시선에서 나 자신을 숨기려 애쓸 수밖에 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005-1",
+    "en": "About this time we retired to our house at Belrive. This change was particularly agreeable to me. The shutting of the gates regularly at ten o’clock and the impossibility of remaining on the lake after that hour had rendered our residence within the walls of Geneva very irksome to me.",
+    "ko": "이 무렵 우리는 벨리브에 있는 우리 집으로 물러나 지냈다. 이 변화는 내게 특히 반가운 일이었다. 제네바 성벽 안에서의 생활은 밤 열 시면 어김없이 성문이 닫히고 그 시간 이후로는 호수에 남아 있을 수 없다는 점 때문에 내게 무척 답답했었다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-2",
+    "en": "I was now free. Often, after the rest of the family had retired for the night, I took the boat and passed many hours upon the water. Sometimes, with my sails set, I was carried by the wind; and sometimes, after rowing into the middle of the lake, I left the boat to pursue its own course and gave way to my own miserable reflections.",
+    "ko": "이제 나는 자유로웠다. 종종 가족들이 모두 잠자리에 든 후, 나는 보트를 타고 물 위에서 몇 시간이고 시간을 보냈다. 때로는 돛을 올린 채 바람에 이끌려가기도 했고, 때로는 호수 한가운데로 노를 저어간 다음 보트가 제멋대로 흘러가게 내버려 둔 채 내 비참한 상념에 빠져들기도 했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005-3",
+    "en": "I was often tempted, when all was at peace around me, and I the only unquiet thing that wandered restless in a scene so beautiful and heavenly—if I except some bat, or the frogs, whose harsh and interrupted croaking was heard only when I approached the shore—often, I say, I was tempted to plunge into the silent lake, that the waters might close over me and my calamities for ever. But I was restrained, when I thought of the heroic and suffering Elizabeth, whom I tenderly loved, and whose existence was bound up in mine.",
+    "ko": "주변의 모든 것이 평화로운데, 이토록 아름답고 천상 같은 풍경 속에서 쉴 새 없이 방황하는 불안한 존재는 나 하나뿐일 때—해변에 다가갈 때만 들려오는 거칠고 뚝뚝 끊기는 개구리 울음소리나 박쥐 정도를 제외한다면—나는 종종 충동에 사로잡혔다. 호수의 고요한 물속으로 뛰어들어, 물이 나와 내 재앙을 영원히 덮어버리게 하고 싶은 충동에 종종 휩싸였다. 하지만, 내가 깊이 사랑했고 그 존재가 내 삶과 얽혀 있는 영웅적이고 고통받는 엘리자베스를 떠올리면 그 충동을 억누르게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005-4",
+    "en": "I thought also of my father and surviving brother; should I by my base desertion leave them exposed and unprotected to the malice of the fiend whom I had let loose among them?",
+    "ko": "나는 또한 아버지와 살아남은 동생을 생각했다. 나의 비열한 도피로 인해, 내가 그들 사이에 풀어놓은 악마의 악의 앞에 그들을 무방비 상태로 남겨두어야 한단 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006-1",
+    "en": "At these moments I wept bitterly and wished that peace would revisit my mind only that I might afford them consolation and happiness. But that could not be. Remorse extinguished every hope.",
+    "ko": "이런 순간에 나는 비통하게 울며, 오직 그들에게 위안과 행복을 줄 수 있도록 내 마음에 평화가 다시 찾아오기를 바랐다. 하지만 그럴 수 없었다. 회한이 모든 희망을 앗아갔다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006-2",
+    "en": "I had been the author of unalterable evils, and I lived in daily fear lest the monster whom I had created should perpetrate some new wickedness. I had an obscure feeling that all was not over and that he would still commit some signal crime, which by its enormity should almost efface the recollection of the past. There was always scope for fear so long as anything I loved remained behind.",
+    "ko": "나는 돌이킬 수 없는 악의 창조자였고, 내가 만든 괴물이 또 다른 새로운 악행을 저지르지 않을까 하는 두려움 속에 매일 살아야 했다. 나는 아직 모든 것이 끝나지 않았으며, 그가 그 거대함으로 과거의 기억을 거의 지워버릴 만한 또 다른 끔찍한 범죄를 저지를 것이라는 막연한 예감을 안고 있었다. 내가 사랑하는 존재가 남아 있는 한, 두려움의 여지는 항상 존재했다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P006-3",
+    "en": "My abhorrence of this fiend cannot be conceived. When I thought of him I gnashed my teeth, my eyes became inflamed, and I ardently wished to extinguish that life which I had so thoughtlessly bestowed. When I reflected on his crimes and malice, my hatred and revenge burst all bounds of moderation.",
+    "ko": "이 악마에 대한 나의 혐오감은 상상할 수 없을 정도다. 그를 떠올릴 때면 나는 이를 갈았고, 눈은 핏발이 섰으며, 내가 너무나 경솔하게 부여했던 그 생명을 꺼버리고 싶어 열렬히 갈망했다. 그의 범죄와 악의를 되새길 때면, 내 증오와 복수심은 모든 인내의 한계를 무너뜨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P006-4",
+    "en": "I would have made a pilgrimage to the highest peak of the Andes, could I, when there, have precipitated him to their base. I wished to see him again, that I might wreak the utmost extent of abhorrence on his head and avenge the deaths of William and Justine.",
+    "ko": "안데스 산맥의 가장 높은 봉우리에 순례를 떠나, 그곳에서 그를 산 밑바닥으로 떨어뜨릴 수만 있다면 기꺼이 그렇게 했을 것이다. 나는 그를 다시 만나, 내 혐오감의 극치를 그의 머리 위에 쏟아붓고 윌리엄과 저스틴의 죽음을 복수하고 싶었다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P007-1",
+    "en": "Our house was the house of mourning. My father’s health was deeply shaken by the horror of the recent events. Elizabeth was sad and desponding; she no longer took delight in her ordinary occupations; all pleasure seemed to her sacrilege toward the dead; eternal woe and tears she then thought was the just tribute she should pay to innocence so blasted and destroyed.",
+    "ko": "우리 집은 애도의 집이었다. 아버지의 건강은 최근 일어난 사건들의 공포로 깊이 흔들렸다. 엘리자베스는 슬프고 낙담해 있었다. 그녀는 더 이상 일상적인 일에서 기쁨을 찾지 못했다. 모든 즐거움이 죽은 자들에 대한 신성모독처럼 느껴졌으며, 그토록 비참하게 파괴된 순결함에 바칠 수 있는 정당한 공물은 오직 영원한 슬픔과 눈물뿐이라고 생각했다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P007-2",
+    "en": "She was no longer that happy creature who in earlier youth wandered with me on the banks of the lake and talked with ecstasy of our future prospects. The first of those sorrows which are sent to wean us from the earth had visited her, and its dimming influence quenched her dearest smiles.",
+    "ko": "그녀는 더 이상 어린 시절 호숫가를 나와 함께 거닐며 우리 미래의 전망에 대해 황홀하게 이야기하던 그 행복한 피조물이 아니었다. 우리를 이 세상에서 떼어놓기 위해 보내진 그 첫 번째 슬픔이 그녀를 찾아왔고, 그 우울한 영향력이 그녀의 가장 사랑스러운 미소를 앗아가 버렸다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P008-1",
+    "en": "“When I reflect, my dear cousin,” said she, “on the miserable death of Justine Moritz, I no longer see the world and its works as they before appeared to me. Before, I looked upon the accounts of vice and injustice that I read in books or heard from others as tales of ancient days or imaginary evils; at least they were remote and more familiar to reason than to the imagination; but now misery has come home, and men appear to me as monsters thirsting for each other’s blood.",
+    "ko": "\"내 사랑하는 사촌,\" 그녀가 말했다. \"저스틴 모리츠의 비참한 죽음을 생각할 때면, 나는 더 이상 이 세상과 그 일들이 예전처럼 보이지 않아. 예전에는 책에서 읽거나 다른 사람들에게 들었던 악덕과 불의에 대한 이야기들을 옛날이야기나 상상 속의 악으로만 여겼지. 적어도 그것들은 멀리 떨어져 있었고 상상보다는 이성에 더 친숙한 것들이었어. 하지만 이제 불행이 우리 집에 찾아왔고, 사람들은 서로의 피를 갈망하는 괴물처럼 보여.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P008-2",
+    "en": "Yet I am certainly unjust. Everybody believed that poor girl to be guilty; and if she could have committed the crime for which she suffered, assuredly she would have been the most depraved of human creatures. For the sake of a few jewels, to have murdered the son of her benefactor and friend, a child whom she had nursed from its birth, and appeared to love as if it had been her own!",
+    "ko": "하지만 확실히 내가 불공평한 거겠지. 모두가 그 불쌍한 소녀를 유죄라고 믿었잖아. 만약 그녀가 자신이 처벌받은 그 범죄를 저지를 수 있었다면, 확실히 그녀는 인간 중 가장 타락한 존재였을 거야. 단지 몇 개의 보석 때문에 자신의 은인이자 친구의 아들을, 태어날 때부터 직접 돌보았고 마치 자기 자식처럼 사랑하는 듯했던 아이를 살해하다니!",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P008-3",
+    "en": "I could not consent to the death of any human being, but certainly I should have thought such a creature unfit to remain in the society of men. But she was innocent. I know, I feel she was innocent; you are of the same opinion, and that confirms me.",
+    "ko": "나는 어떤 인간의 죽음에도 동의할 수 없지만, 그런 피조물이라면 분명 인간 사회에 남아있을 자격이 없다고 생각했을 거야. 하지만 그녀는 무죄였어. 알아, 그녀가 무죄였다는 걸 느껴. 너도 같은 생각이니 그게 내 확신을 굳혀주지.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P008-4",
+    "en": "Alas! Victor, when falsehood can look so like the truth, who can assure themselves of certain happiness? I feel as if I were walking on the edge of a precipice, towards which thousands are crowding and endeavouring to plunge me into the abyss.",
+    "ko": "아! 빅터, 거짓이 그토록 진실과 닮아 보일 수 있다면, 누가 확실한 행복을 보장할 수 있겠어? 나는 마치 수천 명의 사람들이 모여들어 나를 심연으로 밀어 넣으려 하는 절벽 가장자리를 걷고 있는 것만 같아.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P008-5",
+    "en": "William and Justine were assassinated, and the murderer escapes; he walks about the world free, and perhaps respected. But even if I were condemned to suffer on the scaffold for the same crimes, I would not change places with such a wretch.”",
+    "ko": "윌리엄과 저스틴은 암살당했는데 살인자는 도망쳤지. 그는 이 세상을 자유롭게, 어쩌면 존경받으며 걸어 다니고 있을 거야. 하지만 내가 같은 범죄로 교수대에서 고통받도록 선고받는다 하더라도, 나는 결코 그런 악당과 자리를 바꾸지 않겠어.\"",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P009-1",
+    "en": "I listened to this discourse with the extremest agony. I, not in deed, but in effect, was the true murderer. Elizabeth read my anguish in my countenance, and kindly taking my hand, said, “My dearest friend, you must calm yourself.",
+    "ko": "나는 이 이야기를 들으며 극도의 고통을 느꼈다. 행동은 아니었지만, 결과적으로 내가 바로 진범이었기 때문이다. 엘리자베스는 내 얼굴에서 그 고뇌를 읽고 상냥하게 내 손을 잡으며 말했다. \"가장 사랑하는 내 친구, 제발 진정해.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P009-2",
+    "en": "These events have affected me, God knows how deeply; but I am not so wretched as you are. There is an expression of despair, and sometimes of revenge, in your countenance that makes me tremble. Dear Victor, banish these dark passions.",
+    "ko": "이 사건들이 내게 얼마나 깊은 영향을 미쳤는지는 신만이 아실 거야. 하지만 나는 너만큼 비참하지는 않아. 네 얼굴에는 절망, 그리고 때로는 복수심의 표정이 서려 있어서 나를 떨게 만들어. 사랑하는 빅터, 이 어두운 열정들을 떨쳐버려.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P009-3",
+    "en": "Remember the friends around you, who centre all their hopes in you. Have we lost the power of rendering you happy? Ah! While we love, while we are true to each other, here in this land of peace and beauty, your native country, we may reap every tranquil blessing—what can disturb our peace?”",
+    "ko": "모든 희망을 네게 걸고 있는 주변의 친구들을 기억해 줘. 우리가 널 행복하게 해 줄 힘을 잃은 걸까? 아! 우리가 사랑하는 한, 우리가 서로에게 진실한 한, 이곳 평화롭고 아름다운 너의 고국에서 우리는 모든 평온한 축복을 거둘 수 있어. 무엇이 우리의 평화를 방해할 수 있겠어?\"",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P010-1",
+    "en": "And could not such words from her whom I fondly prized before every other gift of fortune suffice to chase away the fiend that lurked in my heart? Even as she spoke I drew near to her, as if in terror, lest at that very moment the destroyer had been near to rob me of her.",
+    "ko": "운명이 준 다른 어떤 선물보다 내가 깊이 소중히 여겼던 그녀의 그런 말조차 내 마음에 숨어 있는 악마를 쫓아내기에는 역부족이었을까? 그녀가 말을 할 때조차 나는 두려움에 사로잡힌 듯 그녀에게 다가갔다. 마치 그 순간에도 파괴자가 나에게서 그녀를 빼앗기 위해 가까이 다가와 있는 것만 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P011-1",
+    "en": "Thus not the tenderness of friendship, nor the beauty of earth, nor of heaven, could redeem my soul from woe; the very accents of love were ineffectual. I was encompassed by a cloud which no beneficial influence could penetrate. The wounded deer dragging its fainting limbs to some untrodden brake, there to gaze upon the arrow which had pierced it, and to die, was but a type of me.",
+    "ko": "이처럼 우정의 다정함도, 땅이나 하늘의 아름다움도 내 영혼을 슬픔에서 구원할 수 없었다. 사랑의 언어조차 소용이 없었다. 나는 그 어떤 유익한 영향력도 뚫고 들어올 수 없는 먹구름에 둘러싸여 있었다. 상처 입은 사슴이 기진맥진한 사지를 이끌고 인적 없는 덤불 속으로 들어가, 자신을 찌른 화살을 바라보며 죽어가는 모습이야말로 딱 내 처지였다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P012-1",
+    "en": "Sometimes I could cope with the sullen despair that overwhelmed me, but sometimes the whirlwind passions of my soul drove me to seek, by bodily exercise and by change of place, some relief from my intolerable sensations. It was during an access of this kind that I suddenly left my home, and bending my steps towards the near Alpine valleys, sought in the magnificence, the eternity of such scenes, to forget myself and my ephemeral, because human, sorrows.",
+    "ko": "때때로 나는 나를 압도하는 뚱한 절망에 맞서 싸울 수 있었지만, 때로는 내 영혼의 소용돌이치는 열정이 나를 몰아붙여, 육체적 운동과 장소의 변화를 통해 참을 수 없는 감각들로부터 어떤 위안을 찾도록 만들었다. 내가 갑자기 집을 떠나 가까운 알프스 계곡으로 발길을 돌린 것은 바로 이런 발작 중에 일어난 일이었다. 나는 그러한 풍경의 장엄함과 영원함 속에서 나 자신과, 인간이기에 겪어야 하는 덧없는 슬픔들을 잊으려 했다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P012-2",
+    "en": "My wanderings were directed towards the valley of Chamounix. I had visited it frequently during my boyhood. Six years had passed since then: _I_ was a wreck, but nought had changed in those savage and enduring scenes.",
+    "ko": "나의 방랑은 샤모니 계곡으로 향했다. 나는 어린 시절 그곳을 자주 방문했었다. 그 후로 6년이 지났다. 나는 완전히 망가져 있었지만, 그 야성적이고 변함없는 풍경 속에서는 아무것도 변한 것이 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P013-1",
+    "en": "I performed the first part of my journey on horseback. I afterwards hired a mule, as the more sure-footed and least liable to receive injury on these rugged roads. The weather was fine; it was about the middle of the month of August, nearly two months after the death of Justine, that miserable epoch from which I dated all my woe.",
+    "ko": "나는 여정의 첫 부분을 말등에 올라탄 채 이동했다. 그 후에는 이 험준한 길에서 발걸음이 더 확실하고 다칠 위험이 적은 노새를 빌렸다. 날씨는 화창했다. 8월 중순 무렵이었고, 내 모든 슬픔의 기점이 된 그 비참한 날짜, 저스틴이 죽은 지 거의 두 달이 지난 때였다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P013-2",
+    "en": "The weight upon my spirit was sensibly lightened as I plunged yet deeper in the ravine of Arve. The immense mountains and precipices that overhung me on every side, the sound of the river raging among the rocks, and the dashing of the waterfalls around spoke of a power mighty as Omnipotence—and I ceased to fear or to bend before any being less almighty than that which had created and ruled the elements, here displayed in their most terrific guise.",
+    "ko": "아르브의 협곡 속으로 더 깊이 빠져들수록 내 영혼을 짓누르던 무게는 눈에 띄게 가벼워졌다. 사방에서 내 위로 솟아오른 거대한 산과 절벽들, 바위 사이를 굽이쳐 흐르는 강물의 맹렬한 소리, 그리고 곳곳에서 부서지는 폭포 소리는 전능자에 버금가는 거대한 힘을 말해 주었다. 나는 가장 무시무시한 모습으로 여기에 펼쳐진 원소들을 창조하고 지배하는 분보다 못한 그 어떤 존재 앞에서도 두려워하거나 굴복하지 않게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P013-3",
+    "en": "Still, as I ascended higher, the valley assumed a more magnificent and astonishing character. Ruined castles hanging on the precipices of piny mountains, the impetuous Arve, and cottages every here and there peeping forth from among the trees formed a scene of singular beauty. But it was augmented and rendered sublime by the mighty Alps, whose white and shining pyramids and domes towered above all, as belonging to another earth, the habitations of another race of beings.",
+    "ko": "더 높이 올라갈수록 계곡은 더욱 장엄하고 경이로운 성격을 띠었다. 소나무 덮인 산의 절벽에 매달린 폐허가 된 성들, 맹렬하게 흐르는 아르브 강, 그리고 나무 사이로 간간이 엿보이는 오두막들이 어우러져 독특한 아름다움을 자아내는 풍경을 형성했다. 그러나 이 풍경은 백색의 빛나는 피라미드와 돔들이 그 모든 것 위로 치솟아, 마치 다른 세계의 존재들의 거처처럼 보이는 거대한 알프스 산맥에 의해 더욱 웅장해지고 숭고해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P014-1",
+    "en": "I passed the bridge of Pélissier, where the ravine, which the river forms, opened before me, and I began to ascend the mountain that overhangs it. Soon after, I entered the valley of Chamounix. This valley is more wonderful and sublime, but not so beautiful and picturesque as that of Servox, through which I had just passed.",
+    "ko": "나는 강물이 만들어낸 협곡이 눈앞에 열리는 펠리시에 다리를 지나, 그 위로 솟아오른 산을 오르기 시작했다. 얼마 지나지 않아 나는 샤모니 계곡에 들어섰다. 이 계곡은 방금 지나온 세르보 계곡보다 더 경이롭고 숭고했지만, 아름답거나 그림 같지는 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P014-2",
+    "en": "The high and snowy mountains were its immediate boundaries, but I saw no more ruined castles and fertile fields. Immense glaciers approached the road; I heard the rumbling thunder of the falling avalanche and marked the smoke of its passage. Mont Blanc, the supreme and magnificent Mont Blanc, raised itself from the surrounding _aiguilles_, and its tremendous _dôme_ overlooked the valley.",
+    "ko": "높고 눈 덮인 산들이 그 턱밑까지 다가와 경계를 이루고 있었지만, 폐허가 된 성이나 비옥한 들판은 더 이상 보이지 않았다. 거대한 빙하들이 길가에 바싹 다가와 있었다. 나는 쏟아지는 눈사태의 우르릉거리는 천둥소리를 들었고 그것이 지나간 흔적인 연기를 보았다. 최고의 장엄함을 자랑하는 몽블랑이 주변의 뾰족한 봉우리들 사이에서 솟아올랐고, 그 거대한 돔이 계곡을 내려다보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P015-1",
+    "en": "A tingling long-lost sense of pleasure often came across me during this journey. Some turn in the road, some new object suddenly perceived and recognised, reminded me of days gone by, and were associated with the lighthearted gaiety of boyhood. The very winds whispered in soothing accents, and maternal Nature bade me weep no more.",
+    "ko": "이 여행 동안, 오랫동안 잊고 있었던 짜릿한 기쁨의 감각이 자주 내게 밀려왔다. 길의 어느 굽이, 갑자기 인지되고 알아보게 된 새로운 대상이 지난날들을 떠올리게 했고, 소년 시절의 가벼운 명랑함과 연결되었다. 바람마저도 위로하는 듯한 어조로 속삭였고, 어머니 같은 자연이 내게 더 이상 울지 말라고 명했다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P015-2",
+    "en": "Then again the kindly influence ceased to act—I found myself fettered again to grief and indulging in all the misery of reflection. Then I spurred on my animal, striving so to forget the world, my fears, and more than all, myself—or, in a more desperate fashion, I alighted and threw myself on the grass, weighed down by horror and despair.",
+    "ko": "그러다 다시 그 온화한 영향력이 작동을 멈추면, 나는 슬픔에 다시 결박되어 상념의 모든 비참함 속에 빠져드는 자신을 발견했다. 그럴 때면 나는 동물에 박차를 가해 이 세상도, 내 두려움도, 무엇보다 나 자신을 잊으려 애썼다. 또는 더 절망적인 방식으로, 공포와 절망에 짓눌려 말에서 내려 풀밭에 내 몸을 내던지기도 했다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P016-1",
+    "en": "At length I arrived at the village of Chamounix. Exhaustion succeeded to the extreme fatigue both of body and of mind which I had endured. For a short space of time I remained at the window watching the pallid lightnings that played above Mont Blanc and listening to the rushing of the Arve, which pursued its noisy way beneath.",
+    "ko": "마침내 나는 샤모니 마을에 도착했다. 내가 견뎌온 육체와 정신의 극심한 피로 뒤에 탈진이 찾아왔다. 짧은 시간 동안 나는 창가에 머물며 몽블랑 위로 번뜩이는 창백한 번개를 지켜보았고, 발밑에서 요란하게 흐르는 아르브 강의 물소리에 귀를 기울였다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P016-2",
+    "en": "The same lulling sounds acted as a lullaby to my too keen sensations; when I placed my head upon my pillow, sleep crept over me; I felt it as it came and blessed the giver of oblivion.",
+    "ko": "그 자장가 같은 소리들이 너무 예민해진 내 감각을 달래주었다. 베개에 머리를 뉘었을 때 잠이 내게 기어왔다. 나는 잠이 다가오는 것을 느끼며, 망각을 내려준 이에게 축복을 빌었다.",
+    "is_header": false
+  }
+]

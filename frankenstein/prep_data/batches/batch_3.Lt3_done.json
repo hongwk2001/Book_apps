@@ -1,0 +1,117 @@
+[
+  {
+    "original_id": 0,
+    "chunks": [
+      {
+        "tag": "P000-1",
+        "en": "Letter 3",
+        "ko": "편지 3"
+      }
+    ]
+  },
+  {
+    "original_id": 1,
+    "chunks": [
+      {
+        "tag": "P001-1",
+        "en": "_To Mrs. Saville, England._",
+        "ko": "영국에 있는 사빌 부인에게."
+      }
+    ]
+  },
+  {
+    "original_id": 2,
+    "chunks": [
+      {
+        "tag": "P002-1",
+        "en": "July 7th, 17—.",
+        "ko": "17—년 7월 7일."
+      }
+    ]
+  },
+  {
+    "original_id": 3,
+    "chunks": [
+      {
+        "tag": "P003-1",
+        "en": "My dear Sister,",
+        "ko": "사랑하는 누님,"
+      }
+    ]
+  },
+  {
+    "original_id": 4,
+    "chunks": [
+      {
+        "tag": "P004-1",
+        "en": "I write a few lines in haste to say that I am safe—and well advanced\non my voyage. This letter will reach England by a merchantman now on\nits homeward voyage from Archangel; more fortunate than I, who may not\nsee my native land, perhaps, for many years.",
+        "ko": "제가 무사하며 항해를 잘 진행하고 있다는 것을 알리기 위해 서둘러 몇 줄 적습니다. 이 편지는 지금 아르한겔스크에서 본국으로 돌아가는 상선을 통해 영국에 도착할 것입니다. 그들은 어쩌면 수년 동안 고국 땅을 보지 못할 저보다 운이 좋은 사람들입니다."
+      },
+      {
+        "tag": "P004-2",
+        "en": "I am, however, in good\nspirits: my men are bold and apparently firm of purpose, nor do the\nfloating sheets of ice that continually pass us, indicating the dangers\nof the region towards which we are advancing, appear to dismay them.",
+        "ko": "하지만 저는 기분이 좋습니다. 제 부하들은 대담하고 겉보기에도 목적이 확고해 보이며, 우리가 나아가는 지역의 위험을 알리는 끊임없이 떠다니는 얼음판들조차 그들을 실망시키지 않는 듯합니다."
+      },
+      {
+        "tag": "P004-3",
+        "en": "We\nhave already reached a very high latitude; but it is the height of\nsummer, and although not so warm as in England, the southern gales,\nwhich blow us speedily towards those shores which I so ardently desire\nto attain, breathe a degree of renovating warmth which I had not\nexpected.",
+        "ko": "우리는 이미 꽤 높은 위도에 도달했습니다. 하지만 지금은 한여름이고 영국만큼 따뜻하지는 않지만, 제가 그토록 도달하고 싶어 하는 해안 쪽으로 우리를 빠르게 밀어주는 남풍은 제가 예상하지 못했던 활기를 되찾아주는 따스함을 불어넣어 줍니다."
+      }
+    ]
+  },
+  {
+    "original_id": 5,
+    "chunks": [
+      {
+        "tag": "P005-1",
+        "en": "No incidents have hitherto befallen us that would make a figure in a\nletter. One or two stiff gales and the springing of a leak are\naccidents which experienced navigators scarcely remember to record, and\nI shall be well content if nothing worse happen to us during our voyage.",
+        "ko": "지금까지 편지에 쓸 만한 두드러진 사건은 우리에게 일어나지 않았습니다. 한두 번의 거센 강풍과 배에 물이 새는 사고는 경험 많은 항해사들이라면 굳이 기록할 가치도 느끼지 못할 일들이며, 항해 내내 이보다 더 나쁜 일이 일어나지 않는다면 저는 꽤 만족할 것입니다."
+      }
+    ]
+  },
+  {
+    "original_id": 6,
+    "chunks": [
+      {
+        "tag": "P006-1",
+        "en": "Adieu, my dear Margaret. Be assured that for my own sake, as well as\nyours, I will not rashly encounter danger. I will be cool,\npersevering, and prudent.",
+        "ko": "안녕히 계십시오, 사랑하는 마거릿 누님. 누님뿐만 아니라 저 자신을 위해서라도 경솔하게 위험과 마주하지 않을 것임을 확신하십시오. 저는 침착하고 끈기 있으며 신중할 것입니다."
+      }
+    ]
+  },
+  {
+    "original_id": 7,
+    "chunks": [
+      {
+        "tag": "P007-1",
+        "en": "But success _shall_ crown my endeavours. Wherefore not? Thus far I\nhave gone, tracing a secure way over the pathless seas, the very stars\nthemselves being witnesses and testimonies of my triumph.",
+        "ko": "하지만 성공은 반드시 제 노력에 왕관을 씌워줄 것입니다. 왜 안 되겠습니까? 지금까지 저는 별들을 제 승리의 증인으로 삼아 길 없는 바다 위로 안전한 길을 추적하며 여기까지 왔습니다."
+      },
+      {
+        "tag": "P007-2",
+        "en": "Why not\nstill proceed over the untamed yet obedient element? What can stop the\ndetermined heart and resolved will of man?",
+        "ko": "아직 길들여지지 않았지만 순종적인 저 자연의 힘 위로 왜 계속 나아가지 못하겠습니까? 인간의 단호한 마음과 확고한 의지를 무엇이 멈출 수 있겠습니까?"
+      }
+    ]
+  },
+  {
+    "original_id": 8,
+    "chunks": [
+      {
+        "tag": "P008-1",
+        "en": "My swelling heart involuntarily pours itself out thus. But I must\nfinish. Heaven bless my beloved sister!",
+        "ko": "부풀어 오른 제 마음이 무심코 이렇게 쏟아져 나오는군요. 하지만 이만 끝내야겠습니다. 하늘이 사랑하는 누님을 축복하시길!"
+      }
+    ]
+  },
+  {
+    "original_id": 9,
+    "chunks": [
+      {
+        "tag": "P009-1",
+        "en": "R.W.",
+        "ko": "R.W."
+      }
+    ]
+  }
+]

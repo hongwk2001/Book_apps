@@ -1,0 +1,373 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 3: Across the Moor",
+    "ko": "제3장 황무지를 건너서",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002-1",
+    "en": "Mary slept for a long time. When she finally woke up, Mrs. Medlock had bought a lunch basket at one of the stations. They ate chicken, cold beef, bread and butter, and drank hot tea.",
+    "ko": "메리는 오랫동안 단잠에 빠졌다. 마침내 눈을 떴을 때, 메들록 부인은 어느 기차역에서 점심 도시락 바구니를 사 놓은 뒤였다. 두 사람은 닭고기와 차가운 소고기, 버터 바른 빵을 먹고 따뜻한 차를 마셨다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-2",
+    "en": "Outside, the rain poured down harder than ever, and everyone on the platform wore wet, shiny raincoats. The train guard lit the lamps in their compartment, and Mrs. Medlock cheered up considerably as she ate. She ate a hearty meal and soon fell asleep.",
+    "ko": "창밖에는 비가 그 어느 때보다 세차게 퍼붓고 있었고, 승강장에 서 있는 사람들은 저마다 젖어서 번들거리는 우비를 입고 있었다. 열차 차장이 객실에 등불을 밝혔고, 메들록 부인은 음식을 먹으면서 기분이 눈에 띄게 좋아졌다. 음식을 푸짐하게 먹은 부인은 이내 잠속으로 빠져들었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-3",
+    "en": "Mary sat watching her, staring as the woman's fine bonnet slipped to one side, until Mary herself drifted off to sleep again in the corner of the carriage, lulled by the steady patter of rain against the glass. It was pitch black when she woke up next. The train had stopped at a station, and Mrs. Medlock was shaking her shoulder.",
+    "ko": "메리는 부인의 멋진 보닛 모자가 한쪽으로 비스듬히 기울어지는 것을 멍하니 바라보며 앉아 있다가, 창문을 토닥토닥 두드리는 한결같은 빗소리에 취해 자신도 모르게 객실 구석에서 다시 깊은 잠에 빠져들었다. 다시 눈을 떴을 때 주위는 온통 칠흑 같은 어둠뿐이었다. 기차는 어느 역에 멈춰 서 있었고, 메들록 부인이 메리의 어깨를 흔들며 깨우고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003-1",
+    "en": "\"You've had quite a sleep!\" she said.",
+    "ko": "\"잠을 아주 푹 자더구나!\" 부인이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003-2",
+    "en": "\"Time to wake up! We're at Thwaite Station, and we have a long drive ahead of us.\"",
+    "ko": "\"이제 일어날 시간이다! 트웨이트 역에 도착했으니, 앞으로 마차를 타고 한참을 가야 한단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-1",
+    "en": "Mary stood up and tried to keep her eyes open while Mrs. Medlock gathered her packages. The little girl didn't offer to help.",
+    "ko": "메리는 자리에서 일어나 눈을 비비며 메들록 부인이 짐을 꾸리는 모습을 바라보았다. 그러나 돕겠다고 나서지는 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-2",
+    "en": "In India, the servants had always carried everything, and she took it for granted that others would wait on her.",
+    "ko": "인도에 살 때는 늘 하인들이 모든 짐을 날라다 주었기에, 메리는 다른 사람이 제 시중을 드는 것을 당연하게 여겨 왔다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005",
+    "en": "The station was small, and they seemed to be the only passengers getting off. The stationmaster spoke to Mrs. Medlock in a gruff but friendly voice, pronouncing his words with a broad, unusual accent that Mary would later learn was Yorkshire.",
+    "ko": "역은 아담했고, 그 기차에서 내리는 승객은 그들뿐인 듯했다. 역장은 메들록 부인에게 퉁명스러우면서도 친근하게 말을 건넸는데, 메리는 나중에야 그 독특하고 억센 말투가 바로 요크셔 사투리라는 것을 알게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006",
+    "en": "\"I see you've got back,\" he said. \"And you've brought the young one with you.\"",
+    "ko": "\"무사히 돌아오셨구려.\" 역장이 말했다. \"어린 아가씨도 함께 데려오셨군.\"",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007-1",
+    "en": "\"Yes, that's her,\" Mrs. Medlock replied, adopting a bit of the local accent herself as she nodded over her shoulder toward Mary.",
+    "ko": "\"네, 이 애랍니다.\" 메들록 부인이 어깨 너머로 메리를 흘끗 돌아보며 고개를 끄덕였다. 자신도 모르게 현지 사투리가 살짝 섞인 말투였다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P007-2",
+    "en": "\"How's your wife?\"",
+    "ko": "\"부인은 좀 어때요?\"",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P008",
+    "en": "\"Well enough. The carriage is waiting outside for you.\"",
+    "ko": "\"덕분에 잘 지냅니다. 마차가 바깥에 대기하고 있소.\"",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P009-1",
+    "en": "A horse-drawn carriage stood waiting on the road just outside the small platform. Mary noticed that it was an elegant carriage, and the footman who helped her inside was smart and well-dressed.",
+    "ko": "작은 승강장 바로 바깥쪽 길가에는 말 두 필이 이끄는 마차가 기다리고 있었다. 메리가 보기에도 꽤 근사한 마차였다. 마차 안으로 올라타도록 도와준 하인은 차림새가 깔끔하고 단정했다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P009-2",
+    "en": "His long raincoat and the waterproof cover on his hat were shiny and dripping wet. In fact, everything was soaked, including the stocky stationmaster.",
+    "ko": "그의 긴 비옷과 모자의 방수 덮개는 온통 젖어서 반들거렸고 물방울이 뚝뚝 흘러내렸다. 다부진 체격의 역장을 비롯해 바깥의 모든 것이 그야말로 물에 흠뻑 젖어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P010-1",
+    "en": "Once the footman shut the door and climbed up to sit next to the driver, they started off. Mary sat back in the comfortable, cushioned corner of the carriage, but she didn't feel like sleeping anymore.",
+    "ko": "하인이 마차 문을 닫고 마부 옆자리에 올라타자마자 마차가 출발했다. 메리는 푹신한 쿠션이 깔린 마차 구석에 편안하게 기대앉았지만, 더는 잠을 자고 싶지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P010-2",
+    "en": "Instead, she stared out the window, curious to see the road leading to the strange place Mrs. Medlock had described. She wasn't a timid child, and she wasn't exactly scared, but she couldn't help feeling uneasy. There was no telling what might happen in a house with a hundred closed-up rooms, standing right on the edge of a lonely moor.",
+    "ko": "대신 메들록 부인이 말해 준 낯선 곳으로 향하는 길이 궁금해 창밖을 유심히 바라보았다. 메리는 원래 겁이 많은 성격이 아니었고 딱히 두려움에 사로잡힌 것도 아니었지만, 마음 한구석이 찌푸려지는 것까지 막을 수는 없었다. 사방이 쓸쓸한 황무지 경계에 우뚝 솟아 있고 문이 굳게 잠긴 방이 백 개나 있다는 그 넓은 저택에서 앞으로 어떤 일이 벌어질지 도무지 짐작조차 할 수 없었기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P011",
+    "en": "\"What is a moor?\" she asked Mrs. Medlock suddenly.",
+    "ko": "\"황무지가 뭐예요?\" 메리가 문득 메들록 부인에게 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P012-1",
+    "en": "\"Look out the window in about ten minutes and you'll see,\" the woman answered.",
+    "ko": "\"한 십 분쯤 지나서 창밖을 내다보렴. 그럼 보게 될 테니.\" 부인이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P012-2",
+    "en": "\"We have to drive five miles across Missel Moor before we reach the Manor. You won't see much because it's a dark night, but you'll see something.\"",
+    "ko": "\"저택에 닿으려면 미셀 황무지를 질러서 오 마일은 족히 가야 한단다. 아주 어두운 밤이라 많이 보이지는 않겠지만, 그래도 어떤 곳인지는 어렴풋이 알 수 있을 게다.\"",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P013-1",
+    "en": "Mary didn't ask any more questions. She waited quietly in her dark corner, keeping her eyes fixed on the window. The carriage lamps cast narrow beams of light ahead, letting her catch fleeting glimpses of their surroundings.",
+    "ko": "메리는 더는 묻지 않았다. 그저 어두컴컴한 구석자리에 가만히 앉아 창밖으로 시선을 고정할 뿐이었다. 마차의 등불이 앞길을 향해 가느다란 빛줄기를 비출 때마다, 주변 풍경이 어둠 속에서 잠깐씩 스쳐 지나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P013-2",
+    "en": "After leaving the station, they drove through a tiny village, where she saw whitewashed cottages and the warm glow of a local pub. Then they passed a church, a vicarage, and a few small cottage shop windows displaying toys, sweets, and various odds and ends.",
+    "ko": "역을 벗어난 마차는 아주 작은 마을을 통과했다. 메리는 벽을 하얗게 칠한 나지막한 오두막집들과 동네 선술집에서 새어 나오는 따뜻한 불빛을 보았다. 이어서 교회와 목사관을 지나고, 장난감과 사탕, 온갖 잡동사니를 진열해 둔 작은 구멍가게 창문들도 지나쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P013-3",
+    "en": "Soon they reached the main highway, where she could see hedges and trees. After that, the landscape didn't seem to change for a long time—or at least, it felt like a very long time to her.",
+    "ko": "이윽고 울타리와 나무들이 늘어선 큰길에 들어섰다. 그 후로는 한참 동안 풍경에 이렇다 할 변화가 없었다. 적어도 메리에게는 그 지루한 시간이 영원처럼 느껴졌다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P014",
+    "en": "Finally, the horses began to slow down as if they were climbing a hill, and soon the hedges and trees vanished. In fact, she could see nothing but deep, heavy darkness on either side. She leaned forward and pressed her face against the glass just as the carriage gave a violent jolt.",
+    "ko": "마침내 말들이 언덕길을 오르는 것처럼 걸음이 느려지더니, 얼마 지나지 않아 길가에 서 있던 울타리와 나무들이 거짓말처럼 사라져 버렸다. 양옆으로는 그저 깊고 무거운 어둠만이 끝없이 펼쳐져 있을 뿐이었다. 바로 그때 마차가 세차게 덜컹거렸고, 메리는 몸을 앞으로 기울여 유리창에 얼굴을 바짝 들이댔다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P015",
+    "en": "\"Well, we're on the moor now, sure enough,\" Mrs. Medlock said.",
+    "ko": "\"아니나 다를까, 이제 황무지에 들어섰단다.\" 메들록 부인이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P016",
+    "en": "The carriage lamps cast a yellow glow onto a rough, unpaved road. It seemed to cut through low bushes and wild shrubs that stretched out into the vast, dark emptiness ahead. A wind was rising, making a strange, wild, low rushing sound.",
+    "ko": "마차 등불이 포장되지 않은 울퉁불퉁한 흙길 위에 노란 불빛을 던졌다. 길은 눈앞에 펼쳐진 광활하고 어두운 빈터로 뻗어 나가며 나지막한 덤불과 야생 관목들 사이를 가르고 있었다. 바람이 세차게 불기 시작하더니 낮고 웅장하면서도 쓸쓸한 바람 소리가 메아리쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P017",
+    "en": "\"It's... it's not the sea, is it?\" Mary asked, looking over at her companion.",
+    "ko": "\"이게…… 바다는 아니지요, 그렇죠?\" 메리가 옆에 앉은 메들록 부인을 바라보며 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P018-1",
+    "en": "\"No, it's not,\" Mrs. Medlock answered.",
+    "ko": "\"아니란다, 바다가 아니야.\" 메들록 부인이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P018-2",
+    "en": "\"And it's not fields or mountains either. It's just miles and miles of wild, open land where nothing grows but heather, gorse, and wild shrubs, and nothing lives but wild ponies and sheep.\"",
+    "ko": "\"그렇다고 들판이나 산도 아니지. 그저 보라색 헤더 꽃과 가시덤불, 야생 덤불 말고는 아무것도 자라지 않고, 들말과 양들 말고는 살아가는 생물도 없는 거친 벌판이 끝없이 펼쳐진 곳이란다.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P019",
+    "en": "\"It feels like it could be the sea, if only there were water,\" Mary said. \"It sounds just like the ocean right now.\"",
+    "ko": "\"물만 있으면 꼭 바다 같을 텐데요.\" 메리가 말했다. \"지금 들리는 소리가 딱 바다 소리 같아요.\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P020-1",
+    "en": "\"That's just the wind blowing through the bushes,\" Mrs. Medlock said.",
+    "ko": "\"그건 덤불 사이를 휩쓸고 지나가는 바람 소리일 뿐이야.\" 메들록 부인이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P020-2",
+    "en": "\"It's a wild, gloomy place if you ask me, though plenty of people love it—especially when the heather is in bloom.\"",
+    "ko": "\"내 눈에는 그저 황량하고 음산한 곳일 뿐이지만, 이곳을 무척 사랑하는 사람도 많단다. 특히 헤더 꽃이 온통 보랏빛으로 만발할 때면 더욱 그렇지.\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P021-1",
+    "en": "They drove on and on through the darkness. Although the rain had stopped, the wind howled and whistled, making eerie noises. The road wound up and down, and several times they crossed small bridges where water rushed noisily underneath.",
+    "ko": "마차는 어둠 속을 달리고 또 달렸다. 비는 멎었지만 바람은 울부짖듯 윙윙거리며 소름 끼치는 소리를 내질렀다. 길은 구불구불하게 올라갔다 내려갔다 했고, 아래로 물이 세차게 소용돌이치며 흐르는 작은 다리를 몇 번이나 건넜다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P021-2",
+    "en": "Mary felt as if the drive would never end. To her, the vast, bleak moor felt like a black ocean, and they were crossing it on a narrow strip of dry land.",
+    "ko": "메리는 이 여정이 영원히 끝나지 않을 것만 같았다. 메리에게는 이 끝없이 펼쳐진 황량한 황무지가 마치 검은 바다처럼 보였고, 자신들은 그 넓은 바다 한가운데에 놓인 좁고 기다란 마른 땅 위를 위태롭게 건너가고 있는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P022",
+    "en": "\"I don't like it,\" she said to herself. \"I don't like it.\" She pressed her thin lips tightly together.",
+    "ko": "\"싫어, 정말 싫어.\" 메리는 속으로 되뇌었다. 그리고 얇은 입술을 꼭 다물었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P023",
+    "en": "The horses were climbing a steep stretch of road when Mary first spotted a light. Mrs. Medlock saw it at the same time and let out a long sigh of relief.",
+    "ko": "말들이 가파른 오르막길을 힘들게 올라갈 때쯤, 메리의 눈에 저 멀리 작은 불빛 하나가 번득였다. 메들록 부인 역시 거의 동시에 그 빛을 발견하고는 안도의 한숨을 길게 몰아쉬었다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P024-1",
+    "en": "\"Oh, I'm glad to see that little light twinkling,\" she exclaimed.",
+    "ko": "\"오, 저 반짝이는 작은 불빛을 보니 참 반갑기도 하지!\" 부인이 반갑게 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P024-2",
+    "en": "\"That's the light from the gatehouse window. We'll at least get a nice cup of tea in a little while.\"",
+    "ko": "\"저건 문지기 집 창문에서 새어 나오는 불빛이란다. 이제 머잖아 따뜻하고 맛있는 차를 대접받을 수 있겠구나.\"",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P025",
+    "en": "It took a little while, just as she had said. Once the carriage passed through the park gates, they still had to drive down a two-mile avenue. The trees met overhead, making it feel as if they were driving through a long, dark tunnel.",
+    "ko": "하지만 부인의 말처럼 되기까지는 시간이 조금 더 걸렸다. 마차가 저택 영지의 정문을 통과한 뒤에도 2마일은 족히 되는 가로수길을 더 달려야 했기 때문이다. 양옆의 나무들이 머리 위로 울창하게 맞닿아 있어서, 마치 길고 어두운 터널 속을 통과하는 기분이었다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P026",
+    "en": "Finally, they emerged from the dark tunnel into an open space and stopped in front of a very long, low-built house that seemed to stretch around a stone courtyard. At first, Mary thought there were no lights in any of the windows. But as she got out of the carriage, she noticed a dull glow coming from a single upstairs corner room.",
+    "ko": "마침내 어두운 가로수 터널을 벗어나 넓게 트인 공간으로 나오자, 돌을 깔아놓은 마당을 둘러싸고 나지막하게 길게 뻗은 대저택이 모습을 드러냈다. 처음에는 창문에 불빛이 하나도 없는 것처럼 보였으나, 마차에서 내리던 메리는 2층 구석방 하나에서 어슴푸레하게 흘러나오는 불빛을 발견했다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P027-1",
+    "en": "The entrance door was massive, made of thick, heavy oak panels studded with large iron nails and bound with heavy iron bars. It opened into a grand, enormous hall.",
+    "ko": "커다란 철 못이 촘촘히 박히고 육중한 철제 걸쇠로 단단히 고정된 두꺼운 참나무 현관문은 보기만 해도 위압적이었다. 그 문을 열고 들어서자 웅장하고 거대한 홀이 나타났다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P027-2",
+    "en": "The lighting was so dim that the faces in the portraits on the walls and the silent figures in suits of armor made Mary uneasy, and she avoided looking at them. Standing on the cold stone floor, she looked like a tiny, strange figure in her black clothes—and she felt just as small, lost, and out of place as she looked.",
+    "ko": "홀 안의 조명이 어찌나 어스름한지 벽에 걸린 초상화들의 얼굴이며 우뚝 서 있는 차가운 갑옷들이 메리를 으스스하게 만들었고, 메리는 애써 그것들을 외면했다. 차가운 돌바닥 위에 서 있는 검은 상복 차림의 메리는 한없이 초라하고 낯선 이방인처럼 보였다. 메리 자신도 겉보기만큼이나 자신이 보잘것없고 길을 잃어버린 듯 쓸쓸하게 느껴졌다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P028",
+    "en": "A tidy, thin old man stood near the butler who had opened the door for them.",
+    "ko": "그들을 마중하기 위해 문을 열어 준 집사 곁에 깔끔한 차림의 야윈 노인 한 명이 서 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P029-1",
+    "en": "\"You are to take her to her room,\" he said in a low, gravelly voice.",
+    "ko": "\"이 아이를 방으로 안내하시오.\" 노인이 낮고 껄끄러운 목소리로 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P029-2",
+    "en": "\"He does not want to see her. He is leaving for London in the morning.\"",
+    "ko": "\"주인님께서는 아이를 대면하고 싶어 하지 않으시오. 아침 일찍 런던으로 떠나실 예정이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P030-1",
+    "en": "\"Very well, Mr. Pitcher,\" Mrs. Medlock replied.",
+    "ko": "\"잘 알겠습니다, 피처 씨.\" 메들록 부인이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P030-2",
+    "en": "\"As long as I know what is expected of me, I can handle it.\"",
+    "ko": "\"제가 맡은 소임이 무엇인지만 분명히 일러 주신다면 문제없습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P031",
+    "en": "\"What is expected of you, Mrs. Medlock,\" Mr. Pitcher said, \"is that you make sure he isn't disturbed, and that he doesn't see anyone or anything he doesn't want to see.\"",
+    "ko": "\"부인이 해야 할 소임이란,\" 피처 씨가 단호하게 덧붙였다. \"주인님께서 심기를 방해받지 않으시도록 단속하고, 주인님이 원치 않는 사람이나 사물은 어떤 것도 대면하시지 않도록 철저히 차단하는 것이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P032",
+    "en": "Mary Lennox was then led up a wide staircase, down a long hallway, up a short flight of steps, and through several more corridors. Finally, a door opened, and she found herself in a room with a warm fire crackling in the fireplace and supper waiting on a table.",
+    "ko": "메리 레녹스는 넓은 계단을 걸어 올라가 길고 지루한 복도를 통과한 다음, 다시 짧은 층계를 오르고서도 몇 군데의 통로를 더 거쳐서야 목적지에 닿았다. 마침내 방문 하나가 열리자, 벽난로에서 따뜻한 불꽃이 타닥타닥 타오르고 식탁 위에 저녁 식사가 차려진 아늑한 방이 나타났다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P033",
+    "en": "Mrs. Medlock said bluntly:",
+    "ko": "메들록 부인이 퉁명스럽게 입을 열었다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P034-1",
+    "en": "\"Well, here you are! This room and the next one are where you'll be living, and you must stay in them.",
+    "ko": "\"자, 이제 다 왔단다! 이 방과 바로 옆방이 네가 머물 곳이야. 그리고 절대 이 구역 밖으로 돌아다녀서는 안 된다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P034-2",
+    "en": "Don't you forget that!\"",
+    "ko": "알겠니? 내 말을 명심해야 한다!\"",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P035",
+    "en": "This was how Mary arrived at Misselthwaite Manor, and she had probably never felt so sour and stubborn in all her life.",
+    "ko": "\"이것이 메리가 미셀스웨이트 저택에 발을 들이게 된 경위였다. 메리는 필시 제 아홉 해 평생을 통틀어 이때만큼 기분이 뒤틀리고 옹고집을 부려 본 적이 없었을 것이다.\"",
+    "is_header": false
+  }
+]

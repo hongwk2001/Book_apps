@@ -1,0 +1,323 @@
+import json
+
+def main():
+    input_path = r"c:\git_repo\Book_apps\secret_garden\batches\batch_21.json"
+    output_path = r"c:\git_repo\Book_apps\secret_garden\batches\batch_21_done.json"
+
+    with open(input_path, "r", encoding="utf-8") as f:
+        data = json.load(f)
+
+    result = []
+
+    # Process each item
+    # 0: id 92, tag P091
+    # en: “Anywhere,” he answered. “There, you must go now. I am tired.” He rang the bell to call Mrs. Medlock. “Goodbye. I shall be away all summer.”
+    # ko: “어디든 괜찮다.” 그가 대답했다. “자, 이제 가보려무나. 내가 피곤하구나.” 그가 메들록 부인을 부르려고 종을 울렸다. “잘 가거라. 나는 여름 내내 집을 비울 게다.”
+    result.append({
+        "original_id": 92,
+        "chunks": [
+            {
+                "tag": "P091-1",
+                "en": "“Anywhere,” he answered. “There, you must go now. I am tired.”",
+                "ko": "“어디든 괜찮다.” 그가 대답했다. “자, 이제 가보려무나. 내가 피곤하구나.”"
+            },
+            {
+                "tag": "P091-2",
+                "en": "He rang the bell to call Mrs. Medlock. “Goodbye. I shall be away all summer.”",
+                "ko": "그가 메들록 부인을 부르려고 종을 울렸다. “잘 가거라. 나는 여름 내내 집을 비울 게다.”"
+            }
+        ]
+    })
+
+    # 1: id 94, tag P093
+    # en: “Mrs. Medlock,” Mr. Craven said to her, “now that I have seen the child, I understand what Mrs. Sowerby meant. She needs to become stronger before she begins her lessons. Give her simple, healthy food. Let her run wild in the garden. Don’t supervise her too closely. She needs freedom, fresh air, and outdoor play. Mrs. Sowerby is to come and see her now and then, and Mary may sometimes visit their cottage.”
+    # ko: “메들록 부인,” 크레이븐 씨가 부인에게 말했다. “이제 아이를 직접 만나 보니 소어비 부인이 무슨 뜻으로 말했는지 알겠소. 메리는 공부를 시작하기 전에 먼저 몸을 튼튼히 다질 필요가 있소. 소박하고 건강에 좋은 음식을 챙겨 주시오. 정원에서 마음껏 뛰어놀게 내버려 두고, 너무 사사건건 간섭하지 마시오. 아이에게는 자유와 맑은 공기, 그리고 야외 활동이 필요하오. 소어비 부인이 이따금 찾아와 아이를 살피게 하고, 메리도 가끔 그 집 오두막에 놀러 갈 수 있도록 해주시오.”
+    result.append({
+        "original_id": 94,
+        "chunks": [
+            {
+                "tag": "P093-1",
+                "en": "“Mrs. Medlock,” Mr. Craven said to her, “now that I have seen the child, I understand what Mrs. Sowerby meant. She needs to become stronger before she begins her lessons.",
+                "ko": "“메들록 부인,” 크레이븐 씨가 부인에게 말했다. “이제 아이를 직접 만나 보니 소어비 부인이 무슨 뜻으로 말했는지 알겠소. 메리는 공부를 시작하기 전에 먼저 몸을 튼튼히 다질 필요가 있소."
+            },
+            {
+                "tag": "P093-2",
+                "en": "Give her simple, healthy food. Let her run wild in the garden. Don’t supervise her too closely.",
+                "ko": "소박하고 건강에 좋은 음식을 챙겨 주시오. 정원에서 마음껏 뛰어놀게 내버려 두고, 너무 사사건건 간섭하지 마시오."
+            },
+            {
+                "tag": "P093-3",
+                "en": "She needs freedom, fresh air, and outdoor play. Mrs. Sowerby is to come and see her now and then, and Mary may sometimes visit their cottage.”",
+                "ko": "아이에게는 자유와 맑은 공기, 그리고 야외 활동이 필요하오. 소어비 부인이 이따금 찾아와 아이를 살피게 하고, 메리도 가끔 그 집 오두막에 놀러 갈 수 있도록 해주시오.”"
+            }
+        ]
+    })
+
+    # 2: id 95, tag P094
+    # en: Mrs. Medlock looked pleased. She was relieved to hear that she did not have to supervise Mary too closely. She had found the girl to be a tiresome responsibility and had indeed seen as little of her as she could. In addition, she was very fond of Martha’s mother.
+    # ko: 메들록 부인은 반가운 기색이었다. 메리를 사사건건 감시하지 않아도 된다는 말을 들으니 마음이 한결 가벼워졌다. 부인은 그동안 메리를 돌보는 것을 귀찮고 성가신 일로 여겨 왔기에, 어떻게든 마주치는 시간을 줄이려 애써 왔다. 게다가 부인은 마사의 어머니를 무척 좋아하는 편이기도 했다.
+    result.append({
+        "original_id": 95,
+        "chunks": [
+            {
+                "tag": "P094-1",
+                "en": "Mrs. Medlock looked pleased. She was relieved to hear that she did not have to supervise Mary too closely.",
+                "ko": "메들록 부인은 반가운 기색이었다. 메리를 사사건건 감시하지 않아도 된다는 말을 들으니 마음이 한결 가벼워졌다."
+            },
+            {
+                "tag": "P094-2",
+                "en": "She had found the girl to be a tiresome responsibility and had indeed seen as little of her as she could. In addition, she was very fond of Martha’s mother.",
+                "ko": "부인은 그동안 메리를 돌보는 것을 귀찮고 성가신 일로 여겨 왔기에, 어떻게든 마주치는 시간을 줄이려 애써 왔다. 게다가 부인은 마사의 어머니를 무척 좋아하는 편이기도 했다."
+            }
+        ]
+    })
+
+    # 3: id 96, tag P095
+    # en: “Thank you, sir,” she said. “Susan Sowerby and I went to school together, and she’s as sensible and good-hearted a woman as you could find anywhere. I never had any children myself, and she’s had twelve, and there were never healthier or better-behaved kids. Miss Mary will come to no harm with them. I would always take Susan Sowerby’s advice about children myself. She’s what you might call healthy-minded, if you understand what I mean.”
+    # ko: “감사합니다, 주인님.” 부인이 말했다. “수잔 소어비와 저는 학교를 같이 다녔는데, 참 사리 깊고 어디 내놓아도 빠지지 않을 만큼 고운 마음씨를 가진 여자지요. 저는 자식을 낳아본 적이 없지만, 그 친구는 열둘이나 키워냈고, 그 애들은 하나같이 건강하고 바르게 자랐습니다. 메리 아가씨가 그이들과 어울려도 나쁜 물이 들 일은 절대 없을 겁니다. 저라도 아이들 문제라면 늘 수잔 소어비의 조언을 따랐을 것입니다. 뭐랄까, 속이 아주 꽉 차고 건강한 사람이라고나 할까요, 제 뜻이 무엇인지 아시겠지요.”
+    result.append({
+        "original_id": 96,
+        "chunks": [
+            {
+                "tag": "P095-1",
+                "en": "“Thank you, sir,” she said. “Susan Sowerby and I went to school together, and she’s as sensible and good-hearted a woman as you could find anywhere. I never had any children myself, and she’s had twelve, and there were never healthier or better-behaved kids.",
+                "ko": "“감사합니다, 주인님.” 부인이 말했다. “수잔 소어비와 저는 학교를 같이 다녔는데, 참 사리 깊고 어디 내놓아도 빠지지 않을 만큼 고운 마음씨를 가진 여자지요. 저는 자식을 낳아본 적이 없지만, 그 친구는 열둘이나 키워냈고, 그 애들은 하나같이 건강하고 바르게 자랐습니다."
+            },
+            {
+                "tag": "P095-2",
+                "en": "Miss Mary will come to no harm with them. I would always take Susan Sowerby’s advice about children myself. She’s what you might call healthy-minded, if you understand what I mean.”",
+                "ko": "메리 아가씨가 그이들과 어울려도 나쁜 물이 들 일은 절대 없을 겁니다. 저라도 아이들 문제라면 늘 수잔 소어비의 조언을 따랐을 것입니다. 뭐랄까, 속이 아주 꽉 차고 건강한 사람이라고나 할까요, 제 뜻이 무엇인지 아시겠지요.”"
+            }
+        ]
+    })
+
+    # 4: id 98, tag P097
+    # en: When Mrs. Medlock left her at the end of her own corridor, Mary flew back to her room. She found Martha waiting there. In fact, Martha had hurried back right after clearing the dinner table.
+    # ko: 메들록 부인이 자신의 전용 복도 끝에서 배웅해 주자, 메리는 방을 향해 날아가듯 뛰어갔다. 방에는 마사가 기다리고 있었다. 사실 마사는 식탁을 치우자마자 헐레벌떡 방으로 돌아와 기다리던 참이었다.
+    result.append({
+        "original_id": 98,
+        "chunks": [
+            {
+                "tag": "P097-1",
+                "en": "When Mrs. Medlock left her at the end of her own corridor, Mary flew back to her room. She found Martha waiting there. In fact, Martha had hurried back right after clearing the dinner table.",
+                "ko": "메들록 부인이 자신의 전용 복도 끝에서 배웅해 주자, 메리는 방을 향해 날아가듯 뛰어갔다. 방에는 마사가 기다리고 있었다. 사실 마사는 식탁을 치우자마자 헐레벌떡 방으로 돌아와 기다리던 참이었다."
+            }
+        ]
+    })
+
+    # 5: id 99, tag P098
+    # en: “I can have my garden!” Mary cried. “I may have it wherever I like! I am not going to have a governess for a long time! Your mother is coming to see me, and I can go to your cottage! He says a little girl like me couldn't do any harm, and I can do whatever I like—anywhere!”
+    # ko: “내 정원을 가져도 된대!” 메리가 외쳤다. “내가 원하는 곳 어디에나 정원을 만들어도 좋대! 당분간 가정교사도 안 둘 거래! 너희 어머니도 나를 보러 오실 거고, 나도 너희 오두막에 가도 된대! 나처럼 조그만 여자애가 무슨 해를 끼치겠냐면서, 내가 원하는 곳이면 어디서든 마음대로 해도 좋다고 하셨어!”
+    result.append({
+        "original_id": 99,
+        "chunks": [
+            {
+                "tag": "P098-1",
+                "en": "“I can have my garden!” Mary cried. “I may have it wherever I like! I am not going to have a governess for a long time!",
+                "ko": "“내 정원을 가져도 된대!” 메리가 외쳤다. “내가 원하는 곳 어디에나 정원을 만들어도 좋대! 당분간 가정교사도 안 둘 거래!"
+            },
+            {
+                "tag": "P098-2",
+                "en": "Your mother is coming to see me, and I can go to your cottage! He says a little girl like me couldn't do any harm, and I can do whatever I like—anywhere!”",
+                "ko": "너희 어머니도 나를 보러 오실 거고, 나도 너희 오두막에 가도 된대! 나처럼 조그만 여자애가 무슨 해를 끼치겠냐면서, 내가 원하는 곳이면 어디서든 마음대로 해도 좋다고 하셨어!”"
+            }
+        ]
+    })
+
+    # 6: id 102, tag P101
+    # en: She ran as quickly as she could to the garden. She had been away much longer than she expected, and she knew Dickon would have to set out early on his five-mile walk home. When she slipped through the door under the ivy, she saw he was not working where she had left him. The gardening tools were laid together under a tree. She ran to them, looking all around the place, but Dickon was nowhere to be seen. He had gone, and the secret garden was empty—except for the robin, who had just flown over the wall and sat on a rosebush, watching her.
+    # ko: 메리는 헐레벌떡 정원으로 달려갔다. 예상했던 것보다 훨씬 더 오래 자리를 비운 탓에, 집까지 5마일이나 걸어가야 하는 디콘이 일찍 출발했을 터였다. 담쟁이덩굴 밑 문을 통해 정원으로 슬며시 들어섰을 때, 디콘은 메리가 떠났던 자리에 보이지 않았다. 정원 도구들은 나무 아래 한데 모여 놓여 있었다. 메리는 사방을 둘러보며 도구들이 있는 곳으로 달려갔지만, 디콘의 모습은 어디에도 없었다. 디콘은 이미 떠났고 비밀의 화원은 텅 비어 있었다. 방금 담장을 날아와 장미 덤불에 앉아 메리를 지켜보고 있는 붉은가슴울새 한 마리만을 제외하고는.
+    result.append({
+        "original_id": 102,
+        "chunks": [
+            {
+                "tag": "P101-1",
+                "en": "She ran as quickly as she could to the garden. She had been away much longer than she expected, and she knew Dickon would have to set out early on his five-mile walk home.",
+                "ko": "메리는 헐레벌떡 정원으로 달려갔다. 예상했던 것보다 훨씬 더 오래 자리를 비운 탓에, 집까지 5마일이나 걸어가야 하는 디콘이 일찍 출발했을 터였다."
+            },
+            {
+                "tag": "P101-2",
+                "en": "When she slipped through the door under the ivy, she saw he was not working where she had left him. The gardening tools were laid together under a tree.",
+                "ko": "담쟁이덩굴 밑 문을 통해 정원으로 슬며시 들어섰을 때, 디콘은 메리가 떠났던 자리에 보이지 않았다. 정원 도구들은 나무 아래 한데 모여 놓여 있었다."
+            },
+            {
+                "tag": "P101-3",
+                "en": "She ran to them, looking all around the place, but Dickon was nowhere to be seen. He had gone, and the secret garden was empty—except for the robin, who had just flown over the wall and sat on a rosebush, watching her.",
+                "ko": "메리는 사방을 둘러보며 도구들이 있는 곳으로 달려갔지만, 디콘의 모습은 어디에도 없었다. 디콘은 이미 떠났고 비밀의 화원은 텅 비어 있었다. 방금 담장을 날아와 장미 덤불에 앉아 메리를 지켜보고 있는 붉은가슴울새 한 마리만을 제외하고는."
+            }
+        ]
+    })
+
+    # 7: id 104, tag P103a
+    # en: Something white fastened to the rosebush caught her eye. It was a piece of paper—in fact, a piece of the letter she had printed for Martha to send to him. It was pinned to the bush with a long thorn, and Mary knew instantly that Dickon had left it there. There were some roughly printed letters on it and a simple drawing. At first, she couldn't tell what it was. Then she saw it was meant to be a nest with a bird sitting on it. Underneath were the printed letters, which read:
+    # ko: 장미 덤불에 하얀 것이 묶여 있는 모습이 눈에 들어왔다. 그것은 종이쪽지였다. 사실 메리가 디콘에게 보내달라고 마사에게 써주었던 바로 그 편지 한구석을 찢은 조각이었다. 긴 가시로 덤불에 고정되어 있었는데, 메리는 그것이 디콘이 남겨둔 것임을 직감적으로 알았다. 종이에는 삐뚤삐뚤 큼직하게 쓴 글씨와 소박한 그림 하나가 그려져 있었다. 처음에는 그것이 무엇인지 알 수 없었지만, 이내 새 한 마리가 둥지에 앉아 있는 모습을 나타낸 것임을 깨달았다. 그림 아래에는 인쇄체로 다음과 같이 적혀 있었다.
+    result.append({
+        "original_id": 104,
+        "chunks": [
+            {
+                "tag": "P103a-1",
+                "en": "Something white fastened to the rosebush caught her eye. It was a piece of paper—in fact, a piece of the letter she had printed for Martha to send to him.",
+                "ko": "장미 덤불에 하얀 것이 묶여 있는 모습이 눈에 들어왔다. 그것은 종이쪽지였다. 사실 메리가 디콘에게 보내달라고 마사에게 써주었던 바로 그 편지 한구석을 찢은 조각이었다."
+            },
+            {
+                "tag": "P103a-2",
+                "en": "It was pinned to the bush with a long thorn, and Mary knew instantly that Dickon had left it there. There were some roughly printed letters on it and a simple drawing.",
+                "ko": "긴 가시로 덤불에 고정되어 있었는데, 메리는 그것이 디콘이 남겨둔 것임을 직감적으로 알았다. 종이에는 삐뚤삐뚤 큼직하게 쓴 글씨와 소박한 그림 하나가 그려져 있었다."
+            },
+            {
+                "tag": "P103a-3",
+                "en": "At first, she couldn't tell what it was. Then she saw it was meant to be a nest with a bird sitting on it. Underneath were the printed letters, which read:",
+                "ko": "처음에는 그것이 무엇인지 알 수 없었지만, 이내 새 한 마리가 둥지에 앉아 있는 모습을 나타낸 것임을 깨달았다. 그림 아래에는 인쇄체로 다음과 같이 적혀 있었다."
+            }
+        ]
+    })
+
+    # 8: id 3, tag P003
+    # en: "Oh!" Martha said with great pride. "I never knew our Dickon was as clever as that. That's a picture of a missel thrush on her nest, as large as life and twice as natural."
+    # ko: "어머나!" 마사가 아주 자랑스러워하며 말했다. "우리 디콘이 이렇게 솜씨가 좋은 줄은 미처 몰랐네유. 이건 둥지 위에 앉아 있는 겨우살이지빠귀 그림인데, 아주 실물처럼 똑같이 생겼네유."
+    result.append({
+        "original_id": 3,
+        "chunks": [
+            {
+                "tag": "P003-1",
+                "en": "\"Oh!\" Martha said with great pride. \"I never knew our Dickon was as clever as that. That's a picture of a missel thrush on her nest, as large as life and twice as natural.\"",
+                "ko": "\"어머나!\" 마사가 아주 자랑스러워하며 말했다. \"우리 디콘이 이렇게 솜씨가 좋은 줄은 미처 몰랐네유. 이건 둥지 위에 앉아 있는 겨우살이지빠귀 그림인데, 아주 실물처럼 똑같이 생겼네유.\""
+            }
+        ]
+    })
+
+    # 9: id 4, tag P004
+    # en: Then Mary realized that Dickon had meant the picture to be a message. He wanted her to be sure that he would keep her secret. Her garden was her nest, and she was like the missel thrush. Oh, how she liked that strange, unusual boy!
+    # ko: 그제야 메리는 디콘이 비밀을 지키겠다는 메시지로 그 그림을 보냈음을 깨달았다. 그는 비밀을 꼭 지켜줄 테니 안심하라는 뜻을 전하고 싶었던 것이다. 비밀의 화원은 그녀의 둥지였고, 자신은 그 둥지 위의 겨우살이지빠귀와 같았다. 아, 메리는 이 묘하고 유별난 소년이 얼마나 마음에 들었는지 모른다!
+    result.append({
+        "original_id": 4,
+        "chunks": [
+            {
+                "tag": "P004-1",
+                "en": "Then Mary realized that Dickon had meant the picture to be a message. He wanted her to be sure that he would keep her secret.",
+                "ko": "그제야 메리는 디콘이 비밀을 지키겠다는 메시지로 그 그림을 보냈음을 깨달았다. 그는 비밀을 꼭 지켜줄 테니 안심하라는 뜻을 전하고 싶었던 것이다."
+            },
+            {
+                "tag": "P004-2",
+                "en": "Her garden was her nest, and she was like the missel thrush. Oh, how she liked that strange, unusual boy!",
+                "ko": "비밀의 화원은 그녀의 둥지였고, 자신은 그 둥지 위의 겨우살이지빠귀와 같았다. 아, 메리는 이 묘하고 유별난 소년이 얼마나 마음에 들었는지 모른다!"
+            }
+        ]
+    })
+
+    # 10: id 6, tag P006
+    # en: But you never know what the weather will do in Yorkshire, especially in the springtime. She woke up in the middle of the night to the sound of rain beating heavily against her window. It was pouring in torrents, and the wind was howling around the corners and through the chimneys of the huge old house. Mary sat up in bed, feeling miserable and angry.
+    # ko: 하지만 요크셔의 날씨는, 특히 봄철에는 도무지 종잡을 수가 없는 법이다. 메리는 한밤중에 창문을 세차게 두드리는 빗소리에 잠이 깼다. 비가 억수같이 쏟아지고 있었고, 바람은 거대한 고저택의 모퉁이를 휘감고 굴뚝을 통과하며 윙윙 울부짖었다. 침대에 일어나 앉은 메리는 온몸이 찌푸둥하고 짜증이 났다.
+    result.append({
+        "original_id": 6,
+        "chunks": [
+            {
+                "tag": "P006-1",
+                "en": "But you never know what the weather will do in Yorkshire, especially in the springtime. She woke up in the middle of the night to the sound of rain beating heavily against her window.",
+                "ko": "하지만 요크셔의 날씨는, 특히 봄철에는 도무지 종잡을 수가 없는 법이다. 메리는 한밤중에 창문을 세차게 두드리는 빗소리에 잠이 깼다."
+            },
+            {
+                "tag": "P006-2",
+                "en": "It was pouring in torrents, and the wind was howling around the corners and through the chimneys of the huge old house. Mary sat up in bed, feeling miserable and angry.",
+                "ko": "비가 억수같이 쏟아지고 있었고, 바람은 거대한 고저택의 모퉁이를 휘감고 굴뚝을 통과하며 윙윙 울부짖었다. 침대에 일어나 앉은 메리는 온몸이 찌푸둥하고 짜증이 났다."
+            }
+        ]
+    })
+
+    # 11: id 8, tag P008
+    # en: She threw herself back on her pillow and buried her face. She did not cry, but she lay there hating the sound of the heavy, beating rain. She hated the wind and its mournful howling. She couldn't get back to sleep. The sad sound kept her awake because she felt so sad herself. If she had been happy, it probably would have lulled her to sleep. How the wind howled, and how the big raindrops poured down and beat against the glass!
+    # ko: 메리는 베개에 머리를 묻고 다시 누웠다. 울지는 않았지만, 세차게 쏟아지는 빗소리를 미워하며 누워 있었다. 쓸쓸하게 울부짖는 바람 소리도 싫었다. 다시 잠을 이룰 수가 없었다. 제 마음이 슬퍼서 그런지 그 애처로운 소리 때문에 잠이 오지 않았다. 만약 행복했더라면 그 소리가 자장가처럼 들렸을지도 모를 일이었다. 바람은 또 어찌나 울부짖고, 굵은 빗방울은 어찌나 쏟아져 내리며 창문을 두들겨 대는지!
+    result.append({
+        "original_id": 8,
+        "chunks": [
+            {
+                "tag": "P008-1",
+                "en": "She threw herself back on her pillow and buried her face. She did not cry, but she lay there hating the sound of the heavy, beating rain. She hated the wind and its mournful howling.",
+                "ko": "메리는 베개에 머리를 묻고 다시 누웠다. 울지는 않았지만, 세차게 쏟아지는 빗소리를 미워하며 누워 있었다. 쓸쓸하게 울부짖는 바람 소리도 싫었다."
+            },
+            {
+                "tag": "P008-2",
+                "en": "She couldn't get back to sleep. The sad sound kept her awake because she felt so sad herself.",
+                "ko": "다시 잠을 이룰 수가 없었다. 제 마음이 슬퍼서 그런지 그 애처로운 소리 때문에 잠이 오지 않았다."
+            },
+            {
+                "tag": "P008-3",
+                "en": "If she had been happy, it probably would have lulled her to sleep. How the wind howled, and how the big raindrops poured down and beat against the glass!",
+                "ko": "만약 행복했더라면 그 소리가 자장가처럼 들렸을지도 모를 일이었다. 바람은 또 어찌나 울부짖고, 굵은 빗방울은 어찌나 쏟아져 내리며 창문을 두들겨 대는지!"
+            }
+        ]
+    })
+
+    # 12: id 11, tag P011
+    # en: "It isn't the wind now," she whispered loudly. "That isn't the wind. It is different. It's the same crying I heard before."
+    # ko: "지금은 바람 소리가 아니야." 메리가 나직하지만 또렷하게 속삭였다. "바람 소리가 아니야. 분명 달라. 전에 들었던 그 울음소리야."
+    result.append({
+        "original_id": 11,
+        "chunks": [
+            {
+                "tag": "P011-1",
+                "en": "\"It isn't the wind now,\" she whispered loudly. \"That isn't the wind.",
+                "ko": "\"지금은 바람 소리가 아니야.\" 메리가 나직하지만 또렷하게 속삭였다. \"바람 소리가 아니야."
+            },
+            {
+                "tag": "P011-2",
+                "en": "It is different. It's the same crying I heard before.\"",
+                "ko": "분명 달라. 전에 들었던 그 울음소리야.\""
+            }
+        ]
+    })
+
+    # 13: id 12, tag P012
+    # en: The door to her room was slightly open, and the sound came down the corridor—a distant, faint sound of fretful crying. She listened for a few minutes, and with each passing second, she became more certain. She felt as if she had to find out what it was. It seemed even stranger than the secret garden and the buried key. Perhaps her rebellious mood made her bold. She put her feet out of bed and stood on the floor.
+    # ko: 방문이 살짝 열려 있었는데, 긴 복도를 타고 멀리서 들려오는 애처로운 울음소리가 희미하게 울렸다. 메리는 몇 분 동안 귀를 기울였고, 시간이 흐를수록 확신이 섰다. 그 울음소리의 정체를 꼭 밝혀내야만 할 것 같았다. 그것은 비밀의 화원이나 묻혀 있던 열쇠보다 훨씬 더 기이하게 느껴졌다. 어쩌면 반항심 어린 마음이 그녀를 대담하게 만들었는지도 모른다. 메리는 침대 밖으로 발을 디디며 바닥에 일어섰다.
+    result.append({
+        "original_id": 12,
+        "chunks": [
+            {
+                "tag": "P012-1",
+                "en": "The door to her room was slightly open, and the sound came down the corridor—a distant, faint sound of fretful crying. She listened for a few minutes, and with each passing second, she became more certain. She felt as if she had to find out what it was.",
+                "ko": "방문이 살짝 열려 있었는데, 긴 복도를 타고 멀리서 들려오는 애처로운 울음소리가 희미하게 울렸다. 메리는 몇 분 동안 귀를 기울였고, 시간이 흐를수록 확신이 섰다. 그 울음소리의 정체를 꼭 밝혀내야만 할 것 같았다."
+            },
+            {
+                "tag": "P012-2",
+                "en": "It seemed even stranger than the secret garden and the buried key. Perhaps her rebellious mood made her bold. She put her feet out of bed and stood on the floor.",
+                "ko": "그것은 비밀의 화원이나 묻혀 있던 열쇠보다 훨씬 더 기이하게 느껴졌다. 어쩌면 반항심 어린 마음이 그녀를 대담하게 만들었는지도 모른다. 메리는 침대 밖으로 발을 디디며 바닥에 일어섰다."
+            }
+        ]
+    })
+
+    # 14: id 13, tag P013
+    # en: "I am going to find out what it is," she said. "Everyone is in bed, and I don't care about Mrs. Medlock—I don't care at all!"
+    # ko: "그 소리가 뭔지 꼭 알아내겠어." 메리가 다짐했다. "모두 잠들었으니 메들록 부인도 상관없어. 아무래도 좋아!"
+    result.append({
+        "original_id": 13,
+        "chunks": [
+            {
+                "tag": "P013-1",
+                "en": "\"I am going to find out what it is,\" she said. \"Everyone is in bed, and I don't care about Mrs. Medlock—I don't care at all!\"",
+                "ko": "\"그 소리가 뭔지 꼭 알아내겠어.\" 메리가 다짐했다. \"모두 잠들었으니 메들록 부인도 상관없어. 아무래도 좋아!\""
+            }
+        ]
+    })
+
+    with open(output_path, "w", encoding="utf-8") as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
+
+    print("Done writing", output_path)
+
+    # Verification
+    assert len(data) == len(result), f"Length mismatch: {len(data)} vs {len(result)}"
+    for o, d in zip(data, result):
+        assert o["id"] == d["original_id"], f"ID mismatch: {o['id']} vs {d['original_id']}"
+        assert len(d["chunks"]) > 0, f"No chunks for id {o['id']}"
+        for chunk in d["chunks"]:
+            assert "tag" in chunk and "en" in chunk and "ko" in chunk
+            assert chunk["tag"].startswith(o["tag"] + "-"), f"Tag format mismatch: {chunk['tag']} vs {o['tag']}"
+            en_text = chunk["en"].strip()
+            ko_text = chunk["ko"].strip()
+            assert len(en_text) > 0 and len(ko_text) > 0
+
+    print("All validation assertions passed successfully!")
+
+if __name__ == "__main__":
+    main()

@@ -1,0 +1,337 @@
+import json
+import re
+
+# Define the chunking data for batch_3
+chunks_data = [
+    {
+        "original_id": 19,
+        "chunks": [
+            {
+                "tag": "P017-1",
+                "en": "But she thought about it a lot afterward. That night, when Mrs. Crawford told her she would sail to England in a few days to live with her uncle, Mr. Archibald Craven, at Misselthwaite Manor, Mary looked so cold and stubbornly uninterested that they didn't know what to make of her.",
+                "ko": "하지만 메리는 그 후로도 그 말을 곱씹어 생각했다. 그날 밤, 크로포드 부인이 메리에게 며칠 뒤 배를 타고 영국으로 건너가 미셀스웨이트 저택에 사는 고모부 아치볼드 크레이븐 씨와 살게 될 거라고 말해 주었다. 그때 메리의 얼굴이 어찌나 싸늘하고 고집스러울 정도로 무관심해 보였던지, 부부는 이 아이를 대체 어쩌면 좋을지 갈피를 잡을 수 없었다."
+            },
+            {
+                "tag": "P017-2",
+                "en": "They tried to be kind. But Mary just turned her face away when Mrs. Crawford tried to kiss her. She held herself stiffly when Mr. Crawford patted her shoulder.",
+                "ko": "부부는 다정하게 대해 주려 애썼다. 그러나 메리는 크로포드 부인이 뽀뽀를 하려고 다가오자 고개를 돌려 버렸고, 크로포드 씨가 어깨를 다독여 줄 때도 몸을 뻣뻣하게 굳힌 채 가만히 있을 뿐이었다."
+            }
+        ]
+    },
+    {
+        "original_id": 20,
+        "chunks": [
+            {
+                "tag": "P018-1",
+                "en": "\"She's such a plain child,\" Mrs. Crawford said with pity afterward.",
+                "ko": "\"정말 볼품없는 아이예요.\" 나중에 크로포드 부인이 안타까운 한숨을 내쉬며 말했다."
+            },
+            {
+                "tag": "P018-2",
+                "en": "\"And her mother was such a beautiful woman. She had such charming manners, too.",
+                "ko": "\"어머니는 참 아름다운 분이셨는데 말이죠. 태도도 무척 우아했고 말이에요."
+            },
+            {
+                "tag": "P018-3",
+                "en": "Mary, though, has the most unappealing ways I've ever seen in a child. The children call her 'Mistress Mary Quite Contrary.' And even though it's naughty of them, you can't help but understand why.\"",
+                "ko": "그런데 메리는 내가 살면서 본 어린아이 중에서 가장 정이 안 가요. 아이들이 메리를 '고집쟁이 메리 아가씨'라고 부르는데, 짓궂은 장난이긴 하지만 왜 그렇게 부르는지 아주 이해가 안 가는 것도 아니에요.\""
+            }
+        ]
+    },
+    {
+        "original_id": 22,
+        "chunks": [
+            {
+                "tag": "P020-1",
+                "en": "\"I believe she hardly ever looked at her,\" Mrs. Crawford sighed. \"When her Ayah died, there was no one to even think about the poor little thing.",
+                "ko": "\"아이를 거의 거들떠보지도 않았던 모양이에요.\" 크로포드 부인이 한숨을 쉬었다. \"유모 아야가 죽었을 때, 그 불쌍한 어린것을 걱정하는 이가 아무도 없었으니 말이에요."
+            },
+            {
+                "tag": "P020-2",
+                "en": "Imagine the servants running away and leaving her all alone in that empty bungalow! Colonel McGrew said he nearly jumped out of his skin when he opened the door and found her standing by herself in the middle of the room.\"",
+                "ko": "하인들이 전부 도망쳐 버리고 텅 빈 단층집에 아이를 홀로 버려두다니 상상이나 할 수 있는 일인가요! 맥그루 대령은 문을 열었다가 방 한가운데에 아이가 덩그러니 혼자 서 있는 것을 보고 심장이 멎는 줄 알았다고 하더군요.\""
+            }
+        ]
+    },
+    {
+        "original_id": 23,
+        "chunks": [
+            {
+                "tag": "P021-1",
+                "en": "Mary made the long journey to England under the care of an officer's wife. The wife was taking her own children to a boarding school.",
+                "ko": "메리는 어느 장교 부인의 보살핌을 받으며 영국으로 향하는 먼 길에 올랐다. 장교 부인은 제 자식들을 기숙학교에 입학시키러 가는 길이었다."
+            },
+            {
+                "tag": "P021-2",
+                "en": "The officer's wife was completely focused on her own son and daughter. She was quite happy to hand Mary over to the woman Mr. Archibald Craven sent to meet her in London. This woman was Mrs. Medlock, the housekeeper at Misselthwaite Manor.",
+                "ko": "부인의 관심은 오직 제 자식들에게만 쏠려 있었기에, 아치볼드 크레이븐 씨가 런던으로 보낸 대리인에게 선뜻 메리를 인계하고 홀가분해했다. 마중 나온 여인은 미셀스웨이트 저택의 살림을 맡고 있는 메들록 부인이었다."
+            },
+            {
+                "tag": "P021-3",
+                "en": "She was a plump woman with very red cheeks and sharp black eyes. She wore a very purple dress, a black silk cape with jet fringe, and a black bonnet with purple velvet flowers that stood up and trembled when she moved her head.",
+                "ko": "메들록 부인은 터질 듯 붉은 뺨에 날카로운 검은 눈동자를 가진 풍채 좋은 여자였다. 진보라색 드레스에 검은 실크 망토를 두르고 있었는데, 망토 자락에는 흑옥 장식이 찰랑거렸다. 검은 보닛에는 보라색 벨벳 꽃 장식이 달려 있었는데, 그녀가 고개를 움직일 때마다 꽃들이 꼿꼿이 서서 파르르 떨렸다."
+            },
+            {
+                "tag": "P021-4",
+                "en": "Mary didn't like her at all. But since Mary rarely liked anyone, that wasn't surprising. Plus, it was clear Mrs. Medlock didn't think much of Mary either.",
+                "ko": "메리는 그녀가 전혀 마음에 들지 않았다. 하기야 누구든 좋아하는 법이 없는 메리였으니 그리 놀랄 일도 아니었지만 말이다. 게다가 메들록 부인 역시 메리를 곱지 않은 시선으로 바라보는 것이 분명했다."
+            }
+        ]
+    },
+    {
+        "original_id": 24,
+        "chunks": [
+            {
+                "tag": "P022-1",
+                "en": "\"My goodness! She's a plain little thing!\" she said.",
+                "ko": "\"세상에! 참 볼품없이 수수한 꼬마로군요!\" 메들록 부인이 말했다."
+            },
+            {
+                "tag": "P022-2",
+                "en": "\"And we'd heard her mother was a beauty. She hasn't passed much of that on, has she, ma'am?\"",
+                "ko": "\"어머니가 대단한 미인이었다고 들었는데, 그 미모를 거의 물려받지 못했나 보네요, 부인?\""
+            }
+        ]
+    },
+    {
+        "original_id": 25,
+        "chunks": [
+            {
+                "tag": "P023-1",
+                "en": "\"Perhaps she'll improve as she gets older,\" the officer's wife said kindly.",
+                "ko": "\"자라면서 인물이 나아지겠지요.\" 장교 부인이 다정하게 대꾸했다."
+            },
+            {
+                "tag": "P023-2",
+                "en": "\"If she weren't so pale and had a nicer expression, her features are actually quite good. Children change so much.\"",
+                "ko": "\"너무 창백하고 표정이 어두워서 그렇지, 이목구비는 꽤 반듯한 편이랍니다. 아이들은 자라면서 몰라보게 달라지니까요.\""
+            }
+        ]
+    },
+    {
+        "original_id": 27,
+        "chunks": [
+            {
+                "tag": "P025-1",
+                "en": "They thought Mary wasn't listening. She was standing a little apart from them, by the window of the private hotel they were staying at. She was watching the buses, cabs, and people passing by.",
+                "ko": "그들은 메리가 듣고 있지 않는 줄 알았다. 메리는 그들이 묵고 있는 개인 호텔의 창가 곁에 조금 떨어져 서서, 밖으로 바삐 오가는 마차와 사람들을 지켜보고 있었다."
+            },
+            {
+                "tag": "P025-2",
+                "en": "But she heard everything clearly. She became very curious about her uncle and the place he lived.",
+                "ko": "하지만 메리는 그들의 대화를 한마디도 놓치지 않고 똑똑히 들었다. 메리는 고모부와 그가 산다는 곳에 대해 강한 호기심을 느끼기 시작했다."
+            },
+            {
+                "tag": "P025-3",
+                "en": "What kind of place was it? What would he be like? What was a hunchback?",
+                "ko": "그곳은 대체 어떤 곳일까? 고모부는 어떤 사람일까? 꼽추란 무엇일까?"
+            },
+            {
+                "tag": "P025-4",
+                "en": "She'd never seen one. Maybe there weren't any in India.",
+                "ko": "메리는 꼽추를 단 한 번도 본 적이 없었다. 어쩌면 인도에는 꼽추가 없을지도 몰랐다."
+            }
+        ]
+    },
+    {
+        "original_id": 28,
+        "chunks": [
+            {
+                "tag": "P026-1",
+                "en": "Since she'd been living in other people's houses and no longer had an Ayah, she started to feel lonely. She also began to have strange new thoughts. She started to wonder why she never seemed to belong to anyone, even when her parents were alive.",
+                "ko": "남의 집에 얹혀살게 되고 곁에서 보살펴 주던 유모 아야마저 없어지자, 메리는 외로움을 느끼기 시작했다. 그리고 머릿속에 낯선 생각들이 싹트기 시작했다. 어째서 부모님이 살아 계실 때조차 자신은 그 누구에게도 속하지 않은 존재처럼 보였는지 의아해졌다."
+            },
+            {
+                "tag": "P026-2",
+                "en": "Other children seemed to belong to their parents, but she never felt like she was truly anyone's little girl. She had servants, food, and clothes, but no one ever paid her any real attention.",
+                "ko": "다른 아이들은 부모의 귀한 자식인 것이 당연해 보였는데, 자신은 단 한 번도 진정으로 누군가의 품에 안긴 딸이었던 적이 없는 것 같았다. 하인도 있었고 먹을 것과 옷도 차고 넘쳤지만, 누구 하나 자신에게 온전한 마음을 주지 않았다."
+            },
+            {
+                "tag": "P026-3",
+                "en": "She didn't know this was because she was an unpleasant child. But then, of course, she didn't know she was unpleasant. She often thought other people were disagreeable, but she didn't realize she was herself.",
+                "ko": "메리는 이것이 자신이 심술궂고 까다로운 아이이기 때문이라는 사실을 몰랐다. 하긴, 스스로가 남의 비위를 맞출 줄 모르는 성격이라는 것조차 몰랐으니 무리도 아니었다. 메리는 늘 다른 사람들이 괴팍하다고만 여겼을 뿐, 자기 자신이 그렇다는 생각은 털끝만큼도 해보지 못했다."
+            }
+        ]
+    },
+    {
+        "original_id": 29,
+        "chunks": [
+            {
+                "tag": "P027-1",
+                "en": "Mary thought Mrs. Medlock was the most unpleasant person she'd ever seen. Her face was ordinary and ruddy, and her fancy bonnet was just as common.",
+                "ko": "메리는 메들록 부인이 이제껏 본 사람 중에 가장 불쾌한 사람이라고 생각했다. 부인의 붉고 둔해 보이는 얼굴도 평범했고, 요란스레 꾸민 보닛 역시 천박하기 짝이 없어 보였다."
+            },
+            {
+                "tag": "P027-2",
+                "en": "The next day, when they set out for Yorkshire, Mary walked through the station to the train carriage with her head held high. She tried to keep as far away from Mrs. Medlock as possible.",
+                "ko": "다음 날 요크셔로 출발하기 위해 기차역을 지나 객차로 걸어갈 때, 메리는 고개를 꼿꼿이 치켜세웠다. 그러고는 메들록 부인과 최대한 거리를 두며 걸었다."
+            },
+            {
+                "tag": "P027-3",
+                "en": "She didn't want to seem like she belonged to her. It would have made her furious if people thought she was Mrs. Medlock's little girl.",
+                "ko": "마치 부인의 일행이 아닌 것처럼 보이고 싶었기 때문이다. 사람들이 자신을 메들록 부인의 딸로 오해한다면 몹시 화가 날 터였다."
+            }
+        ]
+    },
+    {
+        "original_id": 30,
+        "chunks": [
+            {
+                "tag": "P028-1",
+                "en": "But Mrs. Medlock wasn't bothered by Mary or her thoughts at all. She was the kind of woman who \"wouldn't stand for any nonsense from young ones.\" At least, that's what she would have said if anyone had asked her.",
+                "ko": "하지만 메들록 부인은 메리의 기색이나 생각 따위엔 조금도 마음을 쓰지 않았다. 부인은 \"어린것들이 실없이 구는 꼴을 눈감아주지 않는\" 성미였다. 누가 물어보았다면 부인도 그렇게 대답했을 것이다."
+            },
+            {
+                "tag": "P028-2",
+                "en": "She hadn't wanted to go to London, especially since her sister Maria's daughter was getting married.",
+                "ko": "사실 부인은 여동생 마리아의 딸이 혼인을 앞두고 있었기에 런던까지 오고 싶지 않았다."
+            },
+            {
+                "tag": "P028-3",
+                "en": "But she had a comfortable, well-paid job as housekeeper at Misselthwaite Manor. The only way to keep it was to immediately do whatever Mr. Archibald Craven told her. She never even dared to ask a question.",
+                "ko": "하지만 미셀스웨이트 저택의 살림을 맡아 넉넉한 보수를 받는 이 자리를 보존하려면, 아치볼드 크레이븐 씨의 명령에 묻지도 따지지도 않고 즉각 따르는 수밖에 없었다. 그녀는 주인에게 감히 질문 하나 던질 배짱조차 없었다."
+            }
+        ]
+    },
+    {
+        "original_id": 31,
+        "chunks": [
+            {
+                "tag": "P029-1",
+                "en": "\"Captain Lennox and his wife died of cholera,\" Mr. Craven had said in his short, cold way. \"Captain Lennox was my wife's brother, and I am their daughter's guardian.",
+                "ko": "\"레녹스 대위 부부가 콜레라로 세상을 떠났소.\" 크레이븐 씨는 퉁명스럽고 냉정한 어조로 말했었다. \"대위는 내 처남이니, 내가 그들의 딸의 후견인을 맡겠소."
+            },
+            {
+                "tag": "P029-2",
+                "en": "The child needs to be brought here. You must go to London and bring her yourself.\"",
+                "ko": "그 아이를 이곳으로 데려와야 하니, 당신이 직접 런던으로 가서 데려오도록 하시오.\""
+            }
+        ]
+    },
+    {
+        "original_id": 33,
+        "chunks": [
+            {
+                "tag": "P031-1",
+                "en": "Mary sat in her corner of the train carriage, looking plain and grumpy. She had nothing to read or look at. Her thin, black-gloved hands were folded in her lap.",
+                "ko": "메리는 뚱하고 볼품없는 얼굴로 기차 객차 구석에 앉아 있었다. 읽을 책도, 구경할 거리도 없었다. 검은 장갑을 낀 가냘픈 두 손은 무릎 위에 얌전히 포갠 채였다."
+            },
+            {
+                "tag": "P031-2",
+                "en": "Her black dress made her look even paler than usual. Her limp, light hair straggled out from under her black crepe hat.",
+                "ko": "칙칙한 검은 드레스는 메리의 핼쑥한 피부를 평소보다 훨씬 더 창백해 보이게 만들었다. 힘없이 처진 밝은색 머리카락이 검은색 크레이프 모자 아래로 부스스하게 비어져 나와 있었다."
+            }
+        ]
+    },
+    {
+        "original_id": 2,
+        "chunks": [
+            {
+                "tag": "P002-1",
+                "en": "Mary slept for a long time. When she finally woke up, Mrs. Medlock had bought a lunch basket at one of the stations. They ate chicken, cold beef, bread and butter, and drank hot tea.",
+                "ko": "메리는 오랫동안 단잠에 빠졌다. 마침내 눈을 떴을 때, 메들록 부인은 어느 기차역에서 점심 도시락 바구니를 사 놓은 뒤였다. 두 사람은 닭고기와 차가운 소고기, 버터 바른 빵을 먹고 따뜻한 차를 마셨다."
+            },
+            {
+                "tag": "P002-2",
+                "en": "Outside, the rain poured down harder than ever, and everyone on the platform wore wet, shiny raincoats. The train guard lit the lamps in their compartment, and Mrs. Medlock cheered up considerably as she ate. She ate a hearty meal and soon fell asleep.",
+                "ko": "창밖에는 비가 그 어느 때보다 세차게 퍼붓고 있었고, 승강장에 서 있는 사람들은 저마다 젖어서 번들거리는 우비를 입고 있었다. 열차 차장이 객실에 등불을 밝혔고, 메들록 부인은 음식을 먹으면서 기분이 눈에 띄게 좋아졌다. 음식을 푸짐하게 먹은 부인은 이내 잠속으로 빠져들었다."
+            },
+            {
+                "tag": "P002-3",
+                "en": "Mary sat watching her, staring as the woman's fine bonnet slipped to one side, until Mary herself drifted off to sleep again in the corner of the carriage, lulled by the steady patter of rain against the glass. It was pitch black when she woke up next. The train had stopped at a station, and Mrs. Medlock was shaking her shoulder.",
+                "ko": "메리는 부인의 멋진 보닛 모자가 한쪽으로 비스듬히 기울어지는 것을 멍하니 바라보며 앉아 있다가, 창문을 토닥토닥 두드리는 한결같은 빗소리에 취해 자신도 모르게 객실 구석에서 다시 깊은 잠에 빠져들었다. 다시 눈을 떴을 때 주위는 온통 칠흑 같은 어둠뿐이었다. 기차는 어느 역에 멈춰 서 있었고, 메들록 부인이 메리의 어깨를 흔들며 깨우고 있었다."
+            }
+        ]
+    },
+    {
+        "original_id": 3,
+        "chunks": [
+            {
+                "tag": "P003-1",
+                "en": "\"You've had quite a sleep!\" she said.",
+                "ko": "\"잠을 아주 푹 자더구나!\" 부인이 말했다."
+            },
+            {
+                "tag": "P003-2",
+                "en": "\"Time to wake up! We're at Thwaite Station, and we have a long drive ahead of us.\"",
+                "ko": "\"이제 일어날 시간이다! 트웨이트 역에 도착했으니, 앞으로 마차를 타고 한참을 가야 한단다.\""
+            }
+        ]
+    },
+    {
+        "original_id": 4,
+        "chunks": [
+            {
+                "tag": "P004-1",
+                "en": "Mary stood up and tried to keep her eyes open while Mrs. Medlock gathered her packages. The little girl didn't offer to help.",
+                "ko": "메리는 자리에서 일어나 눈을 비비며 메들록 부인이 짐을 꾸리는 모습을 바라보았다. 그러나 돕겠다고 나서지는 않았다."
+            },
+            {
+                "tag": "P004-2",
+                "en": "In India, the servants had always carried everything, and she took it for granted that others would wait on her.",
+                "ko": "인도에 살 때는 늘 하인들이 모든 짐을 날라다 주었기에, 메리는 다른 사람이 제 시중을 드는 것을 당연하게 여겨 왔다."
+            }
+        ]
+    }
+]
+
+def count_real_sentences_en(text):
+    # Handle abbreviations
+    t = re.sub(r'\b(Mr|Mrs|Ms|Dr|Col|Capt|Gen|St)\.', r'\1<DOT>', text)
+    # Split on sentence terminals
+    sents = re.split(r'[.!?]+["\']?(?=\s|$)', t)
+    return len([s for s in sents if s.strip()])
+
+def count_real_sentences_ko(text):
+    # Handle direct speech + reporting verb pattern e.g. "..." 부인이 말했다.
+    # Replace period inside quotes when followed by reporting clause
+    t = re.sub(r'\."\s+([가-힣]+(?:이|가|는|은)\s+(?:말했다|대답했다|한숨을|소리쳤다|덧붙였다|물었다|외쳤다))', r'<DOT>\" \1', text)
+    sents = re.split(r'[.!?]+["\']?(?=\s|$)', t)
+    return len([s for s in sents if s.strip()])
+
+with open(r'c:\git_repo\Book_apps\secret_garden\batches\batch_3.json', 'r', encoding='utf-8') as f:
+    orig_data = json.load(f)
+
+assert len(orig_data) == len(chunks_data), f"Count mismatch: {len(orig_data)} vs {len(chunks_data)}"
+
+all_passed = True
+for orig, chunk_group in zip(orig_data, chunks_data):
+    assert orig['id'] == chunk_group['original_id'], f"ID mismatch: {orig['id']} vs {chunk_group['original_id']}"
+    
+    # Check sentence counts in chunks
+    for c in chunk_group['chunks']:
+        en_cnt = count_real_sentences_en(c['en'])
+        ko_cnt = count_real_sentences_ko(c['ko'])
+        if en_cnt > 3 or ko_cnt > 3:
+            print(f"Warning: Chunk {c['tag']} has >3 sentences: EN={en_cnt}, KO={ko_cnt}")
+            all_passed = False
+
+    reconstructed_en = " ".join(c['en'] for c in chunk_group['chunks'])
+    reconstructed_ko = " ".join(c['ko'] for c in chunk_group['chunks'])
+    
+    orig_en = orig['en'].strip()
+    orig_ko = orig['ko'].strip()
+    
+    if reconstructed_en != orig_en:
+        print(f"EN mismatch in ID {orig['id']}:")
+        print(f"  Orig:  {orig_en}")
+        print(f"  Recon: {reconstructed_en}")
+        all_passed = False
+    else:
+        print(f"ID {orig['id']} EN: Perfect Match!")
+        
+    if reconstructed_ko != orig_ko:
+        print(f"KO mismatch in ID {orig['id']}:")
+        print(f"  Orig:  {orig_ko}")
+        print(f"  Recon: {reconstructed_ko}")
+        all_passed = False
+    else:
+        print(f"ID {orig['id']} KO: Perfect Match!")
+
+if all_passed:
+    output_path = r'c:\git_repo\Book_apps\secret_garden\batches\batch_3_done.json'
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(chunks_data, f, ensure_ascii=False, indent=2)
+    print(f"\nSuccessfully wrote to {output_path}")
+else:
+    print("\nValidation failed! Output not written.")

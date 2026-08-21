@@ -1,0 +1,10 @@
+[
+  {
+    "chapter": "21",
+    "id": 105,
+    "tag": "P079",
+    "en": "\"No!\" Colin shouted.",
+    "ko": "\"그래!\" 콜린이 소리쳤다.",
+    "reason": "The English text is an angry denial (\"No!\") in response to Ben asking if Colin has a crooked back, but the Korean translation translates it as \"그래!\" (Yes/Right), which has the opposite meaning. It should be translated as \"아니야!\" or \"아니!\"."
+  }
+]

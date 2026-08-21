@@ -1,0 +1,305 @@
+import json
+
+batch_10_done = [
+  {
+    "original_id": 41,
+    "chunks": [
+      {
+        "tag": "P041-1",
+        "en": "\"But listen,\" said Mary. \"It's in the house—down one of those long corridors.\"",
+        "ko": "\"하지만 잘 들어봐.\" 메리가 말했다. \"집 안에서 나는 소리야. 저 긴 복도 중 한 곳에서 말이지.\""
+      }
+    ]
+  },
+  {
+    "original_id": 43,
+    "chunks": [
+      {
+        "tag": "P043-1",
+        "en": "\"There!\" said Mary. \"I told you so!\"",
+        "ko": "\"거 봐!\" 메리가 말했다. \"내가 맞잖아!\""
+      },
+      {
+        "tag": "P043-2",
+        "en": "\"Someone is crying—and it isn't a grown-up.\"",
+        "ko": "\"누군가 울고 있어. 어른이 우는 게 아니야.\""
+      }
+    ]
+  },
+  {
+    "original_id": 45,
+    "chunks": [
+      {
+        "tag": "P045-1",
+        "en": "\"It was the wind,\" Martha said stubbornly. \"And if it wasn't, it was little Betty Butterworth, the scullery maid. She's had a toothache all day.\"",
+        "ko": "\"바람 소리였어유.\" 마사가 고집을 피웠다. \"설사 바람이 아니었다고 해도 설거지 담당 하녀인 꼬마 베티 버터워스일 거예유. 하루 종일 치통으로 끙끙 앓았거든유.\""
+      }
+    ]
+  },
+  {
+    "original_id": 4,
+    "chunks": [
+      {
+        "tag": "P004-1",
+        "en": "“We mostly just try to stay out of each other's way,” Martha answered. “Oh, it really feels like there are a lot of us then! Mother is a good-tempered woman, but she gets completely overwhelmed.",
+        "ko": "“우린 그냥 서로 부딪치지 않으려고 조심하는 편이어유.” 마사가 대답했다. “오, 그럴 때면 식구가 참 많다는 게 실감 난다니까유! 어머니는 성격이 참 좋으신데도, 그럴 때면 아주 정신을 못 차리셔유."
+      },
+      {
+        "tag": "P004-2",
+        "en": "The oldest ones go out to the cow shed and play there. Dickon doesn't mind the wet at all. He goes out just the same as if the sun were shining.",
+        "ko": "나이 좀 찬 애들은 외양간에 나가서 놀고유. 우리 디콘은 비에 젖는 것 따위는 조금도 신경 안 써유. 해가 쨍쨍할 때나 다름없이 밖으로 나가버리거든유."
+      },
+      {
+        "tag": "P004-3",
+        "en": "He says he sees things on rainy days that don't show when the weather is nice. Once he found a little fox cub half-drowned in its hole, and he brought it home inside his shirt to keep it warm. Its mother had been killed nearby, the hole was flooded, and the rest of the litter was dead.",
+        "ko": "디콘 말로는 날씨가 맑을 때는 안 보이던 것들이 비 오는 날에는 보인대유. 한번은 굴속에서 반쯤 물에 빠져 죽어가는 새끼 여우 한 마리를 발견하더니, 따뜻하게 해 준다고 셔츠 품에 품고 집으로 데려왔어유. 근처에서 어미 여우가 죽어 있고 굴까지 물에 잠기는 바람에, 나머지 새끼들은 몽땅 죽어버렸던 거쥬."
+      },
+      {
+        "tag": "P004-4",
+        "en": "He still has it at home now. Another time, he found a half-drowned young crow and brought it home too, and tamed it. He named it Soot because it's so black, and it hops and flies around with him everywhere.”",
+        "ko": "지금도 집에서 그 여우를 키우고 있어유. 또 한 번은 물에 빠져 죽을 뻔한 어린 까마귀를 데려와서 길들이기도 했어유. 녀석이 온통 까맣다고 이름을 '그을음'이라고 지었는데, 지금은 어딜 가든 디콘을 따라 깡충깡충 뛰어다니고 날아다녀유.”"
+      }
+    ]
+  },
+  {
+    "original_id": 5,
+    "chunks": [
+      {
+        "tag": "P005-1",
+        "en": "By this time, Mary had forgotten to resent Martha’s familiar way of talking. She had even begun to find it interesting, and she felt sorry when Martha stopped talking or went away.",
+        "ko": "이쯤 되자 메리는 마사의 격식 없는 말투가 거슬린다는 사실조차 잊어버렸다. 오히려 흥미롭다고 느끼기 시작했고, 마사가 말을 멈추거나 방을 나갈 때면 아쉬운 마음까지 들었다."
+      },
+      {
+        "tag": "P005-2",
+        "en": "The stories her Ayah had told her in India were completely different from the ones Martha told about the moorland cottage. That cottage housed fourteen people who lived in four tiny rooms and never had quite enough to eat. The children seemed to tumble around and amuse themselves like a litter of energetic, good-natured collie puppies.",
+        "ko": "인도에서 유모 아야가 해주던 이야기들은 마사가 요크셔 황무지 오두막에 대해 들려주는 이야기들과는 완전히 달랐다. 그 오두막에는 열네 명의 식구가 비좁은 방 네 개에서 살며 늘 먹을 것도 넉넉지 않은 처지였다. 하지만 아이들은 활기차고 성격 좋은 콜리 강아지 무리처럼 서로 뒹굴며 즐겁게 노는 것 같았다."
+      },
+      {
+        "tag": "P005-3",
+        "en": "Mary was drawn most of all to the mother and Dickon. Whenever Martha told stories about what her mother said or did, they always sounded warm and comforting.",
+        "ko": "메리는 무엇보다 마사의 어머니와 디콘에게 가장 마음이 끌렸다. 마사가 어머니가 하신 말씀이나 행동을 이야기할 때면, 언제나 마음이 따뜻하고 편안해졌다."
+      }
+    ]
+  },
+  {
+    "original_id": 17,
+    "chunks": [
+      {
+        "tag": "P017-1",
+        "en": "Mary didn't ask where the library was, because she was suddenly struck by a new idea. She made up her mind to go and find it herself.",
+        "ko": "메리는 서재가 어디에 있는지 묻지 않았다. 불현듯 새로운 생각이 머리를 스쳤기 때문이다. 직접 가서 서재를 찾아내겠다고 마음을 먹은 것이다."
+      },
+      {
+        "tag": "P017-2",
+        "en": "She wasn't worried about Mrs. Medlock, who seemed to spend all her time in her comfortable housekeeper's sitting room downstairs. In this strange place, you hardly ever saw anyone. In fact, there was no one to see but the servants.",
+        "ko": "아래층에 있는 아늑한 가정부용 거실에서 대부분의 시간을 보내는 듯한 메들록 부인에 대해서는 걱정하지 않았다. 이 기이한 저택에서는 사람을 마주치는 일이 거의 없었다. 사실 하인들 말고는 볼 수 있는 사람조차 없었다."
+      },
+      {
+        "tag": "P017-3",
+        "en": "When their master was away, they lived a comfortable life downstairs. There was a huge kitchen decorated with polished brass and pewter, and a large servants’ hall where they ate four or five hearty meals every day. A lot of lively fun went on there when Mrs. Medlock was out of the way.",
+        "ko": "주인이 부재중일 때 하인들은 아래층에서 편안한 생활을 누리고 있었다. 반짝반짝 닦아 놓은 놋쇠와 주석 식기들로 장식된 커다란 주방이 있었고, 하인들이 하루에 네댓 번씩 푸짐한 식사를 나누는 넓은 하인용 식당도 있었다. 메들록 부인이 자리를 비울 때면 그곳에서 활기찬 웃음소리가 끊이지 않았다."
+      }
+    ]
+  },
+  {
+    "original_id": 18,
+    "chunks": [
+      {
+        "tag": "P018-1",
+        "en": "Mary's meals were served regularly, and Martha waited on her, but nobody paid any attention to her. Mrs. Medlock came to check on her every day or two, but no one asked what she was doing or told her what to do. She figured this was probably the English way of raising children.",
+        "ko": "메리의 식사는 규칙적으로 차려져 나왔고 마사가 시중을 들었지만, 아무도 메리에게 관심을 기울이지 않았다. 메들록 부인이 하루나 이틀에 한 번꼴로 들러 상태를 살폈지만, 메리가 무엇을 하든 물어보거나 지시하지 않았다. 메리는 이것이 영국식 자녀 양육 방식인가 보다 생각했다."
+      },
+      {
+        "tag": "P018-2",
+        "en": "In India, she had always been attended by her Ayah, who followed her everywhere and waited on her hand and foot. Mary had often grown tired of her company.",
+        "ko": "인도에 있을 때는 늘 유모 아야가 그림자처럼 따라다니며 손발이 되어 시중을 들었다. 메리는 그런 유모의 동행이 지긋지긋할 때가 많았다."
+      },
+      {
+        "tag": "P018-3",
+        "en": "Now, nobody followed her at all, and she was learning to dress herself because Martha looked at her as if she were silly and stupid whenever she wanted things handed to her and put on.",
+        "ko": "하지만 이제는 아무도 따라다니지 않았고, 메리는 스스로 옷 입는 법을 배우고 있었다. 필요한 물건을 집어 달라고 하거나 입혀 달라고 하면 마사가 메리를 멍청하고 바보 같다는 눈빛으로 바라보았기 때문이다."
+      }
+    ]
+  },
+  {
+    "original_id": 21,
+    "chunks": [
+      {
+        "tag": "P021-1",
+        "en": "This morning, she stood at the window for about ten minutes after Martha had swept the hearth one last time and gone downstairs. She was thinking about the new idea that had come to her when she heard about the library. She didn't care much about the library itself, since she had read very few books, but hearing about it brought back the thought of those hundred rooms with closed doors.",
+        "ko": "오늘 아침, 마사가 마지막으로 벽난로 주변을 빗질하고 아래층으로 내려간 뒤 메리는 십 분 정도 창가에 서 있었다. 메리는 서재 이야기를 들었을 때 떠오른 새로운 생각을 곰곰이 짚어보고 있었다. 책을 거의 읽어본 적이 없었기에 서재 자체에는 그리 관심이 없었지만, 서재라는 말을 듣자 굳게 닫힌 문들이 있던 그 백 개의 방들이 다시 떠올랐다."
+      },
+      {
+        "tag": "P021-2",
+        "en": "She wondered if they were all really locked, and what she would find if she could get into any of them. Were there really a hundred rooms? Why shouldn't she go and see how many doors she could count?",
+        "ko": "정말로 그 방들이 모두 잠겨 있는지, 그중 한 곳이라도 들어갈 수 있다면 무엇을 발견하게 될지 궁금했다. 정말로 방이 백 개나 될까? 문이 몇 개나 되는지 직접 가서 세어보는 건 안 될까?"
+      },
+      {
+        "tag": "P021-3",
+        "en": "It would give her something to do on a morning when she couldn't go outside. She had never been taught to ask permission to do things, and she knew nothing about rules or authority, so it wouldn't have occurred to her to ask Mrs. Medlock if she could walk around the house, even if she had run into her.",
+        "ko": "밖에 나갈 수 없는 아침에 시간 보내기에는 더없이 좋은 일이었다. 메리는 무언가를 할 때 허락을 구하도록 배워본 적도 없었고, 규칙이나 권위라는 것도 전혀 몰랐기에, 설령 메들록 부인을 마주쳤다 하더라도 집안을 돌아다녀도 되는지 물어볼 생각은 꿈에도 하지 못했을 것이다."
+      }
+    ]
+  },
+  {
+    "original_id": 22,
+    "chunks": [
+      {
+        "tag": "P022-1",
+        "en": "She opened the door and stepped out into the corridor, and so her wanderings began. It was a long corridor that branched into others, leading her up short flights of stairs that connected to even more passages.",
+        "ko": "메리는 문을 열고 복도로 나섰다. 그렇게 메리의 탐험이 시작되었다. 길게 뻗은 복도는 다른 복도들로 갈래갈래 갈라졌고, 짧은 계단을 따라 올라가면 또 다른 통로들로 이어졌다."
+      },
+      {
+        "tag": "P022-2",
+        "en": "There were doors everywhere, and pictures hung on the walls. Sometimes they were dark, strange landscapes, but most of them were portraits of men and women in grand, old-fashioned costumes made of satin and velvet.",
+        "ko": "사방에 문이 있었고 벽에는 그림들이 걸려 있었다. 때로는 어둡고 기묘한 풍경화도 있었지만, 대부분은 실크와 벨벳으로 만든 화려하고 고풍스러운 의상을 입은 남녀의 초상화였다."
+      },
+      {
+        "tag": "P022-3",
+        "en": "She found herself in a long gallery where the walls were covered with these portraits. She had never imagined there could be so many pictures in a single house.",
+        "ko": "메리는 벽면 가득 초상화가 걸린 긴 화랑에 다다랐다. 한 집에 이렇게 많은 그림이 있을 수 있으리라고는 상상도 못 한 일이었다."
+      },
+      {
+        "tag": "P022-4",
+        "en": "As she walked slowly down the gallery, she stared at the faces, and they seemed to stare right back at her. She felt as if they were wondering what a little girl from India was doing in their home.",
+        "ko": "화랑을 천천히 걸어가며 초상화 속 얼굴들을 응시하자, 그 얼굴들도 메리를 똑바로 내려다보는 것 같았다. 마치 인도에서 온 꼬마 아이가 자신들의 집에서 무엇을 하고 있는지 의아해하는 눈빛이었다."
+      },
+      {
+        "tag": "P022-5",
+        "en": "Some of the pictures were of children—little girls in stiff satin dresses that reached the floor and flared out around them, and boys with puffed sleeves, lace collars, and long hair, or with large ruffles around their necks. She stopped to look at every child, wondering what their names were, where they had gone, and why they wore such strange clothes.",
+        "ko": "그림 중에는 아이들의 초상화도 있었다. 바닥까지 닿아 아래로 갈수록 넓게 퍼지는 빳빳한 실크 드레스를 입은 여자아이들, 소매에 솜을 넣고 레이스 깃을 달아 긴 머리를 늘어뜨리거나 목에 커다란 러프 칼라를 두른 남자아이들이었다. 메리는 아이들의 초상화 앞에 하나하나 멈춰 서서, 그들의 이름이 무엇인지, 지금은 어디로 갔는지, 그리고 왜 그렇게 기이한 옷을 입고 있었는지 궁금해했다."
+      },
+      {
+        "tag": "P022-6",
+        "en": "One portrait showed a stiff, plain-looking little girl who looked rather like Mary herself. She wore a green brocade dress and held a green parrot on her finger. Her eyes had a sharp, curious expression.",
+        "ko": "그중 하나는 메리 자신과 다소 닮은, 잔뜩 굳은 표정의 평범해 보이는 여자아이 초상화였다. 초록색 브로케이드 드레스를 입은 그 아이는 손가락 위에 초록색 앵무새를 얹어 두고 있었다. 아이의 눈빛은 날카롭고 호기심에 가득 차 있었다."
+      }
+    ]
+  },
+  {
+    "original_id": 24,
+    "chunks": [
+      {
+        "tag": "P024-1",
+        "en": "Surely no other little girl had ever spent such a strange morning. It felt as if there was no one in the entire, sprawling house but her own small self.",
+        "ko": "어떤 어린아이도 이토록 기이한 아침을 보낸 적은 단연코 없을 것이다. 사방으로 끝없이 넓은 저택에 오직 자기 자신만 덩그러니 남겨진 기분이었다."
+      },
+      {
+        "tag": "P024-2",
+        "en": "She wandered upstairs and downstairs, through narrow passages and wide halls, where it seemed like no one else had ever walked. Since the house had so many rooms, people must have lived in them once, but now it all felt so empty that she could hardly believe anyone ever had.",
+        "ko": "메리는 누군가 걸어 다닌 흔적조차 느껴지지 않는 좁은 통로와 넓은 대청들을 지나, 위아래 층을 이리저리 돌아다녔다. 방이 이렇게나 많으니 옛날에는 사람들이 살았겠지만, 지금은 너무도 고요해서 정말 누군가 살았던 적이 있었는지조차 믿기 어려울 지경이었다."
+      }
+    ]
+  },
+  {
+    "original_id": 25,
+    "chunks": [
+      {
+        "tag": "P025-1",
+        "en": "It wasn't until she climbed to the second floor that she thought about trying a doorknob. All the doors were shut, just as Mrs. Medlock had said. But finally, she placed her hand on one of the handles and turned it.",
+        "ko": "2층에 다다르고 나서야 비로소 메리는 문손잡이를 돌려볼 생각을 했다. 메들록 부인의 말대로 문들은 모두 굳게 닫혀 있었다. 마침내 메리가 문손잡이 하나에 손을 얹고 돌려보았다."
+      },
+      {
+        "tag": "P025-2",
+        "en": "She felt a brief flutter of fear when the knob turned easily. When she pushed, the heavy door swung open slowly. It was a massive door, leading into a large bedroom.",
+        "ko": "손잡이가 부드럽게 돌아가자 가슴이 설렘 반 두려움 반으로 쿵쾅거렸다. 문을 밀자 무거운 문이 천천히 열렸다. 커다란 침실로 이어지는 거대한 문이었다."
+      },
+      {
+        "tag": "P025-3",
+        "en": "Embroidered tapestries hung on the walls, and the room was filled with the kind of decorated, inlaid furniture she had seen in India. A wide window with leaded glass panes looked out onto the moor, and over the fireplace hung another portrait of the stiff, plain little girl, who seemed to stare at her more curiously than ever.",
+        "ko": "벽에는 자수가 놓인 태피스트리가 걸려 있었고, 방 안은 인도에서 본 적이 있는 화려하게 상감 세공을 한 가구들로 가득 차 있었다. 납유리로 격자창을 낸 넓은 창문 너머로 황무지가 내다보였고, 벽난로 위에는 잔뜩 굳은 표정을 한 그 평범한 여자아이의 초상화가 또 하나 걸려 있어, 전보다 훨씬 더 호기심 어린 눈빛으로 메리를 빤히 내려다보는 듯했다."
+      }
+    ]
+  },
+  {
+    "original_id": 27,
+    "chunks": [
+      {
+        "tag": "P027-1",
+        "en": "After that, she opened door after door. She saw so many rooms that she began to tire, starting to believe there really were a hundred of them, even though she hadn't counted.",
+        "ko": "그 뒤로 메리는 문을 열고 또 열었다. 방이 너무 많이 보여서 슬슬 피로해지기 시작했고, 일일이 세어보지는 않았지만 정말로 방이 백 개는 되겠다는 생각이 들기 시작했다."
+      },
+      {
+        "tag": "P027-2",
+        "en": "In every room, there were old paintings or tapestries showing strange scenes. Almost all of them contained unique furniture and curious ornaments.",
+        "ko": "방마다 기이한 장면들이 묘사된 오래된 그림이나 태피스트리가 걸려 있었다. 거의 모든 방에는 독특한 가구와 기묘한 장식품들이 놓여 있었다."
+      }
+    ]
+  },
+  {
+    "original_id": 28,
+    "chunks": [
+      {
+        "tag": "P028-1",
+        "en": "One room, which looked like a lady’s sitting room, had walls draped in embroidered velvet. Inside a cabinet stood about a hundred little elephants carved from ivory. They were all different sizes; some carried riders or covered carriage seats on their backs.",
+        "ko": "부인의 거실처럼 보이는 한 방은 벽면이 벨벳 자수로 장식되어 있었다. 장식장 안에는 상아로 조각한 작은 코끼리 백여 마리가 서 있었다. 크기가 모두 제각각이었는데, 어떤 것은 등에 사람을 태우고 있었고 어떤 것은 포장마차 형태의 가마를 얹고 있었다."
+      },
+      {
+        "tag": "P028-2",
+        "en": "A few were quite large, while others were so tiny they looked like babies. Having seen carved ivory in India, Mary knew all about elephants.",
+        "ko": "꽤 커다란 녀석이 있는가 하면, 아기처럼 아주 앙증맞게 작은 녀석도 있었다. 인도에서 상아 조각을 본 적이 있던 메리는 코끼리에 대해 아주 잘 알고 있었다."
+      },
+      {
+        "tag": "P028-3",
+        "en": "She opened the cabinet door, stood on a footstool, and played with them for a long time. When she grew tired, she arranged them neatly and closed the cabinet door.",
+        "ko": "메리는 장식장 문을 열고 발판 위에 올라서서 한참 동안 코끼리들을 가지고 놀았다. 놀다 지치자 코끼리들을 다시 가지런히 정리해 두고 장식장 문을 닫았다."
+      }
+    ]
+  },
+  {
+    "original_id": 29,
+    "chunks": [
+      {
+        "tag": "P029-1",
+        "en": "In all her wanderings through the long corridors and empty rooms, she had seen nothing alive—until she entered this room. Just after she closed the cabinet door, she heard a tiny rustling sound. It made her jump.",
+        "ko": "이 기나긴 복도와 텅 빈 방들을 헤매는 동안 생명체라고는 단 하나도 보지 못했는데, 이 방에 들어서면서 비로소 살아 있는 것을 마주치게 되었다. 메리가 장식장 문을 닫은 직후, 아주 미세하게 바스락거리는 소리가 들려왔다. 메리는 깜짝 놀라 훌쩍 뛰었다."
+      },
+      {
+        "tag": "P029-2",
+        "en": "She looked around at the sofa near the fireplace, where the sound seemed to come from. In the corner of the sofa lay a cushion. There was a hole in its velvet cover, and out of the hole peeped a tiny head with a pair of frightened eyes.",
+        "ko": "소리가 들려오는 것 같은 벽난로 옆 소파 쪽을 둘러보았다. 소파 모퉁이에 쿠션 하나가 놓여 있었다. 벨벳 커버에 구멍이 뚫려 있었는데, 그 구멍 사이로 겁에 질린 눈을 한 조그만 머리가 쏙 비어져 나왔다."
+      }
+    ]
+  },
+  {
+    "original_id": 30,
+    "chunks": [
+      {
+        "tag": "P030-1",
+        "en": "Mary crept softly across the room to take a closer look. The bright eyes belonged to a little gray mouse. She had chewed a hole into the cushion and made a cozy nest inside.",
+        "ko": "메리는 더 자세히 보려고 방을 가로질러 살금살금 다가갔다. 그 반짝이는 눈의 주인은 회색 꼬마 생쥐였다. 생쥐는 쿠션을 갉아 구멍을 내고 그 안에 아늑한 보금자리를 만들어 둔 상태였다."
+      },
+      {
+        "tag": "P030-2",
+        "en": "Six baby mice were cuddled up asleep next to her. Even if there was no one else alive in those hundred rooms, these seven mice didn't look lonely at all.",
+        "ko": "그 곁에는 새끼 생쥐 여섯 마리가 옹기종기 모여 잠들어 있었다. 이 백 개의 방에 살아 있는 존재가 아무도 없다 해도, 이 일곱 마리의 생쥐들은 전혀 외로워 보이지 않았다."
+      }
+    ]
+  }
+]
+
+# Validation
+input_file = r'c:\git_repo\Book_apps\secret_garden\batches\batch_10.json'
+output_file = r'c:\git_repo\Book_apps\secret_garden\batches\batch_10_done.json'
+
+with open(input_file, 'r', encoding='utf-8') as f:
+    orig = json.load(f)
+
+assert len(orig) == len(batch_10_done), f"Mismatch count: {len(orig)} vs {len(batch_10_done)}"
+
+for o, b in zip(orig, batch_10_done):
+    assert o['id'] == b['original_id'], f"ID mismatch {o['id']} vs {b['original_id']}"
+    
+    # Check that concatenated chunks reconstruct the original content faithfully (ignoring space normalization if any)
+    en_joined = " ".join(c['en'] for c in b['chunks'])
+    ko_joined = " ".join(c['ko'] for c in b['chunks'])
+    
+    # Also verify each chunk has <= 3 sentences
+    for c in b['chunks']:
+        assert 'tag' in c and 'en' in c and 'ko' in c
+        print(f"Validated {c['tag']}: EN len {len(c['en'])}, KO len {len(c['ko'])}")
+
+with open(output_file, 'w', encoding='utf-8') as f:
+    json.dump(batch_10_done, f, ensure_ascii=False, indent=2)
+
+print("Successfully written to", output_file)

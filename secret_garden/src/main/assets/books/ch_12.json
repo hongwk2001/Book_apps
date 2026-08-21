@@ -1,0 +1,919 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 12: Might I Have a Bit of Earth?",
+    "ko": "제12장 흙을 조금만 가질 수 있을까요?",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002a",
+    "en": "Mary ran so fast that she was quite out of breath by the time she reached her room.",
+    "ko": "메리는 방에 다다랐을 때 숨이 턱에 닿을 정도로 허겁지겁 달렸다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002b",
+    "en": "Her hair was messy on her forehead and her cheeks were bright pink. Her dinner was waiting on the table, and Martha was standing nearby.",
+    "ko": "이마에는 머리카락이 헝클어져 있었고 두 볼은 발그레하게 상기되어 있었다. 탁자 위에는 저녁 식사가 차려져 있었고, 마사가 그 옆에 서 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003",
+    "en": "“You're a bit late,” she said. “Where have you been?”",
+    "ko": "“조금 늦으셨네유.” 마사가 말했다. “어디 다녀오셨어유?”",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004",
+    "en": "“I’ve seen Dickon!” Mary said. “I’ve seen Dickon!”",
+    "ko": "“나 디콘을 봤어!” 메리가 말했다. “디콘을 만났단 말이야!”",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P005",
+    "en": "“I knew he’d come,” Martha said excitedly. “How do you like him?”",
+    "ko": "“거봐유, 올 거라고 했잖아유.” 마사가 흥분해서 말했다. “디콘이 마음에 드셔유?”",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P006",
+    "en": "“I think—I think he’s beautiful!” Mary said in a determined voice.",
+    "ko": "“내 생각에는…… 내 생각에는 걔가 참 멋진 것 같아!” 메리가 단호한 목소리로 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P007",
+    "en": "Martha looked rather taken aback, but she looked pleased, too.",
+    "ko": "마사는 다소 당황한 듯 보였지만, 기분 좋은 기색도 감돌았다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P008",
+    "en": "“Well,” she said, “he’s the best boy that was ever born, but we never thought he was handsome. His nose turns up too much.”",
+    "ko": "“글쎄유,” 마사가 말했다. “세상에 둘도 없이 착한 애기는 하지만, 한 번도 잘생겼다고 생각한 적은 없거든유. 코가 너무 들창코잖아유.”",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P009",
+    "en": "“I like it to turn up,” said Mary.",
+    "ko": "“난 들창코가 좋아.” 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P010",
+    "en": "“And his eyes are so round,” Martha said, a bit doubtfully. “Though they are a nice color.”",
+    "ko": "“게다가 눈은 또 얼마나 동그란데유.” 마사가 약간 미심쩍어하며 말했다. “빛깔은 참 곱지만유.”",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P011",
+    "en": "“I like them round,” said Mary. “And they are exactly the color of the sky over the moor.”",
+    "ko": "“난 동그란 눈이 좋아.” 메리가 말했다. “그리고 눈동자 색깔이 황무지 위 하늘빛이랑 똑같아.”",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P012",
+    "en": "Martha beamed with satisfaction.",
+    "ko": "마사의 얼굴이 흐뭇함으로 환해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P013",
+    "en": "“Mother says his eyes became that color because he's always looking up at the birds and the clouds. But he has a big mouth, doesn’t he?”",
+    "ko": "“엄마 말씀이, 디콘이 늘 새랑 구름을 올려다봐서 눈동자가 그런 색깔이 된 거래유. 그렇지만 입은 엄청 크잖아유, 안 그래유?”",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P014",
+    "en": "“I love his big mouth,” Mary said obstinately. “I wish mine was just like it.”",
+    "ko": "“난 걔의 큰 입이 정말 마음에 들어.” 메리가 고집스럽게 말했다. “내 입도 걔 입이랑 똑같았으면 좋겠어.”",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P015",
+    "en": "Martha chuckled delightedly.",
+    "ko": "마사가 신이 나서 낄낄거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P016",
+    "en": "“It would look very funny on your tiny face,” she said. “But I knew you'd like him when you saw him. How did you like the seeds and the garden tools?”",
+    "ko": "“그 조그만 얼굴에 그렇게 큰 입이면 엄청 웃겨 보일 거구먼유.” 마사가 말했다. “그래도 만나면 마음에 들어 할 줄 알았어유. 씨앗이랑 정원 도구는 어떠셨어유?”",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P017",
+    "en": "“How did you know he brought them?” Mary asked.",
+    "ko": "“디콘이 그걸 가져온 걸 어떻게 알았어?” 메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P018",
+    "en": "“Oh, I never doubted he'd bring them. He'd be sure to bring them if they were to be found in Yorkshire. He’s such a trustworthy boy.”",
+    "ko": "“에이, 틀림없이 가져올 줄 알았지유. 요크셔 어디에서든 구할 수 있는 거라면 걔는 무슨 일이 있어도 구해 왔을 거예유. 워낙 듬직한 아이니까유.”",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P019",
+    "en": "Mary was afraid that Martha might begin to ask difficult questions, but she didn’t. Martha was very interested in the seeds and gardening tools, and there was only one moment when Mary was frightened. This was when Martha asked where the flowers were going to be planted.",
+    "ko": "메리는 마사가 곤란한 질문을 던지기 시작하면 어쩌나 두려웠지만, 다행히 마사는 그러지 않았다. 마사는 씨앗과 정원 도구에 큰 관심을 보였고, 메리가 가슴을 졸인 순간은 딱 한 번뿐이었다. 마사가 꽃을 어디에 심을 것인지 물었을 때였다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P020",
+    "en": "“Who did you ask about it?” she asked.",
+    "ko": "“누구한테 여쭤보셨어유?” 마사가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P021",
+    "en": "“I haven’t asked anyone yet,” Mary said, hesitating.",
+    "ko": "“아직 아무에게도 안 여쭤봤어.” 메리가 머뭇거리며 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P022",
+    "en": "“Well, I wouldn’t ask the head gardener. He’s too grand, Mr. Roach is.”",
+    "ko": "“글쎄유, 정원사 총감독님께는 안 여쭤보는 게 나을 것 같아유. 로치 씨는 너무 거만한 분이거든유.”",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P023",
+    "en": "“I’ve never seen him,” said Mary. “I’ve only seen the assistant gardeners and Ben Weatherstaff.”",
+    "ko": "“그분은 본 적도 없어.” 메리가 말했다. “보조 정원사들이랑 벤 웨더스태프 할아버지만 봤는걸.”",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P024-1",
+    "en": "“If I were you, I’d ask Ben Weatherstaff,” Martha advised. “He’s not half as bad as he looks, even though he's so grumpy.",
+    "ko": "“저라면 벤 웨더스태프 할아버지한테 여쭤볼 것 같아유.” 마사가 조언했다. “늘 심술궂게 굴어도 겉보기만큼 나쁜 사람은 아니거든유.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P024-2",
+    "en": "Mr. Craven lets him do what he likes because he was here when Mrs. Craven was alive, and he used to make her laugh.",
+    "ko": "크레이븐 님께서도 벤 할아버지가 하고 싶은 대로 하게 내버려 두신대유. 돌아가신 크레이븐 부인께서 살아 계실 때부터 여기 계셨던 데다가 부인을 잘 웃기기도 하셨거든유.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P024-3",
+    "en": "She liked him. Perhaps he’d find you a corner somewhere out of the way.”",
+    "ko": "부인께서 벤 할아버지를 참 아끼셨대유. 어쩌면 아무도 쓰지 않는 한적한 모퉁이 땅을 찾아주실지도 몰라유.”",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P025",
+    "en": "“If it was out of the way and no one wanted it, no one could mind my having it, could they?” Mary said anxiously.",
+    "ko": "“아무도 원하지 않는 한적한 곳이라면 내가 그걸 가져도 아무도 신경 쓰지 않겠지, 그렇지?” 메리가 걱정스럽게 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P026",
+    "en": "“There wouldn't be any reason not to,” Martha answered. “You wouldn’t do any harm.”",
+    "ko": "“마다할 이유가 없지유.” 마사가 대답했다. “해를 끼칠 것도 없으니까유.”",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P027",
+    "en": "Mary ate her dinner as quickly as she could. When she got up from the table, she was about to run to her room to put on her hat again, but Martha stopped her.",
+    "ko": "메리는 서둘러 저녁 식사를 마쳤다. 식탁에서 일어나 다시 모자를 쓰려고 방으로 달려가려는데, 마사가 메리를 불러 세웠다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P028-1",
+    "en": "“I’ve got something to tell you,” she said. “I thought I’d let you eat your dinner first. Mr. Craven came back this morning, and I think he wants to see you.”",
+    "ko": "“말씀드릴 게 있어유.” 마사가 말했다. “일단 식사부터 하시게 놔두는 게 좋을 것 같아서유. 오늘 아침에 크레이븐 님께서 돌아오셨는데, 아가씨를 보고 싶어 하시는 것 같아유.”",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P029",
+    "en": "Mary turned quite pale.",
+    "ko": "메리의 얼굴이 하얗게 질렸다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P030-1",
+    "en": "“Oh!” she said. “Why?",
+    "ko": "“어머!” 메리가 말했다. “왜?",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P030-2",
+    "en": "He didn’t want to see me when I first arrived. I heard Pitcher say he didn’t.”",
+    "ko": "내가 처음 왔을 때는 나를 보고 싶어 하지 않으셨잖아. 피처 아저씨가 그렇게 말하는 걸 들었단 말이야.”",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P031-1",
+    "en": "“Well,” Martha explained, “Mrs. Medlock says it’s because of my mother. She was walking to Thwaite village and met him. She’d never spoken to him before, but Mrs. Craven had been to our cottage two or three times.",
+    "ko": "“그게 말이지유,” 마사가 설명했다. “메들록 부인 말씀이 저희 엄마 덕분이래유. 엄마가 스웨이트 마을로 가시던 길에 크레이븐 님을 마주치셨대유. 전에는 한 번도 대화를 나눠보신 적이 없었지만, 돌아가신 크레이븐 부인께서 저희 오두막집에 두세 번 들르신 적이 있었거든유.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P031-2",
+    "en": "He had forgotten, but mother hadn’t, and she was brave enough to stop him. I don’t know what she said to him about you, but she said something that made him decide to see you before he goes away again tomorrow.”",
+    "ko": "주인님은 잊으셨을지 몰라도 엄마는 잊지 않고 계셨던 터라, 용기를 내어 가시던 길을 멈춰 세우신 거지유. 주인님께 아가씨에 대해 무슨 말씀을 드렸는지는 모르겠지만, 무언가 말씀을 하셨고, 그 덕에 주인님께서 내일 다시 떠나시기 전에 아가씨를 보기로 마음먹으신 거래유.”",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P032",
+    "en": "“Oh!” Mary cried. “Is he going away tomorrow? I am so glad!”",
+    "ko": "“아!” 메리가 외쳤다. “내일 다시 떠나신대? 정말 다행이다!”",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P033-1",
+    "en": "“He’s going away for a long time. He might not come back until autumn or winter.",
+    "ko": "“오랫동안 멀리 떠나 계실 거래유. 가을이나 겨울이 되어야 돌아오실지도 몰라유.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P033-2",
+    "en": "He’s going to travel to foreign places. He’s always doing that.”",
+    "ko": "먼 외국으로 여행을 가신다는데, 항상 그러시거든유.”",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P034",
+    "en": "“Oh! I’m so glad—so glad!” Mary said thankfully.",
+    "ko": "“아! 정말 잘됐다, 정말 다행이야!” 메리가 고맙다는 듯 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P035",
+    "en": "If he did not come back until winter, or even autumn, there would be time to watch the secret garden come alive. Even if he found out about it then and took it away from her, she would have had that much at least.",
+    "ko": "가을이나 겨울이 될 때까지 돌아오지 않으신다면, 비밀의 화원이 다시 살아나는 모습을 지켜볼 시간이 충분할 것이다. 설령 그때 가서 들통이 나고 화원을 빼앗긴다 해도, 적어도 그만큼의 시간은 온전히 메리의 몫이 될 테니까.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P036",
+    "en": "“When do you think he will want to see—”",
+    "ko": "“언제 나를 보고 싶어 하실 것 같아—”",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P037-1",
+    "en": "She did not finish the sentence because the door opened and Mrs. Medlock walked in. She was wearing her best black dress and cap, and her collar was fastened with a large brooch featuring a man’s face.",
+    "ko": "메리는 말을 채 맺지 못했다. 문이 열리며 메들록 부인이 들어왔기 때문이다. 부인은 가장 아끼는 검은색 드레스와 모자를 쓰고 있었고, 깃에는 사내의 얼굴이 그려진 커다란 브로치가 채워져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P037-2",
+    "en": "It was a colored photograph of Mr. Medlock, who had died years ago, and she always wore it when she was dressed up. She looked nervous and excited.",
+    "ko": "그것은 수년 전에 세상을 떠난 남편 메들록 씨의 채색 사진이었는데, 부인은 잔뜩 멋을 낼 때마다 꼭 그 브로치를 달았다. 부인은 초조하면서도 상기된 표정이었다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P038-1",
+    "en": "“Your hair is messy,” she said quickly. “Go and brush it.",
+    "ko": "“머리가 엉망이구나.” 부인이 쏘아붙이듯 빠르게 말했다. “가서 머리 좀 빗어라.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P038-2",
+    "en": "Martha, help her slip on her best dress. Mr. Craven sent me to bring her to his study.”",
+    "ko": "마사, 아가씨가 가장 좋은 옷으로 갈아입을 수 있게 도와라. 크레이븐 님께서 서재로 모셔오라고 나를 보내셨단다.”",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P039-1",
+    "en": "All the color left Mary’s cheeks. Her heart began to thump, and she felt herself changing back into a stiff, plain, silent child. She did not even answer Mrs. Medlock, but turned and walked into her bedroom, followed by Martha.",
+    "ko": "메리의 볼에서 핏기가 싹 가셨다. 심장이 쿵쾅거리기 시작하더니, 자신이 다시 예전처럼 뚱하고 못생기고 말수 없는 아이로 돌아가는 것이 느껴졌다. 메리는 메들록 부인에게 대꾸조차 하지 않고 몸을 돌려 제 침실로 걸어 들어갔고, 마사도 그 뒤를 따랐다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P039-2",
+    "en": "She said nothing while her dress was changed and her hair was brushed. Once she was tidy, she followed Mrs. Medlock down the corridors in silence.",
+    "ko": "옷을 갈아입고 머리를 빗는 동안 메리는 한마디도 하지 않았다. 단장이 끝나자, 메리는 묵묵히 메들록 부인의 뒤를 따라 복도를 걸었다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P039-3",
+    "en": "What was there for her to say? She had to go and see Mr. Craven, and he would not like her, and she would not like him. She knew what he would think of her.",
+    "ko": "무슨 할 말이 있겠는가? 크레이븐 씨를 만나러 가야만 했고, 그는 자기를 좋아하지 않을 것이며, 자기 역시 그를 좋아하지 않을 터였다. 그가 자기를 어떻게 생각할지 메리는 빤히 알고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P040-1",
+    "en": "She was taken to a part of the house she had not visited before. At last, Mrs. Medlock knocked at a door, and when someone said, “Come in,” they entered the room together. A man was sitting in an armchair before the fire, and Mrs. Medlock spoke to him.",
+    "ko": "메리는 전에는 가본 적 없는 저택의 다른 구역으로 향했다. 마침내 메들록 부인이 어느 문을 두드렸고, 안에서 “들어오시오.” 하는 목소리가 들리자 두 사람은 함께 방으로 들어섰다. 벽난로 앞 안락의자에 한 남자가 앉아 있었고, 메들록 부인이 그에게 말을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P041",
+    "en": "“This is Miss Mary, sir,” she said.",
+    "ko": "“주인님, 메리 아가씨입니다.” 부인이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P042",
+    "en": "“You can leave her here. I will ring for you when I want you to take her away,” Mr. Craven said.",
+    "ko": "“여기 두고 가도 좋소. 데려가야 할 때가 되면 종을 울려 부르겠소.” 크레이븐 씨가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P043",
+    "en": "After she left and closed the door, Mary could only stand waiting, a plain little thing, twisting her thin hands together. She could see that the man in the chair was not so much a hunchback as a man with high, rather crooked shoulders, and his black hair was streaked with white. He turned his head over his high shoulders and spoke to her.",
+    "ko": "메들록 부인이 나가고 문이 닫히자, 보잘것없는 꼬마 메리는 마른 손가락을 꼼지락거리며 가만히 서서 기다릴 수밖에 없었다. 의자에 앉아 있는 남자는 꼽추라기보다는 어깨가 솟아오르고 다소 굽어 있는 편이었고, 검은 머리칼에는 흰머리가 희끗희끗 섞여 있었다. 그는 솟아오른 어깨 너머로 고개를 돌려 메리에게 말을 걸었다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P044",
+    "en": "“Come here!” he said.",
+    "ko": "“이리 가까이 오너라!” 그가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P045",
+    "en": "Mary walked over to him.",
+    "ko": "메리는 그를 향해 걸어갔다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P046",
+    "en": "He was not ugly. His face would have been handsome if it had not looked so miserable. He looked as if the sight of her worried and troubled him, and as if he did not know what in the world to do with her.",
+    "ko": "그는 추남이 아니었다. 얼굴은 어둡고 그늘지지만 않았다면 꽤 잘생겼을 상이었다. 그는 메리를 보는 것 자체가 괴롭고 성가신 듯 보였고, 대체 이 아이를 어떻게 처리해야 할지 막막해하는 기색이었다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P047",
+    "en": "“Are you well?” he asked.",
+    "ko": "“몸은 건강하냐?” 그가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P048",
+    "en": "“Yes,” Mary answered.",
+    "ko": "“네.” 메리가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P049",
+    "en": "“Do they take good care of you?”",
+    "ko": "“사람들이 너를 잘 보살펴 주더냐?”",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P050",
+    "en": "“Yes.”",
+    "ko": "“네.”",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P051",
+    "en": "He rubbed his forehead fretfully as he looked her over.",
+    "ko": "그는 메리를 훑어보며 초조하게 이마를 문질렀다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P052",
+    "en": "“You are very thin,” he said.",
+    "ko": "“아주 말랐구나.” 그가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P053",
+    "en": "“I am getting fatter,” Mary answered in what she knew was her stiffest tone.",
+    "ko": "“요즘 살이 찌고 있어요.” 메리는 스스로도 가장 무뚝뚝하다고 생각하는 말투로 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P054",
+    "en": "What an unhappy face he had! His black eyes seemed as if they scarcely saw her, as if they were looking at something else, and he could hardly keep his attention on her.",
+    "ko": "그의 얼굴은 얼마나 불행해 보였던가! 그의 검은 눈동자는 메리를 거의 보지 못하고 딴 곳을 응시하는 듯했고, 주의를 온전히 기울이지도 못하는 모습이었다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P055",
+    "en": "“I forgot about you,” he said. “How could I remember? I intended to send you a governess or a nurse, or someone like that, but I forgot.”",
+    "ko": "“내 너를 잊고 있었구나.” 그가 말했다. “기억인들 할 수 있었겠느냐? 가정교사나 보모 같은 사람을 딸려 보낼 생각이었는데 깜빡 잊었어.”",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P056",
+    "en": "“Please,” Mary began. “Please—” and then the lump in her throat choked her.",
+    "ko": "“제발요,” 메리가 입을 열었다. “제발……” 그러다 목구멍이 꽉 막혀 목소리가 나오지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P057",
+    "en": "“What do you want to say?” he asked.",
+    "ko": "“무슨 말을 하고 싶은 게냐?” 그가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P058",
+    "en": "“I am—I am too big for a nurse,” Mary said. “And please—please don’t make me have a governess yet.”",
+    "ko": "“저는…… 저는 보모가 필요할 만큼 어리지 않아요.” 메리가 말했다. “그리고 제발…… 제발 아직은 가정교사를 두지 말아 주세요.”",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P059",
+    "en": "He rubbed his forehead again and stared at her.",
+    "ko": "그는 다시 이마를 문지르며 메리를 뚫어지게 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P060",
+    "en": "“That was what the Sowerby woman said,” he muttered absent-mindedly.",
+    "ko": "“소어비 부인인가 하는 여자도 똑같은 말을 하더군.” 그가 건성으로 중얼거렸다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P061",
+    "en": "Then Mary gathered a bit of courage.",
+    "ko": "그 말에 메리는 약간 용기를 냈다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P062",
+    "en": "“Is she—is she Martha’s mother?” she stammered.",
+    "ko": "“그분이…… 그분이 마사의 어머니인가요?” 메리가 더듬거리며 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P063",
+    "en": "“Yes, I think so,” he replied.",
+    "ko": "“그래, 그런 것 같구나.” 그가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P064",
+    "en": "“She knows about children,” Mary said. “She has twelve. She knows.”",
+    "ko": "“그분은 아이들에 대해 잘 아세요.” 메리가 말했다. “자식이 열둘이나 되거든요. 아주 잘 아신다고요.”",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P065",
+    "en": "He seemed to rouse himself.",
+    "ko": "그가 생각에서 깨어난 듯 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P066",
+    "en": "“What do you want to do?”",
+    "ko": "“그럼 너는 무엇을 하고 싶으냐?”",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P067",
+    "en": "“I want to play outdoors,” Mary answered, hoping her voice would not tremble. “I never liked playing outside in India. But it makes me hungry here, and I am getting fatter.”",
+    "ko": "“밖에서 놀고 싶어요.” 메리는 목소리가 떨리지 않기를 바라며 대답했다. “인도에 있을 때는 밖에서 노는 걸 전혀 좋아하지 않았어요. 하지만 여기서는 밖에서 놀면 배가 고파지고, 살도 찌고 있어요.”",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P068",
+    "en": "He watched her.",
+    "ko": "그는 메리를 가만히 지켜보았다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P069-1",
+    "en": "“Mrs. Sowerby said it would do you good. Perhaps it will,” he said. “She thought you should get stronger before you have a governess.”",
+    "ko": "“소어비 부인도 그게 네게 득이 될 거라고 하더구나. 어쩌면 그럴지도 모르지.” 그가 말했다. “가정교사를 두기 전에 먼저 몸을 튼튼히 키워야 한다고 하더군.”",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P070",
+    "en": "“It makes me feel strong when I play and the wind blows across the moor,” Mary said.",
+    "ko": "“황무지에서 불어오는 바람을 맞으며 뛰어놀면 힘이 솟는 것 같아요.” 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P071",
+    "en": "“Where do you play?” he asked next.",
+    "ko": "“주로 어디서 노느냐?” 그가 이어서 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P072-1",
+    "en": "“Everywhere,” Mary gasped. “Martha’s mother sent me a skipping rope.",
+    "ko": "“사방이요.” 메리가 다급하게 대답했다. “마사의 어머니가 줄넘기를 선물해 주셨거든요.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P072-2",
+    "en": "I skip and run, and I look around to see if things are beginning to sprout out of the earth. I don’t do any harm.”",
+    "ko": "줄넘기를 하고 뛰어다니면서, 땅에서 싹이 트기 시작하는지 살펴보곤 해요. 해를 끼치는 일은 아무것도 안 해요.”",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P073",
+    "en": "“Don’t look so frightened,” he said in a worried voice. “A child like you couldn't do any harm! You may do whatever you like.”",
+    "ko": "“그렇게 겁먹은 얼굴을 하지 말거라.” 그가 걱정스러운 목소리로 말했다. “너 같은 꼬마가 무슨 해를 끼치겠느냐! 하고 싶은 것은 무엇이든 해도 좋다.”",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P074",
+    "en": "Mary put her hand to her throat because she was afraid he might see the lump of excitement she felt rising there. She took a step closer to him.",
+    "ko": "메리는 가슴속에서 솟구쳐 오르는 벅찬 감정을 들키지 않으려고 목에 손을 얹었다. 그리고 그에게 한 걸음 더 다가갔다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P075",
+    "en": "“May I?” she asked tremulously.",
+    "ko": "“정말 그래도 돼요?” 메리가 떨리는 목소리로 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P076",
+    "en": "Her anxious little face seemed to worry him more than ever.",
+    "ko": "메리의 초조해 보이는 조그만 얼굴을 보니 그의 걱정은 더 깊어지는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P077-1",
+    "en": "“Don’t look so frightened,” he exclaimed. “Of course you may. I am your guardian, though I am a poor one for any child.",
+    "ko": "“그렇게 무서워하지 말라니까.” 그가 타이르듯 말했다. “당연히 되고말고. 내가 네 후견인이긴 하지만, 어느 아이에게든 참으로 무심한 후견인이구나.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P077-2",
+    "en": "I cannot give you time or attention. I am too ill, miserable, and distracted, but I want you to be happy and comfortable. I don’t know anything about children, but Mrs. Medlock will make sure you have everything you need.",
+    "ko": "내 몸이 너무 아프고, 비참하고, 경황이 없어서 네게 시간이나 관심을 내어줄 수가 없어. 하지만 네가 행복하고 편안하게 지내기를 바란다. 난 아이들에 대해선 아무것도 모르지만, 필요한 것은 메들록 부인이 다 챙겨줄 게다.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P077-3",
+    "en": "I sent for you today because Mrs. Sowerby said I should see you. Her daughter had talked about you, and she thought you needed fresh air, freedom, and running around.”",
+    "ko": "오늘 너를 부른 것은 소어비 부인이 너를 한 번 만나봐야 한다고 권했기 때문이다. 딸에게 네 이야기를 들었다면서, 네게는 맑은 공기와 자유, 그리고 마음껏 뛰어놀 환경이 필요하다고 하더군.”",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P078",
+    "en": "“She knows all about children,” Mary said again, in spite of herself.",
+    "ko": "“그분은 아이들에 대해 모든 걸 아세요.” 메리는 저도 모르게 다시금 강조했다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P079-1",
+    "en": "“She ought to,” Mr. Craven said. “I thought she was rather bold to stop me on the moor, but she said my wife had been kind to her.” It seemed hard for him to say his late wife’s name.",
+    "ko": "“아는 게 당연하겠지.” 크레이븐 씨가 말했다. “황무지에서 내 길을 가로막다니 참으로 대담한 여자라고 생각했다만, 세상을 떠난 아내가 옛적에 자신에게 친절을 베풀어 주었다고 하더구나.” 그가 죽은 아내의 이름을 입에 올리는 일은 몹시 고통스러워 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P079-2",
+    "en": "“She is a respectable woman. Now that I have seen you, I think she made a lot of sense. Play outdoors as much as you like.",
+    "ko": "“참 훌륭한 여자야. 이제 와서 너를 보니, 그 여자의 말이 지극히 옳았다는 생각이 드는구나. 밖에서 마음껏 뛰어놀아라.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P079-3",
+    "en": "It’s a large estate, and you may go wherever you like and amuse yourself however you like. Is there anything you want?” he asked, as if a sudden thought had struck him. “Do you want toys, books, or dolls?”",
+    "ko": "워낙 넓은 장원이니 어디든 가고 싶은 곳에 가고, 네 흥미를 끄는 일을 찾아보려무나. 혹시 필요한 것은 없느냐?” 그가 문득 생각난 듯 물었다. “장난감이나 책, 인형 같은 것이 필요하냐?”",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P080",
+    "en": "“Might I,” Mary faltered, “might I have a bit of earth?”",
+    "ko": "“제가요,” 메리가 머뭇거리며 대답했다. “흙을 조금만 가질 수 있을까요?”",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P081",
+    "en": "In her eagerness, she did not realize how strange those words sounded or that they were not the ones she had meant to say. Mr. Craven looked quite startled.",
+    "ko": "간절한 마음에 메리는 자신이 뱉은 말이 얼마나 엉뚱하게 들리는지, 원래 하려던 말이 아니었다는 사실조차 깨닫지 못했다. 크레이븐 씨는 깜짝 놀란 표정이었다.",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P082",
+    "en": "“Earth!” he repeated. “What do you mean?”",
+    "ko": "“흙이라고!” 그가 되물었다. “무슨 뜻이냐?”",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P083",
+    "en": "“To plant seeds in—to make things grow—to see them come alive,” Mary faltered.",
+    "ko": "“씨앗을 심고…… 자라나게 하려고요. 살아 움직이는 모습을 보려고요.” 메리가 머뭇거리며 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P084",
+    "en": "He gazed at her for a moment and then passed his hand quickly over his eyes.",
+    "ko": "그는 메리를 잠시 바라보더니, 재빨리 손으로 눈가를 쓸어내렸다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P085",
+    "en": "“Do you care about gardens that much?” he asked slowly.",
+    "ko": "“네가 정원을 그만큼이나 좋아하는구나?” 그가 천천히 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P086-1",
+    "en": "“I didn’t know about them in India,” Mary said. “I was always sick and tired, and it was too hot.",
+    "ko": "“인도에 있을 때는 잘 몰랐어요.” 메리가 말했다. “늘 아프고 지쳐 있었고, 날씨도 너무 더웠거든요.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P086-2",
+    "en": "Sometimes I made little garden beds in the sand and stuck flowers in them. But here, it is different.”",
+    "ko": "가끔 모래밭에 작은 꽃밭을 만들고 꺾은 꽃들을 꽂아두기는 했어요. 하지만 여기선 달라요.”",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P087",
+    "en": "Mr. Craven got up and began to walk slowly across the room.",
+    "ko": "크레이븐 씨는 자리에서 일어나 방 안을 천천히 거닐기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P088",
+    "en": "“A bit of earth,” he said to himself, and Mary thought that she must have reminded him of something. When he stopped and spoke to her, his dark eyes looked almost soft and kind.",
+    "ko": "“흙을 조금이라,” 그는 나직이 읊조렸다. 메리는 자신이 그의 어떤 기억을 떠올리게 한 것이 분명하다고 생각했다. 그가 걸음을 멈추고 말을 건넸을 때, 그의 어두운 눈빛은 거의 부드럽고 친절하게 가라앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P089-1",
+    "en": "“You can have as much earth as you want,” he said. “You remind me of someone else who loved the earth and things that grow.",
+    "ko": "“원하는 만큼 얼마든지 흙을 가져도 좋다.” 그가 말했다. “흙과 자라나는 만물을 무척이나 사랑했던 다른 누군가가 생각나는구나.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P089-2",
+    "en": "When you find a bit of earth that you want,” he added with a slight smile, “take it, child, and make it come alive.”",
+    "ko": "네가 원하는 땅을 찾거든,” 그가 옅은 미소를 띠며 덧붙였다. “가져가거라, 아가야. 그리고 그 땅을 다시 살아나게 해 보려무나.”",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P090",
+    "en": "“May I take it from anywhere—if no one else wants it?”",
+    "ko": "“아무도 원하지 않는 곳이라면 어디서든 가져도 되나요?”",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P091-1",
+    "en": "“Anywhere,” he answered. “There, you must go now. I am tired.”",
+    "ko": "“어디든 괜찮다.” 그가 대답했다. “자, 이제 가보려무나. 내가 피곤하구나.”",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P091-2",
+    "en": "He rang the bell to call Mrs. Medlock. “Goodbye. I shall be away all summer.”",
+    "ko": "그가 메들록 부인을 부르려고 종을 울렸다. “잘 가거라. 나는 여름 내내 집을 비울 게다.”",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P092",
+    "en": "Mrs. Medlock arrived so quickly that Mary thought she must have been waiting in the corridor.",
+    "ko": "메들록 부인이 어찌나 빨리 나타나는지, 메리는 부인이 내내 복도에서 대기하고 있었던 게 아닐까 생각했다.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P093-1",
+    "en": "“Mrs. Medlock,” Mr. Craven said to her, “now that I have seen the child, I understand what Mrs. Sowerby meant. She needs to become stronger before she begins her lessons.",
+    "ko": "“메들록 부인,” 크레이븐 씨가 부인에게 말했다. “이제 아이를 직접 만나 보니 소어비 부인이 무슨 뜻으로 말했는지 알겠소. 메리는 공부를 시작하기 전에 먼저 몸을 튼튼히 다질 필요가 있소.",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P093-2",
+    "en": "Give her simple, healthy food. Let her run wild in the garden. Don’t supervise her too closely.",
+    "ko": "소박하고 건강에 좋은 음식을 챙겨 주시오. 정원에서 마음껏 뛰어놀게 내버려 두고, 너무 사사건건 간섭하지 마시오.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P093-3",
+    "en": "She needs freedom, fresh air, and outdoor play. Mrs. Sowerby is to come and see her now and then, and Mary may sometimes visit their cottage.”",
+    "ko": "아이에게는 자유와 맑은 공기, 그리고 야외 활동이 필요하오. 소어비 부인이 이따금 찾아와 아이를 살피게 하고, 메리도 가끔 그 집 오두막에 놀러 갈 수 있도록 해주시오.”",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P094-1",
+    "en": "Mrs. Medlock looked pleased. She was relieved to hear that she did not have to supervise Mary too closely.",
+    "ko": "메들록 부인은 반가운 기색이었다. 메리를 사사건건 감시하지 않아도 된다는 말을 들으니 마음이 한결 가벼워졌다.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P094-2",
+    "en": "She had found the girl to be a tiresome responsibility and had indeed seen as little of her as she could. In addition, she was very fond of Martha’s mother.",
+    "ko": "부인은 그동안 메리를 돌보는 것을 귀찮고 성가신 일로 여겨 왔기에, 어떻게든 마주치는 시간을 줄이려 애써 왔다. 게다가 부인은 마사의 어머니를 무척 좋아하는 편이기도 했다.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P095-1",
+    "en": "“Thank you, sir,” she said. “Susan Sowerby and I went to school together, and she’s as sensible and good-hearted a woman as you could find anywhere. I never had any children myself, and she’s had twelve, and there were never healthier or better-behaved kids.",
+    "ko": "“감사합니다, 주인님.” 부인이 말했다. “수잔 소어비와 저는 학교를 같이 다녔는데, 참 사리 깊고 어디 내놓아도 빠지지 않을 만큼 고운 마음씨를 가진 여자지요. 저는 자식을 낳아본 적이 없지만, 그 친구는 열둘이나 키워냈고, 그 애들은 하나같이 건강하고 바르게 자랐습니다.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P095-2",
+    "en": "Miss Mary will come to no harm with them. I would always take Susan Sowerby’s advice about children myself. She’s what you might call healthy-minded, if you understand what I mean.”",
+    "ko": "메리 아가씨가 그이들과 어울려도 나쁜 물이 들 일은 절대 없을 겁니다. 저라도 아이들 문제라면 늘 수잔 소어비의 조언을 따랐을 것입니다. 뭐랄까, 속이 아주 꽉 차고 건강한 사람이라고나 할까요, 제 뜻이 무엇인지 아시겠지요.”",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P096",
+    "en": "“I understand,” Mr. Craven answered. “Take Miss Mary away now and send Pitcher to me.”",
+    "ko": "“잘 알겠소.” 크레이븐 씨가 대답했다. “이제 메리 아가씨를 데리고 나가 보고, 피처를 내 방으로 보내시오.”",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P097-1",
+    "en": "When Mrs. Medlock left her at the end of her own corridor, Mary flew back to her room. She found Martha waiting there. In fact, Martha had hurried back right after clearing the dinner table.",
+    "ko": "메들록 부인이 자신의 전용 복도 끝에서 배웅해 주자, 메리는 방을 향해 날아가듯 뛰어갔다. 방에는 마사가 기다리고 있었다. 사실 마사는 식탁을 치우자마자 헐레벌떡 방으로 돌아와 기다리던 참이었다.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P098-1",
+    "en": "“I can have my garden!” Mary cried. “I may have it wherever I like! I am not going to have a governess for a long time!",
+    "ko": "“내 정원을 가져도 된대!” 메리가 외쳤다. “내가 원하는 곳 어디에나 정원을 만들어도 좋대! 당분간 가정교사도 안 둘 거래!",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P098-2",
+    "en": "Your mother is coming to see me, and I can go to your cottage! He says a little girl like me couldn't do any harm, and I can do whatever I like—anywhere!”",
+    "ko": "너희 어머니도 나를 보러 오실 거고, 나도 너희 오두막에 가도 된대! 나처럼 조그만 여자애가 무슨 해를 끼치겠냐면서, 내가 원하는 곳이면 어디서든 마음대로 해도 좋다고 하셨어!”",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P099",
+    "en": "“Well!” Martha said delightedly. “That was nice of him, wasn’t it?”",
+    "ko": "“어머나!” 마사가 기뻐하며 말했다. “참 너그러운 분이시네유, 그츄?”",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "tag": "P100",
+    "en": "“Martha,” Mary said solemnly, “he is really a nice man, but his face is so sad and his forehead is all wrinkled up.”",
+    "ko": "“마사,” 메리가 진지하게 말했다. “그분은 정말로 좋은 분이야. 하지만 얼굴이 너무 슬퍼 보이고 이마에는 주름이 가득 잡혀 있어.”",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "tag": "P101-1",
+    "en": "She ran as quickly as she could to the garden. She had been away much longer than she expected, and she knew Dickon would have to set out early on his five-mile walk home.",
+    "ko": "메리는 헐레벌떡 정원으로 달려갔다. 예상했던 것보다 훨씬 더 오래 자리를 비운 탓에, 집까지 5마일이나 걸어가야 하는 디콘이 일찍 출발했을 터였다.",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "tag": "P101-2",
+    "en": "When she slipped through the door under the ivy, she saw he was not working where she had left him. The gardening tools were laid together under a tree.",
+    "ko": "담쟁이덩굴 밑 문을 통해 정원으로 슬며시 들어섰을 때, 디콘은 메리가 떠났던 자리에 보이지 않았다. 정원 도구들은 나무 아래 한데 모여 놓여 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "tag": "P101-3",
+    "en": "She ran to them, looking all around the place, but Dickon was nowhere to be seen. He had gone, and the secret garden was empty—except for the robin, who had just flown over the wall and sat on a rosebush, watching her.",
+    "ko": "메리는 사방을 둘러보며 도구들이 있는 곳으로 달려갔지만, 디콘의 모습은 어디에도 없었다. 디콘은 이미 떠났고 비밀의 화원은 텅 비어 있었다. 방금 담장을 날아와 장미 덤불에 앉아 메리를 지켜보고 있는 붉은가슴울새 한 마리만을 제외하고는.",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "tag": "P102",
+    "en": "“He’s gone,” she said sadly. “Oh, was he—was he only a forest fairy?”",
+    "ko": "“가버렸네.” 메리가 씁쓸하게 말했다. “아, 디콘은…… 디콘은 그냥 숲속 요정이었던 걸까?”",
+    "is_header": false
+  },
+  {
+    "id": 128,
+    "tag": "P103a-1",
+    "en": "Something white fastened to the rosebush caught her eye. It was a piece of paper—in fact, a piece of the letter she had printed for Martha to send to him.",
+    "ko": "장미 덤불에 하얀 것이 묶여 있는 모습이 눈에 들어왔다. 그것은 종이쪽지였다. 사실 메리가 디콘에게 보내달라고 마사에게 써주었던 바로 그 편지 한구석을 찢은 조각이었다.",
+    "is_header": false
+  },
+  {
+    "id": 129,
+    "tag": "P103a-2",
+    "en": "It was pinned to the bush with a long thorn, and Mary knew instantly that Dickon had left it there. There were some roughly printed letters on it and a simple drawing.",
+    "ko": "긴 가시로 덤불에 고정되어 있었는데, 메리는 그것이 디콘이 남겨둔 것임을 직감적으로 알았다. 종이에는 삐뚤삐뚤 큼직하게 쓴 글씨와 소박한 그림 하나가 그려져 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 130,
+    "tag": "P103a-3",
+    "en": "At first, she couldn't tell what it was. Then she saw it was meant to be a nest with a bird sitting on it. Underneath were the printed letters, which read:",
+    "ko": "처음에는 그것이 무엇인지 알 수 없었지만, 이내 새 한 마리가 둥지에 앉아 있는 모습을 나타낸 것임을 깨달았다. 그림 아래에는 인쇄체로 다음과 같이 적혀 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 131,
+    "tag": "P103b",
+    "en": "“I will come back.”",
+    "ko": "“돌아올게.”",
+    "is_header": false
+  }
+]

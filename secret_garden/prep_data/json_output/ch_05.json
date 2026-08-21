@@ -1,0 +1,569 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 5: The Cry in the Corridor",
+    "ko": "제5장: 복도에서 들린 울음소리",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002-1",
+    "en": "At first, every day that passed for Mary Lennox was exactly like the last. Every morning, she woke up in her tapestried room to find Martha kneeling by the hearth building her fire. Every morning, she ate her breakfast in the nursery, which had nothing entertaining in it.",
+    "ko": "처음에 메리 레녹스에게 지나가는 하루하루는 전날과 완전히 똑같았다. 매일 아침 그녀는 태피스트리가 걸린 방에서 눈을 떴고, 마사가 벽난로 앞에 무릎을 꿇고 불을 피우고 있는 모습을 보았다. 매일 아침 그녀는 아무런 즐길 거리도 없는 유아실에서 아침 식사를 했다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-2",
+    "en": "After breakfast, she gazed out of the window at the vast moor that seemed to spread out in all directions and climb up to the sky. After staring for a while, she realized that if she didn't go outside, she would have to stay indoors and do nothing—so she went out. She didn't know that this was the best thing she could have done.",
+    "ko": "아침을 먹고 나면 그녀는 창밖으로 사방으로 뻗어 나가 하늘까지 닿을 듯한 넓은 황무지를 바라보았다. 한참 동안 밖을 바라보다가, 그녀는 밖으로 나가지 않으면 실내에 머물며 아무것도 하지 않아야 한다는 것을 깨달았고, 그래서 밖으로 나갔다. 그녀는 이것이 자신이 할 수 있는 최선의 행동이었다는 것을 알지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-3",
+    "en": "She also didn't realize that when she began to walk quickly, or even run along the paths and down the avenue, she was stimulating her sluggish circulation and growing stronger by fighting the wind that swept down from the moor. She only ran to keep warm, and she hated the wind that rushed at her face, roaring and holding her back like an invisible giant.",
+    "ko": "또한 오솔길과 대로를 따라 빠르게 걷거나 달리기 시작했을 때, 황무지에서 불어오는 바람과 싸우며 정체되어 있던 혈액 순환이 촉진되고 몸이 더 튼튼해지고 있다는 사실도 깨닫지 못했다. 그녀는 그저 몸을 따뜻하게 하려고 달렸을 뿐이었고, 보이지 않는 거인처럼 으르렁거리며 자신을 가로막고 얼굴로 세차게 몰아치는 바람이 싫었다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P002-4",
+    "en": "Yet the deep breaths of crisp, fresh air blowing over the heather filled her lungs. It was wonderful for her thin body, bringing a flush of red to her cheeks and brightening her dull eyes without her even realizing it.",
+    "ko": "하지만 히더 꽃밭 위로 불어오는 맑고 신선한 공기를 깊이 들이마시자 그녀의 폐가 채워졌다. 그것은 그녀의 야윈 몸에 아주 좋았으며, 자신도 모르는 사이에 뺨에 붉은 생기를 돌게 하고 흐릿하던 눈을 반짝이게 해 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003",
+    "en": "But after spending a few days almost entirely outdoors, she woke up one morning knowing what it felt like to be hungry. When she sat down to breakfast, she didn't look at her porridge with disgust and push it away. Instead, she picked up her spoon and began to eat, continuing until her bowl was completely empty.",
+    "ko": "하지만 거의 하루 종일 야외에서 며칠을 보낸 후, 그녀는 어느 날 아침 배가 고프다는 것이 어떤 느낌인지 알며 잠에서 깼다. 아침 식탁에 앉았을 때, 그녀는 싫증 가득한 눈으로 오트밀 죽을 바라보며 밀쳐내지 않았다. 대신 숟가락을 들고 먹기 시작하더니, 그릇이 완전히 비워질 때까지 계속 먹었다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004",
+    "en": "\"You got on well enough with that this morning, didn't you?\" said Martha.",
+    "ko": "\"오늘 아침엔 제법 잘 드셨구먼유, 그쳐?\" 마사가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P005",
+    "en": "\"It tastes nice today,\" said Mary, feeling a little surprised herself.",
+    "ko": "\"오늘은 맛있어.\" 메리가 대답했다. 스스로도 조금 놀란 기색이었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P006-1",
+    "en": "\"It's the air of the moor that's giving you an appetite for your food,\" answered Martha. \"It's lucky for you that you've got food as well as an appetite.\"",
+    "ko": "\"황무지 바람을 맞아서 입맛이 도는 거구먼유.\" 마사가 대답했다. \"입맛이 도는데 먹을 음식까지 있으니 아가씨는 참 운이 좋으셔유.\"",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006-2",
+    "en": "\"There's been twelve of us in our cottage who had the appetite and nothing to put in our stomachs. You keep on playing outdoors every day, and you'll get some weight on your bones and you won't look so yellow.\"",
+    "ko": "\"저희 오두막집에는 입맛은 꿀떡 같은데 뱃속에 채워 넣을 게 없는 식구가 열둘이나 되거든유. 매일 밖에서 놀다 보면 뼈에 살도 좀 붙고 얼굴에 누런 기운도 가실 거예유.\"",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007",
+    "en": "\"I don't play,\" said Mary. \"I have nothing to play with.\"",
+    "ko": "\"난 놀지 않아.\" 메리가 말했다. \"가지고 놀 만한 게 없단 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P008-1",
+    "en": "\"Nothing to play with!\" exclaimed Martha.",
+    "ko": "\"가지고 놀 게 없다고유!\" 마사가 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P008-2",
+    "en": "\"Our children play with sticks and stones. They just run about, shout, and look at things.\"",
+    "ko": "\"우리 동생들은 나뭇가지랑 돌멩이를 갖고 놀아유. 그냥 뛰어댕기고, 소리 지르고, 구경하면서 노는 거쥬.\"",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P008-3",
+    "en": "Mary did not shout, but she did look at things. There was nothing else to do. She walked round and round the gardens and wandered along the paths in the park.",
+    "ko": "메리는 소리를 지르지는 않았지만, 구경은 했다. 달리 할 일이 없었기 때문이다. 그녀는 정원 주변을 돌고 또 돌며 공원의 오솔길을 거닐었다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P008-4",
+    "en": "Sometimes she looked for Ben Weatherstaff, but though she saw him at work several times, he was either too busy to look at her or too grumpy. Once, when she was walking toward him, he picked up his spade and turned away as if he did it on purpose.",
+    "ko": "때로는 벤 웨더스태프를 찾아보기도 했지만, 그가 일하는 모습을 여러 번 보았음에도 그는 메리를 쳐다보지도 못할 만큼 너무 바쁘거나 혹은 심술이 나 있었다. 한번은 메리가 그를 향해 걸어가고 있을 때, 그는 마치 일부러 그러는 것처럼 삽을 집어 들고 몸을 돌려 버렸다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P009-1",
+    "en": "There was one place she visited more often than any other. It was the long walk outside the walled gardens. There were bare flowerbeds on either side of the path, and ivy grew thickly against the walls.",
+    "ko": "그녀가 다른 어떤 곳보다 자주 찾는 곳이 한 군데 있었다. 담장으로 둘러싸인 정원 바깥쪽으로 길게 뻗은 산책로였다. 길 양옆에는 꽃이 없는 화단이 있었고, 담장에는 담쟁이덩굴이 무성하게 자라나 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009-2",
+    "en": "On one section of the wall, the creeping, dark green leaves were much bushier than anywhere else. It looked as though that part had been neglected for a very long time. The rest of the ivy had been clipped and kept neat, but at this lower end of the walk, it had not been trimmed at all.",
+    "ko": "담장의 한 구역에는 짙은 초록색 담쟁이 잎사귀가 다른 어느 곳보다 훨씬 더 더부룩하게 덤불을 이루고 있었다. 그 부분은 오랫동안 방치된 것처럼 보였다. 나머지 담쟁이덩굴은 보기 좋게 다듬어져 있었지만, 산책로 아래쪽 끝부분은 전혀 손질이 되어 있지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010",
+    "en": "A few days after she had talked to Ben Weatherstaff, Mary stopped to look at this area, wondering why it was left like that. She had just paused and was looking up at a long spray of ivy swinging in the wind when she saw a flash of scarlet and heard a cheerful chirp. There, perched on top of the wall, was Ben Weatherstaff's robin redbreast, tilting forward to look at her with his tiny head on one side.",
+    "ko": "벤 웨더스태프와 이야기를 나눈 지 며칠이 지난 후, 메리는 왜 그곳이 그렇게 방치되어 있는지 궁금해하며 그 구역 앞에 멈춰 섰다. 마침 걸음을 멈추고 바람에 흔들리는 긴 담쟁이덩굴 가지를 올려다보고 있을 때, 붉은 빛깔이 번쩍이는 것이 보였고 쾌활한 지저귐 소리가 들렸다. 그곳 담장 꼭대기에 벤 웨더스태프의 붉은가슴울새가 앉아 있었는데, 녀석은 작은 머리를 한쪽으로 까딱이며 몸을 앞으로 숙인 채 메리를 바라보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011-1",
+    "en": "\"Oh!\" she cried out.",
+    "ko": "\"어머!\" 메리가 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P011-2",
+    "en": "\"Is it you—is it really you?\"",
+    "ko": "\"너구나! 정말 너니?\"",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P011-3",
+    "en": "And it didn't seem strange to her at all that she spoke to him as if she were sure he could understand and answer.",
+    "ko": "그리고 새가 자신의 말을 당연히 알아듣고 대답해 줄 것이라 굳게 믿는 듯이 말을 건네면서도, 메리는 그것이 전혀 이상하게 느껴지지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P012-1",
+    "en": "He did answer. He twittered, chirped, and hopped along the wall as if he were telling her all kinds of stories.",
+    "ko": "새는 정말 대답을 해 주었다. 녀석은 온갖 이야기를 들려주기라도 하는 것처럼 담장을 따라 지저귀고 울어대며 깡충깡충 뛰어다녔다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P012-2",
+    "en": "It seemed to Mistress Mary as if she understood him, too, even though he wasn't speaking in words. It was as if he said:",
+    "ko": "말로 이야기하는 것은 아니었지만, 고집쟁이 메리 아가씨에게는 녀석의 말이 들리는 듯했다. 녀석은 마치 이렇게 말하는 것 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P013-1",
+    "en": "\"Good morning! Isn't the wind nice?\"",
+    "ko": "\"안녕! 바람이 참 좋지 않니?\"",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013-2",
+    "en": "\"Isn't the sun nice? Isn't everything wonderful?\"",
+    "ko": "\"햇살도 참 좋지? 모든 게 다 멋지지 않니?\"",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P013-3",
+    "en": "\"Let's both chirp, hop, and twitter. Come on! Come on!\"",
+    "ko": "\"우리 같이 지저귀고, 뛰어다니고, 노래하자. 이리 와! 어서 와!\"",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P014",
+    "en": "Mary began to laugh, and as he hopped and took short flights along the wall, she ran after him. Poor, thin, sallow, plain little Mary—she actually looked almost pretty for a moment.",
+    "ko": "메리는 웃음을 터뜨렸고, 새가 담장을 따라 깡충거리며 낮게 날아가자 그 뒤를 쫓아 달렸다. 가엽고, 야위고, 안색이 누렇고 못생겼던 꼬마 메리가 순간 참으로 예뻐 보일 정도였다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P015-1",
+    "en": "\"I like you! I like you!\" she cried out, pitter-pattering down the walk.",
+    "ko": "\"네가 좋아! 네가 참 좋아!\" 메리는 산책로를 다다다 달리며 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P015-2",
+    "en": "She chirped and tried to whistle, though she had no idea how to do it.",
+    "ko": "메리는 휘파람을 불 줄도 모르면서 새 소리를 흉내 내며 휘파람을 불어 보려고 애썼다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P015-3",
+    "en": "But the robin seemed completely satisfied and chirped and whistled back. Finally, he spread his wings, darted to the top of a tree, perched there, and sang loudly.",
+    "ko": "하지만 붉은가슴울새는 아주 만족스러운 듯 맞장구를 치듯 지저귀며 휘파람 소리를 냈다. 그러고는 마침내 날개를 펴고 나무 꼭대기로 날아가 앉더니 큰 소리로 노래를 불렀다.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P016",
+    "en": "That reminded Mary of the first time she had seen him. Back then, he had been swinging on a treetop while she stood in the orchard. Now, she was on the other side of the orchard, standing on the path outside the wall—much further down—and the same tree was growing just inside.",
+    "ko": "그 모습을 보니 메리는 녀석을 처음 보았을 때가 생각났다. 그때 녀석은 메리가 과수원에 서 있는 동안 나무 꼭대기에서 흔들거리고 있었다. 지금 메리는 과수원 반대편 담장 밖 산책로에, 그것도 훨씬 아래쪽에 서 있었고, 그 나무는 담장 안쪽 바로 그 자리에 서 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P017-1",
+    "en": "\"He's in the garden that no one can enter,\" she said to herself. \"The garden without a door.\"",
+    "ko": "\"아무도 들어갈 수 없는 정원 안에 있구나.\" 메리는 혼잣말을 했다. \"문이 없는 정원 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P017-2",
+    "en": "\"He lives in there. How I wish I could see what it looks like!\"",
+    "ko": "\"녀석은 저 안에서 사는구나. 그 안이 어떻게 생겼는지 볼 수만 있다면 얼마나 좋을까!\"",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P018-1",
+    "en": "She ran up the walk to the green door she had entered on her first morning. Then she ran down the path, through the other door, and into the orchard.",
+    "ko": "그녀는 첫날 아침에 들어갔던 초록색 문을 향해 산책로를 달려 올라갔다. 그러고는 길을 따라 달려 내려가, 다른 문을 지나 과수원으로 들어갔다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P018-2",
+    "en": "When she stopped to look up, she saw the tree on the other side of the wall. The robin was just finishing his song and beginning to preen his feathers with his beak.",
+    "ko": "걸음을 멈추고 고개를 들어 올려다보자, 담장 너머로 그 나무가 보였다. 붉은가슴울새는 막 노래를 끝마치고 부리로 깃털을 다듬기 시작하는 참이었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P019",
+    "en": "\"It is the garden,\" she said. \"I'm sure of it.\"",
+    "ko": "\"저기가 그 정원이구나.\" 메리가 말했다. \"틀림없어.\"",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P020-1",
+    "en": "She walked all around, looking closely at that side of the orchard wall, but she only found what she had found before: there was no door. Then she ran through the kitchen gardens again and out onto the path outside the long, ivy-covered wall.",
+    "ko": "그녀는 과수원 담장의 그쪽 면을 자세히 살펴보며 사방을 걸어 다녔지만, 전과 똑같이 문을 찾을 수 없었다. 그래서 다시 채소 정원을 가로질러 달려가 담쟁이덩굴로 뒤덮인 긴 담장 밖 산책로로 나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P020-2",
+    "en": "She walked to one end and searched, but there was no door. She walked to the other end and looked again, but still, there was no door.",
+    "ko": "한쪽 끝까지 걸어가며 샅샅이 찾아보았지만 문은 없었다. 다른 쪽 끝으로 걸어가 다시 살펴보았지만, 역시 문은 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P021-1",
+    "en": "\"It's very strange,\" she said.",
+    "ko": "\"정말 이상해.\" 메리가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P021-2",
+    "en": "\"Ben Weatherstaff said there was no door, and there really isn't one.\"",
+    "ko": "\"벤 웨더스태프 말이 맞았어. 문이 정말 없어.\"",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P021-3",
+    "en": "\"But there must have been one ten years ago, because Mr. Craven buried the key.\"",
+    "ko": "\"하지만 십 년 전에는 분명히 문이 있었을 거야. 크레이븐 이모부님이 열쇠를 묻어 버리셨으니까.\"",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P022-1",
+    "en": "This gave her so much to think about that she began to feel genuinely interested, realizing she was no longer sorry she had come to Misselthwaite Manor.",
+    "ko": "이 일은 메리에게 생각할 거리를 잔뜩 안겨 주었고, 그녀는 마음속 깊이 흥미를 느끼기 시작했다. 그리고 자신이 미셀스웨이트 저택에 오게 된 것을 더는 후회하지 않는다는 사실을 깨달았다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P022-2",
+    "en": "In India, she had always felt too hot and lethargic to care about anything. The truth was, the crisp wind from the moor was starting to blow the cobwebs out of her young mind and wake her up.",
+    "ko": "인도에 있을 때는 날이 너무 덥고 늘 나른해서 그 어떤 것에도 신경을 쓸 수가 없었다. 사실은 황무지에서 불어오는 매서운 바람이 이 어린아이의 머릿속에 낀 거미줄을 말끔히 걷어 내고 그녀를 깨우기 시작한 것이었다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P023-1",
+    "en": "She stayed outdoors nearly all day, and when she sat down to her supper that night, she felt hungry, sleepy, and comfortable. She didn't feel annoyed when Martha chatted away.",
+    "ko": "그녀는 거의 하루 종일 야외에서 보냈고, 그날 밤 저녁 식탁에 앉았을 때 배가 고프고 졸렸으며 마음이 편안했다. 그녀는 마사가 수다를 떨어도 짜증이 나지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P023-2",
+    "en": "In fact, she realized she rather liked listening to her, and she finally decided to ask her a question. She waited until she had finished her supper and was sitting on the hearth rug in front of the fire.",
+    "ko": "사실 마사의 이야기를 듣는 게 꽤 좋다는 생각이 들기까지 했고, 마침내 마사에게 질문 하나를 해 보기로 마음먹었다. 메리는 저녁 식사를 끝마치고 벽난로 앞 깔개 위에 앉을 때까지 기다렸다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P024",
+    "en": "\"Why did Mr. Craven hate the garden?\" she asked.",
+    "ko": "\"크레이븐 이모부님은 왜 그 정원을 싫어하셨어?\" 메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P025-1",
+    "en": "She had asked Martha to stay with her, and Martha hadn't minded at all. She was very young and used to a crowded cottage full of brothers and sisters.",
+    "ko": "메리는 마사에게 곁에 있어 달라고 부탁했고, 마사는 전혀 꺼려하지 않았다. 마사는 나이가 아주 어렸고, 동생들로 북적이는 오두막집 생활에 익숙해 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P025-2",
+    "en": "She found it lonely in the great servants' hall downstairs, where the footman and upper housemaids made fun of her Yorkshire accent, looked down on her as a simple country girl, and whispered among themselves. Martha loved to talk, and this strange child who had lived in India and been waited on by Indian servants was enough of a novelty to interest her.",
+    "ko": "그녀는 아래층의 넓은 하인 대기실이 무척 쓸쓸하다고 느끼던 참이었다. 그곳에서 남자 하인들과 고참 하녀들은 마사의 요크셔 사투리를 놀려 대고, 마사를 순진한 시골뜨기로 얕잡어 보며 저희끼리 수군거렸다. 수다 떠는 것을 무척 좋아하는 마사에게, 인도에 살며 인도인 하인들의 시중을 받았다는 이 기이한 아이는 흥미를 끌기에 충분히 새롭고 신기한 존재였다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P026",
+    "en": "She sat down on the hearth rug itself, without waiting to be asked.",
+    "ko": "마사는 앉으라는 권유도 기다리지 않고 벽난로 앞 깔개 위에 주저앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P027-1",
+    "en": "\"Are you still thinking about that garden?\" she said.",
+    "ko": "\"아직도 그 정원 생각을 하고 계셔유?\" 마사가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P027-2",
+    "en": "\"I knew you would be. That was just the way it was with me when I first heard about it.\"",
+    "ko": "\"그럴 줄 알았어유. 저도 처음에 그 정원 이야기를 들었을 때 딱 그랬거든유.\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P028",
+    "en": "\"Why did he hate it?\" Mary persisted.",
+    "ko": "\"왜 싫어하신 거야?\" 메리가 거듭 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P029",
+    "en": "Martha tucked her feet under her and made herself comfortable.",
+    "ko": "마사는 다리를 끌어당겨 편안하게 자리를 잡고 앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P030",
+    "en": "\"Listen to the wind wuthering round the house,\" she said. \"You could barely stand up on the moor if you were out on it tonight.\"",
+    "ko": "\"집 주변에서 바람이 우더링하는 소리 좀 들어보셔유.\" 마사가 말했다. \"오늘 밤 황무지에 나가면 아마 제대로 서 있지도 못할 거예유.\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P031",
+    "en": "Mary didn't know what \"wuthering\" meant until she listened, and then she understood. It described that hollow, shuddering roar that rushed round and round the house, as if an invisible giant were buffeting the building, beating at the walls and windows to try to break in. But she knew he couldn't get inside, and somehow that made her feel incredibly safe and warm in the room by the glowing coal fire.",
+    "ko": "메리는 귀를 기울이기 전까지는 '우더링'이 무슨 뜻인지 몰랐지만, 소리를 듣자 곧 이해할 수 있었다. 그것은 집 주위를 뱅뱅 돌며 휘몰아치는 음산하고 몸서리쳐지는 울부짖음으로, 마치 보이지 않는 거인이 건물 안으로 쳐들어오려고 벽과 창문을 두들기며 건물을 사정없이 내리치는 듯한 소리였다. 하지만 메리는 거인이 안으로 들어올 수 없다는 것을 알았고, 그 덕분인지 붉게 타오르는 석탄불이 있는 방 안이 믿을 수 없을 만큼 안전하고 따뜻하게 느껴졌다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P032",
+    "en": "\"But why did he hate it so much?\" she asked, after she had listened. She was determined to find out if Martha knew.",
+    "ko": "\"하지만 왜 그렇게까지 싫어하신 거야?\" 바람 소리를 듣고 난 후 메리가 물었다. 메리는 마사가 알고 있는지 반드시 알아내고야 말겠다고 결심했다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P033",
+    "en": "Then Martha shared what she knew.",
+    "ko": "그러자 마사는 자신이 아는 이야기를 들려주었다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P034-1",
+    "en": "\"Mind you,\" she said, \"Mrs. Medlock said it's not to be talked about.\"",
+    "ko": "\"주의하셔야 해요.\" 마사가 입을 열었다. \"메들록 부인님이 절대 입밖에 내지 말라고 하셨거든요.\"",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P034-2",
+    "en": "\"There are lots of things in this place that aren't to be discussed. Those are Mr. Craven's orders.\"",
+    "ko": "\"이 저택에는 함부로 말해선 안 되는 일이 아주 많아요. 그게 크레이븐 주인님의 명령이거든요.\"",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P034-3",
+    "en": "\"His troubles are none of the servants' business, he says. But if it weren't for that garden, he wouldn't be the way he is.\"",
+    "ko": "\"하인들이 주인님의 불행에 참견할 일이 아니라고 하셔요. 하지만 그 정원이 아니었다면 주인님이 저런 모습이 되지는 않으셨을 거예요.\"",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P034-4",
+    "en": "\"It was Mrs. Craven's garden, which she made when they were first married, and she absolutely loved it.\"",
+    "ko": "\"그 정원은 크레이븐 부인님이 결혼하셨을 때 직접 만드신 곳인데, 부인님이 아주 끔찍이 아끼셨대요.\"",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P034-5",
+    "en": "\"They used to tend the flowers themselves, and none of the gardeners were ever allowed inside. He and she would go in, lock the door, and stay there for hours and hours, reading and talking.\"",
+    "ko": "\"두 분이 손수 꽃을 가꾸셨고, 정원사들은 누구도 들여보내지 않았대요. 두 분만 들어가서 문을 잠그고는, 몇 시간이고 머물며 책도 읽고 이야기도 나누셨대요.\"",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P034-6",
+    "en": "\"She was just a young girl, and there was an old tree with a branch bent like a seat. She grew roses all over it, and she used to sit there.\"",
+    "ko": "\"부인님은 아주 젊은 분이셨는데, 거기에 나뭇가지가 의자처럼 굽은 늙은 나무가 한 그루 있었대요. 부인님이 나무 전체에 장미를 가꾸어 두고는 거기 앉아 있곤 하셨지요.\"",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P034-7",
+    "en": "\"But one day, while she was sitting on it, the branch broke. She fell to the ground and was hurt so badly that she died the next day.\"",
+    "ko": "\"그런데 어느 날 부인님이 나뭇가지에 앉아 계실 때 그 가지가 부러지고 만 거예요. 부인님은 바닥으로 떨어져 심하게 다치셨고, 결국 다음 날 돌아가셨어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P034-8",
+    "en": "\"The doctors thought he would lose his mind and die, too. That's why he hates it. No one has ever gone in since, and he won't let anyone talk about it.\"",
+    "ko": "\"의사들은 주인님도 정신이 나가 돌아가실 줄 알았대요. 그래서 주인님이 그 정원을 미워하시는 거예요. 그 뒤로는 아무도 들어간 적이 없고, 주인님은 누구도 그 이야길 꺼내지 못하게 하셔요.\"",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P035",
+    "en": "Mary didn't ask any more questions. She looked at the glowing fire and listened to the wind wuthering. It seemed to be wuthering louder than ever.",
+    "ko": "메리는 더는 묻지 않았다. 그녀는 타오르는 불꽃을 바라보며 거세게 울부짖는 바람 소리를 들었다. 바람은 그 어느 때보다 더 큰 소리로 우더링하는 듯했다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P036",
+    "en": "At that moment, a very good thing was happening to her. In fact, four good things had happened to her since she arrived at Misselthwaite Manor. She had felt as if she understood a robin and he understood her; she had run in the wind until her blood warmed up; she had felt a healthy hunger for the first time in her life; and she had discovered what it felt like to feel sorry for someone.",
+    "ko": "그 순간 메리에게 아주 좋은 변화가 일어나고 있었다. 사실 그녀가 미셀스웨이트 저택에 도착한 이후로 그녀에게는 네 가지 좋은 일이 일어났다. 붉은가슴울새의 말을 이해하고 녀석도 자신을 이해하는 것처럼 느낀 것, 피가 따뜻해질 때까지 바람 속을 달린 것, 평생 처음으로 건강한 허기를 느낀 것, 그리고 누군가를 안타깝게 여기는 마음이 어떤 것인지를 깨달은 것이었다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P037-1",
+    "en": "But as she was listening to the wind, she began to notice another sound. She couldn't tell what it was at first, because she could barely distinguish it from the wind itself.",
+    "ko": "그러나 바람 소리에 귀를 기울이고 있을 때, 그녀는 다른 소리를 알아차리기 시작했다. 처음에는 바람 소리와 거의 구분이 되지 않아서 그것이 무슨 소리인지 알 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P037-2",
+    "en": "It was a strange noise—it sounded almost as if a child were crying somewhere. Sometimes the wind sounded like a crying child, but soon Mary felt completely sure that this sound was inside the house, not outside.",
+    "ko": "기이한 소리였다. 마치 어딘가에서 어린아이가 울고 있는 것 같은 소리였다. 가끔은 바람 소리가 우는 아이 목소리처럼 들리기도 했지만, 곧 메리는 이 소리가 바깥이 아니라 집 안에서 나는 소리라고 확신했다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P037-3",
+    "en": "It was far away, but it was definitely indoors. She turned around and looked at Martha.",
+    "ko": "멀리서 들려오긴 했지만 분명히 실내에서 들리는 소리였다. 메리는 몸을 돌려 마사를 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P038",
+    "en": "\"Do you hear someone crying?\" she asked.",
+    "ko": "\"누가 우는 소리 들리지 않아?\" 메리가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P039",
+    "en": "Martha suddenly looked flustered.",
+    "ko": "마사가 갑자기 당황한 기색을 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P040-1",
+    "en": "\"No,\" she answered. \"It's the wind.\"",
+    "ko": "\"아니유.\" 마사가 대답했다. \"바람 소리에유.\"",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P040-2",
+    "en": "\"Sometimes it sounds as if someone is lost on the moor and wailing. It makes all kinds of sounds.\"",
+    "ko": "\"가끔 황무지에서 길을 잃은 사람이 울부짖는 것 같은 소리가 나거든유. 온갖 희한한 소리가 다 들려유.\"",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P041-1",
+    "en": "\"But listen,\" said Mary. \"It's in the house—down one of those long corridors.\"",
+    "ko": "\"하지만 잘 들어봐.\" 메리가 말했다. \"집 안에서 나는 소리야. 저 긴 복도 중 한 곳에서 말이지.\"",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P042",
+    "en": "At that very moment, a door must have been opened somewhere downstairs. A sudden draft swept along the passage, and the door to their room blew open with a crash. As they both jumped to their feet, the candle was blown out, and the sound of crying swept down the far corridor, louder and clearer than ever.",
+    "ko": "바로 그 순간, 아래층 어딘가에서 문이 열린 모양이었다. 갑작스러운 찬 바람이 통로를 타고 들이닥치더니, 그들의 방 문이 덜컥하며 요란하게 열렸다. 두 사람이 깜짝 놀라 벌떡 일어서는 순간 촛불이 꺼졌고, 울음소리가 저 멀리 복도를 따라 그 어느 때보다 크고 또렷하게 울려 퍼졌다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P043-1",
+    "en": "\"There!\" said Mary. \"I told you so!\"",
+    "ko": "\"거 봐!\" 메리가 말했다. \"내가 맞잖아!\"",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P043-2",
+    "en": "\"Someone is crying—and it isn't a grown-up.\"",
+    "ko": "\"누군가 울고 있어. 어른이 우는 게 아니야.\"",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P044",
+    "en": "Martha ran, shut the door, and turned the key. But before she did, they both heard the sound of a door banging shut in some distant passage. Then everything fell quiet, and even the wind stopped wuthering for a few moments.",
+    "ko": "마사는 달려가 문을 닫고 열쇠를 돌려 잠갔다. 하지만 문을 잠그기 직전, 두 사람은 저 멀리 통로에서 문이 쾅 하고 닫히는 소리를 들었다. 그러고는 사방이 고요해졌고, 몇 분 동안은 바람조차 우더링을 멈추었다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P045-1",
+    "en": "\"It was the wind,\" Martha said stubbornly. \"And if it wasn't, it was little Betty Butterworth, the scullery maid. She's had a toothache all day.\"",
+    "ko": "\"바람 소리였어유.\" 마사가 고집을 피웠다. \"설사 바람이 아니었다고 해도 설거지 담당 하녀인 꼬마 베티 버터워스일 거예유. 하루 종일 치통으로 끙끙 앓았거든유.\"",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P046",
+    "en": "But something tense and awkward in Martha's manner made Mary stare hard at her. She didn't believe she was telling the truth.",
+    "ko": "하지만 마사의 부자연스럽고 당황한 태도 때문에 메리는 마사를 빤히 쏘아보았다. 메리는 마사가 거짓말을 하고 있다고 생각했다.",
+    "is_header": false
+  }
+]

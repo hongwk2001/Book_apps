@@ -1,0 +1,338 @@
+[
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 1",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_1.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_1_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 2",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_2.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_2_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 3",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_3.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_3_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 4",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_4.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_4_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 5",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_5.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_5_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 6",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_6.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_6_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 7",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_7.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_7_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 8",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_8.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_8_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 9",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_9.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_9_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 10",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_10.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_10_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 11",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_11.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_11_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 12",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_12.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_12_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 13",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_13.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_13_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 14",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_14.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_14_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 15",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_15.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_15_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 16",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_16.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_16_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 17",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_17.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_17_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 18",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_18.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_18_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 19",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_19.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_19_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 20",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_20.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_20_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 21",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_21.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_21_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 22",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_22.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_22_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 23",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_23.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_23_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 24",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_24.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_24_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 25",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_25.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_25_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 26",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_26.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_26_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 27",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_27.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_27_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 28",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_28.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_28_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 29",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_29.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_29_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 30",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_30.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_30_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 31",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_31.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_31_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 32",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_32.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_32_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 33",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_33.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_33_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 34",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_34.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_34_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 35",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_35.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_35_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 36",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_36.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_36_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 37",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_37.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_37_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 38",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_38.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_38_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 39",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_39.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_39_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 40",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_40.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_40_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 41",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_41.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_41_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 42",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_42.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_42_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 43",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_43.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_43_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 44",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_44.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_44_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 45",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_45.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_45_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 46",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_46.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_46_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 47",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_47.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_47_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 48",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_48.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_48_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 49",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_49.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_49_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 50",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_50.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_50_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 51",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_51.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_51_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 52",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_52.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_52_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 53",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_53.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_53_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 54",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_54.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_54_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 55",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_55.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_55_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  },
+  {
+    "TypeName": "TranslationChunker",
+    "Role": "Chunker 56",
+    "Prompt": "Read input file: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_56.json\nWrite output to: c:\\git_repo\\Book_apps\\secret_garden\\batches\\batch_56_done.json\nProcess all paragraphs and report when done.",
+    "Model": "flash"
+  }
+]

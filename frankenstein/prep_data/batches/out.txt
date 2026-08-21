@@ -1,0 +1,31 @@
+ID: 0
+EN: Chapter 7
+KO: 제7장
+----------------------------------------
+ID: 1
+EN: On my return, I found the following letter from my father:—
+KO: 돌아와 보니, 아버지로부터 다음과 같은 편지가 와 있었다.
+----------------------------------------
+ID: 2
+EN: “My dear Victor,
+KO: "사랑하는 빅터에게,
+----------------------------------------
+ID: 3
+EN: “You have probably waited impatiently for a letter to fix the date of
+your return to us; and I was at first tempted to write only a few
+lines, merely mentioning the day on which I should expect you. But
+that would be a cruel kindness, and I dare not do it. What would be
+your surprise, my son, when you expected a happy and glad welcome, to
+behold, on the contrary, tears and wretchedness? And how, Victor, can
+I relate our misfortune? Absence cannot have rendered you callous to
+our joys and griefs; and how shall I inflict pain on my long absent
+son? I wish to prepare you for the woeful news, but I know it is
+impossible; even now your eye skims over the page to seek the words
+which are to convey to you the horrible tidings.
+KO: "아마도 너는 네가 우리에게 돌아올 날짜가 적힌 편지를 초조하게 기다렸을 것이다. 나 역시 처음에는 단지 네가 돌아오기를 기다리는 날짜만 몇 자 적어 보낼까 하는 유혹을 느꼈단다. 하지만 그것은 잔인한 친절일 테고, 차마 그럴 수는 없었어. 사랑하는 아들아, 행복하고 기쁜 환영을 기대했는데 그와는 반대로 눈물과 절망을 마주하게 된다면 네가 얼마나 놀라겠니? 그리고 빅터야, 내가 우리의 이 불행을 어떻게 말해야 할까? 오랫동안 떨어져 있었다고 해서 네가 우리의 기쁨과 슬픔에 무감각해졌을 리 없고, 이토록 오랫동안 떠나 있던 아들에게 내가 어떻게 고통을 안겨주어야 한단 말이냐? 이 끔찍한 소식에 대비하게 해주고 싶지만, 그것이 불가능하다는 것을 안다. 지금 이 순간에도 네 눈은 이 무서운 소식을 전할 그 단어들을 찾기 위해 편지지를 훑어 내려가고 있겠지.
+----------------------------------------
+ID: 4
+EN: “William is dead!—that sweet child, whose smiles delighted and warmed
+my heart, who was so gentle, yet so gay! Victor, he is murdered!
+KO: "윌리엄이 죽었다! 미소만으로도 내 마음을 기쁘게 하고 따뜻하게 해주었던 그 사랑스러운 아이, 그토록 온순하면서도 명랑했던 아이가! 빅터야, 그 아이가 살해당했단다!
+----------------------------------------

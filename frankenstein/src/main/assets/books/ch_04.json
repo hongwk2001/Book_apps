@@ -1,0 +1,646 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Letter 4",
+    "ko": "편지 4",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "To Mrs. Saville in England.",
+    "ko": "영국에 있는 사빌 부인에게.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-1",
+    "en": "August 5th, 17—.",
+    "ko": "17—년 8월 5일.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003-1",
+    "en": "Such a strange event has occurred that I cannot help but record it. Even though it is highly likely that I will see you before these papers reach your hands.",
+    "ko": "너무나도 기이한 사건이 발생해서 차마 기록하지 않고는 견딜 수가 없습니다. 비록 이 종이들이 누님의 손에 들어가기 전에 제가 먼저 누님을 뵙게 될 가능성이 매우 크겠지만 말입니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004-1",
+    "en": "Last Monday, July 31st, we were nearly surrounded by ice closing in on the ship from all sides, and there was barely enough sea room left for the ship to float. Our situation was somewhat dangerous, especially since we were surrounded by a very thick fog. Therefore, we anchored the ship, hoping that some change in the atmosphere and weather would occur.",
+    "ko": "지난 7월 31일 월요일 우리는 사방에서 배를 옥죄어오는 얼음에 거의 둘러싸였고, 배가 떠 있을 만한 바다의 공간조차 간신히 남아 있었습니다. 특히 아주 짙은 안개에 휩싸여 있어서 우리의 상황은 다소 위험했습니다. 그래서 우리는 대기와 날씨에 어떤 변화가 일어나기를 희망하며 배를 정박시켰습니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P005-1",
+    "en": "Around 2 p.m., the fog cleared, and we saw vast, irregular ice plains stretching out in all directions, seemingly without end. Some of my comrades groaned, and my mind became watchful with anxious thoughts, when a strange sight suddenly caught our attention and diverted our concern away from our own situation. We saw a low carriage, fixed on a sled and pulled by dogs, passing toward the north about half a mile away.",
+    "ko": "오후 2시경 안개가 걷혔고, 우리는 사방으로 끝이 없어 보이는 거대하고 불규칙한 얼음 평원이 펼쳐져 있는 것을 보았습니다. 동료들 중 몇몇은 신음 소리를 냈고, 제 마음도 불안한 생각으로 경계를 늦추지 않게 되었을 때, 갑자기 기이한 광경이 우리의 시선을 사로잡으며 우리 자신의 처지에 쏠려 있던 염려를 다른 곳으로 돌려놓았습니다. 우리는 썰매에 고정되어 개들이 끄는 낮은 마차 하나가 반 마일 정도 떨어진 곳에서 북쪽을 향해 지나가는 것을 보았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P005-2",
+    "en": "A being shaped like a human, but apparently of giant size, sat in the sled and drove the dogs. We watched the traveler's rapid progress through telescopes until he finally disappeared among the distant uneven ice.",
+    "ko": "사람의 형상을 하고 있으나 겉보기에는 거대한 체구의 존재가 그 썰매에 앉아 개들을 몰고 있었습니다. 우리는 망원경을 통해 그 여행자의 빠른 진행을 지켜보았고, 마침내 그는 멀리 요철이 심한 얼음들 사이로 사라졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P006-1",
+    "en": "This appearance excited our unconditional wonder.",
+    "ko": "이러한 출현은 우리의 조건 없는 경이로움을 불러일으켰습니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P006-2",
+    "en": "We believed we were hundreds of miles away from land, but the appearance of this illusion seemed to mean that land was not actually as far as we had imagined.",
+    "ko": "우리는 육지에서 수백 마일 떨어져 있다고 믿고 있었지만, 이 환영의 출현은 사실 육지가 우리가 상상했던 것만큼 멀리 있지 않다는 것을 의미하는 듯했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006-3",
+    "en": "However, since we were trapped in the ice, it was impossible to follow his track, which we had observed with the greatest attention.",
+    "ko": "그러나 얼음에 갇혀 있었기에 우리가 가장 큰 주의를 기울여 관찰했던 그의 궤적을 쫓아가는 것은 불가능했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007-1",
+    "en": "About two hours after this event, we heard the sound of the ocean waves, and before night fell, the ice broke and freed our ship. However, fearing that we might crash into large floating fragments in the dark after the ice broke, we remained anchored until morning. I used this time to rest for a few hours.",
+    "ko": "이 일이 있은 지 약 두 시간 후 우리는 바다의 파도 소리를 들었고, 밤이 되기 전에 얼음이 깨지며 우리 배가 자유로워졌습니다. 그러나 얼음이 부서진 후 둥둥 떠다니는 커다란 파편들과 어둠 속에서 부딪힐까 두려워 아침까지 정박해 있었습니다. 저는 이 시간을 이용해 몇 시간 동안 휴식을 취했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P008-1",
+    "en": "But in the morning, as soon as it was light, I went up to the deck and found all the sailors gathered on one side of the ship, seemingly talking to someone in the sea. In fact, it was a sled like the one we had seen before, which had drifted toward us during the night on a large piece of ice.",
+    "ko": "그러나 아침에 날이 밝자마자 갑판으로 올라가 보니, 선원들이 모두 배의 한쪽에 모여 바다 속에 있는 누군가와 대화를 나누고 있는 듯했습니다. 사실 그것은 우리가 전에 보았던 것과 같은 썰매였는데, 밤사이에 커다란 얼음 조각에 실려 우리 쪽으로 떠밀려온 것이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P008-2",
+    "en": "Only one dog remained alive, but inside was a human being whom the sailors were persuading to enter the ship.",
+    "ko": "개는 단 한 마리만 살아남아 있었지만, 그 안에는 선원들이 배로 들어오라고 설득하고 있는 한 인간이 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P008-3",
+    "en": "He was not a savage native of some unknown island, as the other traveler had appeared to be, but a European.",
+    "ko": "그는 다른 여행자가 보였던 미지의 섬에 사는 야만적인 원주민이 아니라 유럽인이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P008-4",
+    "en": "When I appeared on deck, the master said, 'Here is our captain. He will not allow you to die in the open sea.'",
+    "ko": "제가 갑판에 나타나자 선장이 말했습니다. \"여기 우리 선장님이 계십니다. 당신이 넓은 바다에서 죽어가는 것을 허락하지 않으실 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P009-1",
+    "en": "Seeing me, the stranger spoke in English, though with a foreign accent. 'Before I board your ship, would you be kind enough to tell me which way you are heading?'",
+    "ko": "저를 보자 그 낯선 사람은 외국인 억양이 섞였지만 영어로 말을 걸어왔습니다. \"당신의 배에 오르기 전에, 당신이 어느 쪽으로 향하고 있는지 친절하게 알려주시겠습니까?\"",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P010-1",
+    "en": "You can imagine how surprised I was to hear such a question from a man on the verge of death, someone I would have thought would naturally view this ship as a refuge he wouldn't trade for the world's most precious wealth. However, I replied that we were on an exploration voyage toward the North Pole.",
+    "ko": "죽음의 문턱에 서 있는 사람, 세상이 줄 수 있는 가장 값진 재물과도 이 배를 맞바꾸지 않았을 터라 당연히 자신의 피난처로 여길 줄 알았던 사람에게서 그런 질문을 듣고 제가 얼마나 놀랐을지 짐작하실 수 있을 겁니다. 그러나 저는 우리가 북극을 향한 탐험의 항해 중이라고 대답했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P011-1",
+    "en": "Upon hearing this, he seemed satisfied and agreed to board. Good heavens! Margaret, if you had seen the man who conditionally surrendered his safety in this way, your surprise would have been endless.",
+    "ko": "그 말을 듣자 그는 만족스러운 듯 보였고 승선에 동의했습니다. 맙소사! 마거릿 누님, 누님께서 자신의 안전을 두고 이렇게 조건부로 항복한 그 남자를 보셨다면, 그 놀라움은 끝이 없었을 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011-2",
+    "en": "His limbs were almost frozen, and his body was terribly thin from fatigue and pain. I have never seen a person in such a miserable condition. We tried to move him to the cabin, but as soon as he left the fresh air, he fainted.",
+    "ko": "그의 팔다리는 거의 얼어붙었고 몸은 피로와 고통으로 끔찍할 정도로 야위어 있었습니다. 저는 그렇게 비참한 상태의 사람을 본 적이 없습니다. 우리는 그를 선실로 옮기려 했으나 맑은 공기를 벗어나자마자 그는 기절해 버렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P011-3",
+    "en": "So we brought him back to the deck and barely revived him by rubbing his body with brandy and making him drink a little. As soon as he showed signs of life, we wrapped him in blankets and laid him near the kitchen stove's chimney. He slowly recovered and regained an amazing amount of energy after eating a little soup.",
+    "ko": "그래서 우리는 그를 다시 갑판으로 데려와 브랜디로 몸을 문지르고 조금 마시게 하여 겨우 의식을 되찾게 했습니다. 그가 살아있는 징후를 보이자마자 우리는 담요로 그를 감싸고 주방 난로의 굴뚝 근처에 눕혔습니다. 서서히 그는 회복되었고 수프를 조금 먹은 뒤 놀랍도록 기운을 차렸습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P012-1",
+    "en": "It was only after two days in this state that he was able to speak, and I often feared that his suffering had taken away his reason. When he had recovered to some degree, I moved him to my own cabin and took care of him as best as my duties allowed.",
+    "ko": "이런 상태로 이틀이 지난 후에야 그는 말을 할 수 있게 되었고, 저는 종종 그의 고통이 이성을 앗아간 것은 아닌지 두려웠습니다. 그가 어느 정도 회복되었을 때, 저는 그를 제 선실로 옮겨와 제 직무가 허락하는 한 최선을 다해 그를 보살폈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P012-2",
+    "en": "I have never seen such an interesting person. His eyes usually have a wild and even crazy look, but if someone shows him kindness or offers even the slightest help, his whole face brightens with a light of benevolence and warmth, creating the most beautiful smile I have ever seen. However, he is generally depressed and in despair, and sometimes he grinds his teeth as if he cannot bear the weight of the sorrow crushing him.",
+    "ko": "저는 이토록 흥미로운 사람을 본 적이 없습니다. 그의 눈에는 대개 야성적이고 심지어 광기 어린 표정마저 서려 있지만, 누군가 그에게 친절을 베풀거나 아무리 사소한 도움이라도 주면, 그의 온 얼굴이 한 줄기 자애로움과 다정함의 빛으로 환하게 밝아지는데 그보다 더 아름다운 미소를 저는 본 적이 없습니다. 하지만 그는 대체로 우울하고 절망에 빠져 있으며, 때로는 자신을 짓누르는 비애의 무게를 참을 수 없다는 듯 이를 갈기도 합니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P013-1",
+    "en": "When my guest recovered a little energy, I had a hard time keeping away the sailors who wanted to ask him a thousand questions. I could not let him be bothered by the sailors' useless curiosity when his physical and mental recovery depended on absolute rest. However, the lieutenant once asked how he happened to come so far on the ice in such a strange vehicle.",
+    "ko": "제 손님이 조금 기운을 차렸을 때, 그에게 천 가지 질문을 퍼붓고 싶어 하는 선원들을 막아내느라 저는 큰 곤욕을 치러야 했습니다. 육체와 정신의 회복이 절대적인 휴식에 달려 있는 상태의 그를 선원들의 쓸데없는 호기심으로 괴롭히게 내버려 둘 수는 없었습니다. 그러나 한 번은 부선장이 어쩌다 그런 기이한 탈것을 타고 그 멀리 얼음 위까지 오게 되었는지 물었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P014-1",
+    "en": "His expression instantly turned to deep gloom as he answered, 'To find the one who ran away from me.'",
+    "ko": "그의 안색은 순식간에 깊은 우울함으로 바뀌었고 그가 대답했습니다. \"나에게서 도망친 자를 찾기 위해서였소.\"",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P015-1",
+    "en": "'Then was the person you were chasing traveling in the same way?'",
+    "ko": "\"그럼 당신이 쫓던 사람도 같은 방식으로 여행하고 있었습니까?\"",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P016-1",
+    "en": "'Yes.'",
+    "ko": "\"그렇소.\"",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P017-1",
+    "en": "'Then it seems we have seen him. The day before we rescued you, we saw a man crossing the ice in a sled pulled by dogs.'",
+    "ko": "\"그렇다면 우리가 그 사람을 본 것 같습니다. 당신을 구조하기 전날, 우리는 개들이 끄는 썰매에 한 남자가 타고 얼음 위를 가로지르는 것을 보았으니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P018-1",
+    "en": "These words caught the stranger's attention, and he poured out many questions about the path taken by the one he called a demon.",
+    "ko": "이 말은 낯선 사람의 주의를 끌었고, 그는 그가 악마라고 부르던 자가 지나간 경로에 대해 수많은 질문을 쏟아냈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P018-2",
+    "en": "A little later, when he was alone with me, he said, 'I have surely stirred the curiosity of those good people as well as your own. But you are too thoughtful to ask.'",
+    "ko": "잠시 후 저와 단둘이 있게 되자 그가 말했습니다. \"내가 저 선량한 사람들은 물론이고 당신의 호기심까지 자극한 것이 틀림없군요. 하지만 당신은 너무 사려 깊어서 차마 묻지 못하고 있군요.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P019-1",
+    "en": "'Of course. It would be truly rude and inhumane to bother you with my curiosity.'",
+    "ko": "\"물론입니다. 제 호기심으로 당신을 성가시게 하는 것은 정말로 무례하고 비인간적인 짓이 될 테니까요.\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P020-1",
+    "en": "'And yet, you rescued me from a strange and dangerous situation, and mercifully restored my life.'",
+    "ko": "\"그런데도 당신은 기이하고 위험한 상황에서 나를 구출해 주었고, 자비롭게도 내 생명을 되찾아 주었소.\"",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P021-1",
+    "en": "Not long after, he asked me if I thought the other sled had been destroyed when the ice broke.",
+    "ko": "얼마 지나지 않아 그는 얼음이 깨지면서 다른 썰매도 부서졌을 것 같은지 제게 물었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P021-2",
+    "en": "I replied that I could not answer for sure, as the ice broke late at night and the traveler might have reached a safe place before then, leaving me with no way to guess.",
+    "ko": "저는 밤이 깊어서야 얼음이 깨졌고 그 여행자는 그 전에 안전한 곳에 도착했을 수도 있으므로 확실하게 대답할 수는 없으며, 저로서는 짐작할 길이 없다고 대답했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P022-1",
+    "en": "From this point on, a new sense of life was breathed into the stranger's weakened body.",
+    "ko": "이때부터 새로운 생명의 기운이 이 낯선 남자의 쇠약해진 육체에 불어넣어졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P022-2",
+    "en": "He showed a strong desire to go up to the deck to watch for the sled that had appeared earlier, but I persuaded him to stay in the cabin, saying he was too weak to endure the bitter cold of the air.",
+    "ko": "그는 이전에 나타났던 썰매를 감시하기 위해 갑판으로 올라가고 싶어 하는 강한 열망을 보였지만, 저는 대기의 매서운 추위를 견디기엔 그가 너무 약하다며 선실에 머물도록 설득했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P022-3",
+    "en": "Instead, I promised to have someone keep watch for him and let him know immediately if anything new appeared in sight.",
+    "ko": "대신 누군가를 시켜 그를 위해 망을 보게 하고, 시야에 새로운 것이 나타나면 즉시 알려주겠다고 약속했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P023-1",
+    "en": "My journal regarding this strange event so far is roughly like this. The strange man is gradually recovering his health, but he is very quiet and looks anxious when anyone other than me enters his cabin. However, his attitude is very accommodating and gentle, so the sailors are all interested in him even though they have barely spoken with him.",
+    "ko": "이 기이한 사건에 관하여 지금까지 작성한 저의 일지는 대략 이렇습니다. 그 낯선 남자는 점차 건강을 회복하고 있으나 무척 과묵하고, 저 외에 다른 사람이 자신의 선실에 들어오면 불안해하는 기색을 보입니다. 그러나 그의 태도는 무척 유화적이고 온화해서 선원들은 그와 거의 대화를 나누지 못했음에도 불구하고 모두 그에게 관심을 가지고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P023-2",
+    "en": "For my part, I have started to love him like a brother, and seeing his constant, deep sorrow fills me with sympathy and compassion. Seeing how charming and friendly he is even in this ruined state, he must certainly have been a wonderful person in his better days.",
+    "ko": "저로서는 그를 형제처럼 사랑하기 시작했으며, 그의 끊임없고 깊은 슬픔을 보면 동정심과 연민이 벅차오릅니다. 비록 지금은 이렇게 망가진 상태임에도 그토록 매력적이고 상냥한 것을 보면, 좋은 시절의 그는 틀림없이 훌륭한 인물이었을 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P024-1",
+    "en": "My dear sister Margaret, I wrote in one of my letters that I wouldn't find a friend on the open ocean. However, I have found a man here whom I would have truly wanted to treat as a brother if his spirit had not been broken by misfortune.",
+    "ko": "사랑하는 마거릿 누님, 넓은 바다에서는 친구를 찾지 못할 것이라고 제 편지 중 하나에 썼었지요. 하지만 불행으로 그의 영혼이 꺾이기 전이었다면 진심으로 형제처럼 지내고 싶었을 사람을 여기서 발견했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P025-1",
+    "en": "I will continue to write this journal about the strange man from time to time whenever there are new events to record.",
+    "ko": "새로운 사건이 기록될 때마다 간간이 이 낯선 남자에 관한 일지를 계속 써 내려가겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P026-1",
+    "en": "August 13th, 17—.",
+    "ko": "17—년 8월 13일.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P027-1",
+    "en": "My affection for my guest grows deeper every day.",
+    "ko": "제 손님에 대한 애정은 날이 갈수록 깊어지고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P027-2",
+    "en": "He inspires both my admiration and pity to a surprising degree.",
+    "ko": "그는 놀라울 정도로 저의 경탄과 연민을 동시에 불러일으킵니다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P027-3",
+    "en": "How can I help but feel the most bitter sorrow while watching such a noble being destroyed by misfortune?",
+    "ko": "저토록 고귀한 생명체가 불행에 의해 파괴되는 것을 보면서 어찌 가장 뼈저린 슬픔을 느끼지 않을 수 있겠습니까?",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P027-4",
+    "en": "He is so gentle yet wise, and his mind is deeply cultured. When he speaks, although he carefully chooses the most artistic words, they flow quickly and with unmatched eloquence.",
+    "ko": "그는 너무나 부드러우면서도 지혜롭고, 그의 마음은 몹시 교양으로 채워져 있으며, 말을 할 때면 비록 가장 정선된 예술적인 단어들을 골라 쓰지만 그 말들은 유창하고 타의 추종을 불허하는 웅변처럼 빠르게 흘러나옵니다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P028-1",
+    "en": "He has now largely recovered from his illness and remains constantly on deck to watch for the sled that passed before him. Yet, although he seems unhappy, he is not completely absorbed in his own sorrow and shows deep interest in the plans of others.",
+    "ko": "그는 이제 병에서 많이 회복되었고, 자신의 앞을 지나갔던 썰매를 감시하기 위해 계속 갑판에 나와 있습니다. 그러나 비록 불행해 보이긴 해도 그는 자신의 비애에만 완전히 몰두해 있지는 않으며, 다른 사람의 계획에 깊은 관심을 보입니다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P028-2",
+    "en": "He often talked with me about my plans, and I shared my intentions with him without hiding anything. He listened carefully to all my arguments supporting my ultimate success and to the minor details of the steps I took to secure it.",
+    "ko": "그는 자주 저의 계획에 대해 대화를 나누었고, 저는 그에게 숨김없이 제 뜻을 전했습니다. 그는 저의 최종적인 성공을 지지하는 저의 모든 주장들과 그것을 확보하기 위해 제가 취한 조치들의 사소한 세부 사항에 주의 깊게 귀를 기울였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P028-3",
+    "en": "Drawn by the empathy he showed, I soon found myself using the language of my heart, opening up about the passion burning in my soul. I spoke with all the heat that warmed me, declaring that I would gladly sacrifice my fortune, my existence, and all my hopes to drive this exploration forward. To gain the knowledge I seek, and to acquire and pass down control over humanity's natural enemies, one person's life or death was but a small price to pay.",
+    "ko": "저는 그가 보여주는 공감에 이끌려 어느새 제 마음의 언어를 사용하게 되었고, 제 영혼을 불태우는 열정을 터놓았으며, 이 탐험의 추진을 위해서라면 저의 재산과 존재, 제 모든 희망을 기꺼이 희생할 수 있다는 저를 데우는 그 모든 열기를 담아 말했습니다. 제가 추구하는 지식을 얻기 위해, 인류의 원초적인 적들에 대한 지배력을 획득하고 후대에 물려주기 위해서라면 한 사람의 생사쯤은 지불하기에 작은 대가에 불과했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P028-4",
+    "en": "As I continued to speak, a deep gloom spread over his listening face.",
+    "ko": "제가 말을 잇는 동안 경청하던 그의 얼굴 위로 짙은 우울함이 번졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P028-5",
+    "en": "At first, I saw that he was trying to suppress his emotions.",
+    "ko": "처음엔 그가 감정을 억누르려 애쓰는 것이 보였습니다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P028-6",
+    "en": "He covered his eyes with his hands, but the moment I saw tears flowing quickly between his fingers, my voice trembled and faded, and a groan burst from his heaving chest.",
+    "ko": "그는 손으로 눈을 가렸으나 손가락 사이로 눈물이 빠르게 흘러내리는 것을 본 순간 저의 목소리는 떨리며 잦아들었고, 그의 들썩이는 가슴에서는 신음이 터져 나왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P028-7",
+    "en": "I stopped speaking, and finally he spoke with a broken accent, 'Unhappy man!",
+    "ko": "저는 말을 멈췄고 마침내 그가 끊어지는 듯한 억양으로 말했습니다. \"불행한 사람!",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P028-8",
+    "en": "Are you too trying to share this madness with me? Have you also drunk from that fatal poisoned cup?",
+    "ko": "당신마저 나와 이 광기를 나누려 하는가? 당신 또한 그 치명적인 독배를 마셨단 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P028-9",
+    "en": "Listen to me. I will reveal my story, and once you hear it, you too will throw that cup away from your lips!'",
+    "ko": "내 말을 들으시오. 내 이야기를 밝힐 테니, 듣고 나면 당신도 입술에서 그 잔을 팽개치게 될 것이오!\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P029-1",
+    "en": "As you can imagine, such words strongly stimulated my curiosity. But the fit of sorrow that gripped this stranger overwhelmed his weakened strength, and it took a long time of rest and quiet conversation for him to regain his composure.",
+    "ko": "누님도 상상하시겠지만 그런 말들은 저의 호기심을 강하게 자극했습니다. 하지만 이 낯선 사람을 사로잡은 슬픔의 발작은 그의 약해진 기력을 압도했고, 그의 평정심을 되찾기 위해서는 긴 시간의 휴식과 조용한 대화가 필요했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P030-1",
+    "en": "After overcoming the turmoil of his emotions, he seemed to despise himself for becoming a slave to his passions. Suppressing the dark tyranny of despair, he guided the conversation toward my personal story.",
+    "ko": "감정의 격동을 이겨낸 후 그는 자신이 정념의 노예가 된 것에 대해 스스로를 경멸하는 듯했고, 절망의 어두운 폭정을 억누르며 저의 개인적인 이야기에 대한 대화로 이끌었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P030-2",
+    "en": "He asked about the history of my childhood.",
+    "ko": "그는 제 어린 시절의 역사를 물었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P030-3",
+    "en": "The story ended quickly, but it awakened various trains of thought.",
+    "ko": "이야기는 금방 끝났으나 그것은 다양한 생각의 고리들을 일깨워주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P030-4",
+    "en": "I talked about my desire to find a friend, my thirst for a deeper and more intimate empathy with a peer that I had never experienced. I expressed my conviction that a person who does not enjoy this blessing can hardly boast of happiness.",
+    "ko": "저는 친구를 찾고자 하는 제 열망, 제가 겪어본 적 없는 동료와의 더 깊고 친밀한 공감에 대한 갈증에 대해 이야기했고, 이런 축복을 누리지 못하는 사람은 행복을 거의 자랑할 수 없을 거라는 제 확신을 표출했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P031-1",
+    "en": "'I agree,' the stranger replied.",
+    "ko": "\"동의하오.\" 낯선 남자가 대답했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P031-2",
+    "en": "'We are unfinished creatures, merely half-made. We must have someone wiser, better, and more lovable than ourselves help perfect our weak and flawed nature. That is what a friend should be.",
+    "ko": "\"우리는 미완성의 생명체들, 반쪽짜리에 불과하여 우리보다 더 현명하고 훌륭하며 사랑스러운 누군가가 우리의 나약하고 결함 있는 본성을 완벽하게 해주도록 도와주지 않으면 안 되오. 친구란 응당 그래야 하오.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P031-3",
+    "en": "I too once had a friend, the most noble of humans. So I am qualified to judge matters of friendship.",
+    "ko": "나에게도 한때 인간 중에 가장 고결한 친구가 있었소. 그러니 나는 우정에 관해 판단할 자격이 있지.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P031-4",
+    "en": "You have hope and the world lies before you, so you have no reason to despair.",
+    "ko": "당신에게는 희망이 있고 세계가 당신 앞에 놓여 있으니 절망할 이유가 없소.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P031-5",
+    "en": "But I have lost everything and cannot even start my life anew.'",
+    "ko": "하지만 나는 모든 것을 잃었고 삶을 새로 시작할 수조차 없다오.\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P032-1",
+    "en": "As he said this, his face showed a calm, firm sorrow that broke my heart. However, he closed his mouth and soon retired to his cabin.",
+    "ko": "그렇게 말하는 그의 얼굴에는 내 마음을 아프게 하는 차분하고 확고한 슬픔이 배어 있었습니다. 하지만 그는 입을 다물었고 곧 자신의 선실로 물러났습니다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P033-1",
+    "en": "Although his spirit was broken, no one could feel the beauty of nature more deeply than he does.",
+    "ko": "비록 영혼이 꺾이긴 했으나, 그보다 더 깊이 자연의 아름다움을 느끼는 사람은 없을 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P033-2",
+    "en": "The starry night sky, the sea, and all the sights provided by these wondrous regions still seem to have the power to lift his soul from the earth.",
+    "ko": "별이 빛나는 밤하늘, 바다, 그리고 이 경이로운 지역들이 선사하는 모든 광경은 여전히 그의 영혼을 지상에서 끌어올리는 힘을 가진 듯합니다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P033-3",
+    "en": "Such a person has a dual existence. He may suffer from misfortune and be overwhelmed by disappointment, but when he retreats into himself, he is like a heavenly spirit wearing a halo, and no sorrow or foolishness dares enter that circle.",
+    "ko": "그런 사람은 이중적인 존재를 지니고 있습니다. 불행에 시달리고 실망에 압도될 수도 있지만, 그가 자신의 내면으로 물러났을 때 그는 주위에 광배를 두른 천상의 정령과도 같아서 그 원 안으로는 어떤 슬픔이나 어리석음도 감히 침범하지 못합니다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P034-1",
+    "en": "Would you smile at the passion I express for this divine wanderer? If you saw him yourself, you would not be able to.",
+    "ko": "제가 이 신성한 방랑자에 대해 표현하는 열정에 누님은 미소 지으시겠습니까? 그를 직접 보신다면 그러지 못하실 겁니다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P034-2",
+    "en": "You are somewhat picky because you have been educated and refined by books and seclusion from the world, but this actually allows you to truly recognize this wondrous man's special merits.",
+    "ko": "누님은 책과 세상과 떨어진 은둔을 통해 가르침을 받고 세련되어졌기에 다소 까다로우시지만, 이 점이 오히려 누님이 이 경이로운 사람의 특별한 장점들을 진정으로 알아볼 수 있게 해줍니다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P034-3",
+    "en": "Sometimes I tried to discover what quality he possessed that elevated him so high, incomparably above anyone I had ever known.",
+    "ko": "때때로 저는 그가 가진 어떤 자질이 그토록 그를 제가 알던 어떤 사람과도 비할 수 없을 만큼 높이 끌어올리는지 발견하려 애썼습니다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P034-4",
+    "en": "I believe it is his intuitive insight, his fast yet never-failing judgment, and his unmatched clarity and accuracy in seeing through the causes of things. On top of this, he possesses fluent expression and a voice whose varied intonations are like music that subdues the soul.",
+    "ko": "저는 그것이 직관적인 통찰력, 빠르면서도 결코 실패하지 않는 판단력, 사물의 원인을 꿰뚫어 보는 명쾌함과 정확성에 있어 타의 추종을 불허하는 통찰력이라고 믿습니다. 이에 더해 표현의 유창함과 그 다양한 억양이 영혼을 굴복시키는 음악과도 같은 목소리를 지니고 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P035-1",
+    "en": "August 19th, 17—.",
+    "ko": "17—년 8월 19일.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P036-1",
+    "en": "Yesterday the strange man said to me, 'Captain Walton, you must have easily noticed that I have suffered an incomparably great misfortune.",
+    "ko": "어제 그 낯선 남자가 내게 말했습니다. \"월턴 선장, 당신은 내가 비할 데 없이 크나큰 불행을 겪었다는 것을 쉽게 알아차렸을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P036-2",
+    "en": "At one time, I decided that the memory of these disasters must die with me, but you have made me change that decision.",
+    "ko": "한때 나는 이 재앙들의 기억이 나와 함께 죽어야 한다고 결심했지만, 당신은 내가 그 결심을 바꾸도록 만들었소.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P036-3",
+    "en": "You are pursuing knowledge and wisdom, just as I once did. I earnestly hope that fulfilling your wish will not become a poisonous snake that bites you, as it did to me.",
+    "ko": "당신은 한때 내가 그랬듯이 지식과 지혜를 추구하고 있소. 나는 당신의 소망을 충족시키는 일이 내게 그랬던 것처럼 당신을 찌르는 독사가 되지 않기를 간절히 바라고 있소.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P036-4",
+    "en": "I don't know if the story of my disasters will be useful to you.",
+    "ko": "내 재앙의 이야기가 당신에게 유용할지는 모르겠소.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P036-5",
+    "en": "However, considering that you are on the same path and exposing yourself to the very dangers that made me like this, I think you might be able to draw an appropriate lesson from my story. A lesson that could guide you if you succeed in your adventure, and comfort you if you fail.",
+    "ko": "하지만 당신이 같은 길을 가고 있고, 나를 이 꼴로 만든 바로 그 위험들에 당신 자신을 노출시키고 있다는 것을 생각하면, 당신이 내 이야기에서 적절한 교훈을 이끌어낼 수 있을 거라 생각하오. 당신이 모험에 성공한다면 길잡이가 되어주고, 실패할 경우에는 위로가 될 수 있는 그런 교훈 말이오.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P036-6",
+    "en": "Prepare to hear about things that are commonly considered wondrous.",
+    "ko": "흔히 경이롭다고 여겨지는 일들에 대해 들을 준비를 하시오.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P036-7",
+    "en": "If we were in a mild landscape of nature, I would have feared encountering your disbelief and perhaps your mockery. However, many things that would make those ignorant of nature's ever-changing forces burst into laughter will seem possible in these wild and mysterious regions. I also have no doubt that the way my story unfolds will deliver internal proof that the events it contains are true.'",
+    "ko": "우리가 자연의 온화한 풍경 속에 있다면 나는 당신의 불신과 어쩌면 조롱에 부딪힐까 두려워했을 것이오. 하지만 끊임없이 변화하는 자연의 힘을 모르는 자들이라면 폭소를 터뜨릴 만한 많은 일들도 이 거칠고 신비로운 지역에서는 가능해 보일 것이오. 또한 내 이야기가 전개되는 과정 자체가 그 속에 담긴 사건들이 진실이라는 내적인 증거를 전달할 것임을 의심치 않소.\"",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P037-1",
+    "en": "As you can easily guess, I was very glad that he opened up first, but it was hard for me to bear him repeating his sorrow by telling of his misfortune. Half out of curiosity and half out of a strong desire to improve his fate if I could, I felt a passionate longing to hear the story he promised. I expressed these feelings in my response.",
+    "ko": "누님도 쉽게 짐작하시겠지만, 저는 그가 먼저 속내를 털어놓아 주어 무척 기뻤으나 그가 자신의 불행을 이야기함으로써 슬픔을 되풀이하는 것은 차마 견디기 힘들었습니다. 저는 호기심 반, 내 힘으로 가능하다면 그의 운명을 개선해주고 싶은 강한 열망 반으로 그가 약속한 이야기를 듣고 싶은 열렬한 갈망을 느꼈습니다. 저는 대답으로 이러한 감정들을 표현했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P038-1",
+    "en": "He replied, 'I thank you for your sympathy, but it is useless. My fate is almost fulfilled.",
+    "ko": "그가 대답했습니다. \"당신의 동정에는 감사하오만 소용없는 일이오. 내 운명은 거의 성취되었으니까.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P038-2",
+    "en": "I am waiting for only one event, and after that, I will be able to rest in peace.",
+    "ko": "나는 단 한 가지 사건만을 기다리고 있고, 그러고 나면 평화롭게 잠들 수 있을 거요.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P038-3",
+    "en": "I understand your feelings.' Noticing that I wanted to interrupt him, he continued, 'But my friend, if I may call you that, you are mistaken.",
+    "ko": "나는 당신의 심정을 이해하오.\" 그는 제가 말을 가로막고 싶어 하는 것을 눈치채고 계속 이어갔습니다. \"하지만 친구, 당신을 그렇게 불러도 된다면 말이오, 당신이 뭔가 착각하고 있는 거요.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P038-4",
+    "en": "Nothing can change my fate.",
+    "ko": "무엇도 내 운명을 바꿀 수는 없소.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P038-5",
+    "en": "Listen to my story. Then you too will realize how irrevocably that fate has been decided.'",
+    "ko": "내 이야기를 들어보시오. 그러면 그 운명이 얼마나 돌이킬 수 없게 결정되었는지 당신도 깨닫게 될 거요.\"",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P039-1",
+    "en": "Then he said he would begin his story the next day when I had free time. This promise drew the warmest gratitude from me.",
+    "ko": "그리고 나서 그는 제가 한가할 때인 다음 날 자신의 이야기를 시작하겠다고 말했습니다. 이 약속은 내게서 가장 따뜻한 감사를 이끌어냈습니다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P039-2",
+    "en": "I have decided that every night, whenever I am not busy with my duties, I will record what he told me during the day as close to his own words as possible. If I am busy, I intend to at least leave some notes.",
+    "ko": "저는 매일 밤 의무적으로 바쁘지 않을 때마다, 그가 낮 동안 이야기한 것을 가능한 한 그의 자신의 말에 가깝게 기록하기로 결심했습니다. 만약 바쁜 일이 생긴다면 적어도 메모라도 남길 작정입니다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P039-3",
+    "en": "This manuscript will certainly provide you with the greatest joy. But for me, who knows him and hears it directly from his lips, how much interest and empathy will I feel when I read this record in the future!",
+    "ko": "이 원고는 틀림없이 누님께 가장 큰 즐거움을 선사할 것입니다. 하지만 그를 알고 그의 입술에서 직접 그것을 듣는 저로서는 훗날 이 기록을 읽을 때 얼마나 큰 흥미와 공감을 느끼게 될까요!",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P039-4",
+    "en": "Even now, as I start this work, his resonant voice lingers in my ears, and his shining eyes look upon me with his unique, melancholy warmth.",
+    "ko": "지금 이 작업을 시작하는 순간에도 그의 낭랑한 목소리가 제 귓가에 맴돌고, 그의 빛나는 두 눈은 특유의 우울한 다정함을 담은 채 저를 머물러 봅니다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P039-5",
+    "en": "I can see his thin hand raised vividly, while the contours of his face shine from the soul dwelling within.",
+    "ko": "내면에 깃든 영혼에 의해 얼굴의 윤곽이 빛나는 동안, 생동감 있게 들어 올려진 그의 야윈 손이 보입니다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P039-6",
+    "en": "How strange and terrible his story will be, and how frightening the storm that embraced the brave ship on its course and shipwrecked it like this!",
+    "ko": "그의 이야기는 얼마나 기이하고 끔찍할 것이며, 용감한 배를 항로 위에서 껴안고 이처럼 난파시켜버린 폭풍은 얼마나 무시무시할는지요!",
+    "is_header": false
+  }
+]

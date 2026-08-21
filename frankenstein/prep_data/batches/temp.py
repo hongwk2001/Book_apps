@@ -1,0 +1,234 @@
+import json
+
+data = [
+  {
+    "original_id": 0,
+    "chunks": [
+      {
+        "tag": "P000-1",
+        "en": "Chapter 1",
+        "ko": "제1장"
+      }
+    ]
+  },
+  {
+    "original_id": 1,
+    "chunks": [
+      {
+        "tag": "P001-1",
+        "en": "I am by birth a Genevese, and my family is one of the most\ndistinguished of that republic. My ancestors had been for many years\ncounsellors and syndics, and my father had filled several public\nsituations with honour and reputation.",
+        "ko": "나는 제네바 태생으로, 내 가문은 그 공화국에서 가장 명망 높은 가문 중 하나다. 내 조상들은 여러 해 동안 참사관과 시장직을 역임했고, 아버지는 여러 공직을 맡아 명예와 명성을 얻으셨다."
+      },
+      {
+        "tag": "P001-2",
+        "en": "He was respected by all who\nknew him for his integrity and indefatigable attention to public\nbusiness. He passed his younger days perpetually occupied by the\naffairs of his country; a variety of circumstances had prevented his\nmarrying early, nor was it until the decline of life that he became a\nhusband and the father of a family.",
+        "ko": "아버지는 청렴결백함과 공무에 대한 지칠 줄 모르는 헌신으로 그를 아는 모든 이들에게 존경을 받았다. 젊은 시절 그는 조국의 일에 끊임없이 몰두하며 지냈고, 여러 사정으로 일찍 결혼하지 못하다가 노년에 접어들어서야 비로소 남편이자 한 가정의 아버지가 되었다."
+      }
+    ]
+  },
+  {
+    "original_id": 2,
+    "chunks": [
+      {
+        "tag": "P002-1",
+        "en": "As the circumstances of his marriage illustrate his character, I cannot\nrefrain from relating them. One of his most intimate friends was a\nmerchant who, from a flourishing state, fell, through numerous\nmischances, into poverty. This man, whose name was Beaufort, was of a\nproud and unbending disposition and could not bear to live in poverty\nand oblivion in the same country where he had formerly been\ndistinguished for his rank and magnificence.",
+        "ko": "그의 결혼에 얽힌 사연이 그의 성품을 잘 보여주기에, 이를 이야기하지 않을 수 없다. 그의 가장 친밀한 친구 중 한 명은 한때 번창했으나 수많은 불운을 겪으며 가난에 빠진 상인이었다. 보포르라는 이름의 이 남자는 자존심이 세고 굽힐 줄 모르는 성격이었으며, 한때 자신의 지위와 화려함으로 명성을 떨쳤던 같은 나라에서 가난과 망각 속에 살아가는 것을 견디지 못했다."
+      },
+      {
+        "tag": "P002-2",
+        "en": "Having paid his debts,\ntherefore, in the most honourable manner, he retreated with his\ndaughter to the town of Lucerne, where he lived unknown and in\nwretchedness. My father loved Beaufort with the truest friendship and\nwas deeply grieved by his retreat in these unfortunate circumstances.",
+        "ko": "따라서 그는 가장 명예로운 방식으로 빚을 청산한 뒤 딸과 함께 루체른이라는 마을로 물러나, 그곳에서 무명과 비참함 속에 살았다. 내 아버지는 가장 진실한 우정으로 보포르를 사랑했고, 이런 불행한 상황에서 그가 은둔해버린 것에 깊이 슬퍼했다."
+      },
+      {
+        "tag": "P002-3",
+        "en": "He bitterly deplored the false pride which led his friend to a conduct\nso little worthy of the affection that united them. He lost no time in\nendeavouring to seek him out, with the hope of persuading him to begin\nthe world again through his credit and assistance.",
+        "ko": "아버지는 친구를 두 사람을 결속시켰던 애정에 전혀 어울리지 않는 행동으로 이끈 그 헛된 자존심을 몹시 한탄했다. 그는 지체 없이 친구를 찾아 나서며, 자신의 신용과 도움을 통해 그가 세상에 다시 나서도록 설득하기를 희망했다."
+      }
+    ]
+  },
+  {
+    "original_id": 3,
+    "chunks": [
+      {
+        "tag": "P003-1",
+        "en": "Beaufort had taken effectual measures to conceal himself, and it was ten\nmonths before my father discovered his abode. Overjoyed at this discovery,\nhe hastened to the house, which was situated in a mean street near the\nReuss. But when he entered, misery and despair alone welcomed him.",
+        "ko": "보포르는 자신을 숨기기 위해 철저한 조치를 취했고, 내 아버지가 그의 거처를 알아내기까지는 10개월이나 걸렸다. 마침내 찾아냈다는 기쁨에 넘쳐 그는 로이스 강 근처의 초라한 거리에 위치한 그 집으로 서둘러 갔다. 하지만 그가 들어섰을 때, 그를 맞이한 것은 비참함과 절망뿐이었다."
+      },
+      {
+        "tag": "P003-2",
+        "en": "Beaufort\nhad saved but a very small sum of money from the wreck of his fortunes, but\nit was sufficient to provide him with sustenance for some months, and in\nthe meantime he hoped to procure some respectable employment in a\nmerchant’s house. The interval was, consequently, spent in inaction;\nhis grief only became more deep and rankling when he had leisure for\nreflection, and at length it took so fast hold of his mind that at the end\nof three months he lay on a bed of sickness, incapable of any exertion.",
+        "ko": "보포르는 파산 속에서 아주 적은 돈만을 건졌으나, 그것으로 몇 달 동안의 생계는 유지할 수 있었고, 그 사이 그는 어떤 상사의 제법 괜찮은 일자리를 구할 수 있으리라 희망했었다. 그 결과 그 기간은 무위도식으로 흘러갔다. 반추할 여유가 생기자 그의 슬픔은 더욱 깊어지고 뼈에 사무칠 뿐이었고, 마침내 슬픔이 그의 마음을 너무도 강하게 옭아맨 나머지 석 달이 지났을 무렵 그는 병상에 누워 어떠한 활동도 할 수 없게 되었다."
+      }
+    ]
+  },
+  {
+    "original_id": 4,
+    "chunks": [
+      {
+        "tag": "P004-1",
+        "en": "His daughter attended him with the greatest tenderness, but she saw\nwith despair that their little fund was rapidly decreasing and that\nthere was no other prospect of support. But Caroline Beaufort\npossessed a mind of an uncommon mould, and her courage rose to support\nher in her adversity.",
+        "ko": "그의 딸은 지극한 정성으로 그를 돌보았으나, 그들의 얼마 남지 않은 자금이 빠르게 줄어들고 있으며 다른 생계의 전망이 없다는 것을 알고 절망했다. 하지만 캐롤라인 보포르는 비범한 마음을 지녔고, 역경 속에서도 그녀를 지탱해줄 용기가 솟아났다."
+      },
+      {
+        "tag": "P004-2",
+        "en": "She procured plain work; she plaited straw and\nby various means contrived to earn a pittance scarcely sufficient to\nsupport life.",
+        "ko": "그녀는 수수한 일거리를 구했다. 짚을 엮고 여러 방법을 통해 간신히 생명을 유지할 정도의 적은 돈을 벌어들였다."
+      }
+    ]
+  },
+  {
+    "original_id": 5,
+    "chunks": [
+      {
+        "tag": "P005-1",
+        "en": "Several months passed in this manner. Her father grew worse; her time\nwas more entirely occupied in attending him; her means of subsistence\ndecreased; and in the tenth month her father died in her arms, leaving\nher an orphan and a beggar. This last blow overcame her, and she knelt\nby Beaufort’s coffin weeping bitterly, when my father entered the\nchamber.",
+        "ko": "이런 식으로 몇 달이 지났다. 그녀의 아버지는 병세가 악화되었고, 그녀의 시간은 온전히 그를 간호하는 데 바쳐졌다. 생계수단은 줄어들었으며, 열 달째 되던 해 그녀의 아버지는 그녀의 품에서 숨을 거두었고, 그녀는 고아와 거지 신세가 되었다. 이 마지막 타격은 그녀를 무너뜨렸고, 내 아버지가 그 방에 들어섰을 때 그녀는 보포르의 관 곁에 무릎을 꿇고 쓰라리게 울고 있었다."
+      },
+      {
+        "tag": "P005-2",
+        "en": "He came like a protecting spirit to the poor girl, who\ncommitted herself to his care; and after the interment of his friend he\nconducted her to Geneva and placed her under the protection of a\nrelation. Two years after this event Caroline became his wife.",
+        "ko": "아버지는 자신의 보호에 몸을 맡긴 그 가엾은 소녀에게 수호신처럼 다가왔다. 친구의 장례를 치른 후, 아버지는 그녀를 제네바로 데려가 친척의 보호 아래 두었다. 이 사건이 있은 지 2년 후, 캐롤라인은 아버지의 아내가 되었다."
+      }
+    ]
+  },
+  {
+    "original_id": 6,
+    "chunks": [
+      {
+        "tag": "P006-1",
+        "en": "There was a considerable difference between the ages of my parents, but\nthis circumstance seemed to unite them only closer in bonds of devoted\naffection. There was a sense of justice in my father’s upright mind\nwhich rendered it necessary that he should approve highly to love\nstrongly. Perhaps during former years he had suffered from the\nlate-discovered unworthiness of one beloved and so was disposed to set\na greater value on tried worth.",
+        "ko": "내 부모님 사이에는 상당한 나이 차이가 있었으나, 이 사실은 오히려 두 사람을 헌신적인 애정의 끈으로 더욱 단단히 묶어주는 듯했다. 아버지의 강직한 마음속에는 깊이 사랑하기 위해서는 철저히 인정해야 한다는 일종의 정의감이 있었다. 어쩌면 그는 지난 시절, 사랑했던 이의 늦게 발견된 무가치함으로 고통받은 적이 있어 이미 검증된 가치에 더 큰 비중을 두게 된 것인지도 모른다."
+      },
+      {
+        "tag": "P006-2",
+        "en": "There was a show of gratitude and\nworship in his attachment to my mother, differing wholly from the\ndoting fondness of age, for it was inspired by reverence for her\nvirtues and a desire to be the means of, in some degree, recompensing\nher for the sorrows she had endured, but which gave inexpressible grace\nto his behaviour to her. Everything was made to yield to her wishes\nand her convenience.",
+        "ko": "아버지가 어머니에게 보여준 애정에는 노년의 맹목적인 애착과는 완전히 다른, 감사와 숭배의 빛이 있었다. 그것은 그녀의 미덕에 대한 경외심과, 그녀가 겪은 슬픔을 어느 정도 보상해주고자 하는 바람에서 비롯된 것이었지만, 그로 인해 그녀를 대하는 아버지의 태도는 이루 말할 수 없이 우아해졌다. 모든 것이 그녀의 바람과 편의에 맞추어졌다."
+      },
+      {
+        "tag": "P006-3",
+        "en": "He strove to shelter her, as a fair exotic is\nsheltered by the gardener, from every rougher wind and to surround her\nwith all that could tend to excite pleasurable emotion in her soft and\nbenevolent mind. Her health, and even the tranquillity of her hitherto\nconstant spirit, had been shaken by what she had gone through.",
+        "ko": "그는 정원사가 아름다운 외래종 식물을 보호하듯 모든 거친 바람으로부터 그녀를 감싸려 했고, 그녀의 온화하고 자애로운 마음에 즐거운 감정을 불러일으킬 수 있는 모든 것으로 그녀를 둘러싸려 애썼다. 그녀의 건강과, 그때까지 변함없었던 영혼의 평온마저 그녀가 겪은 일들로 인해 흔들려 있었다."
+      },
+      {
+        "tag": "P006-4",
+        "en": "During\nthe two years that had elapsed previous to their marriage my father had\ngradually relinquished all his public functions; and immediately after\ntheir union they sought the pleasant climate of Italy, and the change\nof scene and interest attendant on a tour through that land of wonders,\nas a restorative for her weakened frame.",
+        "ko": "두 사람이 결혼하기 전 흘러간 2년 동안, 아버지는 점차 자신의 모든 공직을 내려놓으셨고, 그들은 결합 직후 이탈리아의 온화한 기후를 찾아 떠났다. 그 경이로운 땅을 여행하며 겪는 환경과 관심사의 변화가 그녀의 쇠약해진 육체를 회복시키는 데 도움이 되기를 바랐던 것이다."
+      }
+    ]
+  },
+  {
+    "original_id": 7,
+    "chunks": [
+      {
+        "tag": "P007-1",
+        "en": "From Italy they visited Germany and France. I, their eldest child, was born\nat Naples, and as an infant accompanied them in their rambles. I remained\nfor several years their only child.",
+        "ko": "이탈리아에서 출발하여 그들은 독일과 프랑스를 방문했다. 그들의 맏아이인 나는 나폴리에서 태어났고, 갓난아기 때부터 그들의 유랑에 동행했다. 나는 여러 해 동안 그들의 유일한 아이였다."
+      },
+      {
+        "tag": "P007-2",
+        "en": "Much as they were attached to each\nother, they seemed to draw inexhaustible stores of affection from a very\nmine of love to bestow them upon me. My mother’s tender caresses and\nmy father’s smile of benevolent pleasure while regarding me are my\nfirst recollections.",
+        "ko": "두 분이 서로를 그토록 깊이 사랑했음에도, 그들은 마치 사랑의 광맥에서 마르지 않는 애정의 창고를 길어 올려 내게 쏟아붓는 듯했다. 나를 바라보며 짓던 어머니의 다정한 애무와 아버지의 자애로운 기쁨의 미소가 나의 첫 기억들이다."
+      },
+      {
+        "tag": "P007-3",
+        "en": "I was their plaything and their idol, and something\nbetter—their child, the innocent and helpless creature bestowed on\nthem by Heaven, whom to bring up to good, and whose future lot it was in\ntheir hands to direct to happiness or misery, according as they fulfilled\ntheir duties towards me. With this deep consciousness of what they owed\ntowards the being to which they had given life, added to the active spirit\nof tenderness that animated both, it may be imagined that while during\nevery hour of my infant life I received a lesson of patience, of charity,\nand of self-control, I was so guided by a silken cord that all seemed but\none train of enjoyment to me.",
+        "ko": "나는 그들의 장난감이요 우상이었으며, 그보다 더 나은 존재, 즉 하늘이 그들에게 내려준 순결하고 무력한 피조물이자, 그들의 손에 의해 선으로 자라나고, 그들이 내게 의무를 어떻게 다하느냐에 따라 미래의 운명이 행복이나 불행으로 향할 수 있는 그들의 아이였다. 그들이 생명을 준 존재에 대해 빚진 것이 무엇인지에 대한 이 깊은 인식과, 두 사람을 생동하게 한 부드러운 사랑의 활동적 정신이 더해졌으니, 내 유년 시절의 매 시간마다 인내와 자비, 절제의 가르침을 받으면서도 나는 그토록 부드러운 비단 줄에 이끌려 내게는 그 모든 것이 하나의 기나긴 즐거움의 연속으로 여겨졌을 것임을 능히 상상할 수 있을 것이다."
+      }
+    ]
+  },
+  {
+    "original_id": 8,
+    "chunks": [
+      {
+        "tag": "P008-1",
+        "en": "For a long time I was their only care. My mother had much desired to have a\ndaughter, but I continued their single offspring. When I was about five\nyears old, while making an excursion beyond the frontiers of Italy, they\npassed a week on the shores of the Lake of Como.",
+        "ko": "오랜 시간 동안 나는 그들의 유일한 근심거리이자 보살핌의 대상이었다. 어머니는 딸을 몹시 원하셨지만, 나는 계속해서 그들의 하나뿐인 자식으로 남았다. 내가 다섯 살쯤 되었을 때, 이탈리아 국경을 넘어 여행을 하던 중 부모님은 코모 호수 기슭에서 일주일을 보내셨다."
+      },
+      {
+        "tag": "P008-2",
+        "en": "Their benevolent\ndisposition often made them enter the cottages of the poor. This, to my\nmother, was more than a duty; it was a necessity, a\npassion—remembering what she had suffered, and how she had been\nrelieved—for her to act in her turn the guardian angel to the\nafflicted. During one of their walks a poor cot in the foldings of a vale\nattracted their notice as being singularly disconsolate, while the number\nof half-clothed children gathered about it spoke of penury in its worst\nshape.",
+        "ko": "그들의 자애로운 성품은 종종 빈민들의 오두막으로 그들을 이끌었다. 어머니에게 있어 이것은 의무 이상의 것, 즉 하나의 필요이자 열정이었다. 그녀는 자신이 겪었던 고통과 자신이 어떻게 구원받았는지를 기억하며, 이제는 그녀가 고통받는 자들에게 수호천사 역할을 해야 한다고 느꼈던 것이다. 어느 날 산책 중, 골짜기 굽이에 있는 한 가난한 오두막이 그들의 주의를 끌었다. 유난히 쓸쓸해 보이는 데다 헐벗은 아이들이 주위에 모여 있는 모습은 최악의 빈곤을 말해주고 있었다."
+      },
+      {
+        "tag": "P008-3",
+        "en": "One day, when my father had gone by himself to Milan, my mother,\naccompanied by me, visited this abode. She found a peasant and his wife,\nhard working, bent down by care and labour, distributing a scanty meal to\nfive hungry babes. Among these there was one which attracted my mother far\nabove all the rest.",
+        "ko": "아버지가 혼자 밀라노에 가셨던 어느 날, 어머니는 나를 데리고 이 집을 방문하셨다. 그녀는 근심과 노동에 짓눌려 허리가 굽은 농부와 그의 아내가 다섯 명의 굶주린 아이들에게 부족한 식사를 나눠주는 모습을 보았다. 그 아이들 중에서 어머니의 시선을 다른 모든 아이들보다 훨씬 더 사로잡은 아이가 하나 있었다."
+      },
+      {
+        "tag": "P008-4",
+        "en": "She appeared of a different stock. The four others were\ndark-eyed, hardy little vagrants; this child was thin and very fair. Her\nhair was the brightest living gold, and despite the poverty of her\nclothing, seemed to set a crown of distinction on her head.",
+        "ko": "그 아이는 혈통이 달라 보였다. 다른 네 명은 검은 눈동자에 튼튼한 작은 부랑아들 같았지만, 이 아이는 마르고 매우 피부가 희었다. 그녀의 머리카락은 가장 밝게 빛나는 황금빛이었고, 초라한 옷차림에도 불구하고 마치 머리 위에 기품의 왕관을 쓴 듯 보였다."
+      },
+      {
+        "tag": "P008-5",
+        "en": "Her brow was\nclear and ample, her blue eyes cloudless, and her lips and the moulding of\nher face so expressive of sensibility and sweetness that none could behold\nher without looking on her as of a distinct species, a being heaven-sent,\nand bearing a celestial stamp in all her features.",
+        "ko": "그녀의 이마는 맑고 넓었으며, 푸른 눈은 구름 한 점 없었고, 입술과 얼굴의 윤곽은 너무나 감수성 풍부하고 사랑스러워서, 그녀를 보는 사람이라면 누구나 그녀를 남다른 기품을 지닌 존재, 하늘이 보낸 존재, 그리고 그 모든 이목구비에 천상의 기운을 새긴 존재로 여길 수밖에 없었다."
+      }
+    ]
+  },
+  {
+    "original_id": 9,
+    "chunks": [
+      {
+        "tag": "P009-1",
+        "en": "The peasant woman, perceiving that my mother fixed eyes of wonder and\nadmiration on this lovely girl, eagerly communicated her history. She was\nnot her child, but the daughter of a Milanese nobleman. Her mother was a\nGerman and had died on giving her birth.",
+        "ko": "농부의 아내는 어머니가 이 사랑스러운 소녀에게 경이로움과 감탄의 눈길을 고정하는 것을 보고는 서둘러 아이의 내력을 들려주었다. 아이는 그녀의 친딸이 아니라 밀라노 귀족의 딸이었다. 아이의 어머니는 독일인이었고 아이를 낳다 죽었다."
+      },
+      {
+        "tag": "P009-2",
+        "en": "The infant had been placed with\nthese good people to nurse: they were better off then. They had not been\nlong married, and their eldest child was but just born. The father of their\ncharge was one of those Italians nursed in the memory of the antique glory\nof Italy—one among the _schiavi ognor frementi,_ who exerted\nhimself to obtain the liberty of his country.",
+        "ko": "이 갓난아기는 젖을 먹이기 위해 이 선량한 사람들에게 맡겨졌는데, 당시 그들은 형편이 더 나았다. 그들은 결혼한 지 얼마 안 되었고 첫 아이가 갓 태어난 참이었다. 그들이 맡은 아이의 아버지는 이탈리아의 고대 영광에 대한 기억을 품고 자란 이탈리아인들 중 한 명이었고, 조국의 자유를 얻기 위해 애쓰던 '항상 분노하는 노예들' 중 한 사람이었다."
+      },
+      {
+        "tag": "P009-3",
+        "en": "He became the victim of its\nweakness. Whether he had died or still lingered in the dungeons of Austria\nwas not known. His property was confiscated; his child became an orphan and\na beggar.",
+        "ko": "그는 조국의 나약함의 희생자가 되었다. 그가 죽었는지 아니면 아직 오스트리아의 감옥에서 연명하고 있는지는 알려지지 않았다. 그의 재산은 몰수당했고, 그의 아이는 고아와 거지가 되었다."
+      },
+      {
+        "tag": "P009-4",
+        "en": "She continued with her foster parents and bloomed in their rude\nabode, fairer than a garden rose among dark-leaved brambles.",
+        "ko": "그녀는 양부모와 함께 머물며 그들의 누추한 거처에서 어두운 잎새를 가진 가시덤불 사이의 정원 장미보다 더 아름답게 피어났다."
+      }
+    ]
+  },
+  {
+    "original_id": 10,
+    "chunks": [
+      {
+        "tag": "P010-1",
+        "en": "When my father returned from Milan, he found playing with me in the hall of\nour villa a child fairer than pictured cherub—a creature who seemed\nto shed radiance from her looks and whose form and motions were lighter\nthan the chamois of the hills. The apparition was soon explained. With his\npermission my mother prevailed on her rustic guardians to yield their\ncharge to her.",
+        "ko": "아버지가 밀라노에서 돌아왔을 때, 그는 우리 저택의 홀에서 그림 속 아기 천사보다 더 아름다운 아이, 표정에서 빛을 발하는 듯하며 그 모습과 움직임이 언덕의 섀미양보다 더 가벼운 생명체가 나와 함께 놀고 있는 것을 발견했다. 이 환상적인 일은 곧 설명되었다. 어머니는 아버지의 허락을 얻어, 아이의 시골 양육자들을 설득해 그들의 피후견인을 어머니에게 양보하도록 했다."
+      },
+      {
+        "tag": "P010-2",
+        "en": "They were fond of the sweet orphan. Her presence had seemed\na blessing to them, but it would be unfair to her to keep her in poverty\nand want when Providence afforded her such powerful protection. They\nconsulted their village priest, and the result was that Elizabeth Lavenza\nbecame the inmate of my parents’ house—my more than\nsister—the beautiful and adored companion of all my occupations and\nmy pleasures.",
+        "ko": "그들은 이 사랑스러운 고아를 아꼈다. 아이의 존재는 그들에게 축복 같았지만, 신의 섭리가 그녀에게 그토록 강력한 보호를 베푸는데도 빈곤과 궁핍 속에 아이를 잡아두는 것은 그녀에게 부당한 일일 터였다. 그들은 마을 신부와 상의했고, 그 결과 엘리자베스 라벤차는 우리 부모님 집의 식구, 즉 내게 누이 이상의 존재이자 내 모든 일과와 즐거움을 함께하는 아름답고 사랑받는 동반자가 되었다."
+      }
+    ]
+  },
+  {
+    "original_id": 11,
+    "chunks": [
+      {
+        "tag": "P011-1",
+        "en": "Everyone loved Elizabeth. The passionate and almost reverential\nattachment with which all regarded her became, while I shared it, my\npride and my delight. On the evening previous to her being brought to\nmy home, my mother had said playfully, “I have a pretty present for my\nVictor—tomorrow he shall have it.”",
+        "ko": "모두가 엘리자베스를 사랑했다. 모든 이가 그녀를 대하는 그 열정적이고 거의 경외심에 찬 애착을 나도 공유하면서, 그것은 나의 자부심이자 기쁨이 되었다. 그녀가 우리 집으로 오기 전날 저녁, 어머니는 장난스럽게 말씀하셨다. \"우리 빅터를 위해 예쁜 선물을 준비했단다. 내일이면 그 선물을 갖게 될 거야.\""
+      },
+      {
+        "tag": "P011-2",
+        "en": "And when, on the morrow, she\npresented Elizabeth to me as her promised gift, I, with childish\nseriousness, interpreted her words literally and looked upon Elizabeth\nas mine—mine to protect, love, and cherish. All praises bestowed on\nher I received as made to a possession of my own. We called each other\nfamiliarly by the name of cousin.",
+        "ko": "그리고 다음 날, 어머니가 약속한 선물로 엘리자베스를 내게 데려왔을 때, 나는 어린아이의 진지함으로 그녀의 말을 문자 그대로 해석하여 엘리자베스를 내 것, 즉 내가 보호하고 사랑하고 아껴야 할 내 소유로 여겼다. 그녀에게 쏟아지는 모든 칭찬을 나는 내 소유물에게 바쳐지는 것으로 받아들였다. 우리는 서로를 친숙하게 사촌이라는 이름으로 불렀다."
+      },
+      {
+        "tag": "P011-3",
+        "en": "No word, no expression could body\nforth the kind of relation in which she stood to me—my more than\nsister, since till death she was to be mine only.",
+        "ko": "어떤 단어로도, 어떤 표현으로도 그녀가 내게 어떤 관계인지 완벽하게 담아낼 수는 없었다. 그녀는 죽을 때까지 오직 내 것이었기에 누이 그 이상이었다."
+      }
+    ]
+  }
+]
+
+with open(r"c:\git_repo\Book_apps\frankenstein\prep_data\batches\batch_5.ch1_done.json", "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("Done")

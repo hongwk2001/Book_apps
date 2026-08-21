@@ -1,0 +1,660 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 21",
+    "ko": "제21장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "I was soon brought before the magistrate. He was a benevolent old man with a calm and gentle demeanor. However, he looked at me with a somewhat stern expression, and then, turning to my escorts, he asked who had appeared as witnesses for this case.",
+    "ko": "나는 곧 치안판사 앞으로 안내되었다. 그는 차분하고 온화한 태도를 지닌 자애로운 노인이었다. 그러나 그는 다소 엄격한 눈빛으로 나를 바라보더니, 나를 호송해 온 자들을 향해 돌아서서 이번 사건의 증인으로 누가 출두했는지 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-1",
+    "en": "About half a dozen men stepped forward. When the magistrate pointed to one of them, he testified that he had gone out fishing the night before with his son and brother-in-law, Daniel Nugent, and upon seeing a strong north wind blowing around 10 p.m., they had turned their boat back to port.",
+    "ko": "대여섯 명의 사내가 앞으로 나섰다. 치안판사가 그중 한 명을 지목하자, 그는 전날 밤 아들과 처남 다니엘 뉴전트와 함께 낚시를 나갔다가 밤 10시경 거센 북풍이 부는 것을 보고 항구로 배를 돌렸다고 증언했다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-2",
+    "en": "It was a very dark night because the moon had not yet risen. They did not land at the harbor but moored their boat in a small cove about two miles down, as usual. He walked ahead carrying some of the fishing gear, and his companions followed him at a slight distance.",
+    "ko": "달이 아직 뜨지 않아 매우 어두운 밤이었다. 그들은 항구에 상륙하지 않고 평소처럼 2마일쯤 아래에 있는 작은 만에 배를 댔다. 그가 낚시 도구 일부를 들고 먼저 걸어갔고, 일행이 약간의 거리를 두고 그 뒤를 따랐다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P002-3",
+    "en": "As he was walking along the sandy beach, his foot caught on something, and he fell flat on the ground. His companions came over to help him up, and checking with the light of their lantern, they found a man's body where he had fallen. The man appeared to be completely dead.",
+    "ko": "그가 모래사장을 따라 걷고 있을 때 발이 무언가에 걸렸고, 그는 바닥에 길게 넘어졌다. 일행이 그를 부축하러 다가왔고, 랜턴 불빛으로 확인해 보니 그가 넘어진 곳에는 어떤 남자의 시신이 있었다. 남자는 완전히 죽은 것처럼 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P002-4",
+    "en": "Their first guess was that the body of someone who had drowned had washed ashore with the waves. However, upon closer inspection, his clothes were not wet, and his body had not even grown cold yet. They immediately moved him to the cabin of an old woman who lived nearby, and they tried to revive him, but it was in vain.",
+    "ko": "그들의 첫 번째 추측은 익사한 누군가의 시신이 파도에 밀려 해안으로 떠내려왔으리라는 것이었다. 그러나 자세히 살펴보니 옷은 젖어 있지 않았고 심지어 몸도 아직 차갑게 식지 않은 상태였다. 그들은 즉시 그를 근처에 사는 어느 노파의 오두막으로 옮겼고, 그를 살려내려 애썼으나 허사였다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P002-5",
+    "en": "The deceased was a handsome young man who looked to be about twenty-five years old. Judging by the fact that there were no signs of assault other than black marks from fingers on his neck, it was clear he had been strangled.",
+    "ko": "죽은 이는 스물다섯 살쯤 되어 보이는 잘생긴 청년이었다. 목에는 손가락으로 졸린 검은 자국 외에 폭행의 흔적이 없는 것으로 보아 교살당한 것이 분명했다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P003-1",
+    "en": "The first part of this testimony was not interesting to me at all, but when the finger marks were mentioned, I thought of my brother's death and felt extremely shaken. My limbs trembled and my vision clouded as if covered by a mist, forcing me to lean against a chair to support myself. The magistrate observed me with sharp eyes and, naturally, read a sinister sign in my demeanor.",
+    "ko": "이 증언의 첫 부분은 내게 전혀 흥미롭지 않았으나, 손가락 자국이 언급되었을 때 나는 내 동생의 죽음을 떠올렸고 극도로 동요하는 것을 느꼈다. 사지가 떨리고 눈앞에 안개가 낀 듯 흐려져 나는 의자에 기대어 몸을 지탱해야만 했다. 치안판사는 예리한 눈빛으로 나를 관찰했고, 당연히 내 태도에서 불길한 조짐을 읽어냈다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-1",
+    "en": "His son confirmed his father's statement, but when Daniel Nugent was called forward, he swore with certainty that just before his companion fell, he had seen a boat with one man in it a short distance from the shore. Judging by the few stars, he said it was the exact same boat I had just landed in.",
+    "ko": "그의 아들은 아버지의 진술을 확인해 주었지만, 다니엘 뉴전트가 불려 나오자 그는 일행이 넘어지기 직전에 해안에서 조금 떨어진 곳에서 한 남자가 탄 배를 보았다고 확신에 차서 맹세했다. 몇 안 되는 별빛으로 판단하건대, 그것은 내가 방금 상륙했던 바로 그 배였다고 했다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-1",
+    "en": "A woman testified that she lived near the beach and, about an hour before she heard the news of the body being found, she was standing at the doorway of her cabin waiting for the fishermen to return, when she saw a boat with only one man in it setting sail from the shore where the body was later discovered.",
+    "ko": "어느 여인은 자신이 해변 근처에 살고 있으며 시신이 발견되었다는 소식을 듣기 한 시간쯤 전에 어부들이 돌아오기를 기다리며 오두막 문간에 서 있었는데, 그때 시신이 나중에 발견된 해안에서 오직 한 남자만이 타고 있는 배가 출항하는 것을 보았다고 증언했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P006-1",
+    "en": "Another woman confirmed the fishermen's story that they had brought the body into her house; it was not cold. They placed him in a bed and rubbed his body, and Daniel went into town to find a pharmacist, but his life was completely gone.",
+    "ko": "? ?? ??? ???? ??? ??? ??? ????? ??? ??????. ??? ??? ???. ??? ??? ??? ??? ?????, ???? ??? ??? ??? ??? ??? ??? ??? ????.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P007-1",
+    "en": "Several other men questioned about my landing agreed that, considering the strong north wind that arose during the night, it was highly likely I had drifted for hours and eventually had to return to almost the exact same spot I had departed from. Furthermore, they pointed out that it seemed I had brought the body from somewhere else, and since I didn't appear to know the geography of the coast, I likely entered the harbor without knowing the distance from where I dumped the body to this town.",
+    "ko": "내 상륙에 관해 심문받은 다른 여러 남자들은 밤사이 일어난 거센 북풍을 고려할 때, 내가 몇 시간 동안 표류하다가 결국 출발했던 것과 거의 같은 장소로 돌아와야만 했을 것이 아주 유력하다는 데 동의했다. 게다가 그들은 내가 시신을 다른 곳에서 가져온 것처럼 보이며, 내가 그 해안의 지리를 모르는 것 같으니 시신을 유기한 곳에서 이 마을까지의 거리를 모른 채 항구로 들어왔을 가능성이 높다고 지적했다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P008-1",
+    "en": "Mr. Kirwin, upon hearing these testimonies, demanded that I be taken to the room where the body was laid, to observe how I would react to seeing it. This idea must have occurred to him because of the extreme agitation I showed when the method of murder was described.",
+    "ko": "커윈 씨는 이 증언들을 듣고서, 내가 그것을 보고 어떤 반응을 보일지 관찰하기 위해 나를 시신이 안치된 방으로 데려가야 한다고 요구했다. 이런 생각은 살해 방법이 묘사되었을 때 내가 보인 극도의 동요 때문에 떠오른 것이었을 터다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P008-2",
+    "en": "I headed to the inn, guided by the magistrate and several others. I could not help but be shocked by the bizarre coincidences that had occurred during this eventful night, but knowing that I had been talking with several people on the island where I stayed around the time the body was found, I was perfectly calm about the outcome of the incident.",
+    "ko": "나는 치안판사와 여러 사람의 인도를 받아 여관으로 향했다. 나는 이 다사다난했던 밤 동안 일어난 기이한 우연의 일치에 충격을 금할 수 없었으나, 시신이 발견되었을 무렵 나는 내가 머물던 섬의 여러 사람과 대화를 나누고 있었음을 알았기에 그 사건의 결과에 대해서는 완벽하게 평온한 상태였다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P009-1",
+    "en": "I entered the room where the body was kept and approached the coffin. How could I describe my feelings when I saw it?",
+    "ko": "나는 시신이 안치된 방으로 들어가 관으로 다가갔다. 그것을 보았을 때의 내 심정을 어찌 묘사할 수 있을까?",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P009-2",
+    "en": "I still feel as though I am parched with terror, and looking back on that terrible moment only brings shudders and pain. The moment I saw the lifeless body of Henry Clerval stretched out before me, the interrogation, the presence of the magistrate, and the witnesses all vanished from my memory like a dream.",
+    "ko": "나는 여전히 공포로 바싹 타들어 가는 듯하며, 그 끔찍한 순간을 돌이켜보면 몸서리쳐지고 고통스러울 뿐이다. 내 눈앞에 뻗어 있는 헨리 클러벌의 생기 없는 육신을 본 순간, 심문도, 치안판사와 증인들의 존재도 모두 꿈처럼 내 기억에서 사라졌다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009-3",
+    "en": "Gasping for breath, I threw myself over the body and cried out. \"My dearest Henry, has my murderous scheme taken your life as well? I have already destroyed two, and other victims await their fate, but Clerval, my friend, my benefactor, even you—\"",
+    "ko": "나는 숨을 헐떡이며 시신 위로 몸을 던지고 외쳤다. \"나의 가장 사랑하는 헨리, 나의 살인적인 음모가 너의 생명마저 앗아갔단 말이냐? 나는 이미 둘을 파멸시켰고, 다른 희생자들도 그 운명을 기다리고 있는데, 클러벌, 나의 친구, 나의 은인이여, 너마저—\"",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010-1",
+    "en": "My human body could no longer bear the pain I was suffering, and I was carried out of the room in severe convulsions.",
+    "ko": "인간의 몸으로는 내가 겪는 고통을 더 이상 지탱할 수 없었고, 나는 극심한 경련을 일으키며 방 밖으로 실려 나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011-1",
+    "en": "After that, a fever came.",
+    "ko": "그 후 열병이 찾아왔다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P011-2",
+    "en": "I hovered between life and death for two months. According to what I heard later, my ravings were horrific. I blamed myself as the murderer of William, Justine, and Clerval.",
+    "ko": "나는 두 달 동안 사경을 헤맸다. 나중에 들은 바에 따르면 나의 헛소리는 끔찍했다고 한다. 나는 윌리엄, 저스틴, 그리고 클러벌의 살인자라고 자책했다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P011-3",
+    "en": "Sometimes I begged the caregivers to help me destroy the demon tormenting me, and at other times I screamed loudly in pain and terror, feeling the monster's fingers already strangling my neck. Fortunately, since I spoke in my native language, only Mr. Kirwin understood my words, but my gestures and desperate wailing were enough to terrify the other witnesses.",
+    "ko": "때로는 간병인들에게 나를 괴롭히는 악마를 파멸시키는 데 도움을 달라고 애원했고, 때로는 괴물의 손가락이 이미 내 목을 조르고 있는 것을 느끼며 고통과 공포 속에서 큰 소리로 비명을 질렀다. 다행히도 내가 모국어로 말했기 때문에 커윈 씨만이 내 말을 알아들었으나, 나의 몸짓과 처절한 울부짖음은 다른 증인들을 겁에 질리게 하기에 충분했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P012-1",
+    "en": "Why didn't I die? More miserable than any human before me, why couldn't I sink into oblivion and peace?",
+    "ko": "나는 왜 죽지 않았을까? 이전의 그 어떤 인간보다 더 비참했던 나는, 왜 망각과 안식 속으로 가라앉지 못했을까?",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P012-2",
+    "en": "Death snatches away many blooming children, the only hope of their doting parents. How many brides and young lovers have blossomed with health and hope one day, only to become food for maggots and decay in the grave the next! What material was I made of, that I could endure so many shocks that constantly repeated their torture like a turning wheel?",
+    "ko": "죽음은 자식에게 푹 빠진 부모의 유일한 희망인, 피어나는 많은 아이들을 앗아간다. 얼마나 많은 신부와 젊은 연인들이 어느 날에는 건강과 희망의 꽃을 피우다가도, 다음 날에는 구더기의 먹이가 되고 무덤에서 부패해 갔던가! 나는 대체 어떤 물질로 만들어졌기에, 마치 수레바퀴가 돌듯 끊임없이 고문을 되풀이하는 그토록 많은 충격을 견뎌낼 수 있었던 것일까?",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P013-1",
+    "en": "However, I was destined to live, and two months later I found myself lying on a shabby bed in a prison, as if waking from a dream. Around me were guards, wardens, bolts, and all the terrible devices of a dungeon.",
+    "ko": "그러나 나는 살아야 할 운명이었고, 두 달 후 꿈에서 깨어난 듯 감옥 안의 초라한 침대에 누워 있는 내 자신을 발견했다. 내 주위에는 간수들과 교도관들, 빗장들, 그리고 지하 감옥의 모든 끔찍한 장치들이 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013-2",
+    "en": "I remember it was morning when I woke up like this and grasped the situation. I had forgotten the exact details of what happened, and it just felt like some massive misfortune had suddenly overwhelmed me. But when I looked around and saw the barred windows and the shabbiness of the room I was in, everything flashed through my memory, and I groaned terribly.",
+    "ko": "내가 이렇게 깨어나 상황을 파악했던 때는 아침이었다고 기억한다. 나는 무슨 일이 일어났었는지 세세한 부분은 잊어버렸고, 그저 어떤 거대한 불행이 갑자기 나를 압도한 것만 같았다. 그러나 주위를 둘러보고 쇠창살이 쳐진 창문과 내가 있는 방의 누추함을 보았을 때, 모든 것이 내 기억을 스쳐 지나갔고 나는 몹시 신음했다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P014-1",
+    "en": "This sound woke an old woman sleeping in a chair beside me. She was a caregiver hired as the wife of one of the wardens, and her face revealed all the bad tendencies that often characterize people of that class.",
+    "ko": "이 소리에 내 옆 의자에서 자고 있던 어느 노파가 잠을 깼다. 그녀는 교도관 중 한 명의 아내로 고용된 간병인이었는데, 그녀의 얼굴은 그 계층의 사람들을 종종 특징짓는 온갖 나쁜 성향을 드러내고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P014-2",
+    "en": "The wrinkles on her face were stiff and rough, like those of people who had grown numb without sympathy even after seeing miserable sights. Her tone indicated complete indifference. She spoke to me in English, and her voice seemed like one I had heard while I was suffering.",
+    "ko": "그녀의 얼굴 주름은 비참한 광경을 보고도 동정심 없이 무감각해진 사람들의 그것처럼 굳고 거칠었다. 그녀의 말투는 완전한 무관심을 나타냈다. 그녀는 내게 영어로 말을 걸었는데, 그 목소리는 내가 고통받는 동안 들었던 적이 있는 것 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P015-1",
+    "en": "\"Are you feeling better now, sir?\" she asked.",
+    "ko": "\"이제 좀 낫소, 선생?\" 그녀가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P016-1",
+    "en": "I replied in the same language with a weak voice. \"I suppose so. But if all this is true, and if I wasn't dreaming, I am sorry that I am still alive to feel this misery and horror.\"",
+    "ko": "나는 힘없는 목소리로 같은 언어로 대답했다. \"그런 것 같소. 하지만 만약 이 모든 것이 사실이라면, 만약 내가 꿈을 꾼 것이 아니라면, 내가 아직 살아 이 비참함과 공포를 느껴야 한다는 것이 유감이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P017-1",
+    "en": "\"If it's about that,\" the old woman answered. \"If you're talking about the gentleman you killed, I think you'd have been better off dead. Because it looks like you've got a rough road ahead!",
+    "ko": "\"그 문제라면,\" 노파가 대답했다. \"당신이 죽인 그 신사 양반에 대해 하는 말이라면, 내 생각엔 당신이 죽는 편이 나았을 거요. 보아하니 당신 앞날이 순탄치 않을 테니까!",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P017-2",
+    "en": "But that's none of my business. I was just sent here to nurse you back to health.",
+    "ko": "하지만 그건 내가 알 바 아니지. 나는 당신을 간호해서 낫게 하라고 파견된 거니까 말이오.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P017-3",
+    "en": "I am doing my duty with a clear conscience. If everyone acted like me, the world would be a much better place.\"",
+    "ko": "나는 떳떳한 양심으로 내 의무를 다하고 있소. 다들 나처럼만 한다면 세상이 참 좋아질 텐데 말이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P018-1",
+    "en": "I turned away in disgust from a woman who could spit out such heartless words to a person newly rescued from the brink of death. However, I lacked the energy to think deeply about everything that had happened. The whole course of my life seemed like a dream.",
+    "ko": "나는 죽음의 문턱에서 갓 구출된 사람에게 이토록 무정한 말을 내뱉을 수 있는 여자에게서 혐오감을 느끼며 돌아누웠다. 그러나 나는 너무 기운이 없어 일어났던 모든 일들에 대해 깊이 생각할 수가 없었다. 내 인생의 모든 과정이 한 편의 꿈처럼 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P018-2",
+    "en": "Because it had never hit my mind with the weight of reality, I sometimes doubted whether it was truly all real.",
+    "ko": "그것이 현실의 무게로 내 마음에 다가온 적이 한 번도 없었기에, 나는 때때로 그것이 진정 모두 사실인지 의심스러웠다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P019-1",
+    "en": "As the visions appearing before my eyes grew clearer, I began to run a fever. Darkness pressed down on me. There was no one beside me to soothe me with a gentle, loving voice, and no loving hand to support me.",
+    "ko": "눈앞에 떠오르는 환영들이 더 선명해짐에 따라 나는 열이 나기 시작했다. 어둠이 나를 짓눌렀다. 부드러운 사랑의 목소리로 나를 달래줄 사람은 아무도 곁에 없었고, 나를 지탱해 줄 사랑하는 손길도 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P019-2",
+    "en": "A doctor came and prescribed medicine, and the old woman prepared it for me. However, utter carelessness was evident in the doctor, and a cruel expression was clearly etched on the old woman's face. Aside from the hangman who would collect his fee, who would care about the fate of a murderer?",
+    "ko": "의사가 와서 약을 처방했고, 노파가 그것을 내게 준비해 주었다. 그러나 의사에게서는 완전한 부주의함이 엿보였고, 노파의 얼굴에는 잔인한 표정이 역력히 새겨져 있었다. 자기 몫의 수수료를 챙기게 될 교수형 집행인을 제외하고, 누가 살인자의 운명에 관심을 갖겠는가?",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P020-1",
+    "en": "This was my first thought, but I soon realized that Mr. Kirwin had shown me profound kindness. He had the best room in the prison—though the best room was still a truly miserable place—prepared for me, and it was he who provided the doctor and nurse.",
+    "ko": "이것이 나의 첫 번째 생각이었으나, 나는 곧 커윈 씨가 내게 극진한 친절을 베풀었다는 것을 알게 되었다. 그는 감옥에서 가장 좋은 방가장 좋은 방이라지만 참으로 비참한 곳이기는 했다을 나를 위해 준비하게 했고, 의사와 간호사를 제공한 것도 바로 그였다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P020-2",
+    "en": "It is true that he rarely came to see me because, even though he fervently wished to relieve the suffering of all humans, he did not want to witness the pain and miserable ravings of a murderer. Therefore, he only came occasionally to ensure I was not neglected, and his visits were short and spaced far apart.",
+    "ko": "비록 그가 모든 인간의 고통을 덜어주기를 열렬히 바랐을지라도 살인자의 고통과 비참한 헛소리를 지켜보고 싶지는 않았기 때문에 그가 나를 보러 오는 일은 드물었던 것이 사실이다. 따라서 그는 때때로 내가 방치되지 않았는지 확인하러 왔을 뿐이며, 그의 방문은 짧았고 간격도 길었다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P021-1",
+    "en": "One day, as I was gradually recovering my strength, I sat in a chair with my eyes half open and my cheeks pale as a dead man's.",
+    "ko": "점차 기력을 회복해가던 어느 날, 나는 반쯤 눈을 뜨고 죽은 사람처럼 창백한 뺨을 한 채 의자에 앉아 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P021-2",
+    "en": "Overwhelmed by gloom and misery, I often thought that I would rather choose death than want to remain in a world that was full of wretchedness for me. I once even wondered if I should just confess to being guilty and accept the law's punishment, since I was no more innocent than poor Justine. My thoughts were exactly this when my room's door opened and Mr. Kirwin came in.",
+    "ko": "나는 우울과 비참함에 압도되어, 내게는 비참함으로 가득 찬 이 세상에 남기를 원하느니 차라리 죽음을 택하는 것이 낫겠다고 자주 생각했다. 한 번은 내가 불쌍한 저스틴보다도 결백하지 못하니, 차라리 유죄를 자백하고 법의 처벌을 받아야 할지 고민했다. 내 방 문이 열리고 커윈 씨가 들어왔을 때 나의 생각은 그러했다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P021-3",
+    "en": "Sympathy and pity showed on his face. He pulled a chair up next to me and spoke to me in French.",
+    "ko": "그의 얼굴에는 동정과 연민이 나타나 있었다. 그는 의자를 내 곁으로 끌어당기고 프랑스어로 내게 말을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P022-1",
+    "en": "\"I am worried that this place might be quite shocking to you. Is there anything I can do to make you more comfortable?\"",
+    "ko": "\"이곳이 당신에게 매우 충격적일까 걱정이오. 당신을 더 편안하게 해 줄 수 있는 일이 있겠소?\"",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P023-1",
+    "en": "\"I appreciate it, but everything you mentioned means nothing to me. There is no comfort anywhere in the whole world that I can accept.\"",
+    "ko": "\"감사하지만, 당신이 언급한 모든 것은 제게 아무 의미가 없습니다. 온 세상 어디에도 제가 받아들일 수 있는 위로는 없습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P024-1",
+    "en": "\"I know that a stranger's pity cannot be much comfort to someone crushed by such a bizarre misfortune like you. But I hope you will leave this gloomy residence soon. You should easily be able to present evidence to clear yourself of the criminal charges.\"",
+    "ko": "\"당신처럼 이토록 기이한 불행에 짓눌린 사람에게 낯선 이의 동정이 큰 위안이 될 수 없다는 것은 나도 알고 있소. 하지만 당신이 이 우울한 거처를 곧 떠나게 되기를 바라오. 당신이 형사 고발에서 벗어날 수 있는 증거를 쉽사리 제시할 수 있을 테니 말이오.\"",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P025-1",
+    "en": "\"That is my least concern. Due to a series of strange events, I have become the most miserable mortal in the world. Under these circumstances where I am being persecuted and tortured just as I have been, what harm could death do to me?\"",
+    "ko": "\"그것은 저의 가장 작은 관심사일 뿐입니다. 기이한 사건들의 연속으로 인해 저는 세상에서 가장 비참한 필멸자가 되었습니다. 제가 지금 겪고 있고 또 겪어왔던 것처럼 박해받고 고문당하는 상황에서, 죽음이 제게 무슨 해가 될 수 있겠습니까?\"",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P026-1",
+    "en": "\"There truly could be nothing more unfortunate and painful than these strange events that have recently occurred. You were thrown onto this shore known for its hospitality by some surprising accident, and were immediately caught and accused of murder. The first sight that appeared before your eyes was the body of your friend, murdered in such an incomprehensible way and laid across your path as if by some demon.\"",
+    "ko": "\"최근에 일어난 이 이상한 사건들보다 더 불행하고 고통스러운 일은 참으로 없을 것이오. 당신은 어떤 놀라운 사고로 환대로 유명한 이 해안에 내던져졌고, 즉시 붙잡혀 살인 혐의를 받았소. 당신의 눈앞에 처음 나타난 광경은 그토록 이해할 수 없는 방식으로 살해되어 마치 어떤 악마에 의해 당신의 길목에 놓여진 듯한 당신 친구의 시신이었소.\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P027-1",
+    "en": "When Mr. Kirwin said this, despite the agitation I experienced recalling past pains, I felt considerable surprise because he seemed to know quite a lot about me.",
+    "ko": "커윈 씨가 이 말을 했을 때, 과거의 고통을 회상하며 내가 겪은 동요에도 불구하고, 나는 그가 나에 대해 꽤 많은 것을 알고 있는 듯하여 상당한 놀라움을 느꼈다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P027-2",
+    "en": "Whatever surprise showed on my face, Mr. Kirwin hurriedly said the following.",
+    "ko": "내 얼굴에 어떤 놀라움이 나타났던지 커윈 씨는 서둘러 이렇게 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P028-1",
+    "en": "\"As soon as you fell ill, all the documents on your person were brought to me. I investigated them to find clues to notify your relatives of your misfortune and illness. I found several letters, and just from the beginning of one of them, I could tell it was from your father.",
+    "ko": "\"당신이 병에 걸리자마자 당신 몸에 있던 모든 문서가 내게 전해졌소. 나는 당신의 친척들에게 당신의 불행과 질병을 알릴 단서를 찾기 위해 그것들을 조사했소. 여러 통의 편지를 발견했는데, 그중 하나는 시작 부분만 보고도 당신 아버지로부터 온 것임을 알 수 있었소.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P028-2",
+    "en": "I immediately wrote a letter to Geneva, and almost two months have passed since I sent it. But you became sick, and even at this moment you are trembling. You are not in a condition to handle any kind of agitation.\"",
+    "ko": "나는 즉시 제네바로 편지를 썼고, 편지를 보낸 지 거의 두 달이 지났소. 하지만 당신은 병이 났고, 지금 이 순간에도 떨고 있소. 당신은 어떤 종류의 동요도 감당할 상태가 아니오.\"",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P029-1",
+    "en": "\"This uncertainty is a thousand times worse than the most terrible event. Please tell me what new tragic death has occurred, and whose death I must grieve for now!\"",
+    "ko": "\"이러한 불확실성은 가장 끔찍한 사건보다 천 배는 더 나쁩니다. 어떤 새로운 죽음의 참극이 벌어졌는지, 이제 제가 또 누구의 죽음을 슬퍼해야 하는지 제발 말씀해 주십시오!\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P030-1",
+    "en": "\"Your family is completely safe,\" Mr. Kirwin said softly. \"And someone, a friend, has come to see you.\"",
+    "ko": "\"당신의 가족은 모두 무사하오,\" 커윈 씨가 부드럽게 말했다. \"그리고 누군가, 한 친구가 당신을 만나러 왔소.\"",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P031-1",
+    "en": "I don't know by what chain of thought such an idea occurred to me, but the thought instantly pierced my mind that the murderer had come to mock my misery, ridicule me using Clerval's death, and place new pressure on me to give in to his hellish demands. I covered my eyes with both hands and cried out in pain.",
+    "ko": "어떤 생각의 연쇄로 그런 관념이 떠올랐는지는 모르겠지만, 살인자가 내 비참함을 조롱하고 클러벌의 죽음을 빌미로 나를 비웃으며, 그의 지옥 같은 요구에 내가 응하도록 새롭게 압박하기 위해 왔다는 생각이 순식간에 내 마음속을 파고들었다. 나는 두 손으로 눈을 가리고 고통 속에서 부르짖었다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P032-1",
+    "en": "\"Oh!",
+    "ko": "\"오!",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P032-2",
+    "en": "Take him away! I cannot look at him. Please stop him from coming in!\"",
+    "ko": "그를 데려가 주십시오! 저는 그를 볼 수 없습니다. 제발 그가 들어오지 못하게 막아 주십시오!\"",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P033-1",
+    "en": "Mr. Kirwin looked at me with a puzzled face. He could only assume my outburst was an admission of my guilt, and he spoke in a somewhat stern tone.",
+    "ko": "커윈 씨는 곤혹스러운 얼굴로 나를 바라보았다. 그는 내 외침을 나의 죄를 시인하는 추정으로 여길 수밖에 없었고, 다소 엄격한 어조로 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P034-1",
+    "en": "\"Young man, I would have thought a visit from your father would be welcomed rather than provoke such fierce hostility.\"",
+    "ko": "\"젊은이, 아버지의 방문이라면 그렇게 격렬한 반감을 일으키기보다 환영받을 일이라고 생각했소만.\"",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P035-1",
+    "en": "\"My father!\" I shouted, as all my facial features and muscles relaxed from pain into joy. \"Is my father really here?",
+    "ko": "\"아버지라고요!\" 내 모든 이목구비와 근육이 고통에서 환희로 이완되며 나는 소리쳤다. \"정말 아버지가 오셨습니까?",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P035-2",
+    "en": "How sweet of him, what a truly sweet man! But where is my father, why doesn't he come to me right away?\"",
+    "ko": "이 얼마나 다정하신가, 참으로 다정하신 분! 그런데 아버지는 어디 계십니까, 왜 당장 제게 오시지 않는 겁니까?\"",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P036-1",
+    "en": "My change in attitude surprised but also pleased the magistrate. Perhaps thinking my earlier outcry was a temporary relapse of delirium, he now immediately regained his previously gentle demeanor. He stood up and left the room with the nurse, and a moment later my father walked into the room.",
+    "ko": "나의 태도 변화는 치안판사를 놀라게 하면서도 기쁘게 했다. 아마도 그는 나의 이전 외침이 일시적인 섬망의 재발이라고 생각했는지, 이제 즉시 예전의 온화한 태도를 되찾았다. 그는 자리에서 일어나 간호사와 함께 방을 나갔고, 잠시 후 나의 아버지가 방으로 들어오셨다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P037-1",
+    "en": "At this moment, nothing could give me greater joy than my father's arrival. I reached out to my father and cried out.",
+    "ko": "이 순간 아버지의 도착보다 내게 더 큰 기쁨을 줄 수 있는 것은 아무것도 없었다. 나는 아버지를 향해 손을 뻗으며 울부짖었다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P038-1",
+    "en": "\"Then are you safe, Father—and Elizabeth—and Ernest too?\"",
+    "ko": "\"그럼 아버지는 무사하신가요—그리고 엘리자베스도—어니스트도요?\"",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P039-1",
+    "en": "My father calmed me by assuring me they were all doing well, and tried to boost my desperate spirits by talking at length about the people who meant so much to me. However, my father soon realized that a prison could not be a place where cheerfulness could stay.",
+    "ko": "아버지는 그들이 모두 잘 지내고 있다는 확신을 주며 나를 진정시키셨고, 내 마음에 그토록 중요한 사람들에 대한 이야기를 길게 하시면서 나의 절망적인 기운을 북돋워 주려 애쓰셨다. 하지만 아버지는 감옥이 유쾌함이 머물 곳이 될 수 없음을 곧 느끼셨다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P039-2",
+    "en": "\"My son, what kind of place is this that you are staying in!\" my father said, looking sadly at the barred windows and the room's miserable state. \"You went on a journey to find happiness, but it seems an unfortunate fate is chasing you. And poor Clerval—\"",
+    "ko": "\"내 아들아, 네가 지내는 이 곳이 대체 어떤 곳이란 말이냐!\" 쇠창살이 쳐진 창문과 방의 비참한 몰골을 슬프게 바라보며 아버지가 말씀하셨다. \"너는 행복을 찾아 여행을 떠났건만, 불행한 운명이 널 뒤쫓는 것 같구나. 그리고 불쌍한 클러벌은—\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P040-1",
+    "en": "The name of my unfortunate and murdered friend was too great a disturbance for me to handle in my fragile state. I shed tears.",
+    "ko": "불행하고 살해당한 내 친구의 이름은 나의 나약한 상태로는 감당하기에 너무나 큰 동요였다. 나는 눈물을 흘렸다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P041-1",
+    "en": "\"Alas! Yes, Father,\" I replied.",
+    "ko": "\"아아! 네, 아버지,\" 나는 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P041-2",
+    "en": "\"The most terrible fate hovers over me, and I must live to fulfill it. If not for that, I surely would have died on top of Henry's coffin.\"",
+    "ko": "\"가장 끔찍한 운명이 제 위를 맴돌고 있고, 저는 그것을 완수하기 위해 살아야만 합니다. 그렇지 않았다면 저는 틀림없이 헨리의 관 위에서 죽었을 것입니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P042-1",
+    "en": "Because the precarious state of my health required every precaution that could guarantee stability, we were not allowed to talk for a long time.",
+    "ko": "내 건강의 위태로운 상태가 안정을 보장할 수 있는 모든 예방책을 필요로 했기 때문에, 우리는 오랜 시간 대화를 나누도록 허락받지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P042-2",
+    "en": "Mr. Kirwin came in and insisted that my energy should not be exhausted by excessive strain. However, my father's appearance was like the manifestation of a good angel to me, and I gradually recovered my health.",
+    "ko": "커윈 씨가 들어와서 과도한 무리로 내 기력이 소진되어서는 안 된다고 고집했다. 하지만 아버지의 등장은 내게 마치 선한 천사의 현현과도 같았고, 나는 점차 건강을 회복했다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P043-1",
+    "en": "As the illness left me, I sank into a gloomy, pitch-black depression that nothing could shake off.",
+    "ko": "병마가 나를 떠나면서, 나는 어떤 것으로도 떨쳐버릴 수 없는 음울하고 칠흑 같은 우울함에 빠져들었다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P043-2",
+    "en": "The image of brutally murdered Clerval lingered before my eyes forever. My friends feared a dangerous relapse more than once because of the agitation these thoughts drove me into. Alas!",
+    "ko": "무참하게 살해당한 클러벌의 모습이 영원히 내 눈앞에 어른거렸다. 이러한 생각들이 나를 몰아넣은 동요 때문에 내 친구들은 위험한 재발을 두려워한 적이 한두 번이 아니었다. 아아!",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P043-3",
+    "en": "Why did they preserve such a miserable and disgusting life? It must have been to fulfill my destiny that is now coming to an end.",
+    "ko": "왜 그들은 이토록 비참하고 혐오스러운 생명을 보존했단 말인가? 그것은 틀림없이 이제 끝나가는 나의 운명을 완수하기 위함이었을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P043-4",
+    "en": "Before long, oh, very soon, death will quiet this painful throbbing and free me from this massive weight of agony dragging me down into the dirt. And when the judgment of justice is executed, I too shall enter into rest.",
+    "ko": "머지않아, 오, 아주 머지않아, 죽음이 이 고통스러운 고동을 잠재우고 나를 흙으로 끌어내리는 이 거대한 고뇌의 무게에서 나를 해방시킬 것이다. 그리고 정의의 판결이 집행되면 나 역시 안식에 들게 되리라.",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P043-5",
+    "en": "The image of death was far away then, but that wish always existed in my thoughts. I often sat for hours without moving or speaking, hoping for some massive upheaval that would bury me and my destroyer in its ruins.",
+    "ko": "그때 죽음의 모습은 멀리 있었지만, 그 소망은 항상 내 생각 속에 존재했다. 나는 종종 몇 시간 동안 움직이지도 말하지도 않은 채 앉아, 나와 나의 파괴자를 그 잔해 속에 묻어버릴 어떤 거대한 격변을 바랐다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P044-1",
+    "en": "The season of circuit trials approached.",
+    "ko": "순회 재판의 계절이 다가왔다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P044-2",
+    "en": "I had already been in prison for three months, and even though I was still frail and constantly at risk of a relapse, I had to travel nearly a hundred miles to the rural town where the court was held. Mr. Kirwin took on all the trouble of gathering witnesses and preparing my defense.",
+    "ko": "나는 이미 세 달 동안 감옥에 있었고, 여전히 쇠약하고 재발의 위험이 끊이지 않았음에도 불구하고 법정이 열리는 지방 소도시까지 거의 백 마일을 여행해야만 했다. 커윈 씨는 증인들을 모으고 내 변호를 준비하는 모든 수고를 자처했다.",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P044-3",
+    "en": "Because the case was not referred to a court that decided life and death, I was able to avoid the shame of standing publicly as a criminal. The grand jury dismissed the indictment when it was proven that I was in the Orkney Islands at the time my friend's body was found, and two weeks after being transferred, I was released from prison.",
+    "ko": "생사를 결정짓는 법정에 사건이 회부되지 않았기 때문에 나는 공개적으로 범죄자로 서야 하는 수치심은 면할 수 있었다. 대배심은 내 친구의 시신이 발견된 시간에 내가 오크니 제도에 있었음이 증명되자 기소를 기각했고, 이감된 지 2주일 후에 나는 감옥에서 풀려났다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P045-1",
+    "en": "My father was overjoyed to see that I was free from the torment of criminal charges and allowed to breathe fresh air again and return to our homeland. However, I could not join in those feelings, because the walls of a prison or the walls of a palace were equally disgusting to me.",
+    "ko": "형사 고발이라는 괴로운 일에서 벗어나 내가 다시 신선한 공기를 마실 수 있게 되고 고국으로 돌아갈 수 있도록 허락받은 것을 보고 아버지는 기뻐 어쩔 줄 모르셨다. 하지만 나는 그러한 감정에 동참하지 못했는데, 감옥의 벽이나 궁전의 벽이나 내게는 똑같이 혐오스러웠기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P045-2",
+    "en": "The cup of my life was poisoned forever, and although the sun shone on me just as it did on happy and cheerful people, there was only a thick, terrifying darkness around me that no light could pierce except for the blinking of those two eyes that glared at me. Sometimes they were Henry's expressive eyes fading in death, with his black irises almost covered by his eyelids and the long black eyelashes framing them, and other times they were the monster's cloudy, watery eyes I had first seen in my room in Ingolstadt.",
+    "ko": "내 삶의 잔에는 영원히 독이 타졌고, 행복하고 유쾌한 사람들에게 비추듯 태양이 나를 비추었으나 내 주위에는 오직 나를 노려보던 그 두 눈의 깜빡임 외에는 어떤 빛도 뚫지 못하는 짙고 무시무시한 어둠뿐이었다. 때로는 그것이 죽음 속에서 희미해져 가는 헨리의 표정 있는 두 눈, 그 검은 눈동자가 눈꺼풀과 그것을 테 두른 긴 검은 속눈썹에 거의 덮여 있는 모습이었다가, 때로는 내가 잉골슈타트의 내 방에서 처음 보았던 괴물의 물기 맺힌 탁한 두 눈이기도 했다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P046-1",
+    "en": "My father tried to awaken feelings of affection within me. He spoke about Geneva, which I would soon visit, and about Elizabeth and Ernest, but these words only drew deep groans from me.",
+    "ko": "아버지는 내 안에서 애정의 감정을 일깨우려 애쓰셨다. 아버지는 내가 곧 방문하게 될 제네바, 엘리자베스와 어니스트에 대해 말씀하셨지만, 이 말들은 내게서 깊은 신음만을 자아낼 뿐이었다.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P046-2",
+    "en": "I would get soaked in a gloomy joy, or be seized by an intense, terrible homesickness wishing to see the blue lake and the rushing Rhone River that I loved so much in my childhood one more time. However, my overall emotional state was lethargy, so a prison was as welcome a dwelling as the most sacred landscape of nature, and this lethargy was rarely broken except when fits of agony and despair occurred. In these moments I often tried to end this existence that I despised, and constant nursing and surveillance were required to prevent me from committing horrific acts of violence.",
+    "ko": "때때로 나는 진정 행복을 바랐고, 사랑하는 사촌을 떠올리며 우울한 기쁨에 젖기도 했으며, 혹은 어린 시절 그토록 사랑했던 푸른 호수와 급류하는 론 강을 다시 한 번 보고 싶다는 강렬한 지독한 향수병에 사로잡히기도 했다. 하지만 나의 전반적인 감정 상태는 무기력함이어서, 감옥도 자연의 가장 신성한 풍경만큼이나 환영받을 만한 거처였고, 이러한 무기력은 고뇌와 절망의 발작이 일어날 때를 제외하고는 좀처럼 깨지지 않았다. 이런 순간에 나는 종종 내가 혐오하는 이 존재를 끝내고자 애썼고, 내가 끔찍한 폭력 행위를 저지르지 않도록 끊임없는 간호와 감시가 필요했다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P047-1",
+    "en": "However, I had one duty remaining, and that memory finally overcame my selfish despair. I had to return to Geneva without delay to protect the lives of those I loved so passionately, and to wait for that murderer. This was so that if some coincidence led me to where he was hiding, or if he showed himself again trying to destroy me, I could end the existence of that monstrous figure—the figure I had endowed with a replica of an even more monstrous soul—with unmistakable aim.",
+    "ko": "그러나 내게는 하나의 의무가 남아 있었고, 그 기억은 마침내 나의 이기적인 절망을 극복해 냈다. 내가 그토록 열렬히 사랑했던 이들의 생명을 지키고, 그 살인자를 기다리기 위해 지체 없이 제네바로 돌아가야만 했다. 만약 어떤 우연이 나를 그가 숨어 있는 곳으로 이끌거나, 그가 다시 그 모습을 드러내어 나를 파멸시키려 든다면, 내가 그 괴물 같은 형상—더욱 괴물 같은 영혼의 모조품을 부여해 주었던 그 형상—의 존재를 틀림없는 조준으로 끝장낼 수 있도록 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P047-2",
+    "en": "My father wanted to delay our departure, afraid that I wouldn't be able to endure the fatigue of the journey. This was because I was like a shattered shipwreck—merely the shadow of a human. My strength was completely gone.",
+    "ko": "아버지는 내가 여행의 피로를 견디지 못할까 봐 우리의 출발을 미루고 싶어 하셨다. 나는 부서진 난파선과도 같았고—인간의 그림자에 불과했기 때문이다. 내 체력은 바닥이 났다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P047-3",
+    "en": "I was nothing but a skeleton, and fever gnawed at my weakened body day and night.",
+    "ko": "나는 그저 해골이나 다름없었고, 열병이 밤낮으로 내 쇠약해진 몸을 갉아먹었다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P048-1",
+    "en": "Nevertheless, when I rushed him to leave Ireland with such anxiety and impatience, my father thought it best to follow my wishes. We boarded a ship bound for Havre de Grace and set sail from the Irish coast on a favorable wind.",
+    "ko": "그럼에도 불구하고 내가 이토록 불안하고 조바심을 내며 아일랜드를 떠나자고 재촉하자, 아버지는 내 뜻에 따르는 것이 최선이라고 생각하셨다. 우리는 아브르드그라스로 향하는 배에 올라탔고 순조로운 바람을 타고 아일랜드 해안에서 출항했다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P048-2",
+    "en": "It was midnight. I lay on the deck looking at the stars and listening to the sound of breaking waves. I welcomed the darkness that hid Ireland from my sight, and my pulse beat with heated joy when I thought that I would soon see Geneva.",
+    "ko": "자정이었다. 나는 갑판에 누워 별을 바라보며 파도가 부서지는 소리에 귀를 기울였다. 나는 아일랜드를 내 시야에서 가려주는 어둠을 환영했고, 내가 곧 제네바를 보게 되리라고 생각했을 때 내 맥박은 열띤 기쁨으로 뛰었다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P048-3",
+    "en": "The past looked like the light of a terrible dream to me. But the ship I was on, the wind blowing me away from the disgusting coast of Ireland, and the sea surrounding me told me all too powerfully that I had not been fooled by an illusion, and that my friend and most precious companion Clerval had fallen as a victim to me and the monster I created.",
+    "ko": "과거는 내게 끔찍한 꿈속의 빛처럼 보였다. 그러나 내가 타고 있는 배, 혐오스러운 아일랜드 해안에서 나를 날려 보내는 바람, 그리고 나를 둘러싼 바다는 내가 환영에 속은 것이 아니며, 나의 친구이자 가장 소중한 동반자인 클러벌이 나와 내가 창조한 괴물의 희생양이 되어 쓰러졌다는 것을 너무나도 강력하게 말해주고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P048-4",
+    "en": "I retraced my entire life in my memory. The quiet happiness of living with my family in Geneva, my mother's death, and my departure for Ingolstadt.",
+    "ko": "나는 기억 속에서 내 일생을 되짚어 보았다. 제네바에서 가족과 함께 지내던 조용한 행복, 어머니의 죽음, 그리고 잉골슈타트로의 출발.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P048-5",
+    "en": "I shuddered as I remembered the madness-filled passion that had driven me to create a hideous enemy, and the night he first breathed came to mind. I could no longer follow the tail of those thoughts. Countless emotions crushed me, and I wept bitterly.",
+    "ko": "흉측한 적을 창조하도록 나를 몰아붙였던 그 광기 어린 열정이 몸서리치게 기억났고, 그가 처음 살아 숨 쉬던 밤이 떠올랐다. 나는 더 이상 그 생각의 꼬리를 물고 이어갈 수가 없었다. 수많은 감정들이 나를 짓눌렀고, 나는 몹시 울었다.",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P049-1",
+    "en": "Since recovering from the fever, I had developed a habit of taking a small amount of laudanum every night. This was because this drug was the only thing that allowed me to get the rest necessary to sustain my life. Crushed by memories of various misfortunes, I now swallowed twice my usual dose and soon fell into a deep sleep.",
+    "ko": "열병에서 회복된 이후로, 나는 매일 밤 소량의 아편 팅크를 복용하는 습관이 생겼다. 생명을 유지하는 데 필요한 휴식을 취할 수 있게 해주는 것은 오직 이 약뿐이었기 때문이다. 여러 가지 불행의 기억에 짓눌린 나는 이제 평소 양의 두 배를 삼켰고 곧 깊은 잠에 빠져들었다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P049-2",
+    "en": "However, sleep did not give me a reprieve from my thoughts and misery. My dreams presented thousands of visions that terrified me.",
+    "ko": "하지만 수면은 생각과 비참함으로부터 내게 유예를 주지 못했다. 내 꿈은 나를 겁먹게 하는 수천 가지 환영을 제시했다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P049-3",
+    "en": "Around morning, I was seized by a kind of nightmare. I felt the demon grabbing my neck, and I could not escape from that restraint. Moans and screams rang in my ears.",
+    "ko": "아침 무렵 나는 일종의 악몽에 사로잡혔다. 악마가 내 목을 움켜쥐는 것을 느꼈고 그 구속에서 벗어날 수가 없었다. 신음과 비명 소리가 내 귓가에 울렸다.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P049-4",
+    "en": "My father, who was watching over me, saw me tossing and turning and woke me up.",
+    "ko": "나를 지켜보고 있던 아버지는 내가 뒤척이는 것을 보고 나를 깨우셨다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P049-5",
+    "en": "There were breaking waves all around, a cloudy sky above, and the demon was not here. The sense of safety, that is, the feeling that a truce had been made between the present time and an irresistible, disastrous future, brought me a kind of calm oblivion. By its structure, the human mind is peculiarly sensitive to this oblivion.",
+    "ko": "부서지는 파도가 사방에 있었고 위로는 흐린 하늘이 있었으며 악마는 여기에 없었다. 안전하다는 감각, 즉 현재의 시간과 저항할 수 없고 재앙적인 미래 사이에 휴전이 맺어졌다는 느낌이 내게 일종의 차분한 망각을 가져다주었다. 인간의 마음은 그 구조상 이 망각에 특별히 예민하게 반응하는 법이다.",
+    "is_header": false
+  }
+]

@@ -1,0 +1,45 @@
+EN[1]: Chapter 27: In the Garden... (Len: 25)
+KO[1]: 제27장 화원에서... (Len: 9)
+-
+EN[2]: Throughout history, amazing things have been discovered in e... (Len: 893)
+KO[2]: 역사적으로 매 세기마다 놀라운 것들이 발견되어 왔다. 특히 지난 세기에는 그 이전의 어떤 세기보다 더 믿기 ... (Len: 519)
+-
+EN[3]: As long as Mary's mind was full of unpleasant thoughts—her d... (Len: 739)
+KO[3]: 메리의 마음이 불쾌한 생각들, 즉 싫어하는 것들, 사람들에 대한 시큰둥한 견해, 무엇에도 즐거워하거나 관심을... (Len: 407)
+-
+EN[4]: As long as Colin shut himself in his room, thinking only of ... (Len: 878)
+KO[4]: 콜린이 자기 방에만 틀어박혀 두려움과 나약함, 자기를 쳐다보는 사람들에 대한 혐오, 그리고 곱추가 되어 젊은... (Len: 475)
+-
+EN[5]: “Where you tend a rose, my lad,... (Len: 31)
+KO[5]: “장미를 가꾸는 곳에, 얘야,... (Len: 16)
+-
+EN[6]: A thistle cannot grow.”... (Len: 23)
+KO[6]: 엉겅퀴는 자랄 수 없단다.”... (Len: 15)
+-
+EN[7]: While the secret garden was coming alive, and two children w... (Len: 1167)
+KO[7]: 비밀의 화원이 살아나고 두 아이가 화원과 함께 살아나는 동안, 한 남자는 노르웨이의 피오르와 스위스의 계곡 ... (Len: 631)
+-
+EN[8]: He had traveled far and wide since the day he saw Mary in hi... (Len: 468)
+KO[8]: 서재에서 메리를 만나 아이가 원하는 만큼 ‘한 뼘의 땅’을 가져도 좋다고 말해 준 날 이후로, 그는 아주 멀... (Len: 230)
+-
+EN[9]: But that light had never seemed to touch him until one day. ... (Len: 801)
+KO[9]: 그러나 그 빛은 단 한 번도 그의 마음을 어루만져 주지 못하는 듯했다. 그러던 어느 날, 그는 십 년 만에 ... (Len: 351)
+-
+EN[10]: As he sat gazing into the clear, flowing water, Archibald Cr... (Len: 1303)
+KO[10]: 그는 새들이 날아와 부리를 콕 찍어 물을 마신 뒤, 날개를 파닥이며 날아가는 모습을 바라보았다. 개울은 살아... (Len: 135)
+-
+EN[11]: “What is it?” he said, almost in a whisper, and he ran his h... (Len: 115)
+KO[11]: 아치볼드 크레이븐은 앉아서 맑게 흐르는 물을 멍하니 바라보는 동안, 자신의 몸과 마음이 모두 계곡만큼이나 잠... (Len: 761)
+-
+EN[12]: I don't know enough about the wonders of undiscovered things... (Len: 361)
+KO[12]: “이게 뭐지?” 그는 거의 속삭이듯 말하며 이마를 쓸어내렸다. “마치 내가…… 살아 있는 것 같구나!”... (Len: 57)
+-
+EN[13]: “I am going to live forever and ever and ever!”... (Len: 47)
+KO[13]: 아직 밝혀지지 않은 기이한 현상들에 대해 나는 설명할 만큼 아는 바가 없고, 이는 다른 누구도 마찬가지다. ... (Len: 205)
+-
+EN[14]: That unique calmness stayed with him for the rest of the eve... (Len: 592)
+KO[14]: “나는 영원히, 영원히, 영원히 살 거야!”... (Len: 24)
+-
+EN[15]: As the golden summer turned into deep golden autumn, he went... (Len: 371)
+KO[15]: 그 기이한 평온함은 저녁 내내 그의 곁에 머물렀고, 그는 오랜만에 평화로운 잠을 청할 수 있었다. 하지만 그... (Len: 347)
+-

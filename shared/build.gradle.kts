@@ -33,6 +33,13 @@ kotlin {
 }
 
 dependencies {
+    testImplementation("junit:junit:4.13.2")
+    testImplementation("org.jetbrains.kotlinx:kotlinx-coroutines-test:1.7.3")
+    testImplementation("io.mockk:mockk:1.13.5")
+    testImplementation("app.cash.turbine:turbine:1.0.0")
+    androidTestImplementation("androidx.test.ext:junit:1.1.5")
+    androidTestImplementation("androidx.test:runner:1.5.2")
+    implementation("androidx.media:media:1.7.0")
     val composeBom = platform(libs.androidx.compose.bom)
     implementation(composeBom)
 

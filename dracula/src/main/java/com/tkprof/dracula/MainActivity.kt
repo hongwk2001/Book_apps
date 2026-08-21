@@ -15,7 +15,7 @@ import com.tkprof.shared.ui.reader.ReaderViewModel
 
 /**
  * Dracula app entry point.
- * All reader logic lives in :shared — this file only defines the book config.
+ * All reader logic lives in :shared â€” this file only defines the book config.
  */
 class MainActivity : ComponentActivity() {
 
@@ -25,6 +25,7 @@ class MainActivity : ComponentActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        volumeControlStream = android.media.AudioManager.STREAM_MUSIC
 
         val bookConfig = BookConfig(
             bookId = "dracula",

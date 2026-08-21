@@ -1,4 +1,4 @@
-pluginManagement {
+﻿pluginManagement {
     repositories {
         google {
             content {
@@ -29,6 +29,11 @@ plugins {
     id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
 }
 
-rootProject.name = "TKProfBooks"
+rootProject.name = "Book_apps"
 include(":shared")
 include(":dracula")
+
+include(":secret_garden")
+
+
+include(":frankenstein")

@@ -1,0 +1,177 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Letter 1",
+    "ko": "편지 1",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "_To Mrs. Saville, England._",
+    "ko": "영국에 있는 사빌 부인에게.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-1",
+    "en": "St. Petersburgh, Dec. 11th, 17—.",
+    "ko": "상트페테르부르크, 17—년 12월 11일.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003-1",
+    "en": "You will rejoice to hear that no disaster has accompanied the commencement of an enterprise which you have regarded with such evil forebodings. I arrived here yesterday, and my first task is to assure my dear sister of my welfare and increasing confidence in the success of my undertaking.",
+    "ko": "누님께서 그토록 불길한 예감으로 바라보시던 모험이 아무런 재난 없이 무사히 시작되었다는 소식을 들으시면 무척 기뻐하시겠지요. 저는 어제 이곳에 도착했고, 저의 첫 번째 임무는 사랑하는 누님께 제가 무사하다는 것과 이 계획의 성공에 대한 저의 확신이 점점 커지고 있다는 것을 알려드리는 일입니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004-1",
+    "en": "I am already far north of London, and as I walk in the streets of Petersburgh, I feel a cold northern breeze play upon my cheeks, which braces my nerves and fills me with delight. Do you understand this feeling? This breeze, which has travelled from the regions towards which I am advancing, gives me a foretaste of those icy climes.",
+    "ko": "저는 이미 런던에서 북쪽으로 멀리 떨어진 곳에 와 있습니다. 페테르부르크의 거리를 거닐 때면 차가운 북풍이 제 뺨을 스치는 것을 느낍니다. 이 바람은 제 신경을 긴장시키고 저를 기쁨으로 채워줍니다. 누님은 이 기분을 이해하시는지요? 제가 나아가고자 하는 바로 그 지역에서 불어온 이 바람은, 제게 저 빙하의 땅을 미리 맛보게 해줍니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004-2",
+    "en": "Inspirited by this wind of promise, my daydreams become more fervent and vivid. I try in vain to be persuaded that the pole is the seat of frost and desolation; it ever presents itself to my imagination as the region of beauty and delight. There, Margaret, the sun is for ever visible, its broad disk just skirting the horizon and diffusing a perpetual splendour.",
+    "ko": "이 희망의 바람에 고무되어 제 환상은 더욱 열렬하고 생생해집니다. 극지방이 그저 서리와 황량함의 자리라는 말에 설득당하기를 저는 거부합니다. 제 상상 속에서 그곳은 언제나 아름다움과 환희의 땅으로 나타나니까요. 마거릿 누님, 그곳에서는 태양이 영원히 모습을 드러내어 그 넓은 원반이 지평선을 맴돌며 끝없는 광채를 뿜어냅니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-3",
+    "en": "There—for with your leave, my sister, I will put some trust in preceding navigators—there snow and frost are banished; and, sailing over a calm sea, we may be wafted to a land surpassing in wonders and in beauty every region hitherto discovered on the habitable globe. Its productions and features may be without example, as the phenomena of the heavenly bodies undoubtedly are in those undiscovered solitudes. What may not be expected in a country of eternal light?",
+    "ko": "그곳은 눈과 서리가 추방된 곳입니다. 누님, 제가 이전 항해자들의 말을 조금 믿도록 허락해 주십시오. 고요한 바다를 항해하며, 우리는 지금까지 발견된 인간이 거주하는 지구상의 어느 지역보다 경이로움과 아름다움이 뛰어난 땅으로 이끌려 갈지도 모릅니다. 저 미지의 고독한 세계에 떠 있는 천체들의 경이로운 현상처럼, 그곳의 산물과 풍경 역시 유례가 없을 것입니다. 영원한 빛의 나라에서 무엇인들 기대하지 못하겠습니까?",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-4",
+    "en": "I may there discover the wondrous power which attracts the needle and may regulate a thousand celestial observations that require only this voyage to render their seeming eccentricities consistent for ever. I shall satiate my ardent curiosity with the sight of a part of the world never before visited, and may tread a land never before imprinted by the foot of man. These are my enticements, and they are sufficient to conquer all fear of danger or death and to induce me to commence this laborious voyage with the joy a child feels when he embarks in a little boat, with his holiday mates, on an expedition of discovery up his native river.",
+    "ko": "저는 그곳에서 나침반의 바늘을 끌어당기는 경이로운 힘을 발견할지도 모르고, 이 항해를 통해서만 겉보기에 기이해 보이는 현상들을 영원히 일관된 것으로 만들어줄 수천 가지 천체 관측의 규칙을 찾아낼지도 모릅니다. 저는 이전에 단 한 번도 방문한 적 없는 세계의 일부를 바라보며 저의 열렬한 호기심을 충족시킬 것이고, 인간의 발길이 한 번도 닿지 않은 땅을 밟게 될지도 모릅니다. 이것들이 바로 저를 유혹하는 것들이며, 위험이나 죽음에 대한 모든 두려움을 정복하고, 휴일에 친구들과 함께 작은 배를 타고 고향 강을 거슬러 탐험에 나서는 아이가 느끼는 기쁨으로 이 고된 항해를 시작하게 하기에 충분한 것들입니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-5",
+    "en": "But supposing all these conjectures to be false, you cannot contest the inestimable benefit which I shall confer on all mankind, to the last generation, by discovering a passage near the pole to those countries, to reach which at present so many months are requisite; or by ascertaining the secret of the magnet, which, if at all possible, can only be effected by an undertaking such as mine.",
+    "ko": "하지만 이 모든 추측이 틀렸다 하더라도, 제가 마지막 세대에 이르기까지 모든 인류에게 안겨줄 헤아릴 수 없는 혜택은 부인할 수 없으실 겁니다. 그것은 극점 근처를 지나 지금으로서는 도착하는 데 수개월이 걸리는 나라들로 가는 항로를 발견하거나, 아니면 제 모험과 같은 것으로만 밝혀낼 수 있는 자력의 비밀을 확인하는 일일 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P005-1",
+    "en": "These reflections have dispelled the agitation with which I began my letter, and I feel my heart glow with an enthusiasm which elevates me to heaven, for nothing contributes so much to tranquillise the mind as a steady purpose—a point on which the soul may fix its intellectual eye. This expedition has been the favourite dream of my early years. I have read with ardour the accounts of the various voyages which have been made in the prospect of arriving at the North Pacific Ocean through the seas which surround the pole.",
+    "ko": "이러한 생각들은 편지를 시작할 때의 제 초조함을 떨쳐버리게 해주었고, 저를 천국으로 끌어올리는 듯한 열정으로 제 마음이 타오르는 것을 느낍니다. 마음을 안정시키는 데에는 확고한 목적, 즉 영혼이 그 지적인 눈을 고정할 수 있는 지점만큼 좋은 것이 없으니까요. 이 탐험은 제 어린 시절부터 가장 좋아했던 꿈이었습니다. 저는 극지를 둘러싼 바다를 지나 북태평양에 도착할 것이란 기대를 품고 이루어진 다양한 항해기들을 열정적으로 읽었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P005-2",
+    "en": "You may remember that a history of all the voyages made for purposes of discovery composed the whole of our good Uncle Thomas’ library. My education was neglected, yet I was passionately fond of reading. These volumes were my study day and night, and my familiarity with them increased that regret which I had felt, as a child, on learning that my father’s dying injunction had forbidden my uncle to allow me to embark in a seafaring life.",
+    "ko": "탐험을 목적으로 이루어진 모든 항해의 역사가 선량한 토마스 삼촌의 서재를 가득 채우고 있었던 것을 기억하실 겁니다. 제 교육은 방치되었지만, 저는 독서를 열렬히 좋아했습니다. 이 책들은 밤낮으로 제 연구 대상이었고, 그 책들에 익숙해질수록 삼촌에게 저를 선원 생활에 나서지 못하게 하라던 아버지의 임종 유언을 알게 되었을 때 어린아이로서 느꼈던 유감이 더욱 커졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P006-1",
+    "en": "These visions faded when I perused, for the first time, those poets whose effusions entranced my soul and lifted it to heaven. I also became a poet and for one year lived in a paradise of my own creation; I imagined that I also might obtain a niche in the temple where the names of Homer and Shakespeare are consecrated. You are well acquainted with my failure and how heavily I bore the disappointment.",
+    "ko": "처음으로 제 영혼을 황홀하게 하고 천국으로 이끌어주었던 시인들의 시구를 읽었을 때, 이러한 환상들은 희미해졌습니다. 저 또한 시인이 되어 1년 동안 저만의 창조된 낙원에서 살았습니다. 저 역시 호메로스와 셰익스피어의 이름이 봉헌된 신전에 작은 자리 하나를 차지할 수 있을 것이라 상상했습니다. 제 실패와 그 실망을 제가 얼마나 힘들게 견뎌냈는지 누님은 잘 아실 겁니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006-2",
+    "en": "But just at that time I inherited the fortune of my cousin, and my thoughts were turned into the channel of their earlier bent.",
+    "ko": "하지만 바로 그 무렵 제가 사촌의 유산을 물려받게 되면서, 제 생각은 다시 이전의 관심사로 방향을 틀었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P007-1",
+    "en": "Six years have passed since I resolved on my present undertaking. I can, even now, remember the hour from which I dedicated myself to this great enterprise. I commenced by inuring my body to hardship.",
+    "ko": "현재의 모험을 결심한 지 벌써 6년이 지났습니다. 저는 아직도 이 위대한 사업에 제 자신을 헌신했던 그 시간을 기억할 수 있습니다. 저는 제 몸을 고난에 단련시키는 일부터 시작했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007-2",
+    "en": "I accompanied the whale-fishers on several expeditions to the North Sea; I voluntarily endured cold, famine, thirst, and want of sleep; I often worked harder than the common sailors during the day and devoted my nights to the study of mathematics, the theory of medicine, and those branches of physical science from which a naval adventurer might derive the greatest practical advantage.",
+    "ko": "고래잡이배를 타고 북해로 여러 차례 탐험을 떠났고, 추위와 기아, 갈증, 수면 부족을 자발적으로 견뎌냈습니다. 낮에는 종종 일반 선원들보다 더 열심히 일했고, 밤에는 수학, 의학 이론, 그리고 해양 모험가에게 가장 큰 실질적 이점을 줄 수 있는 물리학 분야의 연구에 몰두했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P007-3",
+    "en": "Twice I actually hired myself as an under-mate in a Greenland whaler, and acquitted myself to admiration. I must own I felt a little proud when my captain offered me the second dignity in the vessel and entreated me to remain with the greatest earnestness, so valuable did he consider my services.",
+    "ko": "두 번은 실제로 그린란드 고래잡이배의 일등 항해사 밑에서 일하며 훌륭하게 제 몫을 해냈습니다. 선장님이 제게 배의 2인자 자리를 제안하며 가장 진지한 태도로 남아달라고 간청했을 때, 제 능력을 그렇게 가치 있게 여겨주신 것에 대해 약간의 자부심을 느꼈음을 고백해야겠습니다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P008-1",
+    "en": "And now, dear Margaret, do I not deserve to accomplish some great purpose? My life might have been passed in ease and luxury, but I preferred glory to every enticement that wealth placed in my path. Oh, that some encouraging voice would answer in the affirmative!",
+    "ko": "그리고 이제, 친애하는 마거릿 누님, 제가 이 위대한 목적을 달성할 자격이 있지 않습니까? 제 삶은 안락함과 사치 속에서 지나갈 수도 있었지만, 저는 부가 제 길에 놓아둔 모든 유혹보다 영광을 택했습니다. 오, 누군가 격려의 목소리로 긍정의 대답을 들려주었으면 좋겠습니다!",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P008-2",
+    "en": "My courage and my resolution is firm; but my hopes fluctuate, and my spirits are often depressed. I am about to proceed on a long and difficult voyage, the emergencies of which will demand all my fortitude: I am required not only to raise the spirits of others, but sometimes to sustain my own, when theirs are failing.",
+    "ko": "제 용기와 결심은 확고하지만, 제 희망은 흔들리고 제 마음은 종종 우울해집니다. 저는 길고도 험난한 항해를 앞두고 있으며, 그곳의 비상사태는 제게 모든 불굴의 의지를 요구할 것입니다. 저는 다른 사람들의 사기를 북돋워야 할 뿐만 아니라, 그들의 사기가 꺾일 때 제 자신의 사기도 지탱해야 할 의무가 있습니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P009-1",
+    "en": "This is the most favourable period for travelling in Russia. They fly quickly over the snow in their sledges; the motion is pleasant, and, in my opinion, far more agreeable than that of an English stagecoach. The cold is not excessive, if you are wrapped in furs—a dress which I have already adopted, for there is a great difference between walking the deck and remaining seated motionless for hours, when no exercise prevents the blood from actually freezing in your veins.",
+    "ko": "지금은 러시아를 여행하기에 가장 좋은 시기입니다. 썰매를 타고 눈 위를 빠르게 날아가는데, 그 움직임이 쾌적하고 제 생각에는 영국의 역마차보다 훨씬 즐겁습니다. 모피로 몸을 감싸기만 한다면 추위도 지나치지 않습니다. 저는 이미 이 옷을 입기 시작했는데, 갑판을 걷는 것과 운동을 하지 않아 정맥 속의 피가 실제로 얼어붙을 것 같은 상태로 몇 시간 동안 꼼짝 않고 앉아 있는 것은 큰 차이가 있기 때문입니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P009-2",
+    "en": "I have no ambition to lose my life on the post-road between St. Petersburgh and Archangel.",
+    "ko": "저는 상트페테르부르크와 아르한겔스크 사이의 역참 도로에서 목숨을 잃을 생각은 추호도 없습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P010-1",
+    "en": "I shall depart for the latter town in a fortnight or three weeks; and my intention is to hire a ship there, which can easily be done by paying the insurance for the owner, and to engage as many sailors as I think necessary among those who are accustomed to the whale-fishing. I do not intend to sail until the month of June; and when shall I return? Ah, dear sister, how can I answer this question?",
+    "ko": "저는 2주나 3주 후에 그곳으로 출발할 예정입니다. 그곳에서 배를 한 척 빌리고 고래잡이에 익숙한 선원들 중 필요하다고 생각되는 만큼의 인원을 고용할 계획입니다. 선주를 위해 보험료를 지불하면 배를 빌리는 것은 쉽게 할 수 있는 일입니다. 6월이 되기 전에는 출항할 생각이 없습니다. 언제 돌아올까요? 아, 사랑하는 누님, 이 질문에 제가 어떻게 대답할 수 있을까요?",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P010-2",
+    "en": "If I succeed, many, many months, perhaps years, will pass before you and I may meet. If I fail, you will see me again soon, or never.",
+    "ko": "성공한다면 수개월, 아니 어쩌면 수년이 지나야 누님과 제가 만날 수 있을 것입니다. 실패한다면 곧 다시 뵙거나, 아니면 영원히 뵙지 못하겠지요.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P011-1",
+    "en": "Farewell, my dear, excellent Margaret. Heaven shower down blessings on you, and save me, that I may again and again testify my gratitude for all your love and kindness.",
+    "ko": "안녕히 계십시오, 사랑하는 훌륭한 마거릿 누님. 하늘이 누님께 축복을 내리시고 저를 지켜주시어, 누님의 모든 사랑과 친절에 대해 거듭 감사를 표할 수 있기를 바랍니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P012-1",
+    "en": "Your affectionate brother,",
+    "ko": "애정을 담아 동생,",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P013-1",
+    "en": "R. Walton",
+    "ko": "R. 월턴",
+    "is_header": false
+  }
+]

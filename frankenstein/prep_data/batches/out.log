@@ -1,0 +1,97 @@
+ID 0: EN(1) KO(1)
+ID 1: EN(2) KO(1)
+Mismatch at ID 1:
+EN: ['_To Mrs.', 'Saville, England._']
+KO: ['영국에 있는 사빌 부인에게.']
+ID 2: EN(1) KO(1)
+ID 3: EN(1) KO(2)
+Mismatch at ID 3:
+EN: ['So strange an accident has happened to us that I cannot forbear\nrecording it, although it is very probable that you will see me before\nthese papers can come into your possession.']
+KO: ['너무나도 기이한 사건이 발생해서 차마 기록하지 않고는 견딜 수가 없습니다.', '비록 이 종이들이 누님의 손에 들어가기 전에 제가 먼저 누님을 뵙게 될 가능성이 매우 크겠지만 말입니다.']
+ID 4: EN(3) KO(3)
+ID 5: EN(4) KO(5)
+Mismatch at ID 5:
+EN: ['About two o’clock the mist cleared away, and we beheld, stretched out\nin every direction, vast and irregular plains of ice, which seemed to\nhave no end.', 'Some of my comrades groaned, and my own mind began to\ngrow watchful with anxious thoughts, when a strange sight suddenly\nattracted our attention and diverted our solicitude from our own\nsituation.', 'We perceived a low carriage, fixed on a sledge and drawn by\ndogs, pass on towards the north, at the distance of half a mile; a\nbeing which had the shape of a man, but apparently of gigantic stature,\nsat in the sledge and guided the dogs.', 'We watched the rapid progress\nof the traveller with our telescopes until he was lost among the\ndistant inequalities of the ice.']
+KO: ['오후 2시경 안개가 걷혔고, 우리는 사방으로 끝이 없어 보이는 거대하고 불규칙한 얼음 평원이 펼쳐져 있는 것을 보았습니다.', '동료들 중 몇몇은 신음 소리를 냈고, 제 마음도 불안한 생각으로 경계를 늦추지 않게 되었을 때, 갑자기 기이한 광경이 우리의 시선을 사로잡으며 우리 자신의 처지에 쏠려 있던 염려를 다른 곳으로 돌려놓았습니다.', '우리는 썰매에 고정되어 개들이 끄는 낮은 마차 하나가 반 마일 정도 떨어진 곳에서 북쪽을 향해 지나가는 것을 보았습니다.', '사람의 형상을 하고 있으나 겉보기에는 거대한 체구의 존재가 그 썰매에 앉아 개들을 몰고 있었습니다.', '우리는 망원경을 통해 그 여행자의 빠른 진행을 지켜보았고, 마침내 그는 멀리 요철이 심한 얼음들 사이로 사라졌습니다.']
+ID 6: EN(3) KO(3)
+ID 7: EN(3) KO(3)
+ID 8: EN(5) KO(7)
+Mismatch at ID 8:
+EN: ['In the morning, however, as soon as it was light, I went upon deck and\nfound all the sailors busy on one side of the vessel, apparently\ntalking to someone in the sea.', 'It was, in fact, a sledge, like that we\nhad seen before, which had drifted towards us in the night on a large\nfragment of ice.', 'Only one dog remained alive; but there was a human\nbeing within it whom the sailors were persuading to enter the vessel.', 'He was not, as the other traveller seemed to be, a savage inhabitant of\nsome undiscovered island, but a European.', 'When I appeared on deck the\nmaster said, “Here is our captain, and he will not allow you to perish\non the open sea.”']
+KO: ['그러나 아침에 날이 밝자마자 갑판으로 올라가 보니, 선원들이 모두 배의 한쪽에 모여 바다 속에 있는 누군가와 대화를 나누고 있는 듯했습니다.', '사실 그것은 우리가 전에 보았던 것과 같은 썰매였는데, 밤사이에 커다란 얼음 조각에 실려 우리 쪽으로 떠밀려온 것이었습니다.', '개는 단 한 마리만 살아남아 있었지만, 그 안에는 선원들이 배로 들어오라고 설득하고 있는 한 인간이 있었습니다.', '그는 다른 여행자가 보였던 미지의 섬에 사는 야만적인 원주민이 아니라 유럽인이었습니다.', '제가 갑판에 나타나자 선장이 말했습니다.', '"여기 우리 선장님이 계십니다.', '당신이 넓은 바다에서 죽어가는 것을 허락하지 않으실 겁니다."']
+ID 9: EN(2) KO(2)
+ID 10: EN(2) KO(2)
+ID 11: EN(9) KO(9)
+ID 12: EN(4) KO(5)
+Mismatch at ID 12:
+EN: ['Two days passed in this manner before he was able to speak, and I often\nfeared that his sufferings had deprived him of understanding.', 'When he\nhad in some measure recovered, I removed him to my own cabin and\nattended on him as much as my duty would permit.', 'I never saw a more\ninteresting creature: his eyes have generally an expression of\nwildness, and even madness, but there are moments when, if anyone\nperforms an act of kindness towards him or does him any the most\ntrifling service, his whole countenance is lighted up, as it were, with\na beam of benevolence and sweetness that I never saw equalled.', 'But he\nis generally melancholy and despairing, and sometimes he gnashes his\nteeth, as if impatient of the weight of woes that oppresses him.']
+KO: ['이런 상태로 이틀이 지난 후에야 그는 말을 할 수 있게 되었고, 저는 종종 그의 고통이 이성을 앗아간 것은 아닌지 두려웠습니다.', '그가 어느 정도 회복되었을 때, 저는 그를 제 선실로 옮겨와 제 직무가 허락하는 한 최선을 다해 그를 보살폈습니다.', '저는 이토록 흥미로운 사람을 본 적이 없습니다.', '그의 눈에는 대개 야성적이고 심지어 광기 어린 표정마저 서려 있지만, 누군가 그에게 친절을 베풀거나 아무리 사소한 도움이라도 주면, 그의 온 얼굴이 한 줄기 자애로움과 다정함의 빛으로 환하게 밝아지는데 그보다 더 아름다운 미소를 저는 본 적이 없습니다.', '하지만 그는 대체로 우울하고 절망에 빠져 있으며, 때로는 자신을 짓누르는 비애의 무게를 참을 수 없다는 듯 이를 갈기도 합니다.']
+ID 13: EN(2) KO(3)
+Mismatch at ID 13:
+EN: ['When my guest was a little recovered I had great trouble to keep off\nthe men, who wished to ask him a thousand questions; but I would not\nallow him to be tormented by their idle curiosity, in a state of body\nand mind whose restoration evidently depended upon entire repose.', 'Once, however, the lieutenant asked why he had come so far upon the ice\nin so strange a vehicle.']
+KO: ['제 손님이 조금 기운을 차렸을 때, 그에게 천 가지 질문을 퍼붓고 싶어 하는 선원들을 막아내느라 저는 큰 곤욕을 치러야 했습니다.', '육체와 정신의 회복이 절대적인 휴식에 달려 있는 상태의 그를 선원들의 쓸데없는 호기심으로 괴롭히게 내버려 둘 수는 없었습니다.', '그러나 한 번은 부선장이 어쩌다 그런 기이한 탈것을 타고 그 멀리 얼음 위까지 오게 되었는지 물었습니다.']
+ID 14: EN(1) KO(2)
+Mismatch at ID 14:
+EN: ['His countenance instantly assumed an aspect of the deepest gloom, and\nhe replied, “To seek one who fled from me.”']
+KO: ['그의 안색은 순식간에 깊은 우울함으로 바뀌었고 그가 대답했습니다.', '"나에게서 도망친 자를 찾기 위해서였소."']
+ID 15: EN(1) KO(1)
+ID 16: EN(1) KO(1)
+ID 17: EN(1) KO(2)
+Mismatch at ID 17:
+EN: ['“Then I fancy we have seen him, for the day before we picked you up we\nsaw some dogs drawing a sledge, with a man in it, across the ice.”']
+KO: ['"그렇다면 우리가 그 사람을 본 것 같습니다.', '당신을 구조하기 전날, 우리는 개들이 끄는 썰매에 한 남자가 타고 얼음 위를 가로지르는 것을 보았으니까요."']
+ID 18: EN(2) KO(4)
+Mismatch at ID 18:
+EN: ['This aroused the stranger’s attention, and he asked a multitude of\nquestions concerning the route which the dæmon, as he called him, had\npursued.', 'Soon after, when he was alone with me, he said, “I have,\ndoubtless, excited your curiosity, as well as that of these good\npeople; but you are too considerate to make inquiries.”']
+KO: ['이 말은 낯선 사람의 주의를 끌었고, 그는 그가 악마라고 부르던 자가 지나간 경로에 대해 수많은 질문을 쏟아냈습니다.', '잠시 후 저와 단둘이 있게 되자 그가 말했습니다.', '"내가 저 선량한 사람들은 물론이고 당신의 호기심까지 자극한 것이 틀림없군요.', '하지만 당신은 너무 사려 깊어서 차마 묻지 못하고 있군요."']
+ID 19: EN(1) KO(2)
+Mismatch at ID 19:
+EN: ['“Certainly; it would indeed be very impertinent and inhuman in me to\ntrouble you with any inquisitiveness of mine.”']
+KO: ['"물론입니다.', '제 호기심으로 당신을 성가시게 하는 것은 정말로 무례하고 비인간적인 짓이 될 테니까요."']
+ID 20: EN(1) KO(1)
+ID 21: EN(2) KO(2)
+ID 22: EN(3) KO(3)
+ID 23: EN(5) KO(5)
+ID 24: EN(1) KO(2)
+Mismatch at ID 24:
+EN: ['I said in one of my letters, my dear Margaret, that I should find no friend\non the wide ocean; yet I have found a man who, before his spirit had been\nbroken by misery, I should have been happy to have possessed as the brother\nof my heart.']
+KO: ['사랑하는 마거릿 누님, 넓은 바다에서는 친구를 찾지 못할 것이라고 제 편지 중 하나에 썼었지요.', '하지만 불행으로 그의 영혼이 꺾이기 전이었다면 진심으로 형제처럼 지내고 싶었을 사람을 여기서 발견했습니다.']
+ID 25: EN(1) KO(1)
+ID 26: EN(1) KO(1)
+ID 27: EN(4) KO(4)
+ID 28: EN(12) KO(15)
+Mismatch at ID 28:
+EN: ['He is now much recovered from his illness and is continually on the deck,\napparently watching for the sledge that preceded his own.', 'Yet, although\nunhappy, he is not so utterly occupied by his own misery but that he\ninterests himself deeply in the projects of others.', 'He has frequently\nconversed with me on mine, which I have communicated to him without\ndisguise.', 'He entered attentively into all my arguments in favour of my\neventual success and into every minute detail of the measures I had taken\nto secure it.', 'I was easily led by the sympathy which he evinced to use the\nlanguage of my heart, to give utterance to the burning ardour of my soul\nand to say, with all the fervour that warmed me, how gladly I would\nsacrifice my fortune, my existence, my every hope, to the furtherance of my\nenterprise.', 'One man’s life or death were but a small price to pay for\nthe acquirement of the knowledge which I sought, for the dominion I should\nacquire and transmit over the elemental foes of our race.', 'As I spoke, a\ndark gloom spread over my listener’s countenance.', 'At first I\nperceived that he tried to suppress his emotion; he placed his hands before\nhis eyes, and my voice quivered and failed me as I beheld tears trickle\nfast from between his fingers; a groan burst from his heaving breast.', 'I\npaused; at length he spoke, in broken accents: “Unhappy man!', 'Do you\nshare my madness?', 'Have you drunk also of the intoxicating draught?', 'Hear me;\nlet me reveal my tale, and you will dash the cup from your lips!”']
+KO: ['그는 이제 병에서 많이 회복되었고, 자신의 앞을 지나갔던 썰매를 감시하기 위해 계속 갑판에 나와 있습니다.', '그러나 비록 불행해 보이긴 해도 그는 자신의 비애에만 완전히 몰두해 있지는 않으며, 다른 사람의 계획에 깊은 관심을 보입니다.', '그는 자주 저의 계획에 대해 대화를 나누었고, 저는 그에게 숨김없이 제 뜻을 전했습니다.', '그는 저의 최종적인 성공을 지지하는 저의 모든 주장들과 그것을 확보하기 위해 제가 취한 조치들의 사소한 세부 사항에 주의 깊게 귀를 기울였습니다.', '저는 그가 보여주는 공감에 이끌려 어느새 제 마음의 언어를 사용하게 되었고, 제 영혼을 불태우는 열정을 터놓았으며, 이 탐험의 추진을 위해서라면 저의 재산과 존재, 제 모든 희망을 기꺼이 희생할 수 있다는 저를 데우는 그 모든 열기를 담아 말했습니다.', '제가 추구하는 지식을 얻기 위해, 인류의 원초적인 적들에 대한 지배력을 획득하고 후대에 물려주기 위해서라면 한 사람의 생사쯤은 지불하기에 작은 대가에 불과했습니다.', '제가 말을 잇는 동안 경청하던 그의 얼굴 위로 짙은 우울함이 번졌습니다.', '처음엔 그가 감정을 억누르려 애쓰는 것이 보였습니다.', '그는 손으로 눈을 가렸으나 손가락 사이로 눈물이 빠르게 흘러내리는 것을 본 순간 저의 목소리는 떨리며 잦아들었고, 그의 들썩이는 가슴에서는 신음이 터져 나왔습니다.', '저는 말을 멈췄고 마침내 그가 끊어지는 듯한 억양으로 말했습니다.', '"불행한 사람!', '당신마저 나와 이 광기를 나누려 하는가?', '당신 또한 그 치명적인 독배를 마셨단 말인가?', '내 말을 들으시오.', '내 이야기를 밝힐 테니, 듣고 나면 당신도 입술에서 그 잔을 팽개치게 될 것이오!"']
+ID 29: EN(1) KO(2)
+Mismatch at ID 29:
+EN: ['Such words, you may imagine, strongly excited my curiosity; but the\nparoxysm of grief that had seized the stranger overcame his weakened\npowers, and many hours of repose and tranquil conversation were\nnecessary to restore his composure.']
+KO: ['누님도 상상하시겠지만 그런 말들은 저의 호기심을 강하게 자극했습니다.', '하지만 이 낯선 사람을 사로잡은 슬픔의 발작은 그의 약해진 기력을 압도했고, 그의 평정심을 되찾기 위해서는 긴 시간의 휴식과 조용한 대화가 필요했습니다.']
+ID 30: EN(4) KO(4)
+ID 31: EN(4) KO(8)
+Mismatch at ID 31:
+EN: ['“I agree with you,” replied the stranger; “we are\nunfashioned creatures, but half made up, if one wiser, better, dearer than\nourselves—such a friend ought to be—do not lend his aid to\nperfectionate our weak and faulty natures.', 'I once had a friend, the most\nnoble of human creatures, and am entitled, therefore, to judge respecting\nfriendship.', 'You have hope, and the world before you, and have no cause for\ndespair.', 'But I—I have lost everything and cannot begin life\nanew.”']
+KO: ['"동의하오."', '낯선 남자가 대답했습니다.', '"우리는 미완성의 생명체들, 반쪽짜리에 불과하여 우리보다 더 현명하고 훌륭하며 사랑스러운 누군가가 우리의 나약하고 결함 있는 본성을 완벽하게 해주도록 도와주지 않으면 안 되오.', '친구란 응당 그래야 하오.', '나에게도 한때 인간 중에 가장 고결한 친구가 있었소.', '그러니 나는 우정에 관해 판단할 자격이 있지.', '당신에게는 희망이 있고 세계가 당신 앞에 놓여 있으니 절망할 이유가 없소.', '하지만 나는 모든 것을 잃었고 삶을 새로 시작할 수조차 없다오."']
+ID 32: EN(2) KO(2)
+ID 33: EN(3) KO(4)
+Mismatch at ID 33:
+EN: ['Even broken in spirit as he is, no one can feel more deeply than he\ndoes the beauties of nature.', 'The starry sky, the sea, and every sight\nafforded by these wonderful regions seem still to have the power of\nelevating his soul from earth.', 'Such a man has a double existence: he\nmay suffer misery and be overwhelmed by disappointments, yet when he\nhas retired into himself, he will be like a celestial spirit that has a\nhalo around him, within whose circle no grief or folly ventures.']
+KO: ['비록 영혼이 꺾이긴 했으나, 그보다 더 깊이 자연의 아름다움을 느끼는 사람은 없을 것입니다.', '별이 빛나는 밤하늘, 바다, 그리고 이 경이로운 지역들이 선사하는 모든 광경은 여전히 그의 영혼을 지상에서 끌어올리는 힘을 가진 듯합니다.', '그런 사람은 이중적인 존재를 지니고 있습니다.', '불행에 시달리고 실망에 압도될 수도 있지만, 그가 자신의 내면으로 물러났을 때 그는 주위에 광배를 두른 천상의 정령과도 같아서 그 원 안으로는 어떤 슬픔이나 어리석음도 감히 침범하지 못합니다.']
+ID 34: EN(5) KO(6)
+Mismatch at ID 34:
+EN: ['Will you smile at the enthusiasm I express concerning this divine\nwanderer?', 'You would not if you saw him.', 'You have been tutored and\nrefined by books and retirement from the world, and you are therefore\nsomewhat fastidious; but this only renders you the more fit to\nappreciate the extraordinary merits of this wonderful man.', 'Sometimes I\nhave endeavoured to discover what quality it is which he possesses that\nelevates him so immeasurably above any other person I ever knew.', 'I\nbelieve it to be an intuitive discernment, a quick but never-failing\npower of judgment, a penetration into the causes of things, unequalled\nfor clearness and precision; add to this a facility of expression and a\nvoice whose varied intonations are soul-subduing music.']
+KO: ['제가 이 신성한 방랑자에 대해 표현하는 열정에 누님은 미소 지으시겠습니까?', '그를 직접 보신다면 그러지 못하실 겁니다.', '누님은 책과 세상과 떨어진 은둔을 통해 가르침을 받고 세련되어졌기에 다소 까다로우시지만, 이 점이 오히려 누님이 이 경이로운 사람의 특별한 장점들을 진정으로 알아볼 수 있게 해줍니다.', '때때로 저는 그가 가진 어떤 자질이 그토록 그를 제가 알던 어떤 사람과도 비할 수 없을 만큼 높이 끌어올리는지 발견하려 애썼습니다.', '저는 그것이 직관적인 통찰력, 빠르면서도 결코 실패하지 않는 판단력, 사물의 원인을 꿰뚫어 보는 명쾌함과 정확성에 있어 타의 추종을 불허하는 통찰력이라고 믿습니다.', '이에 더해 표현의 유창함과 그 다양한 억양이 영혼을 굴복시키는 음악과도 같은 목소리를 지니고 있습니다.']
+ID 35: EN(1) KO(1)
+ID 36: EN(6) KO(12)
+Mismatch at ID 36:
+EN: ['Yesterday the stranger said to me, “You may easily perceive, Captain\nWalton, that I have suffered great and unparalleled misfortunes.', 'I had\ndetermined at one time that the memory of these evils should die with\nme, but you have won me to alter my determination.', 'You seek for\nknowledge and wisdom, as I once did; and I ardently hope that the\ngratification of your wishes may not be a serpent to sting you, as mine\nhas been.', 'I do not know that the relation of my disasters will be\nuseful to you; yet, when I reflect that you are pursuing the same\ncourse, exposing yourself to the same dangers which have rendered me\nwhat I am, I imagine that you may deduce an apt moral from my tale, one\nthat may direct you if you succeed in your undertaking and console you\nin case of failure.', 'Prepare to hear of occurrences which are usually\ndeemed marvellous.', 'Were we among the tamer scenes of nature I might\nfear to encounter your unbelief, perhaps your ridicule; but many things\nwill appear possible in these wild and mysterious regions which would\nprovoke the laughter of those unacquainted with the ever-varied powers\nof nature; nor can I doubt but that my tale conveys in its series\ninternal evidence of the truth of the events of which it is composed.”']
+KO: ['어제 그 낯선 남자가 내게 말했습니다.', '"월턴 선장, 당신은 내가 비할 데 없이 크나큰 불행을 겪었다는 것을 쉽게 알아차렸을 거요.', '한때 나는 이 재앙들의 기억이 나와 함께 죽어야 한다고 결심했지만, 당신은 내가 그 결심을 바꾸도록 만들었소.', '당신은 한때 내가 그랬듯이 지식과 지혜를 추구하고 있소.', '나는 당신의 소망을 충족시키는 일이 내게 그랬던 것처럼 당신을 찌르는 독사가 되지 않기를 간절히 바라고 있소.', '내 재앙의 이야기가 당신에게 유용할지는 모르겠소.', '하지만 당신이 같은 길을 가고 있고, 나를 이 꼴로 만든 바로 그 위험들에 당신 자신을 노출시키고 있다는 것을 생각하면, 당신이 내 이야기에서 적절한 교훈을 이끌어낼 수 있을 거라 생각하오.', '당신이 모험에 성공한다면 길잡이가 되어주고, 실패할 경우에는 위로가 될 수 있는 그런 교훈 말이오.', '흔히 경이롭다고 여겨지는 일들에 대해 들을 준비를 하시오.', '우리가 자연의 온화한 풍경 속에 있다면 나는 당신의 불신과 어쩌면 조롱에 부딪힐까 두려워했을 것이오.', '하지만 끊임없이 변화하는 자연의 힘을 모르는 자들이라면 폭소를 터뜨릴 만한 많은 일들도 이 거칠고 신비로운 지역에서는 가능해 보일 것이오.', '또한 내 이야기가 전개되는 과정 자체가 그 속에 담긴 사건들이 진실이라는 내적인 증거를 전달할 것임을 의심치 않소."']
+ID 37: EN(3) KO(3)
+ID 38: EN(3) KO(10)
+Mismatch at ID 38:
+EN: ['“I thank you,” he replied, “for your sympathy, but it is\nuseless; my fate is nearly fulfilled.', 'I wait but for one event, and then I\nshall repose in peace.', 'I understand your feeling,” continued he,\nperceiving that I wished to interrupt him; “but you are mistaken, my\nfriend, if thus you will allow me to name you; nothing can alter my\ndestiny; listen to my history, and you will perceive how irrevocably it is\ndetermined.”']
+KO: ['그가 대답했습니다.', '"당신의 동정에는 감사하오만 소용없는 일이오.', '내 운명은 거의 성취되었으니까.', '나는 단 한 가지 사건만을 기다리고 있고, 그러고 나면 평화롭게 잠들 수 있을 거요.', '나는 당신의 심정을 이해하오."', '그는 제가 말을 가로막고 싶어 하는 것을 눈치채고 계속 이어갔습니다.', '"하지만 친구, 당신을 그렇게 불러도 된다면 말이오, 당신이 뭔가 착각하고 있는 거요.', '무엇도 내 운명을 바꿀 수는 없소.', '내 이야기를 들어보시오.', '그러면 그 운명이 얼마나 돌이킬 수 없게 결정되었는지 당신도 깨닫게 될 거요."']
+ID 39: EN(7) KO(9)
+Mismatch at ID 39:
+EN: ['He then told me that he would commence his narrative the next day when I\nshould be at leisure.', 'This promise drew from me the warmest thanks.', 'I have\nresolved every night, when I am not imperatively occupied by my duties, to\nrecord, as nearly as possible in his own words, what he has related during\nthe day.', 'If I should be engaged, I will at least make notes.', 'This\nmanuscript will doubtless afford you the greatest pleasure; but to me, who\nknow him, and who hear it from his own lips—with what interest and\nsympathy shall I read it in some future day!', 'Even now, as I commence my\ntask, his full-toned voice swells in my ears; his lustrous eyes dwell on me\nwith all their melancholy sweetness; I see his thin hand raised in\nanimation, while the lineaments of his face are irradiated by the soul\nwithin.', 'Strange and harrowing must be his story, frightful the storm which\nembraced the gallant vessel on its course and wrecked it—thus!']
+KO: ['그리고 나서 그는 제가 한가할 때인 다음 날 자신의 이야기를 시작하겠다고 말했습니다.', '이 약속은 내게서 가장 따뜻한 감사를 이끌어냈습니다.', '저는 매일 밤 의무적으로 바쁘지 않을 때마다, 그가 낮 동안 이야기한 것을 가능한 한 그의 자신의 말에 가깝게 기록하기로 결심했습니다.', '만약 바쁜 일이 생긴다면 적어도 메모라도 남길 작정입니다.', '이 원고는 틀림없이 누님께 가장 큰 즐거움을 선사할 것입니다.', '하지만 그를 알고 그의 입술에서 직접 그것을 듣는 저로서는 훗날 이 기록을 읽을 때 얼마나 큰 흥미와 공감을 느끼게 될까요!', '지금 이 작업을 시작하는 순간에도 그의 낭랑한 목소리가 제 귓가에 맴돌고, 그의 빛나는 두 눈은 특유의 우울한 다정함을 담은 채 저를 머물러 봅니다.', '내면에 깃든 영혼에 의해 얼굴의 윤곽이 빛나는 동안, 생동감 있게 들어 올려진 그의 야윈 손이 보입니다.', '그의 이야기는 얼마나 기이하고 끔찍할 것이며, 용감한 배를 항로 위에서 껴안고 이처럼 난파시켜버린 폭풍은 얼마나 무시무시할는지요!']

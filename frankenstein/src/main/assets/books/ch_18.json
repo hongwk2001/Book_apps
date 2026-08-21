@@ -1,0 +1,205 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 14",
+    "ko": "제14장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "\"It took some time before I learned the history of my friends. It was a story that could not fail to leave a deep impression on my mind, and it revealed countless situations that were each interesting and wondrous to someone as completely inexperienced as I was.",
+    "ko": "\"내 친구들의 역사를 알게 되기까지는 약간의 시간이 흘렀습니다. 그것은 내 마음에 깊이 각인될 수밖에 없는 이야기였고, 나처럼 완전히 경험이 없는 존재에게는 하나하나가 흥미롭고 경이로운 수많은 상황들을 펼쳐 보여주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-1",
+    "en": "\"The old man's name was De Lacey. He came from a good family in France, where he had lived in wealth for many years and was respected by his superiors and loved by his equals.",
+    "ko": "\"그 노인의 이름은 드 라세였습니다. 그는 프랑스의 훌륭한 가문 출신으로, 그곳에서 여러 해 동안 부유하게 살았고 윗사람들의 존경과 동등한 이들의 사랑을 받았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P002-2",
+    "en": "His son was raised to serve his country, and Agatha stood side-by-side with the most distinguished ladies. A few months before my arrival, they lived in a large and luxurious city called Paris, surrounded by friends and enjoying all the pleasures that virtue, refined intellect, or taste, combined with a moderate fortune, could offer.",
+    "ko": "그의 아들은 조국에 봉사하도록 길러졌고, 아가사는 최고로 저명한 귀부인들과 어깨를 나란히 했습니다. 내가 도착하기 몇 달 전, 그들은 파리라는 크고 호화로운 도시에서 친구들에 둘러싸여 미덕, 지성의 세련됨, 또는 취향이 적당한 부와 함께 제공할 수 있는 모든 즐거움을 누리며 살았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P003-1",
+    "en": "\"Safie's father was the cause of their ruin. He had lived in Paris for many years as a Turkish merchant, but for some reason I could not learn, he fell out of favor with the government. He was arrested and thrown into prison on the exact day that Safie arrived from Constantinople to join him.",
+    "ko": "\"사피의 아버지가 그들 파멸의 원인이었습니다. 그는 터키 상인으로 수년간 파리에 거주했으나, 내가 알 수 없는 어떤 이유로 정부의 미움을 받게 되었습니다. 그는 사피가 콘스탄티노플에서 그와 합류하기 위해 도착한 바로 그날 체포되어 감옥에 갇혔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P003-2",
+    "en": "He stood trial and was sentenced to death. The injustice of his sentence was very obvious. All the citizens of Paris were outraged, and it was decided that his religion and wealth were the cause of his conviction rather than the crime he was accused of.",
+    "ko": "그는 재판을 받고 사형을 선고받았습니다. 그의 판결의 부당함은 매우 명백했습니다. 모든 파리 시민이 분노했고, 그에게 제기된 범죄보다는 그의 종교와 부가 유죄 판결의 원인이었다고 판단되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-1",
+    "en": "\"Felix happened to attend the trial by chance. He felt uncontrollable horror and anger when he heard the court's decision. At that moment, he solemnly swore to rescue him and looked around for a way to do it. After countless pointless attempts to get into the prison, he found a strongly grated window in a poorly guarded part of the building, which lit the dungeon of the unfortunate Muslim man who was waiting in despair for his barbaric sentence to be carried out while bound in chains.",
+    "ko": "\"펠릭스는 우연히 재판에 참석했습니다. 그는 법원의 결정을 들었을 때 억누를 수 없는 공포와 분노를 느꼈습니다. 그는 그 순간 그를 구출하겠다고 엄숙히 맹세하고 주변을 살피며 방법을 찾았습니다. 감옥에 들어가기 위한 수많은 헛된 시도 끝에, 그는 건물의 경비가 허술한 부분에서 튼튼한 쇠창살이 있는 창문을 발견했는데, 그 창문은 사슬에 묶인 채 절망 속에서 야만적인 판결의 집행을 기다리는 불행한 무함마드인의 지하 감옥을 비추고 있었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P004-2",
+    "en": "Felix visited the grate at night and informed the prisoner of his intention to help him. Surprised and delighted, the Turkish man tried to fuel his savior's passion by promising reward and wealth. Felix rejected his offer with contempt, but when he saw the beautiful Safie, who had been allowed to visit her father, expressing lively gratitude with gestures, the young man could not help but admit to himself that the captive possessed a treasure that could fully compensate for his effort and danger.",
+    "ko": "펠릭스는 밤에 쇠창살을 방문하여 죄수에게 그를 돕고자 하는 자신의 의도를 알렸습니다. 놀라고 기뻐한 터키인은 보상과 부를 약속하며 구원자의 열정에 불을 지피려 했습니다. 펠릭스는 그의 제안을 경멸하며 거절했지만, 아버지를 면회하도록 허락받은 아름다운 사피가 제스처로 생기 넘치는 감사를 표하는 것을 보았을 때, 젊은이는 포로가 자신의 수고와 위험을 충분히 보상할 수 있는 보물을 소유하고 있음을 자신의 마음에 인정하지 않을 수 없었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005-1",
+    "en": "\"The Turkish man quickly noticed the impression his daughter had made on Felix's heart, and he tried to bind him more perfectly to his own interests by promising her in marriage as soon as he was transported to a safe place. Felix was too cautious to accept this proposal, but he looked forward to the possibility of that event, which would be the completion of his happiness.",
+    "ko": "\"터키인은 자신의 딸이 펠릭스의 마음에 남긴 인상을 재빨리 알아채고, 그가 안전한 곳으로 이송되는 즉시 딸과의 결혼을 약속함으로써 그를 자신의 이익에 더 완벽하게 묶어두려 했습니다. 펠릭스는 이 제안을 받아들이기에는 너무 조심스러웠으나, 그는 자신의 행복의 완성이 될 그 사건의 가능성을 고대했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006-1",
+    "en": "\"Over the next few days, while preparations for the merchant's escape were underway, Felix's passion grew even hotter as he received several letters from this beautiful girl, who had found a way to express her thoughts in her lover's language with the help of an old man, her father's servant who understood French. She thanked him in the most passionate words for his planned service toward her father, and at the same time quietly lamented her own fate.",
+    "ko": "\"그 후 며칠 동안 상인의 탈출을 위한 준비가 진행되는 사이, 프랑스어를 이해하는 아버지의 하인인 노인의 도움을 받아 연인의 언어로 자신의 생각을 표현할 방법을 찾은 이 아름다운 소녀로부터 여러 통의 편지를 받으며 펠릭스의 열정은 더욱 뜨거워졌습니다. 그녀는 아버지를 향한 그의 계획된 봉사에 대해 가장 열렬한 말로 감사했고, 동시에 자신의 운명을 조용히 한탄했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007-1",
+    "en": "\"I have copies of these letters. I found a way to get writing tools while staying in the hut, and these letters were frequently in the hands of Felix or Agatha. I will give them to you before I leave. They will prove the truthfulness of my story. But for now, since the sun has already set considerably, I will only have time to tell you the main points of their contents.",
+    "ko": "\"나는 이 편지들의 사본을 가지고 있습니다. 나는 오두막에 머무는 동안 글을 쓸 도구를 구할 방법을 찾았고, 이 편지들은 자주 펠릭스나 아가사의 손에 있었기 때문입니다. 떠나기 전에 당신에게 그것들을 주겠습니다. 그것들은 내 이야기의 진실성을 증명해 줄 것입니다. 하지만 지금은 해가 이미 많이 기울었으니 당신에게 그 내용의 요점만 말할 시간밖에 없겠군요.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P008-1",
+    "en": "\"According to Safie's story, her mother was a Christian Arab who was captured by the Turks and made a slave. Recommended for her beauty, she won the heart of Safie's father and married him. The young girl spoke in noble and passionate words about her mother, who was born free and despised the bondage she was now in. She taught her daughter the doctrines of her religion and taught her to aspire to a higher power of intellect and a spirit of independence that was forbidden to female followers of Muhammad.",
+    "ko": "\"사피의 이야기에 따르면 그녀의 어머니는 기독교인 아랍인으로, 터키인들에게 붙잡혀 노예가 되었습니다. 그녀의 아름다움으로 추천을 받은 그녀는 사피 아버지의 마음을 얻어 그와 결혼했습니다. 젊은 소녀는 자유롭게 태어나 이제 자신이 처한 속박을 경멸했던 어머니에 대해 숭고하고 열정적인 말로 이야기했습니다. 그녀는 딸에게 자신의 종교의 교리를 가르치고 더 높은 지성의 힘과 무함마드 여성 추종자들에게는 금지된 자립 정신을 열망하도록 가르쳤습니다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P008-2",
+    "en": "This woman passed away, but her teachings remained an indelible mark on Safie's heart, making her feel sick at the prospect of returning to Asia and being locked inside the walls of a harem, allowed only to fill herself with childish entertainment that did not suit the temper of her soul, which had become accustomed to great ideas and noble competition for virtue. The prospect of marrying a Christian and staying in a country where women could hold a position in society was fascinating to her.",
+    "ko": "이 부인은 세상을 떠났지만, 그녀의 가르침은 사피의 마음에 지울 수 없는 각인으로 남아 다시 아시아로 돌아가 하렘의 성벽 안에 갇혀, 위대한 사상과 미덕을 향한 고귀한 경쟁에 익숙해진 그녀 영혼의 기질에 어울리지 않는 유치한 오락으로만 자신을 채우도록 허락되는 전망에 구역질을 났습니다. 기독교인과 결혼하여 여성이 사회에서 지위를 차지할 수 있는 나라에 남는다는 전망은 그녀에게 매혹적이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P009-1",
+    "en": "\"The Turkish man's execution date was set, but on the night before, he escaped from prison and was dozens of leagues away from Paris before morning. Felix had obtained passports in the names of his father, sister, and himself. He had previously informed the former of this plan, and the former helped the deception by leaving the house on the pretext of a trip and hiding with his daughter in a remote part of Paris.",
+    "ko": "\"터키인의 사형 집행일이 정해졌지만, 그 전날 밤 그는 감옥을 빠져나와 아침이 되기 전에 파리에서 수십 리그 떨어진 곳에 있었습니다. 펠릭스는 그의 아버지, 누이, 그리고 자신을 위해 그 이름으로 여권을 구해놓았습니다. 그는 이전에 이 계획을 전자에게 알렸고, 전자는 여행을 구실로 집을 떠나 파리의 외딴 곳에 딸과 함께 숨음으로써 속임수를 도왔습니다.",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P010-1",
+    "en": "\"Felix led the fugitives across France to Lyon, and over Mont Cenis to Livorno. The merchant decided to wait there for a favorable opportunity to cross into a part of Turkish territory.",
+    "ko": "\"펠릭스는 도망자들을 이끌고 프랑스를 가로질러 리옹으로, 그리고 몽스니를 넘어 리보르노로 안내했습니다. 상인은 그곳에서 터키 영토의 일부로 건너갈 유리한 기회를 기다리기로 결정했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P011-1",
+    "en": "\"Safie decided to stay with her father until the moment he left, and before that time, the Turkish man renewed his promise that she would be united with her savior. Felix stayed with them in anticipation of that event, and in the meantime, he enjoyed socializing with the Arabian woman who showed the purest and tenderest affection toward him. They conversed with each other through an interpreter, and sometimes through the interpretation of their eyes, and Safie sang him the sacred songs of her homeland.",
+    "ko": "\"사피는 아버지가 떠나는 순간까지 그와 함께 있기로 결심했고, 그 시간 이전에 터키인은 그녀가 구원자와 결합하게 될 것이라는 약속을 새롭게 했습니다. 펠릭스는 그 사건을 기대하며 그들과 함께 머물렀고, 그동안 그는 자신을 향해 가장 순수하고 부드러운 애정을 보여준 아라비아인과 어울리는 것을 즐겼습니다. 그들은 통역사를 통해, 그리고 때로는 눈빛의 통역으로 서로 대화를 나눴고, 사피는 그에게 조국의 신성한 노래들을 불러주었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P012-1",
+    "en": "\"The Turkish man allowed this intimacy to occur and encouraged the young lovers' hopes, but in his heart he was making a completely different plan. He hated that his daughter was to be tied to a Christian, but knowing that he was still in the power of his savior if he attempted to betray him to the Italian state they resided in, he feared he would incur Felix's wrath if he showed a lukewarm attitude.",
+    "ko": "\"터키인은 이러한 친밀감이 이루어지도록 허락하고 젊은 연인들의 희망을 북돋워 주었지만, 마음속으로는 전혀 다른 계획을 세우고 있었습니다. 그는 딸이 기독교인과 맺어지는 것을 혐오했지만, 만약 자신이 그들이 거주하는 이탈리아 국가에 자신을 배신하려 할 경우 여전히 구원자의 권력 안에 있다는 것을 알았기에 미온적인 태도를 보이면 펠릭스의 분노를 살까 두려워했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P012-2",
+    "en": "He devised a thousand plans to prolong the deception until it was no longer necessary and to secretly take his daughter with him when he left. News arriving from Paris accelerated his plans.",
+    "ko": "그는 더 이상 속임수가 필요하지 않을 때까지 연장하고 떠날 때 비밀리에 딸을 데려갈 수 있는 천 가지 계획을 궁리했습니다. 파리에서 도착한 소식은 그의 계획을 촉진시켰습니다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P013-1",
+    "en": "\"The French government was greatly enraged by the victim's escape and spared no effort in tracking down and punishing his savior. Felix's plot was quickly discovered, and De Lacey and Agatha were thrown into prison. The news reached Felix and woke him from his dream of pleasure.",
+    "ko": "\"프랑스 정부는 희생자의 탈출에 크게 격노했고 그의 구원자를 찾아내 벌하는 데 수고를 아끼지 않았습니다. 펠릭스의 음모는 빠르게 발각되었고, 드 라세와 아가사는 감옥에 던져졌습니다. 그 소식은 펠릭스에게 전해져 그를 쾌락의 꿈에서 깨어나게 했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P013-2",
+    "en": "The fact that his blind and elderly father and his gentle sister were lying in a stinking dungeon while he enjoyed the free air and companionship with the woman he loved. This thought was torture to him. He immediately agreed with the Turkish man that if the Turkish man found a favorable opportunity to escape before Felix returned to Italy, Safie would remain as a boarder at a convent in Livorno, and leaving the lovely Arabian behind, he quickly hurried back to Paris to turn himself in to the vengeance of the law, hoping to free De Lacey and Agatha through this process.",
+    "ko": "그가 사랑하는 그녀와 함께 자유로운 공기와 교제를 즐기는 동안 그의 눈멀고 늙은 아버지와 온화한 누이가 악취 나는 지하 감옥에 누워있다는 사실. 이 생각은 그에게 고문이었습니다. 그는 즉시 터키인과 협의하여 만약 펠릭스가 이탈리아로 돌아오기 전에 터키인이 탈출할 유리한 기회를 찾는다면 사피는 리보르노의 수녀원 하숙인으로 남기로 했고, 사랑스러운 아라비아인을 뒤로한 채 그는 즉시 파리로 서둘러 돌아가 법의 복수 앞에 자수하며 이 과정으로 드 라세와 아가사를 자유롭게 하기를 희망했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P014-1",
+    "en": "\"He did not succeed. They were locked up for five months before the trial took place, and as a result of that trial they were stripped of their wealth and sentenced to permanent exile from their homeland.",
+    "ko": "\"그는 성공하지 못했습니다. 그들은 재판이 열리기 전 5개월 동안 갇혀 있었고, 그 재판의 결과로 그들은 재산을 빼앗기고 조국에서 영원한 추방을 선고받았습니다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P015-1",
+    "en": "\"They found a miserable refuge in a hut in Germany, and I discovered them. Felix soon learned that the traitorous Turkish man, for whom he and his family had endured such unprecedented oppression, upon finding out that his savior had been driven to poverty and ruin like this, became a traitor who abandoned good feelings and honor, leaving Italy with his daughter after insultingly sending a small amount of money to help with future livelihood plans.",
+    "ko": "\"그들은 독일의 오두막에서 비참한 피난처를 찾았고 내가 그들을 발견했습니다. 펠릭스는 그와 그의 가족이 그런 전대미문의 억압을 견뎌냈던 배신자 터키인이, 자신의 구원자가 이처럼 가난과 파멸로 내몰렸다는 것을 알게 되자 선량한 감정과 명예를 저버리는 배신자가 되어 모욕적이게도 미래의 생계 계획을 돕겠다며 적은 돈을 보내고 딸과 함께 이탈리아를 떠났다는 것을 곧 알게 되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P016-1",
+    "en": "\"These things tormented Felix's mind and made him the most miserable person in his family when I first saw him. He could have endured poverty, and if this suffering had been the reward for his virtue, he would have been proud of it. But the ingratitude of the Turkish man and the loss of his beloved Safie were more bitter and irreversible misfortunes. Now, the arrival of the Arabian breathed new life into his soul.",
+    "ko": "\"이러한 일들이 펠릭스의 마음을 괴롭혔고 내가 처음 그를 보았을 때 그를 가족 중 가장 비참한 사람으로 만들었습니다. 그는 가난을 견딜 수 있었고, 이 고통이 미덕에 대한 보상이었다면 그것을 자랑스럽게 여겼을 것입니다. 하지만 터키인의 배은망덕과 사랑하는 사피를 잃은 것은 더 쓰라리고 돌이킬 수 없는 불행이었습니다. 이제 아라비아인의 도착은 그의 영혼에 새로운 생명을 불어넣었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P017-1",
+    "en": "\"When the news that Felix had lost his wealth and status reached Livorno, the merchant ordered his daughter to stop thinking about her lover and prepare to return to her home country. Safie's generous nature was outraged by this order. She tried to argue with her father, but he angrily repeated his tyrannical order and left.",
+    "ko": "\"펠릭스가 부와 지위를 잃었다는 소식이 리보르노에 전해졌을 때, 상인은 딸에게 더 이상 연인을 생각하지 말고 고국으로 돌아갈 준비를 하라고 명령했습니다. 사피의 관대한 본성은 이 명령에 분노했습니다. 그녀는 아버지와 따지려 했지만, 그는 화를 내며 폭군적인 명령을 반복하고 떠났습니다.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P018-1",
+    "en": "\"A few days later, the Turkish man hurriedly entered his daughter's room and said that the fact that he was living in Livorno seemed to have been leaked and that he would be handed over to the French government sooner or later. As a result, he had hired a ship to take him to Constantinople and was planning to set sail for that city within a few hours. He intended to leave his daughter in the care of a trusted servant so that she could follow at her leisure with the majority of his property, which had not yet arrived in Livorno.",
+    "ko": "\"며칠 후 터키인은 서둘러 딸의 방에 들어와 자신이 리보르노에 거주하고 있다는 사실이 누설된 것 같으며 조만간 프랑스 정부에 넘겨질 것이라고 말했습니다. 결과적으로 그는 자신을 콘스탄티노플로 데려갈 배를 고용했고 몇 시간 안에 그 도시를 향해 출항할 예정이었습니다. 그는 리보르노에 아직 도착하지 않은 자신의 재산 대부분과 함께 여유를 갖고 따라오도록 신뢰할 수 있는 하인의 돌봄 아래 딸을 남겨둘 생각이었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P019-1",
+    "en": "\"Left alone, Safie resolved in her heart the appropriate course of action she must pursue in this emergency. Living in Turkey was disgusting to her. Both her religion and her feelings had an aversion to it. Through her father's documents that fell into her hands, she heard the news of her lover's exile and learned the name of the place where he was living at the time.",
+    "ko": "\"혼자 남겨지자 사피는 이 비상사태에서 추구해야 할 적절한 행동 계획을 마음속으로 결심했습니다. 터키에서의 거주는 그녀에게 혐오스러운 것이었습니다. 그녀의 종교와 감정 모두 그것에 반감을 가졌습니다. 그녀의 손에 들어온 아버지의 문서들을 통해 그녀는 연인의 추방 소식을 들었고 그가 당시 거주하던 장소의 이름을 알게 되었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P019-2",
+    "en": "She hesitated for a moment, but finally made a decision. She packed a few pieces of jewelry she owned and some cash, and headed for Germany, leaving Italy with an attendant from Livorno who understood the common language of Turkey.",
+    "ko": "그녀는 잠시 망설였으나 마침내 결정을 내렸습니다. 그녀는 자신 소유의 약간의 보석과 현금을 챙겨, 터키의 공용어를 이해하는 리보르노 출신의 시종 한 명과 함께 이탈리아를 떠나 독일로 향했습니다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P020-1",
+    "en": "\"She arrived safely at a village about twenty leagues from De Lacey's hut, but her attendant fell critically ill. Safie nursed her with the most devoted affection, but the poor girl died, and the Arabian was left all alone, not knowing the language of the country and being completely ignorant of the customs of the world.",
+    "ko": "\"그녀는 드 라세의 오두막에서 약 스무 리그 떨어진 마을에 무사히 도착했지만, 그녀의 시종이 위독한 병에 걸렸습니다. 사피는 가장 헌신적인 애정으로 그녀를 간호했지만, 불쌍한 소녀는 죽었고 아라비아인은 그 나라의 언어를 모르고 세상의 관습에 전혀 무지한 채 홀로 남겨졌습니다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P020-2",
+    "en": "But she was left in the hands of good people. The Italian attendant had mentioned the name of their destination, and after she died, the landlady of the house where they had lived took care to ensure that Safie arrived safely at her lover's hut.\"",
+    "ko": "하지만 그녀는 좋은 사람들의 손에 맡겨졌습니다. 이탈리아인 시종이 목적지의 지명을 언급했었고, 그녀가 죽은 후 그들이 살았던 집의 여주인은 사피가 연인의 오두막에 무사히 도착하도록 돌보아주었습니다.\"",
+    "is_header": false
+  }
+]

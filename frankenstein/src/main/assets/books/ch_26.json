@@ -1,0 +1,506 @@
+[
+  {
+    "id": 1,
+    "tag": "P000-1",
+    "en": "Chapter 22",
+    "ko": "제22장",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P001-1",
+    "en": "The voyage ended. We landed and headed to Paris. I soon realized that I had exhausted my strength, and that I must rest before continuing my journey.",
+    "ko": "항해가 끝났다. 우리는 상륙하여 파리로 향했다. 나는 곧 내가 기력을 너무 많이 소모했으며, 여행을 계속하기 전에 반드시 쉬어야 한다는 것을 알게 되었다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P001-2",
+    "en": "My father cared for me tirelessly, but because he didn't know the source of my suffering, he looked for the wrong ways to cure an incurable illness. He wanted me to find joy in society. I despised seeing human faces.",
+    "ko": "아버지는 지칠 줄 모르고 나를 보살펴 주셨지만, 내 고통의 근원을 알지 못하셨기에 불치병을 치료할 잘못된 방법을 찾으셨다. 아버지는 내가 사교계에서 즐거움을 찾기를 바라셨다. 나는 인간의 얼굴을 보는 것이 혐오스러웠다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P001-3",
+    "en": "Oh, it wasn't hatred! They were my brothers, my fellow human beings, and I felt drawn even to the most unpleasant among them, as if they were creatures with an angelic nature and heavenly design.",
+    "ko": "아, 혐오한 것이 아니다! 그들은 내 형제들이요, 동족이었으며, 심지어 그들 중 가장 불쾌한 자에게조차 천사 같은 본성과 천상의 기계 장치를 지닌 피조물로서 끌림을 느꼈다.",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P001-4",
+    "en": "But I felt I had no right to share in their company. I had unleashed an enemy among them whose joy was to shed their blood and delight in their groans. If they knew about my unholy acts and the crimes that originated from me, they would all surely hate me and hunt me down to drive me from the world!",
+    "ko": "그러나 나는 그들과의 교류를 나눌 자격이 없다고 느꼈다. 나는 그들 속에 적을 풀어놓았고, 그 적의 기쁨은 그들의 피를 흘리게 하고 그들의 신음 속에서 쾌락을 느끼는 것이었다. 만약 그들이 나의 불경스러운 행위와 나로부터 비롯된 범죄를 알게 된다면, 하나같이 나를 혐오하고 이 세상에서 쫓아내려 할 것이 아닌가!",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P002-1",
+    "en": "My father eventually gave in to my desire to avoid society and tried through various arguments to banish my despair. Sometimes he thought I felt deeply ashamed of having to answer to a murder charge, and he tried to prove to me how useless pride was.",
+    "ko": "아버지는 결국 사교계를 피하려는 내 소망에 굴복하셨고, 여러 가지 주장을 통해 내 절망을 몰아내려 애쓰셨다. 때때로 아버지는 내가 살인 혐의에 대해 답변해야만 했던 수치심을 깊이 느끼고 있다고 생각하셨고, 자존심이 얼마나 부질없는 것인지 내게 증명하려 노력하셨다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P003-1",
+    "en": "“Alas! Father,” I said. “You know me so little. If a miserable person like me felt pride, human beings and their emotions and passions would truly be degraded.",
+    "ko": "\"아아! 아버지,\" 나는 말했다. \"아버지는 저를 너무나 모르십니다. 저 같은 비참한 자가 자존심을 느낀다면, 인간과 그들의 감정, 열정은 참으로 비하될 것입니다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P003-2",
+    "en": "Justine, poor unhappy Justine, was as innocent as I was, but she faced the same charge. She died because of it, and I am the cause of all this—I murdered her. William, Justine, and Henry—they all died by my hands.”",
+    "ko": "저스틴, 가엾고 불행한 저스틴은 저만큼이나 결백했지만, 같은 혐의를 받았습니다. 그녀는 그때문에 죽었고, 제가 이 모든 일의 원인입니다—제가 그녀를 죽였습니다. 윌리엄, 저스틴, 그리고 헨리—그들 모두 제 손에 죽었습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P004-1",
+    "en": "My father had often heard me make such claims while I was in prison. When I accused myself like this, he sometimes seemed to want an explanation, and other times he seemed to think it was the result of delirium and that, during my illness, some idea of this kind had popped into my imagination, leaving a memory I kept during my recovery. I avoided explaining and stayed quiet about the monster I had created. I was certain I would be considered crazy, and this alone would have kept my tongue tied forever.",
+    "ko": "아버지는 내가 감옥에 있는 동안 그런 주장을 하는 것을 종종 들으셨다. 내가 이렇게 나 자신을 고발할 때면, 때로는 설명을 원하시는 듯했고, 때로는 그것이 섬망의 산물이며 내가 병을 앓는 동안 그런 종류의 어떤 생각이 내 상상력에 떠올라 회복기에도 그 기억을 간직하고 있는 것이라고 여기시는 듯했다. 나는 설명을 피했고 내가 창조한 괴물에 대해서는 계속 침묵을 지켰다. 나는 미쳤다고 여겨질 것이라는 확신이 있었고, 이것 자체가 영원히 내 혀를 묶어두었을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P004-2",
+    "en": "Besides, I could not bring myself to reveal a secret that would shock the listener and plant fear and unnatural horror in their heart. So I held back my unbearable thirst for sympathy, and even when I would have given the whole world to confess the fatal secret, I stayed silent.",
+    "ko": "게다가, 듣는 이를 경악하게 하고 그 사람의 가슴속에 공포와 기형적인 두려움을 심어줄 비밀을 내 입으로 털어놓을 수는 없었다. 그래서 나는 동정에 대한 참을 수 없는 갈증을 억누르고, 세상의 모든 것을 바쳐서라도 그 치명적인 비밀을 털어놓고 싶었을 때도 침묵했다.",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P004-3",
+    "en": "Even so, words like the ones I have recorded would burst out of me uncontrollably. I could not offer any explanation for them, but their truth partly lifted the burden of my mysterious sorrow.",
+    "ko": "그럼에도 내가 기록한 것과 같은 말들이 통제할 수 없이 터져 나오곤 했다. 나는 그것들에 대해 아무런 설명도 할 수 없었지만, 그 말의 진실성이 내 미스터리한 슬픔의 짐을 부분적으로 덜어주었다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P005-1",
+    "en": "In this situation, my father expressed endless surprise and said, “My dearest Victor, what nonsense is this? My dear son, I beg you never to make such a claim again.”",
+    "ko": "이런 상황에서 아버지는 끝없는 놀라움을 표하며 말씀하셨다. \"가장 사랑하는 빅터야, 이 무슨 어리석은 소리냐? 사랑하는 아들아, 두 번 다시는 그런 주장을 하지 말기를 부탁한다.\"",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P006-1",
+    "en": "“I am not crazy,” I cried forcefully. “The sun and the sky, which have watched my work, can testify that my words are true. I am the assassin of those most innocent victims. They died because of my plots.",
+    "ko": "\"저는 미치지 않았습니다,\" 내가 힘주어 외쳤다. \"제 작업들을 지켜본 태양과 하늘이 제 말이 진실임을 증언할 수 있습니다. 저는 그 가장 순결한 희생자들의 암살자입니다. 그들은 제 음모로 인해 죽었습니다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P006-2",
+    "en": "I would have shed my own blood drop by drop a thousand times over if I could have saved their lives. But I could not, Father, I truly could not sacrifice the entire human race.”",
+    "ko": "수천 번이라도 제 피를 한 방울 한 방울 흘려서 그들의 생명을 구할 수만 있었다면 그리했을 것입니다. 하지만 저는, 아버지, 정말이지 전 인류를 희생시킬 수는 없었습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P007-1",
+    "en": "The conclusion of these words convinced my father that my mind had gone mad, and he immediately changed the subject of our conversation to try to alter the flow of my thoughts. He wanted to erase the memories of the scenes that had happened in Ireland as much as possible, never mentioned them, and did not allow me to speak of my misfortune.",
+    "ko": "이 말의 결론은 아버지로 하여금 내 정신이 이상해졌다고 확신하게 했고, 아버지는 즉시 화제를 돌려 내 생각의 흐름을 바꾸려 애쓰셨다. 아버지는 아일랜드에서 일어났던 장면들의 기억을 가능한 한 지워버리려 하셨고, 그것들을 절대 언급하지 않으셨으며 내가 불행에 대해 말하는 것을 허락하지 않으셨다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P008-1",
+    "en": "As time passed, I became calmer. Misery settled in my heart, but I no longer spoke in the same rambling way about my own crimes. Just being aware of them was enough for me. With extreme self-restraint, I suppressed the arrogant voice of pain that sometimes wanted to reveal itself to the whole world, and my attitude became calmer and more composed than at any time since my journey to the sea of ice.",
+    "ko": "시간이 흐름에 따라 나는 더 차분해졌다. 내 마음속에는 비참함이 자리 잡고 있었지만, 더 이상 내 자신의 범죄에 대해 횡설수설하는 식으로 말하지 않았다. 내게는 그 범죄에 대한 자각만으로도 충분했다. 온 세상을 향해 스스로를 드러내고자 때때로 욕망했던 그 고통의 거만한 목소리를 나는 극도의 자기 억제로 억눌렀고, 내 태도는 빙해로 여행을 떠난 이후 그 어느 때보다 차분하고 침착해졌다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P009-1",
+    "en": "A few days before we left Paris on our way to Switzerland, I received the following letter from Elizabeth:",
+    "ko": "우리가 스위스로 가는 길에 파리를 떠나기 며칠 전, 나는 엘리자베스로부터 다음과 같은 편지를 받았다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P010-1",
+    "en": "“To my beloved friend,",
+    "ko": "\"사랑하는 나의 친구에게,",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P011-1",
+    "en": "“It brought me the greatest joy to receive a letter from my uncle sent from Paris. You are no longer frighteningly far away, and I can hope to see you in less than half a month.",
+    "ko": "\"파리에서 삼촌이 보내신 편지를 받고 얼마나 기뻤는지 몰라요. 당신은 더 이상 그토록 무서운 먼 곳에 있지 않고, 보름 안에 당신을 볼 수 있다는 희망을 품을 수 있게 되었어요.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P011-2",
+    "en": "My poor cousin, how much you must have suffered! I guess you will look even more sickly than when you left Geneva. I have spent this winter most miserably, tortured by anxious waiting. But I hope to see peace on your face and to find that your heart is not completely empty of comfort and calm.",
+    "ko": "불쌍한 나의 사촌, 당신이 얼마나 많은 고통을 겪었을지! 당신이 제네바를 떠날 때보다 훨씬 수척해진 모습일 거라 짐작해요. 이번 겨울은 불안한 기다림으로 고문당하며 가장 비참하게 보냈어요. 하지만 당신의 얼굴에서 평온을 보고 당신의 마음이 위안과 평정으로 완전히 비어 있지는 않기를 바라요.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P012-1",
+    "en": "“However, I am afraid that the very same feelings that made you so miserable a year ago might still exist, perhaps even growing larger with time. I do not want to bother you at this time when so many misfortunes weigh you down, but because of a conversation I had with my uncle before he left, I feel some explanation is needed before we meet.",
+    "ko": "\"하지만 일 년 전 당신을 그토록 비참하게 만들었던 바로 그 감정들이 여전히, 심지어 시간과 함께 더 커져서 존재하지 않을까 두렵기도 해요. 이토록 많은 불행이 당신을 짓누르는 이 시기에 당신을 방해하고 싶지 않지만, 떠나시기 전 삼촌과 나누었던 대화 때문에 우리가 만나기 전에 어떤 설명이 필요할 것 같아요.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P013-1",
+    "en": "“An explanation! You might say, what could Elizabeth possibly have to explain?",
+    "ko": "\"설명이라! 당신은 엘리자베스가 무슨 설명할 것이 있단 말인가?",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P013-2",
+    "en": "If you truly say this, my question is answered and all my doubts are cleared. But you are far away from me, and it is possible that you might fear this explanation yet also be pleased by it. Considering this possibility, I can no longer put off writing the letter that I often wanted to express to you while you were away but never had the courage to start.",
+    "ko": "하고 말할지도 모르겠네요. 당신이 진정 그렇게 말한다면, 내 질문에 대한 대답은 된 셈이고 내 모든 의심은 풀린 거예요. 하지만 당신은 내게서 멀리 떨어져 있고, 이 설명을 두려워하면서도 또 기뻐할 가능성도 있어요. 그런 경우일 가능성에 비추어, 당신이 없는 동안 여러 번 표현하고 싶었으나 용기가 없어 시작조차 하지 못했던 편지를 더 이상 미룰 수 없네요.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P014-1",
+    "en": "“Victor, as you well know, our union has been our parents' most desired plan since we were children.",
+    "ko": "\"빅터, 당신도 잘 알다시피 우리의 결합은 우리가 어릴 적부터 부모님들께서 가장 원하시던 계획이었어요.",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P014-2",
+    "en": "We heard this story when we were young, and we were taught to look forward to it as an event that would surely happen in the future. We were affectionate playmates throughout our childhood, and as we grew older, I believe we were loving and precious friends to each other. But just as a brother and sister often hold deep affection for each other without wanting a closer union, isn't it possible that we are the same case? Tell me, dearest Victor.",
+    "ko": "우리는 어릴 때 이 이야기를 들었고, 장차 반드시 일어날 일로 기대하도록 배웠지요. 우리는 어린 시절 내내 다정한 놀이 친구였고, 나이가 들면서도 서로에게 사랑스럽고 소중한 친구였다고 믿어요. 하지만 오누이간에 흔히 더 친밀한 결합을 원하지 않으면서도 서로에게 깊은 애정을 품는 것처럼, 우리 역시 그런 경우가 아닐까요? 내게 말해줘요, 가장 사랑하는 빅터.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P014-3",
+    "en": "I beg you for the sake of our mutual happiness, please answer me with simple truth. Are you perhaps in love with someone else?",
+    "ko": "우리의 상호 행복을 걸고 간청하니, 단순한 진실로 대답해 줘요. 혹시 당신은 다른 사람을 사랑하고 있나요?",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P015-1",
+    "en": "“You have traveled, and you spent several years of your life in Ingolstadt. My friend, I confess to you that when I saw you looking so unhappy last fall, running away into solitude to avoid relationships with everyone, I could not help guessing that you might regret our relationship because of the burden of honor to fulfill your parents' wishes, even though their desires went against your own nature. But this is a mistaken thought. My friend, I confess to you that I love you, and in my fantasies about the future, you have always been my constant friend and companion.",
+    "ko": "\"당신은 여행을 했고, 당신 생애의 몇 년을 잉골슈타트에서 보냈어요. 내 친구여, 당신에게 고백건대, 지난 가을 너무나 불행해 보였던 당신이 모든 사람들과의 관계를 피해 고독 속으로 도망치는 것을 보았을 때, 나는 당신이 부모님의 뜻이 당신의 성향과 어긋남에도 불구하고 부모님의 소망을 이뤄야 한다는 명예의 굴레 때문에 우리 관계를 후회하고 있는 것은 아닌지 짐작하지 않을 수 없었어요. 하지만 이것은 잘못된 생각이에요. 내 친구여, 당신에게 고백건대 나는 당신을 사랑하며, 미래에 대한 나의 공상 속에서 당신은 늘 나의 한결같은 친구이자 동반자였어요.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P015-2",
+    "en": "But when I declare that our marriage would make me eternally miserable if it did not come from your own free choice, what I desire is not just my happiness, but yours as well. Even right now, it brings tears to my eyes to think that you, crushed by severe misfortune, might suppress all hope of the love and happiness that could restore you to your true self, just because of the single word 'honor'. Since I hold such selfless affection for you, I could multiply your misery tenfold by becoming an obstacle to your wishes. Ah!",
+    "ko": "하지만 우리의 결혼이 당신 스스로의 자유로운 선택에서 비롯된 것이 아니라면 그것이 나를 영원히 불행하게 만들 것이라 선언할 때, 내가 바라는 것은 내 행복만이 아니라 당신의 행복이기도 해요. 가혹한 불행에 짓눌린 당신이 오직 명예라는 단어 하나 때문에, 당신을 진정한 당신 자신으로 회복시켜 줄 그 사랑과 행복의 모든 희망을 억눌러버릴지도 모른다고 생각하면 지금 이 순간에도 눈물이 나요. 당신에게 이토록 이해타산 없는 애정을 품고 있는 내가, 당신의 소망에 장애물이 됨으로써 당신의 불행을 열 배로 가중시킬 수도 있으니까요. 아!",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P015-3",
+    "en": "Victor, rest assured. Because I, your cousin and playmate, hold such true love for you, I cannot help but feel miserable just from such a guess. Be happy, my friend. If you grant me this one request, rest easy knowing that nothing in the world will be able to shatter my peace.",
+    "ko": "빅터, 안심해요. 당신의 사촌이자 놀이 친구인 나는 당신을 향한 너무나 진실한 사랑을 품고 있기에, 그런 추측만으로도 비참해질 수밖에 없어요. 행복해져요, 나의 친구. 당신이 나의 이 한 가지 부탁만 들어준다면, 세상 그 어떤 것도 내 평온함을 깨뜨릴 수 없을 테니 안심해요.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P016-1",
+    "en": "“Do not let this letter upset you. If it causes you pain, do not reply tomorrow, or the day after, or even until you return. My uncle will let me know about your health, and if I see even a single smile on your lips when we meet, thanks to this letter or any other effort of mine, I will need no greater happiness.",
+    "ko": "\"이 편지로 동요하지 마세요. 당신에게 고통을 준다면 내일이나 모레, 아니 당신이 돌아올 때까지도 답장하지 마세요. 삼촌께서 당신의 건강 상태를 내게 알려주실 테고, 우리가 만났을 때 나의 이 편지나 다른 어떤 노력 덕분에 당신 입술에 한 번의 미소라도 띤다면 내게는 더 이상의 행복이 필요 없을 거예요.",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P017-1",
+    "en": "“Elizabeth Lavenza.",
+    "ko": "\"엘리자베스 라벤자.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P018-1",
+    "en": "“Geneva, May 18, 17—”",
+    "ko": "\"제네바, 17—년 5월 18일\"",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P019-1",
+    "en": "This letter brought back into my memory what I had previously forgotten, the monster's threat. —“I will be with you on your wedding night!” That was the sentence handed down to me, and on that night the monster would use every trick to destroy me and tear me away from the faint happiness that promised to at least partially comfort my pain. He had decided to complete his crimes by killing me on that night.",
+    "ko": "이 편지는 내가 전에 잊고 있었던 것, 바로 악마의 위협을 내 기억 속에 되살려 놓았다. —\"네 결혼식 날 밤에 너와 함께 하겠다!\" 그것은 내게 내려진 선고였고, 그 밤에 악마는 나를 파멸시키고, 내 고통을 부분적으로나마 위로해 주겠다고 약속했던 그 어렴풋한 행복에서 나를 떼어놓기 위해 온갖 계략을 동원할 것이었다. 그 밤에 그는 나를 죽임으로써 그의 범죄를 완성하겠다고 작정했었다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P019-2",
+    "en": "Fine, let him. If so, a deadly fight would surely break out, and if he won that fight, I would find rest and his control over me would end. If he lost, I would become a free man.",
+    "ko": "좋다, 그러라지. 그렇다면 틀림없이 치명적인 싸움이 벌어질 것이고, 그 싸움에서 그가 승리한다면 나는 안식을 얻을 것이며 나에 대한 그의 지배력도 끝이 날 것이다. 만약 그가 패배한다면 나는 자유인이 될 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P019-3",
+    "en": "Alas! What kind of freedom would that be? The kind of freedom enjoyed by a farmer who wanders around homeless, penniless, and alone, his family slaughtered before his eyes, his hut burned down, and his land ruined, but who is now free. Except for the fact that I possessed a treasure in my Elizabeth, my freedom would have been just like that, but alas, the terrifying horror of remorse and guilt that would chase me until I died was equal to it.",
+    "ko": "아아! 무슨 자유란 말인가? 자기 눈앞에서 가족이 학살당하고, 오두막은 불타고, 땅은 황폐해진 채 이리저리 떠돌며 집도, 돈도, 가족도 없이 홀로 남겨졌지만 자유로워진 농부가 누리는 그런 자유. 내 엘리자베스 안에서 내가 보물을 소유했다는 점만 빼면 나의 자유도 그와 같았을 것이나, 아아, 죽을 때까지 나를 쫓아다닐 그 끔찍한 가책과 죄책감의 공포가 그것과 맞먹었다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P020-1",
+    "en": "Sweet and beloved Elizabeth! I read her letter over and over again. And softened feelings seeped into my heart, daring to whisper dreams of heavenly love and joy, but the apple was already eaten, and the angel's arms were stripped bare to drive all hope away from me. Yet if it could make her happy, I was willing to die.",
+    "ko": "상냥하고 사랑받는 엘리자베스! 나는 그녀의 편지를 읽고 또 읽었다. 그리고 부드러워진 감정들이 내 마음속으로 스며들어 천국 같은 사랑과 기쁨의 꿈을 감히 속삭였으나, 사과는 이미 먹혔고 천사의 팔은 내게서 모든 희망을 몰아내기 위해 벗겨진 상태였다. 그러나 그녀를 행복하게 할 수 있다면 나는 죽어도 좋았다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P020-2",
+    "en": "If the monster carried out his threat, death was unavoidable. But on the other hand, I considered whether my marriage might speed up my fate. My doom might come a few months earlier, but if my torturer suspected that I had delayed the wedding because I was influenced by his threats, he would surely find another, perhaps even more terrible, means of revenge.",
+    "ko": "만약 괴물이 그의 위협을 실행에 옮긴다면 죽음은 불가피했다. 그러나 나는 또 한편으로 나의 결혼이 나의 운명을 앞당기는 것은 아닌지 고려해 보았다. 나의 파멸이 몇 달 더 일찍 올 수는 있겠지만, 만약 나를 고문하는 자가 그의 협박에 영향을 받아 내가 결혼을 연기했다고 의심한다면, 그는 틀림없이 다른, 아마도 더 끔찍한 복수의 수단을 찾을 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P020-3",
+    "en": "He had sworn to be with me on my wedding night, but he did not think of that threat as a promise to keep the peace in the meantime. As if to show me that his thirst for blood was not yet satisfied, he had murdered Clerval immediately after declaring his threat. Therefore, I decided that if an immediate union with my cousin would help her or my father's happiness, I would not delay the wedding by even an hour because of my enemy's plot against my life.",
+    "ko": "그는 내 결혼식 날 밤에 나와 함께 하겠다고 맹세했지만, 그 위협이 그 사이 동안 평화를 지키겠다는 약속이라고 생각하지는 않았다. 왜냐하면 그는 피에 굶주림이 아직 가시지 않았다는 것을 내게 보여주려는 듯이, 자신의 협박을 선언한 직후 즉시 클러벌을 살해했기 때문이다. 따라서 나는 사촌과의 즉각적인 결합이 그녀나 아버지의 행복에 도움이 된다면, 내 생명을 향한 적대자의 음모 때문에 단 한 시간도 결혼을 지체하지 않기로 결심했다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P021-1",
+    "en": "In this state of mind, I wrote a letter to Elizabeth.",
+    "ko": "이런 마음 상태로 나는 엘리자베스에게 편지를 썼다.",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P021-2",
+    "en": "My letter was calm and affectionate. “My dearest girl,” I wrote. “I fear there is little happiness left for us on earth. But all the joy I might one day experience is focused solely on you.",
+    "ko": "내 편지는 차분하고 애정 어린 것이었다. \"가장 사랑하는 소녀여,\" 내가 썼다. \"우리에게 지상에서 남은 행복은 거의 없지 않을까 두렵소. 그러나 내가 언젠가 누릴 수 있는 모든 기쁨은 오직 당신에게 집중되어 있소.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P021-3",
+    "en": "Chase away your useless fears. I will dedicate my life and my efforts for satisfaction to you alone. Elizabeth, I have one secret, a terrible secret. When it is revealed to you, your body will freeze in terror, and then, far from being surprised at my misery, you will only marvel that I endured those experiences and survived.",
+    "ko": "헛된 두려움은 쫓아버리시오. 오직 당신에게만 내 삶과 만족을 위한 나의 노력을 바치겠소. 엘리자베스, 내게는 한 가지 비밀이, 끔찍한 비밀이 있소. 그것이 당신에게 밝혀질 때 당신의 몸은 공포로 얼어붙을 것이며, 그러면 당신은 내 비참함에 놀라기는커녕 내가 그 겪은 일들을 감내하고 살아남았다는 것에 경이로움을 느낄 뿐일 것이오.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P021-4",
+    "en": "I will tell you this story of misery and terror the day after our wedding takes place. Because, my sweet cousin, there must be perfect trust between us. But until then, I beg you, do not mention it or even hint at it. I ask this most earnestly, and I trust that you will grant this request.”",
+    "ko": "나는 이 비참함과 공포의 이야기를 우리 결혼식이 치러진 다음 날 당신에게 털어놓겠소. 왜냐하면, 나의 달콤한 사촌이여, 우리 사이에는 완벽한 신뢰가 있어야만 하기 때문이오. 하지만 그때까지는 간청하건대 그 일에 대해 언급하거나 넌지시 비치지도 말아 주시오. 이것을 나는 가장 간절히 부탁하며, 당신이 이 부탁을 들어줄 것이라 믿소.\"",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P022-1",
+    "en": "About a week after Elizabeth's letter arrived, we returned to Geneva. This sweet girl welcomed me with warm affection, but tears gathered in her eyes when she saw my thin body and feverish cheeks. I also saw a change in her.",
+    "ko": "엘리자베스의 편지가 도착하고 약 일주일 후, 우리는 제네바로 돌아왔다. 이 다정한 소녀는 따뜻한 애정으로 나를 맞이했지만, 나의 수척한 몸과 열이 오르는 뺨을 보았을 때 그녀의 눈에는 눈물이 맺혔다. 나 역시 그녀에게서 변화를 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P022-2",
+    "en": "She had grown thinner than before, and she had lost much of that heavenly vitality that used to fascinate me. But her gentleness and kind gaze of pity made her an even more fitting companion for someone cursed and miserable like me.",
+    "ko": "그녀는 전보다 마르고, 예전에 나를 매혹시켰던 그 천상의 생기를 많이 잃어버렸다. 그러나 그녀의 부드러움과 상냥한 연민의 시선은 나처럼 저주받고 비참한 자에게 그녀를 더욱 어울리는 동반자로 만들어 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P023-1",
+    "en": "This tranquility I now enjoyed did not last long. Memories brought madness, and whenever I thought of past events, a true madness gripped me. Sometimes I flared up in fierce anger, and other times I sank into despair, feeling downcast. I would sit motionless, bewildered by the countless miseries overwhelming me, without speaking to or looking at anyone.",
+    "ko": "내가 이제 즐기게 된 이 평온함은 오래가지 않았다. 기억은 광기를 동반했고, 지나간 일들을 생각할 때면 진정한 광증이 나를 사로잡았다. 때로는 맹렬하게 분노에 타올랐고, 때로는 풀이 죽어 절망에 빠졌다. 나는 누구에게도 말을 걸거나 쳐다보지 않은 채, 나를 압도하는 수많은 비참함에 당혹스러워하며 꼼짝 않고 앉아 있곤 했다.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P024-1",
+    "en": "Only Elizabeth had the power to pull me out of these fits. Her soft voice soothed me when I was swept up by passion, and it breathed human emotions into me when I fell into lethargy. She cried with me and for me. When my reason returned, she tried to reason with me and encourage me to have a compliant heart.",
+    "ko": "오직 엘리자베스만이 나를 이 발작에서 끌어낼 힘을 지니고 있었다. 그녀의 부드러운 목소리는 열정에 휩쓸릴 때 나를 달래주었고, 무기력에 빠졌을 때 인간적인 감정을 불어넣어 주었다. 그녀는 나와 함께, 그리고 나를 위해 울어주었다. 이성이 돌아오면 그녀는 나를 타이르고 순응하는 마음을 갖도록 격려하려 애썼다.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P024-2",
+    "en": "Ah! It might be good for an unfortunate person to comply, but for someone who has committed a sin, there is no peace. The pain of guilt turns even the luxury that can sometimes be gained by falling into deep sorrow into poison.",
+    "ko": "아! 불행한 자에게는 순응하는 것이 좋을 테지만, 죄를 지은 자에게는 평화란 없다. 가책의 고통은, 깊은 슬픔에 빠지는 데서 간혹 얻을 수 있는 사치마저 독으로 만들어 버린다.",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P025-1",
+    "en": "Shortly after we arrived, my father spoke about my upcoming marriage with Elizabeth. I stayed silent.",
+    "ko": "우리가 도착하고 얼마 지나지 않아 아버지는 엘리자베스와 나의 임박한 결혼에 대해 말씀하셨다. 나는 침묵을 지켰다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P026-1",
+    "en": "“Then, do you have someone else in mind?”",
+    "ko": "\"그렇다면 달리 마음에 둔 사람이라도 있는 게냐?\"",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P027-1",
+    "en": "“No one in the world. I love Elizabeth and I look forward to our union with joy. So please set a date. On that day, whether in life or in death, I will devote myself to my cousin's happiness.”",
+    "ko": "\"세상에 아무도 없습니다. 저는 엘리자베스를 사랑하고 기쁨으로 우리의 결합을 고대하고 있습니다. 그러니 날짜를 정해주십시오. 그날에 저는 살아서나 죽어서나 사촌의 행복을 위해 제 자신을 바치겠습니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P028-1",
+    "en": "“My dear Victor, do not speak like that. A great misfortune has struck us, but let us cling tighter to what remains and pour the love for those we have lost onto those who are still alive.",
+    "ko": "\"사랑하는 빅터야, 그런 식으로 말하지 마라. 우리에게 큰 불행이 닥쳤지만, 남은 것들에 더욱 매달리고 우리가 잃은 이들에 대한 사랑을 아직 살아있는 이들에게 쏟자꾸나.",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P028-2",
+    "en": "Our circle will grow smaller, but it will be tied tightly by the bonds of affection and shared misfortune. And when time softens your despair, new and precious objects of care will be born to take the place of the people we were so cruelly robbed of.”",
+    "ko": "우리의 동그라미는 작아지겠지만 애정과 상호 불행의 끈으로 단단히 묶일 것이다. 그리고 시간이 네 절망을 누그러뜨릴 때면, 우리가 그토록 잔인하게 잃어버린 사람들을 대신할 새롭고 소중한 관심의 대상들이 태어날 것이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P029-1",
+    "en": "My father's teachings were like this. However, the memory of the threat returned to me, and you will not be surprised that I considered the devil almost invincible, given how almighty he had been in his bloody deeds so far. Also, when he declared, “I will be with you on your wedding night,” it is no surprise that I considered the threatened fate unavoidable.",
+    "ko": "아버지의 가르침은 이러했다. 하지만 위협에 대한 기억은 내게로 되돌아왔고, 그 악마가 지금까지 행한 피의 소행에서 보여주었듯 전능했던 것을 생각하면 내가 그를 거의 무적의 존재로 여겼다는 사실에 놀라지 않을 것이다. 또한 그가 \"네 결혼식 날 밤에 너와 함께 하겠다\"고 선언했을 때, 내가 그 위협받은 운명을 피할 수 없는 것으로 여겼다는 것도 놀랄 일이 아니다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P029-2",
+    "en": "But if I could trade it for losing Elizabeth, death was not a bad thing for me at all. Therefore, with a satisfied and even cheerful expression, I agreed with my father to hold the wedding in ten days if my cousin agreed, and by doing so, in my imagination, I sealed my fate.",
+    "ko": "그러나 만약 엘리자베스를 잃는 일과 맞바꿀 수 있다면 내게 죽음은 결코 나쁜 것이 아니었다. 그러므로 나는 만족스럽고 심지어는 유쾌한 표정으로 아버지에게 사촌이 동의한다면 열흘 뒤에 결혼식을 올리자고 동의했고, 그렇게 함으로써 내 상상 속에서는 내 운명에 도장을 찍었다.",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P030-1",
+    "en": "Great God! If I had thought for even a single moment what the devilish rival's hellish intention might be, I would rather have banished myself from my homeland forever and wandered the earth as a friendless outcast than agreed to this miserable marriage. But as if he had magical powers, the monster blinded me so I could not see his true intention. I thought I was only preparing for my own death, but in fact, I was hastening the death of a much more precious victim.",
+    "ko": "위대한 신이여! 만약 단 한순간이라도 악마 같은 적수의 지옥 같은 의도가 무엇일지 생각했더라면, 나는 차라리 조국에서 영원히 나를 추방하고 의지할 곳 없는 떠돌이로 지구상을 헤매는 편을 택했을지언정 이 비참한 결혼에 동의하지는 않았을 것이다. 그러나 마법의 힘이라도 지닌 듯 괴물은 나를 눈멀게 하여 그의 진짜 의도를 보지 못하게 했다. 나는 내 자신의 죽음만을 준비하고 있다고 생각했지만, 사실은 그보다 훨씬 더 소중한 희생자의 죽음을 재촉하고 있었던 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P031-1",
+    "en": "As the set time for our marriage approached, whether from cowardice or a dark premonition, I felt my heart sink. But I hid my feelings with an exaggerated cheerfulness, which brought smiles and joy to my father's face, though it could not fool Elizabeth's sharp, ever-watchful eyes. She looked forward to our union in calm satisfaction, but it was mixed with a slight fear deeply imprinted by past misfortunes. It was the fear that the happiness that now seemed certain and real might soon scatter into an empty dream, leaving only deep and eternal regret.",
+    "ko": "우리 결혼을 위해 정해진 시기가 다가오면서, 비겁함 때문이었는지 아니면 불길한 예감 때문이었는지 내 마음이 철렁 내려앉는 것을 느꼈다. 하지만 나는 과장된 쾌활함으로 내 감정을 숨겼고, 이는 아버지의 얼굴에 미소와 기쁨을 가져다주었으나 항상 지켜보고 있는 엘리자베스의 예리한 눈을 속이지는 못했다. 그녀는 우리의 결합을 평온한 만족감 속에서 고대했지만, 한편으로는 과거의 불행이 각인시켜 놓은 약간의 두려움이 뒤섞여 있었다. 지금은 확실하고 실체가 있는 것처럼 보이는 행복이 곧 공허한 꿈으로 흩어져 버리고 깊고 영원한 후회만을 남기지 않을까 하는 두려움 말이다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P032-1",
+    "en": "Preparations for the event were made, guests came to congratulate us, and everything took on a smiling atmosphere. I did my best to lock away the anxiety gnawing at my heart and outwardly pretended to be sincere as I joined my father's plans. Even if they would only serve as decorations for my tragedy. Thanks to my father's efforts, part of Elizabeth's inheritance was returned by the Austrian government.",
+    "ko": "행사를 위한 준비가 이루어졌고, 축하객들이 방문했으며 모든 것이 미소 짓는 분위기를 띠었다. 나는 내 마음을 좀먹는 불안을 최선을 다해 내 마음속에 가두어 두고 겉으로는 진심인 척하며 아버지의 계획에 동참했다. 비록 그것들이 내 비극의 장식으로만 쓰일지라도 말이다. 아버지의 노력 덕분에 오스트리아 정부로부터 엘리자베스의 상속 재산 일부를 반환받았다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P032-2",
+    "en": "A small property on the shores of Lake Como became hers. We agreed that right after the wedding, we would go to Villa Lavenza and spend our first days of happiness by the beautiful lake where it stood.",
+    "ko": "코모 호숫가에 있는 작은 소유지가 그녀의 것이 되었다. 우리는 결혼식이 끝나는 즉시 라벤자 별장으로 가서 그것이 서 있는 아름다운 호숫가에서 행복의 첫 날들을 보내기로 합의했다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P033-1",
+    "en": "In the meantime, I took all precautions to protect my body in case the monster attacked me openly. I carried a pistol and a dagger with me at all times and was always on guard to prevent any tricks, and thanks to these methods, I was able to gain greater peace of mind. In fact, as the time approached, the threat began to look more like a kind of delusion that was not worth breaking my peace. On the other hand, the happiness I hoped for through marriage took on a greater sense of certainty as the set date approached, and I constantly heard it talked about as an event that no accident could stop.",
+    "ko": "그동안 나는 악마가 공개적으로 나를 공격할 경우에 대비하여 내 몸을 지키기 위한 모든 예방책을 취했다. 나는 권총과 단검을 항상 지니고 다녔고 술책을 방지하기 위해 언제나 경계를 늦추지 않았으며, 이러한 방법들 덕분에 더 큰 평정을 얻을 수 있었다. 사실 그 시기가 다가올수록 그 위협은 내 평화를 깨뜨릴 가치가 없는 일종의 망상처럼 보이기 시작했다. 반면 결혼을 통해 내가 바라던 행복은 그것이 거행되기로 정해진 날짜가 다가올수록 더 큰 확신의 모습을 띠었고, 나는 그것이 어떤 사고로도 막을 수 없는 사건처럼 끊임없이 이야기되는 것을 들었다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P034-1",
+    "en": "Elizabeth looked happy. My calm attitude helped greatly to soothe her mind. But on the very day that would fulfill my wish and my destiny, she felt depressed and a dark premonition wrapped around her. And perhaps she was thinking about the terrifying secret I had promised to reveal to her the next day.",
+    "ko": "엘리자베스는 행복해 보였다. 나의 차분한 태도는 그녀의 마음을 진정시키는 데 크게 기여했다. 그러나 내 소망과 내 운명을 이룰 바로 그 날, 그녀는 우울해했고 불길한 예감이 그녀를 감싸고 있었다. 그리고 아마도 그녀는 내가 다음 날 그녀에게 밝히기로 약속했던 그 무서운 비밀을 생각하고 있었을지도 모른다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P034-2",
+    "en": "Meanwhile, my father was extremely happy, and in the hustle of preparation, he simply mistook his niece's depression for a bride's shyness.",
+    "ko": "그동안 아버지는 몹시 기뻐하셨고, 준비의 번잡함 속에서 조카딸의 우울함을 그저 신부의 수줍음으로만 여기셨다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P035-1",
+    "en": "After the wedding was over, a large party was held at my father's house, but Elizabeth and I agreed to start our journey by boat, sleep at Evian that night, and continue traveling the next day. The day was clear, the wind was favorable, and everything was smiling upon our marriage voyage.",
+    "ko": "결혼식이 끝난 후 아버지의 집에는 대규모 파티가 열렸지만, 엘리자베스와 나는 배를 타고 여행을 시작하여 그날 밤은 에비앙에서 자고 다음 날 여행을 계속하기로 합의했다. 날은 맑았고 바람은 순조로웠으며, 우리의 결혼 항해를 위해 모든 것이 미소 짓고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P036-1",
+    "en": "Those were the last moments in my life when I enjoyed the feeling of happiness. We moved forward quickly.",
+    "ko": "그것은 내 삶에서 행복이라는 감정을 누린 마지막 순간들이었다. 우리는 빠르게 나아갔다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P036-2",
+    "en": "The sun was hot, but we enjoyed the beauty of the surrounding scenery while blocking the beating sunlight with a kind of cover. At one point, on one side of the lake, we saw Mount Salève and the pleasant banks of Montalègre, and far away, soaring above everything, the beautiful Mont Blanc and the group of snow-covered mountains vainly trying to compete with it. Sometimes we sailed along the shore on the opposite side and saw the magnificent Jura Mountains showing their dark side as an almost insurmountable barrier to ambitions of leaving the homeland and to invaders trying to enslave this land.",
+    "ko": "태양은 뜨거웠지만 우리는 일종의 덮개로 내리쬐는 햇빛을 피하면서 주변 풍경의 아름다움을 즐겼다. 한때는 호수의 한쪽 편에서 살레브 산과 몽탈레그르의 쾌적한 둔치를 보았고, 멀리 모든 것을 굽어보며 솟아 있는 아름다운 몽블랑과 그와 겨루려 헛되이 애쓰는 눈 덮인 산맥들의 무리를 보았다. 때로는 반대쪽 기슭을 따라 연안을 항해하며 웅장한 쥐라 산맥이 그 어두운 옆구리를 조국을 떠나려는 야심과, 이 땅을 노예로 만들고자 하는 침략자에게 거의 넘을 수 없는 장벽으로 내세우고 있는 것을 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P037-1",
+    "en": "I held Elizabeth's hand.",
+    "ko": "나는 엘리자베스의 손을 잡았다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P037-2",
+    "en": "“You look sad, my love. Ah! If you knew the things I have been through and the things I might still have to endure, you would try to let me taste at least for this one day the peace and freedom from despair that is allowed to me.”",
+    "ko": "\"당신 슬퍼 보이는군요, 내 사랑. 아! 만약 당신이 내가 겪어온 일과 앞으로 감내해야 할지도 모를 일들을 안다면, 적어도 이 하루만큼은 내게 허락된 평온과 절망으로부터의 자유를 맛보게 해주고자 노력할 텐데요.\"",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P038-1",
+    "en": "“Be happy, my love Victor,” Elizabeth answered. “I hope there is nothing to trouble you. And please believe that even if vivid joy is not painted on my face, my heart is satisfied. Something whispers to me not to rely too much on this prospect spread before us, but I will not listen to such a dark voice.",
+    "ko": "\"행복하세요, 내 사랑 빅터,\" 엘리자베스가 대답했다. \"당신을 괴롭힐 일은 아무것도 없기를 바라요. 그리고 내 얼굴에 생생한 기쁨이 그려져 있지 않다고 해도, 내 마음은 만족스럽다는 걸 믿어주세요. 무언가가 내게 우리 앞에 펼쳐진 이 전망에 너무 의존하지 말라고 속삭이지만, 나는 그런 불길한 목소리에 귀 기울이지 않을 거예요.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P038-2",
+    "en": "Look at how fast we are moving forward, and how the clouds, which sometimes hide Mont Blanc's dome and sometimes rise above it, make this beautiful scenery even more interesting.",
+    "ko": "우리가 얼마나 빠르게 나아가고 있는지, 그리고 몽블랑의 돔을 때로는 가리고 때로는 그 위로 솟아오르는 구름들이 이 아름다운 풍경을 얼마나 더 흥미롭게 만들어 주는지 보세요.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P038-3",
+    "en": "Look also at the countless fish swimming in the water, which is so clear that you can distinguish every single pebble lying on the bottom. What a holy day! To think that all of nature looks this happy and peaceful!”",
+    "ko": "바닥에 놓인 조약돌 하나하나까지 다 구별할 수 있을 만큼 맑은 물속을 헤엄치는 무수한 물고기들도 보세요. 얼마나 성스러운 날인지요! 온 자연이 이토록 행복하고 평온해 보이다니!\"",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P039-1",
+    "en": "Like this, Elizabeth tried to turn her thoughts and mine away from any reflection on gloomy topics. But her mood swung wildly. For a few moments, joy shone in her eyes, but it soon gave way to anxiety and deep thought.",
+    "ko": "이렇듯 엘리자베스는 그녀 자신과 나의 생각을 우울한 주제에 대한 모든 성찰로부터 돌리려 애썼다. 그러나 그녀의 기분은 기복이 심했다. 몇 순간 동안 기쁨이 그녀의 눈에 빛났지만 그것은 이내 불안과 깊은 생각에 자리를 내주었다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P040-1",
+    "en": "The sun sank lower in the sky. We passed the Dranse River and observed the river's path winding through the gorges of the high hills and the valleys of the low hills. Here, the Alps came closer to the lake, and we approached the amphitheater of mountains that formed the lake's eastern boundary. The spire of Evian shone beneath the forest that surrounded it and the overlapping mountain ranges towering above it.",
+    "ko": "태양은 하늘에서 더 낮게 내려앉았다. 우리는 드랑스 강을 지나, 높은 언덕들의 협곡과 낮은 언덕들의 골짜기를 굽이쳐 흐르는 강의 경로를 관찰했다. 여기서 알프스 산맥은 호수에 더 가까이 다가와 있었고, 우리는 호수의 동쪽 경계를 이루는 산들의 원형 극장에 접근했다. 에비앙의 첨탑은 그것을 둘러싼 숲과, 그 위로 첩첩이 겹쳐진 산맥들 아래에서 빛나고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P041-1",
+    "en": "The wind, which had carried us at an amazing speed until now, died down to a breeze around sunset. The soft air made the water surface ripple slightly, and as we approached the shore, it caused a pleasant movement among the trees and brought the sweetest scent of flowers and hay. When we landed, the sun sank below the horizon, and the moment I stepped on the shore, I felt the worries and fears that would soon grip me tightly and cling to me forever come back to life.",
+    "ko": "지금까지 우리를 놀라운 속도로 실어 날랐던 바람은 일몰 무렵 미풍으로 잦아들었다. 부드러운 공기가 수면을 살짝 잔물결 짓게 했고, 우리가 해안에 접근할 때 나무들 사이로 기분 좋은 움직임을 일으키며 꽃과 건초의 가장 달콤한 향기를 실어 왔다. 우리가 상륙했을 때 태양은 지평선 아래로 가라앉았고, 내가 해안에 발을 디디는 순간 곧 나를 꽉 움켜쥐고 영원히 매달릴 걱정과 두려움이 되살아나는 것을 느꼈다.",
+    "is_header": false
+  }
+]

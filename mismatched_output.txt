@@ -1,0 +1,160 @@
+ID: 5
+TAG: P005a
+EN: My news today is not very good. Lucy's condition worsened a bit this morning. However, one positive thing did come out of it. Mrs. Westenra was naturally worried about Lucy and asked for my professional medical advice. I took this opportunity to tell her that my former professor, the great specialist Van Helsing, is coming to stay with me. I explained that we would be managing Lucy's care together. Because of this, we can now visit freely without causing Mrs. Westenra unnecessary alarm.
+KO: 오늘 소식은 그리 좋지 않네. 오늘 아침 루시의 상태가 조금 나빠졌거든. 하지만 그로 인해 한 가지 다행스러운 일이 생겼다네. 루시 어머니인 웨스텐라 부인은 당연히 딸을 걱정하며 내게 의학적인 조언을 구하셨지. 나는 이 기회를 빌려 나의 옛 스승이자 위대한 전문의이신 반 헬싱 교수님이 나와 함께 머물기 위해 오실 예정이며, 내가 교수님과 공동으로 루시의 치료를 맡겠다고 부인께 말씀드렸어. 덕분에 이제 우리는 부인을 지나치게 놀라게 하지 않으면서도 자유롭게 드나들 수 있게 되었네. 부인에게 충격을 주는 것은 갑작스러운 죽음을 의미할 수 있고, 루시가 이토록 쇠약한 상태에서 어머니의 죽음은 치명적인 결과를 초래할 수 있기 때문이지.
+---
+ID: 6
+TAG: P005b
+EN: Any shock could cause Mrs. Westenra to suffer sudden death, and losing her mother while in such a weak condition would be disastrous for Lucy. My poor old friend, we are all surrounded by difficulties right now, but with God's help, we will make it through. I will write to you if anything comes up, so if you don't hear from me, just assume I am waiting to see how things develop. Writing in a rush.
+KO: 내 가여운 오랜 친구여, 우리 모두는 겹겹이 쌓인 어려움 속에 갇혀 있네. 하지만 신의 뜻에 따라 이 모든 것을 무사히 이겨낼 수 있을 거야. 필요한 일이 생기면 편지를 쓸 테니, 내게서 연락이 없으면 단순히 상황을 지켜보며 기다리는 중이라 생각해 주게. 서둘러 이만 줄이네.
+---
+ID: 13
+TAG: P012a
+EN: Good job, my friend," he said. "Very good! It's better that he doesn't know right now; in fact, maybe he should never know. I hope it doesn't come to that, but if it becomes necessary, we will tell him everything. And my good friend John, let me give you a warning. You work with mentally ill patients. Everyone is a little crazy in one way or another. Just as you handle your patients with discretion, you must treat the rest of the world—God's crazy people—the exact same way.
+KO: 잘했네, 내 친구." 교수님이 말씀하셨다. "아주 잘했어! 아직은 그가 모르는 편이 낫지. 어쩌면 영영 모르는 편이 나을지도 모르네. 나 역시 그러기를 바라네만, 만약 필요해진다면 그때는 그도 모든 것을 알아야 할 걸세. 그리고 훌륭한 내 친구 존, 한 가지 주의를 주고 싶네. 자네는 정신 질환자들을 다루는 의사지. 모든 인간은 어떤 면에서는 다 미치광이들이라네. 자네가 병원의 미치광이들을 신중하게 다루듯이, 세상의 다른 일반 사람들, 즉 신이 만든 미치광이들도 똑같이 신중하게 대하게. 자네는 환자들에게 자네가 무슨 일을 하는지, 왜 그 일을 하는지 일일이 설명하지 않지 않나. 무슨 생각을 하는지도 말하지 않고 말이야.
+---
+ID: 14
+TAG: P012b
+EN: You don't explain everything you do or why you do it to your patients, nor do you tell them all your thoughts. In the same way, you need to keep what you know to yourself right now, so it can settle and grow into a clearer understanding over time. For now, you and I must keep what we know right here, and here." He tapped my chest and my forehead, and then did the same to himself. "I have some theories forming right now, but I will explain them to you later.
+KO: 그러니 자네는 지금 알고 있는 사실들을 조용히 가슴에만 묻어두게. 그 지식이 머릿속에 머물며 비슷한 조각들을 모아 더 커질 수 있도록 말일세. 자네와 나는 아직 우리가 아는 것을 바로 여기와 여기에만 간직해야 하네." 교수님은 내 가슴과 이마를 짚으시더니, 자신의 가슴과 이마도 똑같이 짚으셨다. "지금으로서는 나 혼자만의 생각들이 있네. 나중에 자네에게 모두 털어놓지.
+---
+ID: 17
+TAG: P014b
+EN: In response, he reached over, grabbed my ear, and pulled it playfully, just like he used to do during his university lectures, and said: "A good farmer can say that because he has enough experience to know, but he won't say it until he is sure. However, a good farmer never digs up a planted seed just to check if it's growing. That is something children do when playing pretend, not what a professional farmer does for a living. Do you understand now, John?
+KO: 훌륭한 옥수수요. 때가 되면 아주 좋은 수확을 안겨줄 것이오.' " 나는 그 비유가 무슨 뜻인지 이해하지 못했고, 솔직하게 그렇다고 대답했다. 대답 대신 교수님은 손을 뻗어 내 귀를 잡고 예전에 강의하실 때 하시던 것처럼 장난스럽게 당기며 말씀하셨다. "훌륭한 농부는 자신이 잘 알기 때문에 그렇게 말하는 것이지, 확실히 알기 전에는 절대 입을 열지 않아. 하지만 아무리 훌륭한 농부라도 옥수수가 잘 자라고 있는지 보려고 심어놓은 씨앗을 파헤치지는 않지. 그런 행동은 농사놀이를 하는 아이들이나 하는 짓이지, 농사를 평생의 업으로 삼는 전문가들이 할 짓은 아니니까.
+---
+ID: 19
+TAG: P015a
+EN: You were always a meticulous student, and your patient records were always more detailed than anyone else's. Back then you were just a student, but now you are a senior doctor yourself, and I trust you haven't lost that good habit. Remember, my friend, written documentation is stronger than human memory, and we should never rely on the weaker option. Even if you haven't kept up with your record-keeping, you need to start now.
+KO: 자네는 항상 꼼꼼한 학생이었고, 자네의 환자 기록부는 늘 다른 학생들보다 훨씬 상세했지. 그때는 그저 학생에 불과했지만 지금은 훌륭한 전문의가 되었으니, 그 좋은 습관을 잃지 않았으리라 믿네. 기억하게, 내 친구. 기록된 지식은 머릿속의 기억보다 강하며, 우리는 더 약한 기억에 의존해서는 안 되네. 행여나 그 좋은 습관을 잃어버렸다 해도 당장 다시 시작하게.
+---
+ID: 20
+TAG: P015b
+EN: This case with our dear Miss Westenra might become—and notice I say 'might'—so uniquely important to us and to medical science that it outweighs every other case you've ever had. So take careful notes. No detail is too small. I strongly advise you to write down even your unproven doubts and guesses. Later on, it will be very interesting to see how accurate your guesses were. We learn from our mistakes, not our successes!
+KO: 우리 친애하는 아가씨의 이번 사건은 세상의 저울을 무너뜨릴 만큼, 즉 우리와 의학계에 다른 어떤 사건들보다도 압도적으로 큰 관심사가 될 '수도' 있네. 내가 '수도 있다'고 한 점을 유념하게. 그러니 모든 것을 빠짐없이 기록해 두게나. 너무 사소해서 지나칠 일은 없어. 의심이나 추측조차도 전부 기록에 남기라고 조언하고 싶군. 나중에 자네의 추측이 얼마나 적중했는지 확인해 보는 것도 큰 의미가 있을 걸세. 우리는 성공이 아니라 실패에서 배우는 법이니까!
+---
+ID: 21
+TAG: P016a
+EN: When I described Lucy's symptoms—which were the same as before, but much worse—he looked very grave, but didn't say anything. He had brought a bag filled with medical instruments and drugs, or as he once joked in a lecture, "the ghastly equipment of our healing profession." When we were shown inside, Mrs. Westenra greeted us. She was anxious, but not nearly as panicked as I expected her to be. Nature, in its mercy, seems to provide a natural defense against the terror of death. In this case, where any sudden shock could kill her, something was protecting Mrs. Westenra.
+KO: 내가 루시의 증상을—전과 같지만 훨씬 더 심해졌다고—설명하자, 교수님은 매우 심각한 표정을 지으셨지만 아무 말씀도 하지 않으셨다. 교수님은 예전에 강의 중에 의학 교수의 장비들을 가리켜 '우리처럼 유익한 일을 하는 직업의 소름 끼치는 도구들'이라고 부르셨던, 수술 도구와 약품이 잔뜩 든 가방을 챙겨 오셨다. 우리가 안내를 받아 안으로 들어갔을 때 웨스텐라 부인이 우리를 맞이했다. 부인은 놀라긴 했지만 내가 예상했던 것만큼 크게 놀란 상태는 아니었다. 대자연은 자비로운 섭리를 베풀어, 죽음의 공포조차도 견뎌낼 수 있는 일종의 해독제를 마련해 둔 것 같았다.
+---
+ID: 29
+TAG: P021
+EN: Jack, I was so worried. I read between the lines of your letter and I've been agonizing over it. My father is doing better, so I rushed down here to see for myself. Is this gentleman Dr. Van Helsing? Thank you so much for coming, sir." When the Professor first saw him, he looked annoyed by the interruption. But as he noticed Arthur's strong, muscular build and youthful energy, his eyes lit up. Without hesitating, he shook Arthur's hand and said seriously:
+KO: 잭, 정말 너무 걱정했네. 자네 편지의 행간을 읽고 극도의 불안감에 시달렸다네. 아버지 상태가 호전되셨기에 내 눈으로 직접 확인하려고 곧장 달려왔지. 저 신사분이 반 헬싱 박사님이신가? 와주셔서 정말 감사합니다, 박사님." 처음 교수님의 시선이 그에게 머물렀을 때, 교수님은 이런 긴급한 상황에 방해를 받은 것에 역정을 내시는 듯했다. 하지만 그의 건장한 체격을 살피고 그에게서 뿜어져 나오는 젊고 강인한 활기를 알아차리자 교수님의 눈이 반짝였다. 교수님은 지체 없이 그에게 손을 내밀며 진지하게 말씀하셨다.
+---
+ID: 30
+TAG: P022
+EN: Sir, you arrived just in time. You are the young lady's fiancé. Her condition is very, very bad. No, my boy, don't collapse like that." Arthur had suddenly turned pale and practically fell into a chair, looking like he might faint. "You have to help her. You can do more for her right now than anyone else alive, and you must find your courage.
+KO: 선생, 때맞춰 잘 오셨습니다. 당신이 바로 우리 친애하는 아가씨의 약혼자군요. 아가씨의 상태가 나쁩니다. 아주, 아주 나쁩니다. 안 됩니다, 젊은이. 그렇게 쓰러지면 안 됩니다." 아서가 갑자기 창백해지며 거의 기절할 듯이 의자에 주저앉았기 때문이다. "당신이 아가씨를 도와야 합니다. 당신은 살아 있는 그 누구보다도 많은 것을 해낼 수 있고, 당신의 용기가 당신에게 가장 큰 무기가 될 것입니다.
+---
+ID: 34
+TAG: P026a
+EN: Your young lady is very, very sick. She needs blood, and if she doesn't get it, she will die. John and I were just about to perform a blood transfusion—taking blood from full veins and putting it into empty ones that desperately need it. John was going to be the donor because he is younger and stronger than I am"—at this, Arthur grabbed my hand and squeezed it tightly in silent thanks—"but now that you're here, you are the best choice. John and I do too much exhausting mental work.
+KO: 젊은 아가씨의 상태가 나쁩니다, 아주 나쁩니다. 아가씨는 피가 필요하고, 당장 피를 공급받지 못하면 죽고 맙니다. 내 친구 존과 내가 상의한 끝에, 이른바 수혈이라는 시술을 막 하려던 참이었습니다. 한 사람의 가득 찬 혈관에서 피를 갈구하는 텅 빈 혈관으로 피를 나누어 주는 시술이지요. 존이 나보다 더 젊고 튼튼하기 때문에 그의 피를 주기로 했었습니다." 이 대목에서 아서가 내 손을 잡고 묵묵히 꽉 쥐었다. "하지만 이제 당신이 왔으니, 머리를 쓰는 고된 일을 많이 하는 우리 같은 의사들보다 당신이 훨씬 낫습니다.
+---
+ID: 38
+TAG: P029a
+EN: Good boy!" Van Helsing said. "Very soon, you will be happy knowing you did everything possible for the woman you love. Now come with us, and stay quiet. I will let you kiss her once before we begin, but then you must step back and leave the room the moment I give you the signal. And say nothing to her mother. You know how frail she is. We can't let her experience any shock, and knowing about this procedure would certainly be a shock. Come!
+KO: 훌륭한 청년이군요!" 반 헬싱 교수님이 말씀하셨다. "머지않아 당신은 사랑하는 그녀를 위해 모든 것을 다했다는 사실에 행복해할 겁니다. 자, 이제 와서 조용히 하십시오. 시술이 끝나기 전에 그녀에게 한 번 입 맞추게 해주겠지만, 그 후에는 당장 방을 떠나야 하고 내 신호에 맞춰 물러나야 합니다. 부인에게는 아무 말도 하지 마십시오. 부인의 상태가 어떤지 알지요! 부인에게 충격을 주어서는 안 됩니다. 이 사실을 알게 되는 것 자체가 부인에겐 끔찍한 충격이 될 겁니다. 자, 오십시오!
+---
+ID: 41
+TAG: P032a
+EN: I was shocked by how long it took for the sedative to take effect. In reality, this just proved how completely exhausted her body was. The time dragged on until finally, her eyelids began to droop. At long last, the sedative started working, and she fell into a deep sleep. Once the Professor was satisfied that she was completely under, he called Arthur into the room and told him to take off his coat. Then he added, "You can give her one quick kiss while I set up the table.
+KO: 약효가 나타나기까지 시간이 얼마나 오래 걸리는지 나는 놀라움을 금치 못했다. 사실 그것은 그녀가 얼마나 극도로 쇠약해져 있는지를 보여주는 증거이기도 했다. 그녀의 눈꺼풀에 졸음이 어른거리기 시작할 때까지의 시간은 끝이 없는 것처럼 느껴졌다. 그러나 마침내 수면제가 효력을 발휘하기 시작했고, 그녀는 깊은 잠에 빠져들었다. 만족스러워진 교수님은 아서를 방으로 부르더니 외투를 벗으라고 지시하셨다. 그러고는 덧붙이셨다. "내가 탁자를 가져오는 동안 가볍게 한 번 입을 맞추게나.
+---
+ID: 45
+TAG: P035a
+EN: Van Helsing performed the procedure quickly but with absolute precision. As the blood transfusion continued, life seemed to flow back into poor Lucy's pale cheeks. Arthur was getting paler by the minute, but the pure joy on his face was practically glowing. After a while, I started getting worried, because losing that much blood was taking a heavy toll on Arthur, even though he was a strong man. It made me realize just how devastating Lucy's blood loss must have been, considering that draining Arthur so severely only partially restored her color.
+KO: 그러고 나서 반 헬싱 교수님은 신속하면서도 완벽한 솜씨로 시술을 진행하셨다. 수혈이 진행됨에 따라 가엾은 루시의 뺨에 차츰 생기가 도는 듯했고, 아서의 얼굴은 점점 창백해져 갔지만 그의 표정만큼은 기쁨으로 빛나는 것 같았다. 잠시 후 나는 불안해지기 시작했다. 피를 흘린 탓에 아무리 강인한 아서라도 한계에 다다르고 있었기 때문이다. 아서를 쇠약하게 만들 만큼 엄청난 양의 피로도 루시는 그저 부분적으로만 회복된 것을 보니, 그동안 루시의 몸이 얼마나 무서운 타격을 입었을지 짐작조차 가지 않았다. 하지만 교수님의 표정은 굳어 있었고, 한 손에 회중시계를 든 채 루시와 아서를 번갈아 주시하며 서 계셨다.
+---
+ID: 48
+TAG: P036b
+EN: He didn't say anything to Arthur, but turned to me and said: "Now take our brave young man downstairs, give him a glass of port wine, and let him lie down for a bit. After that, he needs to go home, rest, eat well, and sleep so he can recover the strength he just gave to the woman he loves. He cannot stay here tonight. Wait! Let me assure you, sir, since you are surely anxious about the result. Rest assured that the procedure was a complete success.
+KO: 이제 우리의 용감한 젊은 연인을 아래층으로 데려가서 포트와인을 좀 먹이고 잠시 눕혀 두게나. 그런 다음 집에 가서 푹 쉬고, 잠도 푹 자고 음식도 많이 먹어서 연인을 위해 쏟아부은 체력을 회복해야 한다고 일러두게. 여기에 머물러서는 절대 안 되네. 잠깐! 선생, 시술 결과가 걱정되실 테지요. 그렇다면 모든 면에서 시술이 성공적이었다는 사실을 마음속에 깊이 새겨두십시오. 선생이 이번에 그녀의 목숨을 구했으니, 안심하고 집에 돌아가 쉬어도 좋습니다. 최선을 다했습니다.
+---
+ID: 50
+TAG: P037
+EN: After Arthur left, I went back into the bedroom. Lucy was sleeping peacefully, and her breathing was much stronger; I could see the blanket rising and falling with her chest. Van Helsing was sitting by the bed, staring at her intently. The velvet ribbon had fallen back into place, covering the red mark. I whispered to the Professor:
+KO: 아서가 떠난 후 나는 다시 방으로 돌아갔다. 루시는 평온하게 자고 있었고 숨소리도 전보다 훨씬 힘찼다. 그녀의 가슴이 오르내릴 때마다 이불이 움직이는 것을 볼 수 있었다. 반 헬싱 교수님은 침대 곁에 앉아 루시를 뚫어지게 바라보고 계셨다. 벨벳 리본이 그 붉은 자국을 다시 덮고 있었다. 내가 교수님께 조심스레 속삭이며 물었다.
+---
+ID: 56
+TAG: P042
+EN: Well," I said, "I have no idea what caused it." The Professor stood up. "I must go back to Amsterdam tonight," he said. "I need to get some specific books and supplies from my home. You must stay here all night, and you must not take your eyes off her for a single second.
+KO: 글쎄요." 내가 대답했다. "솔직히 전혀 모르겠습니다." 교수님이 자리에서 일어나셨다. "나는 오늘 밤 암스테르담으로 돌아가야겠네." 교수님이 말씀하셨다. "그곳에서 꼭 가져와야 할 책과 물건들이 있네. 자네는 밤새 이곳에 남아서 그녀에게서 한시도 눈을 떼지 말아야 하네.
+---
+ID: 63
+TAG: P049a
+EN: September 8.—I stayed up all night sitting with Lucy. The sedative wore off around dusk, and she woke up naturally. She looked like a completely different person compared to how she was before the blood transfusion. She was actually in good spirits and full of happy energy, though I could still see signs of how utterly exhausted her body had been. When I told Mrs. Westenra that Dr.
+KO: 9월 8일.—나는 밤새 루시 곁에 앉아 있었다. 해 질 무렵 마약 성분의 수면제 기운이 떨어지자 그녀는 자연스럽게 깨어났다. 그녀는 수혈을 받기 전과는 완전히 다른 사람처럼 보였다. 기분도 좋아 보였고 행복한 활기가 넘쳤지만, 나는 여전히 그녀가 겪었던 극도의 쇠약함이 남긴 흔적들을 엿볼 수 있었다. 반 헬싱 박사님이 내게 루시와 함께 밤을 새우라고 지시하셨다고 웨스텐라 부인에게 말씀드렸을 때, 부인은 딸이 이미 기운을 차리고 훌륭한 컨디션을 보이고 있다며 내 말을 콧방귀 뀌듯 무시하려 했다.
+---
+ID: 64
+TAG: P049b
+EN: Van Helsing had ordered me to stay up with Lucy all night, she almost laughed off the idea, pointing out how much stronger and happier her daughter seemed. I stood my ground, however, and prepared for my long night watch. After her maid helped her get ready for bed and I had eaten my supper, I went back into the room and sat down next to her bed. She didn't object at all; in fact, she looked at me with deep gratitude every time we made eye contact.
+KO: 하지만 나는 단호하게 밀어붙였고, 기나긴 밤을 지새울 채비를 마쳤다. 하녀가 루시의 잠자리를 봐주는 동안 나는 저녁 식사를 서둘러 마치고 방으로 들어가 침대 곁에 자리를 잡았다. 루시는 전혀 거부감을 보이지 않았고, 나와 눈이 마주칠 때마다 깊이 감사하는 눈빛으로 나를 바라보았다.
+---
+ID: 76
+TAG: P060a
+EN: Her maid arrived early in the morning, so I left Lucy in her care and went back to my own home, as I had many other things to worry about. I sent short telegrams to Van Helsing and Arthur, letting them know that the procedure had been a massive success. I had to spend the entire day catching up on my own backlog of work; it was already dark by the time I was able to check on my animal-eating patient, Renfield. The report was positive; he had been perfectly quiet for the last twenty-four hours.
+KO: 이른 아침에 그녀의 하녀가 왔고, 나는 하녀에게 그녀를 맡긴 뒤 집으로 돌아왔다. 신경 쓰이는 병원 일들이 산더미였기 때문이다. 나는 반 헬싱 교수님과 아서에게 짧은 전보를 보내 시술 결과가 아주 좋다고 알렸다. 그리고 밀린 업무들을 처리하느라 하루 종일 정신없이 바빴다. 생명을 잡아먹는 내 환자 렌필드에 대해 알아볼 수 있었던 것은 날이 어두워진 후였다. 다행히 보고된 내용은 좋았다.
+---
+ID: 80
+TAG: P063a
+EN: There will be no staying up all night for you today. You are completely exhausted. I am feeling entirely well again; I really am. If anyone needs to stay up and keep watch, it should be me keeping watch over you." I was too tired to argue, so I simply went to eat my supper. Lucy sat with me, and her charming company really brightened my mood. I enjoyed a large meal and drank two glasses of an outstanding port wine.
+KO: 오늘 밤 선생님이 곁에서 밤을 새우는 일은 없을 거예요. 선생님은 너무 지치셨어요. 전 이제 완전히 다 나았어요. 정말이에요. 그러니 굳이 누군가 밤을 새워야 한다면, 차라리 제가 선생님 곁에서 밤을 새워 드릴게요." 나는 굳이 입씨름을 하지 않고 조용히 저녁을 먹으러 갔다. 루시도 나와 함께 식사했는데, 그녀 특유의 매력적인 활기에 기운을 얻은 나는 훌륭한 식사를 마치고 아주 맛있는 포트와인도 두 잔이나 마셨다. 그런 다음 루시는 나를 위층으로 데리고 가 자신의 방 바로 옆방으로 안내해 주었다.
+---
+ID: 81
+TAG: P063b
+EN: After that, Lucy took me upstairs and showed me into a room right next to hers, where a warm fire was already burning in the fireplace. "Now," she said, "you have to sleep here. I'll leave my door open, and I'll leave this door open, too. You can sleep on the sofa because I know none of you doctors will actually sleep in a real bed while there is a patient nearby. If I need anything at all, I will call out for you, and you can come to me instantly." I had no choice but to agree.
+KO: 그곳에는 아늑하게 난로까지 피워져 있었다. "자," 그녀가 말했다. "선생님은 여기 계셔야 해요. 이 방 문도 열어두고 제 방 문도 열어둘게요. 저기 소파에 누워서 편히 쉬세요. 환자가 살아있는 한 의사 선생님들은 절대 자기 침대에 들어가 주무시지 않는다는 걸 저도 잘 아니까요.
+---
+ID: 95
+TAG: P074a
+EN: It isn't too late. Her heart is beating, although very weakly. All the progress we made has been completely wiped out; we have to start all over again. Young Arthur isn't here today; I'm going to have to ask for your blood this time, my friend John." Even as he spoke, he was already digging into his bag and pulling out the transfusion equipment. I immediately took off my coat and rolled up my shirtsleeve.
+KO: 아직 늦지 않았네. 비록 아주 미약하지만 심장이 뛰고 있어. 우리의 모든 수고가 수포로 돌아갔네. 다시 시작해야 해. 지금은 듬직한 아서가 없으니, 친구 존, 이번에는 자네에게 부탁해야겠네." 말씀하시면서 교수님은 가방을 뒤져 수혈 도구를 꺼내고 계셨고, 나는 이미 겉옷을 훌렁 벗어 던지고 셔츠 소매를 걷어붙인 상태였다. 지금 당장은 수면제를 사용할 가능성도 없었고 그럴 여유조차 없었으므로, 우리는 일말의 지체 없이 시술을 시작했다. 시간이 조금 지난 후—아무리 기꺼이 내어주는 피라 할지라도 자신의 피가 고스란히 빠져나가는 것은 끔찍한 기분이 들기 때문에 결코 짧게 느껴지지는 않는 시간이었다—반 헬싱 교수님이 경고의 의미로 손가락을 들어 올리셨다.
+---
+ID: 96
+TAG: P074b
+EN: We couldn't give her a sedative right now, nor did she need one since she was already unconscious, so we began the procedure without wasting a single second. After a while—and it certainly didn't feel like a short while, because having your blood drained, even when you give it gladly, is a terrible sensation—Van Helsing held up a finger in warning. "Don't move," he whispered, "but I'm worried that as she gets stronger, she might wake up; and that would be incredibly dangerous. I need to take a precaution.
+KO: 움직이지 말게." 그가 덧붙이셨다. "기력을 회복하면서 그녀가 깨어날까 봐 걱정이군. 지금 그녀가 깨어나면 아주, 아주 위험해질 거야. 그러니 예방 조치를 취해야겠네. 모르핀을 피하 주사해야겠어." 그런 다음 교수님은 신속하고 능숙하게 그 의도를 실행에 옮기셨다.
+---
+ID: 101
+TAG: P078
+EN: Remember, you must not tell anyone about this. If our young friend Arthur shows up unexpectedly like he did yesterday, do not say a word to him about it. It would only terrify him, and it might also make him jealous. We cannot allow that. Understood!
+KO: 명심하게. 이 일에 대해서는 그 누구에게도 절대 발설해서는 안 되네. 만약 우리의 젊은 연인이 전처럼 예고도 없이 불쑥 찾아온다고 하더라도 그에게조차 한마디도 해서는 안 되네. 이 사실은 즉시 그를 놀라게 할 뿐만 아니라 불필요한 질투심도 유발할 수 있으니까. 그런 일이 있어서는 안 되지. 그렇고말고!
+---
+ID: 107
+TAG: P083
+EN: Lucy chatted with me easily, seeming entirely unaware that anything serious had happened. I did my best to keep her entertained and distracted. When her mother came upstairs to visit, Mrs. Westenra didn't seem to notice any change in Lucy's condition at all. Instead, she turned to me and said gratefully:
+KO: 루시는 나와 편안하게 이야기를 나누었고, 밤사이 무슨 일이 있었는지 전혀 모르는 눈치였다. 나는 그녀가 즐겁고 편안함을 느끼도록 갖은 노력을 기울였다. 루시의 어머니가 딸을 보러 올라왔을 때 부인은 루시의 끔찍한 변화를 전혀 눈치채지 못한 듯했고, 오히려 내 손을 잡으며 고마워하셨다.
+---
+ID: 108
+TAG: P084a
+EN: We owe you so much, Dr. Seward, for everything you have done, but you really must be careful not to overwork yourself. You are looking quite pale yourself today. You need a wife to nurse you and take care of you; you really do!" When she said that, Lucy's face immediately turned bright red, although it only lasted for a second. Her poor, depleted veins couldn't sustain such an unusual rush of blood to her head for very long. The blush was quickly replaced by extreme paleness as she turned and looked at me pleadingly.
+KO: 수어드 박사님, 박사님이 우리 아이를 위해 해주신 모든 일에 정말 큰 빚을 졌습니다. 하지만 박사님도 이제 무리하지 않도록 조심하셔야 해요. 박사님도 안색이 무척 창백하시군요. 곁에서 간호하고 알뜰히 돌봐줄 아내가 당장 필요해 보여요. 정말 그래요!" 부인이 말하자 루시의 얼굴이 순간적으로 새빨개졌다. 하지만 이는 아주 잠깐이었다. 피가 말라붙은 가여운 루시의 혈관은 머리로 피가 쏠리는 이 흔치 않은 상황을 그리 오래 견뎌낼 수 없었기 때문이다. 루시가 애원하는 눈빛으로 나를 돌아보았을 때, 그녀의 얼굴은 다시 극도로 창백해져 있었다.
+---
+ID: 110
+TAG: P085
+EN: Van Helsing returned a couple of hours later and immediately said to me: "Now go home. Eat plenty of food and drink plenty of fluids. Build your strength back up. I will stay here tonight, and I will keep watch over the little miss myself. You and I must monitor this case closely, and no one else can know about it. I have very serious reasons for this. No, do not ask what they are; you can think whatever you want. Don't be afraid to consider even the most impossible explanations. Good night.
+KO: 반 헬싱 교수님은 두어 시간 후에 돌아오셔서 곧장 내게 말씀하셨다. "이제 자네 병원으로 돌아가서 음식과 물을 많이 먹고 마시게. 체력을 단단히 비축해 두게나. 오늘 밤은 내가 여기 남아 꼬마 아가씨 곁을 지키겠네. 자네와 내가 번갈아 가며 이 환자를 빈틈없이 지켜봐야 하고, 다른 사람은 절대 이 사실을 알게 해서는 안 되네. 다 나름의 중대한 이유가 있어서야. 아니, 꼬치꼬치 이유를 묻지는 말게. 자네가 생각하고 싶은 대로 짐작하게. 가장 불가능할 것 같은 일조차도 주저하지 말고 낱낱이 의심해 보게. 잘 자게.
+---
+ID: 117
+TAG: P091a
+EN: Yes, my dear, but they aren't for decoration. These are medicine." Lucy immediately made a disgusted face. "No, no, you don't have to boil them into a tea or drink anything nasty, so there's no need to wrinkle that charming nose of yours. If you keep making that face, I will have to tell my friend Arthur how much it hurts him to see the beautiful face he loves so distorted. Aha, my pretty miss, that straightened out your nose quickly. These flowers do have medical value, but in a way you wouldn't expect.
+KO: 그래요, 아가씨. 하지만 갖고 놀라는 것은 아닙니다. 이것들은 귀한 약입니다." 그러자 루시가 즉각 얼굴을 찡그렸다. "아니요, 달여 먹거나 역겨운 형태로 삼켜야 하는 것은 아니니, 그렇게 예쁜 코를 찡그릴 필요는 없습니다. 그렇게 계속 코를 찡그리면, 내 친구 아서가 그토록 사랑하는 아름다운 얼굴이 망가지는 걸 보며 얼마나 가슴 아파할지 아서에게 전부 일러바칠 겁니다. 아하, 내 예쁜 아가씨, 이젠 코를 찡그리지 않는군요. 이것은 훌륭한 약효가 있지만 아가씨는 어떤 효능인지 아마 모를 겁니다.
+---
+ID: 122
+TAG: P095a
+EN: Do not test me! I am not joking! There is a grim and serious purpose behind everything I do; I am warning you, do not interfere with my work. You must be careful, if not for your own sake, then for the sake of the people who love you." Then, seeing that poor Lucy was frightened—which was completely understandable—he softened his tone and continued more gently: "Oh, little miss, my dear, please don't be afraid of me. I am only doing this for your own good. There is great power in these common flowers.
+KO: 나를 우습게 보지 마십시오! 나는 환자를 두고 절대 농담하지 않습니다! 내가 하는 모든 일에는 묵직한 목적이 있으니, 내 일을 함부로 방해하지 말라고 경고합니다. 아가씨 자신을 위해서가 아니라면 부디 다른 사람들을 위해서라도 조심하십시오." 그런 다음 가여운 루시가 겁에 질린 것을 보고(충분히 그럴 만도 했다), 교수님은 한결 부드러운 목소리로 이어 말씀하셨다. "오, 꼬마 아가씨, 내 사랑, 나를 너무 두려워하지는 마십시오. 나는 오직 아가씨를 구하기 위해 이 일을 하는 것뿐입니다. 저렇게 흔해 빠진 꽃들에도 아가씨에게 큰 도움이 될 강력한 힘이 숨어 있습니다.
+---
+ID: 123
+TAG: P095b
+EN: Look, I will place them in your room myself. I will personally make the wreath you are going to wear. But hush! Do not tell anyone else who might ask nosy questions about this. We must obey the rules, and keeping quiet is part of that obedience. This obedience will make you strong and healthy again, so you can return to the loving arms of the man waiting for you. Now just sit quietly for a moment. Come with me, friend John.
+KO: 보십시오, 내가 직접 아가씨 방에 이 꽃들을 두겠습니다. 아가씨가 목에 걸 화환도 내가 솜씨를 발휘해 직접 엮을 겁니다. 하지만 쉿! 호기심에 차서 묻는 다른 사람들에게는 절대 아무 말도 발설하지 마십시오. 우리는 자연의 섭리에 순종해야 하고, 침묵 또한 그 순종의 일부입니다. 그 순종은 아가씨가 다시 강하고 건강해져서, 아가씨를 애타게 기다리는 사랑하는 약혼자의 품으로 무사히 돌아가게 해줄 것입니다. 자, 이제 잠시 가만히 앉아 계십시오. 친구 존, 나와 함께 갑시다. 저 멀리 하를럼에서 온 내 마늘로 이 방을 든든하게 장식하는 걸 도와주게.
+---
+ID: 133
+TAG: P103
+EN: I can finally sleep in peace tonight, and I desperately need to. Two days of traveling, trying to read during the day, enduring extreme anxiety about what was going to happen, and then staying awake all night without shutting my eyes once. Come to my house early tomorrow morning, and we will come back here together to see our pretty miss. She will be so much stronger thanks to the 'spell' I cast tonight. Ha! Ha!
+KO: 오늘 밤에는 마음 편히 푹 잘 수 있겠군. 정말이지 잠이 절실히 필요해. 이틀 밤을 내리 여행했고, 낮에는 틈틈이 책을 뒤졌으며, 다가올 일에 대한 무거운 불안감을 홀로 견뎌야 했고, 또 어젯밤엔 한숨도 못 자고 꼬박 밤을 새웠으니까. 자네, 내일 아침 일찍 나를 부르러 오게. 함께 가서 내가 정성껏 건 '주문' 덕분에 한결 건강해진 우리의 예쁜 아가씨를 보러 가자고. 허! 허!
+---

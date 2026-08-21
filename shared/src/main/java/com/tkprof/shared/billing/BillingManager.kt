@@ -94,18 +94,25 @@ class BillingManager(
         billingClient.queryProductDetailsAsync(
             QueryProductDetailsParams.newBuilder().setProductList(productList).build()
         ) { result, productDetailsList ->
-            if (result.responseCode == BillingClient.BillingResponseCode.OK &&
-                productDetailsList.isNotEmpty()) {
-                val flowParams = BillingFlowParams.newBuilder()
-                    .setProductDetailsParamsList(
-                        listOf(
-                            BillingFlowParams.ProductDetailsParams.newBuilder()
-                                .setProductDetails(productDetailsList.first())
-                                .build()
-                        )
-                    )
-                    .build()
-                billingClient.launchBillingFlow(activity, flowParams)
+            android.os.Handler(android.os.Looper.getMainLooper()).post {
+                if (result.responseCode == BillingClient.BillingResponseCode.OK) {
+                    if (productDetailsList.isNotEmpty()) {
+                        val flowParams = BillingFlowParams.newBuilder()
+                            .setProductDetailsParamsList(
+                                listOf(
+                                    BillingFlowParams.ProductDetailsParams.newBuilder()
+                                        .setProductDetails(productDetailsList.first())
+                                        .build()
+                                )
+                            )
+                            .build()
+                        billingClient.launchBillingFlow(activity, flowParams)
+                    } else {
+                        android.widget.Toast.makeText(activity, "Product ID not found: " + iapProductId, android.widget.Toast.LENGTH_LONG).show()
+                    }
+                } else {
+                    android.widget.Toast.makeText(activity, "Billing Error: " + result.debugMessage, android.widget.Toast.LENGTH_LONG).show()
+                }
             }
         }
     }

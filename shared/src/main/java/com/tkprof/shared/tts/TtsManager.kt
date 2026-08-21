@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.tts
+package com.tkprof.shared.tts
 
 import android.content.Context
 import android.speech.tts.TextToSpeech
@@ -37,6 +37,12 @@ class TtsManager(private val context: Context) {
     fun init() {
         tts = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
+                tts?.setAudioAttributes(
+                    android.media.AudioAttributes.Builder()
+                        .setUsage(android.media.AudioAttributes.USAGE_MEDIA)
+                        .setContentType(android.media.AudioAttributes.CONTENT_TYPE_SPEECH)
+                        .build()
+                )
                 _isReady.value = true
                 loadVoices()
             }

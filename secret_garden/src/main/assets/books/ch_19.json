@@ -1,0 +1,891 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 19: \"It Has Come!\"",
+    "ko": "제19장 \"마침내 왔어!\"",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002-1",
+    "en": "Of course, Dr. Craven had been sent for the morning after Colin's tantrum. He was always summoned immediately when such episodes occurred. Every time he arrived, he found a pale, shaken boy lying in bed, sulky and still so hysterical that he was ready to burst into tears at the slightest word.",
+    "ko": "물론 콜린이 발작을 일으킨 다음 날 아침, 크레이븐 의사에게 사람을 보냈다. 그런 일이 일어날 때마다 항상 그를 즉시 불러들였다. 그가 올 때마다, 침대에 누워 있는 창백하고 겁먹은 소년을 보았는데, 소년은 뚱한 표정으로 여전히 히스테리를 부리며 사소한 말 한마디에도 눈물을 터뜨릴 것 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P002-2",
+    "en": "In fact, Dr. Craven dreaded and hated these difficult visits. This time, he was away from Misselthwaite Manor until the afternoon.",
+    "ko": "사실 크레이븐 의사는 이 까다로운 병문안을 두려워하고 싫어했다. 이번에 그는 오후가 되어서야 미셀스웨이트 저택으로 돌아왔다.",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P003-1",
+    "en": "\"How is he?\" Dr. Craven asked Mrs. Medlock rather irritably when he arrived. \"He will burst a blood vessel in one of those fits some day. The boy is half insane with hysteria and self-indulgence.\"",
+    "ko": "\"아이는 좀 어떻습니까?\" 도착한 크레이븐 의사가 메들록 부인에게 다소 짜증 섞인 목소리로 물었다. \"언젠가 그런 발작을 일으키다가 혈관이 터지고 말 겁니다. 저 애는 히스테리와 제멋대로 자란 탓에 반쯤 정신이 나갔어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P004-1",
+    "en": "\"Well, sir,\" Mrs. Medlock answered, \"you will hardly believe your eyes when you see him. That plain, sour-faced child—who is almost as bad as he is—has completely bewitched him. There is no telling how she did it.",
+    "ko": "\"글쎄요, 의사 선생님.\" 메들록 부인이 대답했다. \"가서 보시면 눈을 의심하실 겁니다. 그 애 못지않게 성격이 못된, 그 못생기고 뚱한 얼굴을 한 아이가 도련님을 완전히 홀려 놓았어요. 어떻게 그랬는지는 알 길이 없네요.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P004-2",
+    "en": "Goodness knows she is nothing to look at, and you barely ever hear her speak, but she did what none of us dared to do. She flew at him like a little cat last night, stamped her feet, and ordered him to stop screaming.",
+    "ko": "외모는 볼품도 없고 말하는 소리도 거의 들을 수 없다는 건 하느님도 아실 텐데, 우리 중 누구도 감히 하지 못한 일을 그 애가 해냈답니다. 어젯밤에 새끼 고양이처럼 도련님에게 달려들어 발을 구르며 당장 소리 지르는 걸 멈추라고 명령하더군요.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P004-3",
+    "en": "Somehow she startled him so much that he actually stopped, and this afternoon—well, just come upstairs and see, sir. It is hard to believe.\"",
+    "ko": "웬일인지 도련님이 너무 놀라 진짜로 울음을 그쳤고, 오늘 오후에는…… 글쎄요, 의사 선생님, 그냥 위층으로 올라가서 직접 보시지요. 믿기 어려우실 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P005-1",
+    "en": "The scene Dr. Craven saw when he entered his patient's room was truly astonishing. As Mrs. Medlock opened the door, he heard laughing and chattering.",
+    "ko": "크레이븐 의사가 환자의 방에 들어서며 목격한 광경은 실로 놀라웠다. 메들록 부인이 문을 열자, 웃음소리와 재잘거리는 소리가 들려왔다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P005-2",
+    "en": "Colin was sitting up quite straight on his sofa in his dressing gown. He was looking at a picture in one of the gardening books and talking to the plain child, who at that moment could hardly be called plain at all because her face was glowing with so much joy.",
+    "ko": "콜린은 실내복을 입고 소파 위에 아주 똑바로 앉아 있었다. 소년은 원예 책 중 하나에 나온 그림을 보며 그 못생긴 아이와 이야기를 나누고 있었는데, 그 순간만큼은 아이의 얼굴이 큰 기쁨으로 빛나고 있어 결코 못생겼다고 할 수 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P006",
+    "en": "\"Those long spires of blue flowers—we will have a lot of those,\" Colin announced. \"They are called Delphiniums.\"",
+    "ko": "\"이 길게 솟은 파란 꽃들, 이걸 아주 많이 심을 거야.\" 콜린이 선언하듯 말했다. \"델피늄이라고 부른대.\"",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P007",
+    "en": "\"Dickon says they are larkspurs made big and grand,\" Mary cried. \"There are clumps of them in the garden already.\"",
+    "ko": "\"디콘 말이 이건 참제비고깔을 크고 웅장하게 키운 거래.\" 메리가 외쳤다. \"화원에는 이미 무리 지어 피어 있는걸.\"",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P008",
+    "en": "Then they saw Dr. Craven and stopped talking. Mary became very quiet, and Colin looked annoyed.",
+    "ko": "그때 두 사람은 크레이븐 의사를 보고 이야기를 멈추었다. 메리는 아주 조용해졌고, 콜린은 짜증스러운 기색을 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P009",
+    "en": "\"I am sorry to hear you were ill last night, my boy,\" Dr. Craven said a little nervously. He was rather a nervous man.",
+    "ko": "\"어젯밤에 아팠다고 들어서 걱정했단다, 얘야.\" 크레이븐 의사가 약간 초조하게 말했다. 그는 성격이 꽤 예민한 편이었다.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P010-1",
+    "en": "\"I am better now—much better,\" Colin answered, speaking like a prince. \"I am going out in my wheelchair in a day or two if the weather is fine. I want some fresh air.\"",
+    "ko": "\"지금은 나아졌어요. 아주 많이요.\" 콜린이 마치 왕자처럼 위엄 있게 대답했다. \"날씨가 좋으면 하루이틀 뒤에 휠체어를 타고 밖으로 나갈 생각입니다. 신선한 공기를 쐬고 싶어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P011",
+    "en": "Dr. Craven sat down beside him, felt his pulse, and looked at him curiously.",
+    "ko": "크레이븐 의사는 소년의 곁에 앉아 맥박을 짚어 보며 호기심 어린 눈길로 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P012",
+    "en": "\"It must be a very fine day,\" the doctor said, \"and you must be very careful not to tire yourself.\"",
+    "ko": "\"날씨가 아주 맑아야 한단다.\" 의사가 말했다. \"그리고 피곤하지 않도록 무척 조심해야 해.\"",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P013",
+    "en": "\"Fresh air will not tire me,\" said the young prince.",
+    "ko": "\"신선한 공기는 나를 피곤하게 만들지 않아요.\" 어린 왕자가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P014",
+    "en": "Since there had been times when this same young gentleman had screamed with rage, insisting that fresh air would give him a cold and kill him, it was no wonder the doctor felt startled.",
+    "ko": "바로 이 젊은 신사가 신선한 공기를 쐬면 감기에 걸려 죽을 거라며 화를 내고 비명을 지르던 때가 있었으니, 의사가 깜짝 놀란 것도 무리는 아니었다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P015",
+    "en": "\"I thought you did not like fresh air,\" Dr. Craven said.",
+    "ko": "\"신선한 공기를 싫어하는 줄 알았는데.\" 크레이븐 의사가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P016",
+    "en": "\"I do not like it when I am by myself,\" Colin replied. \"But my cousin is going out with me.\"",
+    "ko": "\"혼자 있을 때는 싫어요.\" 콜린이 대답했다. \"하지만 사촌이 저와 함께 갈 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P017",
+    "en": "\"And the nurse, of course?\" Dr. Craven suggested.",
+    "ko": "\"그리고 당연히 보모도 함께 가겠지?\" 크레이븐 의사가 넌지시 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P018",
+    "en": "\"No, I will not have the nurse,\" Colin said, speaking so grandly that Mary could not help remembering the young Indian prince she had seen. He had diamonds, emeralds, and pearls all over him, and great rubies on the small dark hand he waved to command his servants to bow and receive his orders.",
+    "ko": "\"아뇨, 보모는 안 갈 겁니다.\" 콜린은 너무나 위엄 있게 말해서, 메리는 예전에 보았던 인도인 어린 왕자를 떠올리지 않을 수 없었다. 그 왕자는 온몸에 다이아몬드, 에메랄드, 진주를 휘감고 있었고, 작고 거무스름한 손에는 커다란 루비 반지를 낀 채 손짓하며 하인들에게 머리를 조아려 명령을 받들라고 손짓했었다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P019-1",
+    "en": "\"My cousin knows how to take care of me. I am always better when she is with me.",
+    "ko": "\"제 사촌은 저를 돌보는 법을 알아요. 사촌과 함께 있으면 항상 몸이 더 좋아집니다.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P019-2",
+    "en": "She made me feel better last night. A very strong boy I know will push my carriage.\"",
+    "ko": "어젯밤에도 사촌 덕분에 기분이 나아졌고요. 제가 아는 아주 튼튼한 소년이 제 유모차를 밀어줄 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P020-1",
+    "en": "Dr. Craven felt rather alarmed. If this difficult, hysterical boy happened to get well, he would lose his chance of inheriting Misselthwaite. But although he was a weak man, he was not completely dishonest, and he did not intend to let the boy run into real danger.",
+    "ko": "크레이븐 의사는 다소 불안해졌다. 만약 이 까다롭고 히스테릭한 소년이 병에서 회복되기라도 한다면, 미셀스웨이트를 상속받을 기회를 잃게 될 것이기 때문이었다. 하지만 마음이 약한 사람일지언정 완전히 부도덕한 사람은 아니었기에, 소년을 진짜 위험에 빠뜨릴 생각은 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P021-1",
+    "en": "\"He must be a strong and steady boy,\" Dr. Craven said. \"And I must know something about him.",
+    "ko": "\"튼튼하고 듬직한 소년이어야 한단다.\" 크레이븐 의사가 말했다. \"그리고 그 아이에 대해 나도 알아야겠구나.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P021-2",
+    "en": "Who is he? What is his name?\"",
+    "ko": "누구니? 이름이 뭐지?\"",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P022-1",
+    "en": "\"It is Dickon,\" Mary spoke up suddenly. She felt that anyone who knew the moor must know Dickon.",
+    "ko": "\"디콘이에요.\" 메리가 갑자기 나섰다. 황무지를 아는 사람이라면 누구나 디콘을 알 것이라고 메리는 생각했다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P022-2",
+    "en": "And she was right. She saw Dr. Craven's serious face instantly relax into a relieved smile.",
+    "ko": "그리고 그 생각은 옳았다. 메리는 굳어 있던 크레이븐 의사의 얼굴이 즉시 안도 섞인 미소로 풀리는 것을 보았다.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P023-1",
+    "en": "\"Oh, Dickon,\" he said. \"If it is Dickon, you will be safe enough. Dickon is as strong as a moor pony.\"",
+    "ko": "\"아, 디콘 말이냐.\" 그가 말했다. \"디콘이라면 충분히 안심해도 되겠구나. 디콘은 황무지의 조랑말만큼 튼튼하니까 말이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P024-1",
+    "en": "\"And he is trustworthy,\" Mary said. \"He is the most trustworthy lad in Yorkshire.\" She had been speaking in the Yorkshire dialect to Colin, and she forgot herself.",
+    "ko": "\"그리고 믿음직해요.\" 메리가 말했다. \"요크셔에서 가장 믿음직한 애인걸요.\" 메리는 콜린에게 요크셔 사투리로 말하느라 자기도 모르게 그렇게 뱉어버렸다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P025",
+    "en": "\"Did Dickon teach you that?\" Dr. Craven asked, laughing out loud.",
+    "ko": "\"디콘이 그렇게 가르쳐 주더냐?\" 크레이븐 의사가 소리 내어 웃으며 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P026-1",
+    "en": "\"I am learning it as if it were French,\" Mary said rather coldly. \"It is like a native dialect in India.",
+    "ko": "\"마치 프랑스어를 배우듯이 배우고 있어요.\" 메리가 다소 퉁명스럽게 말했다. \"인도의 현지 방언 같은 거예요.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P026-2",
+    "en": "Very clever people try to learn them. I like it, and so does Colin.\"",
+    "ko": "아주 똑똑한 사람들이 배우려고 애쓰는 그런 방언이요. 저도 좋아하고 콜린도 좋아해요.\"",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P027-1",
+    "en": "\"Well, well,\" he said. \"If it amuses you, perhaps it will not do you any harm. Did you take your medicine last night, Colin?\"",
+    "ko": "\"허허, 그렇구나.\" 그가 말했다. \"재미 삼아 하는 거라면 해가 될 일은 없겠지. 콜린, 어젯밤에 약은 먹었니?\"",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P028-1",
+    "en": "\"No,\" Colin answered. \"I refused to take it at first, and after Mary calmed me down, she talked me to sleep. She spoke in a low voice about the spring creeping into a garden.\"",
+    "ko": "\"아니요.\" 콜린이 대답했다. \"처음에는 안 먹겠다고 버텼는데, 메리가 저를 진정시킨 다음에 조곤조곤 얘기하며 재워 주었어요. 화원 속으로 봄이 살포시 스며드는 이야기를 낮은 목소리로 해 주었거든요.\"",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P029-1",
+    "en": "\"That sounds soothing,\" Dr. Craven said, more puzzled than ever. He glanced sideways at Mary, who sat on her stool looking down silently at the carpet. \"You are clearly better, but you must remember—\"",
+    "ko": "\"그것참 마음을 가라앉혀 주는 얘기구나.\" 크레이븐 의사는 그 어느 때보다 의아해하며 말했다. 그는 스툴에 앉아 묵묵히 양탄자를 내려다보고 있는 메리를 곁눈질했다. \"분명 나아지긴 했다만, 명심해야 할 점이—\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P030-1",
+    "en": "\"I do not want to remember,\" Colin interrupted, the demanding prince appearing again.",
+    "ko": "\"기억하고 싶지 않아요.\" 콜린이 말을 가로막았다. 보채는 왕자의 모습이 다시 나타난 것이다.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P030-2",
+    "en": "\"When I lie by myself and remember, I start to feel pains everywhere. I think of things that make me want to scream because I hate them so much. If there were a doctor anywhere who could make you forget you were ill instead of remembering it, I would have him brought here.\"",
+    "ko": "\"혼자 누워 이런저런 생각을 떠올리면 온몸이 아프기 시작해요. 끔찍이도 싫은 일들이 떠올려서 소리를 지르고 싶어지고요. 환자가 병을 잊지 못하게 기억나게 하는 대신, 아예 잊어버리게 만들어 줄 수 있는 의사가 세상에 있다면 당장이라도 여기로 불러들였을 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P030-3",
+    "en": "He waved a thin hand that looked as though it should have been covered in royal ruby rings. \"It is because my cousin makes me forget that she makes me better.\"",
+    "ko": "그는 왕족의 루비 반지로 뒤덮여 있어야 할 것 같은 가느다란 손을 내저었다. \"사촌이 저로 하여금 병을 잊게 만들어 주니까 저를 낫게 하는 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P031-1",
+    "en": "Dr. Craven had never made such a short visit after a tantrum. Usually, he had to stay a very long time and do many things. This afternoon, he did not give any medicine or leave new orders, and he was spared any unpleasant scenes.",
+    "ko": "크레이븐 의사는 소년이 발작을 부린 뒤 이렇게 짧게 진료를 끝낸 적이 없었다. 평소라면 아주 오랫동안 머물며 온갖 조치를 취해야 했다. 하지만 오늘 오후에는 약을 처방하지도, 새로운 지시를 내리지도 않았고, 불쾌한 소동도 겪지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P031-2",
+    "en": "When he went downstairs, he looked very thoughtful. When he spoke to Mrs. Medlock in the library, she could tell that he was deeply puzzled.",
+    "ko": "아래층으로 내려가는 그의 얼굴은 깊은 생각에 잠겨 있었다. 서재에서 메들록 부인과 이야기를 나눌 때, 부인은 의사가 마음속으로 깊이 혼란스러워하고 있음을 알아챌 수 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P032",
+    "en": "\"Well, sir,\" she ventured, \"could you have believed it?\"",
+    "ko": "\"어떻습니까, 의사 선생님.\" 부인이 조심스레 물었다. \"이런 일이 있을 거라고 믿어지셨나요?\"",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P033",
+    "en": "\"It is certainly a new state of affairs,\" the doctor said. \"And there is no denying that it is better than the old one.\"",
+    "ko": "\"확실히 전과는 상황이 완전히 궤를 달리하는군.\" 의사가 말했다. \"그리고 이전보다 훨씬 좋아진 것만은 부인할 수 없겠어.\"",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P034-1",
+    "en": "\"I believe Susan Sowerby is right—I really do,\" Mrs. Medlock said. \"I stopped by her cottage on my way to Thwaite yesterday and had a chat with her.",
+    "ko": "\"저 역시 수잔 소어비의 말이 맞다고 생각해요. 정말로요.\" 메들록 부인이 말했다. \"어제 스웨이트로 가는 길에 수잔의 오두막에 들러 이야기를 나누었거든요.",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P034-2",
+    "en": "She said to me, 'Well, Sarah Ann, she might not be a good child, and she might not be a pretty one, but she is a child, and children need other children.' Susan Sowerby and I went to school together.\"",
+    "ko": "수잔이 제게 이렇게 말하더군요. '에구, 사라 앤, 그 애가 얌전한 아이는 아닐 수도 있고 예쁜 아이도 아닐지 모르지만, 그래도 애는 애잖나. 아이들에겐 다른 아이가 필요한 법이야.' 수잔 소어비와 저는 학교를 같이 다녔답니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P035",
+    "en": "\"She is the best nurse I know,\" Dr. Craven said. \"When I find her in a cottage, I know the chances are that I will save my patient.\"",
+    "ko": "\"그 여자는 내가 아는 최고의 간호사요.\" 크레이븐 의사가 말했다. \"어느 오두막에서든 그 여자를 만나면, 환자를 살릴 수 있는 가망이 커진다는 걸 안다네.\"",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P036",
+    "en": "Mrs. Medlock smiled. She was very fond of Susan Sowerby.",
+    "ko": "메들록 부인은 미소를 지었다. 그녀는 수잔 소어비를 무척 좋아했다.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P037-1",
+    "en": "\"She has a way with her, Susan does,\" Mrs. Medlock went on eagerly. \"I have been thinking all morning about something she said yesterday.",
+    "ko": "\"수잔에겐 사람의 마음을 끄는 구석이 있어요.\" 메들록 부인이 열성적으로 말을 이어갔다. \"어제 수잔이 한 말이 아침 내내 머릿속을 맴돌더군요.",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P037-2",
+    "en": "She said, 'Once when I was giving the children a bit of a lecture after they had been fighting, I told them all: \"When I was at school, my geography book said the world was shaped like an orange, and I found out before I was ten that the whole orange doesn't belong to anyone.",
+    "ko": "그이가 말하길, '한번은 애들이 싸우고 나서 잔소리를 좀 해 주면서 다들 똑똑히 들으라고 했지. \"내가 학교 다닐 때 지리 책에서 세상은 오렌지처럼 동그랗게 생겼다고 배웠단다. 그리고 열 살이 되기도 전에 세상이라는 오렌지 전체를 차지할 수 있는 사람은 아무도 없다는 걸 깨달았지.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P037-3",
+    "en": "No one owns more than their own little section, and sometimes it seems like there aren't enough sections to go around. But don't any of you think you own the whole orange, or you will find out you're mistaken, and you won't learn that without some hard knocks.\"",
+    "ko": "자기 몫의 작은 조각 이상을 가질 수 있는 사람은 없고, 때로는 모두에게 돌아가기엔 조각이 모자란 것처럼 보이기도 해. 그러니 너희 중 누구도 오렌지를 통째로 가졌다고 착각하지 마라. 그렇지 않으면 오렌지가 제 것이 아님을 뼈저리게 깨닫게 될 테니까 말이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P037-4",
+    "en": "What children learn from other children,' she said, 'is that there is no sense in grabbing for the whole orange, peel and all. If you do, you probably won't even get the seeds, and those are too bitter to eat.'\"",
+    "ko": "아이들이 다른 아이들을 통해 배우는 건,' 수잔이 말하기를, '껍질째 오렌지 전체를 움켜쥐려고 버둥거려 봤자 아무 소용 없다는 사실이랍니다. 그렇게 욕심을 부리다가는 씨앗조차 건지지 못할 텐데, 그 씨앗은 써서 먹지도 못하니까요.'\"",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P038",
+    "en": "\"She is a wise woman,\" Dr. Craven said, putting on his coat.",
+    "ko": "\"현명한 여인이군.\" 외투를 입으며 크레이븐 의사가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P039-1",
+    "en": "\"Well, she has a way of saying things,\" Mrs. Medlock finished, very pleased. \"Sometimes I have said to her, 'Oh, Susan, if you were a different woman and did not speak such broad Yorkshire, there are times when I would have said you were downright clever.'\"",
+    "ko": "\"어쩜 말을 그렇게 잘하는지 몰라요.\" 메들록 부인은 무척 흡족해하며 말을 끝맺었다. \"가끔 그이에게 이렇게 말하곤 해요. '오, 수잔, 자네가 다른 환경에서 자라 요크셔 사투리를 그렇게 심하게 쓰지만 않았어도, 내 자네를 진짜 대단한 사람이라고 불렀을 걸세.'\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P040-1",
+    "en": "That night Colin slept without waking up once. When he opened his eyes in the morning, he lay still and smiled without even realizing it—he smiled because he felt so wonderfully comfortable.",
+    "ko": "그날 밤 콜린은 단 한 번도 깨지 않고 푹 잤다. 아침에 눈을 떴을 때, 소년은 가만히 누워 자신도 모르게 미소를 지었다. 온몸이 더할 나위 없이 편안했기에 절로 미소가 지어진 것이었다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P040-2",
+    "en": "It was actually nice to be awake, and he turned over and stretched his limbs luxuriously. He felt as if tight strings that had held him bound had loosened and let him go. He did not know that Dr. Craven would have said his nerves had finally relaxed and rested.",
+    "ko": "깨어 있다는 것이 실로 유쾌한 일이었기에, 콜린은 몸을 돌려 사지를 나른하게 뻗었다. 자신을 꽁꽁 묶고 있던 팽팽한 끈들이 스르르 풀려 풀려난 느낌이었다. 크레이븐 의사라면 소년의 신경이 마침내 긴장을 풀고 안정을 찾았다고 표현했겠지만 콜린은 그런 걸 알 리 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P040-3",
+    "en": "Instead of lying there staring at the wall and wishing he had not woken up, his mind was full of the plans he and Mary had made yesterday. He pictured the garden, Dickon, and all his wild creatures. It was so nice to have pleasant things to think about.",
+    "ko": "멍하니 벽을 바라보며 잠에서 깨어나지 않았기를 바라던 예전과 달리, 소년의 머릿속은 어제 메리와 함께 세운 계획들로 가득 차 있었다. 그는 화원과 디콘, 그리고 온갖 야생 동물들을 머릿속에 그렸다. 생각만 해도 즐거운 일들이 있다는 것은 참으로 멋진 일이었다.",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P040-4",
+    "en": "He had not been awake for more than ten minutes when he heard feet running along the corridor, and Mary arrived at the door. A moment later, she ran across to his bed, bringing with her a breeze of fresh air full of the scent of the morning.",
+    "ko": "잠에서 깬 지 십 분도 채 지나지 않았을 때, 복도를 달려오는 발자국 소리가 들리더니 메리가 문 앞에 나타났다. 이내 메리는 침대로 달려왔고, 아침 향기가 가득한 신선한 바람을 방 안으로 몰고 왔다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P041-1",
+    "en": "\"You have been out! You have been out! There is that wonderful smell of leaves!\" he cried.",
+    "ko": "\"밖으로 나갔었구나! 밖으로 나갔었어! 그 멋진 나뭇잎 냄새가 나!\" 콜린이 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P042",
+    "en": "She had been running, and her hair was loose and windblown. She was bright from the fresh air and her cheeks were rosy.",
+    "ko": "뛰어오느라 메리의 머리는 흐트러져 바람에 나부끼고 있었다. 신선한 공기를 잔뜩 쐰 덕분에 메리의 얼굴은 생기로 넘쳤고 뺨은 장밋빛으로 물들어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P043-1",
+    "en": "\"It is so beautiful!\" she said, a little breathless from running. \"You have never seen anything so beautiful!",
+    "ko": "\"정말 아름다워!\" 뛰어와 숨이 조금 찬 메리가 말했다. \"너는 그렇게 아름다운 걸 본 적이 없을 거야!",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P043-2",
+    "en": "It has come! I thought it had come the other morning, but it was only on its way.",
+    "ko": "왔어! 며칠 전 아침에 온 줄 알았는데, 그땐 그냥 오던 중이었던 거야.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P043-3",
+    "en": "It is here now! Spring has finally arrived! Dickon says so!\"",
+    "ko": "이제 진짜로 왔어! 드디어 봄이 왔어! 디콘이 그렇대!\"",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P044-1",
+    "en": "\"Has it?\" Colin cried. Even though he knew nothing about spring, he felt his heart beat faster. He actually sat up in bed.",
+    "ko": "\"정말?\" 콜린이 외쳤다. 봄이 어떤 것인지 전혀 알지 못하면서도, 그는 가슴이 두근거리는 것을 느꼈다. 소년은 실제로 침대 위에 몸을 일으켜 앉았다.",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P045",
+    "en": "\"Open the window!\" he added, laughing partly with joyful excitement and partly at his own imagination. \"Perhaps we will hear golden trumpets!\"",
+    "ko": "\"창문 좀 열어봐!\" 즐거운 흥분과 마음껏 나래를 편 상상력 때문에 웃음을 터뜨리며 콜린이 덧붙였다. \"어쩌면 황금 나팔 소리가 들릴지도 몰라!\"",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P046",
+    "en": "Although he laughed, Mary was at the window in a second. In another moment, she opened it wide, and the fresh, soft air, sweet scents, and bird songs came pouring in.",
+    "ko": "콜린은 웃으며 말했지만 메리는 눈 깜짝할 사이에 창가로 다가갔다. 그리고 창문을 활짝 열어젖히자, 신선하고 부드러운 공기와 달콤한 향기, 그리고 새들의 노랫소리가 방 안으로 쏟아져 들어왔다.",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P047-1",
+    "en": "\"That is fresh air,\" she said. \"Lie on your back and take long, deep breaths of it. That is what Dickon does when he lies on the moor.",
+    "ko": "\"이게 바로 신선한 공기야.\" 메리가 말했다. \"등을 대고 누워서 숨을 깊이, 길게 들이마셔 봐. 디콘이 황무지에 누워 있을 때 그렇게 한대.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P047-2",
+    "en": "He says he feels it in his veins, and it makes him strong, and he feels as if he could live forever and ever. Breathe it in, keep breathing it.\"",
+    "ko": "디콘 말로는 그 공기가 핏줄을 타고 흐르는 게 느껴져서 몸이 튼튼해지고, 영원히 살 수 있을 것 같은 기분이 든대. 어서 들이마셔, 계속 들이마시란 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P048",
+    "en": "She was only repeating what Dickon had told her, but she captured Colin's imagination.",
+    "ko": "메리는 그저 디콘에게 들은 말을 전했을 뿐이지만, 이는 콜린의 상상력을 강렬하게 자극했다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P049-1",
+    "en": "\"Forever and ever! Does it make him feel like that?\" he asked. He did exactly as she told him, taking long, deep breaths over and over again until he felt that something completely new and wonderful was happening to him.",
+    "ko": "\"영원히 말이야? 정말 그런 기분이 든대?\" 콜린이 물었다. 그는 메리가 시키는 대로 깊은 숨을 몇 번이고 들이마셨고, 마침내 완전히 새롭고 놀라운 변화가 몸에서 일어나는 것을 느끼기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P050",
+    "en": "Mary came back to his bedside.",
+    "ko": "메리가 소년의 침대맡으로 돌아왔다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P051-1",
+    "en": "\"Things are crowding up out of the earth,\" she ran on excitedly. \"Flowers are uncurling and buds are on everything.",
+    "ko": "\"땅 위로 만물들이 웅성웅성 솟아나고 있어.\" 메리가 흥분해서 말을 이었다. \"꽃망울이 피어나고 온 사방에 봉오리가 맺혔어.",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P051-2",
+    "en": "The green veil has covered almost all the gray, and the birds are in such a hurry to build their nests for fear of being too late that some of them are even fighting for places in the secret garden. The rosebushes look as alive as can be, there are primroses in the lanes and woods, the seeds we planted are sprouting, and Dickon has brought the fox, the crow, the squirrels, and a newborn lamb!\"",
+    "ko": "초록빛 장막이 회색빛을 거의 다 뒤덮었고, 새들은 둥지 짓기가 늦어질까 봐 너무 서두르다가 비밀의 화원 자리를 두고 서로 싸우기까지 해. 장미 덤불은 더없이 싱싱해 보이고, 오솔길과 숲에는 앵초가 가득해. 우리가 심은 씨앗들도 싹이 트고 있고, 디콘이 여우랑 까마귀랑 다람쥐랑 갓 태어난 아기 양을 데려왔어!\"",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P052-1",
+    "en": "Then she paused for breath. Dickon had found the newborn lamb three days before, lying by its dead mother among the gorse bushes on the moor. It was not the first motherless lamb he had found, and he knew exactly what to do.",
+    "ko": "메리는 잠시 숨을 고르기 위해 말을 멈추었다. 디콘은 사흘 전 황무지의 가시금작화 덤불 속에서 죽은 어미 곁에 누워 있던 아기 양을 발견했었다. 어미 잃은 아기 양을 발견한 것이 처음이 아니었기에 디콘은 어떻게 해야 할지 정확히 알고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P052-2",
+    "en": "He had wrapped it in his jacket, taken it to the cottage, let it lie near the fire, and fed it warm milk. It was a soft little thing with a sweet, silly baby face and legs that were rather long for its body. Dickon had carried it across the moor in his arms, and its feeding bottle was in his pocket along with a squirrel.",
+    "ko": "그는 재킷으로 아기 양을 감싸 오두막으로 데려온 뒤, 벽난로 옆에 눕혀 따뜻한 우유를 먹였다. 몸집에 비해 다리가 다소 길쭉한 아기 양은 귀엽고 천진난만한 얼굴을 한 부드럽고 작은 생명체였다. 디콘은 이 아기 양을 품에 안고 황무지를 건너왔으며, 그의 주머니에는 다람쥐 한 마리와 함께 젖병이 들어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P052-3",
+    "en": "When Mary had sat under a tree with its warm, soft body cuddled on her lap, she felt too full of wonder and joy to speak. A lamb—a real, living lamb lying on her lap just like a baby!",
+    "ko": "메리가 나무 아래 앉아 따뜻하고 부드러운 아기 양의 몸을 무릎 위에 꼭 껴안았을 때, 그녀는 말로 다 표현할 수 없는 경이로움과 기쁨을 느꼈다. 양이라니, 진짜 살아 있는 아기 양이 꼭 아기처럼 자기 무릎 위에 누워 있다니!",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P053",
+    "en": "She was describing the lamb with great joy, and Colin was listening while taking deep breaths of air, when the nurse entered. The nurse started slightly at the sight of the open window. She had sat stifling in the room on many warm days because her patient was convinced that open windows would give him a cold.",
+    "ko": "메리가 벅찬 기쁨으로 아기 양에 대해 설명하고 콜린이 숨을 깊이 몰아쉬며 경청하고 있을 때, 보모가 방으로 들어왔다. 활짝 열린 창문을 본 보모는 깜짝 놀라 몸을 흠칫했다. 그동안 환자가 창문을 열면 감기에 걸릴 것이라고 굳게 믿는 바람에, 그녀는 숱하게 더운 날에도 이 방 안에 갇혀 숨 막히는 더위를 참아야 했기 때문이다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P054",
+    "en": "\"Are you sure you are not chilly, Master Colin?\" she asked.",
+    "ko": "\"콜린 도련님, 정말 춥지 않으세요?\" 그녀가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P055-1",
+    "en": "\"No,\" Colin answered. \"I am breathing deep breaths of fresh air. It makes you strong.",
+    "ko": "\"춥지 않아요.\" 콜린이 대답했다. \"신선한 공기를 깊이 들이마시는 중입니다. 몸이 튼튼해지거든요.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P055-2",
+    "en": "I am going to get up and sit on the sofa for breakfast. My cousin will eat with me.\"",
+    "ko": "일어나서 소파에 앉아 아침 식사를 하겠어요. 사촌도 같이 먹을 겁니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P056-1",
+    "en": "The nurse went away, hiding a smile, to order two breakfasts. She found the servants' hall a much more cheerful place than the invalid's room, and right now everyone wanted to hear the news from upstairs.",
+    "ko": "보모는 새어 나오는 웃음을 참으며 두 사람분의 아침 식사를 주문하러 밖으로 나갔다. 그녀는 하인 방이 환자의 방보다 훨씬 활기찬 곳임을 알았고, 지금 하인 방의 모두가 위층 소식을 듣고 싶어 안달이었다.",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P056-2",
+    "en": "There was a lot of joking about the unpopular young recluse who, as the cook put it, \"had finally met his match, and good for him.\" The servants were very tired of his tantrums, and the butler, who had a family of his own, had more than once expressed his opinion that the boy would be much better off if someone gave him a good scolding.",
+    "ko": "요리사의 표현대로 \"드디어 임자를 만났으니 쌤통\"인, 성격 괴팍하고 붙임성 없는 꼬마 은둔자에 대해 온갖 우스갯소리가 오갔다. 하인들은 소년의 발작에 진저리가 나 있었고, 가정이 있는 집사는 소년이 흠씬 야단을 맞아야 정신을 차릴 것이라는 의견을 몇 번이나 내놓기도 했었다.",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P057",
+    "en": "When Colin was on his sofa and breakfast for two was served, he made an announcement to the nurse in his most princely manner.",
+    "ko": "콜린이 소파에 앉고 두 사람분의 아침 식사가 차려지자, 소년은 가장 왕자다운 태도로 보모에게 엄숙히 선포했다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P058-1",
+    "en": "\"A boy, a fox, a crow, two squirrels, and a newborn lamb are coming to see me this morning. I want them brought upstairs as soon as they arrive,\" he said.",
+    "ko": "\"오늘 아침에 어떤 소년과 여우 한 마리, 까마귀 한 마리, 다람쥐 두 마리, 그리고 갓 태어난 아기 양 한 마리가 나를 보러 올 겁니다. 그들이 도착하는 대로 즉시 위층으로 데려오도록 하세요.\" 소년이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P058-2",
+    "en": "\"Do not start playing with the animals in the servants' hall and keep them down there. I want them up here.\"",
+    "ko": "\"하인 방에서 동물들을 데리고 놀며 밑에 붙들어 두지 마십시오. 당장 이 위층으로 올라오게 해야 합니다.\"",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P059",
+    "en": "The nurse gasped slightly and tried to cover it with a cough.",
+    "ko": "보모는 나직하게 숨을 들이켜더니 헛기침으로 얼버무리려 애썼다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P060",
+    "en": "\"Yes, sir,\" she answered.",
+    "ko": "\"예, 도련님.\" 보모가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P061-1",
+    "en": "\"I will tell you what you can do,\" Colin added, waving his hand. \"You can tell Martha to bring them here.\"",
+    "ko": "\"당신이 해야 할 일을 일러 주겠어요.\" 콜린이 손을 내저으며 덧붙였다. \"마사에게 그들을 이리 데려오라고 말해 주십시오.\"",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P061-2",
+    "en": "\"The boy is Martha's brother. His name is Dickon, and he is an animal charmer.\"",
+    "ko": "\"그 소년은 마사의 남동생입니다. 이름은 디콘이고, 동물들을 다스리는 마술사지요.\"",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P062",
+    "en": "\"I hope the animals will not bite, Master Colin,\" said the nurse.",
+    "ko": "\"동물들이 물지 않아야 할 텐데요, 콜린 도련님.\" 보모가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P063",
+    "en": "\"I told you he is a charmer,\" Colin said sternly. \"A charmer's animals never bite.\"",
+    "ko": "\"말하지 않았습니까, 디콘은 마술사라고요.\" 콜린이 엄하게 말했다. \"마술사가 부리는 동물들은 절대 물지 않아요.\"",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P064",
+    "en": "\"There are snake charmers in India,\" Mary said. \"And they can put the snakes' heads in their mouths.\"",
+    "ko": "\"인도에는 뱀술사들도 있는걸.\" 메리가 말했다. \"뱀의 머리를 자기 입에 쏙 집어넣기도 해.\"",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P065",
+    "en": "\"Goodness!\" the nurse shuddered.",
+    "ko": "\"어머나 세상에!\" 보모가 몸서리를 쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P066",
+    "en": "They ate their breakfast with the morning air pouring in. Colin ate a very hearty breakfast, and Mary watched him with serious interest.",
+    "ko": "두 사람은 아침 공기가 쏟아져 들어오는 방 안에서 식사를 했다. 콜린이 아침밥을 아주 든든히 먹는 것을 보고 메리는 진지하게 흥미를 보이며 바라보았다.",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P067",
+    "en": "\"You will start to get fatter just like I did,\" she said. \"I never wanted my breakfast when I was in India, but now I am always hungry for it.\"",
+    "ko": "\"너도 나처럼 살이 붙기 시작할 거야.\" 메리가 말했다. \"인도에 있을 때는 아침밥이 전혀 당기지 않았는데, 지금은 늘 배가 고파.\"",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P068-1",
+    "en": "\"I wanted mine this morning,\" said Colin. \"Perhaps it was the fresh air. When do you think Dickon will get here?\"",
+    "ko": "\"오늘 아침에는 나도 아침밥이 먹고 싶었어.\" 콜린이 말했다. \"아마 신선한 공기 때문이겠지. 디콘은 언제쯤 올 것 같아?\"",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P069",
+    "en": "He was not long in coming. In about ten minutes, Mary held up her hand.",
+    "ko": "디콘은 머지않아 도착했다. 십 분쯤 지나자 메리가 손을 치켜들었다.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P070",
+    "en": "\"Listen!\" she said. \"Did you hear a caw?\"",
+    "ko": "\"들어봐!\" 메리가 말했다. \"까악 하는 소리 들었어?\"",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P071",
+    "en": "Colin listened and heard it—a hoarse \"caw-caw,\" the strangest sound in the world to hear inside a house.",
+    "ko": "콜린은 귀를 기울였다. 그리고 집 안에서 듣기에는 세상에서 가장 생소한 소리인 걸걸한 \"까악, 까악\" 하는 울음소리를 들었다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P072",
+    "en": "\"Yes,\" he answered.",
+    "ko": "\"웅, 들었어.\" 콜린이 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P073-1",
+    "en": "\"That is Soot,\" Mary said. \"Listen again. Do you hear a bleat—a tiny one?\"",
+    "ko": "\"저건 수트야.\" 메리가 말했다. \"다시 잘 들어봐. 아주 조그맣게 매애 하는 소리 안 들려?\"",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P074",
+    "en": "\"Oh, yes!\" cried Colin, his face flushing with excitement.",
+    "ko": "\"오, 들려!\" 콜린이 흥분으로 얼굴을 붉히며 외쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P075",
+    "en": "\"That is the newborn lamb,\" Mary said. \"He is coming.\"",
+    "ko": "\"저게 그 아기 양이야.\" 메리가 말했다. \"오고 있어.\"",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P076",
+    "en": "Dickon's moorland boots were thick and heavy, and though he tried to walk quietly, they made a clumping sound as he walked through the long corridors. Mary and Colin heard him marching closer and closer, until he passed through the tapestry door and onto the soft carpet of Colin's own hallway.",
+    "ko": "디콘의 황무지 장화는 두껍고 무거워서 나름 조용히 걷는다고 했는데도 긴 복도를 지날 때 쿵쾅거리는 소리가 났다. 메리와 콜린은 그 발자국 소리가 점점 더 가까이 다가오는 것을 들었다. 마침내 디콘은 태피스트리가 걸린 문을 지나 콜린의 방 앞 복도의 부드러운 양탄자 위로 들어섰다.",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P077",
+    "en": "\"If you please, sir,\" Martha announced, opening the door, \"here is Dickon and his creatures.\"",
+    "ko": "\"도련님, 실례합니다.\" 마사가 문을 여며 안내했다. \"디콘과 동물들이 왔어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P078",
+    "en": "Dickon came in, wearing his warmest, widest smile. The newborn lamb was cradled in his arms, and the little red fox trotted by his side. Nut the squirrel sat on his left shoulder, Soot the crow on his right, and Shell the other squirrel peeped his head and paws out of Dickon's coat pocket.",
+    "ko": "디콘은 세상에서 가장 따뜻하고 활짝 핀 미소를 지으며 걸어 들어왔다. 품에는 갓 태어난 아기 양이 안겨 있었고, 꼬마 붉은 여우가 그 곁을 총총 따라 걸었다. 왼쪽 어깨에는 다람쥐 너트가 앉아 있었고, 오른쪽에는 까마귀 수트가 앉아 있었으며, 다른 다람쥐인 셸은 디콘의 코트 주머니 밖으로 머리와 발을 삐죽 내밀고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P079-1",
+    "en": "Colin slowly sat up and stared and stared, just as he had when he first saw Mary. But this was a look of pure wonder and delight.",
+    "ko": "콜린은 처음 메리를 보았을 때처럼 몸을 천천히 일으켜 세우고 넋을 잃은 채 빤히 쳐다보았다. 하지만 이번엔 순수한 경이로움과 기쁨이 가득한 시선이었다.",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P079-2",
+    "en": "The truth was that, despite everything he had heard, he had not really understood what this boy would be like. Dickon was so close to his fox, his crow, his squirrels, and his lamb, and they were all so friendly, that they seemed like a part of him. Colin had never talked to another boy in his life, and he was so overwhelmed by his own pleasure and curiosity that he did not even think to speak.",
+    "ko": "사실 콜린은 그간 온갖 얘기를 들었음에도 불구하고 이 소년이 어떤 모습일지 전혀 짐작하지 못했다. 디콘은 여우, 까마귀, 다람쥐, 아기 양과 너무나 친밀하게 어우러져 있었고 동물들도 다정하게 굴어서 마치 동물들이 디콘의 일부처럼 느껴질 정도였다. 태어나서 단 한 번도 또래 소년과 이야기를 나누어 본 적이 없던 콜린은 벅찬 즐거움과 호기심에 압도되어 말문이 턱 막혀 버렸다.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P080-1",
+    "en": "But Dickon did not feel the least bit shy or awkward. He had not felt embarrassed when the crow did not know his language and only stared without speaking the first time they met. Animals were always like that until they got to know you.",
+    "ko": "하지만 디콘은 낯가림이나 어색함을 털끝만큼도 느끼지 않았다. 처음 만났을 때 까마귀가 제 말을 알아듣지 못하고 그저 말없이 빤히 바라만 보았을 때도 머쓱해하지 않았던 그였다. 동물들이란 친해지기 전까진 다 그런 법이었다.",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P080-2",
+    "en": "He walked over to Colin's sofa and gently placed the newborn lamb on his lap. Immediately, the little creature turned to the warm velvet dressing gown, nuzzling into its folds and budding its curly head with soft impatience against Colin's side. Of course, no boy could have kept quiet after that.",
+    "ko": "디콘은 콜린의 소파 쪽으로 걸어가 갓 태어난 아기 양을 소년의 무릎 위에 살포시 올려놓았다. 그러자 아기 양은 즉시 따뜻한 벨벳 실내복을 향해 몸을 돌리더니, 옷자락 사이에 코를 비비며 조바심이 나 부드러운 곱슬머리를 콜린의 옆구리에 들이밀었다. 당연히 이 상황에서 가만히 입을 다물고 있을 소년은 아무도 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P081",
+    "en": "\"What is it doing?\" Colin cried. \"What does it want?\"",
+    "ko": "\"애가 왜 이래?\" 콜린이 외쳤다. \"뭘 원하는 거야?\"",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P082",
+    "en": "\"It wants its mother,\" Dickon said, his smile growing even wider. \"I brought him to you a bit hungry because I knew you would like to see him feed.\"",
+    "ko": "\"어미를 찾는 게유.\" 디콘이 입가 가득 더 넓은 미소를 띠며 말했다. \"도련님이 양 젖 먹는 모습을 보고 싶어 하실 것 같아서 일부러 배를 좀 곯린 채 데려왔어유.\"",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P083",
+    "en": "He knelt down by the sofa and took a feeding bottle from his pocket.",
+    "ko": "디콘은 소파 옆에 한쪽 무릎을 꿇고 주머니에서 젖병을 꺼냈다.",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P084-1",
+    "en": "\"Come on, little one,\" he said, turning the small woolly white head with a gentle brown hand. \"This is what you are after. You will get more out of this than you will out of silk velvet coats.\"",
+    "ko": "\"오너라, 꼬마야.\" 디콘이 부드러운 갈색 손으로 솜털 같은 하얀 머리를 돌려주며 말했다. \"네가 찾던 게 이거란다. 이 벨벳 실내복을 빨아 봐야 아무것도 안 나와.\"",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P084-2",
+    "en": "\"There now.\" He pushed the rubber tip of the bottle into the nuzzling mouth, and the lamb began to suck it with absolute delight.",
+    "ko": "\"자, 됐다.\" 그가 실룩거리는 주둥이에 젖병의 고무 젖꼭지를 밀어 넣어 주자, 아기 양은 한없는 기쁨을 느끼며 우유를 쪽쪽 빨아먹기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P085-1",
+    "en": "After that, there was no wondering what to say. By the time the lamb fell asleep, questions were pouring out of Colin, and Dickon answered them all.",
+    "ko": "그 뒤로는 무슨 말을 해야 할지 고민할 필요가 전혀 없었다. 아기 양이 쌔근쌔근 잠들 때쯤 콜린은 질문을 화수분처럼 쏟아내었고, 디콘은 하나하나 대답해 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P085-2",
+    "en": "He told them how he had found the lamb just as the sun was rising three mornings ago. He had been standing on the moor, listening to a skylark and watching it climb higher and higher into the sky until it was only a tiny speck in the deep blue.",
+    "ko": "그는 사흘 전 아침, 해가 막 떠오를 무렵에 이 아기 양을 발견하게 된 사연을 말해 주었다. 디콘은 황무지에 서서 종다리의 노랫소리에 귀를 기울이며, 종다리가 푸른 하늘 높이 날아올라 마침내 파란 바다 같은 하늘 한가운데 조그만 점으로 보일 때까지 지켜보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P086-1",
+    "en": "\"I had almost lost sight of him if not for his song,\" Dickon said, \"and I was wondering how anyone could hear it when it seemed like he would fly right out of the world in a minute. Just then, I heard something else far off among the gorse bushes.\"",
+    "ko": "\"노랫소리가 아니었다면 놓쳤을 거여유.\" 디콘이 말했다. \"금방이라도 세상 밖으로 날아갈 것처럼 높은 곳에 있는데 어떻게 그 노랫소리가 여기까지 들리는지 참 신기하대유. 바로 그때, 가시금작화 덤불 너머 저 멀리서 다른 소리가 들렸어유.\"",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P086-2",
+    "en": "\"It was a weak bleating, and I knew it was a newborn lamb that was hungry. I knew it wouldn't be hungry unless it had lost its mother somehow, so I set off to search.\"",
+    "ko": "\"힘없는 양 울음소리였는데, 갓 태어난 아기 양이 배가 고파 우는 소리라는 걸 알았쥬. 어미를 잃지 않고서야 그렇게 굶주려 울 리가 없으니 찾으러 나섰어유.\"",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P086-3",
+    "en": "\"Oh, I really had to look for it! I went in and out of the bushes, round and round, and I always seemed to take the wrong turn.\"",
+    "ko": "\"오, 정말 한참을 헤맸지 뭐여유! 덤불 사이를 들락날락하며 뱅뱅 돌았는데, 갈 때마다 길을 잘못 든 것만 같았대유.\"",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P086-4",
+    "en": "\"But at last, I saw a bit of white by a rock on top of the moor. I climbed up and found the little one half dead with cold and starvation.\"",
+    "ko": "\"그러다 마침내 황무지 꼭대기 바위 옆에서 하얀 솜털 같은 게 보였어유. 기어올라가 보니 추위와 굶주림 때문에 반쯤 죽어가는 꼬마 녀석이 누워 있었지유.\"",
+    "is_header": false
+  },
+  {
+    "id": 122,
+    "tag": "P087",
+    "en": "While he talked, Soot flew solemnly in and out of the open window, cawing remarks about the scenery, while Nut and Shell explored the big trees outside, running up and down the trunks and exploring branches. Captain the fox curled up near Dickon, who preferred to sit on the hearth rug.",
+    "ko": "디콘이 이야기하는 동안, 수트는 열린 창문 안팎으로 점잖게 날아다니며 밖의 경치에 대해 뭐라고 까악까악 품평을 늘어놓았고, 너트와 셸은 바깥의 커다란 나무 위아래로 줄달음질치며 나뭇가지를 이리저리 탐험했다. 여우 캡틴은 벽난로 앞 양탄자에 앉는 걸 좋아하는 디콘의 곁에 웅크리고 누웠다.",
+    "is_header": false
+  },
+  {
+    "id": 123,
+    "tag": "P088",
+    "en": "They looked at the pictures in the gardening books. Dickon knew all the flowers by their common names and knew exactly which ones were already growing in the secret garden.",
+    "ko": "그들은 원예 책의 그림들을 살펴보았다. 디콘은 모든 꽃의 흔한 이름들을 꿰고 있었고, 비밀의 화원에서 이미 자라고 있는 꽃이 무엇인지도 훤히 알고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 124,
+    "tag": "P089-1",
+    "en": "\"I couldn't say that fancy name,\" Dickon said, pointing to one labeled Aquilegia. \"But we call that a columbine, and that other one is a snapdragon.\"",
+    "ko": "\"이런 고상한 이름은 어떻게 읽는지 몰라유.\" 디콘은 아퀼레기아라고 쓰인 그림을 가리키며 말했다. \"하지만 우린 이걸 매발톱꽃이라고 불러유. 그리고 저쪽 거는 금어초라 하고유.\"",
+    "is_header": false
+  },
+  {
+    "id": 125,
+    "tag": "P089-2",
+    "en": "\"They both grow wild in the hedges, but these are garden ones, and they are bigger and grander. There are some big clumps of columbine in the secret garden. They will look like a bed of blue and white butterflies fluttering when they bloom.\"",
+    "ko": "\"둘 다 울타리 곁에 야생으로 자라지만, 이건 화원용이라 더 크고 화려해유. 비밀의 화원에도 매발톱꽃이 무더기로 많이 자라고 있어유. 꽃이 피면 파랗고 하얀 나비 떼가 날갯짓하며 노니는 것처럼 보일 거여유.\"",
+    "is_header": false
+  },
+  {
+    "id": 126,
+    "tag": "P090",
+    "en": "\"I am going to see them,\" Colin cried. \"I am going to see them!\"",
+    "ko": "\"나 꼭 보러 갈 거야.\" 콜린이 외쳤다. \"꼭 보러 가고 말 테야!\"",
+    "is_header": false
+  },
+  {
+    "id": 127,
+    "tag": "P091",
+    "en": "\"Yes, you must,\" Mary said quite seriously. \"And you must not lose any time about it.\"",
+    "ko": "\"응, 반드시 그래야 해.\" 메리가 사뭇 진지한 태도로 말했다. \"더 미뤄서는 안 돼.\"",
+    "is_header": false
+  }
+]

@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.model
+package com.tkprof.shared.model
 
 import kotlinx.serialization.Serializable
 
@@ -8,6 +8,7 @@ import kotlinx.serialization.Serializable
 @Serializable
 data class BilingualParagraph(
     val id: Int,
+    val tag: String? = null,
     val en: String,
     val ko: String,
     val is_header: Boolean = false

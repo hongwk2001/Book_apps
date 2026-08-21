@@ -1,0 +1,142 @@
+[
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_01.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 01"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_02.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 02"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_03.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 03"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_04.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 04"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_05.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 05"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_06.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 06"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_07.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 07"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_08.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 08"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_09.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 09"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_10.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 10"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_11.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 11"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_12.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 12"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_13.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 13"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_14.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 14"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_15.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 15"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_16.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 16"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_17.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 17"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_18.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 18"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_19.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 19"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_20.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 20"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_21.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 21"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_22.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 22"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_23.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 23"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_24.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 24"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_25.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 25"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_26.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 26"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_27.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 27"
+    },
+    {
+        "Prompt":  "Read c:\\git_repo\\Book_apps\\frankenstein\\src\\main\\assets\\books\\ch_28.json. Rewrite the \u0027en\u0027 field for every chunk to be modern, accessible English, using the \u0027ko\u0027 field as a strict structural guide to ensure sentences perfectly align 1-to-1. Overwrite the file when done.",
+        "TypeName":  "Modernizer",
+        "Role":  "Modernizer Ch 28"
+    }
+]

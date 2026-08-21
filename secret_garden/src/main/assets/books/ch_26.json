@@ -1,0 +1,849 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "Chapter 26: \"It's Mother!\"",
+    "ko": "제26장: \"엄니예요!\"",
+    "is_header": true
+  },
+  {
+    "id": 2,
+    "tag": "P002",
+    "en": "Their belief in the Magic was constant. After the morning's incantations, Colin would sometimes give them lectures on the Magic.",
+    "ko": "마술에 대한 그들의 믿음은 확고했다. 아침 주문을 외우고 나면 콜린은 가끔 마술에 대해 강연을 하곤 했다.",
+    "is_header": false
+  },
+  {
+    "id": 3,
+    "tag": "P003-1",
+    "en": "\"I like doing it,\" he explained, \"because when I grow up and make great scientific discoveries, I'll have to lecture about them, so this is good practice. I can only give short lectures now because I'm still very young, and besides, Ben Weatherstaff would feel like he was in church and fall asleep.\"",
+    "ko": "\"강연하는 게 참 좋아.\" 콜린이 설명했다. \"내가 자라서 위대한 과학적 발견을 하면 그것들에 대해 강연을 해야 할 테니까 미리 연습하기에 아주 좋거든. 지금은 내가 아직 너무 어리기도 하고, 게다가 벤 웨더스태프 할아버지가 예배당에 온 기분이라도 나서 꾸벅꾸벅 졸 테니까 짧게밖에 못 하지만 말이야.\"",
+    "is_header": false
+  },
+  {
+    "id": 4,
+    "tag": "P004",
+    "en": "\"The best thing about lecturing,\" Ben said, \"is that a fellow can stand up and say whatever he likes, and no one can answer him back. I wouldn't mind doing a bit of lecturing myself sometimes.\"",
+    "ko": "\"설교라는 것의 가장 좋은 점은 말이여,\" 벤이 말했다. \"사람이 버젓이 일어서서 제멋대로 떠들어도 아무도 대꾸하지 못한다는 거여. 나도 가끔은 설교라는 걸 좀 해보고 싶구먼.\"",
+    "is_header": false
+  },
+  {
+    "id": 5,
+    "tag": "P005-1",
+    "en": "But when Colin spoke under his tree, old Ben kept his eyes fixed intently on him. He watched the boy with critical affection.",
+    "ko": "하지만 콜린이 나무 밑에서 이야기할 때면, 늙은 벤은 아이에게 눈길을 떼지 않고 뚫어지게 쳐다보았다. 그는 엄격하면서도 애정 어린 눈빛으로 소년을 관찰했다.",
+    "is_header": false
+  },
+  {
+    "id": 6,
+    "tag": "P005-2",
+    "en": "It wasn't the lecture itself that interested Ben, but Colin's legs, which looked straighter and stronger every day. He also watched the boy's head, held up so proudly, his once sharp chin and hollow cheeks that had rounded out, and his eyes, which were starting to show the same light Ben remembered in another pair.",
+    "ko": "벤의 흥미를 끈 것은 강연 내용 그 자체가 아니라, 날이 갈수록 곧고 튼튼해지는 콜린의 다리였다. 그는 또한 꼿꼿하고 당당하게 치켜든 소년의 머리, 예전의 뾰족했던 턱과 움푹했던 뺨에 살이 올라 통통해진 모습, 그리고 벤이 기억하는 또 다른 사람의 눈에서 보았던 것과 똑같은 빛을 띠기 시작한 소년의 눈을 지켜보았다.",
+    "is_header": false
+  },
+  {
+    "id": 7,
+    "tag": "P005-3",
+    "en": "Sometimes, when Colin felt Ben's earnest gaze and thought the old man was deeply impressed, he wondered what Ben was thinking. Once, when Ben seemed completely entranced, Colin questioned him.",
+    "ko": "가끔 콜린은 벤의 간절한 시선을 느끼고 늙은 정원사가 깊은 감명을 받았다고 생각하며, 그가 무슨 생각을 하고 있는지 궁금해했다. 한 번은 벤이 완전히 넋을 잃은 것처럼 보였을 때, 콜린이 그에게 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 8,
+    "tag": "P006",
+    "en": "\"What are you thinking about, Ben Weatherstaff?\" he asked.",
+    "ko": "\"무슨 생각을 하고 계세요, 벤 웨더스태프 할아버지?\" 콜린이 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 9,
+    "tag": "P007-1",
+    "en": "\"I was thinking,\" Ben answered, \"that I'd bet you've gained three or four pounds this week. I was looking at your calves and your shoulders. I'd like to get you on a pair of scales.\"",
+    "ko": "\"내 생각엔 말이여,\" 벤이 대답했다. \"도련님이 이번 주에 한 3, 4파운드는 찐 것 같구먼유. 종아리랑 어깨를 보고 있었어유. 체중계에 한번 올려보고 싶네유.\"",
+    "is_header": false
+  },
+  {
+    "id": 10,
+    "tag": "P008",
+    "en": "\"It's the Magic and—and Mrs. Sowerby's buns and milk and things,\" Colin said. \"You see, the scientific experiment has succeeded.\"",
+    "ko": "\"마술 덕분이야, 그리고… 소어비 부인의 빵이랑 우유 같은 것들 덕분이기도 하고.\" 콜린이 말했다. \"보다시피 과학적인 실험이 성공한 거지.\"",
+    "is_header": false
+  },
+  {
+    "id": 11,
+    "tag": "P009-1",
+    "en": "That morning, Dickon arrived too late to hear the lecture. When he came, his face was red from running, and his funny expression seemed even brighter than usual. Since they had a lot of weeding to do after the rain, they got right to work.",
+    "ko": "그날 아침, 디콘은 너무 늦게 도착해서 강연을 듣지 못했다. 디콘은 뛰어오느라 얼굴이 붉게 상기되어 있었고, 특유의 익살스러운 표정이 평소보다 훨씬 더 밝아 보였다. 비가 내린 뒤라 잡초를 뽑아야 할 일이 많았기에 그들은 곧바로 일을 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 12,
+    "tag": "P009-2",
+    "en": "They always had plenty to do after a warm, heavy downpour. The moisture that was good for the flowers was also good for the weeds, which shot up tiny grass blades and pointed leaves that had to be pulled before their roots took hold. Colin was as good at weeding as anyone else now, and he could still lecture while he worked.",
+    "ko": "따뜻하고 굵은 장대비가 내린 뒤에는 언제나 할 일이 넘쳐났다. 꽃에 유익한 수분은 잡초에게도 좋아서, 아직 뿌리가 깊어지기 전에 얼른 뽑아내야 하는 미세한 풀잎과 뾰족한 싹들이 쑥쑥 돋아났다. 콜린도 이제는 다른 아이들 못지않게 잡초를 잘 뽑았고, 일하면서도 강연을 계속 이어갈 수 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 13,
+    "tag": "P010-1",
+    "en": "\"The Magic works best when you work yourself,\" he said that morning. \"You can feel it in your bones and muscles. I'm going to read books about bones and muscles, but I'm going to write a book about Magic.",
+    "ko": "\"스스로 움직일 때 마술은 가장 강력하게 작용해.\" 그날 아침 콜린이 말했다. \"뼈와 근육으로 마술을 느낄 수 있거든. 앞으로 뼈와 근육에 관한 책들을 읽을 생각이지만, 마술에 관한 책도 한 권 쓸 거야.",
+    "is_header": false
+  },
+  {
+    "id": 14,
+    "tag": "P010-2",
+    "en": "I'm making it up now. I keep discovering new things.\"",
+    "ko": "지금 구상 중인데, 계속해서 새로운 사실을 발견하고 있어.\"",
+    "is_header": false
+  },
+  {
+    "id": 15,
+    "tag": "P011a-1",
+    "en": "Not long after saying this, he laid down his trowel and stood up. He had been silent for several minutes, and they could see he was thinking through a lecture, as he often did. When he dropped his trowel and stood straight, it seemed to Mary and Dickon as if a sudden, powerful thought had moved him.",
+    "ko": "이 말을 하고 얼마 지나지 않아, 콜린은 모종삽을 내려놓고 자리에서 일어났다. 그는 몇 분 동안 침묵을 지키고 있었는데, 평소처럼 속으로 강연 내용을 궁리하는 중이라는 것을 메리와 디콘은 알아챌 수 있었다. 콜린이 모종삽을 던지듯 내려놓고 똑바로 일어섰을 때, 메리와 디콘의 눈에는 그가 마치 갑작스럽고 강력한 생각에 사로잡힌 것처럼 보였다.",
+    "is_header": false
+  },
+  {
+    "id": 16,
+    "tag": "P011a-2",
+    "en": "He stretched himself to his full height and threw out his arms with joy. Color rushed to his face, and his unusual eyes widened with happiness. All at once, he realized something completely.",
+    "ko": "그는 기지개를 켜듯 온몸을 쭉 펴고 기쁨에 겨워 양팔을 벌렸다. 얼굴에 핏기가 돌고 신비로운 눈망울은 행복감으로 크게 뜨였다. 바로 그 순간, 그는 한 가지 사실을 온전히 깨달았다.",
+    "is_header": false
+  },
+  {
+    "id": 17,
+    "tag": "P011b-1",
+    "en": "\"Mary! Dickon!\" he cried. \"Just look at me!\"",
+    "ko": "\"메리! 디콘!\" 그가 외쳤다. \"나 좀 봐!\"",
+    "is_header": false
+  },
+  {
+    "id": 18,
+    "tag": "P012",
+    "en": "They stopped their weeding and looked at him.",
+    "ko": "그들은 잡초를 뽑다 말고 콜린을 쳐다보았다.",
+    "is_header": false
+  },
+  {
+    "id": 19,
+    "tag": "P013",
+    "en": "\"Do you remember that first morning you brought me in here?\" he asked.",
+    "ko": "\"너희가 나를 처음 이곳에 데려왔던 그 아침을 기억해?\" 그가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 20,
+    "tag": "P014",
+    "en": "Dickon stared at him intently. As an animal charmer, he could see things that most people missed, and many of them were things he never talked about. He saw some of those things in Colin now.",
+    "ko": "디콘은 콜린을 뚫어지게 바라보았다. 동물 마술사인 디콘은 남들이 보지 못하는 것을 볼 줄 알았고, 그중 상당수는 다른 사람에게 결코 털어놓지 않는 비밀이었다. 지금 디콘은 콜린에게서 바로 그런 무언가를 보고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 21,
+    "tag": "P015a",
+    "en": "\"Aye, we do,\" he answered.",
+    "ko": "\"예, 기억하고 말고유.\" 그가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 22,
+    "tag": "P015b",
+    "en": "Mary looked closely too, but she said nothing.",
+    "ko": "메리 역시 유심히 살펴보았으나 아무 말도 하지 않았다.",
+    "is_header": false
+  },
+  {
+    "id": 23,
+    "tag": "P015c-1",
+    "en": "\"Just this minute,\" said Colin, \"all at once I remembered it myself—when I looked at my hand digging with the trowel—and I had to stand up to see if it was real.",
+    "ko": "\"방금 전 말이야,\" 콜린이 말했다. \"모종삽으로 흙을 파고 있는 내 손을 바라보다가 문득 그날이 떠올랐어. 그래서 이게 진짜인가 확인해 보려고 일어서야만 했지.",
+    "is_header": false
+  },
+  {
+    "id": 24,
+    "tag": "P015c-2",
+    "en": "And it is real! I'm well—I'm well!\"",
+    "ko": "그런데 진짜였어! 나 다 나았어! 나 다 나았다고!\"",
+    "is_header": false
+  },
+  {
+    "id": 25,
+    "tag": "P016",
+    "en": "\"Yes, you are!\" said Dickon.",
+    "ko": "\"그럼유, 도련님은 다 나았어유!\" 디콘이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 26,
+    "tag": "P017",
+    "en": "\"I'm well! I'm well!\" Colin said again, his face turning red with excitement.",
+    "ko": "\"나 다 나았어! 나 다 나았어!\" 콜린은 흥분으로 얼굴이 붉어져서 거듭 소리쳤다.",
+    "is_header": false
+  },
+  {
+    "id": 27,
+    "tag": "P018-1",
+    "en": "He had known it before in a way; he had hoped it, felt it, and thought about it.",
+    "ko": "그전에도 어렴풋이는 알고 있었다. 그렇게 바랐고, 그렇게 느꼈으며, 그렇게 생각하고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 28,
+    "tag": "P018-2",
+    "en": "But at that exact moment, a rush of pure joy and realization surged through him. It was so strong that he couldn't help calling out.",
+    "ko": "하지만 바로 그 순간, 순수한 기쁨과 자각이 그에게 몰아쳤다. 그 감정이 너무나 격렬해서 도저히 소리치지 않고는 배길 수가 없었다.",
+    "is_header": false
+  },
+  {
+    "id": 29,
+    "tag": "P019-1",
+    "en": "\"I shall live forever and ever and ever!\" he cried grandly. \"I will discover thousands and thousands of things. I'll learn about people, animals, and everything that grows—just like Dickon—and I will never stop making Magic.",
+    "ko": "\"나는 영원히, 영원히, 영원히 살 거야!\" 그가 당당하게 외쳤다. \"수천, 수만 가지 것들을 발견할 거야. 사람들, 동물들, 그리고 디콘처럼 자라나는 모든 것에 대해 배울 것이고, 마술을 부리는 일을 절대 멈추지 않을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 30,
+    "tag": "P019-2",
+    "en": "I'm well! I'm well! I feel like I want to shout out something—something thankful and full of joy!\"",
+    "ko": "나 다 나았어! 나 다 나았어! 기쁨과 감사로 가득 찬 무언가를 소리 높여 외치고 싶어!\"",
+    "is_header": false
+  },
+  {
+    "id": 31,
+    "tag": "P020",
+    "en": "Ben Weatherstaff, who had been working near a rosebush, glanced over at him.",
+    "ko": "장미 덤불 근처에서 일하고 있던 벤 웨더스태프가 그를 힐끗 쳐다보았다.",
+    "is_header": false
+  },
+  {
+    "id": 32,
+    "tag": "P021a",
+    "en": "\"You could sing the Doxology,\" he suggested with a dry grunt. He didn't care much for the hymn himself, and he didn't make the suggestion out of any deep religious feeling.",
+    "ko": "\"감사 성가라도 부르시면 되겠구먼유.\" 그가 심드렁하게 콧방귀를 뀌며 제안했다. 벤 본인도 성가를 그다지 좋아하지 않았고, 마음 깊은 신앙심에서 우러나온 제안도 아니었다.",
+    "is_header": false
+  },
+  {
+    "id": 33,
+    "tag": "P021b",
+    "en": "But Colin had an inquiring mind, and he knew nothing about the Doxology.",
+    "ko": "하지만 탐구심이 강한 콜린은 감사 찬송가에 대해 전혀 알지 못했다.",
+    "is_header": false
+  },
+  {
+    "id": 34,
+    "tag": "P022a",
+    "en": "\"What is that?\" he asked.",
+    "ko": "\"그게 뭔데?\" 그가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 35,
+    "tag": "P022b",
+    "en": "\"Dickon can sing it for you, I'm sure,\" replied Ben Weatherstaff.",
+    "ko": "\"디콘 녀석이 불러줄 수 있을 거여유.\" 벤 웨더스태프가 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 36,
+    "tag": "P022c",
+    "en": "Dickon answered with his knowing, animal-charmer smile.",
+    "ko": "디콘이 모든 걸 알고 있다는 듯, 동물 마술사 특유의 미소를 지으며 대답했다.",
+    "is_header": false
+  },
+  {
+    "id": 37,
+    "tag": "P022d",
+    "en": "\"They sing it in church,\" he said. \"Mother says she believes the skylarks sing it when they rise in the morning.\"",
+    "ko": "\"교회에서 부르는 노래여유.\" 그가 말했다. \"엄니는 아침에 솟아오르는 종다리들도 이 노래를 부르는 것 같다고 하셨구먼유.\"",
+    "is_header": false
+  },
+  {
+    "id": 38,
+    "tag": "P023-1",
+    "en": "\"If she says that, it must be a beautiful song,\" Colin answered. \"I've never been to church myself. I was always too sick.",
+    "ko": "\"소어비 부인께서 그렇게 말씀하셨다면 분명 아름다운 노래겠지.\" 콜린이 대답했다. \"난 항상 너무 아파서 교회에는 한 번도 가보지 못했어.",
+    "is_header": false
+  },
+  {
+    "id": 39,
+    "tag": "P023-2",
+    "en": "Sing it, Dickon. I want to hear it.\"",
+    "ko": "디콘, 노래 불러줘. 듣고 싶어.\"",
+    "is_header": false
+  },
+  {
+    "id": 40,
+    "tag": "P024-1",
+    "en": "Dickon was completely natural and comfortable with the request. He understood what Colin was feeling even better than Colin did.",
+    "ko": "디콘은 그 청을 아주 자연스럽고 편안하게 받아들였다. 그는 콜린의 심정을 콜린 자신보다 더 잘 이해하고 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 41,
+    "tag": "P024-2",
+    "en": "He knew it by a kind of instinct so natural that he didn't even realize it was understanding. He took off his cap and looked around, still smiling.",
+    "ko": "그것은 너무나 당연해서 스스로도 자각하지 못하는 일종의 본능과 같았다. 디콘은 모자를 벗고 여전히 미소를 띤 채 주변을 둘러보았다.",
+    "is_header": false
+  },
+  {
+    "id": 42,
+    "tag": "P025-1",
+    "en": "\"You must take off your cap,\" he said to Colin, \"and you must too, Ben—and you need to stand up, you know.\"",
+    "ko": "\"도련님도 모자를 벗으셔야 해유.\" 디콘이 콜린에게 말했다. \"벤 할아버지도 벗으셔야 하고유. 그리고 일어서야 하는 거 아시쥬.\"",
+    "is_header": false
+  },
+  {
+    "id": 43,
+    "tag": "P026",
+    "en": "Colin took off his cap, and the sun shone on his thick hair, warming it as he watched Dickon intently. Ben Weatherstaff scrambled up from his knees and bared his head too, a puzzled, slightly grumpy look on his old face, as if he didn't quite know why he was doing such an unusual thing.",
+    "ko": "콜린이 모자를 벗자 그의 풍성한 머리칼 위로 햇살이 따스하게 내리쬐었고, 그는 디콘을 뚫어지게 지켜보았다. 벤 웨더스태프도 무릎을 꿇고 일하던 자리에서 끙차 하고 일어나 머리를 드러냈는데, 늙은 그의 얼굴에는 왜 이런 별스러운 짓을 해야 하는지 모르겠다는 듯 어리둥절하면서도 다소 심통 맞은 표정이 서려 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 44,
+    "tag": "P027",
+    "en": "Dickon stood among the trees and rosebushes and began to sing in a simple, straightforward way, his boyish voice clear and strong:",
+    "ko": "디콘은 나무들과 장미 덤불 사이에 서서, 맑고 청아한 목소리로 꾸밈없이 솔직하게 노래를 부르기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 45,
+    "tag": "P028a",
+    "en": "\"Praise God from whom all blessings flow,",
+    "ko": "\"만복의 근원 하나님, 온 백성 찬송하고,",
+    "is_header": false
+  },
+  {
+    "id": 46,
+    "tag": "P028b",
+    "en": "Praise Him all creatures here below,",
+    "ko": "이 땅의 모든 만물도 찬송할지라.",
+    "is_header": false
+  },
+  {
+    "id": 47,
+    "tag": "P029a",
+    "en": "Praise Him above, you heavenly host,",
+    "ko": "저 천사들도 모두 소리 높여,",
+    "is_header": false
+  },
+  {
+    "id": 48,
+    "tag": "P029b",
+    "en": "Praise Father, Son, and Holy Ghost.",
+    "ko": "성부 성자 성령을 찬송할지라.",
+    "is_header": false
+  },
+  {
+    "id": 49,
+    "tag": "P029c",
+    "en": "Amen.\"",
+    "ko": "아멘.\"",
+    "is_header": false
+  },
+  {
+    "id": 50,
+    "tag": "P030",
+    "en": "When he finished, Ben Weatherstaff was standing perfectly still, his jaw set stubbornly, but with a deeply moved look in his eyes as he stared at Colin. Colin's face was thoughtful and appreciative.",
+    "ko": "노래가 끝나자 벤 웨더스태프는 턱을 굳게 다문 완고한 자세로 미동도 없이 서 있었으나, 콜린을 바라보는 그의 눈빛에는 깊은 감동이 서려 있었다. 콜린의 얼굴은 생각에 잠긴 채 깊이 감상하는 표정이었다.",
+    "is_header": false
+  },
+  {
+    "id": 51,
+    "tag": "P031-1",
+    "en": "\"It is a very beautiful song,\" he said. \"I like it. Perhaps it means exactly what I mean when I want to shout out that I'm thankful to the Magic.\"",
+    "ko": "\"정말 아름다운 노래야.\" 콜린이 말했다. \"마음에 들어. 어쩌면 내가 마술에 감사하다고 외치고 싶을 때의 내 마음과 정확히 똑같은 뜻일지도 몰라.\"",
+    "is_header": false
+  },
+  {
+    "id": 52,
+    "tag": "P031-2",
+    "en": "He paused, thinking it over. \"Maybe they are the same thing. How can we know the exact names of everything?",
+    "ko": "그는 잠시 멈추어 곰곰이 생각했다. \"결국 다 같은 것일지도 모르지. 세상 만물의 정확한 이름을 우리가 어떻게 다 알겠어?",
+    "is_header": false
+  },
+  {
+    "id": 53,
+    "tag": "P031-3",
+    "en": "Sing it again, Dickon. Let's try, Mary. I want to sing it, too.",
+    "ko": "디콘, 다시 한번 불러줘. 메리, 우리도 같이 해보자. 나도 부르고 싶어.",
+    "is_header": false
+  },
+  {
+    "id": 54,
+    "tag": "P031-4",
+    "en": "It's my song. How does it start? 'Praise God from whom all blessings flow'?\"",
+    "ko": "이건 내 노래야. 어떻게 시작하더라? '만복의 근원 하나님, 온 백성 찬송하고' 였나?\"",
+    "is_header": false
+  },
+  {
+    "id": 55,
+    "tag": "P032-1",
+    "en": "And they sang it again. Mary and Colin lifted their voices as musically as they could, and Dickon's voice rose loud and clear. At the second line, Ben Weatherstaff cleared his throat raspily, and by the third line, he joined in with such intense vigor that it sounded almost fierce.",
+    "ko": "그들은 노래를 다시 불렀다. 메리와 콜린은 최대한 고운 목소리로 노래를 불렀고, 디콘의 목소리는 맑고 드높이 울려 퍼졌다. 둘째 줄에 이르자 벤 웨더스태프가 걸걸하게 목청을 가다듬더니, 셋째 줄에 들어서는 거의 격렬하게 들릴 만큼 힘찬 소리로 노래를 함께 불렀다.",
+    "is_header": false
+  },
+  {
+    "id": 56,
+    "tag": "P032-2",
+    "en": "When the final \"Amen\" ended, Mary noticed that the exact same thing had happened to him as when he first discovered Colin could walk—his chin was twitching, he was blinking rapidly, and his leathery old cheeks were wet with tears.",
+    "ko": "마지막 \"아멘\"이 끝났을 때, 메리는 벤이 콜린의 걸음마를 처음 보았을 때와 똑같은 상태가 된 것을 알아챘다. 벤의 턱은 실룩거렸고 눈은 쉴 새 없이 깜빡였으며, 가죽처럼 질긴 늙은 뺨은 눈물로 젖어 있었다.",
+    "is_header": false
+  },
+  {
+    "id": 57,
+    "tag": "P033a-1",
+    "en": "\"I never saw any sense in that song before,\" he said hoarsely, \"but I might change my mind in time. I'd say you've gained five pounds this week, Master Colin—a full five pounds!\"",
+    "ko": "\"이전에는 이 노래에서 쥐뿔만큼의 의미도 찾지 못했었는디,\" 그가 쉰 목소리로 말했다. \"하지만 이제는 생각이 바뀔지도 모르겠구먼유. 콜린 도련님, 이번 주에 5파운드는 찌신 것 같아유. 꼬박 5파운드 말이여유!\"",
+    "is_header": false
+  },
+  {
+    "id": 58,
+    "tag": "P033b",
+    "en": "Colin was looking across the garden at something that caught his eye, and his expression suddenly turned to one of surprise.",
+    "ko": "콜린은 정원 건너편에 시선을 사로잡는 무언가를 바라보다가, 갑자기 깜짝 놀란 표정을 지었다.",
+    "is_header": false
+  },
+  {
+    "id": 59,
+    "tag": "P034",
+    "en": "\"Who is coming in here?\" he said quickly. \"Who is it?\"",
+    "ko": "\"누가 들어오고 있어.\" 그가 다급히 말했다. \"누구지?\"",
+    "is_header": false
+  },
+  {
+    "id": 60,
+    "tag": "P035-1",
+    "en": "The door in the ivy-covered wall had been pushed gently open, and a woman had entered. She had come in during the last line of their song and stood still, listening and watching them. With the ivy behind her, the sunlight filtering through the trees and dappling her long blue cloak, and her fresh, pleasant face smiling across the greenery, she looked like a softly colored illustration in one of Colin's books.",
+    "ko": "담쟁이덩굴로 덮인 담장의 문이 부드럽게 밀려 열리더니, 한 여성이 들어섰다. 그녀는 노래의 마지막 소절이 울려 퍼질 때 들어와 가만히 서서 아이들을 바라보며 귀를 기울이고 있었다. 뒤로는 담쟁이덩굴이 우거져 있고, 나뭇가지 사이로 부서지는 햇살이 그녀의 파란 외투에 아른거렸으며, 풀밭 너머로 온화하고 싱그러운 얼굴로 미소 짓는 모습이 마치 콜린의 책에 나오는 은은한 색채의 삽화 같았다.",
+    "is_header": false
+  },
+  {
+    "id": 61,
+    "tag": "P035-2",
+    "en": "She had warm, loving eyes that seemed to take in everything—all of them, Ben Weatherstaff, the animals, and every blooming flower. Even though she had appeared so unexpectedly, none of them felt she was an intruder. Dickon's eyes lit up like lamps.",
+    "ko": "그녀의 따스하고 자애로운 눈빛은 그곳의 모든 것, 즉 아이들과 벤 웨더스태프, 동물들과 활짝 핀 꽃 한 송이까지 전부 품어 안는 듯했다. 비록 그녀가 예고도 없이 불쑥 나타났지만, 아무도 그녀를 불청객으로 여기지 않았다. 디콘의 눈이 등불처럼 번쩍 빛났다.",
+    "is_header": false
+  },
+  {
+    "id": 62,
+    "tag": "P036a",
+    "en": "\"It's mother—that's who it is!\" he cried, and ran across the grass to meet her.",
+    "ko": "\"엄니예요! 우리 엄니라고요!\" 그가 소리치며 풀밭을 가로질러 마중 나갔다.",
+    "is_header": false
+  },
+  {
+    "id": 63,
+    "tag": "P036b",
+    "en": "Colin began to walk toward her too, and Mary went with him. Both of them felt their hearts beating faster.",
+    "ko": "콜린도 그녀를 향해 걷기 시작했고, 메리도 그와 동행했다. 두 아이 모두 가슴이 쿵쾅거리기 시작했다.",
+    "is_header": false
+  },
+  {
+    "id": 64,
+    "tag": "P037a",
+    "en": "\"It's mother!\" Dickon said again when they met halfway. \"I knew you wanted to see her, and I told her where the hidden door was.\"",
+    "ko": "\"우리 엄니예요!\" 중간쯤에서 마주쳤을 때 디콘이 다시 말했다. \"도련님이 엄니를 꼭 만나고 싶어 하시는 걸 알고 제가 숨겨진 문이 어디 있는지 알려드렸구먼유.\"",
+    "is_header": false
+  },
+  {
+    "id": 65,
+    "tag": "P037b",
+    "en": "Colin held out his hand with a flush of shy, noble politeness, but his eyes eagerly studied her face.",
+    "ko": "콜린은 수줍으면서도 품위 있고 공손하게 손을 내밀었지만, 그의 눈길은 간절하게 그녀의 얼굴을 살폈다.",
+    "is_header": false
+  },
+  {
+    "id": 66,
+    "tag": "P037c-1",
+    "en": "\"Even when I was sick, I wanted to see you,\" he said, \"you and Dickon and the secret garden. I had never wanted to see anyone or anything before.\"",
+    "ko": "\"제가 아팠을 때도 소어비 부인을 꼭 뵙고 싶었어요.\" 그가 말했다. \"부인과 디콘, 그리고 비밀의 화원을요. 그전에는 그 누구도, 그 무엇도 보고 싶어 한 적이 없었거든요.\"",
+    "is_header": false
+  },
+  {
+    "id": 67,
+    "tag": "P038a",
+    "en": "The sight of his upturned face brought a sudden change to hers. She flushed, the corners of her mouth trembled, and tears welled up in her eyes.",
+    "ko": "콜린이 올려다보는 얼굴을 마주한 순간, 그녀의 얼굴에 급격한 변화가 일었다. 그녀는 얼굴이 붉어졌고 입꼬리가 파르르 떨리더니 눈에 눈물이 가득 고였다.",
+    "is_header": false
+  },
+  {
+    "id": 68,
+    "tag": "P038b-1",
+    "en": "\"Oh, dear boy!\" she whispered tremulously. \"Oh, dear boy!\" she said, as if the words had slipped out without her realizing it. She did not call him \"Master Colin,\" but simply \"dear boy.\"",
+    "ko": "\"오, 사랑스러운 아가야!\" 그녀는 떨리는 목소리로 속삭였다. \"오, 사랑스러운 아가야!\" 그녀는 자신도 모르게 마음속에서 툭 튀어나온 말처럼 속삭였다. 그녀는 콜린을 \"도련님\"이라고 부르지 않고, 그저 \"사랑스러운 아가\"라고 불렀다.",
+    "is_header": false
+  },
+  {
+    "id": 69,
+    "tag": "P038b-2",
+    "en": "She might have spoken to Dickon in the exact same way if she had seen something in his face that touched her heart. Colin liked it.",
+    "ko": "만약 디콘의 얼굴에서 마음을 울리는 무언가를 보았다면 디콘에게도 똑같이 그렇게 불렀을 터였다. 콜린은 그 호칭이 아주 마음에 들었다.",
+    "is_header": false
+  },
+  {
+    "id": 70,
+    "tag": "P038c",
+    "en": "\"Are you surprised because I am so well?\" he asked.",
+    "ko": "\"제가 이렇게 건강해져서 놀라셨나요?\" 그가 물었다.",
+    "is_header": false
+  },
+  {
+    "id": 71,
+    "tag": "P039a",
+    "en": "She put her hand on his shoulder and smiled away her tears.",
+    "ko": "그녀는 콜린의 어깨에 손을 얹고 눈물을 거두며 미소를 지었다.",
+    "is_header": false
+  },
+  {
+    "id": 72,
+    "tag": "P039b",
+    "en": "\"Yes, I am!\" she said. \"But you are so like your mother, you made my heart leap.\"",
+    "ko": "\"그럼, 그렇고말고!\" 그녀가 말했다. \"하지만 네가 네 어머니를 너무 닮아서 가슴이 덜컥 내려앉았단다.\"",
+    "is_header": false
+  },
+  {
+    "id": 73,
+    "tag": "P040",
+    "en": "\"Do you think,\" Colin asked a little awkwardly, \"that will make my father like me?\"",
+    "ko": "\"그렇다면,\" 콜린이 약간 쑥스러운 듯 물었다. \"아버지가 저를 좋아해 주실까요?\"",
+    "is_header": false
+  },
+  {
+    "id": 74,
+    "tag": "P041-1",
+    "en": "\"Yes, for sure, dear boy,\" she answered, giving his shoulder a soft, quick pat. \"He must come home—he must come home.\"",
+    "ko": "\"그럼, 당연히 그렇고말고, 사랑스러운 아가야.\" 그녀는 그의 어깨를 다정하게 톡톡 두드리며 대답했다. \"아버님이 집으로 돌아오셔야 해. 꼭 돌아오셔야 하고말고.\"",
+    "is_header": false
+  },
+  {
+    "id": 75,
+    "tag": "P042a-1",
+    "en": "\"Susan Sowerby,\" said Ben Weatherstaff, stepping closer to her. \"Look at the boy's legs, would you?",
+    "ko": "\"수잔 소어비,\" 벤 웨더스태프가 한 걸음 다가서며 말했다. \"이 도련님 다리 좀 보구려.",
+    "is_header": false
+  },
+  {
+    "id": 76,
+    "tag": "P042a-2",
+    "en": "They were like drumsticks in stockings two months ago—and I heard people say they were both bow-legged and knock-kneed at the same time. Look at them now!\"",
+    "ko": "두 달 전만 해도 스타킹을 신겨 놓은 닭다리 같았단 말이여. 사람들이 안짱다리에다 밭짱다리가 다 겹쳤다고 수군대는 소리도 내 들었는디, 지금 저 다리 좀 보라고!\"",
+    "is_header": false
+  },
+  {
+    "id": 77,
+    "tag": "P042b",
+    "en": "Susan Sowerby laughed a warm, comforting laugh.",
+    "ko": "수잔 소어비는 따스하고 아늑한 웃음을 터뜨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 78,
+    "tag": "P042c",
+    "en": "\"They're going to be fine, strong legs in a little while,\" she said. \"Let him keep playing and working in the garden, eating heartily, and drinking plenty of good, sweet milk, and there won't be a finer pair in Yorkshire, thank God.\"",
+    "ko": "\"머잖아 튼튼하고 훌륭한 다리가 될 겁니다.\" 그녀가 말했다. \"이대로 정원에서 마음껏 놀고 일하게 하시고, 밥도 든든히 먹고 달고 맛 좋은 우유도 듬뿍 마시게 하면, 하나님 은혜로 요크셔 전체에서 이보다 더 멋진 다리는 없을 거예요.\"",
+    "is_header": false
+  },
+  {
+    "id": 79,
+    "tag": "P042d",
+    "en": "She put both hands on Mary's shoulders and looked over her little face in a motherly way.",
+    "ko": "그녀는 메리의 양어깨에 두 손을 얹고 어머니 같은 눈길로 메리의 자그마한 얼굴을 유심히 살펴보았다.",
+    "is_header": false
+  },
+  {
+    "id": 80,
+    "tag": "P043-1",
+    "en": "\"And you, too!\" she said. \"You've grown almost as healthy as our Elizabeth Ellen. I'll bet you are like your mother, too.",
+    "ko": "\"너도 그렇구나!\" 그녀가 말했다. \"우리 집 엘리자베스 엘렌만큼이나 건강해졌어. 너도 네 어머니를 쏙 뺀 게 틀림없겠구나.",
+    "is_header": false
+  },
+  {
+    "id": 81,
+    "tag": "P043-2",
+    "en": "Our Martha told me that Mrs. Medlock heard she was a beautiful woman. You'll be like a blush rose when you grow up, my little lass, bless you.\"",
+    "ko": "우리 마사 말이, 메들록 부인에게 듣기로 네 어머니가 굉장한 미인이셨다더구나. 다 자라면 발그레한 장미꽃처럼 예뻐지겠구나. 우리 예쁜 아가, 축복한다.\"",
+    "is_header": false
+  },
+  {
+    "id": 82,
+    "tag": "P044-1",
+    "en": "She didn't mention that when Martha had come home on her day off and described the plain, sickly-looking child, Susan had said she didn't believe a word of what Mrs. Medlock heard. \"It doesn't make sense that a pretty woman could be the mother of such an ugly little thing,\" she had added stubbornly.",
+    "ko": "그녀는 마사가 휴일에 집에 와서 메리의 못생기고 병약해 보이던 모습을 묘사했을 때, 자신이 메들록 부인이 들었다는 말을 도저히 믿을 수 없다고 했던 일은 입 밖에 내지 않았다. 당시 수잔은 고집스럽게 덧붙였었다. \"그렇게 예쁜 여자가 어찌 저리 못생긴 꼬마를 낳았겠니. 앞뒤가 안 맞지.\"",
+    "is_header": false
+  },
+  {
+    "id": 83,
+    "tag": "P045",
+    "en": "Mary hadn't paid much attention to her changing looks. She only knew that she looked different, and that her hair seemed much thicker and was growing very fast. But remembering how much she had loved looking at her beautiful mother in India, she was glad to hear that she might grow up to look like her one day.",
+    "ko": "메리는 자신의 변해가는 외모에 크게 개의치 않고 있었다. 그저 자신이 이전과는 달라 보인다는 것과, 머리숱이 훨씬 풍성해지고 머리칼이 아주 빠르게 자란다는 사실만 알고 있을 뿐이었다. 하지만 인도에서 아름답던 어머니의 얼굴을 바라보는 것을 얼마나 좋아했는지 기억하고 있었기에, 언젠가 자신도 어머니를 닮아 예쁘게 자랄 수 있다는 말을 듣고 마음이 기뻤다.",
+    "is_header": false
+  },
+  {
+    "id": 84,
+    "tag": "P046-1",
+    "en": "Susan Sowerby walked around the garden with them, listening to the whole story and looking at every bush and tree that had come back to life. Colin walked on one side of her, and Mary walked on the other. Both children kept looking up at her warm, rosy face, secretly wondering at the wonderful feeling she gave them—a comforting, safe feeling.",
+    "ko": "수잔 소어비는 아이들과 함께 정원을 거닐며 그동안 있었던 일들을 전부 경청했고, 다시 살아난 덤불과 나무들을 일일이 살펴보았다. 콜린은 그녀의 한쪽 편에서, 메리는 반대편에서 나란히 걸었다. 두 아이는 수잔의 따뜻하고 불그스레한 얼굴을 연신 올려다보며, 그녀가 선사하는 그 신비롭고 아늑하며 안전한 느낌에 속으로 연신 감탄했다.",
+    "is_header": false
+  },
+  {
+    "id": 85,
+    "tag": "P046-2",
+    "en": "It seemed as though she understood them just as Dickon understood his animals. She bent over the flowers and talked about them as if they were children.",
+    "ko": "마치 디콘이 동물들을 이해하듯 그녀도 자신들을 온전히 이해해 주는 것만 같았다. 그녀는 꽃을 향해 몸을 굽히고는 마치 아이들에게 하듯 다정하게 말을 건넸다.",
+    "is_header": false
+  },
+  {
+    "id": 86,
+    "tag": "P046-3",
+    "en": "Soot followed her, cawing once or twice and landing on her shoulder just as he did with Dickon. When they told her about the robin and the young ones learning to fly, she let out a soft, warm laugh.",
+    "ko": "까마귀 수트도 디콘에게 하듯이 그녀의 뒤를 졸졸 따르다가 한두 번 까악까악 울며 그녀의 어깨 위에 내려앉았다. 아이들이 붉은가슴울새와 나날이 비행 연습을 하는 아기 새들에 관해 이야기해 주자, 그녀는 나지막이 포근한 웃음을 터뜨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 87,
+    "tag": "P047",
+    "en": "\"I suppose teaching them to fly is just like teaching children to walk, but I'm afraid I'd be in a constant worry if mine had wings instead of legs,\" she said.",
+    "ko": "\"새끼들에게 날기 연습을 시키는 건 아이들에게 걸음마를 가르치는 것과 마찬가지겠군요. 하지만 우리 아이들이 다리 대신 날개를 달고 태어났다면 나는 매일 노심초사하며 걱정하느라 바빴을 것 같아요.\" 그녀가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 88,
+    "tag": "P048",
+    "en": "Because she seemed like such a wonderful, trustworthy woman in her simple, cottage way, they finally decided to tell her about the Magic.",
+    "ko": "시골 오두막 아낙네다운 소박한 모습 속에서 너무나도 훌륭하고 신뢰할 수 있는 어른의 모습을 본 아이들은 마침내 그녀에게 마술의 비밀을 털어놓기로 마음먹었다.",
+    "is_header": false
+  },
+  {
+    "id": 89,
+    "tag": "P049",
+    "en": "\"Do you believe in Magic?\" Colin asked, after explaining about the Indian fakirs. \"I really hope you do.\"",
+    "ko": "\"소어비 부인도 마술을 믿으시나요?\" 콜린이 인도의 고행자인 파키르들에 대해 열심히 설명한 뒤 물었다. \"꼭 믿어주셨으면 좋겠어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 90,
+    "tag": "P050-1",
+    "en": "\"Yes, I do, boy,\" she answered. \"I never knew it by that name, but what does the name matter? I'm sure they call it something else in France and something different in Germany.",
+    "ko": "\"그럼, 믿고말고, 얘야.\" 그녀가 대답했다. \"그런 이름으로는 들어본 적이 없지만, 이름이 뭐가 중요하겠니? 분명 프랑스에서는 다른 이름으로 부를 테고 독일에서도 다르게 부르겠지.",
+    "is_header": false
+  },
+  {
+    "id": 91,
+    "tag": "P050-2",
+    "en": "The same power that makes the seeds swell and the sun shine is what made you well, and it's the Great Goodness. It's not like us foolish people who think names matter so much.",
+    "ko": "씨앗을 부풀게 하고 햇빛을 비추는 것과 똑같은 힘이 너를 낫게 한 거란다. 그것은 바로 '위대한 선하심'이지. 이름 따위를 중요하게 여기는 우리 어리석은 사람들과는 다르단다.",
+    "is_header": false
+  },
+  {
+    "id": 92,
+    "tag": "P050-3",
+    "en": "The Big Good Thing doesn't stop to worry, bless you. It goes on making worlds by the million—worlds like ours.",
+    "ko": "그 거대하고 선한 힘은 사소한 일에 멈추어 걱정하지 않아. 우리 세상 같은 수백만 개의 세상을 계속해서 만들어내지.",
+    "is_header": false
+  },
+  {
+    "id": 93,
+    "tag": "P050-4",
+    "en": "Never stop believing in that Big Good Thing, and know that the world is full of it—call it whatever you like.",
+    "ko": "그 거대하고 선한 존재를 믿는 마음을 절대로 잃지 마라. 그리고 이 세상이 그것으로 가득 차 있다는 걸 늘 명심하렴. 이름은 네 마음대로 불러도 괜찮단다.",
+    "is_header": false
+  },
+  {
+    "id": 94,
+    "tag": "P050-5",
+    "en": "You were singing to it when I came into the garden.\"",
+    "ko": "내가 정원에 들어왔을 때 너희도 그것을 향해 노래하고 있었잖니.\"",
+    "is_header": false
+  },
+  {
+    "id": 95,
+    "tag": "P051-1",
+    "en": "\"I felt so joyful,\" Colin said, opening his beautiful, unusual eyes.",
+    "ko": "\"정말 큰 기쁨이 느껴졌어요.\" 콜린이 아름답고 신비로운 눈을 크게 뜨며 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 96,
+    "tag": "P051-2",
+    "en": "\"Suddenly I felt how different I was—how strong my arms and legs were, you know—and how I could dig and stand. I just jumped up and wanted to shout to anything that would listen.\"",
+    "ko": "\"갑자기 내가 얼마나 달라졌는지, 내 팔과 다리가 얼마나 튼튼한지, 땅을 파고 일어설 수 있다는 게 온몸으로 느껴졌거든요. 그래서 그냥 펄쩍 일어나 내 말을 들을 수 있는 모든 것에 소리치고 싶었어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 97,
+    "tag": "P052-1",
+    "en": "\"The Magic listened when you sang that song. It would have listened to anything you sang.",
+    "ko": "\"네가 그 노래를 불렀을 때 마술도 귀를 기울이고 있었단다. 네가 어떤 노래를 불렀어도 다 들어주었을 거야.",
+    "is_header": false
+  },
+  {
+    "id": 98,
+    "tag": "P052-2",
+    "en": "It was the joy that mattered. Oh, my boy, names don't matter to the Maker of Joy,\" she said, giving his shoulders another soft, quick pat.",
+    "ko": "중요한 건 바로 기쁨이니까. 오, 사랑스러운 아가야, 기쁨을 만드신 분에게 이름 따위는 중요하지 않단다.\" 그녀가 콜린의 어깨를 다시 한번 다정하게 툭툭 두드려 주었다.",
+    "is_header": false
+  },
+  {
+    "id": 99,
+    "tag": "P053-1",
+    "en": "She had packed a basket that was a regular feast, and when lunch time came and Dickon brought it out from its hiding place, she sat down with them under their tree. She watched them eat their food with delight, laughing and celebrating their healthy appetites.",
+    "ko": "그녀가 준비해 온 바구니에는 진수성찬이 가득 담겨 있었다. 점심시간이 되어 디콘이 숨겨둔 곳에서 바구니를 꺼내오자, 그녀는 나무 아래에 아이들과 함께 둘러앉았다. 그녀는 기분 좋은 웃음을 지으며 아이들이 왕성한 식욕으로 음식을 맛있게 먹는 모습을 흐뭇하게 지켜보았다.",
+    "is_header": false
+  },
+  {
+    "id": 100,
+    "tag": "P053-2",
+    "en": "She was full of fun and made them laugh at all sorts of funny things. She told them stories in her warm Yorkshire accent and taught them new local words. She laughed heartily when they told her how hard it was becoming to pretend that Colin was still a cranky invalid.",
+    "ko": "그녀는 유머 감각이 넘쳐서 온갖 재미있는 이야기로 아이들을 웃게 만들었다. 정감 어린 요크셔 사투리로 재미난 이야기를 들려주기도 하고, 그 지역의 새로운 방언을 가르쳐 주기도 했다. 콜린이 여전히 까탈스러운 환자 척 연기하는 것이 갈수록 얼마나 힘들어지는지 이야기하자, 그녀는 유쾌하게 웃음을 터뜨렸다.",
+    "is_header": false
+  },
+  {
+    "id": 101,
+    "tag": "P054-1",
+    "en": "\"You see, we can't help laughing almost all the time when we're together,\" Colin explained.",
+    "ko": "\"우리가 같이 있으면 거의 내내 웃음이 터져 나오거든요.\" 콜린이 설명했다.",
+    "is_header": false
+  },
+  {
+    "id": 102,
+    "tag": "P054-2",
+    "en": "\"And it doesn't sound like the laugh of a sick boy at all. We try to hold it back, but it just bursts out, and that sounds even funnier.\"",
+    "ko": "\"게다가 아픈 아이의 웃음소리 같지도 않고요. 웃음을 참으려고 애써보지만 그냥 빵 터져버려서, 그 소리가 훨씬 더 웃겨요.\"",
+    "is_header": false
+  },
+  {
+    "id": 103,
+    "tag": "P055-1",
+    "en": "\"There's one thing that comes to my mind so often,\" Mary said, \"and I can hardly keep from laughing when I think of it suddenly.",
+    "ko": "\"제 머릿속에 자꾸만 떠오르는 일이 있어요.\" 메리가 말했다. \"불쑥 그 생각이 날 때마다 웃음을 참기가 힘들다니까요.",
+    "is_header": false
+  },
+  {
+    "id": 104,
+    "tag": "P055-2",
+    "en": "I keep thinking, what if Colin's face gets to look like a full moon? It isn't like that yet, but he gets a little fatter every day—and if one morning it really looks like a giant circle, what will we do?\"",
+    "ko": "만약 콜린의 얼굴이 둥근 보름달처럼 되면 어쩌지 하는 생각이 자꾸 들어요. 아직 그 정도는 아니지만 매일 살이 조금씩 찌고 있거든요. 만약 어느 날 아침에 얼굴이 정말 거대한 동그라미가 되어 나타나면 우린 어떻게 해야 할까요?\"",
+    "is_header": false
+  },
+  {
+    "id": 105,
+    "tag": "P056-1",
+    "en": "\"Bless us all, I can see you have a lot of acting to do,\" Susan Sowerby said.",
+    "ko": "\"아이구 세상에, 연기하느라 애깨나 쓰겠구나.\" 수잔 소어비가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 106,
+    "tag": "P056-2",
+    "en": "\"But you won't have to keep it up much longer. Mr. Craven will come home.\"",
+    "ko": "\"하지만 그 연기도 오래 할 필요는 없을 거란다. 크레이븐 씨께서 곧 돌아오실 테니까.\"",
+    "is_header": false
+  },
+  {
+    "id": 107,
+    "tag": "P057a",
+    "en": "\"Do you think he will?\" Colin asked. \"Why?\"",
+    "ko": "\"정말로 아버지가 돌아오실까요?\" 콜린이 물었다. \"왜 그렇게 생각하세요?\"",
+    "is_header": false
+  },
+  {
+    "id": 108,
+    "tag": "P057b",
+    "en": "Susan Sowerby chuckled softly.",
+    "ko": "수잔 소어비가 나지막이 미소를 지었다.",
+    "is_header": false
+  },
+  {
+    "id": 109,
+    "tag": "P057c",
+    "en": "\"I suppose it would almost break your heart if he found out before you could tell him in your own way,\" she said. \"You've stayed awake at night planning it.\"",
+    "ko": "\"도련님이 직접 말하기도 전에 아버님이 다른 데서 알게 되시면 도련님이 무척 속상해하겠지?\" 그녀가 말했다. \"밤마다 머리를 맞대고 계획을 세웠을 텐데 말이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 110,
+    "tag": "P058-1",
+    "en": "\"I couldn't stand it if anyone else told him,\" Colin said.",
+    "ko": "\"다른 사람이 아버님께 말하는 건 절대 싫어요.\" 콜린이 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 111,
+    "tag": "P058-2",
+    "en": "\"I think of different ways to do it every day. Right now, I think I just want to run straight into his room.\"",
+    "ko": "\"매일 다른 방식을 생각하고 있어요. 지금 생각으로는 그냥 아버지가 계신 방으로 단숨에 뛰어가고 싶어요.\"",
+    "is_header": false
+  },
+  {
+    "id": 112,
+    "tag": "P059-1",
+    "en": "\"That would be a wonderful surprise for him,\" Susan Sowerby said.",
+    "ko": "\"아버님께는 정말 놀랍고도 멋진 선물이 되겠구나.\" 수잔 소어비가 말했다.",
+    "is_header": false
+  },
+  {
+    "id": 113,
+    "tag": "P059-2",
+    "en": "\"I'd love to see his face, boy, indeed I would! He must come back—he really must.\"",
+    "ko": "\"나도 아버님의 그 얼굴을 꼭 보고 싶구나, 얘야, 정말로 보고 싶어! 꼭 돌아오셔야 해. 반드시 말이다.\"",
+    "is_header": false
+  },
+  {
+    "id": 114,
+    "tag": "P060-1",
+    "en": "One of the things they talked about was the visit they were going to make to her cottage. They planned the whole trip.",
+    "ko": "그들이 나눈 이야기 중에는 그녀의 오두막을 방문하는 계획도 있었다. 그들은 여행 일정 전체를 짜보았다.",
+    "is_header": false
+  },
+  {
+    "id": 115,
+    "tag": "P060-2",
+    "en": "They would drive across the moor and have a picnic out in the heather. They would meet all twelve children, see Dickon's garden, and stay out until they were tired.",
+    "ko": "마차를 타고 황야를 달려 히더 밭에서 소풍을 즐기기로 했다. 그곳에서 열두 남매를 모두 만나고 디콘의 정원도 구경하며, 피곤해질 때까지 밖에서 놀기로 약속했다.",
+    "is_header": false
+  },
+  {
+    "id": 116,
+    "tag": "P061-1",
+    "en": "At last, Susan Sowerby stood up to return to the house to meet Mrs. Medlock. It was also time for Colin to be wheeled back.",
+    "ko": "마침내 수잔 소어비는 메들록 부인을 만나러 저택으로 돌아기 위해 자리에서 일어났다. 콜린도 휠체어를 타고 돌아갈 시간이었다.",
+    "is_header": false
+  },
+  {
+    "id": 117,
+    "tag": "P061-2",
+    "en": "But before he got into his wheelchair, he stood close to Susan and looked at her with a kind of wondering adoration. Suddenly, he reached out, caught a fold of her blue cloak, and held it tightly.",
+    "ko": "그러나 콜린은 휠체어에 타기 전, 수잔의 곁으로 다가가 경이로운 찬사 섞인 눈길로 그녀를 물끄러미 바라보았다. 그리고 불쑥 손을 뻗어 그녀의 파란 외투 자락을 움켜잡고 꽉 쥐었다.",
+    "is_header": false
+  },
+  {
+    "id": 118,
+    "tag": "P062a",
+    "en": "\"You are exactly what I—what I wanted,\" he said. \"I wish you were my mother—as well as Dickon's!\"",
+    "ko": "\"부인은 제가… 제가 정말 원했던 분이에요.\" 그가 말했다. \"디콘의 어머니일 뿐만 아니라 저의 어머니도 되어주셨으면 좋겠어요!\"",
+    "is_header": false
+  },
+  {
+    "id": 119,
+    "tag": "P062b",
+    "en": "All at once, Susan Sowerby bent down and pulled him close in her warm arms, holding him against her chest under the blue cloak—just as if he were Dickon's brother. Tears filled her eyes.",
+    "ko": "그 순간 수잔 소어비는 몸을 굽혀 그를 따스한 두 팔로 품어 안았고, 자신의 파란 외투 안쪽 가슴팍에 그를 꼭 감싸 안았다. 마치 디콘의 친형제를 안아주듯이 말이다. 그녀의 눈에 눈물이 차올랐다.",
+    "is_header": false
+  },
+  {
+    "id": 120,
+    "tag": "P062c-1",
+    "en": "\"Oh, dear boy!\" she said. \"Your own mother is in this very garden, I do believe.",
+    "ko": "\"오, 사랑스러운 아가야!\" 그녀가 말했다. \"네 어머니께서도 바로 이 정원에 계신 것이 분명하단다.",
+    "is_header": false
+  },
+  {
+    "id": 121,
+    "tag": "P062c-2",
+    "en": "She couldn't keep away from it. Your father must come back to you—he must!\"",
+    "ko": "이곳을 차마 떠나지 못하셨을 게야. 아버님이 네게 꼭 돌아오실 거다. 반드시 말이다!\"",
+    "is_header": false
+  }
+]
