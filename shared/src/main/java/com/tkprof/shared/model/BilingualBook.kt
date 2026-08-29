@@ -27,6 +27,14 @@ data class BilingualChapter(
 )
 
 /**
+ * Basic title information extracted quickly without holding paragraphs in memory.
+ */
+data class ChapterTitle(
+    val en: String,
+    val ko: String
+)
+
+/**
  * Lightweight book config — embedded in the app as a constant rather than JSON,
  * since each app IS one book.
  */

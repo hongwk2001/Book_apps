@@ -87,6 +87,9 @@ class ReaderViewModel(
     }
 
 
+    private val _chapterTitles = MutableStateFlow<List<com.tkprof.shared.model.ChapterTitle>>(emptyList())
+    val chapterTitles: StateFlow<List<com.tkprof.shared.model.ChapterTitle>> = _chapterTitles
+
     private val _speakingSentenceId = MutableStateFlow<String?>(null)
     val speakingSentenceId: StateFlow<String?> = _speakingSentenceId
 
@@ -157,7 +160,11 @@ class ReaderViewModel(
         _bypassedUpToChapter.value = prefs.getInt("bypassed_up_to_chapter", 0)
         loadChapter(lastChapter, lastSentenceId)
         
-        viewModelScope.launch { _totalChapters.value = repository.availableChapterCount() }
+        viewModelScope.launch(Dispatchers.IO) {
+            val titles = repository.loadAllChapterTitles()
+            _chapterTitles.value = titles
+            _totalChapters.value = titles.size
+        }
         
         // Listen to TTS state to update the foreground service
         viewModelScope.launch {

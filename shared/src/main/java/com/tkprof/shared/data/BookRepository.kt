@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.data
+package com.tkprof.shared.data
 
 import android.content.Context
 import com.tkprof.shared.model.BilingualChapter
@@ -65,5 +65,26 @@ class BookRepository(private val context: Context) {
     fun availableChapterCount(): Int {
         val files = context.assets.list("books") ?: return 0
         return files.count { it.matches(Regex("ch_\\d+\\.json")) }
+    }
+
+    /**
+     * Quickly scans all chapter files to extract their true titles without keeping full text in memory.
+     */
+    fun loadAllChapterTitles(): List<com.tkprof.shared.model.ChapterTitle> {
+        val count = availableChapterCount()
+        val titles = mutableListOf<com.tkprof.shared.model.ChapterTitle>()
+        for (i in 1..count) {
+            val filename = "books/ch_%02d.json".format(i)
+            try {
+                val raw = context.assets.open(filename).bufferedReader().readText()
+                val paragraphs = json.decodeFromString<List<RawParagraph>>(raw)
+                val headerEn = paragraphs.firstOrNull { it.is_header }?.en ?: "Chapter $i"
+                val headerKo = paragraphs.firstOrNull { it.is_header }?.ko ?: "제${i}장"
+                titles.add(com.tkprof.shared.model.ChapterTitle(headerEn, headerKo))
+            } catch (e: Exception) {
+                titles.add(com.tkprof.shared.model.ChapterTitle("Chapter $i", "제${i}장"))
+            }
+        }
+        return titles
     }
 }

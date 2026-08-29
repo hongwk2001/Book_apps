@@ -52,6 +52,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val chapter by viewModel.currentChapter.collectAsState()
     val chapterNumber by viewModel.currentChapterNumber.collectAsState()
     val totalChapters by viewModel.totalChapters.collectAsState()
+    val chapterTitles by viewModel.chapterTitles.collectAsState()
     val speakingId by viewModel.speakingSentenceId.collectAsState()
     val isSpeaking by viewModel.isSpeaking.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
@@ -87,10 +88,18 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         items(totalChapters) { index ->
                             val i = index + 1
                             val accessible = viewModel.isChapterAccessible(i)
+                            
+                            val titleObj = chapterTitles.getOrNull(index)
+                            val displayTitle = if (titleObj != null) {
+                                if (isEnFirst) titleObj.en else titleObj.ko
+                            } else {
+                                stringResource(R.string.chapter_label, i)
+                            }
+
                             NavigationDrawerItem(
                                 label = {
                                     Text(
-                                        stringResource(R.string.chapter_label, i),
+                                        displayTitle,
                                         color = if (accessible) LocalContentColor.current else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f)
                                     )
                                 },
@@ -150,7 +159,13 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                     title = {
                         Column {
                             Text(text = viewModel.bookConfig.titleEn, style = MaterialTheme.typography.titleMedium)
-                            Text(text = "Chapter $chapterNumber / $totalChapters", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            val titleObj = chapterTitles.getOrNull(chapterNumber - 1)
+                            val displayTitle = if (titleObj != null) {
+                                if (isEnFirst) titleObj.en else titleObj.ko
+                            } else {
+                                "Chapter $chapterNumber"
+                            }
+                            Text(text = "$displayTitle ($chapterNumber / $totalChapters)", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
                         }
                     },
                     navigationIcon = {
