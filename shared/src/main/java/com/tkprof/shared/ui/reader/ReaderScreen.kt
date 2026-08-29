@@ -77,6 +77,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
 
     ModalNavigationDrawer(
         drawerState = drawerState,
+        gesturesEnabled = !showSoftPaywall,
         drawerContent = {
             ModalDrawerSheet {
                 Column(modifier = Modifier.fillMaxHeight()) {
