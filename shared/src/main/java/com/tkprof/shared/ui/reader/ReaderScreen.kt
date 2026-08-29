@@ -113,10 +113,8 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                 },
                                 selected = i == chapterNumber,
                                 onClick = {
-                                    if (accessible) {
-                                        viewModel.loadChapter(i)
-                                        scope.launch { drawerState.close() }
-                                    }
+                                    viewModel.loadChapter(i)
+                                    scope.launch { drawerState.close() }
                                 },
                                 modifier = Modifier.padding(horizontal = 12.dp, vertical = 2.dp)
                             )

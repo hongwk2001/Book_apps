@@ -330,7 +330,7 @@ class ReaderViewModel(
             playCurrentSequence(play = false)
         } else {
             val next = _currentChapterNumber.value + 1
-            if (next <= _totalChapters.value && isChapterAccessible(next)) {
+            if (next <= _totalChapters.value) {
                 loadChapter(next, autoPlay = false, selectOnLoad = true)
             } else {
                 _speakingSentenceId.value = null
@@ -368,7 +368,7 @@ class ReaderViewModel(
         if (currentQueueIndex !in sentenceQueue.indices) {
             if (currentQueueIndex >= sentenceQueue.size && sentenceQueue.isNotEmpty()) {
                 val next = _currentChapterNumber.value + 1
-                if (next <= _totalChapters.value && isChapterAccessible(next)) {
+                if (next <= _totalChapters.value) {
                     loadChapter(next, autoPlay = play, selectOnLoad = !play)
                     return
                 }
