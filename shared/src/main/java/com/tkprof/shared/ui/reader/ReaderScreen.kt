@@ -57,7 +57,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
     val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
     val showSoftPaywall = !isFullUnlocked && (chapterNumber % 3 == 0) && (bypassedUpToChapter < chapterNumber)
-    val isAccessible = true
+    val isAccessible = !showSoftPaywall
     val isEnFirst by viewModel.isEnFirst.collectAsState()
     val showEn by viewModel.showEn.collectAsState()
     val showKo by viewModel.showKo.collectAsState()
@@ -372,14 +372,15 @@ private fun ReaderBottomBar(
 ) {
     BottomAppBar {
         Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceEvenly, verticalAlignment = Alignment.CenterVertically) {
-            IconButton(onClick = onPrevious) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
+            IconButton(onClick = onPrevious, enabled = isAccessible) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
             FloatingActionButton(
-                onClick = onPlayPause,
-                containerColor = if (isAccessible) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant
+                onClick = { if (isAccessible) onPlayPause() },
+                containerColor = if (isAccessible) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant,
+                contentColor = if (isAccessible) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.38f)
             ) {
                 Icon(imageVector = if (isSpeaking) Icons.Default.Stop else Icons.Default.PlayArrow, contentDescription = if (isSpeaking) "Stop" else "Play")
             }
-            IconButton(onClick = onNext) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
+            IconButton(onClick = onNext, enabled = isAccessible) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
         }
     }
 }
