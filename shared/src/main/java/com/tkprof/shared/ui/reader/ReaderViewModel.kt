@@ -144,6 +144,9 @@ class ReaderViewModel(
     val readEn = MutableStateFlow(true)
     val readKo = MutableStateFlow(true)
 
+    private val _bypassedUpToChapter = MutableStateFlow(0)
+    val bypassedUpToChapter: StateFlow<Int> = _bypassedUpToChapter
+
     // Flat queue of all playable sentences in the chapter
     private var sentenceQueue = listOf<Sentence>()
     private var currentQueueIndex = -1
@@ -151,6 +154,7 @@ class ReaderViewModel(
         init {
         val lastChapter = prefs.getInt("last_chapter", 1)
         val lastSentenceId = prefs.getString("last_sentence_id", null)
+        _bypassedUpToChapter.value = prefs.getInt("bypassed_up_to_chapter", 0)
         loadChapter(lastChapter, lastSentenceId)
         
         viewModelScope.launch { _totalChapters.value = repository.availableChapterCount() }
@@ -180,7 +184,7 @@ class ReaderViewModel(
         }
     }
 
-    fun loadChapter(number: Int, restoreSentenceId: String? = null) {
+    fun loadChapter(number: Int, restoreSentenceId: String? = null, autoPlay: Boolean = false, playFromEnd: Boolean = false, selectOnLoad: Boolean = false) {
         prefs.edit().putInt("last_chapter", number).apply()
         viewModelScope.launch(Dispatchers.IO) {
             ttsManager.stop()
@@ -201,6 +205,22 @@ class ReaderViewModel(
             } else {
                 prefs.edit().remove("last_sentence_id").apply()
             }
+            
+            if ((autoPlay || selectOnLoad) && sentenceQueue.isNotEmpty()) {
+                if (playFromEnd) {
+                    var idx = sentenceQueue.size - 1
+                    while (idx >= 0) {
+                        val s = sentenceQueue[idx]
+                        val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+                        if (shouldRead) break
+                        idx--
+                    }
+                    currentQueueIndex = if (idx >= 0) idx else sentenceQueue.size - 1
+                } else {
+                    currentQueueIndex = 0
+                }
+                playCurrentSequence(play = autoPlay)
+            }
         }
     }
 
@@ -211,7 +231,6 @@ class ReaderViewModel(
         }
         val queue = mutableListOf<Sentence>()
         for (paragraph in chapter.paragraphs) {
-            if (paragraph.is_header) continue
             
             val enSentences = SentenceSplitter.split(paragraph.en, Language.EN, paragraph.id)
             val koSentences = SentenceSplitter.split(paragraph.ko, Language.KO, paragraph.id)
@@ -243,8 +262,18 @@ class ReaderViewModel(
         if (prev >= 1) loadChapter(prev)
     }
 
-    fun isChapterAccessible(chapterNumber: Int): Boolean =
-        chapterNumber <= bookConfig.freeChapters || billingManager.isFullUnlocked.value
+    fun isChapterAccessible(chapterNumber: Int): Boolean = true
+
+    fun shouldShowSoftPaywall(chapterNumber: Int): Boolean {
+        if (billingManager.isFullUnlocked.value) return false
+        return (chapterNumber % 3 == 0) && (_bypassedUpToChapter.value < chapterNumber)
+    }
+
+    fun bypassSoftPaywall() {
+        val current = _currentChapterNumber.value
+        prefs.edit().putInt("bypassed_up_to_chapter", current).apply()
+        _bypassedUpToChapter.value = current
+    }
 
     /** Start playing from a specific sentence */
     fun playFromSentence(sentenceId: String) {
@@ -259,7 +288,6 @@ class ReaderViewModel(
         if (isSpeaking.value) {
             wasPlayingBeforeFocusLoss = false
             ttsManager.stop()
-
             _speakingSentenceId.value = null
         } else {
             if (currentQueueIndex == -1 && sentenceQueue.isNotEmpty()) {
@@ -273,28 +301,63 @@ class ReaderViewModel(
 
     fun nextSentence() {
         ttsManager.stop()
-        if (currentQueueIndex < sentenceQueue.size - 1) {
-            currentQueueIndex++
-            playCurrentSequence()
+        
+        var tempIndex = currentQueueIndex + 1
+        while (tempIndex < sentenceQueue.size) {
+            val s = sentenceQueue[tempIndex]
+            val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+            if (shouldRead) break
+            tempIndex++
+        }
+
+        if (tempIndex < sentenceQueue.size) {
+            currentQueueIndex = tempIndex
+            playCurrentSequence(play = false)
         } else {
-            _speakingSentenceId.value = null
+            val next = _currentChapterNumber.value + 1
+            if (next <= _totalChapters.value && isChapterAccessible(next)) {
+                loadChapter(next, autoPlay = false, selectOnLoad = true)
+            } else {
+                _speakingSentenceId.value = null
+            }
         }
     }
 
     fun previousSentence() {
         ttsManager.stop()
-        if (currentQueueIndex > 0) {
-            currentQueueIndex--
-            playCurrentSequence()
+        
+        var tempIndex = currentQueueIndex - 1
+        while (tempIndex >= 0) {
+            val s = sentenceQueue[tempIndex]
+            val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+            if (shouldRead) break
+            tempIndex--
+        }
+
+        if (tempIndex >= 0) {
+            currentQueueIndex = tempIndex
+            playCurrentSequence(play = false)
         } else {
-            _speakingSentenceId.value = null
+            val prev = _currentChapterNumber.value - 1
+            if (prev >= 1) {
+                loadChapter(prev, autoPlay = false, playFromEnd = true, selectOnLoad = true)
+            } else {
+                _speakingSentenceId.value = null
+            }
         }
     }
 
-    private fun playCurrentSequence() {
-        if (!requestAudioFocus()) return
+    private fun playCurrentSequence(play: Boolean = true) {
+        if (play && !requestAudioFocus()) return
 
         if (currentQueueIndex !in sentenceQueue.indices) {
+            if (currentQueueIndex >= sentenceQueue.size && sentenceQueue.isNotEmpty()) {
+                val next = _currentChapterNumber.value + 1
+                if (next <= _totalChapters.value && isChapterAccessible(next)) {
+                    loadChapter(next, autoPlay = play, selectOnLoad = !play)
+                    return
+                }
+            }
             _speakingSentenceId.value = null
             _speakingParagraphIndex.value = -1
             return
@@ -307,6 +370,10 @@ class ReaderViewModel(
         if (ch != null) {
             _speakingParagraphIndex.value = ch.paragraphs.indexOfFirst { it.id == s.paragraphId }
         }
+
+        _speakingSentenceId.value = s.id
+        
+        if (!play) return
         
         // Check if we should read this language
         val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value

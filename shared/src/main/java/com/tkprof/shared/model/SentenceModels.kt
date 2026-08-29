@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.model
+package com.tkprof.shared.model
 
 import java.text.BreakIterator
 import java.util.Locale
@@ -15,12 +15,16 @@ data class Sentence(
 )
 
 object SentenceSplitter {
+    private val abbreviations = setOf(
+        "mr", "mrs", "ms", "dr", "prof", "sr", "jr", "st", "mt", "capt", "col", "gen", "lieut", "sgt", "rev"
+    )
+
     fun split(text: String, lang: Language, paragraphId: Int): List<Sentence> {
         val locale = if (lang == Language.EN) Locale.US else Locale.KOREA
         val iterator = BreakIterator.getSentenceInstance(locale)
         iterator.setText(text)
         
-        val sentences = mutableListOf<Sentence>()
+        val initialSentences = mutableListOf<Sentence>()
         var start = iterator.first()
         var end = iterator.next()
         var index = 0
@@ -28,7 +32,7 @@ object SentenceSplitter {
         while (end != BreakIterator.DONE) {
             val sentenceText = text.substring(start, end).trim()
             if (sentenceText.isNotEmpty()) {
-                sentences.add(
+                initialSentences.add(
                     Sentence(
                         id = "${paragraphId}_${lang.name}_$index",
                         text = sentenceText,
@@ -44,9 +48,47 @@ object SentenceSplitter {
             end = iterator.next()
         }
         
+        val mergedSentences = mutableListOf<Sentence>()
+        var i = 0
+        var newIndex = 0
+        while (i < initialSentences.size) {
+            var current = initialSentences[i]
+            
+            while (i + 1 < initialSentences.size) {
+                val words = current.text.split(" ")
+                val lastWord = words.lastOrNull() ?: ""
+                
+                if (lastWord.endsWith(".") && lastWord.length > 1) {
+                    val wordWithoutDot = lastWord.dropLast(1).lowercase()
+                    if (abbreviations.contains(wordWithoutDot)) {
+                        val next = initialSentences[i + 1]
+                        val combinedText = text.substring(current.startIndex, next.endIndex).trim()
+                        current = Sentence(
+                            id = "${paragraphId}_${lang.name}_$newIndex",
+                            text = combinedText,
+                            lang = lang,
+                            paragraphId = paragraphId,
+                            startIndex = current.startIndex,
+                            endIndex = next.endIndex
+                        )
+                        i++
+                        continue
+                    }
+                }
+                break
+            }
+            
+            if (current.id != "${paragraphId}_${lang.name}_$newIndex") {
+                current = current.copy(id = "${paragraphId}_${lang.name}_$newIndex")
+            }
+            mergedSentences.add(current)
+            newIndex++
+            i++
+        }
+
         // Fallback for very short or un-split text
-        if (sentences.isEmpty() && text.isNotBlank()) {
-            sentences.add(
+        if (mergedSentences.isEmpty() && text.isNotBlank()) {
+            mergedSentences.add(
                 Sentence(
                     id = "${paragraphId}_${lang.name}_0",
                     text = text.trim(),
@@ -57,6 +99,6 @@ object SentenceSplitter {
                 )
             )
         }
-        return sentences
+        return mergedSentences
     }
 }

@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.billing
+package com.tkprof.shared.billing
 
 import android.app.Activity
 import android.content.Context
@@ -12,7 +12,7 @@ import kotlinx.coroutines.flow.StateFlow
  */
 class BillingManager(
     private val context: Context,
-    private val iapProductId: String
+    private val tipProductIds: List<String>
 ) {
 
     private val _isFullUnlocked = MutableStateFlow(false)
@@ -58,7 +58,7 @@ class BillingManager(
         ) { _, purchases ->
             val unlocked = purchases.any { p ->
                 p.purchaseState == Purchase.PurchaseState.PURCHASED &&
-                iapProductId in p.products
+                p.products.any { it in tipProductIds }
             }
             _isFullUnlocked.value = unlocked
             purchases.filter { !it.isAcknowledged }.forEach { acknowledgePurchase(it) }
@@ -67,7 +67,7 @@ class BillingManager(
 
     private fun handlePurchase(purchase: Purchase) {
         if (purchase.purchaseState == Purchase.PurchaseState.PURCHASED &&
-            iapProductId in purchase.products) {
+            purchase.products.any { it in tipProductIds }) {
             _isFullUnlocked.value = true
             if (!purchase.isAcknowledged) acknowledgePurchase(purchase)
         }
@@ -84,18 +84,19 @@ class BillingManager(
      * Launch the Google Play purchase flow.
      * @param activity Current Activity (required by Play Billing API)
      */
-    fun launchPurchaseFlow(activity: Activity) {
+    fun launchPurchaseFlow(activity: Activity, productId: String) {
         val productList = listOf(
             QueryProductDetailsParams.Product.newBuilder()
-                .setProductId(iapProductId)
+                .setProductId(productId)
                 .setProductType(BillingClient.ProductType.INAPP)
                 .build()
         )
         billingClient.queryProductDetailsAsync(
             QueryProductDetailsParams.newBuilder().setProductList(productList).build()
-        ) { result, productDetailsList ->
+        ) { result, queryProductDetailsResult ->
             android.os.Handler(android.os.Looper.getMainLooper()).post {
                 if (result.responseCode == BillingClient.BillingResponseCode.OK) {
+                    val productDetailsList = queryProductDetailsResult.productDetailsList
                     if (productDetailsList.isNotEmpty()) {
                         val flowParams = BillingFlowParams.newBuilder()
                             .setProductDetailsParamsList(
@@ -108,7 +109,7 @@ class BillingManager(
                             .build()
                         billingClient.launchBillingFlow(activity, flowParams)
                     } else {
-                        android.widget.Toast.makeText(activity, "Product ID not found: " + iapProductId, android.widget.Toast.LENGTH_LONG).show()
+                        android.widget.Toast.makeText(activity, "Product ID not found: $productId", android.widget.Toast.LENGTH_LONG).show()
                     }
                 } else {
                     android.widget.Toast.makeText(activity, "Billing Error: " + result.debugMessage, android.widget.Toast.LENGTH_LONG).show()

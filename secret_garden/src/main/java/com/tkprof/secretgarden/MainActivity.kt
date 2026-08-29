@@ -1,4 +1,4 @@
-﻿package com.tkprof.secretgarden
+package com.tkprof.secretgarden
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -38,7 +38,8 @@ class MainActivity : ComponentActivity() {
         )
 
         ttsManager = TtsManager(applicationContext).also { it.init() }
-        billingManager = BillingManager(applicationContext, bookConfig.iapProductId).also { it.init() }
+        val tipProductIds = listOf("tip_small_1500", "tip_medium_3000", "tip_large_5000")
+        billingManager = BillingManager(applicationContext, tipProductIds).also { it.init() }
 
         viewModel = ViewModelProvider(this, object : ViewModelProvider.Factory {
             @Suppress("UNCHECKED_CAST")

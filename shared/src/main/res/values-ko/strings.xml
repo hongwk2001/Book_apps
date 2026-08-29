@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Drawer & Main Screen -->
     <string name="chapters_title">목차</string>
@@ -36,4 +36,12 @@
     <string name="notification_playing">재생 중: %1$s</string>
     <string name="notification_desc">오디오북 읽는 중...</string>
     <string name="btn_stop">중지</string>
+
+    <!-- Tip Jar / Soft Paywall -->
+    <string name="tip_jar_message">1인 개발자로서 많은 정성을 들여 만든 앱입니다. 지금까지 책을 즐겁게 읽으셨다면, 작은 후원 부탁드립니다. 앞으로 더 좋은 앱을 만드는 데 큰 힘이 됩니다!</string>
+    <string name="tip_small">작은 커피 후원</string>
+    <string name="tip_medium">큰 커피 후원</string>
+    <string name="tip_large">점심 식사 후원</string>
+    <string name="btn_not_now">나중에 하기</string>
+    <string name="btn_support_developer">☕ 개발자 후원하기</string>
 </resources>

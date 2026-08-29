@@ -1,23 +1,10 @@
-﻿plugins {
+plugins {
     alias(libs.plugins.android.application)
     alias(libs.plugins.compose.compiler)
     alias(libs.plugins.kotlin.serialization)
 }
 android {
-    signingConfigs {
-        create("release") {
-            storeFile = file("C:\\git_repo\\androidkeystore_dracula.jks")
-            storePassword = "hongari1"
-            keyAlias = "key0"
-            keyPassword = "hongari1"
-        }
-    }
-    buildTypes {
-        debug {
-            // Add this line so your USB builds use the official signature!
-            signingConfig = signingConfigs.getByName("release")
-        }
-    }
+
     namespace = "com.tkprof.dracula"
     compileSdk = 36
 
@@ -25,8 +12,17 @@ android {
         applicationId = "com.tkprof.dracula"
         minSdk = 24
         targetSdk = 36
-        versionCode = 1
-        versionName = "1.0"
+        versionCode = 5
+        versionName = "Aug/2026"
+    }
+
+    signingConfigs {
+        create("release") {
+            storeFile = rootProject.file("keystore.jks")
+            storePassword = "password"
+            keyAlias = "release"
+            keyPassword = "password"
+        }
     }
 
     buildTypes {
@@ -36,6 +32,7 @@ android {
                 getDefaultProguardFile("proguard-android-optimize.txt"),
                 "proguard-rules.pro"
             )
+            signingConfig = signingConfigs.getByName("release")
         }
     }
     compileOptions {

@@ -55,10 +55,12 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val speakingId by viewModel.speakingSentenceId.collectAsState()
     val isSpeaking by viewModel.isSpeaking.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
+    val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
+    val showSoftPaywall = !isFullUnlocked && (chapterNumber % 3 == 0) && (bypassedUpToChapter < chapterNumber)
+    val isAccessible = true
     val isEnFirst by viewModel.isEnFirst.collectAsState()
     val showEn by viewModel.showEn.collectAsState()
     val showKo by viewModel.showKo.collectAsState()
-    val isAccessible = viewModel.isChapterAccessible(chapterNumber)
     val activity = LocalContext.current as Activity
 
     var showSettings by remember { mutableStateOf(false) }
@@ -112,6 +114,23 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         ) {
                             Text(stringResource(R.string.more_books_btn))
                         }
+                        
+                        if (!isFullUnlocked) {
+                            Spacer(modifier = Modifier.height(16.dp))
+                            Button(
+                                onClick = {
+                                    // Use first tip id or open a tip dialog. We can just open the Soft Paywall Screen or a tip dialog.
+                                    // For simplicity, launch purchase flow for small tip, or we can just scroll to paywall.
+                                    // But wait, the plan says "Add a persistent 'Support Developer' button so users can tip at any time without waiting for the paywall".
+                                    // Let's just launch the small tip flow for now or all of them.
+                                    viewModel.billingManager.launchPurchaseFlow(activity, "tip_medium_3000")
+                                },
+                                modifier = Modifier.fillMaxWidth(),
+                                colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.tertiary)
+                            ) {
+                                Text(stringResource(R.string.btn_support_developer))
+                            }
+                        }
                     }
                 }
             }
@@ -160,8 +179,11 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         }
                     }
 
-                    if (!isAccessible) {
-                PaywallScreen(chapterNumber, viewModel.bookConfig) { viewModel.billingManager.launchPurchaseFlow(activity) }
+                    if (showSoftPaywall) {
+                SoftPaywallScreen(
+                    onTip = { tipId -> viewModel.billingManager.launchPurchaseFlow(activity, tipId) },
+                    onNotNow = { viewModel.bypassSoftPaywall() }
+                )
             } else {
                 chapter?.let { ch ->
                     // Wrapping in a Box to draw the scrollbar
@@ -231,14 +253,22 @@ private fun ParagraphCard(
     fontSizeMultiplier: Float,
     onSentenceClick: (String) -> Unit
 ) {
+    val enTextStyle = if (paragraph.is_header) {
+        MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (30 * fontSizeMultiplier).sp, fontSize = (22 * fontSizeMultiplier).sp)
+    } else {
+        MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
+    }
+
+    val koTextStyle = if (paragraph.is_header) {
+        MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (18 * fontSizeMultiplier).sp)
+    } else {
+        MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
+    }
+
     if (paragraph.is_header) {
         Column(modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
-            if (showEn) {
-                Text(text = paragraph.en, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
-            }
-            if (showKo) {
-                Text(text = paragraph.ko, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.secondary, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
-            }
+            if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
+            if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
             HorizontalDivider(modifier = Modifier.padding(top = 8.dp))
         }
         return
@@ -251,13 +281,13 @@ private fun ParagraphCard(
     ) {
         Column(modifier = Modifier.padding(16.dp)) {
             if (isEnFirst) {
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
+                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
                 if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
+                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
             } else {
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
+                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
                 if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
+                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
             }
         }
     }
@@ -270,7 +300,7 @@ private fun SentenceBlock(
     paragraphId: Int,
     speakingId: String?,
     textColor: Color,
-    fontSizeMultiplier: Float,
+    textStyle: androidx.compose.ui.text.TextStyle,
     onClick: (String) -> Unit
 ) {
     val highlightColor = MaterialTheme.colorScheme.primaryContainer
@@ -292,10 +322,11 @@ private fun SentenceBlock(
         }
     }
 
-    Box {
+    Box(modifier = Modifier.fillMaxWidth()) {
         ClickableText(
             text = annotatedString,
-            style = MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp),
+            style = textStyle,
+            modifier = Modifier.fillMaxWidth(),
             onTextLayout = { layoutResult ->
                 val annotation = annotatedString.getStringAnnotations("SENTENCE", 0, annotatedString.length)
                     .firstOrNull { it.item == speakingId }
@@ -354,13 +385,16 @@ private fun ReaderBottomBar(
 }
 
 @Composable
-private fun PaywallScreen(chapterNumber: Int, bookConfig: com.tkprof.shared.model.BookConfig, onBuy: () -> Unit) {
-    Box(modifier = Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background), contentAlignment = Alignment.Center) {
+private fun SoftPaywallScreen(onTip: (String) -> Unit, onNotNow: () -> Unit) {
+    Box(modifier = Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background).verticalScroll(rememberScrollState()), contentAlignment = Alignment.Center) {
         Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(16.dp), modifier = Modifier.padding(32.dp)) {
-            Icon(Icons.Default.Lock, contentDescription = null, modifier = Modifier.size(64.dp), tint = MaterialTheme.colorScheme.primary)
-            Text(stringResource(R.string.paywall_locked_desc, chapterNumber), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
-            Text(stringResource(R.string.paywall_purchase_desc), style = MaterialTheme.typography.bodyMedium, textAlign = TextAlign.Center, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            Button(onClick = onBuy, modifier = Modifier.fillMaxWidth()) { Icon(Icons.Default.ShoppingCart, contentDescription = null); Spacer(Modifier.width(8.dp)); Text(stringResource(R.string.btn_unlock_now)) }
+            Icon(Icons.Default.Favorite, contentDescription = null, modifier = Modifier.size(64.dp), tint = MaterialTheme.colorScheme.primary)
+            Text(stringResource(R.string.tip_jar_message), style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
+            Spacer(Modifier.height(16.dp))
+            Button(onClick = { onTip("tip_small_1500") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_small)) }
+            Button(onClick = { onTip("tip_medium_3000") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_medium)) }
+            Button(onClick = { onTip("tip_large_5000") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_large)) }
+            TextButton(onClick = onNotNow, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.btn_not_now)) }
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!-- Drawer & Main Screen -->
     <string name="chapters_title">Chapters</string>
@@ -36,4 +36,12 @@
     <string name="notification_playing">Playing: %1$s</string>
     <string name="notification_desc">Reading audiobook...</string>
     <string name="btn_stop">Stop</string>
+
+    <!-- Tip Jar / Soft Paywall -->
+    <string name="tip_jar_message">I\'m a solo developer and put a lot of effort into creating this bilingual reading experience. If you are enjoying the book so far, a small tip would mean the world to me and help me create more apps!</string>
+    <string name="tip_small">Small Coffee Tip</string>
+    <string name="tip_medium">Big Coffee Tip</string>
+    <string name="tip_large">Lunch Tip</string>
+    <string name="btn_not_now">Not Now</string>
+    <string name="btn_support_developer">☕ Support Developer</string>
 </resources>
