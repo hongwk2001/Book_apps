@@ -173,20 +173,11 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
             }
         ) { padding ->
                     val listState = rememberLazyListState()
-                    val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
                     val fontSizeMultiplier by viewModel.fontSizeMultiplier.collectAsState()
 
                     // Scroll to top whenever the chapter changes
                     LaunchedEffect(chapterNumber) {
                         listState.scrollToItem(0)
-                    }
-
-                    // Auto-scroll to the currently speaking paragraph
-                    LaunchedEffect(speakingParagraphIndex, chapter) {
-                        if (speakingParagraphIndex >= 0) {
-                            kotlinx.coroutines.delay(150)
-                            listState.animateScrollToItem(speakingParagraphIndex)
-                        }
                     }
 
                     if (showSoftPaywall) {
@@ -363,10 +354,10 @@ private fun SentenceBlock(
     val density = LocalDensity.current
     LaunchedEffect(speakingId, highlightY) {
         if (sentences.any { it.id == speakingId }) {
-            // Pad the bounding box by 250dp above and below.
+            // Pad the bounding box by 350dp above and below.
             // This forces the scrolling list to place the sentence near the center of the screen,
             // rather than stopping the moment it barely crosses the bottom edge.
-            val padding = with(density) { 250.dp.toPx() }
+            val padding = with(density) { 350.dp.toPx() }
             requester.bringIntoView(Rect(0f, -padding, 1f, padding))
         }
     }
