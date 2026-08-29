@@ -175,7 +175,13 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                     val listState = rememberLazyListState()
                     val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
                     val fontSizeMultiplier by viewModel.fontSizeMultiplier.collectAsState()
-                    
+
+                    // Scroll to top whenever the chapter changes
+                    LaunchedEffect(chapterNumber) {
+                        listState.scrollToItem(0)
+                    }
+
+                    // Auto-scroll to the currently speaking paragraph
                     LaunchedEffect(speakingParagraphIndex, chapter) {
                         if (speakingParagraphIndex >= 0) {
                             kotlinx.coroutines.delay(150)
