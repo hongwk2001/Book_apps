@@ -206,7 +206,11 @@ class ReaderViewModel(
                 prefs.edit().remove("last_sentence_id").apply()
             }
             
-            if ((autoPlay || selectOnLoad) && sentenceQueue.isNotEmpty()) {
+            val willShowPaywall = shouldShowSoftPaywall(number)
+            val effectiveAutoPlay = autoPlay && !willShowPaywall
+            val effectiveSelectOnLoad = selectOnLoad || (autoPlay && willShowPaywall)
+
+            if ((effectiveAutoPlay || effectiveSelectOnLoad) && sentenceQueue.isNotEmpty()) {
                 if (playFromEnd) {
                     var idx = sentenceQueue.size - 1
                     while (idx >= 0) {
@@ -219,7 +223,7 @@ class ReaderViewModel(
                 } else {
                     currentQueueIndex = 0
                 }
-                playCurrentSequence(play = autoPlay)
+                playCurrentSequence(play = effectiveAutoPlay)
             }
         }
     }
