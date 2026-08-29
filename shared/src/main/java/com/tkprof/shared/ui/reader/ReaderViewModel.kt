@@ -280,8 +280,7 @@ class ReaderViewModel(
     }
 
     fun shouldShowSoftPaywall(chapterNumber: Int): Boolean {
-        if (billingManager.isFullUnlocked.value) return false
-        return (chapterNumber % 3 == 0) && (_bypassedUpToChapter.value < chapterNumber)
+        return !isChapterAccessible(chapterNumber)
     }
 
     fun bypassSoftPaywall() {

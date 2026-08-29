@@ -84,14 +84,14 @@ class ReaderViewModelTest {
     }
 
     @Test
-    fun shouldShowSoftPaywall_isTrue_onEveryThirdChapter() {
+    fun shouldShowSoftPaywall_isTrue_forLockedChapters() {
         isFullUnlockedFlow.value = false
 
-        assertFalse("Chapter 1 should not show paywall", viewModel.shouldShowSoftPaywall(1))
-        assertFalse("Chapter 2 should not show paywall", viewModel.shouldShowSoftPaywall(2))
-        assertTrue("Chapter 3 should show paywall", viewModel.shouldShowSoftPaywall(3))
-        assertFalse("Chapter 4 should not show paywall", viewModel.shouldShowSoftPaywall(4))
-        assertTrue("Chapter 6 should show paywall", viewModel.shouldShowSoftPaywall(6))
+        assertFalse("Chapter 1 is free, should not show paywall", viewModel.shouldShowSoftPaywall(1))
+        assertFalse("Chapter 2 is free, should not show paywall", viewModel.shouldShowSoftPaywall(2))
+        assertTrue("Chapter 3 is locked, should show paywall", viewModel.shouldShowSoftPaywall(3))
+        assertTrue("Chapter 4 is locked, should show paywall", viewModel.shouldShowSoftPaywall(4))
+        assertTrue("Chapter 6 is locked, should show paywall", viewModel.shouldShowSoftPaywall(6))
     }
 
     @Test
@@ -108,8 +108,9 @@ class ReaderViewModelTest {
         viewModel.bypassSoftPaywall()
 
         assertFalse("Chapter 3 is now bypassed", viewModel.shouldShowSoftPaywall(3))
-        assertFalse("Chapter 4 does not trigger paywall anyway", viewModel.shouldShowSoftPaywall(4))
-        assertTrue("Chapter 6 still triggers paywall", viewModel.shouldShowSoftPaywall(6))
+        assertFalse("Chapter 4 is now bypassed", viewModel.shouldShowSoftPaywall(4))
+        assertFalse("Chapter 5 is now bypassed", viewModel.shouldShowSoftPaywall(5))
+        assertTrue("Chapter 6 is now locked again", viewModel.shouldShowSoftPaywall(6))
         
         // Bypass chapter 6
         viewModel.loadChapter(6, autoPlay = false, selectOnLoad = false)

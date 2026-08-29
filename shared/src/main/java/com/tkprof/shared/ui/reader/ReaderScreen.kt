@@ -60,7 +60,8 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val isSpeaking by viewModel.isSpeaking.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
     val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
-    val showSoftPaywall = !isFullUnlocked && (chapterNumber % 3 == 0) && (bypassedUpToChapter < chapterNumber)
+    val maxAccessible = maxOf(viewModel.bookConfig.freeChapters, bypassedUpToChapter + 2)
+    val showSoftPaywall = !isFullUnlocked && chapterNumber > maxAccessible
     val isAccessible = !showSoftPaywall
     val isEnFirst by viewModel.isEnFirst.collectAsState()
     val showEn by viewModel.showEn.collectAsState()
