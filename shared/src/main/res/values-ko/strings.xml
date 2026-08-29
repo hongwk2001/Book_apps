@@ -42,6 +42,6 @@
     <string name="tip_small">작은 커피 후원</string>
     <string name="tip_medium">큰 커피 후원</string>
     <string name="tip_large">점심 식사 후원</string>
-    <string name="btn_not_now">나중에 하기</string>
+    <string name="btn_not_now">나중에 하기, 읽으면서 생각해 볼게요.</string>
     <string name="btn_support_developer">☕ 개발자 후원하기</string>
 </resources>

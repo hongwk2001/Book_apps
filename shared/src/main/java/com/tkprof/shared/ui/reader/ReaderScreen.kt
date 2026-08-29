@@ -86,12 +86,25 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                     LazyColumn(modifier = Modifier.weight(1f)) {
                         items(totalChapters) { index ->
                             val i = index + 1
+                            val accessible = viewModel.isChapterAccessible(i)
                             NavigationDrawerItem(
-                                label = { Text(stringResource(R.string.chapter_label, i)) },
+                                label = {
+                                    Text(
+                                        stringResource(R.string.chapter_label, i),
+                                        color = if (accessible) LocalContentColor.current else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f)
+                                    )
+                                },
+                                badge = {
+                                    if (!accessible) {
+                                        Icon(Icons.Default.Lock, contentDescription = null, modifier = Modifier.size(16.dp), tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f))
+                                    }
+                                },
                                 selected = i == chapterNumber,
-                                onClick = { 
-                                    viewModel.loadChapter(i)
-                                    scope.launch { drawerState.close() }
+                                onClick = {
+                                    if (accessible) {
+                                        viewModel.loadChapter(i)
+                                        scope.launch { drawerState.close() }
+                                    }
                                 },
                                 modifier = Modifier.padding(horizontal = 12.dp, vertical = 2.dp)
                             )
@@ -116,21 +129,15 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             Text(stringResource(R.string.more_books_btn))
                         }
                         
-                        if (!isFullUnlocked) {
-                            Spacer(modifier = Modifier.height(16.dp))
-                            Button(
-                                onClick = {
-                                    // Use first tip id or open a tip dialog. We can just open the Soft Paywall Screen or a tip dialog.
-                                    // For simplicity, launch purchase flow for small tip, or we can just scroll to paywall.
-                                    // But wait, the plan says "Add a persistent 'Support Developer' button so users can tip at any time without waiting for the paywall".
-                                    // Let's just launch the small tip flow for now or all of them.
-                                    viewModel.billingManager.launchPurchaseFlow(activity, "tip_medium_3000")
-                                },
-                                modifier = Modifier.fillMaxWidth(),
-                                colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.tertiary)
-                            ) {
-                                Text(stringResource(R.string.btn_support_developer))
-                            }
+                        Spacer(modifier = Modifier.height(16.dp))
+                        Button(
+                            onClick = {
+                                viewModel.billingManager.launchPurchaseFlow(activity, "tip_medium_3000")
+                            },
+                            modifier = Modifier.fillMaxWidth(),
+                            colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.tertiary)
+                        ) {
+                            Text(stringResource(R.string.btn_support_developer))
                         }
                     }
                 }
@@ -395,7 +402,6 @@ private fun SoftPaywallScreen(onTip: (String) -> Unit, onNotNow: () -> Unit) {
             Spacer(Modifier.height(16.dp))
             Button(onClick = { onTip("tip_small_1500") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_small)) }
             Button(onClick = { onTip("tip_medium_3000") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_medium)) }
-            Button(onClick = { onTip("tip_large_5000") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_large)) }
             TextButton(onClick = onNotNow, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.btn_not_now)) }
         }
     }

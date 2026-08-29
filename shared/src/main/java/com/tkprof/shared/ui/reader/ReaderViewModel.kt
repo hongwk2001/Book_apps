@@ -266,7 +266,11 @@ class ReaderViewModel(
         if (prev >= 1) loadChapter(prev)
     }
 
-    fun isChapterAccessible(chapterNumber: Int): Boolean = true
+    fun isChapterAccessible(chapterNumber: Int): Boolean {
+        if (billingManager.isFullUnlocked.value) return true
+        val maxAccessible = maxOf(bookConfig.freeChapters, _bypassedUpToChapter.value + 2)
+        return chapterNumber <= maxAccessible
+    }
 
     fun shouldShowSoftPaywall(chapterNumber: Int): Boolean {
         if (billingManager.isFullUnlocked.value) return false
