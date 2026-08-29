@@ -16,6 +16,9 @@ import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.text.ClickableText
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.gestures.awaitEachGesture
+import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
@@ -229,33 +232,71 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             }
                         }
                         
-                        // Custom Scrollbar
+                        // Custom Interactive Scrollbar
                         val isScrollbarVisible = listState.layoutInfo.totalItemsCount > 0
                         if (isScrollbarVisible) {
                             val totalItems = listState.layoutInfo.totalItemsCount
                             val visibleItems = listState.layoutInfo.visibleItemsInfo.size
                             val firstVisible = listState.firstVisibleItemIndex
                             
+                            var isDragging by remember { mutableStateOf(false) }
+
                             if (visibleItems < totalItems) {
                                 BoxWithConstraints(
                                     modifier = Modifier
                                         .align(Alignment.TopEnd)
                                         .fillMaxHeight()
-                                        .padding(end = 4.dp, top = 8.dp, bottom = 8.dp)
-                                        .width(4.dp)
-                                        .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f))
+                                        .width(32.dp) // Wide invisible touch area
+                                        .padding(vertical = 8.dp)
+                                        .pointerInput(totalItems) {
+                                            awaitEachGesture {
+                                                val down = awaitFirstDown()
+                                                isDragging = true
+                                                val trackHeightPx = size.height.toFloat()
+                                                
+                                                fun updateScroll(y: Float) {
+                                                    val proportion = (y / trackHeightPx).coerceIn(0f, 1f)
+                                                    val targetItem = (proportion * totalItems).toInt().coerceIn(0, totalItems - 1)
+                                                    scope.launch { listState.scrollToItem(targetItem) }
+                                                }
+                                                
+                                                updateScroll(down.position.y)
+                                                
+                                                do {
+                                                    val event = awaitPointerEvent()
+                                                    val change = event.changes.firstOrNull()
+                                                    if (change != null && change.pressed) {
+                                                        change.consume()
+                                                        updateScroll(change.position.y)
+                                                    }
+                                                } while (event.changes.any { it.pressed })
+                                                isDragging = false
+                                            }
+                                        }
                                 ) {
-                                    val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
-                                    val thumbHeightFraction = (visibleItems.toFloat() / totalItems).coerceIn(0.1f, 1f)
                                     val trackHeight = maxHeight
+                                    val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
+                                    val thumbHeightFraction = (visibleItems.toFloat() / totalItems).coerceIn(0.05f, 1f)
                                     
                                     Box(
                                         modifier = Modifier
-                                            .fillMaxWidth()
-                                            .fillMaxHeight(thumbHeightFraction)
-                                            .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
-                                            .background(MaterialTheme.colorScheme.primary, shape = androidx.compose.foundation.shape.RoundedCornerShape(2.dp))
-                                    )
+                                            .align(Alignment.CenterEnd)
+                                            .fillMaxHeight()
+                                            .width(if (isDragging) 8.dp else 4.dp)
+                                            .padding(end = 4.dp)
+                                            .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f), shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp))
+                                    ) {
+                                        Box(
+                                            modifier = Modifier
+                                                .fillMaxWidth()
+                                                .fillMaxHeight(thumbHeightFraction)
+                                                .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
+                                                .background(
+                                                    if (isDragging) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.primary.copy(alpha = 0.6f),
+                                                    shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp)
+                                                )
+                                        )
+                                    }
                                 }
                             }
                         }
