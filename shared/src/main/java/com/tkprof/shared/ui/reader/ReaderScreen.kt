@@ -146,7 +146,10 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         }
                     },
                     navigationIcon = {
-                        IconButton(onClick = { scope.launch { drawerState.open() } }) {
+                        IconButton(
+                            onClick = { if (!showSoftPaywall) scope.launch { drawerState.open() } },
+                            enabled = !showSoftPaywall
+                        ) {
                             Icon(Icons.Default.Menu, contentDescription = "Menu")
                         }
                     },
