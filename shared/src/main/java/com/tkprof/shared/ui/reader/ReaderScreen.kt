@@ -129,9 +129,9 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         Button(
                             onClick = {
                                 try {
-                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:TKProf+LLC")))
+                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:Billy+Wookyoung+Hong")))
                                 } catch(e: ActivityNotFoundException) {
-                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/developer?id=TKProf+LLC")))
+                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/developer?id=Billy+Wookyoung+Hong")))
                                 }
                             },
                             modifier = Modifier.fillMaxWidth()
@@ -142,7 +142,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         Spacer(modifier = Modifier.height(16.dp))
                         Button(
                             onClick = {
-                                viewModel.billingManager.launchPurchaseFlow(activity, "tip_medium_3000")
+                                viewModel.billingManager.launchPurchaseFlow(activity, "tip_small_1500")
                             },
                             modifier = Modifier.fillMaxWidth(),
                             colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.tertiary)

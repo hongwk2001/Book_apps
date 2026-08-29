@@ -37,7 +37,7 @@
       </SelectionState>
       <SelectionState runConfigName="frankenstein">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-08-22T16:19:57.447475500Z">
+        <DropdownSelection timestamp="2026-08-29T18:20:17.912052600Z">
           <Target type="DEFAULT_BOOT">
             <handle>
               <DeviceId pluginId="PhysicalDevice" identifier="serial=R5CR82Y6V8W" />
