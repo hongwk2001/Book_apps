@@ -78,8 +78,12 @@ class BookRepository(private val context: Context) {
             try {
                 val raw = context.assets.open(filename).bufferedReader().readText()
                 val paragraphs = json.decodeFromString<List<RawParagraph>>(raw)
-                val headerEn = paragraphs.firstOrNull { it.is_header }?.en ?: "Chapter $i"
-                val headerKo = paragraphs.firstOrNull { it.is_header }?.ko ?: "제${i}장"
+                val candidateEn = paragraphs.firstOrNull { it.is_header }?.en
+                val candidateKo = paragraphs.firstOrNull { it.is_header }?.ko
+                
+                val headerEn = if (candidateEn != null && candidateEn.length <= 50) candidateEn else "Chapter $i"
+                val headerKo = if (candidateKo != null && candidateKo.length <= 50) candidateKo else "제${i}장"
+                
                 titles.add(com.tkprof.shared.model.ChapterTitle(headerEn, headerKo))
             } catch (e: Exception) {
                 titles.add(com.tkprof.shared.model.ChapterTitle("Chapter $i", "제${i}장"))
