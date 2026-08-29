@@ -81,7 +81,6 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
 
     ModalNavigationDrawer(
         drawerState = drawerState,
-        gesturesEnabled = !showSoftPaywall,
         drawerContent = {
             ModalDrawerSheet {
                 Column(modifier = Modifier.fillMaxHeight()) {
@@ -171,8 +170,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                     },
                     navigationIcon = {
                         IconButton(
-                            onClick = { if (!showSoftPaywall) scope.launch { drawerState.open() } },
-                            enabled = !showSoftPaywall
+                            onClick = { scope.launch { drawerState.open() } }
                         ) {
                             Icon(Icons.Default.Menu, contentDescription = "Menu")
                         }
