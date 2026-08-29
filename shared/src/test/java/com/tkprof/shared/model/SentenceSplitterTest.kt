@@ -7,11 +7,11 @@ class SentenceSplitterTest {
 
     @Test
     fun testKoreanSplitting() {
-        val text = "?????. ??? ??????! ? ?????"
+        val text = "안녕하세요. 만나서 반갑습니다! 좋은 하루 되세요."
         val sentences = SentenceSplitter.split(text, Language.KO, 2)
         
         assertEquals(3, sentences.size)
-        assertEquals("?????.", sentences[0].text)
+        assertEquals("안녕하세요.", sentences[0].text)
         assertEquals("2_KO_0", sentences[0].id)
     }
 
