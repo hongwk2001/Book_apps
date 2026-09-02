@@ -1,0 +1,1146 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "[Chapter 5] The Wood-Sawyer",
+    "ko": "",
+    "is_header": true,
+    "raw_ref_id": 1
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "en": "One year and three months passed.",
+    "ko": "1년 3개월이 지났다.",
+    "is_header": false,
+    "raw_ref_id": 2
+  },
+  {
+    "id": 3,
+    "tag": "P002_2",
+    "en": "During all that time, Lucie was never sure from one hour to the next whether the Guillotine would cut off her husband's head the following day.",
+    "ko": "그 기간 내내, 루시는 단두대가 다음 날 남편의 목을 베지 않을까 매시간 불안에 떨었다.",
+    "is_header": false,
+    "raw_ref_id": 3
+  },
+  {
+    "id": 4,
+    "tag": "P002_3",
+    "en": "Every day, heavy carts rumbled through the cobblestone streets, packed with condemned prisoners.",
+    "ko": "매일, 사형수들로 가득 찬 무거운 수레들이 자갈길을 덜컹거리며 지나갔다.",
+    "is_header": false,
+    "raw_ref_id": 4
+  },
+  {
+    "id": 5,
+    "tag": "P002_4",
+    "en": "Lovely girls; bright women, brown-haired, black-haired, and grey; youths; stalwart men and old; gentle born and peasant born; all red wine for La Guillotine, all daily brought into light from the dark cellars of the loathsome prisons, and carried to her through the streets to slake her devouring thirst. Liberty, equality, fraternity, or death;—the last, much the easiest to bestow, O Guillotine!",
+    "ko": "사랑스러운 소녀들, 갈색 머리, 검은 머리, 흰 머리의 활기찬 여인들, 젊은이들, 건장한 사내들과 노인들, 귀족 출신과 농민 출신, 이 모든 이들이 단두대를 위한 붉은 포도주가 되어 매일같이 음산한 감옥의 어두운 지하 독방에서 빛 속으로 끌려 나와, 단두대의 타는 듯한 갈증을 채워주기 위해 거리를 지나 그녀에게로 실려 갔다. 자유, 평등, 박애, 그렇지 않으면 죽음을. 오 단두대여, 그중 죽음이야말로 네가 베풀기에 가장 쉬운 것이었구나!",
+    "is_header": false,
+    "raw_ref_id": 5
+  },
+  {
+    "id": 6,
+    "tag": "P003_1",
+    "en": "If the sudden shock of this disaster and the chaotic pace of the times had caused the Doctor's daughter to give up in despair, she would have been just like many others.",
+    "ko": "이 재앙의 갑작스러운 충격과 시대의 혼란스러운 속도 때문에 박사의 딸이 절망에 빠져 포기했다면, 그녀는 다른 많은 이들과 다를 바 없었을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 7
+  },
+  {
+    "id": 7,
+    "tag": "P003_2",
+    "en": "But ever since the day she had held her father's white-haired head in the attic of Saint Antoine, she had always done her duty.",
+    "ko": "그러나 생탕투안의 다락방에서 하얗게 센 아버지의 머리를 안은 그날 이후로, 그녀는 항상 자신의 의무를 다했다.",
+    "is_header": false,
+    "raw_ref_id": 8
+  },
+  {
+    "id": 8,
+    "tag": "P003_3",
+    "en": "She was most loyal during this time of trial, just as all good and quiet people are.",
+    "ko": "모든 선량하고 과묵한 사람들이 그렇듯, 그녀는 이 시련의 시기에 가장 충실했다.",
+    "is_header": false,
+    "raw_ref_id": 9
+  },
+  {
+    "id": 9,
+    "tag": "P004_1",
+    "en": "As soon as they moved into their new apartment and her father began his daily routine, she organized the household exactly as if Charles were there.",
+    "ko": "새 아파트로 이사하고 아버지가 일상을 시작하자마자, 그녀는 마치 찰스가 그곳에 있는 것처럼 집안을 정확히 정돈했다.",
+    "is_header": false,
+    "raw_ref_id": 10
+  },
+  {
+    "id": 10,
+    "tag": "P004_2",
+    "en": "Everything had its place and time.",
+    "ko": "모든 것에는 제자리와 시간이 있었다.",
+    "is_header": false,
+    "raw_ref_id": 11
+  },
+  {
+    "id": 11,
+    "tag": "P004_3",
+    "en": "She taught little Lucie as regularly as if they were still in their peaceful English home.",
+    "ko": "그녀는 마치 영국의 평화로운 집에 아직 있는 것처럼 어린 루시를 규칙적으로 가르쳤다.",
+    "is_header": false,
+    "raw_ref_id": 12
+  },
+  {
+    "id": 12,
+    "tag": "P004_4",
+    "en": "The small tricks she played on herself to pretend they would soon be together again, like setting aside his chair and books for his return, and praying at night for her dear prisoner among the many suffering in the shadow of death, were the only ways she could find relief for her heavy heart.",
+    "ko": "그가 돌아오면 쓸 의자와 책을 따로 치워두고, 밤마다 죽음의 그림자 속에서 고통받는 많은 사람들 틈에 갇힌 사랑하는 죄수를 위해 기도하는 등 곧 다시 만날 거라고 스스로를 속인 작은 행동들은, 무거운 마음을 달랠 수 있는 유일한 방법이었다.",
+    "is_header": false,
+    "raw_ref_id": 13
+  },
+  {
+    "id": 13,
+    "tag": "P005_1",
+    "en": "She did not change much in appearance.",
+    "ko": "그녀의 외모는 크게 변하지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 14
+  },
+  {
+    "id": 14,
+    "tag": "P005_2",
+    "en": "The simple dark dresses, almost like mourning clothes, that she and her child wore were as neat and clean as their colorful clothes from happier days.",
+    "ko": "그녀와 아이가 입은 거의 상복에 가까운 소박하고 어두운 드레스는 행복했던 시절의 화려한 옷들만큼이나 단정하고 깨끗했다.",
+    "is_header": false,
+    "raw_ref_id": 15
+  },
+  {
+    "id": 15,
+    "tag": "P005_3",
+    "en": "She lost some of her color, and her worried, serious expression was now permanent, but otherwise she remained very pretty.",
+    "ko": "혈색을 좀 잃고 걱정스럽고 심각한 표정이 굳어지긴 했지만, 그 외에는 여전히 매우 아름다웠다.",
+    "is_header": false,
+    "raw_ref_id": 16
+  },
+  {
+    "id": 16,
+    "tag": "P005_4",
+    "en": "Sometimes at night, when kissing her father goodnight, she would cry and let out the grief she had hidden all day, telling him he was her only hope.",
+    "ko": "가끔 밤에 아버지에게 굿나잇 키스를 할 때면, 그녀는 하루 종일 숨겨왔던 슬픔을 터뜨리며 울곤 했고, 아버지가 그녀의 유일한 희망이라고 말했다.",
+    "is_header": false,
+    "raw_ref_id": 17
+  },
+  {
+    "id": 17,
+    "tag": "P005_5",
+    "en": "He always answered firmly, “Nothing can happen to him without my knowing, and I know I can save him, Lucie.”",
+    "ko": "그는 항상 단호하게 대답했다. “내가 모르게 그에게 무슨 일이 생길 리는 없어. 나는 그를 살릴 수 있다는 걸 알고 있단다, 루시.”",
+    "is_header": false,
+    "raw_ref_id": 18
+  },
+  {
+    "id": 18,
+    "tag": "P006",
+    "en": "They had only lived this way for a few weeks when her father said to her one evening upon coming home:",
+    "ko": "그들이 이렇게 생활한 지 몇 주밖에 되지 않았을 때, 어느 날 저녁 아버지가 집에 돌아와 그녀에게 말했다.",
+    "is_header": false,
+    "raw_ref_id": 19
+  },
+  {
+    "id": 19,
+    "tag": "P007_1",
+    "en": "“My dear, there is a high window in the prison that Charles can sometimes reach at three in the afternoon.",
+    "ko": "“얘야, 감옥에 높은 창문이 하나 있는데 찰스가 가끔 오후 3시에 그곳에 닿을 수 있단다.",
+    "is_header": false,
+    "raw_ref_id": 20
+  },
+  {
+    "id": 20,
+    "tag": "P007_2",
+    "en": "When he can get to it, which depends on many things, he thinks he might be able to see you in the street if you stand in a specific spot I can show you.",
+    "ko": "상황이 맞아서 그가 그곳에 올라갈 수 있다면, 내가 알려주는 특정 장소에 네가 서 있을 경우 거리에 있는 너를 볼 수 있을 것 같다고 하더구나.",
+    "is_header": false,
+    "raw_ref_id": 21
+  },
+  {
+    "id": 21,
+    "tag": "P007_3",
+    "en": "But you won't be able to see him, my poor child, and even if you could, it would be unsafe to wave or show that you recognize him.”",
+    "ko": "하지만 넌 그를 볼 수 없을 게다, 가엾은 내 아이야. 그리고 설령 볼 수 있다 해도, 손을 흔들거나 아는 척하는 것은 위험할 거야.”",
+    "is_header": false,
+    "raw_ref_id": 22
+  },
+  {
+    "id": 22,
+    "tag": "P008",
+    "en": "“Oh, show me the place, Father, and I will go there every day.”",
+    "ko": "“아, 그 장소를 알려주세요, 아버지. 매일 거기로 갈게요.”",
+    "is_header": false,
+    "raw_ref_id": 23
+  },
+  {
+    "id": 23,
+    "tag": "P009_1",
+    "en": "From then on, in all kinds of weather, she waited there for two hours.",
+    "ko": "그때부터 날씨에 상관없이 그녀는 그곳에서 두 시간씩 기다렸다.",
+    "is_header": false,
+    "raw_ref_id": 24
+  },
+  {
+    "id": 24,
+    "tag": "P009_2",
+    "en": "She arrived at two o'clock and left at four.",
+    "ko": "그녀는 두 시에 도착해 네 시에 떠났다.",
+    "is_header": false,
+    "raw_ref_id": 25
+  },
+  {
+    "id": 25,
+    "tag": "P009_3",
+    "en": "When it was not too wet or cold for her daughter, they went together; other times she went alone, but she never missed a day.",
+    "ko": "딸이 함께 가기에 너무 춥거나 습하지 않을 때면 같이 갔고, 그렇지 않을 때는 혼자 갔지만 단 하루도 거르지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 26
+  },
+  {
+    "id": 26,
+    "tag": "P010_1",
+    "en": "The spot was a dark, dirty corner of a narrow, winding street.",
+    "ko": "그곳은 좁고 굽은 골목길의 어둡고 지저분한 구석이었다.",
+    "is_header": false,
+    "raw_ref_id": 27
+  },
+  {
+    "id": 27,
+    "tag": "P010_2",
+    "en": "The shack of a wood-sawyer was the only building there; everything else was just a high wall.",
+    "ko": "그곳에 있는 건물이라고는 나무꾼의 오두막이 유일했고, 그 외에는 그저 높은 벽뿐이었다.",
+    "is_header": false,
+    "raw_ref_id": 28
+  },
+  {
+    "id": 28,
+    "tag": "P010_3",
+    "en": "On her third day of waiting there, he noticed her.",
+    "ko": "그곳에서 기다린 지 3일째 되던 날, 그가 그녀를 눈치챘다.",
+    "is_header": false,
+    "raw_ref_id": 29
+  },
+  {
+    "id": 29,
+    "tag": "P011",
+    "en": "“Good day, citizeness.”",
+    "ko": "“안녕하십니까, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 30
+  },
+  {
+    "id": 30,
+    "tag": "P012",
+    "en": "“Good day, citizen.”",
+    "ko": "“안녕하십니까, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 31
+  },
+  {
+    "id": 31,
+    "tag": "P013_1",
+    "en": "This way of greeting was now required by law.",
+    "ko": "이러한 인사 방식은 이제 법으로 규정되어 있었다.",
+    "is_header": false,
+    "raw_ref_id": 32
+  },
+  {
+    "id": 32,
+    "tag": "P013_2",
+    "en": "It had started voluntarily among the most loyal patriots, but now everyone had to use it.",
+    "ko": "가장 충성스러운 애국자들 사이에서 자발적으로 시작되었지만, 이제는 누구나 사용해야만 했다.",
+    "is_header": false,
+    "raw_ref_id": 33
+  },
+  {
+    "id": 33,
+    "tag": "P014",
+    "en": "“Walking here again, citizeness?”",
+    "ko": "“여기 또 산책하러 오셨소, 시민?”",
+    "is_header": false,
+    "raw_ref_id": 34
+  },
+  {
+    "id": 34,
+    "tag": "P015",
+    "en": "“You see me, citizen!”",
+    "ko": "“보시는 대로입니다, 시민!”",
+    "is_header": false,
+    "raw_ref_id": 35
+  },
+  {
+    "id": 35,
+    "tag": "P016",
+    "en": "The wood-sawyer was a small man who made a lot of gestures, he was the same man who had once been the road-mender. He looked at the prison, pointed to it, and held up his ten fingers like bars, joking as he peeked through them.",
+    "ko": "그 나무꾼은 제스처가 많은 체구가 작은 남자였는데, 예전에 도로 보수공으로 일했던 바로 그 남자였다. 그는 감옥을 바라보며 손가락 열 개를 창살처럼 치켜들고 그 사이로 엿보며 농담을 던졌다.",
+    "is_header": false,
+    "raw_ref_id": 36
+  },
+  {
+    "id": 36,
+    "tag": "P017",
+    "en": "“But it's none of my business,” he said, and went back to sawing his wood.",
+    "ko": "“하지만 내 알 바 아니지.” 그가 말하며 다시 나무를 썰기 시작했다.",
+    "is_header": false,
+    "raw_ref_id": 37
+  },
+  {
+    "id": 37,
+    "tag": "P018",
+    "en": "The next day, he was watching for her and spoke to her the moment she arrived.",
+    "ko": "다음 날, 그는 그녀가 오기를 기다렸다가 그녀가 도착하자마자 말을 건넸다.",
+    "is_header": false,
+    "raw_ref_id": 38
+  },
+  {
+    "id": 38,
+    "tag": "P019_1",
+    "en": "“What?",
+    "ko": "“아니?",
+    "is_header": false,
+    "raw_ref_id": 39
+  },
+  {
+    "id": 39,
+    "tag": "P019_2",
+    "en": "Walking here again, citizeness?”",
+    "ko": "여기 또 산책하러 오셨소, 시민?”",
+    "is_header": false,
+    "raw_ref_id": 40
+  },
+  {
+    "id": 40,
+    "tag": "P020",
+    "en": "“Yes, citizen.”",
+    "ko": "“예, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 41
+  },
+  {
+    "id": 41,
+    "tag": "P021_1",
+    "en": "“Ah!",
+    "ko": "“아!",
+    "is_header": false,
+    "raw_ref_id": 42
+  },
+  {
+    "id": 42,
+    "tag": "P021_2",
+    "en": "A child too!",
+    "ko": "아이도 함께구먼!",
+    "is_header": false,
+    "raw_ref_id": 43
+  },
+  {
+    "id": 43,
+    "tag": "P021_3",
+    "en": "That is your mother, isn't it, my little citizeness?”",
+    "ko": "그 사람이 네 어머니지, 그렇지 않니, 꼬마 시민?”",
+    "is_header": false,
+    "raw_ref_id": 44
+  },
+  {
+    "id": 44,
+    "tag": "P022",
+    "en": "“Should I say yes, Mama?” whispered little Lucie, holding close to her.",
+    "ko": "“네라고 대답해야 할까요, 엄마?” 어린 루시가 그녀에게 꼭 매달리며 속삭였다.",
+    "is_header": false,
+    "raw_ref_id": 45
+  },
+  {
+    "id": 45,
+    "tag": "P023",
+    "en": "“Yes, dearest.” “Yes, citizen.”",
+    "ko": "“그래요, 여보.” “그렇습니다, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 46
+  },
+  {
+    "id": 46,
+    "tag": "P025_1",
+    "en": "“Ah!",
+    "ko": "“아!",
+    "is_header": false,
+    "raw_ref_id": 48
+  },
+  {
+    "id": 47,
+    "tag": "P025_2",
+    "en": "But it's none of my business.",
+    "ko": "하지만 내 알 바 아니지.",
+    "is_header": false,
+    "raw_ref_id": 49
+  },
+  {
+    "id": 48,
+    "tag": "P025_3",
+    "en": "My work is my business.",
+    "ko": "내 일은 내 사업이야.",
+    "is_header": false,
+    "raw_ref_id": 50
+  },
+  {
+    "id": 49,
+    "tag": "P025_4",
+    "en": "Look at my saw!",
+    "ko": "내 톱을 보라고!",
+    "is_header": false,
+    "raw_ref_id": 51
+  },
+  {
+    "id": 50,
+    "tag": "P025_5",
+    "en": "I call it my Little Guillotine.",
+    "ko": "나는 이것을 내 작은 단두대라고 부른단다.",
+    "is_header": false,
+    "raw_ref_id": 52
+  },
+  {
+    "id": 51,
+    "tag": "P025_6",
+    "en": "La, la, la; La, la, la!",
+    "ko": "라, 라, 라; 라, 라, 라!",
+    "is_header": false,
+    "raw_ref_id": 53
+  },
+  {
+    "id": 52,
+    "tag": "P025_7",
+    "en": "And off his head comes!”",
+    "ko": "그러면 그의 머리가 떨어져 나가지!”",
+    "is_header": false,
+    "raw_ref_id": 54
+  },
+  {
+    "id": 53,
+    "tag": "P026",
+    "en": "A log fell as he spoke, and he tossed it into a basket.",
+    "ko": "그가 말할 때 통나무가 하나 떨어졌고, 그는 그것을 바구니에 던져 넣었다.",
+    "is_header": false,
+    "raw_ref_id": 55
+  },
+  {
+    "id": 54,
+    "tag": "P027_1",
+    "en": "“I call myself the executioner Samson of the firewood guillotine.",
+    "ko": "“나는 내 자신을 장작 단두대의 사형 집행인 삼손이라고 부른단다.",
+    "is_header": false,
+    "raw_ref_id": 56
+  },
+  {
+    "id": 55,
+    "tag": "P027_2",
+    "en": "Look here again!",
+    "ko": "여기를 다시 봐!",
+    "is_header": false,
+    "raw_ref_id": 57
+  },
+  {
+    "id": 56,
+    "tag": "P027_3",
+    "en": "Loo, loo, loo; Loo, loo, loo!",
+    "ko": "루, 루, 루; 루, 루, 루!",
+    "is_header": false,
+    "raw_ref_id": 58
+  },
+  {
+    "id": 57,
+    "tag": "P027_4",
+    "en": "And off _her_ head comes!",
+    "ko": "그러면 그녀의 머리가 떨어져 나가지!",
+    "is_header": false,
+    "raw_ref_id": 59
+  },
+  {
+    "id": 58,
+    "tag": "P027_5",
+    "en": "Now, a child.",
+    "ko": "자, 이번엔 아이다.",
+    "is_header": false,
+    "raw_ref_id": 60
+  },
+  {
+    "id": 59,
+    "tag": "P027_6",
+    "en": "Tickle, tickle; Pickle, pickle!",
+    "ko": "간지럼, 간지럼; 피클, 피클!",
+    "is_header": false,
+    "raw_ref_id": 61
+  },
+  {
+    "id": 60,
+    "tag": "P027_7",
+    "en": "And off _its_ head comes.",
+    "ko": "그러면 그것의 머리가 떨어져 나가지.",
+    "is_header": false,
+    "raw_ref_id": 62
+  },
+  {
+    "id": 61,
+    "tag": "P027_8",
+    "en": "The whole family!”",
+    "ko": "온 가족이 다 말이야!”",
+    "is_header": false,
+    "raw_ref_id": 63
+  },
+  {
+    "id": 62,
+    "tag": "P028_1",
+    "en": "Lucie shivered as he threw two more logs into his basket, but she couldn't stand there without being in his sight.",
+    "ko": "루시는 그가 통나무 두 개를 바구니에 더 던져 넣을 때 몸서리쳤지만, 그의 시선에 띄지 않고 그곳에 서 있을 수는 없었다.",
+    "is_header": false,
+    "raw_ref_id": 64
+  },
+  {
+    "id": 63,
+    "tag": "P028_2",
+    "en": "From then on, to keep him friendly, she always spoke to him first and often gave him tip money, which he was happy to take.",
+    "ko": "그때부터 그녀는 그를 우호적으로 대하기 위해 항상 먼저 말을 걸었고 종종 팁을 주었는데, 그는 그것을 기꺼이 받았다.",
+    "is_header": false,
+    "raw_ref_id": 65
+  },
+  {
+    "id": 64,
+    "tag": "P029",
+    "en": "He was very curious, and sometimes when she had forgotten all about him while staring up at the prison roof and praying for her husband, she would look over to find him watching her, with his knee on his bench and his saw stopped. “But it's none of my business!” he would usually say, and then start sawing again.",
+    "ko": "그는 호기심이 아주 많아서, 때때로 그녀가 그에 대해 완전히 잊고 감옥 지붕을 올려다보며 남편을 위해 기도할 때면, 그녀를 쳐다보며 작업대에 무릎을 꿇고 톱질을 멈추고 있는 그를 발견하곤 했다. “하지만 내 알 바 아니지!” 그는 대개 이렇게 말하고는 다시 톱질을 시작하곤 했다.",
+    "is_header": false,
+    "raw_ref_id": 66
+  },
+  {
+    "id": 65,
+    "tag": "P030_1",
+    "en": "Through snow, winter frost, bitter spring winds, hot summer sun, and autumn rain, Lucie spent two hours there every day. Every day, as she left, she kissed the prison wall.",
+    "ko": "눈, 겨울 서리, 매서운 봄바람, 뜨거운 여름 햇볕, 그리고 가을비를 맞으며 루시는 매일 그곳에서 두 시간을 보냈다. 매일 그녀는 떠날 때 감옥 벽에 입을 맞추었다.",
+    "is_header": false,
+    "raw_ref_id": 67
+  },
+  {
+    "id": 66,
+    "tag": "P030_2",
+    "en": "Her husband saw her, according to her father, maybe once every five or six times, sometimes twice in a row, and sometimes not for weeks.",
+    "ko": "그녀의 아버지에 따르면 남편은 다섯 번이나 여섯 번에 한 번, 때로는 두 번 연달아, 때로는 몇 주 동안 그녀를 보지 못했다고 한다.",
+    "is_header": false,
+    "raw_ref_id": 68
+  },
+  {
+    "id": 67,
+    "tag": "P030_3",
+    "en": "Knowing that he could see her when he had the chance was enough, and for that possibility she would have stood there all day, seven days a week.",
+    "ko": "기회가 있을 때 그가 그녀를 볼 수 있다는 사실만으로 충분했고, 그 가능성을 위해 그녀는 일주일에 칠일 내내 하루 종일 그곳에 서 있었을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 69
+  },
+  {
+    "id": 68,
+    "tag": "P031_1",
+    "en": "These daily visits brought her to the month of December, when her father was working calmly amid the city's terrors.",
+    "ko": "이러한 매일의 방문은 도시의 공포 속에서 아버지가 차분하게 일하던 십이월로 이어졌다.",
+    "is_header": false,
+    "raw_ref_id": 70
+  },
+  {
+    "id": 69,
+    "tag": "P031_2",
+    "en": "One snowy afternoon, she arrived at her usual corner.",
+    "ko": "눈 내리는 어느 날 오후, 그녀는 늘 가던 모퉁이에 도착했다.",
+    "is_header": false,
+    "raw_ref_id": 71
+  },
+  {
+    "id": 70,
+    "tag": "P031_3",
+    "en": "It was a day of celebration.",
+    "ko": "그날은 축하의 날이었다.",
+    "is_header": false,
+    "raw_ref_id": 72
+  },
+  {
+    "id": 71,
+    "tag": "P031_4",
+    "en": "As she walked, she had seen houses decorated with small toy spears, red caps, tri-color ribbons, and the slogan written in red, white, and blue: \"Republic One and Indivisible.",
+    "ko": "그녀가 걸어갈 때, 그녀는 작은 장난감 창, 빨간 모자, 삼색 리본으로 장식된 집들과 빨강, 하양, 파랑으로 쓰여진 구호를 보았다. 단일 불가분의 공화국.",
+    "is_header": false,
+    "raw_ref_id": 73
+  },
+  {
+    "id": 72,
+    "tag": "P031_5",
+    "en": "Liberty, Equality, Fraternity, or Death!\"",
+    "ko": "자유, 평등, 박애, 아니면 죽음!",
+    "is_header": false,
+    "raw_ref_id": 74
+  },
+  {
+    "id": 73,
+    "tag": "P032_1",
+    "en": "The wood-sawyer's tiny shop was too small to fit the long slogan easily.",
+    "ko": "나무꾼의 아주 작은 가게는 그 긴 구호를 쉽게 적기에는 너무 작았다.",
+    "is_header": false,
+    "raw_ref_id": 75
+  },
+  {
+    "id": 74,
+    "tag": "P032_2",
+    "en": "He had paid someone to paint it for him, and they had squeezed the word \"Death\" onto the end with great difficulty.",
+    "ko": "그는 누군가에게 돈을 주고 구호를 그리게 했고, 그들은 매우 어렵게 끝에 죽음이라는 단어를 쑤셔 넣었다.",
+    "is_header": false,
+    "raw_ref_id": 76
+  },
+  {
+    "id": 75,
+    "tag": "P032_3",
+    "en": "On his roof, he displayed a toy spear and cap like a good citizen, and in the window he kept his saw labeled \"Little Saint Guillotine\", since the crowd now spoke of the machine as if it were a saint.",
+    "ko": "지붕 위에 그는 선량한 시민처럼 장난감 창과 모자를 전시했고, 군중들이 이제 그 기계를 성인처럼 말했기 때문에 창문에 작은 성 단두대라는 라벨이 붙은 톱을 두었다.",
+    "is_header": false,
+    "raw_ref_id": 77
+  },
+  {
+    "id": 76,
+    "tag": "P032_4",
+    "en": "His shop was closed and he was gone, which was a relief to Lucie, leaving her alone.",
+    "ko": "그의 가게는 문을 닫았고 그는 떠났으며, 루시 혼자 남겨진 것은 그녀에게 안도감을 주었다.",
+    "is_header": false,
+    "raw_ref_id": 78
+  },
+  {
+    "id": 77,
+    "tag": "P033_1",
+    "en": "But he wasn't far away. Soon enough, she heard a chaotic commotion and loud shouting coming down the street, which filled her with fear.",
+    "ko": "하지만 그는 멀리 있지 않았다. 이내 그녀는 거리를 따라 내려오는 혼란스러운 소동과 큰 함성을 들었고, 이는 그녀를 두려움으로 채웠다.",
+    "is_header": false,
+    "raw_ref_id": 79
+  },
+  {
+    "id": 78,
+    "tag": "P033_2",
+    "en": "A moment later, a massive crowd of people came pouring around the corner by the prison wall, and right in the middle of them was the wood-sawyer, holding hands with The Vengeance.",
+    "ko": "잠시 후 엄청난 수의 사람들이 감옥 벽 모퉁이를 돌아 쏟아져 들어왔고, 그 한가운데에는 나무꾼이 복수 여신과 손을 잡고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 80
+  },
+  {
+    "id": 79,
+    "tag": "P033_3",
+    "en": "A moment later, a mob of people came rushing around the corner.",
+    "ko": "잠시 후 군중이 모퉁이를 돌아 몰려왔다.",
+    "is_header": false,
+    "raw_ref_id": 81
+  },
+  {
+    "id": 80,
+    "tag": "P033_4",
+    "en": "In the middle of them was the wood-sawyer, holding hands with The Vengeance.",
+    "ko": "그들 한가운데에는 나무꾼이 복수 여신과 손을 잡고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 82
+  },
+  {
+    "id": 81,
+    "tag": "P033_5",
+    "en": "There were at least five hundred people, dancing like demons.",
+    "ko": "악마처럼 춤을 추는 사람들이 적어도 오백명은 있었다.",
+    "is_header": false,
+    "raw_ref_id": 83
+  },
+  {
+    "id": 82,
+    "tag": "P033_6",
+    "en": "They had no music other than their own singing, chanting the popular revolutionary song to a fierce rhythm that sounded like the grinding of teeth.",
+    "ko": "그들은 이갈이 소리처럼 들리는 거친 리듬에 맞춰 유명한 혁명가를 부르며 자신들의 노랫소리 외에는 어떤 음악도 없었다.",
+    "is_header": false,
+    "raw_ref_id": 84
+  },
+  {
+    "id": 83,
+    "tag": "P033_7",
+    "en": "At first, they just looked like a wild storm of rough red caps and coarse wool rags. But as they filled the square and stopped to dance around Lucie, they looked like a terrifying, ghostly dance that had gone completely mad.",
+    "ko": "처음에 그들은 그저 거친 빨간 모자와 거친 양모 넝마의 거센 폭풍처럼 보였다. 하지만 그들이 광장을 가득 채우고 루시 주위에서 춤을 추기 위해 멈췄을 때, 그들은 완전히 미쳐버린 무시무시하고 유령 같은 춤처럼 보였다.",
+    "is_header": false,
+    "raw_ref_id": 85
+  },
+  {
+    "id": 84,
+    "tag": "P033_8",
+    "en": "They moved forward and backward, smacked each other's hands, grabbed at each other's heads, spun around on their own, and grabbed each other to spin in pairs until many of them collapsed.",
+    "ko": "그들은 앞뒤로 움직이고, 서로의 손을 때리고, 서로의 머리를 붙잡고, 혼자 빙빙 돌고, 서로를 붙잡고 짝을 지어 많은 사람들이 쓰러질 때까지 돌았다.",
+    "is_header": false,
+    "raw_ref_id": 86
+  },
+  {
+    "id": 85,
+    "tag": "P033_9",
+    "en": "While some lay on the ground, the rest linked hands and spun around together. Then the big circle broke apart into smaller rings of two or four, and they kept spinning until they all stopped at the same time. They started up again—hitting, grabbing, and tearing at each other—before reversing direction and spinning the opposite way.",
+    "ko": "일부가 땅에 누워 있는 동안, 나머지는 손을 잡고 함께 빙빙 돌았다. 그런 다음 큰 원은 두 명 또는 네 명의 작은 원으로 쪼개졌고, 그들은 모두 동시에 멈출 때까지 계속 돌았다. 그들은 방향을 바꾸어 반대 방향으로 회전하기 전에 서로 치고, 잡고, 할퀴면서 다시 시작했다.",
+    "is_header": false,
+    "raw_ref_id": 87
+  },
+  {
+    "id": 86,
+    "tag": "P033_10",
+    "en": "Then they broke into smaller groups, spinning faster and faster, before suddenly stopping, forming a line across the street, and running off screaming.",
+    "ko": "그런 다음 그들은 더 작은 그룹으로 나뉘어 점점 더 빨리 돌다가 갑자기 멈춰서 거리를 가로지르는 줄을 서고는 비명을 지르며 달려갔다.",
+    "is_header": false,
+    "raw_ref_id": 88
+  },
+  {
+    "id": 87,
+    "tag": "P033_11",
+    "en": "It was clearly a ruined activity—something that was once innocent, but had now been handed over to pure evil. A healthy pastime had been twisted into a way to boil the blood, confuse the senses, and harden the heart.",
+    "ko": "그것은 분명히 망가진 활동이었다. 한때 순수했던 것이 이제는 순전한 악으로 넘어갔다. 건전한 오락이 피를 끓게 하고 감각을 혼란스럽게 하며 마음을 굳게 하는 방식으로 뒤틀렸다.",
+    "is_header": false,
+    "raw_ref_id": 89
+  },
+  {
+    "id": 88,
+    "tag": "P033_12",
+    "en": "It was the Carmagnole, a once-innocent pastime now turned into a ritual of anger and madness.",
+    "ko": "그것은 한때 순수했던 오락이 이제 분노와 광기의 의식으로 변한 카르마뇰이었다.",
+    "is_header": false,
+    "raw_ref_id": 90
+  },
+  {
+    "id": 89,
+    "tag": "P033_13",
+    "en": "Its wild, dark energy showed how twisted the country had become, with young women and girls caught up in this dirty, bloody display.",
+    "ko": "젊은 여성과 소녀들이 이 더럽고 피투성이인 구경거리에 휘말리면서, 그것의 거칠고 어두운 에너지는 나라가 얼마나 왜곡되었는지를 보여주었다.",
+    "is_header": false,
+    "raw_ref_id": 91
+  },
+  {
+    "id": 90,
+    "tag": "P034_1",
+    "en": "This was the Carmagnole dance.",
+    "ko": "이것은 카르마뇰 춤이었다.",
+    "is_header": false,
+    "raw_ref_id": 92
+  },
+  {
+    "id": 91,
+    "tag": "P034_2",
+    "en": "As it moved away, leaving Lucie frightened and confused in the doorway of the wood-sawyer's shop, the light snow fell quietly and lay white and soft, as if nothing had happened.",
+    "ko": "루시가 놀라고 혼란스러운 채 나무꾼의 가게 출입구에 남겨진 채 그것이 멀어지자, 마치 아무 일도 없었던 것처럼 가벼운 눈이 조용히 내리며 하얗고 부드럽게 쌓였다.",
+    "is_header": false,
+    "raw_ref_id": 93
+  },
+  {
+    "id": 92,
+    "tag": "P035",
+    "en": "“Oh, Father!” she said when she looked up and saw him standing there. “It was such a cruel, horrible sight.”",
+    "ko": "“오, 아버지!” 그녀가 고개를 들어 거기 서 있는 그를 보았을 때 그녀가 말했다. “정말 잔인하고 끔찍한 광경이었어요.”",
+    "is_header": false,
+    "raw_ref_id": 94
+  },
+  {
+    "id": 93,
+    "tag": "P036_1",
+    "en": "“I know, my dear, I know.",
+    "ko": "“알아, 얘야, 안단다.",
+    "is_header": false,
+    "raw_ref_id": 95
+  },
+  {
+    "id": 94,
+    "tag": "P036_2",
+    "en": "I have seen it many times.",
+    "ko": "나는 그것을 여러 번 봤단다.",
+    "is_header": false,
+    "raw_ref_id": 96
+  },
+  {
+    "id": 95,
+    "tag": "P036_3",
+    "en": "Don't be scared!",
+    "ko": "두려워하지 마렴!",
+    "is_header": false,
+    "raw_ref_id": 97
+  },
+  {
+    "id": 96,
+    "tag": "P036_4",
+    "en": "None of them would hurt you.”",
+    "ko": "그들 중 누구도 너를 해치지 않을 거야.”",
+    "is_header": false,
+    "raw_ref_id": 98
+  },
+  {
+    "id": 97,
+    "tag": "P037_1",
+    "en": "“I am not afraid for myself, Father.",
+    "ko": "“저 자신을 위해 두려운 것이 아니에요, 아버지.",
+    "is_header": false,
+    "raw_ref_id": 99
+  },
+  {
+    "id": 98,
+    "tag": "P037_2",
+    "en": "But when I think of my husband, and the mercy of these people, ”",
+    "ko": "하지만 남편과 이 사람들의 자비를 생각하면, ”",
+    "is_header": false,
+    "raw_ref_id": 100
+  },
+  {
+    "id": 99,
+    "tag": "P038_1",
+    "en": "“We will save him from them very soon.",
+    "ko": "“우리는 아주 곧 그들에게서 그를 구할 거란다.",
+    "is_header": false,
+    "raw_ref_id": 101
+  },
+  {
+    "id": 100,
+    "tag": "P038_2",
+    "en": "I left him climbing to the window, and I came to tell you.",
+    "ko": "그가 창문으로 올라가는 것을 두고 나는 너에게 말하러 왔어.",
+    "is_header": false,
+    "raw_ref_id": 102
+  },
+  {
+    "id": 101,
+    "tag": "P038_3",
+    "en": "No one is watching.",
+    "ko": "아무도 보지 않는다.",
+    "is_header": false,
+    "raw_ref_id": 103
+  },
+  {
+    "id": 102,
+    "tag": "P038_4",
+    "en": "You can blow a kiss toward that high roof.”",
+    "ko": "저 높은 지붕을 향해 손 키스를 날려도 좋아.”",
+    "is_header": false,
+    "raw_ref_id": 104
+  },
+  {
+    "id": 103,
+    "tag": "P039",
+    "en": "“I am doing it, Father, and I send him my soul with it!”",
+    "ko": "“그렇게 하고 있어요, 아버지, 그리고 거기에 제 영혼을 담아 그에게 보내고 있어요!”",
+    "is_header": false,
+    "raw_ref_id": 105
+  },
+  {
+    "id": 104,
+    "tag": "P040",
+    "en": "“You can't see him, my poor child?”",
+    "ko": "“그를 볼 수 없니, 불쌍한 내 아이야?”",
+    "is_header": false,
+    "raw_ref_id": 106
+  },
+  {
+    "id": 105,
+    "tag": "P041",
+    "en": "“No, Father,” Lucie said, crying as she blew a kiss, “no.”",
+    "ko": "“네, 아버지,” 루시는 손 키스를 날리며 울면서 말했다. “안 보여요.”",
+    "is_header": false,
+    "raw_ref_id": 107
+  },
+  {
+    "id": 106,
+    "tag": "P042_1",
+    "en": "A footstep sounded in the snow.",
+    "ko": "눈 속에서 발소리가 났다.",
+    "is_header": false,
+    "raw_ref_id": 108
+  },
+  {
+    "id": 107,
+    "tag": "P042_2",
+    "en": "It was Madame Defarge. “Greetings, citizeness,” said the Doctor. “Greetings, citizen,” she replied as she walked by.",
+    "ko": "드파르지 부인이었다. “인사하오, 시민,” 마네트 박사가 말했다. “인사합니다, 시민,” 그녀가 지나가며 대답했다.",
+    "is_header": false,
+    "raw_ref_id": 109
+  },
+  {
+    "id": 108,
+    "tag": "P042_3",
+    "en": "Nothing more.",
+    "ko": "그게 다였다.",
+    "is_header": false,
+    "raw_ref_id": 110
+  },
+  {
+    "id": 109,
+    "tag": "P042_4",
+    "en": "Madame Defarge vanished like a shadow over the white road.",
+    "ko": "드파르지 부인은 하얀 길 위로 그림자처럼 사라졌다.",
+    "is_header": false,
+    "raw_ref_id": 111
+  },
+  {
+    "id": 110,
+    "tag": "P043_1",
+    "en": "“Take my arm, my love.",
+    "ko": "“내 팔을 잡으렴, 내 사랑.",
+    "is_header": false,
+    "raw_ref_id": 112
+  },
+  {
+    "id": 111,
+    "tag": "P043_2",
+    "en": "Walk away from here looking cheerful and brave, for his sake.",
+    "ko": "그를 위해서 쾌활하고 용감한 모습으로 이곳에서 걸어가자꾸나.",
+    "is_header": false,
+    "raw_ref_id": 113
+  },
+  {
+    "id": 112,
+    "tag": "P043_3",
+    "en": "That's it,” he said as they left the corner. “It won't be in vain.",
+    "ko": "그렇지,” 그들이 모퉁이를 떠날 때 그가 말했다. “헛되지 않을 거야.",
+    "is_header": false,
+    "raw_ref_id": 114
+  },
+  {
+    "id": 113,
+    "tag": "P043_4",
+    "en": "Charles is summoned for trial tomorrow.”",
+    "ko": "찰스는 내일 재판에 소환되었단다.”",
+    "is_header": false,
+    "raw_ref_id": 115
+  },
+  {
+    "id": 114,
+    "tag": "P044",
+    "en": "“For tomorrow!”",
+    "ko": "“내일이요!”",
+    "is_header": false,
+    "raw_ref_id": 116
+  },
+  {
+    "id": 115,
+    "tag": "P045_1",
+    "en": "“There is no time to lose.",
+    "ko": "“지체할 시간이 없어.",
+    "is_header": false,
+    "raw_ref_id": 117
+  },
+  {
+    "id": 116,
+    "tag": "P045_2",
+    "en": "I am well prepared, but there are steps we have to take that we couldn't take until he was actually summoned.",
+    "ko": "나는 잘 준비되어 있지만, 그가 실제로 소환될 때까지 우리가 밟을 수 없었던 절차들이 있단다.",
+    "is_header": false,
+    "raw_ref_id": 118
+  },
+  {
+    "id": 117,
+    "tag": "P045_3",
+    "en": "He hasn't received the notice yet, but I know he will be called tomorrow and moved to the Conciergerie prison. I got the information early.",
+    "ko": "그는 아직 통지를 받지 못했지만, 나는 그가 내일 불려가 콩시에르주리 감옥으로 옮겨질 것을 안다. 내가 정보를 일찍 입수했어.",
+    "is_header": false,
+    "raw_ref_id": 119
+  },
+  {
+    "id": 118,
+    "tag": "P045_4",
+    "en": "You are not afraid, are you?”",
+    "ko": "너는 두렵지 않지, 그렇지?”",
+    "is_header": false,
+    "raw_ref_id": 120
+  },
+  {
+    "id": 119,
+    "tag": "P046",
+    "en": "She could barely reply, “I trust you.”",
+    "ko": "그녀는 간신히 대답했다. “아버지를 믿어요.”",
+    "is_header": false,
+    "raw_ref_id": 121
+  },
+  {
+    "id": 120,
+    "tag": "P047_1",
+    "en": "“Trust me completely.",
+    "ko": "“나를 전적으로 믿거라.",
+    "is_header": false,
+    "raw_ref_id": 122
+  },
+  {
+    "id": 121,
+    "tag": "P047_2",
+    "en": "The waiting is almost over, my darling. He will be back with you in a few hours. I have arranged every protection for him.",
+    "ko": "기다림은 거의 끝났단다, 내 사랑. 그는 몇 시간 후에 너와 함께 돌아올 거야. 나는 그를 위해 모든 보호를 마련해 두었어.",
+    "is_header": false,
+    "raw_ref_id": 123
+  },
+  {
+    "id": 122,
+    "tag": "P047_3",
+    "en": "I must see Lorry.”",
+    "ko": "로리를 만나야겠다.”",
+    "is_header": false,
+    "raw_ref_id": 124
+  },
+  {
+    "id": 123,
+    "tag": "P048_1",
+    "en": "He stopped.",
+    "ko": "그가 멈추었다.",
+    "is_header": false,
+    "raw_ref_id": 125
+  },
+  {
+    "id": 124,
+    "tag": "P048_2",
+    "en": "They heard the heavy rumble of wheels nearby.",
+    "ko": "그들은 근처에서 바퀴가 무겁게 덜거덕거리는 소리를 들었다.",
+    "is_header": false,
+    "raw_ref_id": 126
+  },
+  {
+    "id": 125,
+    "tag": "P048_3",
+    "en": "They both knew exactly what it meant.",
+    "ko": "그들 둘 다 그것이 무엇을 의미하는지 정확히 알고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 127
+  },
+  {
+    "id": 126,
+    "tag": "P048_4",
+    "en": "One.",
+    "ko": "하나.",
+    "is_header": false,
+    "raw_ref_id": 128
+  },
+  {
+    "id": 127,
+    "tag": "P048_5",
+    "en": "Two.",
+    "ko": "둘.",
+    "is_header": false,
+    "raw_ref_id": 129
+  },
+  {
+    "id": 128,
+    "tag": "P048_6",
+    "en": "Three.",
+    "ko": "셋.",
+    "is_header": false,
+    "raw_ref_id": 130
+  },
+  {
+    "id": 129,
+    "tag": "P048_7",
+    "en": "Three carts carrying their terrible loads away over the silent snow.",
+    "ko": "세 대의 수레가 끔찍한 짐을 싣고 조용한 눈 위를 지나갔다.",
+    "is_header": false,
+    "raw_ref_id": 131
+  },
+  {
+    "id": 130,
+    "tag": "P049",
+    "en": "“I must see Lorry,” the Doctor repeated, leading her down another street.",
+    "ko": "“로리를 만나야겠다,” 마네트 박사는 그녀를 다른 거리로 이끌며 반복했다.",
+    "is_header": false,
+    "raw_ref_id": 132
+  },
+  {
+    "id": 131,
+    "tag": "P050_1",
+    "en": "The loyal old gentleman was still working at his post.",
+    "ko": "충실한 노신사는 여전히 그의 자리에서 일하고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 133
+  },
+  {
+    "id": 132,
+    "tag": "P050_2",
+    "en": "He and his records were often consulted by the government regarding seized property.",
+    "ko": "그와 그의 기록은 종종 압수된 재산에 관해 정부에 의해 참조되었다.",
+    "is_header": false,
+    "raw_ref_id": 134
+  },
+  {
+    "id": 133,
+    "tag": "P050_3",
+    "en": "Whatever he could save for the bank's customers, he saved.",
+    "ko": "그는 은행 고객들을 위해 구할 수 있는 것은 무엇이든 구했다.",
+    "is_header": false,
+    "raw_ref_id": 135
+  },
+  {
+    "id": 134,
+    "tag": "P050_4",
+    "en": "There was no better man to guard Tellson's assets and keep his mouth shut.",
+    "ko": "텔슨 은행의 자산을 지키고 입을 다물고 있는 데 그보다 더 나은 사람은 없었다.",
+    "is_header": false,
+    "raw_ref_id": 136
+  },
+  {
+    "id": 135,
+    "tag": "P051_1",
+    "en": "A cloudy red and yellow sky and mist rising from the Seine River showed that night was falling.",
+    "ko": "구름 낀 붉고 노란 하늘과 센 강에서 피어오르는 안개가 밤이 다가오고 있음을 보여주었다.",
+    "is_header": false,
+    "raw_ref_id": 137
+  },
+  {
+    "id": 136,
+    "tag": "P051_2",
+    "en": "It was almost dark when they reached the bank.",
+    "ko": "그들이 은행에 도착했을 때는 거의 어두워져 있었다.",
+    "is_header": false,
+    "raw_ref_id": 138
+  },
+  {
+    "id": 137,
+    "tag": "P051_3",
+    "en": "The lord's grand house was completely ruined and empty.",
+    "ko": "그 영주의 웅장한 집은 완전히 황폐해지고 비어 있었다.",
+    "is_header": false,
+    "raw_ref_id": 139
+  },
+  {
+    "id": 138,
+    "tag": "P051_4",
+    "en": "Above a pile of dust and ashes in the yard, painted letters read: \"National Property.",
+    "ko": "마당의 먼지와 재 더미 위에는 페인트로 쓰인 글자가 있었다. 국유 재산.",
+    "is_header": false,
+    "raw_ref_id": 140
+  },
+  {
+    "id": 139,
+    "tag": "P051_5",
+    "en": "Republic One and Indivisible.",
+    "ko": "단일 불가분의 공화국.",
+    "is_header": false,
+    "raw_ref_id": 141
+  },
+  {
+    "id": 140,
+    "tag": "P051_6",
+    "en": "Liberty, Equality, Fraternity, or Death!\"",
+    "ko": "자유, 평등, 박애, 아니면 죽음!",
+    "is_header": false,
+    "raw_ref_id": 142
+  },
+  {
+    "id": 141,
+    "tag": "P052_1",
+    "en": "Who could that be with Mr. Lorry—the owner of the riding-coat upon the chair—who must not be seen?",
+    "ko": "로리 씨와 함께 있는 사람, 의자 위에 놓인 승마용 코트의 주인이며 결코 남의 눈에 띄어서는 안 되는 그 사람은 대체 누구일까?",
+    "is_header": false,
+    "raw_ref_id": 143
+  },
+  {
+    "id": 142,
+    "tag": "P052_3",
+    "en": "From which newly arrived traveler did Mr. Lorry come out, excited and surprised, to hug Lucie?",
+    "ko": "그가 목소리를 높이고 닫힌 개인실 문을 뒤돌아보며 '콩시에르주리로 이송되었고 내일 재판을 받기 위해 소환되었다고요?'라고 말할 때, 그는 그녀의 걱정스러운 말을 누구에게 되풀이하고 있었던 것일까?",
+    "is_header": false,
+    "raw_ref_id": 145
+  },
+  {
+    "id": 143,
+    "tag": "P052_4",
+    "en": "To whom was he repeating her worried words when he raised his voice, looked back toward the closed door of the private room, and said: “Moved to the Conciergerie, and summoned for trial tomorrow?”",
+    "ko": "그는 사적인 방의 닫힌 문 쪽을 돌아보며 목소리를 높여 “콩시에르주리로 이송되었고, 내일 재판을 위해 소환되었다고요?”라고 말할 때, 도대체 누구에게 그녀의 걱정스러운 말을 반복하고 있었던 것일까?",
+    "is_header": false,
+    "raw_ref_id": 146
+  }
+]

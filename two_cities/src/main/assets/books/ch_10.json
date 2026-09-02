@@ -1,0 +1,1034 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "[Chapter 4] Congratulatory",
+    "ko": "",
+    "is_header": true,
+    "raw_ref_id": 1
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "en": "From the dimly lit corridors of the courthouse, the last remnants of the human crowd that had been seething there all day were draining away, when Doctor Manette, his daughter Lucie Manette, Mr. Lorry, the defense solicitor, and its counsel, Mr.",
+    "ko": "하루 종일 끓어오르던 인간 군상의 마지막 찌꺼기가 법원의 어둑한 복도에서 빠져나가고 있을 때, 마네트 박사와 그의 딸 루시 마네트, 로리 씨, 피고측 사무변호사, 그리고 법정변호사인 미스터",
+    "is_header": false,
+    "raw_ref_id": 2
+  },
+  {
+    "id": 3,
+    "tag": "P003_1",
+    "en": "Even in much brighter light, it would have been hard to recognize the old shoemaker from the Paris attic in the intellectual-looking and upright Doctor Manette.",
+    "ko": "훨씬 더 밝은 빛 속에서도, 지적으로 보이고 꼿꼿한 마네트 박사에게서 파리 다락방의 늙은 구두장이를 알아보기는 어려웠을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 6
+  },
+  {
+    "id": 4,
+    "tag": "P003_2",
+    "en": "Yet no one could look at him once without looking again. He still spoke in a sad, grave voice and would occasionally fall into a quiet, distracted state for no apparent reason.",
+    "ko": "하지만 누구도 그를 한 번 보고 다시 보지 않을 수 없었다. 그는 여전히 슬프고 진지한 목소리로 말했고, 이따금 뚜렷한 이유 없이 조용하고 멍한 상태에 빠지곤 했다.",
+    "is_header": false,
+    "raw_ref_id": 7
+  },
+  {
+    "id": 5,
+    "tag": "P003_3",
+    "en": "While referencing his long years of suffering in prison would always trigger this state, as it had during the trial, it could also happen on its own, casting a shadow over him. To anyone who did not know his story, it was deeply puzzling. It was as if the shadow of the Bastille prison had fallen across him right there in the bright summer sun. The prison itself was hundreds of miles away, but the shadow was very real.",
+    "ko": "재판 때처럼 감옥에서의 오랜 고통을 언급하는 것은 항상 이런 상태를 유발했지만, 그 자체로도 일어날 수 있었고 그에게 그림자를 드리웠다. 그의 이야기를 모르는 사람에게 그것은 깊이 당혹스러운 일이었다. 마치 바스티유 감옥의 그림자가 바로 그곳, 밝은 여름 햇살 속에 있는 그에게 드리워진 것 같았다. 감옥 자체는 수백 마일 떨어져 있었지만, 그림자는 매우 현실적이었다.",
+    "is_header": false,
+    "raw_ref_id": 8
+  },
+  {
+    "id": 6,
+    "tag": "P004_1",
+    "en": "Only his daughter had the power to chase away these dark moods.",
+    "ko": "오직 그의 딸만이 이 어두운 기분을 쫓아낼 힘이 있었다.",
+    "is_header": false,
+    "raw_ref_id": 9
+  },
+  {
+    "id": 7,
+    "tag": "P004_2",
+    "en": "She was the golden thread that connected him to a past and a present beyond his years of misery. The sound of her voice, the look on her face, and the touch of her hand almost always had a powerful, healing effect on him.",
+    "ko": "그녀는 그의 불행했던 세월 너머의 과거와 현재를 연결해 주는 황금 실이었다. 그녀의 목소리, 그녀의 얼굴 표정, 그리고 그녀의 손길은 거의 항상 그에게 강력하고 치유적인 효과를 주었다.",
+    "is_header": false,
+    "raw_ref_id": 10
+  },
+  {
+    "id": 8,
+    "tag": "P004_3",
+    "en": "It was not absolutely always, as there were a few times when her influence had failed, but those moments were rare, and she believed they were behind them.",
+    "ko": "그녀의 영향력이 통하지 않았던 때가 몇 번 있었기 때문에 절대적으로 항상 그런 것은 아니었지만, 그런 순간은 드물었고, 그녀는 그것들이 이미 지나갔다고 믿었다.",
+    "is_header": false,
+    "raw_ref_id": 11
+  },
+  {
+    "id": 9,
+    "tag": "P005_1",
+    "en": "Mr. Darnay had kissed her hand fervently and gratefully, and had turned to Mr.",
+    "ko": "다네이 씨는 그녀의 손에 열렬하고 감사한 마음으로 입을 맞춘 뒤, 미스터",
+    "is_header": false,
+    "raw_ref_id": 12
+  },
+  {
+    "id": 10,
+    "tag": "P005_4",
+    "en": "Mr. Stryver—a man barely over thirty, but looking twenty years older, stout, loud, florid, blunt, and completely devoid of any delicacy—had an aggressive way of shoving himself (both morally and physically) into gatherings and conversations, which boded well for his elbowing his way up in the world.",
+    "ko": "서른을 겨우 넘겼지만 스무 살은 더 늙어 보이는 스트라이버 씨는 뚱뚱하고 목소리가 컸으며, 얼굴이 붉고 거칠었으며 섬세함 따위는 눈곱만큼도 없었다. 그는 모임과 대화 속으로 (정신적으로나 육체적으로나) 거침없이 비집고 들어가는 추진력이 있었는데, 이는 그가 인생에서 출세 가도를 달릴 것임을 잘 보여주는 대목이었다.",
+    "is_header": false,
+    "raw_ref_id": 15
+  },
+  {
+    "id": 11,
+    "tag": "P006_1",
+    "en": "He still wore his wig and gown, and squaring up directly before his former client so aggressively that he shoved innocent Mr. Lorry completely out of the group, he said: “I am glad to have acquitted you with honor, Mr.",
+    "ko": "그는 여전히 가발과 법복을 걸친 채, 죄 없는 로리 씨를 무리 밖으로 완전히 밀어낼 정도로 이전 의뢰인을 향해 당당하게 마주 서며 말했다. “명예롭게 무죄를 이끌어내어 기쁘군요, 미스터",
+    "is_header": false,
+    "raw_ref_id": 17
+  },
+  {
+    "id": 12,
+    "tag": "P006_4",
+    "en": "\"It was an infamous prosecution, absolutely disgraceful, but that only made it more likely to succeed.\"",
+    "ko": "\"그것은 악명 높은 기소였고 완전히 수치스러웠지만, 그 때문에 성공할 가능성이 더 높았습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 20
+  },
+  {
+    "id": 13,
+    "tag": "P007",
+    "en": "\"You have put me in your debt for life, in more ways than one,\" said Darnay, shaking his hand.",
+    "ko": "\"당신은 여러 모로 제 평생의 은인입니다,\" 다네이가 그의 손을 잡으며 말했다.",
+    "is_header": false,
+    "raw_ref_id": 21
+  },
+  {
+    "id": 14,
+    "tag": "P008_1",
+    "en": "“I have done my best for you, Mr. Darnay; and my best is as good as anyone else's, I believe.”",
+    "ko": "“다네이 씨, 난 당신을 위해 최선을 다했습니다. 그리고 내 최선은 다른 어떤 사람 못지않다고 믿습니다.”",
+    "is_header": false,
+    "raw_ref_id": 22
+  },
+  {
+    "id": 15,
+    "tag": "P009_1",
+    "en": "Since it was clearly necessary for someone to say, “Much better,” Mr. Lorry said it; perhaps not entirely selflessly, but with the self-serving goal of squeezing his way back into the group.",
+    "ko": "누군가는 분명히 “훨씬 낫지요”라고 말해 주어야 할 상황이었기에 로리 씨가 그렇게 말했다. 어쩌면 전적으로 사심이 없어서라기보다는, 다시 무리 속으로 비집고 들어가려는 사리사욕 때문이었을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 24
+  },
+  {
+    "id": 16,
+    "tag": "P010_1",
+    "en": "“You think so?” said Mr. Stryver. “Well! You have been here all day, and you ought to know.",
+    "ko": "“그렇게 생각하십니까?” 스트라이버 씨가 말했다. “허! 하루 종일 여기 계셨으니 잘 아시겠지요.",
+    "is_header": false,
+    "raw_ref_id": 26
+  },
+  {
+    "id": 17,
+    "tag": "P010_3",
+    "en": "You are a businessman, too.\"",
+    "ko": "당신도 사업가이시니까요.\"",
+    "is_header": false,
+    "raw_ref_id": 28
+  },
+  {
+    "id": 18,
+    "tag": "P011_1",
+    "en": "“And as such,” said Mr. Lorry, whom the learned lawyer had now shoved back into the group just as he had previously shoved him out of it, “as such, I appeal to Doctor Manette to bring this gathering to an end and send us all home.",
+    "ko": "“그런 사람으로서,” 법률에 밝은 변호사가 아까 자신을 밀쳐냈던 것처럼 이번에는 다시 무리 안으로 밀어 넣어 준 로리 씨가 말했다. “그런 사람으로서 마네트 박사님께 청하건대, 이 자리를 파하고 우리 모두 집으로 돌아가도록 명해 주십시오.",
+    "is_header": false,
+    "raw_ref_id": 29
+  },
+  {
+    "id": 19,
+    "tag": "P011_3",
+    "en": "Miss Lucie looks unwell, Mr. Darnay has had an awful day, and we are completely exhausted.”",
+    "ko": "루시 양은 안색이 안 좋고, 다네이 씨는 끔찍한 하루를 보냈으며, 우리 모두 녹초가 되었습니다.”",
+    "is_header": false,
+    "raw_ref_id": 31
+  },
+  {
+    "id": 20,
+    "tag": "P012_1",
+    "en": "“Speak for yourself, Mr. Lorry,” said Stryver. “I still have a night's work to do.",
+    "ko": "“당신 사정이나 말씀하시지요, 로리 씨.” 스트라이버가 말했다. “난 아직 오늘 밤 처리해야 할 일이 있소.",
+    "is_header": false,
+    "raw_ref_id": 33
+  },
+  {
+    "id": 21,
+    "tag": "P012_3",
+    "en": "\"I still have a whole night's work ahead of me.\"",
+    "ko": "\"저는 아직 밤새 해야 할 일이 남아 있습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 35
+  },
+  {
+    "id": 22,
+    "tag": "P013_1",
+    "en": "“I speak for myself,” answered Mr. Lorry, “and for Mr.",
+    "ko": "“제 자신을 위해서도 말하지만,” 로리 씨가 대답했다. “다네이 씨를",
+    "is_header": false,
+    "raw_ref_id": 36
+  },
+  {
+    "id": 23,
+    "tag": "P014_1",
+    "en": "Doctor Manette's face had frozen into a strange look as he stared at Darnay. It was an intense look that deepened into a frown of dislike and distrust, mixed with a hint of fear.",
+    "ko": "다네이를 응시하는 마네트 박사의 얼굴은 이상한 표정으로 굳어 있었다. 그것은 약간의 두려움이 섞인 강렬한 시선이었고, 싫어함과 불신의 찡그림으로 깊어졌다.",
+    "is_header": false,
+    "raw_ref_id": 39
+  },
+  {
+    "id": 24,
+    "tag": "P014_2",
+    "en": "With this strange expression on his face, his mind seemed to wander far away.",
+    "ko": "이런 이상한 표정을 얼굴에 띠고, 그의 마음은 아주 멀리 방황하는 듯했다.",
+    "is_header": false,
+    "raw_ref_id": 40
+  },
+  {
+    "id": 25,
+    "tag": "P015",
+    "en": "\"Father,\" Lucie said softly, laying her hand on his arm.",
+    "ko": "\"아버지,\" 루시가 그의 팔에 손을 얹으며 부드럽게 말했다.",
+    "is_header": false,
+    "raw_ref_id": 41
+  },
+  {
+    "id": 26,
+    "tag": "P016",
+    "en": "He slowly shook off the dark mood and turned to her.",
+    "ko": "그는 천천히 어두운 기분을 떨쳐내고 그녀에게 몸을 돌렸다.",
+    "is_header": false,
+    "raw_ref_id": 42
+  },
+  {
+    "id": 27,
+    "tag": "P017",
+    "en": "\"Shall we go home, father?\"",
+    "ko": "\"우리 집에 갈까요, 아버지?\"",
+    "is_header": false,
+    "raw_ref_id": 43
+  },
+  {
+    "id": 28,
+    "tag": "P018",
+    "en": "Taking a deep breath, he answered, \"Yes.\"",
+    "ko": "깊은숨을 쉬고, 그는 대답했다. \"그래.\"",
+    "is_header": false,
+    "raw_ref_id": 44
+  },
+  {
+    "id": 29,
+    "tag": "P019_1",
+    "en": "The friends of the acquitted prisoner had already left, believing Darnay would not be released until the next morning.",
+    "ko": "무죄 판결을 받은 죄수의 친구들은 다네이가 다음날 아침까지 풀려나지 않을 것이라 믿고 이미 떠난 상태였다.",
+    "is_header": false,
+    "raw_ref_id": 45
+  },
+  {
+    "id": 30,
+    "tag": "P019_2",
+    "en": "Most of the lights in the hallways were turned off. The iron gates were closing with a loud rattle. The gloomy courthouse was deserted. It would remain empty until the next day's crowd arrived for more hangings, whippings, and brandings.",
+    "ko": "복도의 조명은 대부분 꺼져 있었다. 철문들이 요란한 소리를 내며 닫히고 있었다. 어두침침한 법정은 인적이 끊겼다. 다음 날 더 많은 교수형, 채찍질, 낙형을 보기 위해 군중이 도착할 때까지 그곳은 텅 비어 있을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 46
+  },
+  {
+    "id": 31,
+    "tag": "P019_3",
+    "en": "Walking between her father and Mr. Darnay, Lucie Manette stepped out into the open air.",
+    "ko": "아버지와 다네이 씨 사이에서 걸으며 루시 마네트는 바깥공기를 쐬러 밖으로 나갔다.",
+    "is_header": false,
+    "raw_ref_id": 47
+  },
+  {
+    "id": 32,
+    "tag": "P019_5",
+    "en": "A carriage was called, and the father and daughter drove away.",
+    "ko": "마차가 불렸고, 아버지와 딸은 떠났다.",
+    "is_header": false,
+    "raw_ref_id": 49
+  },
+  {
+    "id": 33,
+    "tag": "P020_1",
+    "en": "Mr. Stryver had left them in the corridors to shove his way back to the dressing room.",
+    "ko": "스트라이버 씨는 탈의실로 돌아가기 위해 복도에서 사람들을 헤치며 그들과 헤어졌다.",
+    "is_header": false,
+    "raw_ref_id": 50
+  },
+  {
+    "id": 34,
+    "tag": "P020_3",
+    "en": "Another person, who had not joined the group or spoken to anyone, had been leaning against the wall in the darkest shadow. He quietly walked out after them and watched until the carriage drove off.",
+    "ko": "그 무리에 끼지도 않고 누구에게도 말을 걸지 않았던 다른 한 사람이 가장 짙은 그림자 속 벽에 기대어 있었다. 그는 조용히 그들의 뒤를 따라나와 마차가 떠날 때까지 지켜보았다.",
+    "is_header": false,
+    "raw_ref_id": 52
+  },
+  {
+    "id": 35,
+    "tag": "P020_4",
+    "en": "He now walked up to where Mr. Lorry and Mr.",
+    "ko": "그는 이제 로리 씨와 미스터",
+    "is_header": false,
+    "raw_ref_id": 53
+  },
+  {
+    "id": 36,
+    "tag": "P021_1",
+    "en": "“So, Mr. Lorry!",
+    "ko": "“자, 로리 씨!",
+    "is_header": false,
+    "raw_ref_id": 56
+  },
+  {
+    "id": 37,
+    "tag": "P021_3",
+    "en": "\"May men of business speak to Mr. Darnay now?\"",
+    "ko": "\"이제 사업하는 사람들도 다네이 씨와 이야기해도 됩니까?\"",
+    "is_header": false,
+    "raw_ref_id": 58
+  },
+  {
+    "id": 38,
+    "tag": "P022_1",
+    "en": "No one had acknowledged Mr. Carton's role in the day's proceedings; no one had even known about it.",
+    "ko": "그날 재판에서 칼턴 씨가 한 역할에 대해 아무도 감사를 표하지 않았고, 아무도 그것을 알지 못했다.",
+    "is_header": false,
+    "raw_ref_id": 60
+  },
+  {
+    "id": 39,
+    "tag": "P022_3",
+    "en": "He had taken off his lawyer's robes and looked no better for it.",
+    "ko": "그는 법복을 벗었지만, 그로 인해 결코 더 나아 보이지는 않았다.",
+    "is_header": false,
+    "raw_ref_id": 62
+  },
+  {
+    "id": 40,
+    "tag": "P023_1",
+    "en": "\"If you knew what a struggle goes on in a businessman's mind, when it's divided between good-natured impulse and professional appearances, you would be amused, Mr. Darnay.\"",
+    "ko": "\"선량한 충동과 사업상의 체면 사이에서 갈등할 때 사업가의 마음속에서 어떤 충돌이 일어나는지 아신다면 재미있어하실 겁니다, 다네이 씨.\"",
+    "is_header": false,
+    "raw_ref_id": 63
+  },
+  {
+    "id": 41,
+    "tag": "P024_1",
+    "en": "Mr. Lorry blushed and said heatedly, \"You have mentioned that before, sir.",
+    "ko": "로리 씨는 얼굴을 붉히며 발끈해서 말했다. \"그 말씀은 전에도 하셨잖습니까, 선생.",
+    "is_header": false,
+    "raw_ref_id": 65
+  },
+  {
+    "id": 42,
+    "tag": "P024_3",
+    "en": "We businessmen who serve a firm are not our own masters.",
+    "ko": "회사를 섬기는 우리 사업가들은 우리 자신의 주인이 아닙니다.",
+    "is_header": false,
+    "raw_ref_id": 67
+  },
+  {
+    "id": 43,
+    "tag": "P024_4",
+    "en": "We must think of the bank's reputation before ourselves.\"",
+    "ko": "우리는 우리 자신보다 은행의 평판을 먼저 생각해야 합니다.\"",
+    "is_header": false,
+    "raw_ref_id": 68
+  },
+  {
+    "id": 44,
+    "tag": "P025_1",
+    "en": "\"*I* know, *I* know,\" replied Mr. Carton carelessly. \"Don't be irritated, Mr.",
+    "ko": "\"*저도* 압니다, *저도* 알아요.\" 칼턴 씨가 무심하게 대꾸했다. \"너무 언짢아하지 마십시오, 로리...",
+    "is_header": false,
+    "raw_ref_id": 69
+  },
+  {
+    "id": 45,
+    "tag": "P025_4",
+    "en": "I'm sure you are as good as anyone else, probably better.\"",
+    "ko": "선생님은 틀림없이 다른 누구 못지않게 훌륭하시고, 아마 더 나으실 겁니다.\"",
+    "is_header": false,
+    "raw_ref_id": 72
+  },
+  {
+    "id": 46,
+    "tag": "P026_1",
+    "en": "\"And indeed, sir,\" continued Mr. Lorry, ignoring him, \"I really don't know what you have to do with this matter.",
+    "ko": "\"그리고 정말이지 선생,\" 로리 씨는 그를 무시한 채 말을 이었다. \"이 일에 선생께서 무슨 상관이 있는지 참 모르겠군요.",
+    "is_header": false,
+    "raw_ref_id": 73
+  },
+  {
+    "id": 47,
+    "tag": "P026_3",
+    "en": "If you will excuse me for saying so, since I am much older than you, I don't think it is any of your business.\"",
+    "ko": "제가 선생님보다 훨씬 나이가 많기 때문에 이런 말씀을 드리는 것을 용서하신다면, 저는 이것이 선생님이 참견할 일이 아니라고 생각합니다.\"",
+    "is_header": false,
+    "raw_ref_id": 75
+  },
+  {
+    "id": 48,
+    "tag": "P027_1",
+    "en": "\"Business!",
+    "ko": "\"참견할 일이라뇨!",
+    "is_header": false,
+    "raw_ref_id": 76
+  },
+  {
+    "id": 49,
+    "tag": "P027_2",
+    "en": "Bless you, *I* have no business,\" said Mr. Carton.",
+    "ko": "천만에요, *제겐* 사업 같은 건 없습니다.\" 칼턴 씨가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 77
+  },
+  {
+    "id": 50,
+    "tag": "P028",
+    "en": "\"It is a pity you don't, sir.\"",
+    "ko": "\"선생님이 그렇지 않다니 유감이군요.\"",
+    "is_header": false,
+    "raw_ref_id": 79
+  },
+  {
+    "id": 51,
+    "tag": "P029",
+    "en": "\"I think so, too.\"",
+    "ko": "\"저도 그렇게 생각합니다.\"",
+    "is_header": false,
+    "raw_ref_id": 80
+  },
+  {
+    "id": 52,
+    "tag": "P030_1",
+    "en": "\"If you did,\" Mr. Lorry continued, \"perhaps you would attend to it.\"",
+    "ko": "\"만약 있다면,\" 로리 씨가 말을 이었다. \"아마 그 일에 신경을 쓰시겠지요.\"",
+    "is_header": false,
+    "raw_ref_id": 81
+  },
+  {
+    "id": 53,
+    "tag": "P031_1",
+    "en": "\"Lord love you, no!—I wouldn't,\" said Mr. Carton.",
+    "ko": "\"천만의 말씀입니다, 아니요!—전 그러지 않을 겁니다.\" 칼턴 씨가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 83
+  },
+  {
+    "id": 54,
+    "tag": "P032_1",
+    "en": "\"Well, sir!\" cried Mr. Lorry, thoroughly worked up by his indifference, \"business is a very good thing, and a very respectable thing.",
+    "ko": "\"허, 선생!\" 그의 무관심에 잔뜩 약이 오른 로리 씨가 외쳤다. \"사업이란 대단히 훌륭한 것이고, 매우 존경할 만한 일입니다.",
+    "is_header": false,
+    "raw_ref_id": 85
+  },
+  {
+    "id": 55,
+    "tag": "P032_3",
+    "en": "And, sir, if business imposes restraints, silences, and impediments, Mr. Darnay, as a generous young gentleman, knows how to make allowances for those circumstances.",
+    "ko": "그리고 선생, 설령 사업 때문에 행동을 삼가고 입을 다물며 제약을 받게 되더라도, 관대한 젊은 신사인 다네이 씨는 그러한 사정을 충분히 너그럽게 헤아려 주실 줄 압니다.",
+    "is_header": false,
+    "raw_ref_id": 87
+  },
+  {
+    "id": 56,
+    "tag": "P032_5",
+    "en": "Mr. Darnay, good night, and God bless you, sir!",
+    "ko": "다네이 씨, 편안한 밤 되십시오. 신의 축복이 함께하길 빕니다, 선생!",
+    "is_header": false,
+    "raw_ref_id": 89
+  },
+  {
+    "id": 57,
+    "tag": "P032_7",
+    "en": "I hope you have been saved today for a long and happy life. Carriage, over here!\"",
+    "ko": "길고 행복한 삶을 위해 오늘 살아남으셨기를 바랍니다. 마차, 이쪽으로!\"",
+    "is_header": false,
+    "raw_ref_id": 91
+  },
+  {
+    "id": 58,
+    "tag": "P033_1",
+    "en": "Perhaps a little angry with himself as well as with the barrister, Mr. Lorry bustled into the sedan chair and was carried off to Tellson's.",
+    "ko": "변호사뿐만 아니라 스스로에게도 조금 화가 난 듯, 로리 씨는 서둘러 가마에 올라타 텔슨 은행으로 떠났다.",
+    "is_header": false,
+    "raw_ref_id": 92
+  },
+  {
+    "id": 59,
+    "tag": "P033_3",
+    "en": "Carton, who smelled of port wine and did not seem entirely sober, laughed and turned to Darnay.",
+    "ko": "포트와인 냄새를 풍기며 완전히 술이 깨지 않은 듯한 카턴은 웃으며 다네이를 돌아보았다.",
+    "is_header": false,
+    "raw_ref_id": 94
+  },
+  {
+    "id": 60,
+    "tag": "P034_1",
+    "en": "\"This is a strange twist of fate that brings us together.",
+    "ko": "\"우리를 함께하게 한 건 기묘한 운명의 장난이군요.",
+    "is_header": false,
+    "raw_ref_id": 95
+  },
+  {
+    "id": 61,
+    "tag": "P034_2",
+    "en": "It must be a strange night for you, standing alone on the street with your double.\"",
+    "ko": "거리에서 당신과 똑같이 생긴 사람과 단둘이 서 있으니 기이한 밤이 분명할 겁니다.\"",
+    "is_header": false,
+    "raw_ref_id": 96
+  },
+  {
+    "id": 62,
+    "tag": "P035",
+    "en": "\"I hardly feel like I belong to this world yet,\" Charles Darnay replied.",
+    "ko": "\"저는 아직 제가 이 세상에 속해 있는 것 같지가 않습니다.\" 찰스 다네이가 대답했다.",
+    "is_header": false,
+    "raw_ref_id": 97
+  },
+  {
+    "id": 63,
+    "tag": "P036_1",
+    "en": "\"I don't wonder. It wasn't long ago that you were on your way to the next world.",
+    "ko": "\"놀랍지 않네요. 당신이 저세상으로 가고 있었던 게 얼마 전 일이 아니니까요.",
+    "is_header": false,
+    "raw_ref_id": 98
+  },
+  {
+    "id": 64,
+    "tag": "P036_2",
+    "en": "You speak very quietly.\"",
+    "ko": "아주 조용히 말씀하시는군요.\"",
+    "is_header": false,
+    "raw_ref_id": 99
+  },
+  {
+    "id": 65,
+    "tag": "P037",
+    "en": "\"I think I _am_ about to faint.\"",
+    "ko": "\"기절할 것만 _같습니다_.\"",
+    "is_header": false,
+    "raw_ref_id": 100
+  },
+  {
+    "id": 66,
+    "tag": "P038_1",
+    "en": "\"Then why the devil don't you eat?",
+    "ko": "\"그럼 도대체 왜 식사를 하지 않습니까?",
+    "is_header": false,
+    "raw_ref_id": 101
+  },
+  {
+    "id": 67,
+    "tag": "P038_2",
+    "en": "I dined while those fools were deciding whether you should live or die.",
+    "ko": "그 바보들이 당신을 살릴지 죽일지 결정하는 동안 저는 식사를 했습니다.",
+    "is_header": false,
+    "raw_ref_id": 102
+  },
+  {
+    "id": 68,
+    "tag": "P038_3",
+    "en": "Let me show you the nearest tavern where you can get a good meal.\"",
+    "ko": "좋은 식사를 할 수 있는 가장 가까운 술집을 알려드리지요.\"",
+    "is_header": false,
+    "raw_ref_id": 103
+  },
+  {
+    "id": 69,
+    "tag": "P039_1",
+    "en": "Taking Darnay's arm, Carton led him down Ludgate Hill to Fleet Street, and up a covered path into a tavern.",
+    "ko": "카턴은 다네이의 팔을 잡고 러드게이트 힐을 따라 플리트 스트리트로 내려가 지붕이 있는 길을 거쳐 한 술집으로 그를 이끌었다.",
+    "is_header": false,
+    "raw_ref_id": 104
+  },
+  {
+    "id": 70,
+    "tag": "P039_2",
+    "en": "They were shown into a small room, where Darnay began to regain his strength with a plain dinner and good wine. Carton sat opposite him at the table with his own bottle of port, maintaining his rude, half-insolent manner.",
+    "ko": "그들은 작은 방으로 안내되었고, 다네이는 소박한 저녁 식사와 좋은 와인으로 기운을 차리기 시작했다. 카턴은 테이블 맞은편에 자신만의 포트와인 한 병을 놓고 앉아 그의 무례하고 반쯤 건방진 태도를 유지했다.",
+    "is_header": false,
+    "raw_ref_id": 105
+  },
+  {
+    "id": 71,
+    "tag": "P040_1",
+    "en": "\"Do you feel yet that you belong to this earthly world again, Mr. Darnay?\"",
+    "ko": "\"이제 다시 이 세상에 속하게 된 느낌이 드십니까, 다네이 씨?\"",
+    "is_header": false,
+    "raw_ref_id": 106
+  },
+  {
+    "id": 72,
+    "tag": "P041",
+    "en": "\"I am terribly confused about the time and place, but I feel much better now.\"",
+    "ko": "\"시간과 장소에 대해서는 끔찍하게 혼란스럽지만, 지금은 기분이 훨씬 낫습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 108
+  },
+  {
+    "id": 73,
+    "tag": "P042_1",
+    "en": "\"That must be a wonderful feeling!\" Carton said bitterly, refilling his glass. \"As for me, my greatest wish is to forget that I belong to this world.",
+    "ko": "\"정말 멋진 기분이겠군요!\" 카턴은 잔을 다시 채우며 씁쓸하게 말했다. \"저로 말할 것 같으면, 제 가장 큰 소원은 제가 이 세상에 속해 있다는 사실을 잊는 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 109
+  },
+  {
+    "id": 74,
+    "tag": "P042_2",
+    "en": "There is nothing good in it for me except wine like this, and I do no good for it.",
+    "ko": "이런 와인을 빼면 세상에 저를 위한 좋은 것은 아무것도 없고, 저도 세상을 위해 좋은 일을 하지 않으니까요.",
+    "is_header": false,
+    "raw_ref_id": 110
+  },
+  {
+    "id": 75,
+    "tag": "P042_3",
+    "en": "So we are not very alike in that way.",
+    "ko": "그러니 그런 면에서 우리는 별로 닮지 않았군요.",
+    "is_header": false,
+    "raw_ref_id": 111
+  },
+  {
+    "id": 76,
+    "tag": "P042_4",
+    "en": "In fact, I'm beginning to think we aren't alike in any way, you and I.\"",
+    "ko": "사실, 당신과 나는 어떤 면에서도 닮지 않았다는 생각이 들기 시작하네요.\"",
+    "is_header": false,
+    "raw_ref_id": 112
+  },
+  {
+    "id": 77,
+    "tag": "P043",
+    "en": "Confused by the emotions of the day and feeling that sitting with this coarse double was like a dream, Charles Darnay did not know how to respond and remained silent.",
+    "ko": "그날의 감정들로 혼란스럽고 이 거친 분신과 함께 앉아 있는 것이 꿈처럼 느껴진 찰스 다네이는 어떻게 대답해야 할지 몰라 침묵을 지켰다.",
+    "is_header": false,
+    "raw_ref_id": 113
+  },
+  {
+    "id": 78,
+    "tag": "P044_1",
+    "en": "\"Now that your dinner is finished,\" Carton said shortly after, \"why don't you propose a toast, Mr. Darnay; why don't you drink to someone's health?\"",
+    "ko": "\"식사가 끝났으니,\" 잠시 후 칼턴이 말했다. \"건배를 제의해 보시죠, 다네이 씨. 축배를 들지 않겠습니까?\"",
+    "is_header": false,
+    "raw_ref_id": 114
+  },
+  {
+    "id": 79,
+    "tag": "P045",
+    "en": "\"What toast?\"",
+    "ko": "\"누구를 위해 건배할까요?\"",
+    "is_header": false,
+    "raw_ref_id": 116
+  },
+  {
+    "id": 80,
+    "tag": "P046_1",
+    "en": "\"It's on the tip of your tongue.",
+    "ko": "\"입가에 맴돌고 있을 텐데요.",
+    "is_header": false,
+    "raw_ref_id": 117
+  },
+  {
+    "id": 81,
+    "tag": "P046_2",
+    "en": "\"It should be there, it must be there, I'd swear it is right there.\"",
+    "ko": "당연히 있겠죠, 틀림없이 있을 겁니다, 거기 있다고 맹세하죠.\"",
+    "is_header": false,
+    "raw_ref_id": 118
+  },
+  {
+    "id": 82,
+    "tag": "P047",
+    "en": "\"Miss Manette, then!\" said Darnay.",
+    "ko": "\"그럼 마네트 양을 위해!\" 다네이가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 119
+  },
+  {
+    "id": 83,
+    "tag": "P048",
+    "en": "\"Miss Manette, then!\" Carton repeated.",
+    "ko": "\"그럼 마네트 양을 위해!\" 카턴이 따라 말했다.",
+    "is_header": false,
+    "raw_ref_id": 120
+  },
+  {
+    "id": 84,
+    "tag": "P049",
+    "en": "Looking Darnay straight in the face as he drank, Carton threw his empty glass over his shoulder against the wall, shattering it to pieces. Then he rang the bell and ordered another.",
+    "ko": "마시면서 다네이의 얼굴을 똑바로 쳐다본 카턴은 빈 잔을 어깨너머로 벽에 던져 산산조각을 냈다. 그러고는 종을 울려 한 잔을 더 주문했다.",
+    "is_header": false,
+    "raw_ref_id": 121
+  },
+  {
+    "id": 85,
+    "tag": "P050_1",
+    "en": "\"That's a beautiful young lady to escort to a carriage in the dark, Mr. Darnay!\" he said, filling his new goblet.",
+    "ko": "\"어둠 속에서 마차까지 바래다주기엔 참으로 아름다운 아가씨더군요, 다네이 씨!\" 그가 새 잔에 술을 채우며 말했다.",
+    "is_header": false,
+    "raw_ref_id": 122
+  },
+  {
+    "id": 86,
+    "tag": "P051",
+    "en": "Darnay frowned slightly and answered with a quiet, \"Yes.\"",
+    "ko": "다네이는 살짝 얼굴을 찌푸리며 조용하게 대답했다, \"그렇습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 124
+  },
+  {
+    "id": 87,
+    "tag": "P052_1",
+    "en": "\"She is a beautiful young lady to be pitied and wept for!",
+    "ko": "\"가엾게 여기며 눈물 흘려주기에도 아름다운 아가씨죠!",
+    "is_header": false,
+    "raw_ref_id": 125
+  },
+  {
+    "id": 88,
+    "tag": "P052_2",
+    "en": "How does it feel?",
+    "ko": "기분이 어떻습니까?",
+    "is_header": false,
+    "raw_ref_id": 126
+  },
+  {
+    "id": 89,
+    "tag": "P052_3",
+    "en": "Is it worth being put on trial for your life to receive such sympathy and compassion, Mr. Darnay?\"",
+    "ko": "그런 동정과 연민의 대상이 될 수 있다면, 목숨을 걸고 재판을 받을 만한 가치가 있지 않습니까, 다네이 씨?\"",
+    "is_header": false,
+    "raw_ref_id": 127
+  },
+  {
+    "id": 90,
+    "tag": "P053",
+    "en": "Again, Darnay did not answer.",
+    "ko": "다시 한번 다네이는 대답하지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 129
+  },
+  {
+    "id": 91,
+    "tag": "P054_1",
+    "en": "\"She was very pleased to receive your message when I gave it to her.",
+    "ko": "\"제가 전해드렸을 때 그 아가씨는 당신의 메시지를 받고 무척 기뻐하셨습니다.",
+    "is_header": false,
+    "raw_ref_id": 130
+  },
+  {
+    "id": 92,
+    "tag": "P054_2",
+    "en": "Not that she showed it, but I assume she was.\"",
+    "ko": "티를 내지는 않았지만 그랬을 거로 생각합니다.\"",
+    "is_header": false,
+    "raw_ref_id": 131
+  },
+  {
+    "id": 93,
+    "tag": "P055_1",
+    "en": "This reminded Darnay that, despite his unpleasant attitude, Carton had voluntarily helped save him that day.",
+    "ko": "이는 다네이에게 카턴이 불쾌한 태도에도 불구하고 그날 자발적으로 그를 구하는 데 도움을 주었음을 상기시켰다.",
+    "is_header": false,
+    "raw_ref_id": 132
+  },
+  {
+    "id": 94,
+    "tag": "P055_2",
+    "en": "Darnay changed the subject to thank him.",
+    "ko": "다네이는 그에게 감사 인사를 하기 위해 화제를 바꿨다.",
+    "is_header": false,
+    "raw_ref_id": 133
+  },
+  {
+    "id": 95,
+    "tag": "P056_1",
+    "en": "\"I don't want any thanks, and I don't deserve any,\" Carton replied carelessly. \"It was nothing to do in the first place, and I don't know why I did it in the second.",
+    "ko": "\"감사는 받고 싶지 않고, 받을 자격도 없습니다.\" 카턴이 무심하게 대답했다. \"애초에 할 만한 일도 아니었고, 두 번째로는 내가 왜 그랬는지 나도 모르겠으니까요.",
+    "is_header": false,
+    "raw_ref_id": 134
+  },
+  {
+    "id": 96,
+    "tag": "P056_2",
+    "en": "Mr. Darnay, let me ask you a question.\"",
+    "ko": "다네이 씨, 질문 하나만 드려도 되겠습니까?\"",
+    "is_header": false,
+    "raw_ref_id": 135
+  },
+  {
+    "id": 97,
+    "tag": "P057",
+    "en": "\"Gladly. It's a small way to repay you for your help.\"",
+    "ko": "\"기꺼이요. 당신의 도움에 보답하는 작은 방법이니까요.\"",
+    "is_header": false,
+    "raw_ref_id": 137
+  },
+  {
+    "id": 98,
+    "tag": "P058",
+    "en": "\"Do you think I like you?\"",
+    "ko": "\"당신은 내가 당신을 좋아한다고 생각합니까?\"",
+    "is_header": false,
+    "raw_ref_id": 138
+  },
+  {
+    "id": 99,
+    "tag": "P059_1",
+    "en": "\"Really, Mr. Carton,\" replied the other, strangely disconcerted, \"I haven't asked myself that question.\"",
+    "ko": "\"글쎄요, 칼턴 씨,\" 상대방은 묘하게 당황하며 대답했다. \"스스로에게 그런 질문을 던져본 적이 없습니다만.\"",
+    "is_header": false,
+    "raw_ref_id": 139
+  },
+  {
+    "id": 100,
+    "tag": "P060",
+    "en": "\"Well, ask yourself now.\"",
+    "ko": "\"그럼 지금 스스로에게 물어보세요.\"",
+    "is_header": false,
+    "raw_ref_id": 141
+  },
+  {
+    "id": 101,
+    "tag": "P061",
+    "en": "\"You have acted as if you do, but I don't think you actually do.\"",
+    "ko": "\"당신은 마치 그런 것처럼 행동했지만, 당신이 실제로 그렇다고는 생각하지 않습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 142
+  },
+  {
+    "id": 102,
+    "tag": "P062",
+    "en": "\"_I_ don't think I do either,\" said Carton. \"I'm beginning to have a high opinion of your intelligence.\"",
+    "ko": "\"_나도_ 그렇다고 생각하지 않습니다,\" 카턴이 말했다. \"당신의 지능을 높이 평가하기 시작했습니다.\"",
+    "is_header": false,
+    "raw_ref_id": 143
+  },
+  {
+    "id": 103,
+    "tag": "P063",
+    "en": "\"Even so,\" said Darnay, rising to ring for the bill, \"I hope that won't prevent me from paying for the dinner and parting as friends.\"",
+    "ko": "\"그렇다 하더라도,\" 다네이는 계산서를 요구하기 위해 종을 울리려고 일어서며 말했다. \"그게 내가 저녁값을 지불하고 친구로서 헤어지는 것을 막지 않기를 바랍니다.\"",
+    "is_header": false,
+    "raw_ref_id": 144
+  },
+  {
+    "id": 104,
+    "tag": "P064_1",
+    "en": "Carton agreed, saying, \"Not at all.\" Darnay paid the bill. \"Are you paying for the whole thing?\" Carton asked.",
+    "ko": "카턴은 \"전혀 그렇지 않죠.\"라고 말하며 동의했다. 다네이가 계산을 했다. \"당신이 전부 지불하는 겁니까?\" 카턴이 물었다.",
+    "is_header": false,
+    "raw_ref_id": 145
+  },
+  {
+    "id": 105,
+    "tag": "P064_2",
+    "en": "When Darnay said yes, Carton called to the waiter, \"Bring me another pint of this wine, and wake me up at ten o'clock.\"",
+    "ko": "다네이가 그렇다고 하자, 카턴은 웨이터를 불러 말했다. \"이 와인 한 파인트 더 가져다주고, 10시에 날 깨워주게.\"",
+    "is_header": false,
+    "raw_ref_id": 146
+  },
+  {
+    "id": 106,
+    "tag": "P065_1",
+    "en": "With the bill paid, Charles Darnay rose and wished him good night.",
+    "ko": "계산을 마친 후, 찰스 다네이는 일어나서 그에게 안녕히 주무시라고 인사했다.",
+    "is_header": false,
+    "raw_ref_id": 147
+  },
+  {
+    "id": 107,
+    "tag": "P065_2",
+    "en": "Without returning the good wishes, Carton stood up as well, with a hint of defiant threat in his manner, and said, \"One last word, Mr. Darnay: do you think I'm drunk?\"",
+    "ko": "작별 인사를 받아주지도 않은 채 칼턴 역시 다소 위협적이고 반항적인 태도로 일어서며 말했다. \"마지막으로 한 마디만 묻지요, 다네이 씨. 내가 취했다고 생각합니까?\"",
+    "is_header": false,
+    "raw_ref_id": 148
+  },
+  {
+    "id": 108,
+    "tag": "P066_1",
+    "en": "\"I think you have been drinking, Mr. Carton.\"",
+    "ko": "\"술을 좀 드신 것 같군요, 칼턴 씨.\"",
+    "is_header": false,
+    "raw_ref_id": 150
+  },
+  {
+    "id": 109,
+    "tag": "P067_1",
+    "en": "\"Think?",
+    "ko": "\"생각해?",
+    "is_header": false,
+    "raw_ref_id": 152
+  },
+  {
+    "id": 110,
+    "tag": "P067_2",
+    "en": "You know I have.\"",
+    "ko": "내가 마신 거 알고 있잖아요.\"",
+    "is_header": false,
+    "raw_ref_id": 153
+  },
+  {
+    "id": 111,
+    "tag": "P068",
+    "en": "\"Since you insist, yes, I know it.\"",
+    "ko": "\"당신이 고집하니, 네, 저도 압니다.\"",
+    "is_header": false,
+    "raw_ref_id": 154
+  },
+  {
+    "id": 112,
+    "tag": "P069_1",
+    "en": "\"Then you should also know why.",
+    "ko": "\"그렇다면 왜 그런지도 알아야지.",
+    "is_header": false,
+    "raw_ref_id": 155
+  },
+  {
+    "id": 113,
+    "tag": "P069_2",
+    "en": "I am a disappointed, hard-working drudge, sir.",
+    "ko": "나는 실망하고, 열심히 일하는 노예라오, 선생님.",
+    "is_header": false,
+    "raw_ref_id": 156
+  },
+  {
+    "id": 114,
+    "tag": "P069_3",
+    "en": "I care for no one on earth, and no one on earth cares for me.\"",
+    "ko": "나는 세상 그 누구에게도 관심이 없고, 세상 그 누구도 나에게 관심이 없지.\"",
+    "is_header": false,
+    "raw_ref_id": 157
+  },
+  {
+    "id": 115,
+    "tag": "P070_1",
+    "en": "\"That is very regrettable.",
+    "ko": "\"그건 참 유감이군요.",
+    "is_header": false,
+    "raw_ref_id": 158
+  },
+  {
+    "id": 116,
+    "tag": "P070_2",
+    "en": "You could have used your talents better.\"",
+    "ko": "당신은 당신의 재능을 더 잘 사용할 수도 있었을 텐데요.\"",
+    "is_header": false,
+    "raw_ref_id": 159
+  },
+  {
+    "id": 117,
+    "tag": "P071_1",
+    "en": "\"Maybe so, Mr. Darnay; maybe not.",
+    "ko": "\"그럴 수도 있고, 아닐 수도 있지요, 다네이 씨.",
+    "is_header": false,
+    "raw_ref_id": 160
+  },
+  {
+    "id": 118,
+    "tag": "P071_3",
+    "en": "But don't let your sober face make you feel too proud; you don't know what you might become.",
+    "ko": "하지만 당신의 멀쩡한 얼굴 때문에 너무 교만해하지는 마쇼. 당신이 어떻게 될지 당신도 모르는 일이니.",
+    "is_header": false,
+    "raw_ref_id": 162
+  },
+  {
+    "id": 119,
+    "tag": "P071_4",
+    "en": "Good night!\"",
+    "ko": "안녕히!\"",
+    "is_header": false,
+    "raw_ref_id": 163
+  },
+  {
+    "id": 120,
+    "tag": "P072",
+    "en": "Left alone, Carton took a candle, went to a mirror on the wall, and studied his face closely.",
+    "ko": "홀로 남은 카턴은 촛불을 들고 벽에 있는 거울로 가서 자신의 얼굴을 자세히 살펴보았다.",
+    "is_header": false,
+    "raw_ref_id": 164
+  },
+  {
+    "id": 121,
+    "tag": "P073_1",
+    "en": "\"Do you like this man?\" he muttered to his own reflection.",
+    "ko": "\"너는 이 사람을 좋아하느냐?\" 그는 거울에 비친 자신에게 중얼거렸다.",
+    "is_header": false,
+    "raw_ref_id": 165
+  },
+  {
+    "id": 122,
+    "tag": "P073_2",
+    "en": "\"Why should you like a man who looks like you?",
+    "ko": "\"왜 너는 너처럼 생긴 사람을 좋아해야 하지?",
+    "is_header": false,
+    "raw_ref_id": 166
+  },
+  {
+    "id": 123,
+    "tag": "P073_3",
+    "en": "There is nothing in you to like, and you know it.",
+    "ko": "너한테는 좋아하는 구석이 아무것도 없고, 네가 그걸 알고 있잖아.",
+    "is_header": false,
+    "raw_ref_id": 167
+  },
+  {
+    "id": 124,
+    "tag": "P073_4",
+    "en": "Look at how much you've changed yourself!",
+    "ko": "네가 얼마나 많이 변했는지 좀 봐라!",
+    "is_header": false,
+    "raw_ref_id": 168
+  },
+  {
+    "id": 125,
+    "tag": "P073_5",
+    "en": "It's a great reason to like a man, when he shows you exactly what you've thrown away and the person you could have become!",
+    "ko": "네가 버린 것과 네가 될 수도 있었을 사람을 정확히 보여주니, 누군가를 좋아하기에 참 훌륭한 이유구나!",
+    "is_header": false,
+    "raw_ref_id": 169
+  },
+  {
+    "id": 126,
+    "tag": "P073_6",
+    "en": "It's a fine reason to like a man because he shows you what you used to be and what you could have been!",
+    "ko": "누군가를 좋아하기에 참 좋은 이유지, 왜냐하면 그가 예전의 너와 네가 될 수 있었던 모습을 보여주니까!",
+    "is_header": false,
+    "raw_ref_id": 170
+  },
+  {
+    "id": 127,
+    "tag": "P073_7",
+    "en": "If you changed places with him, would those blue eyes look at you with such pity and love?",
+    "ko": "만약 네가 그와 자리를 바꾼다면, 그 푸른 눈이 그렇게 큰 연민과 사랑으로 너를 바라볼까?",
+    "is_header": false,
+    "raw_ref_id": 171
+  },
+  {
+    "id": 128,
+    "tag": "P073_8",
+    "en": "Let's be honest about it: you hate him.\"",
+    "ko": "솔직해지자, 넌 그를 미워하고 있어.",
+    "is_header": false,
+    "raw_ref_id": 172
+  },
+  {
+    "id": 129,
+    "tag": "P074",
+    "en": "He drank the rest of his wine in a few minutes to comfort himself. Then he fell asleep with his head on his arms. His hair was messy on the table. The candle melted down quietly beside him.",
+    "ko": "그는 스스로를 달래기 위해 남은 포도주를 단 몇 분 만에 다 마셔버렸다. 그러고는 팔에 머리를 기댄 채 잠이 들었다. 그의 머리카락은 탁자 위에 헝클어져 있었다. 양초는 그의 곁에서 조용히 녹아내렸다.",
+    "is_header": false,
+    "raw_ref_id": 173
+  }
+]

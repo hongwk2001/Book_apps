@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">A Tale of Two Cities: 두 도시 이야기</string>
+    <string name="app_name_en">A Tale of Two Cities</string>
+    <string name="app_name_ko">두 도시 이야기</string>
+    <string name="iap_product_id">com.tkprof.twocities.full</string>
+    <integer name="free_chapters">3</integer>
+    <integer name="total_chapters">45</integer>
+</resources>

@@ -9,6 +9,7 @@ import kotlinx.serialization.Serializable
 data class BilingualParagraph(
     val id: Int,
     val tag: String? = null,
+    val raw_ref_id: Int = 0,
     val en: String,
     val ko: String,
     val is_header: Boolean = false

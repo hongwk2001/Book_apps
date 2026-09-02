@@ -141,7 +141,7 @@ class ReaderViewModel(
     val speakingParagraphIndex: StateFlow<Int> = _speakingParagraphIndex
 
     // Settings States
-    val isEnFirst = MutableStateFlow(true) // Language Order
+    val languageOrder = MutableStateFlow(listOf(Language.EN, Language.KO))
     val showEn = MutableStateFlow(true)
     val showKo = MutableStateFlow(true)
     val readEn = MutableStateFlow(true)
@@ -222,7 +222,10 @@ class ReaderViewModel(
                     var idx = sentenceQueue.size - 1
                     while (idx >= 0) {
                         val s = sentenceQueue[idx]
-                        val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+                        val shouldRead = when (s.lang) {
+                            Language.EN -> readEn.value
+                            Language.KO -> readKo.value
+                        }
                         if (shouldRead) break
                         idx--
                     }
@@ -242,24 +245,21 @@ class ReaderViewModel(
         }
         val queue = mutableListOf<Sentence>()
         for (paragraph in chapter.paragraphs) {
+            val sentences = mapOf(
+                Language.EN to SentenceSplitter.split(paragraph.en, Language.EN, paragraph.id),
+                Language.KO to SentenceSplitter.split(paragraph.ko, Language.KO, paragraph.id)
+            )
             
-            val enSentences = SentenceSplitter.split(paragraph.en, Language.EN, paragraph.id)
-            val koSentences = SentenceSplitter.split(paragraph.ko, Language.KO, paragraph.id)
-            
-            if (isEnFirst.value) {
-                queue.addAll(enSentences)
-                queue.addAll(koSentences)
-            } else {
-                queue.addAll(koSentences)
-                queue.addAll(enSentences)
+            for (lang in languageOrder.value) {
+                sentences[lang]?.let { queue.addAll(it) }
             }
         }
         sentenceQueue = queue
     }
 
     /** Rebuild queue when Language Order changes */
-    fun updateLanguageOrder(enFirst: Boolean) {
-        isEnFirst.value = enFirst
+    fun updateLanguageOrder(order: List<Language>) {
+        languageOrder.value = order
         rebuildSentenceQueue(_currentChapter.value)
     }
 
@@ -319,18 +319,21 @@ class ReaderViewModel(
         var tempIndex = currentQueueIndex + 1
         while (tempIndex < sentenceQueue.size) {
             val s = sentenceQueue[tempIndex]
-            val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+            val shouldRead = when (s.lang) {
+                Language.EN -> readEn.value
+                Language.KO -> readKo.value
+            }
             if (shouldRead) break
             tempIndex++
         }
 
         if (tempIndex < sentenceQueue.size) {
             currentQueueIndex = tempIndex
-            playCurrentSequence(play = false)
+            playCurrentSequence(play = true)
         } else {
             val next = _currentChapterNumber.value + 1
             if (next <= _totalChapters.value) {
-                loadChapter(next, autoPlay = false, selectOnLoad = true)
+                loadChapter(next, autoPlay = true, selectOnLoad = false)
             } else {
                 _speakingSentenceId.value = null
             }
@@ -343,18 +346,21 @@ class ReaderViewModel(
         var tempIndex = currentQueueIndex - 1
         while (tempIndex >= 0) {
             val s = sentenceQueue[tempIndex]
-            val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+            val shouldRead = when (s.lang) {
+                Language.EN -> readEn.value
+                Language.KO -> readKo.value
+            }
             if (shouldRead) break
             tempIndex--
         }
 
         if (tempIndex >= 0) {
             currentQueueIndex = tempIndex
-            playCurrentSequence(play = false)
+            playCurrentSequence(play = true)
         } else {
             val prev = _currentChapterNumber.value - 1
             if (prev >= 1) {
-                loadChapter(prev, autoPlay = false, playFromEnd = true, selectOnLoad = true)
+                loadChapter(prev, autoPlay = true, playFromEnd = true, selectOnLoad = false)
             } else {
                 _speakingSentenceId.value = null
             }
@@ -390,7 +396,10 @@ class ReaderViewModel(
         if (!play) return
         
         // Check if we should read this language
-        val shouldRead = if (s.lang == Language.EN) readEn.value else readKo.value
+        val shouldRead = when (s.lang) {
+            Language.EN -> readEn.value
+            Language.KO -> readKo.value
+        }
         
         if (!shouldRead) {
             // Skip and go to next
@@ -405,10 +414,9 @@ class ReaderViewModel(
             playCurrentSequence()
         }
 
-        if (s.lang == Language.EN) {
-            ttsManager.speakEnglish(s.text, onDone)
-        } else {
-            ttsManager.speakKorean(s.text, onDone)
+        when (s.lang) {
+            Language.KO -> ttsManager.speakKorean(s.text, onDone)
+            else -> ttsManager.speakEnglish(s.text, onDone)
         }
     }
 

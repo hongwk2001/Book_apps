@@ -4,6 +4,7 @@ import android.content.Context
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
+import com.tkprof.shared.model.Language
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import java.util.Locale
@@ -25,13 +26,13 @@ class TtsManager(private val context: Context) {
     val englishVoices = MutableStateFlow<List<Voice>>(emptyList())
     val koreanVoices  = MutableStateFlow<List<Voice>>(emptyList())
 
-    var selectedEnglishVoice: Voice? = null
+        var selectedEnglishVoice: Voice? = null
     var selectedKoreanVoice: Voice? = null
     
-    var englishSpeed: Float = 1.0f
+        var englishSpeed: Float = 1.0f
     var koreanSpeed: Float = 0.9f
     
-    var englishPitch: Float = 1.0f
+        var englishPitch: Float = 1.0f
     var koreanPitch: Float = 1.0f
 
     fun init() {
@@ -52,16 +53,15 @@ class TtsManager(private val context: Context) {
     private fun loadVoices() {
         val all = tts?.voices ?: return
         
-        // Filter English voices to en-US if possible, otherwise any en
-        val enList = all.filter { it.locale.language == "en" && !it.isNetworkConnectionRequired }
-        val enUsList = enList.filter { it.locale.country == "US" }
-        englishVoices.value = (if (enUsList.isNotEmpty()) enUsList else enList).sortedBy { it.name }
+        // Include all English voices (US, UK, AU, etc.) so they sound different, including network voices
+        val enList = all.filter { it.locale.language == "en" }
+        englishVoices.value = enList.sortedBy { it.name }
         
         koreanVoices.value = all
-            .filter { it.locale.language == "ko" && !it.isNetworkConnectionRequired }
+            .filter { it.locale.language == "ko" }
             .sortedBy { it.name }
             
-        selectedEnglishVoice = englishVoices.value.firstOrNull()
+                selectedEnglishVoice = englishVoices.value.firstOrNull()
         selectedKoreanVoice  = koreanVoices.value.firstOrNull()
     }
 
@@ -97,11 +97,10 @@ class TtsManager(private val context: Context) {
         })
     }
 
-    fun speakSample(isEnglish: Boolean, bookTitle: String) {
-        if (isEnglish) {
-            speakEnglish("You are listening to $bookTitle. This voice is for English.")
-        } else {
-            speakKorean("${bookTitle}를 듣고 있습니다. 이 음성은 한국어입니다.")
+    fun speakSample(lang: Language, bookTitle: String) {
+        when (lang) {
+            Language.EN -> speakEnglish("You are listening to $bookTitle. This voice is for English.")
+            Language.KO -> speakKorean("${bookTitle}를 듣고 있습니다. 이 음성은 한국어입니다.")
         }
     }
 

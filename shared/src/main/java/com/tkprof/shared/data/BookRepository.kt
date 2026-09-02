@@ -12,6 +12,8 @@ import kotlinx.serialization.json.Json
 @Serializable
 private data class RawParagraph(
     val id: Int,
+    val tag: String? = null,
+    val raw: String = "",
     val en: String,
     val ko: String,
     val is_header: Boolean = false
@@ -34,12 +36,20 @@ class BookRepository(private val context: Context) {
     fun loadChapter(chapterNumber: Int): BilingualChapter? {
         val filename = "books/ch_%02d.json".format(chapterNumber)
         return try {
-            val raw = context.assets.open(filename).bufferedReader().readText()
-            val paragraphs = json.decodeFromString<List<RawParagraph>>(raw)
+            val rawText = context.assets.open(filename).bufferedReader().readText()
+            val paragraphs = json.decodeFromString<List<RawParagraph>>(rawText)
 
-            // First is_header paragraph (if any) provides the chapter title
-            val headerEn = paragraphs.firstOrNull { it.is_header }?.en ?: "Chapter $chapterNumber"
-            val headerKo = paragraphs.firstOrNull { it.is_header }?.ko ?: "제${chapterNumber}장"
+            val headerParagraphs = paragraphs.filter { it.is_header }
+            val headerEn = if (headerParagraphs.isNotEmpty()) {
+                headerParagraphs.joinToString(" - ") { it.en.takeIf { t -> t.isNotBlank() } ?: it.raw }.trim(' ', '-')
+            } else {
+                "Chapter $chapterNumber"
+            }
+            val headerKo = if (headerParagraphs.any { it.ko.isNotBlank() }) {
+                headerParagraphs.mapNotNull { it.ko.takeIf { k -> k.isNotBlank() } }.joinToString(" - ")
+            } else {
+                "제${chapterNumber}장"
+            }
 
             BilingualChapter(
                 chapterNumber = chapterNumber,
@@ -48,6 +58,7 @@ class BookRepository(private val context: Context) {
                 paragraphs = paragraphs.map {
                     BilingualParagraph(
                         id = it.id,
+                        tag = it.tag,
                         en = it.en,
                         ko = it.ko,
                         is_header = it.is_header
@@ -76,13 +87,23 @@ class BookRepository(private val context: Context) {
         for (i in 1..count) {
             val filename = "books/ch_%02d.json".format(i)
             try {
-                val raw = context.assets.open(filename).bufferedReader().readText()
-                val paragraphs = json.decodeFromString<List<RawParagraph>>(raw)
-                val candidateEn = paragraphs.firstOrNull { it.is_header }?.en
-                val candidateKo = paragraphs.firstOrNull { it.is_header }?.ko
+                val rawText = context.assets.open(filename).bufferedReader().readText()
+                val paragraphs = json.decodeFromString<List<RawParagraph>>(rawText)
                 
-                val headerEn = if (candidateEn != null && candidateEn.length <= 50) candidateEn else "Chapter $i"
-                val headerKo = if (candidateKo != null && candidateKo.length <= 50) candidateKo else "제${i}장"
+                val headerParagraphs = paragraphs.takeWhile { it.is_header }
+                val headerEn = if (headerParagraphs.isNotEmpty()) {
+                    val candidateEn = headerParagraphs.joinToString(" - ") { it.en.takeIf { t -> t.isNotBlank() } ?: it.raw }.trim(' ', '-')
+                    if (candidateEn.length <= 150) candidateEn else "Chapter $i"
+                } else {
+                    "Chapter $i"
+                }
+                
+                val headerKo = if (headerParagraphs.any { it.ko.isNotBlank() }) {
+                    val candidateKo = headerParagraphs.mapNotNull { it.ko.takeIf { k -> k.isNotBlank() } }.joinToString(" - ")
+                    if (candidateKo.length <= 150) candidateKo else "제${i}장"
+                } else {
+                    "제${i}장"
+                }
                 
                 titles.add(com.tkprof.shared.model.ChapterTitle(headerEn, headerKo))
             } catch (e: Exception) {

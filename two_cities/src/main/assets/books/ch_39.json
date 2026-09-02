@@ -1,0 +1,2074 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "[Chapter 9]",
+    "ko": "",
+    "is_header": true,
+    "raw_ref_id": 1
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "en": "While Sydney Carton and the Sheep of the prisons were in the adjoining dark room, speaking so quietly that not a sound was heard, Mr. Lorry looked at Jerry with considerable doubt and mistrust.",
+    "ko": "시드니 카턴과 감옥의 양(밀고자)이 옆의 어두운 방에서 소리가 전혀 들리지 않을 만큼 나지막하게 이야기를 나누는 동안, 로리 씨는 상당한 의심과 불신 어린 눈길로 제리를 바라보았다.",
+    "is_header": false,
+    "raw_ref_id": 2
+  },
+  {
+    "id": 3,
+    "tag": "P003_1",
+    "en": "“Jerry,” said Mr. Lorry. “Come here.”",
+    "ko": "“제리,” 로리 씨가 말했다. “이리 와보게.”",
+    "is_header": false,
+    "raw_ref_id": 6
+  },
+  {
+    "id": 4,
+    "tag": "P004",
+    "en": "Jerry stepped forward sideways, keeping one shoulder in front of him.",
+    "ko": "제리는 한쪽 어깨를 앞으로 한 채 비스듬히 앞으로 나섰다.",
+    "is_header": false,
+    "raw_ref_id": 8
+  },
+  {
+    "id": 5,
+    "tag": "P005",
+    "en": "“What have you been doing, besides working as a messenger?”",
+    "ko": "“자네는 심부름꾼으로 일하는 것 외에 무엇을 해왔나?”",
+    "is_header": false,
+    "raw_ref_id": 9
+  },
+  {
+    "id": 6,
+    "tag": "P006",
+    "en": "After thinking for a moment and looking closely at his boss, Jerry came up with the idea of replying, “I'm an agricultural character.”",
+    "ko": "잠시 생각하며 자신의 상사를 유심히 살펴본 후, 제리는 “저는 농업에 종사하는 사람입니다.”라고 대답할 생각을 해냈다.",
+    "is_header": false,
+    "raw_ref_id": 10
+  },
+  {
+    "id": 7,
+    "tag": "P007_1",
+    "en": "“I have a strong suspicion,” said Mr. Lorry, angrily shaking a forefinger at him, “that you have used the respectable and great house of Tellson’s as a cover, and that you have had an unlawful occupation of a disgraceful description.",
+    "ko": "“자네가 텔슨 은행이라는 훌륭하고 유서 깊은 회사를 눈가림용으로 이용하고, 불법적이고 파렴치한 일에 종사해 온 것이 아닌가 하는 강한 의심이 드는군.” 로리 씨가 검지손가락을 성난 듯 흔들며 말했다.",
+    "is_header": false,
+    "raw_ref_id": 11
+  },
+  {
+    "id": 8,
+    "tag": "P007_3",
+    "en": "If you have, don't expect me to help you when we get back to England, and don't expect me to keep your secret.",
+    "ko": "만약 그렇다면, 우리가 영국으로 돌아갈 때 내가 자네를 도울 것이라 기대하지 말고, 내가 자네의 비밀을 지켜줄 것이라고도 기대하지 말게.",
+    "is_header": false,
+    "raw_ref_id": 13
+  },
+  {
+    "id": 9,
+    "tag": "P007_4",
+    "en": "Tellson's will not be associated with a criminal.”",
+    "ko": "텔슨 은행은 범죄자와 엮이지 않을 걸세.”",
+    "is_header": false,
+    "raw_ref_id": 14
+  },
+  {
+    "id": 10,
+    "tag": "P008_1",
+    "en": "“I hope, sir,” the embarrassed Jerry pleaded, “that a gentleman like you, for whom I have worked until I'm gray, would think twice before hurting me, even if it were true, I'm not saying it is, but even if it were.",
+    "ko": "“선생님,” 당황한 제리가 애원했다, “제가 백발이 될 때까지 모셔온 선생님 같은 신사분이라면, 설령 그것이 사실이라 해도—제가 사실이라고 말하는 것은 아닙니다만, 설령 사실이라 해도—저를 해치기 전에 다시 한번 생각해 주시기를 바랍니다.",
+    "is_header": false,
+    "raw_ref_id": 15
+  },
+  {
+    "id": 11,
+    "tag": "P008_2",
+    "en": "And you have to consider that there are two sides to it.",
+    "ko": "그리고 그 일에는 양면이 있다는 것을 고려하셔야 합니다.",
+    "is_header": false,
+    "raw_ref_id": 16
+  },
+  {
+    "id": 12,
+    "tag": "P008_3",
+    "en": "There are doctors right now earning lots of money where an honest worker like me doesn't earn a penny, putting their money in Tellson's and looking down on me while they drive away in their carriages.",
+    "ko": "저 같은 정직한 노동자는 한 푼도 벌지 못하는데 많은 돈을 벌어서 텔슨 은행에 돈을 넣고 마차를 타고 떠나면서 저를 깔보는 의사들이 지금도 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 17
+  },
+  {
+    "id": 13,
+    "tag": "P008_4",
+    "en": "Well, they are using Tellson's too.",
+    "ko": "음, 그들도 텔슨 은행을 이용하고 있지 않습니까.",
+    "is_header": false,
+    "raw_ref_id": 18
+  },
+  {
+    "id": 14,
+    "tag": "P008_5",
+    "en": "For what's good for the goose is good for the gander. And here’s Mrs. Cruncher—or at least she was back in Old England times, and would be tomorrow if given a reason—praying against my business to such an extent that it’s downright ruining it—utterly ruining it!",
+    "ko": "암탉만 나무라고 수탉은 봐줄 수 없는 법이니까요. 게다가 여기 크런처 마누라만 해도, 적어도 옛날 잉글랜드 시절에 그랬고 핑계만 생기면 내일이라도 당장 그럴 텐데, 내 장사를 방해하며 바닥에 엎드려 기도질을 해대는 바람에 장사가 아주 망할 지경입니다. 완전히 쫄딱 망할 판이에요!",
+    "is_header": false,
+    "raw_ref_id": 19
+  },
+  {
+    "id": 15,
+    "tag": "P008_7",
+    "en": "Meanwhile, the doctors' wives don't do that.",
+    "ko": "반면에, 의사들의 아내들은 그러지 않습니다.",
+    "is_header": false,
+    "raw_ref_id": 21
+  },
+  {
+    "id": 16,
+    "tag": "P008_8",
+    "en": "Or, if they flop, their flopping ends up providing more patients, and how can you truly have one without the other? Then, what with the undertakers, the parish clerks, the gravediggers, and the private watchmen (all of them greedy and in on the scheme), a man wouldn't make much money from it, even if it were true.",
+    "ko": "아니면, 그들이 털썩 주저앉더라도 그 주저앉는 행위가 결국 더 많은 환자를 제공하게 되는데, 어떻게 하나 없이 다른 하나가 진정으로 존재할 수 있겠습니까? 게다가, 장의사들, 교구 서기들, 무덤 파는 인부들, 그리고 사설 경비원들(모두 탐욕스럽고 음모에 가담한 자들) 때문에, 설령 그것이 사실이라 하더라도 한 남자가 거기서 많은 돈을 벌지는 못할 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 22
+  },
+  {
+    "id": 17,
+    "tag": "P008_9",
+    "en": "And what little a man did earn would never bring him prosperity, Mr. Lorry.",
+    "ko": "그리고 사람이 어쩌다 조금 번 돈도 결코 제대로 쓰이지 못하고 다 날아가 버릴 겁니다, 로리 나으리.",
+    "is_header": false,
+    "raw_ref_id": 23
+  },
+  {
+    "id": 18,
+    "tag": "P008_11",
+    "en": "He never gets any good from it and wants to get out of the business if he can, once he's in, even if it were true.”",
+    "ko": "그는 그 일에서 결코 좋은 것을 얻지 못하고, 설령 그것이 사실이라 해도 한 번 발을 들여놓으면 할 수만 있다면 그 일에서 빠져나오고 싶어 합니다.”",
+    "is_header": false,
+    "raw_ref_id": 25
+  },
+  {
+    "id": 19,
+    "tag": "P009_1",
+    "en": "“Ugh!” cried Mr. Lorry, rather relenting, nevertheless, “I am shocked at the sight of you.”",
+    "ko": "“으휴!” 로리 씨가 소리쳤다. 그러나 다소 누그러진 어조였다. “자네 꼴을 보고 있자니 기가 막히는군.”",
+    "is_header": false,
+    "raw_ref_id": 26
+  },
+  {
+    "id": 20,
+    "tag": "P010",
+    "en": "“Now, what I would humbly suggest, sir,” Jerry continued, “even if it were true, which I'm not saying it is, ”",
+    "ko": "“자, 제가 겸손하게 제안하고 싶은 것은, 선생님,” 제리가 계속했다, “설령 그것이 사실이라 해도—제가 사실이라고 말하는 것은 아닙니다만— ”",
+    "is_header": false,
+    "raw_ref_id": 28
+  },
+  {
+    "id": 21,
+    "tag": "P011_1",
+    "en": "“Don’t beat around the bush,” said Mr. Lorry.",
+    "ko": "“말을 돌리지 말게,” 로리 씨가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 29
+  },
+  {
+    "id": 22,
+    "tag": "P012_1",
+    "en": "“No, I will _not_, sir,” returned Mr. Cruncher, as if nothing were further from his thoughts or practice—“not that I’m saying it is—what I would humbly offer to you, sir, would be this.",
+    "ko": "“아닙니다, 절대로 그러지 않겠습니다요, 나으리.” 크런처 씨는 자신은 결코 핑계를 대거나 거짓말을 할 사람이 아니라는 듯 대답했다. “제가 그렇다는 건 아닙니다만, 나으리께 삼가 말씀드리고 싶은 것은 이렇습니다.",
+    "is_header": false,
+    "raw_ref_id": 31
+  },
+  {
+    "id": 23,
+    "tag": "P012_3",
+    "en": "Upon that stool, at that counter, sits that boy of mine. He has been brought up and grown into a man who will run errands for you, deliver messages, and do general light jobs for you until you are completely exhausted, if that is what you wish.",
+    "ko": "그 의자 위에, 그 카운터에, 제 아들 녀석이 앉아 있습니다. 그 아이는 자라서 어엿한 남자가 되었고, 만약 선생님께서 원하신다면 선생님이 완전히 지치실 때까지 심부름을 하고, 메시지를 전달하고, 일반적인 가벼운 일들을 해드릴 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 33
+  },
+  {
+    "id": 24,
+    "tag": "P012_4",
+    "en": "If it were true, which I still don't say it is (because I won't lie to you, sir), let that boy keep his father's job and take care of his mother. Don't inform on that boy's father—please don't do it, sir. And let that father go into the business of regular grave-digging, so he can make up for what he might have un-dug—if that were true—by digging graves willingly and with a firm belief in keeping them safe in the future.",
+    "ko": "만약 그것이 사실이라면, 저는 여전히 사실이라고 말하지 않지만(왜냐하면 저는 선생님께 거짓말을 하지 않을 테니까요), 그 아이가 아버지의 직업을 유지하고 어머니를 돌보게 해 주십시오. 그 아이의 아버지를 고발하지 마십시오—제발 그러지 마십시오, 선생님. 그리고 그 아버지가 정식 무덤 파는 일에 종사하게 해 주셔서, 앞으로 기꺼이 그리고 무덤을 안전하게 지키겠다는 확고한 믿음을 가지고 무덤을 파서—만약 그것이 사실이라면—자신이 팠을지도 모르는 것을 만회할 수 있게 해 주십시오.",
+    "is_header": false,
+    "raw_ref_id": 34
+  },
+  {
+    "id": 25,
+    "tag": "P012_5",
+    "en": "That, Mr. Lorry,” said Mr.",
+    "ko": "그것이 바로, 로리 나으리,” 크런처 씨가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 35
+  },
+  {
+    "id": 26,
+    "tag": "P012_8",
+    "en": "A man can't see all this death around him in Paris, with so many headless bodies, without thinking seriously about life.",
+    "ko": "사람이 파리에서 이렇게 머리 없는 시체들이 널려 있는 죽음을 목격하고서 어찌 삶에 대해 진지하게 생각하지 않을 수 있겠습니까.",
+    "is_header": false,
+    "raw_ref_id": 38
+  },
+  {
+    "id": 27,
+    "tag": "P012_9",
+    "en": "And these are my thoughts, begging you to remember that I spoke up today to help you when I could have kept quiet.”",
+    "ko": "그리고 이것이 제 생각이며, 제가 가만히 있을 수도 있었지만 오늘 선생님을 돕기 위해 나섰다는 것을 기억해 주시기를 간청합니다.”",
+    "is_header": false,
+    "raw_ref_id": 39
+  },
+  {
+    "id": 28,
+    "tag": "P013_1",
+    "en": "“That at least is true,” said Mr. Lorry. “Say no more now.",
+    "ko": "“그것만큼은 사실이군.” 로리 씨가 말했다. “이제 더는 말하지 말게.",
+    "is_header": false,
+    "raw_ref_id": 40
+  },
+  {
+    "id": 29,
+    "tag": "P013_3",
+    "en": "Perhaps I will still help you, if you deserve it and show you are sorry through your actions, not just words.",
+    "ko": "자네가 자격이 있고 말이 아닌 행동으로 뉘우침을 보여준다면, 어쩌면 내가 계속 자네를 도울지도 모르지.",
+    "is_header": false,
+    "raw_ref_id": 42
+  },
+  {
+    "id": 30,
+    "tag": "P013_4",
+    "en": "I don't want to hear any more.”",
+    "ko": "더 이상 듣고 싶지 않네.”",
+    "is_header": false,
+    "raw_ref_id": 43
+  },
+  {
+    "id": 31,
+    "tag": "P014_1",
+    "en": "Mr. Cruncher knuckled his forehead as Sydney Carton and the spy returned from the dark room. “Goodbye, Mr. Barsad,” said Carton; “with our arrangement thus made, you have nothing to fear from me.”",
+    "ko": "시드니 카턴과 첩자가 어두운 방에서 돌아오자 크런처 씨는 이마에 주먹을 대며 경의를 표했다. “작별이오, 바르사드 씨.” 전자가 말했다. “이렇게 합의를 마쳤으니, 당신은 나에 대해 아무것도 두려워할 필요가 없소.”",
+    "is_header": false,
+    "raw_ref_id": 44
+  },
+  {
+    "id": 32,
+    "tag": "P015_1",
+    "en": "He sat down in a chair by the hearth, opposite Mr. Lorry.",
+    "ko": "그는 로리 씨의 맞은편, 난롯가 의자에 앉았다.",
+    "is_header": false,
+    "raw_ref_id": 46
+  },
+  {
+    "id": 33,
+    "tag": "P015_3",
+    "en": "When they were alone, Mr. Lorry asked him what he had done.",
+    "ko": "단둘이 남게 되자, 로리 씨는 그에게 무슨 일을 한 것인지 물었다.",
+    "is_header": false,
+    "raw_ref_id": 48
+  },
+  {
+    "id": 34,
+    "tag": "P016_1",
+    "en": "“Not much.",
+    "ko": "“많지 않습니다.",
+    "is_header": false,
+    "raw_ref_id": 50
+  },
+  {
+    "id": 35,
+    "tag": "P016_2",
+    "en": "If things go badly for the prisoner, I have arranged to visit him once.”",
+    "ko": "만약 수감자의 상황이 나빠진다면, 제가 그를 한 번 면회할 수 있도록 주선해 두었습니다.”",
+    "is_header": false,
+    "raw_ref_id": 51
+  },
+  {
+    "id": 36,
+    "tag": "P017_1",
+    "en": "Mr. Lorry’s face fell.",
+    "ko": "로리 씨의 안색이 어두워졌다.",
+    "is_header": false,
+    "raw_ref_id": 52
+  },
+  {
+    "id": 37,
+    "tag": "P018_1",
+    "en": "“It is all I could do,” Carton said. “Asking for too much would have put the spy's own head under the axe, and as he said, nothing worse could happen to him if he were reported.",
+    "ko": "“그게 제가 할 수 있는 전부였습니다.” 카턴이 말했다. “너무 많은 것을 요구했다면 스파이 자신의 목이 도끼 아래 놓이게 되었을 것이고, 그가 말했듯이 고발당한다 해도 그에게 그보다 더 나쁜 일은 일어날 수 없었을 테니까요.",
+    "is_header": false,
+    "raw_ref_id": 54
+  },
+  {
+    "id": 38,
+    "tag": "P018_2",
+    "en": "That was the limit of what we could get.",
+    "ko": "그것이 우리가 얻어낼 수 있는 한계였습니다.",
+    "is_header": false,
+    "raw_ref_id": 55
+  },
+  {
+    "id": 39,
+    "tag": "P018_3",
+    "en": "We have to accept it.”",
+    "ko": "우리는 그것을 받아들여야 합니다.”",
+    "is_header": false,
+    "raw_ref_id": 56
+  },
+  {
+    "id": 40,
+    "tag": "P019_1",
+    "en": "“But having access to him,” said Mr. Lorry, “if things should go ill before the Tribunal, will not save him.”",
+    "ko": "“하지만 재판소에서 일이 잘못된다면,” 로리 씨가 말했다. “그를 만날 수 있다고 해서 목숨을 구할 수 있는 건 아니잖소.”",
+    "is_header": false,
+    "raw_ref_id": 57
+  },
+  {
+    "id": 41,
+    "tag": "P020",
+    "en": "“I never said it would.”",
+    "ko": "“저는 그렇게 될 거라고 말한 적이 없습니다.”",
+    "is_header": false,
+    "raw_ref_id": 59
+  },
+  {
+    "id": 42,
+    "tag": "P021_1",
+    "en": "Mr. Lorry’s eyes gradually sought the fire; his sympathy for his darling Lucie, and the heavy disappointment of Darnay’s second arrest, gradually weakened them; he was an old man now, overcome with recent anxiety, and his tears fell.",
+    "ko": "로리 씨의 눈길은 서서히 난로 불꽃으로 향했다. 사랑하는 루시에 대한 연민과 두 번째 체포로 인한 깊은 실망감에 그의 눈은 점차 흐려졌다. 그는 이제 노인이었고, 최근의 불안에 짓눌려 눈물을 흘렸다.",
+    "is_header": false,
+    "raw_ref_id": 60
+  },
+  {
+    "id": 43,
+    "tag": "P022_1",
+    "en": "“You are a good man and a true friend,” Carton said in a different, gentler voice. “Forgive me for noticing your tears.",
+    "ko": "“당신은 좋은 분이시고 진정한 친구이십니다,” 카턴이 평소와 다른, 더 부드러운 목소리로 말했다. “선생님의 눈물을 아는 체한 저를 용서하십시오.",
+    "is_header": false,
+    "raw_ref_id": 62
+  },
+  {
+    "id": 44,
+    "tag": "P022_2",
+    "en": "I could not watch my own father cry and do nothing, and I could not respect your grief more if you were my father.",
+    "ko": "제 아버지께서 우시는 것을 보고 아무것도 안 할 수는 없었을 것이고, 만약 선생님이 제 아버지셨다고 해도 제가 지금 선생님의 슬픔을 존중하는 것보다 더 존중할 수는 없을 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 63
+  },
+  {
+    "id": 45,
+    "tag": "P022_3",
+    "en": "Though you are spared that misfortune, at least.”",
+    "ko": "적어도 그 불행은 피하셨지만 말입니다.”",
+    "is_header": false,
+    "raw_ref_id": 64
+  },
+  {
+    "id": 46,
+    "tag": "P023_1",
+    "en": "Though he said the last words with a slip into his usual manner, there was a true feeling and respect both in his tone and in his touch that Mr. Lorry, who had never seen the better side of him, was wholly unprepared for.",
+    "ko": "비록 그가 마지막 말을 할 때는 평소의 태도로 슬그머니 되돌아갔지만, 그의 어조와 손길에는 진심 어린 감정과 존경이 담겨 있었기에, 그의 좋은 면모를 본 적이 없었던 로리 씨로서는 전혀 예상치 못한 것이었다.",
+    "is_header": false,
+    "raw_ref_id": 65
+  },
+  {
+    "id": 47,
+    "tag": "P023_3",
+    "en": "He held out his hand, and Carton squeezed it gently.",
+    "ko": "그가 손을 내밀자, 카턴이 그 손을 부드럽게 쥐었다.",
+    "is_header": false,
+    "raw_ref_id": 67
+  },
+  {
+    "id": 48,
+    "tag": "P024_1",
+    "en": "“Regarding Darnay,” Carton said. “Don't tell Lucie about this meeting or our agreement.",
+    "ko": "“다네이에 대해서 말인데,” 카턴이 말했다. “루시에게는 이 만남이나 우리의 합의에 대해 말하지 마십시오.",
+    "is_header": false,
+    "raw_ref_id": 68
+  },
+  {
+    "id": 49,
+    "tag": "P024_2",
+    "en": "It wouldn't allow her to see him anyway, and she might worry that we are planning for his execution, or trying to smuggle in a way for him to end his life early.”",
+    "ko": "어차피 그녀가 그를 볼 수 있는 것도 아니고, 그녀는 우리가 그의 처형을 계획하고 있거나, 그가 일찍 생을 마감할 수 있는 방법을 몰래 들여보내려 한다고 걱정할지도 모릅니다.”",
+    "is_header": false,
+    "raw_ref_id": 69
+  },
+  {
+    "id": 50,
+    "tag": "P025_1",
+    "en": "Mr. Lorry had not thought of that, and he looked quickly at Carton to see if it was in his mind.",
+    "ko": "로리 씨는 그 생각을 미처 하지 못했기에, 카턴도 그 생각을 하고 있는지 확인하려고 재빨리 그를 쳐다보았다.",
+    "is_header": false,
+    "raw_ref_id": 70
+  },
+  {
+    "id": 51,
+    "tag": "P025_3",
+    "en": "It seemed to be; Carton returned his look, showing he understood.",
+    "ko": "그런 것 같았다. 카턴은 시선을 마주치며 자신이 이해하고 있음을 보여주었다.",
+    "is_header": false,
+    "raw_ref_id": 72
+  },
+  {
+    "id": 52,
+    "tag": "P026_1",
+    "en": "“She might worry about a thousand things,” Carton said, “and that would only add to her pain.",
+    "ko": "“그녀는 수만 가지 걱정을 할지도 모릅니다,” 카턴이 말했다. “그리고 그것은 그녀의 고통을 더할 뿐입니다.",
+    "is_header": false,
+    "raw_ref_id": 73
+  },
+  {
+    "id": 53,
+    "tag": "P026_2",
+    "en": "Don't mention me to her.",
+    "ko": "그녀에게 제 이야기는 꺼내지 마십시오.",
+    "is_header": false,
+    "raw_ref_id": 74
+  },
+  {
+    "id": 54,
+    "tag": "P026_3",
+    "en": "As I said when I arrived, it is better if I don't see her.",
+    "ko": "제가 도착했을 때 말씀드렸듯이, 저는 그녀를 보지 않는 편이 낫습니다.",
+    "is_header": false,
+    "raw_ref_id": 75
+  },
+  {
+    "id": 55,
+    "tag": "P026_4",
+    "en": "I can reach out and do any little helpful task for her that I can find, without needing to be seen.",
+    "ko": "저는 눈에 띄지 않고도 제가 찾을 수 있는 그녀를 위한 작은 도움이라도 기꺼이 손을 뻗어 할 수 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 76
+  },
+  {
+    "id": 56,
+    "tag": "P026_5",
+    "en": "You are going to see her now, I hope?",
+    "ko": "지금 그녀를 만나러 가시는 거겠죠?",
+    "is_header": false,
+    "raw_ref_id": 77
+  },
+  {
+    "id": 57,
+    "tag": "P026_6",
+    "en": "She must be very lonely tonight.”",
+    "ko": "오늘 밤 그녀는 무척 외로울 겁니다.”",
+    "is_header": false,
+    "raw_ref_id": 78
+  },
+  {
+    "id": 58,
+    "tag": "P027",
+    "en": "“I am going right now.”",
+    "ko": "“지금 당장 가는 길이네.”",
+    "is_header": false,
+    "raw_ref_id": 79
+  },
+  {
+    "id": 59,
+    "tag": "P028_1",
+    "en": "“I am glad.",
+    "ko": "“기쁘네요.",
+    "is_header": false,
+    "raw_ref_id": 80
+  },
+  {
+    "id": 60,
+    "tag": "P028_2",
+    "en": "She loves and relies on you so much.",
+    "ko": "그녀는 당신을 그토록 사랑하고 의지하고 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 81
+  },
+  {
+    "id": 61,
+    "tag": "P028_3",
+    "en": "How does she look?”",
+    "ko": "그녀의 안색은 어떻습니까?”",
+    "is_header": false,
+    "raw_ref_id": 82
+  },
+  {
+    "id": 62,
+    "tag": "P029",
+    "en": "“Anxious and sad, but very beautiful.”",
+    "ko": "“불안해하고 슬퍼하지만, 무척이나 아름답네.”",
+    "is_header": false,
+    "raw_ref_id": 83
+  },
+  {
+    "id": 63,
+    "tag": "P030",
+    "en": "“Ah!”",
+    "ko": "“아!”",
+    "is_header": false,
+    "raw_ref_id": 84
+  },
+  {
+    "id": 64,
+    "tag": "P031_1",
+    "en": "It was a long, sad sound, like a sigh or a sob.",
+    "ko": "그것은 한숨이나 흐느낌 같은 길고 슬픈 소리였다.",
+    "is_header": false,
+    "raw_ref_id": 85
+  },
+  {
+    "id": 65,
+    "tag": "P031_2",
+    "en": "It drew Mr. Lorry’s eyes to Carton’s face, which was turned toward the fire.",
+    "ko": "그 때문에 로리 씨의 시선이 불길 쪽으로 향해 있던 카턴의 얼굴로 쏠렸다.",
+    "is_header": false,
+    "raw_ref_id": 86
+  },
+  {
+    "id": 66,
+    "tag": "P031_4",
+    "en": "A light, or perhaps a shadow (the old gentleman couldn't be sure which), passed across his face as quickly as the weather changes over a hillside on a wild, bright day. Then he lifted his foot to push back a small burning log that was rolling forward.",
+    "ko": "바람이 거세고 화창한 날 산허리에 날씨가 변하듯 빠르게 어떤 빛이, 혹은 어쩌면 그림자가 (노신사는 어느 쪽인지 확신할 수 없었지만) 그의 얼굴 위를 스쳐 지나갔다. 그러고 나서 그는 앞으로 굴러가는 작은 장작을 다시 밀어 넣기 위해 발을 들어 올렸다.",
+    "is_header": false,
+    "raw_ref_id": 88
+  },
+  {
+    "id": 67,
+    "tag": "P031_5",
+    "en": "He wore a white coat and boots, and the firelight made him look very pale, with his long, uncombed brown hair hanging loose.",
+    "ko": "그는 하얀 외투에 장화를 신고 있었고, 빗질하지 않은 긴 갈색 머리를 늘어뜨린 그의 모습은 불빛을 받아 매우 창백해 보였다.",
+    "is_header": false,
+    "raw_ref_id": 89
+  },
+  {
+    "id": 68,
+    "tag": "P031_6",
+    "en": "His indifference to the fire was sufficiently remarkable to elicit a word of remonstrance from Mr. Lorry; his boot was still upon the hot embers of the flaming log after it had broken under the weight of his foot.",
+    "ko": "불에 대한 그의 무관심함은 로리 씨에게서 한마디 주의를 이끌어낼 만큼 두드러졌다. 그의 발 무게를 이기지 못하고 타오르던 장작이 부러졌는데도, 그의 장화는 여전히 뜨거운 잉걸불 위에 얹혀 있었다.",
+    "is_header": false,
+    "raw_ref_id": 90
+  },
+  {
+    "id": 69,
+    "tag": "P032",
+    "en": "“I forgot about it,” he said.",
+    "ko": "“깜빡했군요,” 그가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 92
+  },
+  {
+    "id": 70,
+    "tag": "P033_1",
+    "en": "Mr. Lorry’s eyes were again drawn to his face.",
+    "ko": "로리 씨의 눈길이 다시 카턴의 얼굴로 향했다.",
+    "is_header": false,
+    "raw_ref_id": 93
+  },
+  {
+    "id": 71,
+    "tag": "P033_3",
+    "en": "Seeing the tired, worn look on Carton's handsome features, he was reminded of the look he had seen on the faces of the prisoners.",
+    "ko": "카턴의 잘생긴 이목구비에 어린 피곤하고 지친 기색을 보면서, 그는 죄수들의 얼굴에서 보았던 표정을 떠올렸다.",
+    "is_header": false,
+    "raw_ref_id": 95
+  },
+  {
+    "id": 72,
+    "tag": "P034",
+    "en": "“And is your work here finished, sir?” Carton asked, turning to him.",
+    "ko": "“선생님, 이곳에서의 일은 끝나셨습니까?” 카턴이 그를 돌아보며 물었다.",
+    "is_header": false,
+    "raw_ref_id": 96
+  },
+  {
+    "id": 73,
+    "tag": "P035_1",
+    "en": "“Yes.",
+    "ko": "“그렇네.",
+    "is_header": false,
+    "raw_ref_id": 97
+  },
+  {
+    "id": 74,
+    "tag": "P035_2",
+    "en": "As I was telling you last night before Lucie arrived, I have done everything I can here.",
+    "ko": "어젯밤 루시가 도착하기 전에 당신에게 말했듯이, 나는 여기서 내가 할 수 있는 모든 것을 다 했소.",
+    "is_header": false,
+    "raw_ref_id": 98
+  },
+  {
+    "id": 75,
+    "tag": "P035_3",
+    "en": "I hoped to leave them safe and then exit Paris.",
+    "ko": "나는 그들을 안전하게 남겨두고 파리를 떠나기를 바랐지.",
+    "is_header": false,
+    "raw_ref_id": 99
+  },
+  {
+    "id": 76,
+    "tag": "P035_4",
+    "en": "I already have my travel papers.",
+    "ko": "나는 이미 여행 서류도 가지고 있소.",
+    "is_header": false,
+    "raw_ref_id": 100
+  },
+  {
+    "id": 77,
+    "tag": "P035_5",
+    "en": "I was ready to go.”",
+    "ko": "나는 떠날 준비가 되어 있었네.”",
+    "is_header": false,
+    "raw_ref_id": 101
+  },
+  {
+    "id": 78,
+    "tag": "P036",
+    "en": "They were both silent.",
+    "ko": "그들은 둘 다 침묵했다.",
+    "is_header": false,
+    "raw_ref_id": 102
+  },
+  {
+    "id": 79,
+    "tag": "P037",
+    "en": "“You have a long life to look back on, sir?” Carton asked thoughtfully.",
+    "ko": "“돌아볼 만한 긴 삶을 사셨죠, 선생님?” 카턴이 생각에 잠겨 물었다.",
+    "is_header": false,
+    "raw_ref_id": 103
+  },
+  {
+    "id": 80,
+    "tag": "P038",
+    "en": "“I am seventy-seven years old.”",
+    "ko": "“나는 일흔일곱 살이라네.”",
+    "is_header": false,
+    "raw_ref_id": 104
+  },
+  {
+    "id": 81,
+    "tag": "P039",
+    "en": "“You have been useful all your life, always busy, trusted, respected, and looked up to?”",
+    "ko": "“평생을 유용하게, 항상 바쁘게 살며, 신뢰와 존경을 받고, 사람들의 우러러보는 대상이셨겠군요?”",
+    "is_header": false,
+    "raw_ref_id": 105
+  },
+  {
+    "id": 82,
+    "tag": "P040_1",
+    "en": "“I have been a businessman ever since I grew up.",
+    "ko": "“나는 어른이 된 이후로 줄곧 사업가였소.",
+    "is_header": false,
+    "raw_ref_id": 106
+  },
+  {
+    "id": 83,
+    "tag": "P040_2",
+    "en": "Indeed, I was doing business even as a boy.”",
+    "ko": "사실, 나는 소년 시절에도 사업을 하고 있었지.”",
+    "is_header": false,
+    "raw_ref_id": 107
+  },
+  {
+    "id": 84,
+    "tag": "P041_1",
+    "en": "“Look at the important place you fill at your age.",
+    "ko": "“연세에 비해 얼마나 중요한 자리를 차지하고 계신지 보세요.",
+    "is_header": false,
+    "raw_ref_id": 108
+  },
+  {
+    "id": 85,
+    "tag": "P041_2",
+    "en": "So many people will miss you when you are gone!”",
+    "ko": "당신이 떠나시면 너무나 많은 사람들이 당신을 그리워할 겁니다!”",
+    "is_header": false,
+    "raw_ref_id": 109
+  },
+  {
+    "id": 86,
+    "tag": "P042_1",
+    "en": "“A solitary old bachelor,” answered Mr. Lorry, shaking his head. “There is nobody to weep for me.”",
+    "ko": "“외로운 늙은 독신자라네.” 로리 씨가 고개를 저으며 대답했다. “날 위해 울어줄 사람은 아무도 없어.”",
+    "is_header": false,
+    "raw_ref_id": 110
+  },
+  {
+    "id": 87,
+    "tag": "P043_1",
+    "en": "“How can you say that?",
+    "ko": "“어떻게 그런 말씀을 하십니까?",
+    "is_header": false,
+    "raw_ref_id": 112
+  },
+  {
+    "id": 88,
+    "tag": "P043_2",
+    "en": "Wouldn't Lucie cry for you?",
+    "ko": "루시가 당신을 위해 울지 않겠습니까?",
+    "is_header": false,
+    "raw_ref_id": 113
+  },
+  {
+    "id": 89,
+    "tag": "P043_3",
+    "en": "Wouldn't her child?”",
+    "ko": "그녀의 아이는 어떻고요?”",
+    "is_header": false,
+    "raw_ref_id": 114
+  },
+  {
+    "id": 90,
+    "tag": "P044_1",
+    "en": "“Yes, yes, thank God.",
+    "ko": "“그렇지, 그래, 신께 감사하게도.",
+    "is_header": false,
+    "raw_ref_id": 115
+  },
+  {
+    "id": 91,
+    "tag": "P044_2",
+    "en": "I didn't quite mean that.”",
+    "ko": "내가 그런 의미로 말한 것은 아니라네.”",
+    "is_header": false,
+    "raw_ref_id": 116
+  },
+  {
+    "id": 92,
+    "tag": "P045",
+    "en": "“That is something to be thankful for, isn't it?”",
+    "ko": "“그것은 감사해야 할 일이겠죠, 안 그렇습니까?”",
+    "is_header": false,
+    "raw_ref_id": 117
+  },
+  {
+    "id": 93,
+    "tag": "P046",
+    "en": "“Of course, of course.”",
+    "ko": "“물론이지, 물론이고말고.”",
+    "is_header": false,
+    "raw_ref_id": 118
+  },
+  {
+    "id": 94,
+    "tag": "P047",
+    "en": "“If you had to say to yourself tonight, 'No one loves or respects me, I have no place in anyone's heart, and I have done nothing good to be remembered by,' then your seventy-seven years would be a heavy curse, wouldn't they?”",
+    "ko": "“만약 오늘 밤 당신 스스로에게 ‘아무도 나를 사랑하거나 존경하지 않고, 나는 그 누구의 마음속에도 자리 잡지 못했으며, 내가 기억될 만한 훌륭한 일을 한 적도 없다’고 말해야 한다면, 당신의 칠십칠 년은 무거운 저주가 될 겁니다, 그렇지 않습니까?”",
+    "is_header": false,
+    "raw_ref_id": 119
+  },
+  {
+    "id": 95,
+    "tag": "P048_1",
+    "en": "“You speak truly, Mr. Carton; I think they would be.”",
+    "ko": "“자네 말이 맞네, 카턴 군. 분명 그럴 걸세.”",
+    "is_header": false,
+    "raw_ref_id": 120
+  },
+  {
+    "id": 96,
+    "tag": "P049",
+    "en": "Sydney looked back at the fire and, after a short silence, said:",
+    "ko": "시드니는 불을 다시 바라보았고 짧은 침묵 끝에 말했다:",
+    "is_header": false,
+    "raw_ref_id": 122
+  },
+  {
+    "id": 97,
+    "tag": "P050_1",
+    "en": "“I want to ask you: does your childhood seem very far away?",
+    "ko": "“한 가지 여쭤보고 싶습니다: 선생님의 어린 시절은 아주 멀게만 느껴지십니까?",
+    "is_header": false,
+    "raw_ref_id": 123
+  },
+  {
+    "id": 98,
+    "tag": "P050_2",
+    "en": "Do the days when you sat with your mother feel like a lifetime ago?”",
+    "ko": "어머니와 함께 앉아 있던 시절이 평생의 일처럼 느껴지십니까?”",
+    "is_header": false,
+    "raw_ref_id": 124
+  },
+  {
+    "id": 99,
+    "tag": "P051_1",
+    "en": "Responding to his softened manner, Mr. Lorry answered:",
+    "ko": "그의 부드러워진 태도에 반응하여 로리 씨가 대답했다.",
+    "is_header": false,
+    "raw_ref_id": 125
+  },
+  {
+    "id": 100,
+    "tag": "P052_1",
+    "en": "“Twenty years ago, yes. But at my age, no.",
+    "ko": "“이십 년 전이라면 그랬지. 하지만 내 나이가 되면 아니오.",
+    "is_header": false,
+    "raw_ref_id": 127
+  },
+  {
+    "id": 101,
+    "tag": "P052_2",
+    "en": "As I get closer to the end of my life, I feel like I am circling back to the beginning.",
+    "ko": "내 삶의 끝에 가까워질수록, 나는 다시 처음으로 되돌아가는 것 같은 기분이 든다네.",
+    "is_header": false,
+    "raw_ref_id": 128
+  },
+  {
+    "id": 102,
+    "tag": "P052_3",
+    "en": "It feels like a gentle way of preparing for death.",
+    "ko": "마치 죽음을 준비하는 부드러운 방식처럼 느껴지지.",
+    "is_header": false,
+    "raw_ref_id": 129
+  },
+  {
+    "id": 103,
+    "tag": "P052_4",
+    "en": "I keep remembering things from my childhood that I had forgotten, like my beautiful young mother, even though I am so old now, and the days before I grew hard and set in my ways.”",
+    "ko": "지금은 비록 이렇게 늙었지만, 아름답고 젊은 내 어머니처럼 내가 잊고 지냈던 어린 시절의 기억들, 그리고 내가 고집 세고 차갑게 굳어지기 전의 날들을 자꾸만 떠올리게 된다네.”",
+    "is_header": false,
+    "raw_ref_id": 130
+  },
+  {
+    "id": 104,
+    "tag": "P053",
+    "en": "“I understand that feeling!” Carton said, his face flushing. “And does it make you feel better?”",
+    "ko": "“저도 그 기분을 이해합니다!” 카턴이 얼굴을 붉히며 말했다. “그래서 기분이 나아지셨습니까?”",
+    "is_header": false,
+    "raw_ref_id": 131
+  },
+  {
+    "id": 105,
+    "tag": "P054",
+    "en": "“I hope so.”",
+    "ko": "“그렇길 바라네.”",
+    "is_header": false,
+    "raw_ref_id": 132
+  },
+  {
+    "id": 106,
+    "tag": "P055_1",
+    "en": "Carton ended the conversation here by rising to help him on with his outer coat; “But you,” said Mr. Lorry, reverting to the theme, “you are young.”",
+    "ko": "카턴은 일어서서 그가 외투를 입는 것을 도와줌으로써 대화를 끝맺었다. “하지만 자네는,” 로리 씨가 다시 그 화제로 돌아가며 말했다. “자네는 아직 젊지 않나.”",
+    "is_header": false,
+    "raw_ref_id": 133
+  },
+  {
+    "id": 107,
+    "tag": "P056_1",
+    "en": "“Yes,” Carton said. “I am not old, but the way I lived my youth was never going to lead to a long old age.",
+    "ko": "“예,” 카턴이 말했다. “저는 늙지 않았습니다. 하지만 제가 젊은 시절을 살아온 방식이 긴 노년으로 이어지지는 않을 겁니다.",
+    "is_header": false,
+    "raw_ref_id": 135
+  },
+  {
+    "id": 108,
+    "tag": "P056_2",
+    "en": "Enough about me.”",
+    "ko": "제 이야기는 이쯤 하죠.”",
+    "is_header": false,
+    "raw_ref_id": 136
+  },
+  {
+    "id": 109,
+    "tag": "P057_1",
+    "en": "“And of me, I am sure,” said Mr. Lorry. “Are you going out?”",
+    "ko": "“그리고 나에 대해서도 그럴 것이라고 확신하네.” 로리 씨가 말했다. “자네도 나갈 텐가?”",
+    "is_header": false,
+    "raw_ref_id": 137
+  },
+  {
+    "id": 110,
+    "tag": "P058_1",
+    "en": "“I'll walk with you to her gate.",
+    "ko": "“그녀의 문 앞까지 함께 걷겠습니다.",
+    "is_header": false,
+    "raw_ref_id": 139
+  },
+  {
+    "id": 111,
+    "tag": "P058_2",
+    "en": "You know my habit of wandering around.",
+    "ko": "제가 거리를 배회하는 버릇이 있다는 걸 아실 텐데요.",
+    "is_header": false,
+    "raw_ref_id": 140
+  },
+  {
+    "id": 112,
+    "tag": "P058_3",
+    "en": "If I stay out walking in the streets all night, don't worry. I will see you in the morning.",
+    "ko": "만약 제가 밤새 거리를 걸어 다니느라 밖에서 지내더라도 걱정하지 마십시오. 아침에 뵙겠습니다.",
+    "is_header": false,
+    "raw_ref_id": 141
+  },
+  {
+    "id": 113,
+    "tag": "P058_4",
+    "en": "You are going to the court tomorrow?”",
+    "ko": "내일 법정에 가시겠지요?”",
+    "is_header": false,
+    "raw_ref_id": 142
+  },
+  {
+    "id": 114,
+    "tag": "P059",
+    "en": "“Yes, unfortunately.”",
+    "ko": "“예, 불행히도 그렇소.”",
+    "is_header": false,
+    "raw_ref_id": 143
+  },
+  {
+    "id": 115,
+    "tag": "P060_1",
+    "en": "“I will be there too, just as part of the crowd.",
+    "ko": "“저도 거기에 있을 겁니다, 단지 군중의 한 명으로서요.",
+    "is_header": false,
+    "raw_ref_id": 144
+  },
+  {
+    "id": 116,
+    "tag": "P060_2",
+    "en": "My spy will find a place for me.",
+    "ko": "제 스파이가 제 자리를 찾아줄 겁니다.",
+    "is_header": false,
+    "raw_ref_id": 145
+  },
+  {
+    "id": 117,
+    "tag": "P060_3",
+    "en": "Take my arm, sir.”",
+    "ko": "제 팔을 잡으십시오, 선생님.”",
+    "is_header": false,
+    "raw_ref_id": 146
+  },
+  {
+    "id": 118,
+    "tag": "P061_1",
+    "en": "Mr. Lorry did so, and they went downstairs and out into the streets.",
+    "ko": "로리 씨는 그렇게 했고, 두 사람은 계단을 내려가 거리로 나섰다.",
+    "is_header": false,
+    "raw_ref_id": 147
+  },
+  {
+    "id": 119,
+    "tag": "P061_3",
+    "en": "A few minutes brought them to Mr. Lorry’s destination.",
+    "ko": "몇 분 지나지 않아 그들은 로리 씨의 목적지에 이르렀다.",
+    "is_header": false,
+    "raw_ref_id": 149
+  },
+  {
+    "id": 120,
+    "tag": "P061_5",
+    "en": "Carton left him there, but lingered a short distance away. When the gate was shut, he turned back to it and touched it.",
+    "ko": "카턴은 그를 그곳에 남겨두었지만, 멀지 않은 곳에서 서성거렸다. 문이 닫히자 그는 다시 문 쪽으로 몸을 돌려 그것을 만졌다.",
+    "is_header": false,
+    "raw_ref_id": 151
+  },
+  {
+    "id": 121,
+    "tag": "P061_6",
+    "en": "He had heard about her daily walks to the prison. “She stood here,” he said, looking around. “She walked this way, stepping on these very stones.",
+    "ko": "그는 그녀가 매일 감옥으로 걷는다는 이야기를 들었었다. “그녀가 여기 서 있었구나,” 그가 주위를 둘러보며 말했다. “그녀는 이 돌들을 밟으며 이 길을 걸었겠지.",
+    "is_header": false,
+    "raw_ref_id": 152
+  },
+  {
+    "id": 122,
+    "tag": "P061_7",
+    "en": "Let me follow her steps.”",
+    "ko": "그녀의 발자취를 따라가 보자.”",
+    "is_header": false,
+    "raw_ref_id": 153
+  },
+  {
+    "id": 123,
+    "tag": "P062_1",
+    "en": "It was ten o'clock at night when he stood outside La Force prison, where Lucie had waited so many times.",
+    "ko": "그가 루시가 그토록 여러 번 기다렸던 라 포르스 감옥 밖에 섰을 때는 밤 열 시였다.",
+    "is_header": false,
+    "raw_ref_id": 154
+  },
+  {
+    "id": 124,
+    "tag": "P062_2",
+    "en": "The little wood-sawyer, having closed his shop, was smoking a pipe at his door.",
+    "ko": "작은 체구의 톱질꾼은 가게 문을 닫고 자신의 문간에서 파이프 담배를 피우고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 155
+  },
+  {
+    "id": 125,
+    "tag": "P063",
+    "en": "“Good night, citizen,” Sydney Carton said as he walked past, since the man was staring at him curiously.",
+    "ko": "남자가 그를 호기심 어린 눈으로 빤히 쳐다보고 있었기에, 시드니 카턴은 지나가며 “안녕히 주무십시오, 시민 동지,”라고 말했다.",
+    "is_header": false,
+    "raw_ref_id": 156
+  },
+  {
+    "id": 126,
+    "tag": "P064",
+    "en": "“Good night, citizen.”",
+    "ko": "“안녕히 주무시오, 시민 동지.”",
+    "is_header": false,
+    "raw_ref_id": 157
+  },
+  {
+    "id": 127,
+    "tag": "P065",
+    "en": "“How is the Republic doing?”",
+    "ko": "“공화국은 어떻게 돌아가고 있습니까?”",
+    "is_header": false,
+    "raw_ref_id": 158
+  },
+  {
+    "id": 128,
+    "tag": "P066_1",
+    "en": "“You mean the Guillotine.",
+    "ko": "“기요틴을 말하는 거요.",
+    "is_header": false,
+    "raw_ref_id": 159
+  },
+  {
+    "id": 129,
+    "tag": "P066_2",
+    "en": "Not bad.",
+    "ko": "나쁘지 않소.",
+    "is_header": false,
+    "raw_ref_id": 160
+  },
+  {
+    "id": 130,
+    "tag": "P066_3",
+    "en": "Sixty-three people today.",
+    "ko": "오늘은 예순세 명이었소.",
+    "is_header": false,
+    "raw_ref_id": 161
+  },
+  {
+    "id": 131,
+    "tag": "P066_4",
+    "en": "We will reach a hundred soon.",
+    "ko": "우리는 곧 백 명에 도달할 것이오.",
+    "is_header": false,
+    "raw_ref_id": 162
+  },
+  {
+    "id": 132,
+    "tag": "P066_5",
+    "en": "The executioner Samson and his men complain they are tired.",
+    "ko": "처형인 삼손과 그의 부하들은 피곤하다고 불평하고 있소.",
+    "is_header": false,
+    "raw_ref_id": 163
+  },
+  {
+    "id": 133,
+    "tag": "P066_6",
+    "en": "Ha, ha, ha!",
+    "ko": "하, 하, 하!",
+    "is_header": false,
+    "raw_ref_id": 164
+  },
+  {
+    "id": 134,
+    "tag": "P066_7",
+    "en": "He is so funny, that Samson.",
+    "ko": "그 삼손이라는 자는 참으로 재미있단 말이오.",
+    "is_header": false,
+    "raw_ref_id": 165
+  },
+  {
+    "id": 135,
+    "tag": "P066_8",
+    "en": "What a barber!”",
+    "ko": "정말 대단한 이발사요!”",
+    "is_header": false,
+    "raw_ref_id": 166
+  },
+  {
+    "id": 136,
+    "tag": "P067",
+    "en": "“Do you go to watch him often?”",
+    "ko": "“그가 일하는 것을 자주 보러 가시오?”",
+    "is_header": false,
+    "raw_ref_id": 167
+  },
+  {
+    "id": 137,
+    "tag": "P068_1",
+    "en": "“Shave?",
+    "ko": "“이발하는 걸 말이오?",
+    "is_header": false,
+    "raw_ref_id": 168
+  },
+  {
+    "id": 138,
+    "tag": "P068_2",
+    "en": "Always.",
+    "ko": "항상 가오.",
+    "is_header": false,
+    "raw_ref_id": 169
+  },
+  {
+    "id": 139,
+    "tag": "P068_3",
+    "en": "Every day.",
+    "ko": "매일 가지.",
+    "is_header": false,
+    "raw_ref_id": 170
+  },
+  {
+    "id": 140,
+    "tag": "P068_4",
+    "en": "What a barber!",
+    "ko": "정말 대단한 이발사요!",
+    "is_header": false,
+    "raw_ref_id": 171
+  },
+  {
+    "id": 141,
+    "tag": "P068_5",
+    "en": "Have you seen him work?”",
+    "ko": "그가 일하는 걸 본 적이 있소?”",
+    "is_header": false,
+    "raw_ref_id": 172
+  },
+  {
+    "id": 142,
+    "tag": "P069",
+    "en": "“Never.”",
+    "ko": "“전혀 없소.”",
+    "is_header": false,
+    "raw_ref_id": 173
+  },
+  {
+    "id": 143,
+    "tag": "P070_1",
+    "en": "“Go watch him when he has a big group.",
+    "ko": "“무리가 클 때 가서 보시오.",
+    "is_header": false,
+    "raw_ref_id": 174
+  },
+  {
+    "id": 144,
+    "tag": "P070_2",
+    "en": "Imagine this, citizen: he executed all sixty-three today in less time than it takes to smoke two pipes!",
+    "ko": "상상해 보시오, 시민: 그는 오늘 담배 두 대를 피우는 데 걸리는 시간보다도 짧은 시간 안에 예순세 명을 모두 처형했소!",
+    "is_header": false,
+    "raw_ref_id": 175
+  },
+  {
+    "id": 145,
+    "tag": "P070_3",
+    "en": "Less than two pipes, I swear!”",
+    "ko": "맹세컨대, 담배 두 대도 채 안 걸렸소!”",
+    "is_header": false,
+    "raw_ref_id": 176
+  },
+  {
+    "id": 146,
+    "tag": "P071",
+    "en": "As the grinning man held out his pipe to show how he timed the executions, Carton felt such a strong urge to punch him that he had to turn away.",
+    "ko": "그 씩 웃는 남자가 처형 시간을 어떻게 쟀는지 보여주려고 파이프를 내밀었을 때, 카턴은 그를 때리고 싶은 강한 충동을 느껴 고개를 돌려야만 했다.",
+    "is_header": false,
+    "raw_ref_id": 177
+  },
+  {
+    "id": 147,
+    "tag": "P072",
+    "en": "“But you aren't French, are you, even though you wear English clothes?”",
+    "ko": "“하지만 영국 옷을 입고 있긴 해도 프랑스인은 아니지 않소?”",
+    "is_header": false,
+    "raw_ref_id": 178
+  },
+  {
+    "id": 148,
+    "tag": "P073",
+    "en": "“Yes,” Carton said, pausing and looking back over his shoulder.",
+    "ko": "“그렇소,” 카턴이 멈춰 서서 어깨너머로 돌아보며 말했다.",
+    "is_header": false,
+    "raw_ref_id": 179
+  },
+  {
+    "id": 149,
+    "tag": "P074",
+    "en": "“You speak like a Frenchman.”",
+    "ko": "“당신은 프랑스인처럼 말하는군.”",
+    "is_header": false,
+    "raw_ref_id": 180
+  },
+  {
+    "id": 150,
+    "tag": "P075",
+    "en": "“I used to study here.”",
+    "ko": "“나는 예전에 여기서 공부했소.”",
+    "is_header": false,
+    "raw_ref_id": 181
+  },
+  {
+    "id": 151,
+    "tag": "P076_1",
+    "en": "“Aha, a perfect Frenchman!",
+    "ko": "“아하, 완벽한 프랑스인이군!",
+    "is_header": false,
+    "raw_ref_id": 182
+  },
+  {
+    "id": 152,
+    "tag": "P076_2",
+    "en": "Good night, Englishman.”",
+    "ko": "잘 자시오, 영국인.”",
+    "is_header": false,
+    "raw_ref_id": 183
+  },
+  {
+    "id": 153,
+    "tag": "P077",
+    "en": "“Good night, citizen.”",
+    "ko": "“잘 자시오, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 184
+  },
+  {
+    "id": 154,
+    "tag": "P078",
+    "en": "“But go watch that funny guy,” the little man called after him. “And take a pipe with you!”",
+    "ko": "“하지만 그 재미있는 친구를 꼭 보러 가시오,” 그 작은 남자가 그의 뒤에 대고 외쳤다. “그리고 갈 때 파이프를 꼭 챙기시오!”",
+    "is_header": false,
+    "raw_ref_id": 185
+  },
+  {
+    "id": 155,
+    "tag": "P079_1",
+    "en": "Sydney walked a short distance, stopped under a street lamp, and wrote on a piece of paper.",
+    "ko": "시드니는 짧은 거리를 걸은 후 가로등 아래에서 멈춰 종이 한 장에 무언가를 적었다.",
+    "is_header": false,
+    "raw_ref_id": 186
+  },
+  {
+    "id": 156,
+    "tag": "P079_2",
+    "en": "Then, walking confidently through several dark, dirty streets, which were neglected during the revolution, he stopped at a pharmacy that the owner was closing.",
+    "ko": "그러고 나서 그는 혁명 기간 동안 방치된 어둡고 더러운 거리 몇 곳을 자신감 있게 걸어가 주인이 문을 닫고 있는 약국 앞에 멈춰 섰다.",
+    "is_header": false,
+    "raw_ref_id": 187
+  },
+  {
+    "id": 157,
+    "tag": "P079_3",
+    "en": "It was a tiny, dim, crooked shop on a steep street, owned by a small, crooked man.",
+    "ko": "그곳은 가파른 거리에 있는 작고 어둑하며 비뚤어진 가게였고, 작고 비뚤어진 남자가 주인이었다.",
+    "is_header": false,
+    "raw_ref_id": 188
+  },
+  {
+    "id": 158,
+    "tag": "P080",
+    "en": "Greeting the pharmacist, Carton laid his paper on the counter. The chemist whistled softly as he read it, murmuring, “Oh! My, my!”",
+    "ko": "약사에게 인사를 한 후 카턴은 자신의 종이를 계산대 위에 올려놓았다. 약사는 그것을 읽으며 부드럽게 휘파람을 불고는 중얼거렸다, “오! 이런, 이런!”",
+    "is_header": false,
+    "raw_ref_id": 189
+  },
+  {
+    "id": 159,
+    "tag": "P081",
+    "en": "Sydney Carton ignored him, and the chemist asked:",
+    "ko": "시드니 카턴은 그를 무시했고, 약사가 물었다:",
+    "is_header": false,
+    "raw_ref_id": 190
+  },
+  {
+    "id": 160,
+    "tag": "P082",
+    "en": "“Is this for you, citizen?”",
+    "ko": "“이것은 당신을 위한 것이오, 시민?”",
+    "is_header": false,
+    "raw_ref_id": 191
+  },
+  {
+    "id": 161,
+    "tag": "P083",
+    "en": "“For me.”",
+    "ko": "“나를 위한 것이오.”",
+    "is_header": false,
+    "raw_ref_id": 192
+  },
+  {
+    "id": 162,
+    "tag": "P084_1",
+    "en": "“You will keep them separate, citizen?",
+    "ko": "“이것들을 따로 보관하시겠소, 시민?",
+    "is_header": false,
+    "raw_ref_id": 193
+  },
+  {
+    "id": 163,
+    "tag": "P084_2",
+    "en": "You know what happens if you mix them?”",
+    "ko": "이것들을 섞으면 어떻게 되는지 아시지 않소?”",
+    "is_header": false,
+    "raw_ref_id": 194
+  },
+  {
+    "id": 164,
+    "tag": "P085",
+    "en": "“Perfectly.”",
+    "ko": "“완벽하게 알고 있소.”",
+    "is_header": false,
+    "raw_ref_id": 195
+  },
+  {
+    "id": 165,
+    "tag": "P086_1",
+    "en": "The chemist prepared small packets and handed them over.",
+    "ko": "약사는 작은 봉지들을 준비하여 그에게 건네주었다.",
+    "is_header": false,
+    "raw_ref_id": 196
+  },
+  {
+    "id": 166,
+    "tag": "P086_2",
+    "en": "Carton put them in his inside coat pocket, paid for them, and walked out. “There is nothing left to do,” he said, looking up at the moon, “until tomorrow.",
+    "ko": "카턴은 그것들을 코트 안주머니에 넣고 값을 지불한 뒤 밖으로 걸어 나갔다. “이제 남은 일은 없어,” 달을 올려다보며 그가 말했다, “내일까지는.”",
+    "is_header": false,
+    "raw_ref_id": 197
+  },
+  {
+    "id": 167,
+    "tag": "P086_3",
+    "en": "I can't sleep.”",
+    "ko": "잠이 오지 않는군.”",
+    "is_header": false,
+    "raw_ref_id": 198
+  },
+  {
+    "id": 168,
+    "tag": "P087_1",
+    "en": "The way he spoke these words out loud under the fast-moving clouds wasn't careless, nor did it show any more neglect than it did defiance.",
+    "ko": "빠르게 움직이는 구름 아래에서 그가 이 말들을 소리 내어 말하는 방식은 부주의하지도 않았고, 반항심 이상의 방관을 보여주지도 않았다.",
+    "is_header": false,
+    "raw_ref_id": 199
+  },
+  {
+    "id": 169,
+    "tag": "P087_2",
+    "en": "It was the calm voice of a tired man who had been lost for a long time but had finally found his path and could see the end of it.",
+    "ko": "그것은 오랫동안 길을 잃었으나 마침내 자신의 길을 찾아 그 끝을 볼 수 있게 된 지친 남자의 차분한 목소리였다.",
+    "is_header": false,
+    "raw_ref_id": 200
+  },
+  {
+    "id": 170,
+    "tag": "P088_1",
+    "en": "Long ago, when he was a promising young student, he had attended his father's funeral.",
+    "ko": "오래전, 그가 전도유망한 젊은 학생이었을 때, 그는 아버지의 장례식에 참석했었다.",
+    "is_header": false,
+    "raw_ref_id": 201
+  },
+  {
+    "id": 171,
+    "tag": "P088_2",
+    "en": "His mother had died years before that.",
+    "ko": "그의 어머니는 그보다 몇 년 전에 돌아가셨다.",
+    "is_header": false,
+    "raw_ref_id": 202
+  },
+  {
+    "id": 172,
+    "tag": "P088_3",
+    "en": "The religious words read at his father's grave came back to him now as he walked through the dark, shadowy streets under the moon: “I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me, shall never die.”",
+    "ko": "달빛 아래 어둡고 그림자 진 거리를 걸어가며, 아버지의 무덤에서 낭독되었던 종교적인 말씀이 이제 그에게 다시 떠올랐다: “나는 부활이요 생명이니, 나를 믿는 자는 죽어도 살겠고, 무릇 살아서 나를 믿는 자는 영원히 죽지 아니하리라, 주께서 말씀하셨다.”",
+    "is_header": false,
+    "raw_ref_id": 203
+  },
+  {
+    "id": 173,
+    "tag": "P089_1",
+    "en": "In a city ruled by the Guillotine, walking alone at night, he felt sad for the sixty-three people executed that day and for the next day's victims waiting in their cells. The words comforted him like an anchor in a storm.",
+    "ko": "단두대가 지배하는 도시에서 밤에 홀로 걸으며, 그는 그날 처형된 예순세 명의 사람들과 감방에서 기다리고 있는 다음 날의 희생자들에 대해 슬픔을 느꼈다. 그 말씀은 폭풍우 속의 닻처럼 그를 위로해주었다.",
+    "is_header": false,
+    "raw_ref_id": 204
+  },
+  {
+    "id": 174,
+    "tag": "P089_2",
+    "en": "He did not think about why they came to him, but simply repeated them as he walked.",
+    "ko": "그는 왜 그 말씀이 자신에게 떠올랐는지 생각하지 않고, 그저 걸으면서 그것을 반복했다.",
+    "is_header": false,
+    "raw_ref_id": 205
+  },
+  {
+    "id": 175,
+    "tag": "P090",
+    "en": "He looked at the lit windows where people were going to sleep, escaping the day's horrors for a few hours. He saw the dark church towers where no one prayed anymore, because the people had rejected religion after years of corrupt priests. He thought of the cemeteries with signs reading \"Eternal Sleep,\" the crowded jails, and the streets where cartloads of people rode to their deaths daily. Walking through this city of death as it quieted down for the night, Carton crossed the river again.",
+    "ko": "그는 사람들이 몇 시간 동안이나마 그날의 공포에서 벗어나 잠자리에 들려 하는 불 켜진 창문들을 바라보았다. 그는 수년 동안의 타락한 사제들 이후 사람들이 종교를 거부했기 때문에 더 이상 아무도 기도하지 않는 어두운 교회 탑들을 보았다. 그는 \"영원한 수면\"이라는 팻말이 붙은 공동묘지들, 붐비는 감옥들, 그리고 마차에 실려 죽음을 향해 가는 사람들의 행렬이 매일 지나가는 거리들을 생각했다. 밤을 맞아 고요해져 가는 이 죽음의 도시를 걸으며, 카턴은 다시 강을 건넸다.",
+    "is_header": false,
+    "raw_ref_id": 206
+  },
+  {
+    "id": 176,
+    "tag": "P091_1",
+    "en": "There were few carriages on the streets, as riding in them looked suspicious. Wealthy people wore simple red caps and heavy shoes to look like common workers.",
+    "ko": "거리에는 마차가 거의 없었는데, 마차를 타는 것이 의심스러워 보였기 때문이다. 부유한 사람들은 평범한 노동자처럼 보이기 위해 단순한 붉은 모자와 무거운 신발을 신었다.",
+    "is_header": false,
+    "raw_ref_id": 207
+  },
+  {
+    "id": 177,
+    "tag": "P091_2",
+    "en": "However, the theaters were packed, and crowds of people walked home chatting happily.",
+    "ko": "그러나 극장들은 붐볐고, 수많은 사람들이 즐겁게 이야기를 나누며 집으로 걸어갔다.",
+    "is_header": false,
+    "raw_ref_id": 208
+  },
+  {
+    "id": 178,
+    "tag": "P091_3",
+    "en": "Near a theater door, he saw a mother and a little girl trying to cross the muddy street.",
+    "ko": "한 극장 문 근처에서 그는 진흙탕 거리를 건너려 하는 어머니와 어린 소녀를 보았다.",
+    "is_header": false,
+    "raw_ref_id": 209
+  },
+  {
+    "id": 179,
+    "tag": "P091_4",
+    "en": "He carried the child across, and before she let go of his neck, he asked her for a kiss.",
+    "ko": "그는 아이를 안고 건넜고, 아이가 그의 목에서 손을 놓기 전에 아이에게 키스를 부탁했다.",
+    "is_header": false,
+    "raw_ref_id": 210
+  },
+  {
+    "id": 180,
+    "tag": "P092",
+    "en": "“I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me, shall never die.”",
+    "ko": "“나는 부활이요 생명이니, 나를 믿는 자는 죽어도 살겠고, 무릇 살아서 나를 믿는 자는 영원히 죽지 아니하리라, 주께서 말씀하셨다.”",
+    "is_header": false,
+    "raw_ref_id": 211
+  },
+  {
+    "id": 181,
+    "tag": "P093_1",
+    "en": "Now that the streets were quiet and the night grew late, the words seemed to echo in his footsteps and in the air.",
+    "ko": "거리가 조용해지고 밤이 깊어지자, 그 말씀이 그의 발걸음과 공기 중에 메아리치는 것 같았다.",
+    "is_header": false,
+    "raw_ref_id": 212
+  },
+  {
+    "id": 182,
+    "tag": "P093_2",
+    "en": "Calm and steady, he repeated them to himself as he walked, hearing them constantly.",
+    "ko": "차분하고 확고하게, 그는 걸으면서 속으로 그 말씀을 끊임없이 들으며 반복했다.",
+    "is_header": false,
+    "raw_ref_id": 213
+  },
+  {
+    "id": 183,
+    "tag": "P094_1",
+    "en": "The night ended. As he stood on the bridge listening to the river against the walls of the city, where houses and the cathedral shone under the moon, dawn broke coldly like a dead face in the sky.",
+    "ko": "밤이 끝났다. 그가 다리 위에 서서 강물이 도시의 벽에 부딪히는 소리를 듣고 있을 때, 집들과 대성당이 달빛 아래 빛나는 가운데 새벽이 하늘에서 죽은 사람의 얼굴처럼 차갑게 밝아왔다.",
+    "is_header": false,
+    "raw_ref_id": 214
+  },
+  {
+    "id": 184,
+    "tag": "P094_2",
+    "en": "Then, the night, along with the moon and stars, grew pale and faded away, and for a short time it seemed as if the entire world had been handed over to the rule of Death.",
+    "ko": "그 후 밤은 달과 별과 함께 창백해지며 사라졌고, 잠시 동안 온 세상이 죽음의 지배에 넘겨진 것 같았다.",
+    "is_header": false,
+    "raw_ref_id": 215
+  },
+  {
+    "id": 185,
+    "tag": "P095_1",
+    "en": "But when the sun rose, its warm rays seemed to bring the words straight to his heart.",
+    "ko": "그러나 해가 떴을 때, 그 따뜻한 광선은 그 말씀을 그의 가슴속으로 곧장 가져다주는 것 같았다.",
+    "is_header": false,
+    "raw_ref_id": 216
+  },
+  {
+    "id": 186,
+    "tag": "P095_2",
+    "en": "Shading his eyes, he saw a bridge of light stretching across the sparkling river toward the sun.",
+    "ko": "눈을 가리고서 그는 태양을 향해 반짝이는 강 위로 뻗어 있는 빛의 다리를 보았다.",
+    "is_header": false,
+    "raw_ref_id": 217
+  },
+  {
+    "id": 187,
+    "tag": "P096_1",
+    "en": "The deep, swift river felt like a friend in the quiet morning.",
+    "ko": "깊고 빠른 강물은 고요한 아침에 친구처럼 느껴졌다.",
+    "is_header": false,
+    "raw_ref_id": 218
+  },
+  {
+    "id": 188,
+    "tag": "P096_2",
+    "en": "He walked along the bank far from any houses and fell asleep in the warm sun.",
+    "ko": "그는 어떤 집들로부터도 멀리 떨어진 강둑을 따라 걷다가 따뜻한 햇살 속에서 잠이 들었다.",
+    "is_header": false,
+    "raw_ref_id": 219
+  },
+  {
+    "id": 189,
+    "tag": "P096_3",
+    "en": "When he woke up, he stayed a bit longer, watching a small whirlpool spin uselessly until the river swept it away toward the sea. “Just like me,” he thought.",
+    "ko": "잠에서 깨어났을 때, 그는 강물이 작은 소용돌이를 바다로 휩쓸어 갈 때까지 소용돌이가 헛되이 도는 것을 지켜보며 잠시 더 머물렀다. “마치 나와 같군,” 그는 생각했다.",
+    "is_header": false,
+    "raw_ref_id": 220
+  },
+  {
+    "id": 190,
+    "tag": "P097_1",
+    "en": "A boat with a sail the color of a dead leaf floated past him and disappeared.",
+    "ko": "죽은 잎사귀 색깔의 돛을 단 배가 그를 지나쳐 떠내려가며 사라졌다.",
+    "is_header": false,
+    "raw_ref_id": 221
+  },
+  {
+    "id": 191,
+    "tag": "P097_2",
+    "en": "As the ripples in the water faded, the prayer in his heart for forgiveness for all his past mistakes ended with the words, “I am the resurrection and the life.”",
+    "ko": "물결이 사라지면서, 그의 모든 과거의 실수에 대한 용서를 구하는 마음속의 기도는 “나는 부활이요 생명이라.”라는 말씀과 함께 끝났다.",
+    "is_header": false,
+    "raw_ref_id": 222
+  },
+  {
+    "id": 192,
+    "tag": "P098_1",
+    "en": "Mr. Lorry was already out when he returned, and it was easy to guess where the good old man had gone.",
+    "ko": "그가 돌아왔을 때 로리 씨는 이미 외출하고 없었으며, 그 선량한 노인이 어디로 갔는지는 짐작하기 쉬웠다.",
+    "is_header": false,
+    "raw_ref_id": 223
+  },
+  {
+    "id": 193,
+    "tag": "P098_3",
+    "en": "Carton drank some coffee, ate a bit of bread, washed his face, changed his clothes, and walked to the courtroom.",
+    "ko": "카턴은 커피를 마시고 빵을 조금 먹은 뒤 세수를 하고 옷을 갈아입고서 법정으로 걸어갔다.",
+    "is_header": false,
+    "raw_ref_id": 225
+  },
+  {
+    "id": 194,
+    "tag": "P099_1",
+    "en": "The courtroom was crowded and noisy when the spy, whom everyone avoided in fear, guided Carton into a quiet corner in the crowd.",
+    "ko": "모두가 두려워하며 피하는 스파이가 무리 속의 조용한 구석으로 카턴을 안내했을 때, 법정은 붐비고 시끄러웠다.",
+    "is_header": false,
+    "raw_ref_id": 226
+  },
+  {
+    "id": 195,
+    "tag": "P099_2",
+    "en": "Mr. Lorry was there, and Doctor Manette was there. She was there, sitting beside her father.",
+    "ko": "로리 씨가 그곳에 있었고, 마네트 박사도 그곳에 있었다. 그녀 역시 아버지 곁에 앉아 그곳에 있었다.",
+    "is_header": false,
+    "raw_ref_id": 227
+  },
+  {
+    "id": 196,
+    "tag": "P100_1",
+    "en": "When Charles was brought in, she looked at him with such love, encouragement, and courage that it brought color back to his face and gave him strength.",
+    "ko": "찰스가 끌려왔을 때, 그녀가 사랑과 격려, 용기를 담아 그를 바라보았고 그 눈빛은 그의 얼굴에 생기를 되찾아 주고 힘을 주었다.",
+    "is_header": false,
+    "raw_ref_id": 229
+  },
+  {
+    "id": 197,
+    "tag": "P100_2",
+    "en": "If anyone had looked at Sydney Carton's face at that moment, they would have seen the exact same look of devotion in his eyes.",
+    "ko": "누군가 그 순간 시드니 카턴의 얼굴을 보았다면, 그의 눈에서도 똑같은 헌신의 표정을 보았을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 230
+  },
+  {
+    "id": 198,
+    "tag": "P101_1",
+    "en": "In this unfair court, there was no real legal procedure to give the accused a fair trial.",
+    "ko": "이 불공정한 법정에는 피고인에게 공정한 재판을 제공할 실질적인 법적 절차가 없었다.",
+    "is_header": false,
+    "raw_ref_id": 231
+  },
+  {
+    "id": 199,
+    "tag": "P101_2",
+    "en": "The Revolution had only happened because the old laws had been so badly abused, and now the angry Republic had thrown all legal rules out the window.",
+    "ko": "혁명은 오직 낡은 법들이 너무나 심하게 남용되었기 때문에 일어난 것이었으며, 이제 분노한 공화국은 모든 법적 규칙을 내던져버린 상태였다.",
+    "is_header": false,
+    "raw_ref_id": 232
+  },
+  {
+    "id": 200,
+    "tag": "P102_1",
+    "en": "Everyone stared at the jury.",
+    "ko": "모두가 배심원들을 빤히 쳐다보았다.",
+    "is_header": false,
+    "raw_ref_id": 233
+  },
+  {
+    "id": 201,
+    "tag": "P102_2",
+    "en": "They were the same fierce patriots who sat there every day.",
+    "ko": "그들은 매일 그곳에 앉아 있는 바로 그 맹렬한 애국자들이었다.",
+    "is_header": false,
+    "raw_ref_id": 234
+  },
+  {
+    "id": 202,
+    "tag": "P102_3",
+    "en": "Prominent among them was one man with a hungry look who kept touching his lips, which pleased the crowd.",
+    "ko": "그들 중에서 특히 눈에 띄는 한 남자는 굶주린 표정으로 계속해서 자신의 입술을 만지고 있었는데, 그것은 관중을 즐겁게 했다.",
+    "is_header": false,
+    "raw_ref_id": 235
+  },
+  {
+    "id": 203,
+    "tag": "P102_4",
+    "en": "A bloodthirsty, cannibal-looking, murderous juryman—Jacques Three of St. Antoine. The whole jury was like a jury of dogs impaneled to try the deer.",
+    "ko": "목숨을 갈망하고 식인종처럼 보이며 잔학한 마음을 품은 배심원, 생 앙투안의 자크 3호였다. 배심원단 전체가 마치 사슴을 재판하기 위해 소집된 사냥개 무리 같았다.",
+    "is_header": false,
+    "raw_ref_id": 236
+  },
+  {
+    "id": 204,
+    "tag": "P103_1",
+    "en": "Then everyone looked at the five judges and the prosecutor.",
+    "ko": "그러고 나서 모두가 다섯 명의 판사와 검사를 바라보았다.",
+    "is_header": false,
+    "raw_ref_id": 238
+  },
+  {
+    "id": 205,
+    "tag": "P103_2",
+    "en": "There was no sympathy there today; they looked grim and ready to execute.",
+    "ko": "오늘 그곳에는 어떠한 동정심도 없었다. 그들은 무시무시해 보였고 처형할 준비가 되어 있었다.",
+    "is_header": false,
+    "raw_ref_id": 239
+  },
+  {
+    "id": 206,
+    "tag": "P103_3",
+    "en": "The people in the crowd looked at each other and nodded in approval, leaning forward to pay close attention.",
+    "ko": "군중 속 사람들은 서로를 쳐다보며 찬성의 뜻으로 고개를 끄덕였고 세심한 주의를 기울이기 위해 몸을 앞으로 숙였다.",
+    "is_header": false,
+    "raw_ref_id": 240
+  },
+  {
+    "id": 207,
+    "tag": "P104_1",
+    "en": "Charles Evremonde, called Darnay.",
+    "ko": "다네이라고 불리는 찰스 에브레몽드.",
+    "is_header": false,
+    "raw_ref_id": 241
+  },
+  {
+    "id": 208,
+    "tag": "P104_2",
+    "en": "Released yesterday.",
+    "ko": "어제 석방되었음.",
+    "is_header": false,
+    "raw_ref_id": 242
+  },
+  {
+    "id": 209,
+    "tag": "P104_3",
+    "en": "Re-accused and arrested again yesterday.",
+    "ko": "어제 재고발되어 다시 체포되었음.",
+    "is_header": false,
+    "raw_ref_id": 243
+  },
+  {
+    "id": 210,
+    "tag": "P104_4",
+    "en": "Charges delivered to him last night.",
+    "ko": "어젯밤 그에게 혐의가 전달되었음.",
+    "is_header": false,
+    "raw_ref_id": 244
+  },
+  {
+    "id": 211,
+    "tag": "P104_5",
+    "en": "Suspected and accused enemy of the Republic, an aristocrat from a family of tyrants, whose class was outlawed for oppressing the common people.",
+    "ko": "공화국의 적, 평민들을 억압하여 법의 보호를 박탈당한 계급인 폭군 가문 출신의 귀족으로 의심받고 기소됨.",
+    "is_header": false,
+    "raw_ref_id": 245
+  },
+  {
+    "id": 212,
+    "tag": "P104_6",
+    "en": "Because of this, Charles Darnay was already considered dead under the law.",
+    "ko": "이로 인해, 찰스 다네이는 이미 법에 따라 죽은 것으로 간주되었다.",
+    "is_header": false,
+    "raw_ref_id": 246
+  },
+  {
+    "id": 213,
+    "tag": "P105",
+    "en": "The public prosecutor spoke to this effect in very few words.",
+    "ko": "검사는 이 취지의 말을 아주 짧게 말했다.",
+    "is_header": false,
+    "raw_ref_id": 247
+  },
+  {
+    "id": 214,
+    "tag": "P106",
+    "en": "The president asked if the accused was reported openly or in secret.",
+    "ko": "재판장은 피고인이 공개적으로 고발되었는지 아니면 비밀리에 고발되었는지 물었다.",
+    "is_header": false,
+    "raw_ref_id": 248
+  },
+  {
+    "id": 215,
+    "tag": "P107",
+    "en": "“Openly, President.”",
+    "ko": "“공개적입니다, 재판장님.”",
+    "is_header": false,
+    "raw_ref_id": 249
+  },
+  {
+    "id": 216,
+    "tag": "P108",
+    "en": "“By whom?”",
+    "ko": "“누구에 의해서요?”",
+    "is_header": false,
+    "raw_ref_id": 250
+  },
+  {
+    "id": 217,
+    "tag": "P109_1",
+    "en": "“Three voices.",
+    "ko": "“세 사람의 목소리입니다.",
+    "is_header": false,
+    "raw_ref_id": 251
+  },
+  {
+    "id": 218,
+    "tag": "P109_2",
+    "en": "Ernest Defarge, wine shop owner of Saint Antoine.”",
+    "ko": "생탕투안의 와인 가게 주인인 어니스트 드파르지입니다.”",
+    "is_header": false,
+    "raw_ref_id": 252
+  },
+  {
+    "id": 219,
+    "tag": "P110",
+    "en": "“Good.”",
+    "ko": "“좋소.”",
+    "is_header": false,
+    "raw_ref_id": 253
+  },
+  {
+    "id": 220,
+    "tag": "P111",
+    "en": "“Therese Defarge, his wife.”",
+    "ko": "“그의 아내인 테레즈 드파르지입니다.”",
+    "is_header": false,
+    "raw_ref_id": 254
+  },
+  {
+    "id": 221,
+    "tag": "P112",
+    "en": "“Good.”",
+    "ko": "“좋소.”",
+    "is_header": false,
+    "raw_ref_id": 255
+  },
+  {
+    "id": 222,
+    "tag": "P113",
+    "en": "“Alexandre Manette, physician.”",
+    "ko": "“의사인 알렉상드르 마네트입니다.”",
+    "is_header": false,
+    "raw_ref_id": 256
+  },
+  {
+    "id": 223,
+    "tag": "P114",
+    "en": "A huge uproar broke out in the courtroom. In the middle of the noise, Doctor Manette stood up, pale and shaking.",
+    "ko": "법정 안에서 엄청난 소란이 일어났다. 그 소음 한가운데에서 마네트 박사가 창백해진 채 몸을 떨며 일어섰다.",
+    "is_header": false,
+    "raw_ref_id": 257
+  },
+  {
+    "id": 224,
+    "tag": "P115_1",
+    "en": "\"President, I angrily protest to you that this is a forgery and a fraud!",
+    "ko": "\"재판장님, 이것은 위조이며 사기라고 분노하며 항의합니다!",
+    "is_header": false,
+    "raw_ref_id": 258
+  },
+  {
+    "id": 225,
+    "tag": "P115_2",
+    "en": "This is a lie and a fraud!” he cried. “You know the accused is my daughter's husband.",
+    "ko": "이것은 거짓말이고 사기입니다!” 그가 외쳤다. “피고가 내 딸의 남편이라는 것을 알고 계시지 않습니까.",
+    "is_header": false,
+    "raw_ref_id": 259
+  },
+  {
+    "id": 226,
+    "tag": "P115_3",
+    "en": "My daughter and her family are dearer to me than my own life.",
+    "ko": "내 딸과 그녀의 가족은 내 목숨보다 더 소중합니다.",
+    "is_header": false,
+    "raw_ref_id": 260
+  },
+  {
+    "id": 227,
+    "tag": "P115_4",
+    "en": "Who is the liar saying that I accused my daughter's husband!”",
+    "ko": "내가 내 딸의 남편을 고발했다고 말하는 거짓말쟁이가 대체 누굽니까!”",
+    "is_header": false,
+    "raw_ref_id": 261
+  },
+  {
+    "id": 228,
+    "tag": "P116_1",
+    "en": "“Citizen Manette, calm down.",
+    "ko": "“마네트 시민, 진정하시오.",
+    "is_header": false,
+    "raw_ref_id": 262
+  },
+  {
+    "id": 229,
+    "tag": "P116_2",
+    "en": "Refusing to obey the court will make you an outlaw.",
+    "ko": "법정에 복종하기를 거부하면 당신은 무법자가 될 것이오.",
+    "is_header": false,
+    "raw_ref_id": 263
+  },
+  {
+    "id": 230,
+    "tag": "P116_3",
+    "en": "As for what is dearer than life, nothing can be more precious to a good citizen than the Republic.”",
+    "ko": "목숨보다 더 소중한 것에 대해 말하자면, 선량한 시민에게 공화국보다 더 귀중한 것은 있을 수 없소.”",
+    "is_header": false,
+    "raw_ref_id": 264
+  },
+  {
+    "id": 231,
+    "tag": "P117_1",
+    "en": "The crowd cheered loudly at this warning.",
+    "ko": "군중은 이 경고에 큰 소리로 환호했다.",
+    "is_header": false,
+    "raw_ref_id": 265
+  },
+  {
+    "id": 232,
+    "tag": "P117_2",
+    "en": "The president rang his bell and continued passionately:",
+    "ko": "재판장은 종을 울리며 열정적으로 말을 이었다:",
+    "is_header": false,
+    "raw_ref_id": 266
+  },
+  {
+    "id": 233,
+    "tag": "P118_1",
+    "en": "“If the Republic demands the sacrifice of your own child, your duty is to give her up.",
+    "ko": "“만약 공화국이 당신의 친자식의 희생을 요구한다면, 그녀를 내어주는 것이 당신의 의무요.",
+    "is_header": false,
+    "raw_ref_id": 267
+  },
+  {
+    "id": 234,
+    "tag": "P118_2",
+    "en": "Listen to what is next, and stay silent!”",
+    "ko": "다음에 이어질 말을 듣고 침묵하시오!”",
+    "is_header": false,
+    "raw_ref_id": 268
+  },
+  {
+    "id": 235,
+    "tag": "P119_1",
+    "en": "The crowd cheered wildly again.",
+    "ko": "군중은 다시 한번 열광적으로 환호했다.",
+    "is_header": false,
+    "raw_ref_id": 269
+  },
+  {
+    "id": 236,
+    "tag": "P119_2",
+    "en": "Doctor Manette sat down, his eyes wide and his lips trembling, while Lucie drew closer to him.",
+    "ko": "마네트 박사는 두 눈을 크게 뜨고 입술을 떨며 자리에 앉았고, 루시는 그에게 더 가까이 다가갔다.",
+    "is_header": false,
+    "raw_ref_id": 270
+  },
+  {
+    "id": 237,
+    "tag": "P119_3",
+    "en": "The bloodthirsty juror rubbed his hands together and touched his lips again.",
+    "ko": "피에 굶주린 배심원은 두 손을 비비며 다시 입술을 만졌다.",
+    "is_header": false,
+    "raw_ref_id": 271
+  },
+  {
+    "id": 238,
+    "tag": "P120_1",
+    "en": "When the room quieted down, Defarge was brought forward. He explained how he had been a boy working for the Doctor, how the Doctor was released, and the state he was in when he was delivered to the wine shop.",
+    "ko": "방이 조용해지자 드파르지가 불려 나왔다. 그는 자신이 박사를 위해 일하던 소년이었을 때의 일, 박사가 어떻게 풀려났는지, 그리고 그가 와인 가게에 넘겨졌을 때 어떤 상태였는지 설명했다.",
+    "is_header": false,
+    "raw_ref_id": 272
+  },
+  {
+    "id": 239,
+    "tag": "P120_2",
+    "en": "A short questioning followed, as the court worked quickly.",
+    "ko": "법정은 신속하게 진행되었고 짧은 심문이 이어졌다.",
+    "is_header": false,
+    "raw_ref_id": 273
+  },
+  {
+    "id": 240,
+    "tag": "P121",
+    "en": "“You did good work at the capture of the Bastille, citizen?”",
+    "ko": "“당신은 바스티유 함락 때 큰 공을 세웠지, 시민?”",
+    "is_header": false,
+    "raw_ref_id": 274
+  },
+  {
+    "id": 241,
+    "tag": "P122",
+    "en": "“I believe so.”",
+    "ko": "“그렇다고 믿습니다.”",
+    "is_header": false,
+    "raw_ref_id": 275
+  },
+  {
+    "id": 242,
+    "tag": "P123_1",
+    "en": "An excited woman in the crowd LSM screamed, “You were one of the best patriots there!",
+    "ko": "군중 속의 한 흥분한 여성이 비명을 질렀다. “당신은 그곳에 있던 최고의 애국자 중 한 명이었소!",
+    "is_header": false,
+    "raw_ref_id": 276
+  },
+  {
+    "id": 243,
+    "tag": "P123_2",
+    "en": "Why not say it?",
+    "ko": "왜 그렇게 말하지 않는 거요?",
+    "is_header": false,
+    "raw_ref_id": 277
+  },
+  {
+    "id": 244,
+    "tag": "P123_3",
+    "en": "You worked the cannons that day, and you were among the first to enter the fortress when it fell.",
+    "ko": "당신은 그날 대포를 쏘았고, 요새가 무너졌을 때 가장 먼저 들어간 사람 중 하나였소.",
+    "is_header": false,
+    "raw_ref_id": 278
+  },
+  {
+    "id": 245,
+    "tag": "P123_4",
+    "en": "Patriots, I tell the truth!”",
+    "ko": "애국자들이여, 나는 진실을 말하고 있소!”",
+    "is_header": false,
+    "raw_ref_id": 279
+  },
+  {
+    "id": 246,
+    "tag": "P124_1",
+    "en": "It was The Vengeance shouting this, to the cheers of the crowd.",
+    "ko": "이렇게 외친 사람은 복수의 여신이었고, 군중은 환호했다.",
+    "is_header": false,
+    "raw_ref_id": 280
+  },
+  {
+    "id": 247,
+    "tag": "P124_2",
+    "en": "The president rang his bell, but she screamed, “I defy that bell!” which pleased the crowd even more.",
+    "ko": "재판장이 종을 울렸지만 그녀는 “나는 저 종에 굴복하지 않겠소!”라고 소리쳤고, 이는 군중을 더욱 기쁘게 했다.",
+    "is_header": false,
+    "raw_ref_id": 281
+  },
+  {
+    "id": 248,
+    "tag": "P125",
+    "en": "“Tell the court what you did inside the Bastille that day, citizen.”",
+    "ko": "“그날 바스티유 안에서 당신이 한 일을 법정에 말해보시오, 시민.”",
+    "is_header": false,
+    "raw_ref_id": 282
+  },
+  {
+    "id": 249,
+    "tag": "P126_1",
+    "en": "“I knew,” Defarge said, looking down at his wife, who stood below him watching him closely, “that this prisoner had been kept in cell One Hundred and Five, North Tower.",
+    "ko": "아래에서 그를 빤히 쳐다보고 있는 아내를 내려다보며 드파르지가 말했다. “나는 이 죄수가 북쪽 탑 일백오호 감방에 갇혀 있었다는 것을 알고 있었습니다.",
+    "is_header": false,
+    "raw_ref_id": 283
+  },
+  {
+    "id": 250,
+    "tag": "P126_2",
+    "en": "I knew it from the Doctor himself.",
+    "ko": "나는 그것을 박사 본인에게서 들었습니다.",
+    "is_header": false,
+    "raw_ref_id": 284
+  },
+  {
+    "id": 251,
+    "tag": "P126_3",
+    "en": "He called himself by that name when he made shoes in my attic.",
+    "ko": "그는 내 다락방에서 신발을 만들 때 스스로를 그 이름으로 불렀습니다.",
+    "is_header": false,
+    "raw_ref_id": 285
+  },
+  {
+    "id": 252,
+    "tag": "P126_4",
+    "en": "While working my cannon that day, I resolved to search that cell once the Bastille fell.",
+    "ko": "그날 대포를 쏘면서 나는 바스티유가 함락되면 그 감방을 수색하기로 결심했습니다.",
+    "is_header": false,
+    "raw_ref_id": 286
+  },
+  {
+    "id": 253,
+    "tag": "P126_5",
+    "en": "When it did, I went up to the cell with a fellow citizen who is now on the jury.",
+    "ko": "함락되었을 때, 나는 지금 배심원단에 있는 동료 시민과 함께 그 감방으로 올라갔습니다.",
+    "is_header": false,
+    "raw_ref_id": 287
+  },
+  {
+    "id": 254,
+    "tag": "P126_6",
+    "en": "In a hole in the chimney where a stone had been loose, I found a paper.",
+    "ko": "돌이 헐거워져 있던 굴뚝의 한 구멍에서 나는 종이 한 장을 발견했습니다.",
+    "is_header": false,
+    "raw_ref_id": 288
+  },
+  {
+    "id": 255,
+    "tag": "P126_7",
+    "en": "This is that paper.",
+    "ko": "이것이 바로 그 종이입니다.",
+    "is_header": false,
+    "raw_ref_id": 289
+  },
+  {
+    "id": 256,
+    "tag": "P126_8",
+    "en": "I have made it my business to examine some samples of Doctor Manette's handwriting. This is definitely the handwriting of Doctor Manette.",
+    "ko": "나는 마네트 박사의 필적 견본들을 조사하는 것을 내 일로 삼아왔습니다. 이것은 틀림없이 마네트 박사의 필적입니다.",
+    "is_header": false,
+    "raw_ref_id": 290
+  },
+  {
+    "id": 257,
+    "tag": "P126_9",
+    "en": "I hand this paper over to the President of the court.”",
+    "ko": "나는 이 종이를 법정의 재판장에게 넘기겠습니다.”",
+    "is_header": false,
+    "raw_ref_id": 291
+  },
+  {
+    "id": 258,
+    "tag": "P127",
+    "en": "“Let it be read.”",
+    "ko": "“읽어보도록 하라.”",
+    "is_header": false,
+    "raw_ref_id": 292
+  },
+  {
+    "id": 259,
+    "tag": "P128",
+    "en": "In absolute silence, Charles looked lovingly at his wife, who looked back and forth between him and her father. Doctor Manette kept his eyes on the reader, Madame Defarge stared at the prisoner, Defarge watched his wife, and everyone else looked at the Doctor. The paper was then read aloud as follows.",
+    "ko": "절대적인 침묵 속에서 다네이는 아내를 사랑스럽게 바라보았고, 루시는 남편과 아버지 사이를 번갈아 바라보았다. 마네트 박사는 낭독자에게 시선을 고정했고, 마담 드파르지는 죄수를 노려보았으며, 드파르지는 아내를 지켜보았고, 다른 모든 사람들은 박사를 바라보았다. 이윽고 그 종이가 다음과 같이 크게 낭독되었다.",
+    "is_header": false,
+    "raw_ref_id": 293
+  }
+]

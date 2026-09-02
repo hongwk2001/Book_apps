@@ -1,0 +1,15 @@
+P007_1: In England, too, there was scarcely enough order or protection to boast of nationally. | 영국에도 국가적으로 자랑할 만한 질서나 보호는 거의 없었다.
+P007_2: Daring home invasions by armed men and highway robberies took place even in the capital every night. | 무장한 자들의 대담한 주거 침입과 노상강도 사건이 수도에서조차 매일 밤 일어났다.
+P007_3: Families were publicly warned not to leave the city without moving their furniture to furniture warehouses for safety. | 가족들은 안전을 위해 가구를 가구 창고로 옮기지 않고서는 시외로 나가지 말라는 공개적인 주의를 받았다.
+P007_4: The highwayman in the dark was a city tradesman by day. When he stopped someone posing as 'the Captain' and was recognized by a fellow tradesman, he boldly shot him in the head and rode off. | 어둠 속의 노상강도는 낮에는 도시의 상인이었고, '대장' 행세를 하며 사람을 막아섰다가 동료 상인에게 정체가 탄로나자 당당하게 그의 머리에 총을 지향하고 쏘고 달아났다.
+P007_5: A mail coach was ambushed by seven robbers; the guard shot three dead, but because he 'ran out of ammunition,' he was killed by the other four, after which the coach was robbed in peace. | 우편마차가 일곱 명의 강도에게 기습을 당해 경비원이 세 명을 쏴 죽였으나, '탄약이 떨어지는 바람에' 나머지 네 명에게 사살당했고, 그 후 우편마차는 평온하게 털렸다.
+P007_6: Even that great figure, the Lord Mayor of London, was held up for money by a single highwayman at Turnham Green, and the illustrious man was robbed in full view of his entire retinue. | 런던 시장이라는 거물조차 터넘 그린에서 단 한 명의 노상강도에게 돈을 내놓으라는 협박을 받았고, 그 위대한 인물은 수행원들이 모두 보는 앞에서 약탈당했다.
+P007_7: Prisoners in London jails brawled with their guards, and the majesty of the law fired blunderbusses loaded with grapeshot and cannonballs into their midst. | 런던 감옥의 죄수들은 교도관들과 난투극을 벌였고, 법의 권위는 그들을 향해 산탄과 포탄을 장전한 나팔총을 쏘아댔다.
+P007_8: Thieves snipped off diamond crosses from the necks of noble lords in the court drawing rooms. | 도둑들은 궁정 응접실에서 고귀한 귀족들의 목에 걸린 다이아몬드 십자가를 싹둑 잘라갔다.
+P007_9: Musketeers went into St. | 총사들이 밀수품을 수색하러 세인트
+P007_10: Giles's slum to search for contraband, and the mob fired on the musketeers, and the musketeers fired on the mob, yet no one thought any of these events particularly unusual. | 자일스 빈민가에 들어가자 폭도들이 총사들에게 총을 쏘고, 총사들도 폭도들에게 총을 쏘았지만, 아무도 이런 일들을 대수롭지 않게 여겼다.
+P007_11: In the midst of this chaos, the hangman, always busy and worse than useless, was constantly summoned. | 이런 혼란 속에서, 늘 바쁘고 있으나 마나 한 것보다 더 해악을 끼치는 교수형 집행인은 끊임없이 호출되었다.
+P007_12: One day he was stringing up long rows of miscellaneous criminals; | 어느 날은 잡다한 범죄자들을 길게 줄지어 매달았고,
+P007_13: another day he was hanging on a Saturday a home invader caught on Tuesday; | 어느 날은 화요일에 잡힌 주거 침입 절도범을 토요일에 교수형에 처했으며,
+P007_14: another day he was branding dozens of people on the hand at Newgate prison, and yet another day he was burning pamphlets at the doors of Westminster Hall. | 어느 날은 뉴게이트 감옥에서 수십 명의 손에 낙인을 찍고, 또 어느 날은 웨스트민스터 홀 문 앞에서 팸플릿을 불태웠다.
+P007_15: Today he took the life of a heinous murderer, and tomorrow the life of a wretched petty thief who had stolen sixpence from a farm boy. | 오늘은 흉악한 살인범의 목숨을 빼앗고, 내일은 농장 소년에게서 6펜스를 훔친 불쌍한 좀도둑의 목숨을 거두었다.

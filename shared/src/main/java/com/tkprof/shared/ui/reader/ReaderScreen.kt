@@ -35,6 +35,7 @@ import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.foundation.relocation.BringIntoViewRequester
@@ -48,6 +49,9 @@ import com.tkprof.shared.model.Sentence
 import com.tkprof.shared.model.SentenceSplitter
 import com.tkprof.shared.ui.settings.SettingsDialog
 import kotlinx.coroutines.launch
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
+import androidx.lifecycle.compose.LocalLifecycleOwner
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -63,12 +67,24 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val maxAccessible = maxOf(viewModel.bookConfig.freeChapters, bypassedUpToChapter + 2)
     val showSoftPaywall = !isFullUnlocked && chapterNumber > maxAccessible
     val isAccessible = !showSoftPaywall
-    val isEnFirst by viewModel.isEnFirst.collectAsState()
+    val languageOrder by viewModel.languageOrder.collectAsState()
     val showEn by viewModel.showEn.collectAsState()
     val showKo by viewModel.showKo.collectAsState()
     val activity = LocalContext.current as Activity
 
+    val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
+
     var showSettings by remember { mutableStateOf(false) }
+    var resumeTrigger by remember { mutableStateOf(0) }
+    
+    val lifecycleOwner = LocalLifecycleOwner.current
+    DisposableEffect(lifecycleOwner) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) resumeTrigger++
+        }
+        lifecycleOwner.lifecycle.addObserver(observer)
+        onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
+    }
     
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
@@ -94,7 +110,8 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             
                             val titleObj = chapterTitles.getOrNull(index)
                             val displayTitle = if (titleObj != null) {
-                                if (isEnFirst) titleObj.en else titleObj.ko
+                                val firstLang = languageOrder.firstOrNull { it == Language.EN || it == Language.KO }
+                                if (firstLang == Language.KO) titleObj.ko else titleObj.en
                             } else {
                                 stringResource(R.string.chapter_label, i)
                             }
@@ -159,14 +176,26 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 TopAppBar(
                     title = {
                         Column {
-                            Text(text = viewModel.bookConfig.titleEn, style = MaterialTheme.typography.titleMedium)
+                            Text(
+                                text = viewModel.bookConfig.titleEn, 
+                                style = MaterialTheme.typography.titleMedium,
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis
+                            )
                             val titleObj = chapterTitles.getOrNull(chapterNumber - 1)
                             val displayTitle = if (titleObj != null) {
-                                if (isEnFirst) titleObj.en else titleObj.ko
+                                val firstLang = languageOrder.firstOrNull { it == Language.EN || it == Language.KO }
+                                if (firstLang == Language.KO) titleObj.ko else titleObj.en
                             } else {
                                 "Chapter $chapterNumber"
                             }
-                            Text(text = "$displayTitle ($chapterNumber / $totalChapters)", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Text(
+                                text = "$displayTitle ($chapterNumber / $totalChapters)", 
+                                style = MaterialTheme.typography.bodySmall, 
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis
+                            )
                         }
                     },
                     navigationIcon = {
@@ -202,6 +231,17 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         listState.scrollToItem(0)
                     }
 
+                    // Scroll to active paragraph when it changes or app resumes
+                    LaunchedEffect(speakingParagraphIndex, resumeTrigger) {
+                        if (speakingParagraphIndex >= 0) {
+                            val visibleItems = listState.layoutInfo.visibleItemsInfo
+                            val isVisible = visibleItems.any { it.index == speakingParagraphIndex }
+                            if (!isVisible || resumeTrigger > 0) {
+                                listState.animateScrollToItem(speakingParagraphIndex)
+                            }
+                        }
+                    }
+
                     if (showSoftPaywall) {
                 SoftPaywallScreen(
                     onTip = { tipId -> viewModel.billingManager.launchPurchaseFlow(activity, tipId) },
@@ -220,7 +260,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                 ParagraphCard(
                                     paragraph = paragraph,
                                     speakingId = speakingId,
-                                    isEnFirst = isEnFirst,
+                                    languageOrder = languageOrder,
                                     showEn = showEn,
                                     showKo = showKo,
                                     fontSizeMultiplier = fontSizeMultiplier,
@@ -279,9 +319,9 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                         modifier = Modifier
                                             .align(Alignment.CenterEnd)
                                             .fillMaxHeight()
-                                            .width(if (isDragging) 8.dp else 4.dp)
+                                            .width(if (isDragging) 12.dp else 8.dp)
                                             .padding(end = 4.dp)
-                                            .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f), shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp))
+                                            .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f), shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp))
                                     ) {
                                         Box(
                                             modifier = Modifier
@@ -289,7 +329,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                                 .fillMaxHeight(thumbHeightFraction)
                                                 .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
                                                 .background(
-                                                    if (isDragging) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.primary.copy(alpha = 0.6f),
+                                                    if (isDragging) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.primary.copy(alpha = 0.8f),
                                                     shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp)
                                                 )
                                         )
@@ -308,7 +348,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
 private fun ParagraphCard(
     paragraph: BilingualParagraph,
     speakingId: String?,
-    isEnFirst: Boolean,
+    languageOrder: List<Language>,
     showEn: Boolean,
     showKo: Boolean,
     fontSizeMultiplier: Float,
@@ -328,8 +368,13 @@ private fun ParagraphCard(
 
     if (paragraph.is_header) {
         Column(modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
-            if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
-            if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
+            languageOrder.forEach { lang ->
+                when (lang) {
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
+                    else -> {}
+                }
+            }
             HorizontalDivider(modifier = Modifier.padding(top = 8.dp))
         }
         return
@@ -341,14 +386,19 @@ private fun ParagraphCard(
         elevation = CardDefaults.cardElevation(1.dp)
     ) {
         Column(modifier = Modifier.padding(16.dp)) {
-            if (isEnFirst) {
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
-                if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
-            } else {
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
-                if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
+            val visibleBlocks = mutableListOf<@Composable () -> Unit>()
+            for (lang in languageOrder) {
+                when (lang) {
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick) }
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick) }
+                    else -> {}
+                }
+            }
+            visibleBlocks.forEachIndexed { index, block ->
+                block()
+                if (index < visibleBlocks.size - 1) {
+                    Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
+                }
             }
         }
     }

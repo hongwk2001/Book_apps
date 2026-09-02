@@ -1,4 +1,4 @@
-﻿pluginManagement {
+pluginManagement {
     repositories {
         google {
             content {
@@ -30,10 +30,4 @@ plugins {
 }
 
 rootProject.name = "Book_apps"
-include(":shared")
-include(":dracula")
-
-include(":secret_garden")
-
-
-include(":frankenstein")
+include(":shared", ":dracula", ":frankenstein", ":two_cities", ":secret_garden")

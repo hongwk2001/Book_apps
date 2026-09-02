@@ -18,6 +18,7 @@
     <string name="lang_korean">한국어</string>
     <string name="setting_show">화면 표시</string>
     <string name="setting_read">음성 읽기</string>
+    <string name="raw_voice_title">원문 음성</string>
     <string name="english_voice_title">영어 음성</string>
     <string name="korean_voice_title">한국어 음성</string>
     <string name="setting_speed">속도: %.2fx</string>

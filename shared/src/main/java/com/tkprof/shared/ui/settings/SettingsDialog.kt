@@ -12,7 +12,11 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.res.stringResource
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.KeyboardArrowDown
+import androidx.compose.material.icons.filled.KeyboardArrowUp
 import com.tkprof.shared.R
+import com.tkprof.shared.model.Language
 import com.tkprof.shared.ui.reader.ReaderViewModel
 
 @OptIn(ExperimentalMaterial3Api::class)
@@ -27,17 +31,17 @@ fun SettingsDialog(
     val englishVoices by ttsManager.englishVoices.collectAsState()
     val koreanVoices by ttsManager.koreanVoices.collectAsState()
 
-    var isEnFirst by remember { mutableStateOf(viewModel.isEnFirst.value) }
+    var currentLanguageOrder by remember { mutableStateOf(viewModel.languageOrder.value) }
     var showEn by remember { mutableStateOf(viewModel.showEn.value) }
     var showKo by remember { mutableStateOf(viewModel.showKo.value) }
     var readEn by remember { mutableStateOf(viewModel.readEn.value) }
     var readKo by remember { mutableStateOf(viewModel.readKo.value) }
 
-    var selectedEnVoice by remember { mutableStateOf(ttsManager.selectedEnglishVoice) }
+        var selectedEnVoice by remember { mutableStateOf(ttsManager.selectedEnglishVoice) }
     var selectedKoVoice by remember { mutableStateOf(ttsManager.selectedKoreanVoice) }
-    var enSpeed by remember { mutableFloatStateOf(ttsManager.englishSpeed) }
+        var enSpeed by remember { mutableFloatStateOf(ttsManager.englishSpeed) }
     var koSpeed by remember { mutableFloatStateOf(ttsManager.koreanSpeed) }
-    var enPitch by remember { mutableFloatStateOf(ttsManager.englishPitch) }
+        var enPitch by remember { mutableFloatStateOf(ttsManager.englishPitch) }
     var koPitch by remember { mutableFloatStateOf(ttsManager.koreanPitch) }
     
     var fontSizeMult by remember { mutableFloatStateOf(viewModel.fontSizeMultiplier.value) }
@@ -70,51 +74,97 @@ fun SettingsDialog(
                 Slider(value = fontSizeMult, onValueChange = { fontSizeMult = it }, valueRange = 0.8f..2.5f)
                 
                 HorizontalDivider()
-                
-                // Top Level: Language Order
-                Text(stringResource(R.string.language_order_title), style = MaterialTheme.typography.labelLarge)
-                Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceBetween, verticalAlignment = Alignment.CenterVertically) {
-                    Text(stringResource(if (isEnFirst) R.string.order_en_ko else R.string.order_ko_en))
-                    Switch(checked = isEnFirst, onCheckedChange = { isEnFirst = it })
-                }
-
-                HorizontalDivider()
 
                 // Checkboxes following Language Order
                 Text(stringResource(R.string.display_tts_title), style = MaterialTheme.typography.labelLarge)
                 
                 @Composable
-                fun LangControls(lang: String, isEn: Boolean) {
+                fun LangControls(
+                    lang: String, 
+                    showValue: Boolean, 
+                    readValue: Boolean, 
+                    onShowChange: (Boolean) -> Unit, 
+                    onReadChange: (Boolean) -> Unit,
+                    onMoveUp: (() -> Unit)?,
+                    onMoveDown: (() -> Unit)?
+                ) {
                     Row(modifier = Modifier.fillMaxWidth(), verticalAlignment = Alignment.CenterVertically) {
+                        Column {
+                            IconButton(onClick = { onMoveUp?.invoke() }, enabled = onMoveUp != null) {
+                                Icon(Icons.Default.KeyboardArrowUp, contentDescription = "Move Up")
+                            }
+                            IconButton(onClick = { onMoveDown?.invoke() }, enabled = onMoveDown != null) {
+                                Icon(Icons.Default.KeyboardArrowDown, contentDescription = "Move Down")
+                            }
+                        }
                         Text(lang, modifier = Modifier.weight(1f))
                         Column(horizontalAlignment = Alignment.CenterHorizontally) {
                             Text(stringResource(R.string.setting_show), style = MaterialTheme.typography.labelSmall)
                             Checkbox(
-                                checked = if (isEn) showEn else showKo,
-                                onCheckedChange = { if (isEn) ensureShowConstraint(it, showKo) else ensureShowConstraint(showEn, it) }
+                                checked = showValue,
+                                onCheckedChange = onShowChange
                             )
                         }
                         Spacer(modifier = Modifier.width(16.dp))
                         Column(horizontalAlignment = Alignment.CenterHorizontally) {
                             Text(stringResource(R.string.setting_read), style = MaterialTheme.typography.labelSmall)
                             Checkbox(
-                                checked = if (isEn) readEn else readKo,
-                                onCheckedChange = { if (isEn) readEn = it else readKo = it },
-                                enabled = if (isEn) showEn else showKo
+                                checked = readValue,
+                                onCheckedChange = onReadChange,
+                                enabled = showValue
                             )
                         }
                     }
                 }
 
-                if (isEnFirst) {
-                    LangControls(stringResource(R.string.lang_english), true)
-                    LangControls(stringResource(R.string.lang_korean), false)
-                } else {
-                    LangControls(stringResource(R.string.lang_korean), false)
-                    LangControls(stringResource(R.string.lang_english), true)
+                currentLanguageOrder.forEachIndexed { index, lang ->
+                    val langName = when (lang) {
+                        Language.EN -> stringResource(R.string.lang_english)
+                        Language.KO -> stringResource(R.string.lang_korean)
+                    }
+                    val showValue = when (lang) {
+                        Language.EN -> showEn
+                        Language.KO -> showKo
+                    }
+                    val readValue = when (lang) {
+                        Language.EN -> readEn
+                        Language.KO -> readKo
+                    }
+                    val onShowChange: (Boolean) -> Unit = { newVal ->
+                        when (lang) {
+                            Language.EN -> ensureShowConstraint(newVal, showKo)
+                            Language.KO -> ensureShowConstraint(showEn, newVal)
+                        }
+                    }
+                    val onReadChange: (Boolean) -> Unit = { newVal ->
+                        when (lang) {
+                            Language.EN -> readEn = newVal
+                            Language.KO -> readKo = newVal
+                        }
+                    }
+                    
+                    LangControls(
+                        lang = langName,
+                        showValue = showValue,
+                        readValue = readValue,
+                        onShowChange = onShowChange,
+                        onReadChange = onReadChange,
+                        onMoveUp = if (index > 0) { { 
+                            val newList = currentLanguageOrder.toMutableList()
+                            newList[index] = newList[index - 1].also { newList[index - 1] = newList[index] }
+                            currentLanguageOrder = newList
+                        } } else null,
+                        onMoveDown = if (index < currentLanguageOrder.size - 1) { { 
+                            val newList = currentLanguageOrder.toMutableList()
+                            newList[index] = newList[index + 1].also { newList[index + 1] = newList[index] }
+                            currentLanguageOrder = newList
+                        } } else null
+                    )
                 }
 
                 HorizontalDivider()
+                
+                
 
                 // English Voice Controls
                 Text(stringResource(R.string.english_voice_title), style = MaterialTheme.typography.labelLarge)
@@ -124,7 +174,7 @@ fun SettingsDialog(
                     onSelect = {
                         selectedEnVoice = it
                         ttsManager.selectedEnglishVoice = it
-                        ttsManager.speakSample(true, viewModel.bookConfig.titleEn)
+                        ttsManager.speakSample(Language.EN, viewModel.bookConfig.titleEn)
                     }
                 )
                 Text(stringResource(R.string.setting_speed, enSpeed), style = MaterialTheme.typography.bodySmall)
@@ -143,7 +193,7 @@ fun SettingsDialog(
                     onSelect = {
                         selectedKoVoice = it
                         ttsManager.selectedKoreanVoice = it
-                        ttsManager.speakSample(false, viewModel.bookConfig.titleKo)
+                        ttsManager.speakSample(Language.KO, viewModel.bookConfig.titleKo)
                     }
                 )
                 Text(stringResource(R.string.setting_speed, koSpeed), style = MaterialTheme.typography.bodySmall)
@@ -161,15 +211,16 @@ fun SettingsDialog(
                 viewModel.showKo.value = showKo
                 viewModel.readEn.value = readEn
                 viewModel.readKo.value = readKo
-                if (viewModel.isEnFirst.value != isEnFirst) {
-                    viewModel.updateLanguageOrder(isEnFirst)
+                
+                if (viewModel.languageOrder.value != currentLanguageOrder) {
+                    viewModel.updateLanguageOrder(currentLanguageOrder)
                 }
                 
-                ttsManager.selectedEnglishVoice = selectedEnVoice
+                                ttsManager.selectedEnglishVoice = selectedEnVoice
                 ttsManager.selectedKoreanVoice = selectedKoVoice
-                ttsManager.englishSpeed = enSpeed
+                                ttsManager.englishSpeed = enSpeed
                 ttsManager.koreanSpeed = koSpeed
-                ttsManager.englishPitch = enPitch
+                                ttsManager.englishPitch = enPitch
                 ttsManager.koreanPitch = koPitch
                 
                 onDismiss()

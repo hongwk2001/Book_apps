@@ -1,0 +1,1114 @@
+[
+  {
+    "id": 1,
+    "tag": "P001",
+    "en": "[Chapter 19] An Opinion",
+    "ko": "",
+    "is_header": true,
+    "raw_ref_id": 1
+  },
+  {
+    "id": 2,
+    "tag": "P002_1",
+    "en": "Exhausted from anxious watching, Mr. Lorry fell asleep at his post.",
+    "ko": "불안한 마음으로 지켜보느라 지칠 대로 지친 로리 씨는 자리를 지키다 잠이 들었다.",
+    "is_header": false,
+    "raw_ref_id": 2
+  },
+  {
+    "id": 3,
+    "tag": "P003_1",
+    "en": "He rubbed his eyes and woke up, but at first he doubted if he was actually awake.",
+    "ko": "그는 눈을 비비고 깨어났지만, 처음에는 자신이 정말로 깨어있는 것인지 의심했다.",
+    "is_header": false,
+    "raw_ref_id": 5
+  },
+  {
+    "id": 4,
+    "tag": "P003_2",
+    "en": "Looking into the Doctor’s room, he saw that the shoemaker’s bench and tools were put away, and the Doctor himself sat reading by the window.",
+    "ko": "박사의 방을 들여다보니, 구두 만드는 작업대와 도구들은 치워져 있었고 박사 자신은 창가에 앉아 책을 읽고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 6
+  },
+  {
+    "id": 5,
+    "tag": "P003_3",
+    "en": "He was dressed in his usual morning clothes, and his face, though still very pale, looked calm and focused.",
+    "ko": "그는 평소의 아침 옷차림을 하고 있었으며, 얼굴은 여전히 매우 창백했지만 차분하고 집중한 모습이었다.",
+    "is_header": false,
+    "raw_ref_id": 7
+  },
+  {
+    "id": 6,
+    "tag": "P004_1",
+    "en": "Even when he was sure he was awake, Mr. Lorry felt dizzy and uncertain for a few moments about whether the recent shoemaking might not have been a troubled dream of his own; for didn't his eyes show his friend before him in his usual clothes and appearance, working as normal; and was there any visible sign that the change which had made such a strong impression on him had actually happened?",
+    "ko": "완전히 잠에서 깨어났음을 확인한 후에도, 로리 씨는 지난 며칠간의 구두 제작이 자신이 꾼 어지러운 꿈이 아니었을까 하는 생각에 몇 순간 동안 어질어질하고 혼란스러웠다. 눈앞에 보이는 친구는 평소와 다름없는 옷차림과 모습으로 늘 하던 일에 열중하고 있었으며, 그토록 강렬한 인상을 남겼던 변화가 실제로 일어났음을 보여주는 흔적이 눈길이 닿는 곳 어디에도 없었기 때문이다.",
+    "is_header": false,
+    "raw_ref_id": 8
+  },
+  {
+    "id": 7,
+    "tag": "P005_1",
+    "en": "It was just the question born from his initial confusion and shock, since the answer was already obvious.",
+    "ko": "대답이 이미 명백했기 때문에, 그것은 단지 그의 초기 혼란과 충격에서 비롯된 의문일 뿐이었다.",
+    "is_header": false,
+    "raw_ref_id": 10
+  },
+  {
+    "id": 8,
+    "tag": "P005_2",
+    "en": "If he wasn't reacting to something that had actually happened, then how did he, Jarvis Lorry, end up there? How had he fallen asleep in his clothes on the sofa in Doctor Manette’s consulting room, and why was he debating these points outside the Doctor’s bedroom door early in the morning?",
+    "ko": "만약 그가 실제로 일어난 일에 반응하는 것이 아니었다면, 도대체 어떻게 그, 자비스 로리가 그곳에 있게 되었단 말인가? 어쩌다 그가 마네트 박사의 진찰실 소파에서 옷을 입은 채로 잠들었으며, 왜 이른 아침 박사의 침실 문 밖에서 이런 점들을 두고 고민하고 있단 말인가?",
+    "is_header": false,
+    "raw_ref_id": 11
+  },
+  {
+    "id": 9,
+    "tag": "P006_1",
+    "en": "Within a few minutes, Miss Pross stood whispering at his side.",
+    "ko": "몇 분 안에, 프로스 양이 그의 곁에 서서 속삭였다.",
+    "is_header": false,
+    "raw_ref_id": 12
+  },
+  {
+    "id": 10,
+    "tag": "P006_2",
+    "en": "If he had any bit of doubt left, her words would have cleared it up, but by that time he was thinking clearly and didn't have any.",
+    "ko": "그에게 일말의 의심이라도 남아있었다면 그녀의 말로 말끔히 풀렸겠지만, 그 무렵 그는 명확하게 생각하고 있었고 어떤 의심도 가지지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 13
+  },
+  {
+    "id": 11,
+    "tag": "P006_3",
+    "en": "Lorry advised that they should wait until the usual breakfast hour and meet the Doctor as if nothing had happened.",
+    "ko": "로리 씨는 평소의 아침 식사 시간까지 기다렸다가 마치 아무 일도 없었던 것처럼 박사를 만나야 한다고 조언했다.",
+    "is_header": false,
+    "raw_ref_id": 14
+  },
+  {
+    "id": 12,
+    "tag": "P006_4",
+    "en": "If he appeared to be in his normal state of mind, Mr. Lorry would then proceed cautiously to seek guidance and advice from the professional opinion he had been so anxious to get.",
+    "ko": "만약 그가 평소의 정신 상태로 돌아온 것으로 보인다면, 로리 씨는 그토록 불안해하며 간절히 얻고자 했던 의학적 소견으로부터 조언과 지침을 구하기 위해 조심스럽게 다음 단계로 나아갈 생각이었다.",
+    "is_header": false,
+    "raw_ref_id": 15
+  },
+  {
+    "id": 13,
+    "tag": "P007_1",
+    "en": "Miss Pross agreed, and they carried out the plan carefully.",
+    "ko": "프로스 양은 동의했고, 그들은 그 계획을 조심스럽게 실행에 옮겼다.",
+    "is_header": false,
+    "raw_ref_id": 17
+  },
+  {
+    "id": 14,
+    "tag": "P007_2",
+    "en": "Having plenty of time for his usual methodical grooming, Mr. Lorry appeared at breakfast in his customary crisp white linen and with his usual neatly stockinged legs.",
+    "ko": "평소처럼 꼼꼼하게 몸단장을 할 시간이 충분했기에, 로리 씨는 늘 입던 하얀 리넨 옷을 입고 깔끔한 각선미를 드러내며 아침 식사 시간에 맞춰 나타났다.",
+    "is_header": false,
+    "raw_ref_id": 18
+  },
+  {
+    "id": 15,
+    "tag": "P007_4",
+    "en": "The Doctor was called in the usual way and came down to breakfast. As far as it was possible to understand him without overstepping the delicate, gradual approach that Mr.",
+    "ko": "의사는 평소대로 불려 나와 아침 식사를 하러 왔다. 로리 씨가",
+    "is_header": false,
+    "raw_ref_id": 20
+  },
+  {
+    "id": 16,
+    "tag": "P008_3",
+    "en": "A casual comment about the date set him thinking, which clearly made him uneasy.",
+    "ko": "날짜에 대한 무심한 언급은 그를 생각에 잠기게 했고, 그것은 분명 그를 불안하게 만들었다.",
+    "is_header": false,
+    "raw_ref_id": 23
+  },
+  {
+    "id": 17,
+    "tag": "P008_4",
+    "en": "In all other respects, however, he was so calmly himself that Mr. Lorry determined to seek the help he wanted. And that help was the Doctor's own.",
+    "ko": "하지만 다른 모든 면에서는 너무나 차분하게 평소의 모습을 되찾았기에, 로리 씨는 자신이 구하던 조언을 얻기로 결심했다. 그리고 그 조언이란 바로 의사 자신의 견해였다.",
+    "is_header": false,
+    "raw_ref_id": 24
+  },
+  {
+    "id": 18,
+    "tag": "P009_1",
+    "en": "Therefore, when breakfast was over and cleared away, leaving him and the Doctor alone together, Mr. Lorry said with deep feeling:",
+    "ko": "그러므로 아침 식사가 끝나고 상이 치워져 그와 의사 둘만 남게 되었을 때, 로리 씨는 진심을 담아 말했다.",
+    "is_header": false,
+    "raw_ref_id": 26
+  },
+  {
+    "id": 19,
+    "tag": "P010",
+    "en": "\"My dear Manette, I want to ask your confidential opinion on a very strange case in which I am interested. It seems very strange to me, though it might be simple to you.\"",
+    "ko": "\"친애하는 마네트, 내가 관심을 가지고 있는 매우 이상한 사례에 대해 자네의 비밀스러운 의견을 묻고 싶네. 자네에게는 간단할지 모르지만 나에게는 무척 이상하게 보이거든.\"",
+    "is_header": false,
+    "raw_ref_id": 28
+  },
+  {
+    "id": 20,
+    "tag": "P011_1",
+    "en": "Looking at his hands, which were stained from his late work, the Doctor looked worried and listened closely.",
+    "ko": "최근의 작업으로 얼룩진 자신의 손을 바라보며, 박사는 걱정스러운 표정으로 주의 깊게 들었다.",
+    "is_header": false,
+    "raw_ref_id": 29
+  },
+  {
+    "id": 21,
+    "tag": "P011_2",
+    "en": "He had already looked at his hands several times.",
+    "ko": "그는 이미 자신의 손을 여러 번 쳐다본 터였다.",
+    "is_header": false,
+    "raw_ref_id": 30
+  },
+  {
+    "id": 22,
+    "tag": "P012_1",
+    "en": "“Doctor Manette,” said Mr. Lorry, touching his arm affectionately, “this case is about a particularly dear friend of mine.",
+    "ko": "“마네트 박사님,” 로리 씨가 그의 팔을 다정하게 건드리며 말했다. “이것은 저의 아주 소중한 친구에 관한 이야기입니다.",
+    "is_header": false,
+    "raw_ref_id": 31
+  },
+  {
+    "id": 23,
+    "tag": "P012_3",
+    "en": "Please advise me for his sake, and especially for his daughter's sake.\"",
+    "ko": "그를 위해, 그리고 특히 그의 딸을 위해 내게 조언을 좀 해주시게.\"",
+    "is_header": false,
+    "raw_ref_id": 33
+  },
+  {
+    "id": 24,
+    "tag": "P013",
+    "en": "\"I understand,\" the Doctor said quietly. \"A mental shock?\"",
+    "ko": "\"알겠네,\" 박사가 조용히 말했다. \"정신적인 충격인가?\"",
+    "is_header": false,
+    "raw_ref_id": 34
+  },
+  {
+    "id": 25,
+    "tag": "P014",
+    "en": "\"Yes!\"",
+    "ko": "\"그렇다네!\"",
+    "is_header": false,
+    "raw_ref_id": 35
+  },
+  {
+    "id": 26,
+    "tag": "P015",
+    "en": "\"Tell me everything,\" said the Doctor. \"Spare no detail.\"",
+    "ko": "\"내게 모든 걸 말해주게,\" 박사가 말했다. \"어떤 세부 사항도 빼놓지 말고.\"",
+    "is_header": false,
+    "raw_ref_id": 36
+  },
+  {
+    "id": 27,
+    "tag": "P016_1",
+    "en": "Mr. Lorry saw that they understood each other and went on.",
+    "ko": "로리 씨는 서로 뜻이 통했음을 알아차리고 말을 이어갔다.",
+    "is_header": false,
+    "raw_ref_id": 37
+  },
+  {
+    "id": 28,
+    "tag": "P017_1",
+    "en": "\"My dear Manette, it is the case of a severe mental shock that affected the sufferer's mind.",
+    "ko": "\"친애하는 마네트, 그것은 환자의 정신에 영향을 미친 심각한 정신적 충격에 대한 사례라네.",
+    "is_header": false,
+    "raw_ref_id": 39
+  },
+  {
+    "id": 29,
+    "tag": "P017_2",
+    "en": "It's a case of a shock that overwhelmed the sufferer for an unknown amount of time, because I believe he can't calculate the time himself, and there's no other way to find out.",
+    "ko": "이것은 그 환자를 알 수 없는 기간 동안 압도한 충격에 관한 사례인데, 왜냐하면 나는 그 자신이 그 시간을 계산할 수 없다고 믿으며 이를 알아낼 다른 방법이 없기 때문일세.",
+    "is_header": false,
+    "raw_ref_id": 40
+  },
+  {
+    "id": 30,
+    "tag": "P017_3",
+    "en": "It is a case of a shock from which the sufferer recovered through a process he can't trace himself—just as I once heard him explain publicly in a striking way.",
+    "ko": "이것은 환자가 스스로 그 과정을 추적할 수 없는 방식으로 회복된 충격의 사례라네. 언젠가 자네가 사람들 앞에서 아주 놀라운 방식으로 설명하는 것을 들은 적이 있는 것처럼 말이야.",
+    "is_header": false,
+    "raw_ref_id": 41
+  },
+  {
+    "id": 31,
+    "tag": "P017_4",
+    "en": "It's a case of a shock from which he has recovered so completely that he is a highly intelligent man, capable of deep mental focus, great physical effort, and constantly learning new things to add to his already vast knowledge.",
+    "ko": "그것은 그가 너무나 완벽하게 회복하여, 깊은 정신적 집중과 대단한 육체적 노력을 할 수 있고 이미 방대한 지식에 새로운 것들을 끊임없이 더해가는 매우 지적인 사람이 된 그런 충격의 사례라네.",
+    "is_header": false,
+    "raw_ref_id": 42
+  },
+  {
+    "id": 32,
+    "tag": "P017_5",
+    "en": "But unfortunately, he has had a slight relapse.\"",
+    "ko": "하지만 불행히도, 그에게 가벼운 재발이 있었다네.\"",
+    "is_header": false,
+    "raw_ref_id": 43
+  },
+  {
+    "id": 33,
+    "tag": "P018",
+    "en": "In a low voice, the Doctor asked, \"How long did it last?\"",
+    "ko": "낮은 목소리로 박사가 물었다, \"그것이 얼마나 지속되었나?\"",
+    "is_header": false,
+    "raw_ref_id": 44
+  },
+  {
+    "id": 34,
+    "tag": "P019",
+    "en": "\"Nine days and nights.\"",
+    "ko": "\"아흐레 밤낮이라네.\"",
+    "is_header": false,
+    "raw_ref_id": 45
+  },
+  {
+    "id": 35,
+    "tag": "P020_1",
+    "en": "Looking at his hands again, he asked, \"How did it show itself?",
+    "ko": "다시 자신의 손을 쳐다보며 그가 물었다, \"그것이 어떻게 나타났나?",
+    "is_header": false,
+    "raw_ref_id": 46
+  },
+  {
+    "id": 36,
+    "tag": "P020_2",
+    "en": "I assume by returning to some old work associated with his past suffering?\"",
+    "ko": "그의 과거 고통과 연관된 예전의 일로 되돌아가는 방식이었을 것으로 짐작하네만?\"",
+    "is_header": false,
+    "raw_ref_id": 47
+  },
+  {
+    "id": 37,
+    "tag": "P021",
+    "en": "\"Yes, exactly.\"",
+    "ko": "\"그래, 정확하네.\"",
+    "is_header": false,
+    "raw_ref_id": 48
+  },
+  {
+    "id": 38,
+    "tag": "P022",
+    "en": "“Now, did you ever see him,” asked the Doctor, speaking clearly and calmly, though in the same low voice, “engaged in that hobby originally?”",
+    "ko": "\"그렇다면 자네는,\" 박사가 조용하지만 분명하고 차분한 어조로 물었다, \"그가 본래 그 취미에 몰두하던 것을 본 적이 있는가?\"",
+    "is_header": false,
+    "raw_ref_id": 49
+  },
+  {
+    "id": 39,
+    "tag": "P023",
+    "en": "\"Once.\"",
+    "ko": "\"한 번 있네.\"",
+    "is_header": false,
+    "raw_ref_id": 50
+  },
+  {
+    "id": 40,
+    "tag": "P024",
+    "en": "\"And during the relapse, was he in the same state as before?\"",
+    "ko": "\"그리고 재발 기간 동안, 그는 이전과 같은 상태였나?\"",
+    "is_header": false,
+    "raw_ref_id": 51
+  },
+  {
+    "id": 41,
+    "tag": "P025",
+    "en": "\"Yes, in every way.\"",
+    "ko": "\"그렇네, 모든 면에서.\"",
+    "is_header": false,
+    "raw_ref_id": 52
+  },
+  {
+    "id": 42,
+    "tag": "P026_1",
+    "en": "\"You mentioned his daughter.",
+    "ko": "\"그의 딸을 언급했지.",
+    "is_header": false,
+    "raw_ref_id": 53
+  },
+  {
+    "id": 43,
+    "tag": "P026_2",
+    "en": "Does she know about the relapse?\"",
+    "ko": "그녀도 재발에 대해 알고 있나?\"",
+    "is_header": false,
+    "raw_ref_id": 54
+  },
+  {
+    "id": 44,
+    "tag": "P027_1",
+    "en": "\"No.",
+    "ko": "\"아니.",
+    "is_header": false,
+    "raw_ref_id": 55
+  },
+  {
+    "id": 45,
+    "tag": "P027_2",
+    "en": "We have kept it from her, and hope to keep it a secret forever.",
+    "ko": "우리는 그녀에게 그것을 숨겼고, 영원히 비밀로 유지하기를 바란다네.",
+    "is_header": false,
+    "raw_ref_id": 56
+  },
+  {
+    "id": 46,
+    "tag": "P027_3",
+    "en": "Only I and one other trusted person know.\"",
+    "ko": "나와 내가 신뢰하는 단 한 사람만이 알고 있지.\"",
+    "is_header": false,
+    "raw_ref_id": 57
+  },
+  {
+    "id": 47,
+    "tag": "P028_1",
+    "en": "The Doctor gripped his hand and murmured, “That was very kind. That was very thoughtful!” Mr. Lorry squeezed his hand in return, and neither of them spoke for a moment.",
+    "ko": "의사는 그의 손을 꼭 쥐며 “참으로 친절하셨군요. 정말 사려 깊으셨습니다!” 하고 중얼거렸다. 로리 씨도 마주 그의 손을 꼭 쥐었고, 두 사람은 잠시 동안 아무 말도 하지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 58
+  },
+  {
+    "id": 48,
+    "tag": "P029_1",
+    "en": "“Now, my dear Manette,” Mr. Lorry said at last, in his most considerate and affectionate manner, “I am merely a businessman, and I am not qualified to deal with such complex and difficult matters.",
+    "ko": "“자, 친애하는 마네트,” 로리 씨가 마침내 가장 배려 깊고 다정한 태도로 말했다. “저는 일개 사업가에 불과하여, 이처럼 복잡하고 어려운 문제를 다루기에는 적합하지 않습니다.",
+    "is_header": false,
+    "raw_ref_id": 60
+  },
+  {
+    "id": 49,
+    "tag": "P029_3",
+    "en": "I need guidance, and there is no one I trust more than you.",
+    "ko": "나는 지도가 필요하고, 자네보다 더 신뢰하는 사람은 없네.",
+    "is_header": false,
+    "raw_ref_id": 62
+  },
+  {
+    "id": 50,
+    "tag": "P029_4",
+    "en": "There is no one in this world I could rely on more for the right guidance than you.",
+    "ko": "이 세상에 올바른 지도를 위해 자네보다 더 의지할 수 있는 사람은 없다네.",
+    "is_header": false,
+    "raw_ref_id": 63
+  },
+  {
+    "id": 51,
+    "tag": "P029_5",
+    "en": "Is there a danger of it happening again?",
+    "ko": "이런 일이 다시 일어날 위험이 있겠나?",
+    "is_header": false,
+    "raw_ref_id": 64
+  },
+  {
+    "id": 52,
+    "tag": "P029_6",
+    "en": "Can we prevent it?",
+    "ko": "우리가 그것을 막을 수 있겠나?",
+    "is_header": false,
+    "raw_ref_id": 65
+  },
+  {
+    "id": 53,
+    "tag": "P029_7",
+    "en": "How should we treat it?",
+    "ko": "어떻게 치료해야 하겠나?",
+    "is_header": false,
+    "raw_ref_id": 66
+  },
+  {
+    "id": 54,
+    "tag": "P029_8",
+    "en": "What can I do for my friend?",
+    "ko": "내 친구를 위해 내가 무엇을 할 수 있겠나?",
+    "is_header": false,
+    "raw_ref_id": 67
+  },
+  {
+    "id": 55,
+    "tag": "P029_9",
+    "en": "No man could ever want to help a friend more than I want to help mine, if only I knew how. “But I don't know where to start in a situation like this.",
+    "ko": "방법만 안다면 나만큼 친구를 돕고 싶어 할 사람은 세상에 없을 거네. 하지만 이런 상황에서는 어디서부터 시작해야 할지 모르겠어.",
+    "is_header": false,
+    "raw_ref_id": 68
+  },
+  {
+    "id": 56,
+    "tag": "P029_10",
+    "en": "If your knowledge and experience can guide me, I can do a lot; without guidance, I can do very little.",
+    "ko": "만약 자네의 지식과 경험이 나를 이끌어줄 수 있다면, 나는 많은 것을 할 수 있네. 지도 없이는 할 수 있는 게 거의 없고.",
+    "is_header": false,
+    "raw_ref_id": 69
+  },
+  {
+    "id": 57,
+    "tag": "P029_11",
+    "en": "Please discuss it with me; please help me see it a bit more clearly, and teach me how to be a little more useful.”",
+    "ko": "제발 이것에 대해 나와 상의해주게. 내가 이것을 조금 더 명확하게 보고, 조금 더 유용하게 쓰일 수 있는 방법을 가르쳐주게.\"",
+    "is_header": false,
+    "raw_ref_id": 70
+  },
+  {
+    "id": 58,
+    "tag": "P030",
+    "en": "Doctor Manette sat deep in thought after hearing these sincere words, and Mr. Lorry didn't pressure him.",
+    "ko": "마네트 박사는 이 진심 어린 말을 듣고 깊은 생각에 잠겼고, 로리 씨는 그를 재촉하지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 71
+  },
+  {
+    "id": 59,
+    "tag": "P031",
+    "en": "\"I think it is likely,\" the Doctor said, breaking the silence with an effort, \"that the relapse was not entirely unexpected by the patient.\"",
+    "ko": "\"내 생각엔 가능성이 높아 보이네,\" 박사가 침묵을 깨고 애써 말했다, \"그 재발이 환자에게 완전히 예기치 못한 것은 아니었을 가능성 말일세.\"",
+    "is_header": false,
+    "raw_ref_id": 72
+  },
+  {
+    "id": 60,
+    "tag": "P032",
+    "en": "\"Was he afraid of it?\" Mr. Lorry asked.",
+    "ko": "\"그가 그것을 두려워했나?\" 로리 씨가 물었다.",
+    "is_header": false,
+    "raw_ref_id": 73
+  },
+  {
+    "id": 61,
+    "tag": "P033",
+    "en": "\"Very much,\" the Doctor said with a shudder. \"You cannot imagine how that fear weighs on a person, and how hard it is for him to speak of it.\"",
+    "ko": "\"매우 많이,\" 박사가 몸서리를 치며 말했다. \"자네는 그 두려움이 사람을 얼마나 짓누르는지, 그리고 그가 그것에 대해 말하는 것이 얼마나 힘든 일인지 상상조차 할 수 없을 거네.\"",
+    "is_header": false,
+    "raw_ref_id": 74
+  },
+  {
+    "id": 62,
+    "tag": "P034_1",
+    "en": "“Would he,” asked Mr. Lorry, “feel noticeably relieved if he could bring himself to share that secret brooding with someone when it comes over him?”",
+    "ko": "“만약 그가,” 로리 씨가 물었다. “그런 암울한 생각에 사로잡혔을 때, 용기를 내어 그 비밀스러운 고뇌를 누군가에게 털어놓는다면 눈에 띄게 안도감을 느낄 수 있을까요?”",
+    "is_header": false,
+    "raw_ref_id": 75
+  },
+  {
+    "id": 63,
+    "tag": "P035_1",
+    "en": "\"I think so.",
+    "ko": "\"그렇게 생각하네.",
+    "is_header": false,
+    "raw_ref_id": 77
+  },
+  {
+    "id": 64,
+    "tag": "P035_2",
+    "en": "But as I said, it is almost impossible.",
+    "ko": "하지만 내가 말했듯이, 그것은 거의 불가능하다네.",
+    "is_header": false,
+    "raw_ref_id": 78
+  },
+  {
+    "id": 65,
+    "tag": "P035_3",
+    "en": "In some cases, completely impossible.\"",
+    "ko": "어떤 경우에는, 완전히 불가능하지.\"",
+    "is_header": false,
+    "raw_ref_id": 79
+  },
+  {
+    "id": 66,
+    "tag": "P036_1",
+    "en": "“Now,” said Mr. Lorry, gently resting his hand on the Doctor’s arm again after a brief silence between them, “to what would you attribute this attack?”",
+    "ko": "“그렇다면,” 두 사람 사이에 잠시 침묵이 흐른 뒤, 로리 씨가 다시 의사의 팔 위에 부드럽게 손을 얹으며 말했다. “이번 발작의 원인을 무엇이라고 보십니까?”",
+    "is_header": false,
+    "raw_ref_id": 80
+  },
+  {
+    "id": 67,
+    "tag": "P037_1",
+    "en": "Doctor Manette said, \"I believe that there was a sudden and powerful return of the thoughts and memories that caused his original illness.",
+    "ko": "마네트 박사가 말했다, \"나는 그의 원래 병을 일으켰던 생각과 기억들이 갑작스럽고 강력하게 되돌아왔기 때문이라고 믿네.",
+    "is_header": false,
+    "raw_ref_id": 82
+  },
+  {
+    "id": 68,
+    "tag": "P037_2",
+    "en": "Some intense, very distressing memories were vividly recalled, I think.",
+    "ko": "어떤 강렬하고 매우 고통스러운 기억들이 생생하게 되살아났던 것 같네.",
+    "is_header": false,
+    "raw_ref_id": 83
+  },
+  {
+    "id": 69,
+    "tag": "P037_3",
+    "en": "He probably feared those memories would return under certain circumstances, on a particular occasion.",
+    "ko": "그는 아마도 특정한 상황, 특정한 때에 그런 기억들이 되돌아올 것을 두려워했을 거네.",
+    "is_header": false,
+    "raw_ref_id": 84
+  },
+  {
+    "id": 70,
+    "tag": "P037_4",
+    "en": "He tried to prepare himself in vain, and perhaps the effort to prepare made him more vulnerable.\"",
+    "ko": "그는 헛되이 스스로를 준비하려고 노력했고, 아마도 준비하려는 그 노력이 그를 더 취약하게 만들었을 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 85
+  },
+  {
+    "id": 71,
+    "tag": "P038_1",
+    "en": "“Would he remember what happened during the relapse?” asked Mr. Lorry, hesitating naturally.",
+    "ko": "“재발했을 때 일어난 일들을 그가 기억할 수 있을까요?” 로리 씨가 당연하게도 주저하며 물었다.",
+    "is_header": false,
+    "raw_ref_id": 86
+  },
+  {
+    "id": 72,
+    "tag": "P039",
+    "en": "The Doctor looked around the room, shook his head, and answered quietly, \"Not at all.\"",
+    "ko": "의사는 방 안을 둘러보고, 고개를 저으며 조용히 대답했습니다. 전혀 기억하지 못할 겁니다.",
+    "is_header": false,
+    "raw_ref_id": 88
+  },
+  {
+    "id": 73,
+    "tag": "P040_1",
+    "en": "“Now, about the future,” Mr. Lorry prompted.",
+    "ko": "“그렇다면 이제 앞으로의 일에 대해서는,” 로리 씨가 넌지시 운을 뗐다.",
+    "is_header": false,
+    "raw_ref_id": 89
+  },
+  {
+    "id": 74,
+    "tag": "P041_1",
+    "en": "The Doctor said with more confidence, \"As for the future, I would have great hope.",
+    "ko": "의사는 더 자신감 있게 말했습니다. 미래에 대해서는 큰 희망을 가질 수 있을 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 91
+  },
+  {
+    "id": 75,
+    "tag": "P041_2",
+    "en": "Since he recovered so quickly, I would have great hope.",
+    "ko": "그가 그렇게 빨리 회복했기 때문에, 저는 큰 희망을 가질 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 92
+  },
+  {
+    "id": 76,
+    "tag": "P041_3",
+    "en": "Having yielded to a long-feared pressure and recovered after the crisis passed, I would hope the worst is over.\"",
+    "ko": "오랫동안 두려워했던 압박에 굴복하고 위기가 지나간 후 회복되었으니, 최악의 상황은 끝났기를 바랍니다.",
+    "is_header": false,
+    "raw_ref_id": 93
+  },
+  {
+    "id": 77,
+    "tag": "P042_1",
+    "en": "\"Well, that is comforting.",
+    "ko": "음, 그것 참 위안이 되네요.",
+    "is_header": false,
+    "raw_ref_id": 94
+  },
+  {
+    "id": 78,
+    "tag": "P042_2",
+    "en": "I am so thankful!” said Mr. Lorry.",
+    "ko": "정말 감사한 일입니다!” 로리 씨가 말했다.",
+    "is_header": false,
+    "raw_ref_id": 95
+  },
+  {
+    "id": 79,
+    "tag": "P043",
+    "en": "\"I am grateful!\" the Doctor repeated reverently.",
+    "ko": "정말 감사합니다! 의사가 경건하게 반복했습니다.",
+    "is_header": false,
+    "raw_ref_id": 97
+  },
+  {
+    "id": 80,
+    "tag": "P044_1",
+    "en": "“There are two other points,” said Mr. Lorry, “on which I am anxious to be advised.",
+    "ko": "“제가 가르침을 얻고자 하는 점이,” 로리 씨가 말했다. “두 가지 더 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 98
+  },
+  {
+    "id": 81,
+    "tag": "P044_3",
+    "en": "\"May I ask?\"",
+    "ko": "여쭤봐도 될까요?",
+    "is_header": false,
+    "raw_ref_id": 100
+  },
+  {
+    "id": 82,
+    "tag": "P045",
+    "en": "\"You cannot do your friend a better service,\" the Doctor said, offering his hand.",
+    "ko": "당신의 친구에게 이보다 더 좋은 봉사는 할 수 없을 겁니다. 의사가 손을 내밀며 말했습니다.",
+    "is_header": false,
+    "raw_ref_id": 101
+  },
+  {
+    "id": 83,
+    "tag": "P046_1",
+    "en": "“To the first point, then. He has a studious nature and is unusually energetic; he applies himself with great passion to learning professional knowledge, conducting experiments, and many other things.",
+    "ko": "그렇다면 첫 번째 요점에 대해서 말씀드리죠. 그는 학구적인 성격을 지니고 있으며 유난히 에너지가 넘칩니다. 그는 전문 지식을 배우고, 실험을 수행하고, 다른 많은 일들에 큰 열정을 가지고 몰두합니다.",
+    "is_header": false,
+    "raw_ref_id": 102
+  },
+  {
+    "id": 84,
+    "tag": "P046_2",
+    "en": "Does he do too much?\"",
+    "ko": "그가 너무 무리하는 걸까요?",
+    "is_header": false,
+    "raw_ref_id": 103
+  },
+  {
+    "id": 85,
+    "tag": "P047_1",
+    "en": "\"I think not.",
+    "ko": "그렇지 않다고 생각합니다.",
+    "is_header": false,
+    "raw_ref_id": 104
+  },
+  {
+    "id": 86,
+    "tag": "P047_2",
+    "en": "It might just be how his mind works, always having a unique need to stay busy.",
+    "ko": "그것은 단지 그의 마음이 작동하는 방식일 수 있으며, 항상 바쁘게 지내려는 독특한 욕구를 가지고 있는 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 105
+  },
+  {
+    "id": 87,
+    "tag": "P047_3",
+    "en": "That may be partly natural, and partly the result of his past suffering.",
+    "ko": "그것은 부분적으로는 타고난 것일 수도 있고, 부분적으로는 과거의 고통의 결과일 수도 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 106
+  },
+  {
+    "id": 88,
+    "tag": "P047_4",
+    "en": "The less his mind is busy with healthy things, the more it is in danger of turning to unhealthy thoughts.",
+    "ko": "그의 마음이 건강한 일들로 덜 바쁠수록, 건강하지 않은 생각으로 향할 위험은 더 커집니다.",
+    "is_header": false,
+    "raw_ref_id": 107
+  },
+  {
+    "id": 89,
+    "tag": "P047_5",
+    "en": "He might have observed himself and figured it out.” “Are you sure he isn't under too much stress?” “I think I'm quite sure of it.”",
+    "ko": "그는 자신을 관찰하고 그것을 알아냈을지도 모릅니다. 그가 너무 많은 스트레스를 받고 있지 않다고 확신하시나요? 네, 아주 확신합니다.",
+    "is_header": false,
+    "raw_ref_id": 108
+  },
+  {
+    "id": 90,
+    "tag": "P048",
+    "en": "\"You are sure he is not under too much strain?\"",
+    "ko": "그가 너무 많은 긴장 상태에 있지 않다고 확신하시나요?",
+    "is_header": false,
+    "raw_ref_id": 109
+  },
+  {
+    "id": 91,
+    "tag": "P049_1",
+    "en": "\"Yes, I am sure of it.",
+    "ko": "네, 확실합니다.",
+    "is_header": false,
+    "raw_ref_id": 110
+  },
+  {
+    "id": 92,
+    "tag": "P049_2",
+    "en": "There has been a violent stress in one direction, and he needs a counterweight.\"",
+    "ko": "한 방향으로 격렬한 스트레스가 있었고, 그에게는 균형을 잡아줄 무언가가 필요합니다.",
+    "is_header": false,
+    "raw_ref_id": 111
+  },
+  {
+    "id": 93,
+    "tag": "P050_1",
+    "en": "\"Forgive me, as a practical businessman.",
+    "ko": "실용적인 사업가로서 질문하는 저를 용서해 주십시오.",
+    "is_header": false,
+    "raw_ref_id": 112
+  },
+  {
+    "id": 94,
+    "tag": "P050_2",
+    "en": "If he _were_ overworked, would it trigger another relapse?\"",
+    "ko": "만약 그가 과로를 한다면, 그것이 또 다른 재발을 일으킬까요?",
+    "is_header": false,
+    "raw_ref_id": 113
+  },
+  {
+    "id": 95,
+    "tag": "P051_1",
+    "en": "\"I don't think so.",
+    "ko": "그렇지 않다고 생각합니다.",
+    "is_header": false,
+    "raw_ref_id": 114
+  },
+  {
+    "id": 96,
+    "tag": "P051_2",
+    "en": "I believe only that one specific set of memories would trigger it.",
+    "ko": "저는 오직 그 하나의 구체적인 기억들만이 그것을 유발할 것이라고 믿습니다.",
+    "is_header": false,
+    "raw_ref_id": 115
+  },
+  {
+    "id": 97,
+    "tag": "P051_3",
+    "en": "Only a sudden shock to that chord could cause it.",
+    "ko": "오직 그 감정에 가해지는 갑작스러운 충격만이 그것을 일으킬 수 있습니다.",
+    "is_header": false,
+    "raw_ref_id": 116
+  },
+  {
+    "id": 98,
+    "tag": "P051_4",
+    "en": "After what happened, and after his recovery, I find it hard to imagine anything striking that chord so violently again.",
+    "ko": "무슨 일이 있었는지, 그리고 그가 회복한 후에, 저는 그 감정을 다시 그렇게 강렬하게 때리는 무언가를 상상하기 어렵습니다.",
+    "is_header": false,
+    "raw_ref_id": 117
+  },
+  {
+    "id": 99,
+    "tag": "P051_5",
+    "en": "I believe the circumstances likely to cause it are gone.\"",
+    "ko": "저는 그것을 유발할 만한 상황은 사라졌다고 믿습니다.",
+    "is_header": false,
+    "raw_ref_id": 118
+  },
+  {
+    "id": 100,
+    "tag": "P052_1",
+    "en": "He spoke with the caution of a doctor who knew how delicate the mind is, but also with the confidence of a man who had survived it himself.",
+    "ko": "그는 마음이 얼마나 섬세한지 아는 의사의 신중함으로 말했지만, 또한 그것을 스스로 살아남은 남자의 자신감으로도 말했습니다.",
+    "is_header": false,
+    "raw_ref_id": 119
+  },
+  {
+    "id": 101,
+    "tag": "P052_2",
+    "en": "It wasn't his friend's place to lessen that confidence.",
+    "ko": "그 자신감을 깎아내리는 것은 그의 친구가 할 일이 아니었습니다.",
+    "is_header": false,
+    "raw_ref_id": 120
+  },
+  {
+    "id": 102,
+    "tag": "P052_3",
+    "en": "Lorry pretended to be fully relieved, and approached his last point.",
+    "ko": "로리는 완전히 안심한 척하며 그의 마지막 요점에 접근했습니다.",
+    "is_header": false,
+    "raw_ref_id": 121
+  },
+  {
+    "id": 103,
+    "tag": "P052_4",
+    "en": "He felt it would be the most difficult one of all, but remembering his old Sunday morning chat with Miss Pross, and thinking about what he had seen over the last nine days, he knew he had to face it.",
+    "ko": "그는 그것이 모든 것 중 가장 어려운 것이 될 것이라고 느꼈지만, 프로스 양과의 지난 일요일 아침 대화를 기억하고 지난 구 일 동안 보았던 것을 생각하며, 그는 자신이 그것을 마주해야 한다는 것을 알았습니다.",
+    "is_header": false,
+    "raw_ref_id": 122
+  },
+  {
+    "id": 104,
+    "tag": "P053_1",
+    "en": "“The trade resumed under the influence of this passing affliction from which he has so happily recovered,” said Mr. Lorry, clearing his throat, “we will call—blacksmith's work, blacksmith's work.",
+    "ko": "“다행히 회복된 이번 일시적인 고통의 영향 아래 다시 시작했던 그 일,” 로리 씨가 목을 가다듬으며 말했다. “편의상 대장장이 일이라고 부르지요, 대장장이 일이라고요.",
+    "is_header": false,
+    "raw_ref_id": 123
+  },
+  {
+    "id": 105,
+    "tag": "P053_3",
+    "en": "Let us say, for example, that he had worked at a small forge in his prison years, and was found at his forge again.",
+    "ko": "예를 들어, 그가 감옥 시절에 작은 대장간에서 일했고, 다시 그의 대장간에서 발견되었다고 쳐봅시다.",
+    "is_header": false,
+    "raw_ref_id": 125
+  },
+  {
+    "id": 106,
+    "tag": "P053_4",
+    "en": "Isn't it a pity that he keeps that forge with him?\"",
+    "ko": "그가 그 대장간을 계속 곁에 두는 것은 유감스러운 일이 아닐까요?",
+    "is_header": false,
+    "raw_ref_id": 126
+  },
+  {
+    "id": 107,
+    "tag": "P054",
+    "en": "The Doctor covered his forehead with his hand and tapped his foot nervously on the floor.",
+    "ko": "의사는 손으로 이마를 덮고 바닥을 신경질적으로 발로 두드렸습니다.",
+    "is_header": false,
+    "raw_ref_id": 127
+  },
+  {
+    "id": 108,
+    "tag": "P055_1",
+    "en": "“He has always kept it near him,” said Mr. Lorry, looking anxiously at his friend. “Now, wouldn't it be better for him to part with it?”",
+    "ko": "“그는 항상 그것을 곁에 두고 있었습니다.” 로리 씨가 친구를 걱정스럽게 바라보며 말했다. “그렇다면 이제 그것을 처분하는 것이 더 낫지 않을까요?”",
+    "is_header": false,
+    "raw_ref_id": 128
+  },
+  {
+    "id": 109,
+    "tag": "P056",
+    "en": "The Doctor, still covering his face, kept tapping his foot.",
+    "ko": "의사는 여전히 얼굴을 가린 채 계속해서 발을 두드렸습니다.",
+    "is_header": false,
+    "raw_ref_id": 130
+  },
+  {
+    "id": 110,
+    "tag": "P057_1",
+    "en": "“You don't find it easy to advise me?” said Mr. Lorry. “I completely understand that it is a delicate question.",
+    "ko": "“조언하기가 쉽지 않으신가요?” 로리 씨가 말했다. “그것이 매우 미묘하고 다루기 힘든 문제라는 점은 충분히 이해합니다.",
+    "is_header": false,
+    "raw_ref_id": 131
+  },
+  {
+    "id": 111,
+    "tag": "P057_3",
+    "en": "And yet...\" He shook his head and stopped.",
+    "ko": "하지만... 그는 고개를 저으며 말을 멈췄습니다.",
+    "is_header": false,
+    "raw_ref_id": 133
+  },
+  {
+    "id": 112,
+    "tag": "P058_1",
+    "en": "Doctor Manette said after an uneasy pause, \"You see, it is very hard to explain the inner workings of this man’s mind.",
+    "ko": "마네트 의사는 불안한 침묵 끝에 말했습니다. 보시다시피, 이 남자의 마음 속 내면의 작용을 설명하는 것은 매우 어렵습니다.",
+    "is_header": false,
+    "raw_ref_id": 134
+  },
+  {
+    "id": 113,
+    "tag": "P058_2",
+    "en": "He once longed for that work so much, and it helped relieve his mental pain by keeping his hands busy. Because it helped him survive his mental torture, he could never bear to put it out of reach.",
+    "ko": "그는 한때 그 일을 간절히 원했고, 그것은 그의 손을 바쁘게 함으로써 그의 정신적 고통을 덜어주는 데 도움을 주었습니다. 그것이 그의 정신적 고문을 견뎌내게 도와주었기 때문에, 그는 결코 그것을 손이 닿지 않는 곳에 두는 것을 견딜 수 없었습니다.",
+    "is_header": false,
+    "raw_ref_id": 135
+  },
+  {
+    "id": 114,
+    "tag": "P058_3",
+    "en": "Even now, when I believe he is more hopeful about himself than he has ever been, and even speaks with a kind of confidence, the thought that he might need that old work and not be able to find it gives him a sudden sense of terror, much like the fear that might strike the heart of a lost child.”",
+    "ko": "심지어 지금도, 저는 그가 그 어느 때보다 자신에 대해 희망적이라고 믿고 있고 심지어 어떤 종류의 자신감을 가지고 말하기도 하지만, 그가 그 예전 일을 필요로 할지도 모르는 데 그것을 찾지 못할 수도 있다는 생각은 마치 길 잃은 아이의 심장을 강타할 수 있는 두려움과 매우 비슷하게 그에게 갑작스러운 공포감을 줍니다.",
+    "is_header": false,
+    "raw_ref_id": 136
+  },
+  {
+    "id": 115,
+    "tag": "P059_1",
+    "en": "He looked like the very picture he had described as he looked up at Mr. Lorry’s face.",
+    "ko": "로리 씨의 얼굴로 시선을 들어 올렸을 때, 그의 모습은 그가 방금 묘사했던 사람의 모습과 꼭 닮아 있었다.",
+    "is_header": false,
+    "raw_ref_id": 137
+  },
+  {
+    "id": 116,
+    "tag": "P060_1",
+    "en": "\"But,\" Mr.",
+    "ko": "하지만,",
+    "is_header": false,
+    "raw_ref_id": 139
+  },
+  {
+    "id": 117,
+    "tag": "P060_2",
+    "en": "Lorry said, \"as a practical man who deals only with money and concrete things, wouldn't keeping the tools keep the memory alive?",
+    "ko": "로리 씨가 말했습니다. 오직 돈과 구체적인 것들만 다루는 실용적인 사람의 입장에서, 그 도구들을 간직하는 것이 기억을 살아있게 하지 않을까요?",
+    "is_header": false,
+    "raw_ref_id": 140
+  },
+  {
+    "id": 118,
+    "tag": "P060_3",
+    "en": "If the tools were gone, might not the fear go with it?",
+    "ko": "만약 도구들이 사라진다면, 그 두려움도 함께 사라지지 않을까요?",
+    "is_header": false,
+    "raw_ref_id": 141
+  },
+  {
+    "id": 119,
+    "tag": "P060_4",
+    "en": "Isn't keeping the forge a sign of doubt in his own recovery?\"",
+    "ko": "대장간을 간직하는 것은 그 자신의 회복에 대한 의심의 표시가 아닙니까?",
+    "is_header": false,
+    "raw_ref_id": 142
+  },
+  {
+    "id": 120,
+    "tag": "P061",
+    "en": "Another silence followed.",
+    "ko": "또 다른 침묵이 뒤따랐습니다.",
+    "is_header": false,
+    "raw_ref_id": 143
+  },
+  {
+    "id": 121,
+    "tag": "P062",
+    "en": "The Doctor said tremulously, \"You must understand, it is such an old companion.\"",
+    "ko": "의사는 떨리는 목소리로 말했습니다. 이해하셔야 합니다. 그것은 너무나 오랜 친구라는 것을요.",
+    "is_header": false,
+    "raw_ref_id": 144
+  },
+  {
+    "id": 122,
+    "tag": "P063_1",
+    "en": "“I wouldn't keep it,” said Mr. Lorry, shaking his head; for he grew firmer as he saw how uneasy the Doctor was. “I would advise him to give it up.",
+    "ko": "“나라면 그것을 보관하지 않겠습니다.” 로리 씨가 고개를 저으며 말했다. 의사가 불안해하는 모습을 보자 그는 더욱 확고해졌다. “저는 그에게 그것을 없애 버리라고 권하겠습니다.",
+    "is_header": false,
+    "raw_ref_id": 145
+  },
+  {
+    "id": 123,
+    "tag": "P063_3",
+    "en": "He grew firmer as he saw the Doctor's hesitation.",
+    "ko": "그는 의사의 주저함을 보며 더욱 확고해졌습니다.",
+    "is_header": false,
+    "raw_ref_id": 147
+  },
+  {
+    "id": 124,
+    "tag": "P063_4",
+    "en": "\"I would advise him to sacrifice it.",
+    "ko": "저는 그에게 그것을 희생하라고 조언할 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 148
+  },
+  {
+    "id": 125,
+    "tag": "P063_5",
+    "en": "I only want your approval.",
+    "ko": "저는 오직 당신의 승인을 원할 뿐입니다.",
+    "is_header": false,
+    "raw_ref_id": 149
+  },
+  {
+    "id": 126,
+    "tag": "P063_6",
+    "en": "Give me your permission, like a dear, good man.",
+    "ko": "친애하고 좋은 사람으로서 제게 허락을 주십시오.",
+    "is_header": false,
+    "raw_ref_id": 150
+  },
+  {
+    "id": 127,
+    "tag": "P063_7",
+    "en": "Give me your approval for his daughter’s sake!\"",
+    "ko": "그의 딸을 위해서라도 제게 승인을 주십시오!",
+    "is_header": false,
+    "raw_ref_id": 151
+  },
+  {
+    "id": 128,
+    "tag": "P064",
+    "en": "It was clear a great struggle was going on inside the Doctor.",
+    "ko": "의사의 마음속에서 엄청난 내적 갈등이 진행되고 있음이 분명했습니다.",
+    "is_header": false,
+    "raw_ref_id": 152
+  },
+  {
+    "id": 129,
+    "tag": "P065_1",
+    "en": "\"In her name, then, let it be done; I approve.",
+    "ko": "그녀의 이름으로, 그렇다면 그렇게 합시다. 승인합니다.",
+    "is_header": false,
+    "raw_ref_id": 153
+  },
+  {
+    "id": 130,
+    "tag": "P065_2",
+    "en": "But do not take it while he is there.",
+    "ko": "하지만 그가 그곳에 있을 때는 그것을 가져가지 마십시오.",
+    "is_header": false,
+    "raw_ref_id": 154
+  },
+  {
+    "id": 131,
+    "tag": "P065_3",
+    "en": "Remove it when he is away, so he misses his companion after he leaves.\"",
+    "ko": "그가 멀리 떨어져 있을 때 그것을 치우십시오, 그래야 그가 떠난 후에 그의 동료를 그리워하게 될 것입니다.",
+    "is_header": false,
+    "raw_ref_id": 155
+  },
+  {
+    "id": 132,
+    "tag": "P066_1",
+    "en": "Mr. Lorry readily promised that, and the conversation came to an end.",
+    "ko": "로리 씨는 기꺼이 그렇게 하겠다고 약속했고, 대화는 끝이 났다.",
+    "is_header": false,
+    "raw_ref_id": 156
+  },
+  {
+    "id": 133,
+    "tag": "P066_3",
+    "en": "They spent the day in the country, and the Doctor seemed completely recovered.",
+    "ko": "그들은 시골에서 하루를 보냈고, 의사는 완전히 회복된 것처럼 보였습니다.",
+    "is_header": false,
+    "raw_ref_id": 158
+  },
+  {
+    "id": 134,
+    "tag": "P066_4",
+    "en": "Over the next three days he remained well, and on the fourteenth day he left to join Lucie and her husband.",
+    "ko": "다음 삼 일 동안 그는 건강을 유지했고, 십사 일째 되는 날 루시와 그녀의 남편과 합류하기 위해 떠났습니다.",
+    "is_header": false,
+    "raw_ref_id": 159
+  },
+  {
+    "id": 135,
+    "tag": "P066_5",
+    "en": "Mr. Lorry had previously explained to him the precaution taken to explain his silence, and the Doctor had written to Lucie accordingly, so she suspected nothing.",
+    "ko": "그의 침묵에 대해 둘러대기 위해 취했던 예방책을 로리 씨가 미리 설명해 두었기에, 의사는 그에 맞춰 루시에게 편지를 썼고 그녀는 아무런 의심도 품지 않았다.",
+    "is_header": false,
+    "raw_ref_id": 160
+  },
+  {
+    "id": 136,
+    "tag": "P067_1",
+    "en": "On the night of the day the Doctor left the house, Mr. Lorry went into his room with an ax, saw, chisel, and hammer, accompanied by Miss Pross holding a light.",
+    "ko": "의사가 집을 떠난 날 밤, 로리 씨는 손도끼, 톱, 끌, 망치를 들고 불을 든 프로스 양의 안내를 받으며 그의 방으로 들어갔다.",
+    "is_header": false,
+    "raw_ref_id": 162
+  },
+  {
+    "id": 137,
+    "tag": "P067_3",
+    "en": "There, behind closed doors and in a secretive, guilty manner, Mr. Lorry chopped the shoemaker’s workbench to pieces, while Miss Pross held the candle as if she were assisting in a murder—a role for which her grim appearance indeed made her quite fitting.",
+    "ko": "그곳에서 문을 굳게 닫아걸고 비밀스럽고도 죄책감 어린 태도로 로리 씨는 구두장이 작업대를 산산조각 내었고, 프로스 양은 마치 살인을 돕고 있는 것처럼 촛불을 들고 있었는데, 엄숙하고 험상궂은 그녀의 표정은 실로 그런 역할에 더할 나위 없이 어울렸다.",
+    "is_header": false,
+    "raw_ref_id": 164
+  },
+  {
+    "id": 138,
+    "tag": "P067_5",
+    "en": "They burned the wood in the kitchen fireplace and buried the tools, shoes, and leather in the garden.",
+    "ko": "그들은 부엌 난로에서 나무를 태우고, 도구와 신발, 가죽은 정원에 묻었다.",
+    "is_header": false,
+    "raw_ref_id": 166
+  },
+  {
+    "id": 139,
+    "tag": "P067_6",
+    "en": "So wicked do destruction and secrecy seem to honest minds that Mr. Lorry and Miss Pross, while carrying out their deed and destroying the evidence, almost felt and looked like accomplices in a horrific crime.",
+    "ko": "정직한 사람들의 마음에는 파괴와 비밀 유지가 어찌나 사악한 짓처럼 느껴지는지, 로리 씨와 프로스 양은 그 일을 저지르고 흔적을 없애는 동안 거의 끔찍한 범죄의 공범이 된 듯한 기분을 느꼈고 모습 또한 그렇게 보였다.",
+    "is_header": false,
+    "raw_ref_id": 167
+  }
+]

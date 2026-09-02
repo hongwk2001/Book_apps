@@ -18,6 +18,7 @@
     <string name="lang_korean">Korean</string>
     <string name="setting_show">Show</string>
     <string name="setting_read">Read</string>
+    <string name="raw_voice_title">Raw Voice</string>
     <string name="english_voice_title">English Voice</string>
     <string name="korean_voice_title">Korean Voice</string>
     <string name="setting_speed">Speed: %.2fx</string>
