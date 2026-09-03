@@ -2,7 +2,7 @@
   {
     "id": 1,
     "tag": "P001",
-    "en": "[Chapter 16]",
+    "en": "[Chapter 16] Still Knitting",
     "ko": "",
     "is_header": true,
     "raw_ref_id": 1
@@ -10,8 +10,8 @@
   {
     "id": 2,
     "tag": "P002_1",
-    "en": "Still Knitting Madame Defarge and her husband returned to the Saint Antoine neighborhood, while the road mender in his blue cap walked back through the dark and dusty miles toward the castle of the late Marquis.",
-    "ko": "여전히 뜨개질을 하며 마담 드파르지와 그녀의 남편은 생탕투안 동네로 돌아왔고, 반면 파란 모자를 쓴 도로 보수공은 캄캄하고 먼지가 자욱한 수 마일의 길을 걸어 죽은 후작의 성채를 향해 돌아갔다.",
+    "en": "Madame Defarge and her husband returned to the Saint Antoine neighborhood, while the road mender in his blue cap walked back through the dark and dusty miles toward the castle of the late Marquis.",
+    "ko": "마담 드파르지와 그녀의 남편은 생탕투안 동네로 돌아왔고, 반면 파란 모자를 쓴 도로 보수공은 캄캄하고 먼지가 자욱한 수 마일의 길을 걸어 죽은 후작의 성채를 향해 돌아갔다.",
     "is_header": false,
     "raw_ref_id": 2
   },

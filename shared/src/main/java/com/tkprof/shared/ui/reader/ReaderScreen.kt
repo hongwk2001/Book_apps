@@ -61,7 +61,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val totalChapters by viewModel.totalChapters.collectAsState()
     val chapterTitles by viewModel.chapterTitles.collectAsState()
     val speakingId by viewModel.speakingSentenceId.collectAsState()
-    val isSpeaking by viewModel.isSpeaking.collectAsState()
+    val isPlaying by viewModel.isPlaying.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
     val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
     val maxAccessible = maxOf(viewModel.bookConfig.freeChapters, bypassedUpToChapter + 2)
@@ -88,6 +88,15 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
+    val drawerListState = rememberLazyListState()
+
+    LaunchedEffect(drawerState.isOpen) {
+        if (drawerState.isOpen && totalChapters > 0) {
+            val targetIndex = (chapterNumber - 1).coerceIn(0, totalChapters - 1)
+            val scrollOffsetIndex = maxOf(0, targetIndex - 2)
+            drawerListState.scrollToItem(scrollOffsetIndex)
+        }
+    }
 
     if (showSettings) {
         SettingsDialog(
@@ -103,7 +112,10 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 Column(modifier = Modifier.fillMaxHeight()) {
                     Text(stringResource(R.string.chapters_title), modifier = Modifier.padding(16.dp), style = MaterialTheme.typography.titleLarge)
                     HorizontalDivider()
-                    LazyColumn(modifier = Modifier.weight(1f)) {
+                    LazyColumn(
+                        state = drawerListState,
+                        modifier = Modifier.weight(1f)
+                    ) {
                         items(totalChapters) { index ->
                             val i = index + 1
                             val accessible = viewModel.isChapterAccessible(i)
@@ -119,7 +131,15 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             NavigationDrawerItem(
                                 label = {
                                     Text(
-                                        displayTitle,
+                                        text = displayTitle,
+                                        style = MaterialTheme.typography.bodyMedium.copy(
+                                            fontFamily = androidx.compose.ui.text.font.FontFamily.Serif,
+                                            fontSize = 14.sp,
+                                            lineHeight = 19.sp,
+                                            fontWeight = if (i == chapterNumber) FontWeight.SemiBold else FontWeight.Normal
+                                        ),
+                                        maxLines = 1,
+                                        overflow = TextOverflow.Ellipsis,
                                         color = if (accessible) LocalContentColor.current else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f)
                                     )
                                 },
@@ -215,7 +235,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
             },
             bottomBar = {
                 ReaderBottomBar(
-                    isSpeaking = isSpeaking,
+                    isSpeaking = isPlaying,
                     isAccessible = isAccessible,
                     onPrevious = { viewModel.previousSentence() },
                     onNext = { viewModel.nextSentence() },

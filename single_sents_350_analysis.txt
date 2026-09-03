@@ -1,0 +1,64 @@
+[1] ch_35.json ID 5 (Tag: P002_4) - 397 EN chars / 246 KO chars
+  EN: Lovely girls; bright women, brown-haired, black-haired, and grey; youths; stalwart men and old; gentle born and peasant born; all red wine for La Guillotine, all daily brought into light from the dark cellars of the loathsome prisons, and carried to her through the streets to slake her devouring thirst. Liberty, equality, fraternity, or death;—the last, much the easiest to bestow, O Guillotine!
+  KO: 사랑스러운 소녀들, 갈색 머리, 검은 머리, 흰 머리의 활기찬 여인들, 젊은이들, 건장한 사내들과 노인들, 귀족 출신과 농민 출신, 이 모든 이들이 단두대를 위한 붉은 포도주가 되어 매일같이 음산한 감옥의 어두운 지하 독방에서 빛 속으로 끌려 나와, 단두대의 타는 듯한 갈증을 채워주기 위해 거리를 지나 그녀에게로 실려 갔다. 자유, 평등, 박애, 그렇지 않으면 죽음을. 오 단두대여, 그중 죽음이야말로 네가 베풀기에 가장 쉬운 것이었구나!
+
+[2] ch_26.json ID 84 (Tag: P045_1) - 394 EN chars / 203 KO chars
+  EN: He bent over her golden head, pressed his lips to hers, and folded her in his arms. If the lonely wanderer then pacing the dark streets could have heard her innocent confession, and could have seen the tears of pity kissed away by her husband from the soft blue eyes that so loved him, he might have cried out to the night—and those words would not have parted from his lips for the first time—
+  KO: 그는 금빛 머리 위로 몸을 굽혀 장밋빛 입술에 입을 맞추고 그녀를 품에 안았다. 만약 그때 어두운 거리를 거닐던 외로운 방랑자가 그녀의 순수한 고백을 듣고, 남편을 그토록 사랑하는 부드러운 푸른 눈에서 남편의 입맞춤으로 닦여 나가는 연민의 눈방울을 볼 수 있었다면, 그는 밤을 향해 외쳤을지도 모른다—그리고 그 말이 그의 입술을 떠난 것이 처음은 아니었을 것이다—
+
+[3] ch_25.json ID 6 (Tag: P004_1) - 393 EN chars / 206 KO chars
+  EN: Even when he was sure he was awake, Mr. Lorry felt dizzy and uncertain for a few moments about whether the recent shoemaking might not have been a troubled dream of his own; for didn't his eyes show his friend before him in his usual clothes and appearance, working as normal; and was there any visible sign that the change which had made such a strong impression on him had actually happened?
+  KO: 완전히 잠에서 깨어났음을 확인한 후에도, 로리 씨는 지난 며칠간의 구두 제작이 자신이 꾼 어지러운 꿈이 아니었을까 하는 생각에 몇 순간 동안 어질어질하고 혼란스러웠다. 눈앞에 보이는 친구는 평소와 다름없는 옷차림과 모습으로 늘 하던 일에 열중하고 있었으며, 그토록 강렬한 인상을 남겼던 변화가 실제로 일어났음을 보여주는 흔적이 눈길이 닿는 곳 어디에도 없었기 때문이다.
+
+[4] ch_38.json ID 153 (Tag: P077_1) - 393 EN chars / 209 KO chars
+  EN: “Mr. Barsad,” he continued, in the tone of someone actually looking over a hand of cards: “prison spy, emissary of Republican committees, sometimes turnkey, sometimes prisoner, always a spy and secret informer—all the more valuable here for being English, since an Englishman is less suspected of bribery in such roles than a Frenchman—passing himself off to his employers under a false name.”
+  KO: “바사드 씨,” 그는 마치 실제로 카드 패를 살펴보고 있는 듯한 어조로 말을 이었다. “감옥의 스파이이자 공화국 위원회의 밀사, 때로는 간수이고 때로는 죄수이며, 언제나 스파이이자 비밀 정보원이지. 영국인이라는 점 때문에 이곳에서 한층 더 가치가 있는데, 영국인은 프랑스인보다 그런 역할에서 매수당했다는 의심을 덜 받기 때문이고, 고용주들에게 가짜 이름으로 활동하고 있소.”
+
+[5] ch_19.json ID 8 (Tag: P004_1) - 391 EN chars / 188 KO chars
+  EN: On an August day, when Mr. Stryver (having notified his jackal that “he had thought better of that marriage business”) had taken his delicate sensibilities off to Devonshire, and when the sight and scent of flowers in the City streets carried lingering traces of goodness for the worst, of health for the sickliest, and of youth for the oldest, Sydney’s feet still walked those cobblestones.
+  KO: 스트라이버 씨가 (자신의 하수인에게 “결혼 문제는 다시 생각해 보기로 했다”고 알린 뒤) 그의 섬세함을 데번셔로 가져가 버리고, 도시 거리의 꽃들의 모습과 향기가 가장 악한 이들에게도 일말의 선함을, 가장 병약한 이들에게도 건강을, 가장 늙은 이들에게도 젊음을 전해주던 8월의 어느 날, 시드니의 발길은 여전히 그 돌바닥을 밟고 있었다.
+
+[6] ch_34.json ID 17 (Tag: P005_2) - 389 EN chars / 174 KO chars
+  EN: With an inconsistency as monstrous as anything in this awful nightmare, they had helped the healer and tended the wounded man with the gentlest solicitude—had made a litter for him and escorted him carefully from the spot—had then caught up their weapons and plunged anew into a butchery so dreadful that the Doctor had covered his eyes with his hands, and swooned away in the midst of it.
+  KO: 이 끔찍한 악몽 속 그 어떤 것보다도 기괴한 모순 속에서, 그들은 의사를 도왔고 지극한 정성으로 부상자를 돌보았으며, 그를 위해 들것을 만들어 현장에서 조심스럽게 호송해 갔다. 그러고 나서는 다시 무기를 쥐고 너무나 끔찍한 도살극에 뛰어들었기에, 박사는 두 손으로 눈을 가리고 그 한가운데서 정신을 잃고 말았다.
+
+[7] ch_40.json ID 288 (Tag: P114_3) - 386 EN chars / 207 KO chars
+  EN: Therefore, when the President declared, knowing his own head would roll if he didn't, that the good doctor of the Republic would serve the country even better by wiping out a hated family of aristocrats, and would surely feel a holy joy in making his own daughter a widow and her child an orphan, there was wild excitement and patriotic passion, but not a single drop of human sympathy.
+  KO: 그러므로, 재판장이 만약 그렇게 하지 않으면 자신의 목이 날아갈 것을 알고, 공화국의 훌륭한 의사는 혐오스러운 귀족 가문을 몰살시킴으로써 국가에 더 큰 공헌을 할 것이며, 자신의 딸을 과부로 만들고 그녀의 아이를 고아로 만드는 데에서 분명히 성스러운 기쁨을 느낄 것이라고 선언했을 때, 거친 흥분과 애국적인 열정이 가득했지만, 인간적인 동정심은 단 한 방울도 없었습니다.
+
+[8] ch_11.json ID 6 (Tag: P003_3) - 385 EN chars / 191 KO chars
+  EN: The Sessions and the Old Bailey now had to specially summon their favorite back into their longing arms; and pushing his way toward the face of the Lord Chief Justice in the Court of King's Bench, Mr. Stryver's florid face could be seen daily, bursting out from the bed of wigs like a huge sunflower thrusting itself toward the sun from among an overgrown garden full of showy flowers.
+  KO: 이제 순회재판소와 올드 베일리는 자신들의 총아를 간절한 품으로 특별히 불러들여야만 했고, 왕좌법원에서 대법원장의 면전을 향해 어깨를 들이밀며 나아가는 스트라이버 씨의 불그스레한 얼굴은, 무성하게 우거진 정원의 화려한 꽃들 틈에서 태양을 향해 고개를 불쑥 내미는 거대한 해바라기처럼 매일같이 가발의 물결 사이로 솟아오르는 모습을 볼 수 있었다.
+
+[9] ch_20.json ID 10 (Tag: P005_1) - 385 EN chars / 214 KO chars
+  EN: It happened that he was thus occupied during a season when crowds were sparse and late-walking women were few, and when his business in general was going so poorly as to arouse a strong suspicion in his mind that Mrs. Cruncher must have been “flopping” in prayer against him in some deliberate way, when an unusually large crowd surging westward down Fleet Street caught his attention.
+  KO: 그가 그렇게 시간을 보내고 있던 때는 인파도 드물고 늦게 다니는 여인들도 적은 시기였는데, 그의 전반적인 벌이가 너무나 신통치 않아 크런처 부인이 어딘가에서 보란 듯이 엎드려 ‘무릎 꿇고 기도(flopping)’를 올리고 있는 게 틀림없다는 강한 의심이 그의 가슴속에 싹트고 있던 차에, 플리트 거리를 따라 서쪽으로 쏟아져 들어오는 심상치 않은 군중의 무리가 그의 시선을 사로잡았다.
+
+[10] ch_09.json ID 205 (Tag: P092_7) - 380 EN chars / 193 KO chars
+  EN: He argued how it would show weakness in the government to fail in this attempt to gain popularity by exploiting the basest national prejudices and fears, which was why the Attorney General had made the most of it; yet how it rested on nothing except the vile and shameful kind of evidence that all too often tainted such trials, and of which the nation's treason trials were full.
+  KO: 가장 저열한 국민적 반감과 공포심을 이용해 인기를 얻으려는 시도가 좌절된다면 정부의 나약함을 드러내는 꼴이 될 것이기에 검찰총장이 온 힘을 다해 밀어붙였으나, 그럼에도 불구하고 이 사건은 국사범 재판에 너무나 자주 먹칠을 해온, 그리고 이 나라의 반역죄 재판 기록에 넘쳐나는 비열하고 수치스러운 성격의 증거 외에는 아무런 근거도 없다고 역설했다.
+
+[11] ch_33.json ID 8 (Tag: P004_4) - 379 EN chars / 177 KO chars
+  EN: As there was no business objection to this, and as he foresaw that even if all went well with Charles and he were released, he could not hope to leave the city, Mr. Lorry went out in search of such lodgings, and found a suitable place, high up in a secluded side street where closed blinds in all the other windows of a tall, melancholy square of buildings marked deserted homes.
+  KO: 사업상으로 이에 반대할 이유가 없었고, 찰스의 일이 잘 풀려 그가 석방된다 하더라도 도시를 떠날 가망은 없다는 것을 예견했기에, 로리 씨는 그런 거처를 찾아 나섰다. 그리고 높고 음울한 건물들로 둘러싸인 광장의 다른 모든 창문에 닫힌 블라인드가 버려진 집들임을 보여주는, 한적한 골목길 위층에 적당한 숙소를 찾아냈다.
+
+[12] ch_04.json ID 20 (Tag: P008_1) - 374 EN chars / 176 KO chars
+  EN: Consequently, another waiter, two porters, several maids, and the landlady were all lingering casually at various points along the corridor between the Concord room and the coffee room, when a gentleman of sixty, formally dressed in a brown suit that was quite worn but very well-maintained—with large square cuffs and large pocket flaps—walked past on his way to breakfast.
+  KO: 그리하여 또 다른 웨이터 한 명과 두 명의 짐꾼, 몇몇 하녀들과 여주인은 모두 우연을 가장해 '콩코드' 방과 다실 사이의 복도 곳곳에 서성거리고 있었는데, 그때 넓은 사각 소맷단과 커다란 주머니 덮개가 달린 꽤 낡았지만 아주 잘 관리된 갈색 정장을 단정하게 차려입은 예순 살가량의 신사가 아침 식사를 하러 지나갔다.
+
+[13] ch_15.json ID 186 (Tag: P107_2) - 368 EN chars / 176 KO chars
+  EN: First, the morning sun shone red on the boar spears and hunting knives, just as it had in the old days; then, doors and windows were thrown open, horses in their stables looked back over their shoulders at the light and fresh air pouring in, leaves sparkled and rustled at iron-grated windows, and dogs pulled hard at their chains, jumping impatiently to be let loose.
+  KO: 먼저, 옛날과 다름없이 아침 해가 멧돼지 창과 사냥용 칼 위로 붉게 비췄다. 그런 다음 문과 창문이 활짝 열렸고, 마구간의 말들은 쏟아져 들어오는 빛과 신선한 공기를 어깨 너머로 돌아보았으며, 쇠창살 창문에서는 나뭇잎이 반짝이며 바스락거렸고, 개들은 사슬을 세게 당기며 풀려나기를 초조하게 기다리며 펄쩍펄쩍 뛰었다.
+
+[14] ch_27.json ID 35 (Tag: P011_2) - 364 EN chars / 176 KO chars
+  EN: Some of his King's Bench acquaintances, who occasionally shared the wine and heard the lie, excused him by saying that he had told it so often he actually believed it himself—which is certainly such an incorrigible worsening of an already bad offense that it would justify hauling such an offender off to some suitably secluded spot and hanging him out of the way.
+  KO: 때때로 그 진한 와인을 함께 마시며 거짓말을 듣던 왕좌재판소의 지인들은, 그가 하도 자주 그 이야기를 하다 보니 스스로도 그것을 믿게 된 것이라며 변명해 주었다—하지만 이는 원래 나쁜 잘못을 도저히 구제할 수 없을 정도로 악화시키는 일이라, 그런 자를 한적한 곳으로 끌고 가 목을 매달아 치워버려도 마땅할 정도였다.
+
+[15] ch_40.json ID 116 (Tag: P055_1) - 358 EN chars / 221 KO chars
+  EN: “‘We were robbed so badly by that man standing there, just as all of us common dogs are by those superior Beings, taxed by him without mercy, forced to work for him without pay, forced to grind our grain at his mill, forced to feed dozens of his tame birds on our poor crops, while we were forbidden under pain of death to keep a single tame bird of our own.
+  KO: “‘우리 평범한 개들 모두가 저 우월한 존재들에게 당하는 것처럼, 우리는 저기 서 있는 자에게 지독하게 약탈당했습니다. 무자비하게 세금을 뜯기고, 돈도 받지 못하고 억지로 일해야 했으며, 저 자의 방앗간에서 곡식을 빻아야 했고, 우리의 초라한 농작물로 저 자의 수십 마리 길들인 새들을 먹여야 했습니다. 그러면서 정작 우리는 죽음의 고통을 무릅쓰지 않고는 단 한 마리의 새도 기를 수 없었습니다.
+
+[16] ch_21.json ID 33 (Tag: P013_1) - 352 EN chars / 189 KO chars
+  EN: Defarge refreshed himself with a draft of wine—though he drank less than what had been given to the stranger, being himself a man to whom it was no rarity—and stood waiting until the countryman had finished his breakfast. He looked at no one present, and no one looked at him now; not even Madame Defarge, who had taken up her knitting and was at work.
+  KO: 드파르주는 와인 한 모금으로 목을 축였으나—와인이 귀하지 않은 처지였기에 이방인에게 준 것보다는 적게 마셨다—시골 사람이 아침 식사를 마칠 때까지 가만히 서서 기다렸다. 그는 그 자리에 있는 누구도 바라보지 않았고, 지금은 아무도 그를 쳐다보지 않았다. 심지어 뜨개질감을 집어 들고 손을 놀리고 있던 드파르주 부인조차도 그를 보지 않았다.
+

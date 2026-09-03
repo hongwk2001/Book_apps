@@ -338,13 +338,21 @@
   {
     "id": 43,
     "tag": "P022_3",
-    "en": "If you can stand having such a worthless guy with a questionable reputation dropping by at random times, I'd like to ask for permission to come and go freely as a privileged guest here. I'd like to be treated like a useless piece of furniture (and I'd say an ugly one, if it weren't for the resemblance I noticed between you and me) that you just keep around out of habit and otherwise completely ignore.",
-    "ko": "만약 당신이 무작위로 들르는 의심스러운 평판을 가진 그런 쓸모없는 녀석을 견딜 수 있다면, 저는 이곳에서 특권 있는 손님으로서 자유롭게 드나들 수 있는 허락을 요청하고 싶습니다. 저는 당신이 그저 습관적으로 곁에 두고 그 외에는 완전히 무시하는 쓸모없는 가구처럼 (그리고 제가 당신과 나 사이에서 알아차린 유사성이 없었다면 못생긴 가구라고 말했을 것입니다) 취급받고 싶습니다.",
+    "en": "If you can stand having such a worthless guy with a questionable reputation dropping by at random times, I'd like to ask for permission to come and go freely as a privileged guest here.",
+    "ko": "만약 당신이 무작위로 들르는 의심스러운 평판을 가진 그런 쓸모없는 녀석을 견딜 수 있다면, 저는 이곳에서 특권 있는 손님으로서 자유롭게 드나들 수 있는 허락을 요청하고 싶습니다.",
     "is_header": false,
     "raw_ref_id": 47
   },
   {
     "id": 44,
+    "tag": "P022_4",
+    "en": "I'd like to be treated like a useless piece of furniture (and I'd say an ugly one, if it weren't for the resemblance I noticed between you and me) that you just keep around out of habit and otherwise completely ignore.",
+    "ko": "저는 당신이 그저 습관적으로 곁에 두고 그 외에는 완전히 무시하는 쓸모없는 가구처럼 (그리고 제가 당신과 나 사이에서 알아차린 유사성이 없었다면 못생긴 가구라고 말했을 것입니다) 취급받고 싶습니다.",
+    "is_header": false,
+    "raw_ref_id": 47
+  },
+  {
+    "id": 45,
     "tag": "P022_4",
     "en": "I would be like a useless piece of furniture, tolerated for past services and ignored.",
     "ko": "저는 과거의 봉사 때문에 용인되고 무시되는, 쓸모없는 가구 같을 것입니다.",
@@ -352,7 +360,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 45,
+    "id": 46,
     "tag": "P022_5",
     "en": "I doubt I would abuse the privilege; I probably wouldn't visit more than four times a year.",
     "ko": "제가 그 특권을 남용할지는 의문입니다. 아마 일 년에 네 번 이상 방문하지는 않을 것입니다.",
@@ -360,7 +368,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 46,
+    "id": 47,
     "tag": "P022_6",
     "en": "It would simply comfort me to know I had the permission.\"",
     "ko": "단지 제게 허락이 있다는 것을 아는 것만으로도 위로가 될 것입니다.\"",
@@ -368,7 +376,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 47,
+    "id": 48,
     "tag": "P023",
     "en": "\"Will you try?\"",
     "ko": "\"노력해 보시겠습니까?\"",
@@ -376,7 +384,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 48,
+    "id": 49,
     "tag": "P024_1",
     "en": "\"That means I am accepted on those terms.",
     "ko": "\"그것은 제가 그런 조건으로 받아들여졌다는 뜻이군요.",
@@ -384,7 +392,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 49,
+    "id": 50,
     "tag": "P024_2",
     "en": "Thank you, Darnay.",
     "ko": "감사합니다, 다네이.",
@@ -392,7 +400,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 50,
+    "id": 51,
     "tag": "P024_3",
     "en": "May I use your first name?\"",
     "ko": "이름을 불러도 되겠습니까?\"",
@@ -400,7 +408,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 51,
+    "id": 52,
     "tag": "P025",
     "en": "\"I think so, Carton, by this time.\"",
     "ko": "\"그럴 때도 된 것 같군요, 카턴.\"",
@@ -408,7 +416,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 52,
+    "id": 53,
     "tag": "P026_1",
     "en": "They shook hands, and Sydney turned away.",
     "ko": "그들은 악수를 나누었고, 시드니는 돌아섰다.",
@@ -416,7 +424,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 53,
+    "id": 54,
     "tag": "P026_2",
     "en": "Within a minute, he returned to his usual careless manner.",
     "ko": "일 분 안에 그는 평소의 부주의한 태도로 돌아갔다.",
@@ -424,7 +432,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 54,
+    "id": 55,
     "tag": "P027_1",
     "en": "When he was gone, and during an evening spent with Miss Pross, the Doctor, and Mr. Lorry, Charles Darnay mentioned this conversation in general terms and spoke of Sydney Carton as a problem of carelessness and recklessness.",
     "ko": "그가 떠난 후, 프로스 양, 의사 선생님, 그리고 로리 씨와 함께 저녁 시간을 보내면서 찰스 다네이는 이 대화를 대략적으로 언급하며 시드니 카턴을 부주의하고 무모한 인물이라고 이야기했다.",
@@ -432,7 +440,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 55,
+    "id": 56,
     "tag": "P027_3",
     "en": "He did not speak bitterly, but simply as anyone would who saw Carton as he presented himself.",
     "ko": "그는 씁쓸하게 말하지 않고, 단지 카턴이 자신을 나타내는 모습을 본 사람이라면 누구나 그럴 것처럼 단순하게 말했다.",
@@ -440,7 +448,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 56,
+    "id": 57,
     "tag": "P028",
     "en": "He had no idea that his young wife was thinking deeply about this. But when he joined her in their room later, he found her waiting for him with a serious look on her face.",
     "ko": "그는 그의 젊은 아내가 이것에 대해 깊이 생각하고 있다는 것을 전혀 알지 못했다. 그러나 나중에 그가 그들의 방에서 그녀와 합류했을 때, 그는 그녀가 심각한 표정으로 그를 기다리고 있는 것을 발견했다.",
@@ -448,7 +456,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 57,
+    "id": 58,
     "tag": "P029",
     "en": "\"You look thoughtful tonight!\" Darnay said, putting his arm around her.",
     "ko": "\"오늘 밤 생각에 잠긴 것 같군요!\" 다네이가 그녀에게 팔을 두르며 말했다.",
@@ -456,7 +464,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 58,
+    "id": 59,
     "tag": "P030",
     "en": "\"Yes, dearest Charles,\" she said, placing her hands on his chest and looking at him closely. \"I am rather thoughtful tonight, because I have something on my mind.\"",
     "ko": "\"네, 가장 사랑하는 찰스.\" 그녀가 그의 가슴에 손을 얹고 그를 유심히 바라보며 말했다. \"마음에 걸리는 것이 있어서 오늘 밤은 꽤 생각에 잠겨 있습니다.\"",
@@ -464,7 +472,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 59,
+    "id": 60,
     "tag": "P031",
     "en": "\"What is it, my Lucie?\"",
     "ko": "\"무엇인가요, 나의 루시?\"",
@@ -472,7 +480,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 60,
+    "id": 61,
     "tag": "P032",
     "en": "\"Will you promise not to ask me why, if I beg you not to ask?\"",
     "ko": "\"만약 제가 묻지 말아 달라고 간청한다면, 이유를 묻지 않겠다고 약속해 주시겠어요?\"",
@@ -480,7 +488,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 61,
+    "id": 62,
     "tag": "P033_1",
     "en": "\"Will I promise?",
     "ko": "\"약속하겠냐고요?",
@@ -488,7 +496,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 62,
+    "id": 63,
     "tag": "P033_2",
     "en": "What wouldn't I promise to my love?\"",
     "ko": "나의 사랑에게 내가 약속하지 못할 것이 무엇이 있겠습니까?\"",
@@ -496,7 +504,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 63,
+    "id": 64,
     "tag": "P034",
     "en": "He pushed her golden hair back from her cheek, holding her close.",
     "ko": "그는 그녀를 가까이 안으며 그녀의 뺨에서 금발 머리를 뒤로 넘겨주었다.",
@@ -504,7 +512,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 64,
+    "id": 65,
     "tag": "P035_1",
     "en": "\"I think, Charles, that poor Mr. Carton deserves more consideration and respect than you showed for him tonight.\"",
     "ko": "\"찰스, 제 생각에는 불쌍한 카턴 씨가 오늘 밤 당신이 보여준 것보다 더 많은 배려와 존중을 받을 자격이 있는 것 같아요.\"",
@@ -512,7 +520,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 65,
+    "id": 66,
     "tag": "P036_1",
     "en": "\"Really, my love?",
     "ko": "\"정말인가요, 내 사랑?",
@@ -520,7 +528,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 66,
+    "id": 67,
     "tag": "P036_2",
     "en": "Why so?\"",
     "ko": "왜 그렇죠?\"",
@@ -528,7 +536,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 67,
+    "id": 68,
     "tag": "P037_1",
     "en": "\"That is what you must not ask me.",
     "ko": "\"그것이 바로 당신이 제게 묻지 말아야 할 것입니다.",
@@ -536,7 +544,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 68,
+    "id": 69,
     "tag": "P037_2",
     "en": "But I think, I know, he does.\"",
     "ko": "하지만 제 생각에, 전 알아요, 그는 그럴 자격이 있어요.\"",
@@ -544,7 +552,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 69,
+    "id": 70,
     "tag": "P038_1",
     "en": "\"If you know it, that is enough.",
     "ko": "\"당신이 그것을 안다면, 그것으로 충분합니다.",
@@ -552,7 +560,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 70,
+    "id": 71,
     "tag": "P038_2",
     "en": "What do you want me to do, my life?\"",
     "ko": "내가 어떻게 하기를 원하시나요, 나의 생명?\"",
@@ -560,7 +568,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 71,
+    "id": 72,
     "tag": "P039_1",
     "en": "\"I ask you, dearest, to always be very generous with him, and very lenient about his faults when he is not here.",
     "ko": "\"사랑하는 이여, 그가 여기에 없을 때 항상 그에게 매우 관대하고 그의 허물에 대해 매우 너그럽게 대해 주시기를 부탁드려요.",
@@ -568,7 +576,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 72,
+    "id": 73,
     "tag": "P039_2",
     "en": "I want you to believe that he has a heart he rarely reveals, and that there are deep wounds in it.",
     "ko": "저는 당신이 그가 좀처럼 드러내지 않는 마음을 가지고 있고, 그 안에 깊은 상처가 있다는 것을 믿어주시기를 원합니다.",
@@ -576,7 +584,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 73,
+    "id": 74,
     "tag": "P039_3",
     "en": "Dearest, I have seen his heart bleeding.\"",
     "ko": "가장 사랑하는 이여, 저는 그의 마음이 피 흘리는 것을 보았어요.\"",
@@ -584,7 +592,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 74,
+    "id": 75,
     "tag": "P040_1",
     "en": "Charles Darnay said in surprise, \"It makes me sad to think I have wronged him.",
     "ko": "찰스 다네이가 놀라서 말했다. \"내가 그를 부당하게 대했다고 생각하니 슬퍼집니다.",
@@ -592,7 +600,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 75,
+    "id": 76,
     "tag": "P040_2",
     "en": "I never thought this of him.\"",
     "ko": "나는 그에 대해 이런 생각을 해본 적이 없습니다.\"",
@@ -600,7 +608,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 76,
+    "id": 77,
     "tag": "P041_1",
     "en": "\"My husband, it is true.",
     "ko": "\"남편, 그것은 사실이에요.",
@@ -608,7 +616,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 77,
+    "id": 78,
     "tag": "P041_2",
     "en": "I fear he cannot be reformed; there is little hope for his character or future.",
     "ko": "저는 그가 교화될 수 없을까 봐 두려워요. 그의 성격이나 미래에 대한 희망은 거의 없어요.",
@@ -616,7 +624,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 78,
+    "id": 79,
     "tag": "P041_3",
     "en": "But I am sure he is capable of good, gentle, and noble things.\"",
     "ko": "하지만 저는 그가 선하고 온화하며 고귀한 일들을 할 능력이 있다고 확신해요.\"",
@@ -624,7 +632,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 79,
+    "id": 80,
     "tag": "P042",
     "en": "She looked so beautiful in her faith in this lost man that her husband could have stared at her for hours.",
     "ko": "이 길 잃은 사람에 대한 그녀의 믿음 속에서 그녀는 너무나 아름다워 보여서, 그녀의 남편은 몇 시간 동안이라도 그녀를 응시할 수 있었을 것이다.",
@@ -632,7 +640,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 80,
+    "id": 81,
     "tag": "P043",
     "en": "\"And, oh my dearest love!\" she urged, clinging closer to him and looking into his eyes. \"Remember how happy and strong we are, and how weak he is in his misery!\"",
     "ko": "\"그리고, 오 나의 가장 사랑하는 사랑!\" 그녀가 그에게 더 가까이 매달려 그의 눈을 들여다보며 간청했다. \"우리가 얼마나 행복하고 강한지, 그리고 그가 그의 비참함 속에서 얼마나 약한지 기억해주세요!\"",
@@ -640,7 +648,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 81,
+    "id": 82,
     "tag": "P044_1",
     "en": "Her plea touched his heart. \"I will always remember it, my love!",
     "ko": "그녀의 간청이 그의 마음을 움직였다. \"항상 기억하겠습니다, 내 사랑!",
@@ -648,7 +656,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 82,
+    "id": 83,
     "tag": "P044_2",
     "en": "I will remember it as long as I live.\"",
     "ko": "제가 살아있는 한 그것을 기억할 것입니다.\"",
@@ -656,15 +664,23 @@
     "raw_ref_id": 88
   },
   {
-    "id": 83,
+    "id": 84,
     "tag": "P045_1",
-    "en": "He bent over her golden head, pressed his lips to hers, and folded her in his arms. If the lonely wanderer then pacing the dark streets could have heard her innocent confession, and could have seen the tears of pity kissed away by her husband from the soft blue eyes that so loved him, he might have cried out to the night—and those words would not have parted from his lips for the first time—",
-    "ko": "그는 금빛 머리 위로 몸을 굽혀 장밋빛 입술에 입을 맞추고 그녀를 품에 안았다. 만약 그때 어두운 거리를 거닐던 외로운 방랑자가 그녀의 순수한 고백을 듣고, 남편을 그토록 사랑하는 부드러운 푸른 눈에서 남편의 입맞춤으로 닦여 나가는 연민의 눈방울을 볼 수 있었다면, 그는 밤을 향해 외쳤을지도 모른다—그리고 그 말이 그의 입술을 떠난 것이 처음은 아니었을 것이다—",
+    "en": "He bent over her golden head, pressed his lips to hers, and folded her in his arms.",
+    "ko": "그는 금빛 머리 위로 몸을 굽혀 입을 맞추고 그녀를 품에 안았다.",
     "is_header": false,
     "raw_ref_id": 89
   },
   {
-    "id": 84,
+    "id": 85,
+    "tag": "P045_2",
+    "en": "If the lonely wanderer then pacing the dark streets could have heard her innocent confession, and could have seen the tears of pity kissed away by her husband from the soft blue eyes that so loved him, he might have cried out to the night—and those words would not have parted from his lips for the first time.",
+    "ko": "만약 그때 어두운 거리를 거닐던 외로운 방랑자가 그녀의 순수한 고백을 듣고, 남편을 그토록 사랑하는 부드러운 푸른 눈에서 남편의 입맞춤으로 닦여 나가는 연민의 눈물을 볼 수 있었다면, 그는 밤을 향해 외쳤을지도 모른다—그리고 그 말이 그의 입술을 떠난 것이 처음은 아니었을 것이다.",
+    "is_header": false,
+    "raw_ref_id": 89
+  },
+  {
+    "id": 86,
     "tag": "P046",
     "en": "\"God bless her for her sweet compassion!\"",
     "ko": "\"그녀의 달콤한 연민을 위해 하나님께서 그녀를 축복하시기를!\"",

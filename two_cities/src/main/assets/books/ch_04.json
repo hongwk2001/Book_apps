@@ -153,14 +153,30 @@
   },
   {
     "id": 20,
-    "tag": "P008_2",
-    "en": "Consequently, another waiter, two porters, several maids, and the landlady were all lingering casually at various points along the corridor between the Concord room and the coffee room, when a gentleman of sixty, formally dressed in a brown suit that was quite worn but very well-maintained—with large square cuffs and large pocket flaps—walked past on his way to breakfast. That morning, the coffee room had no other guest besides the gentleman in brown.",
-    "ko": "그리하여 또 다른 웨이터 한 명과 두 명의 짐꾼, 몇몇 하녀들과 여주인은 모두 우연을 가장해 '콩코드' 방과 다실 사이의 복도 곳곳에 서성거리고 있었는데, 그때 넓은 사각 소맷단과 커다란 주머니 덮개가 달린 꽤 낡았지만 아주 잘 관리된 갈색 정장을 단정하게 차려입은 예순 살가량의 신사가 아침 식사를 하러 지나갔다. 그날 오전 다실에는 갈색 옷을 입은 그 신사 외에는 아무도 없었다.",
+    "tag": "P008_1",
+    "en": "Consequently, another waiter, two porters, several maids, and the landlady were all lingering casually at various points along the corridor between the Concord room and the coffee room.",
+    "ko": "그리하여 또 다른 웨이터 한 명과 두 명의 짐꾼, 몇몇 하녀들과 여주인은 모두 '콩코드' 방과 다실 사이의 복도 곳곳에서 서성거리고 있었다.",
     "is_header": false,
     "raw_ref_id": 21
   },
   {
     "id": 21,
+    "tag": "P008_2",
+    "en": "Just then, a gentleman of sixty, formally dressed in a brown suit that was quite worn but very well-maintained—with large square cuffs and large pocket flaps—walked past on his way to breakfast.",
+    "ko": "그때 넓은 사각 소맷단과 커다란 주머니 덮개가 달린, 꽤 낡았지만 아주 잘 관리된 갈색 정장을 단정하게 차려입은 예순 살가량의 신사가 아침 식사를 하러 지나갔다.",
+    "is_header": false,
+    "raw_ref_id": 21
+  },
+  {
+    "id": 22,
+    "tag": "P008_2",
+    "en": "That morning, the coffee room had no other guest besides the gentleman in brown.",
+    "ko": "그날 오전 다실에는 갈색 옷을 입은 그 신사 외에는 아무도 없었다.",
+    "is_header": false,
+    "raw_ref_id": 21
+  },
+  {
+    "id": 23,
     "tag": "P009_2",
     "en": "His breakfast table was set in front of the fireplace. As he sat there with the firelight shining on him, waiting for his food, he sat so still that he could have been posing for a portrait.",
     "ko": "그의 아침 식사 테이블은 벽난로 앞에 차려져 있었다. 그는 난롯불이 자신을 비추는 가운데 앉아 음식을 기다리며 너무나 가만히 있어서 마치 초상화를 위해 포즈를 취하고 있는 것 같았다.",
@@ -168,7 +184,7 @@
     "raw_ref_id": 23
   },
   {
-    "id": 22,
+    "id": 24,
     "tag": "P010_1",
     "en": "He looked very neat and systematic. He sat with a hand on each knee. Under his vest, a loud watch ticked solemnly, as if competing with the crackling fire.",
     "ko": "그는 매우 단정하고 체계적으로 보였다. 그는 양손을 각각 무릎 위에 얹고 앉아 있었다. 그의 조끼 안에서는 요란한 회중시계가 마치 타오르는 불꽃과 경쟁하듯 장엄하게 째깍거렸다.",
@@ -176,7 +192,7 @@
     "raw_ref_id": 24
   },
   {
-    "id": 23,
+    "id": 25,
     "tag": "P010_2",
     "en": "He had good-looking legs and was quietly proud of them. His brown stockings fit smoothly and were made of fine material.",
     "ko": "그는 잘생긴 다리를 가졌고 조용히 그것을 자랑스러워했다. 그의 갈색 스타킹은 매끄럽게 맞았고 고급 소재로 만들어졌다.",
@@ -184,7 +200,7 @@
     "raw_ref_id": 25
   },
   {
-    "id": 24,
+    "id": 26,
     "tag": "P010_3",
     "en": "His shoes and buckles were simple but neat. He wore an odd, small, tight, light-colored wig that sat very close to his head.",
     "ko": "그의 신발과 버클은 소박하지만 단정했다. 그는 머리에 아주 밀착된 특이하고 작고 꽉 끼는 밝은 색의 가발을 쓰고 있었다.",
@@ -192,7 +208,7 @@
     "raw_ref_id": 26
   },
   {
-    "id": 25,
+    "id": 27,
     "tag": "P010_4",
     "en": "His shirt, though not as fine as his stockings, was as white as the tips of the waves crashing on the nearby beach, or the distant specks of sails shining in the sunlight.",
     "ko": "그의 셔츠는 비록 스타킹만큼 곱지는 않았지만 인근 해변에 부서지는 파도의 끝자락이나 햇빛에 빛나는 멀리 있는 돛의 작은 점들처럼 하얬다.",
@@ -200,7 +216,7 @@
     "raw_ref_id": 27
   },
   {
-    "id": 26,
+    "id": 28,
     "tag": "P010_5",
     "en": "His shirt was as white as the foam on the breaking waves outside. His face was lit up under that old-fashioned wig by a pair of bright, lively eyes.",
     "ko": "그의 셔츠는 밖에서 부서지는 파도의 거품처럼 하얬다. 그의 얼굴은 구식 가발 아래에서 밝고 생기 넘치는 두 눈에 의해 환하게 빛났다.",
@@ -208,7 +224,7 @@
     "raw_ref_id": 28
   },
   {
-    "id": 27,
+    "id": 29,
     "tag": "P010_6",
     "en": "It must have taken him years of discipline to train his face into the cold, serious expression required at Tellson's Bank.",
     "ko": "텔슨 은행에서 요구하는 차갑고 진지한 표정으로 그의 얼굴을 길들이기 위해서는 수년간의 수련이 필요했을 것이다.",
@@ -216,7 +232,7 @@
     "raw_ref_id": 29
   },
   {
-    "id": 28,
+    "id": 30,
     "tag": "P010_7",
     "en": "Still, he had a healthy color in his cheeks, and his face, though wrinkled, showed very few signs of worry.",
     "ko": "그럼에도 불구하고 그의 뺨은 건강한 혈색을 띠고 있었고, 얼굴은 주름져 있었지만 걱정의 흔적은 거의 보이지 않았다.",
@@ -224,7 +240,7 @@
     "raw_ref_id": 30
   },
   {
-    "id": 29,
+    "id": 31,
     "tag": "P011_1",
     "en": "Completing his resemblance to a man sitting for a portrait, Mr. Lorry drifted off to sleep.",
     "ko": "초상화를 그리기 위해 앉아 있는 사람 같은 모습을 완성하듯, 로리 씨는 스르르 잠에 빠져들었다.",
@@ -232,7 +248,7 @@
     "raw_ref_id": 31
   },
   {
-    "id": 30,
+    "id": 32,
     "tag": "P011_3",
     "en": "The arrival of his breakfast woke him up, and he told the waiter as he pulled up his chair:",
     "ko": "아침 식사가 도착하자 그는 잠에서 깼고 의자를 끌어당기며 웨이터에게 말했다.",
@@ -240,7 +256,7 @@
     "raw_ref_id": 33
   },
   {
-    "id": 31,
+    "id": 33,
     "tag": "P012_1",
     "en": "\"I want a room prepared for a young lady who might arrive at any time today.",
     "ko": "\"오늘 중 언제라도 도착할 수 있는 젊은 숙녀분을 위해 방을 하나 준비해 주게.",
@@ -248,7 +264,7 @@
     "raw_ref_id": 34
   },
   {
-    "id": 32,
+    "id": 34,
     "tag": "P012_2",
     "en": "“She may ask for Mr. Jarvis Lorry, or she may only ask for a gentleman from Tellson’s Bank.”",
     "ko": "“그 아가씨는 자비스 로리 씨를 찾을 수도 있고, 아니면 텔슨 은행에서 온 신사를 찾을 수도 있소.”",
@@ -256,7 +272,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 33,
+    "id": 35,
     "tag": "P012_4",
     "en": "Please let me know when she arrives.\"",
     "ko": "그녀가 도착하면 알려주게.\"",
@@ -264,7 +280,7 @@
     "raw_ref_id": 37
   },
   {
-    "id": 34,
+    "id": 36,
     "tag": "P013_1",
     "en": "\"Yes, sir.",
     "ko": "\"예, 손님.",
@@ -272,7 +288,7 @@
     "raw_ref_id": 38
   },
   {
-    "id": 35,
+    "id": 37,
     "tag": "P013_2",
     "en": "Tellson's Bank in London, sir?\"",
     "ko": "런던의 텔슨 은행 말씀이십니까, 손님?\"",
@@ -280,7 +296,7 @@
     "raw_ref_id": 39
   },
   {
-    "id": 36,
+    "id": 38,
     "tag": "P014",
     "en": "\"Yes.\"",
     "ko": "\"그렇네.\"",
@@ -288,7 +304,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 37,
+    "id": 39,
     "tag": "P015_1",
     "en": "\"Yes, sir.",
     "ko": "\"예, 손님.",
@@ -296,7 +312,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 38,
+    "id": 40,
     "tag": "P015_2",
     "en": "We often have the honor of hosting your gentlemen as they travel back and forth between London and Paris, sir.",
     "ko": "저희는 런던과 파리 사이를 오가는 귀하의 신사분들을 자주 모시는 영광을 누리고 있습니다, 손님.",
@@ -304,7 +320,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 39,
+    "id": 41,
     "tag": "P015_3",
     "en": "There's a huge amount of travel done by the staff of Tellson and Company.\"",
     "ko": "텔슨 은행 직원분들이 여행을 아주 많이 하십니다.\"",
@@ -312,7 +328,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 40,
+    "id": 42,
     "tag": "P016_1",
     "en": "\"Yes.",
     "ko": "\"그렇네.",
@@ -320,7 +336,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 41,
+    "id": 43,
     "tag": "P016_2",
     "en": "We are very much a French firm, as well as an English one.\"",
     "ko": "우리는 영국 회사이기도 하지만 다분히 프랑스 회사이기도 하니까.\"",
@@ -328,7 +344,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 42,
+    "id": 44,
     "tag": "P017_1",
     "en": "\"Yes, sir.",
     "ko": "\"예, 손님.",
@@ -336,7 +352,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 43,
+    "id": 45,
     "tag": "P017_2",
     "en": "You don't travel back and forth like that much yourself, I take it, sir?\"",
     "ko": "손님 본인은 그렇게 자주 오가며 여행하지는 않으시는 것 같군요?\"",
@@ -344,7 +360,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 44,
+    "id": 46,
     "tag": "P018_1",
     "en": "\"Not in recent years.",
     "ko": "\"최근 몇 년 동안은 아니었지.",
@@ -352,7 +368,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 45,
+    "id": 47,
     "tag": "P018_2",
     "en": "It has been fifteen years since we, since I, last returned from France.\"",
     "ko": "우리가, 아니 내가 마지막으로 프랑스에서 돌아온 지 15년이 되었네.\"",
@@ -360,7 +376,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 46,
+    "id": 48,
     "tag": "P019_1",
     "en": "\"Really, sir?",
     "ko": "\"정말입니까, 손님?",
@@ -368,7 +384,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 47,
+    "id": 49,
     "tag": "P019_2",
     "en": "That was before my time here, sir.",
     "ko": "제가 이곳에 오기 전의 일이었군요, 손님.",
@@ -376,7 +392,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 48,
+    "id": 50,
     "tag": "P019_3",
     "en": "Before any of our staff worked here.",
     "ko": "저희 직원 중 아무도 여기서 일하기 전입니다.",
@@ -384,7 +400,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 49,
+    "id": 51,
     "tag": "P019_4",
     "en": "The George Hotel was under different management back then, sir.\"",
     "ko": "조지 호텔은 그 당시에는 다른 경영진이 운영하고 있었습니다, 손님.\"",
@@ -392,7 +408,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 50,
+    "id": 52,
     "tag": "P020",
     "en": "\"I believe so.\"",
     "ko": "\"그럴 테지.\"",
@@ -400,7 +416,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 51,
+    "id": 53,
     "tag": "P021",
     "en": "\"But I would bet a good amount, sir, that a company like Tellson and Company was doing very well fifty years ago, let alone fifteen?\"",
     "ko": "\"하지만 장담컨대 손님, 텔슨 은행 같은 회사는 15년은 고사하고 50년 전에도 아주 잘 나가고 있었을 겁니다.\"",
@@ -408,7 +424,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 52,
+    "id": 54,
     "tag": "P022",
     "en": "\"You could triple that and say a hundred and fifty, and still be close to the truth.\"",
     "ko": "\"그 세 배를 곱해서 150년이라고 해도 진실에 가까울 걸세.\"",
@@ -416,7 +432,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 53,
+    "id": 55,
     "tag": "P023",
     "en": "\"Is that so, sir!\"",
     "ko": "\"그렇습니까, 손님!\"",
@@ -424,7 +440,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 54,
+    "id": 56,
     "tag": "P024_1",
     "en": "The waiter stepped back from the table in wide-eyed surprise. He moved his napkin from his right arm to his left, stood in a relaxed posture, and watched the guest eat and drink.",
     "ko": "웨이터는 눈을 동그랗게 뜨고 놀라며 테이블에서 물러났다. 그는 냅킨을 오른팔에서 왼팔로 옮기고 편안한 자세로 서서 손님이 먹고 마시는 것을 지켜보았다.",
@@ -432,7 +448,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 55,
+    "id": 57,
     "tag": "P024_2",
     "en": "It was the ancient custom of waiters everywhere.",
     "ko": "그것은 어디에서나 웨이터들의 오래된 관습이었다.",
@@ -440,7 +456,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 56,
+    "id": 58,
     "tag": "P025_1",
     "en": "When Mr. Lorry had finished his breakfast, he went out for a stroll on the beach.",
     "ko": "아침 식사를 마친 로리 씨는 바닷가로 산책을 나갔다.",
@@ -448,7 +464,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 57,
+    "id": 59,
     "tag": "P025_3",
     "en": "The tiny, narrow, crooked town of Dover seemed to hide from the shore, burying its head into the white chalk cliffs like a sea ostrich.",
     "ko": "작고 좁고 구불구불한 마을 도버는 바다 타조처럼 하얀 석회암 절벽에 머리를 파묻고 해안가에서 숨으려는 듯 보였다.",
@@ -456,7 +472,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 58,
+    "id": 60,
     "tag": "P025_4",
     "en": "The beach was a barren waste of stones and rocks. The sea did whatever it wanted, which was mostly destruction.",
     "ko": "해변은 돌과 바위가 널려 있는 황량한 불모지였다. 바다는 제멋대로 굴었고 대부분은 파괴적이었다.",
@@ -464,7 +480,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 59,
+    "id": 61,
     "tag": "P025_5",
     "en": "It crashed against the town and thundered against the cliffs.",
     "ko": "그것은 마을에 부딪히고 절벽에 부딪혀 굉음을 냈다.",
@@ -472,7 +488,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 60,
+    "id": 62,
     "tag": "P025_6",
     "en": "The air in the streets smelled so strongly of fish that you might have thought the sick fish came up to town to breathe it, the same way sick humans went down to bathe in the sea.",
     "ko": "거리의 공기에서는 생선 냄새가 너무 강하게 나서 아픈 사람들이 바다에서 목욕을 하러 내려가듯 아픈 물고기가 그 공기를 마시러 마을로 올라왔다고 생각할 정도였다.",
@@ -480,7 +496,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 61,
+    "id": 63,
     "tag": "P025_7",
     "en": "There was a little fishing in the harbor, and a lot of walking around at night.",
     "ko": "항구에서는 낚시가 조금 이루어졌고 밤에는 돌아다니는 사람들이 많았다.",
@@ -488,7 +504,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 62,
+    "id": 64,
     "tag": "P025_8",
     "en": "Small shopkeepers who never seemed to do any actual business somehow made huge fortunes.",
     "ko": "실제로는 아무런 사업도 하지 않는 것처럼 보이는 작은 가게 주인들은 어쩐지 엄청난 부를 축적했다.",
@@ -496,7 +512,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 63,
+    "id": 65,
     "tag": "P026_1",
     "en": "As the day wore on into the afternoon, and the air—which had been clear enough at intervals to allow the French coast to be seen—became filled again with mist and vapor, Mr. Lorry’s thoughts seemed to cloud over as well.",
     "ko": "해가 기울어 오후가 되고, 이따금 프랑스 해안이 보일 만큼 맑았던 공기가 다시 짙은 안개와 수증기로 가득 차오르자, 로리 씨의 생각도 덩달아 흐려지는 듯했다.",
@@ -504,7 +520,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 64,
+    "id": 66,
     "tag": "P026_3",
     "en": "When it got dark and he sat in front of the fireplace waiting for dinner, just as he had waited for breakfast, his mind was busy digging, digging, digging in the glowing red coals.",
     "ko": "날이 어두워지고 그가 아침 식사를 기다렸던 것처럼 벽난로 앞에 앉아 저녁 식사를 기다릴 때 그의 마음은 붉게 타오르는 석탄 속을 파고들고 또 파고드느라 바빴다.",
@@ -512,7 +528,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 65,
+    "id": 67,
     "tag": "P027_1",
     "en": "A bottle of good red wine after dinner doesn't harm someone who stares into the glowing fireplace, except that it tends to make them lose focus on their thoughts.",
     "ko": "저녁 식사 후에 마시는 좋은 레드 와인 한 병은 타오르는 벽난로를 응시하는 사람에게 해를 끼치지 않는다. 다만 생각이 초점을 잃게 만드는 경향이 있을 뿐이다.",
@@ -520,7 +536,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 66,
+    "id": 68,
     "tag": "P027_2",
     "en": "Mr. Lorry had been relaxing for a long time, and had just poured out his last glass of wine with the utmost satisfaction typical of a healthy-looking older gentleman finishing a bottle, when the rattling of wheels echoed up the narrow street and rumbled into the inn yard.",
     "ko": "오랫동안 한가로이 시간을 보내던 로리 씨가 와인 한 병을 다 비워가는 혈색 좋은 노신사에게서나 볼 수 있는 더없이 만족스러운 표정으로 마지막 와인 한 잔을 따랐을 때, 좁은 골목길에서 덜컹거리는 바퀴 소리가 들려오더니 여관 안마당으로 요란하게 굴러 들어왔다.",
@@ -528,7 +544,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 67,
+    "id": 69,
     "tag": "P028",
     "en": "He set his glass down without drinking. \"This is the young lady!\" he said.",
     "ko": "그는 마시지 않고 잔을 내려놓았다. \"젊은 아가씨로군!\" 그가 말했다.",
@@ -536,7 +552,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 68,
+    "id": 70,
     "tag": "P029",
     "en": "A few minutes later, the waiter came in to announce that Miss Manette had arrived from London and would be happy to see the gentleman from Tellson’s.",
     "ko": "몇 분 후 웨이터가 들어와 마네트 양이 런던에서 도착했으며 텔슨 은행에서 온 신사분을 기꺼이 뵙고 싶어 한다고 알렸다.",
@@ -544,7 +560,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 69,
+    "id": 71,
     "tag": "P030",
     "en": "\"So soon?\"",
     "ko": "\"이렇게 빨리?\"",
@@ -552,7 +568,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 70,
+    "id": 72,
     "tag": "P031",
     "en": "Miss Manette had eaten on the road and didn't need anything now, and she was very eager to see the gentleman from Tellson’s right away, if it was convenient for him.",
     "ko": "마네트 양은 길에서 식사를 했고 지금은 아무것도 필요하지 않았으며 손님에게 편리하다면 텔슨 은행의 신사를 당장 만나고 싶어 무척 간절했다.",
@@ -560,7 +576,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 71,
+    "id": 73,
     "tag": "P032_1",
     "en": "The gentleman from Tellson's finished his glass with quiet desperation, adjusted his odd little wig over his ears, and followed the waiter to Miss Manette's room.",
     "ko": "텔슨 은행의 신사는 조용한 절망감 속에서 잔을 비우고 기이한 작은 가발을 귀 위로 고쳐 쓴 다음 웨이터를 따라 마네트 양의 방으로 갔다.",
@@ -568,7 +584,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 72,
+    "id": 74,
     "tag": "P032_2",
     "en": "It was a large, dark room. The furniture was black horsehair. The tables were heavy and dark.",
     "ko": "크고 어두운 방이었다. 가구는 검은색 말총으로 되어 있었다. 테이블은 무겁고 어두웠다.",
@@ -576,7 +592,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 73,
+    "id": 75,
     "tag": "P032_3",
     "en": "They had been polished so many times that the two tall candles in the middle of the room were reflected back darkly on every surface. The candles looked as if they were buried in deep graves of black wood, waiting to be dug out.",
     "ko": "너무 많이 닦아서 방 한가운데 있는 두 개의 커다란 양초가 모든 표면에 어둡게 비치고 있었다. 양초들은 파헤쳐지기를 기다리며 검은 나무로 된 깊은 무덤에 묻혀 있는 것처럼 보였다.",
@@ -584,7 +600,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 74,
+    "id": 76,
     "tag": "P033_1",
     "en": "The darkness was so thick that Mr. Lorry, picking his way carefully across the worn Turkish carpet, assumed Miss Manette was in an adjacent room for a moment—until, having walked past the two tall candles, he saw a young lady of no more than seventeen standing to receive him by the table between the candles and the fire, wearing a riding cloak and still holding her straw travel hat by its ribbon in her hand.",
     "ko": "어둠이 너무 짙어 낡은 터키산 카펫 위를 조심스레 걸어가던 로리 씨는 마네트 양이 이웃한 방에 있겠거니 생각했으나, 기다란 촛대 두 개를 지나치자 촛불과 벽난로 불길 사이의 탁자 옆에 열일곱 살을 넘지 않아 보이는 젊은 숙녀가 승마 망토를 입고 끈 달린 밀짚 여행 모자를 손에 쥔 채 그를 맞이하려고 서 있는 모습이 보였다.",
@@ -592,7 +608,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 75,
+    "id": 77,
     "tag": "P033_3",
     "en": "He looked at her: short, slender, and pretty. Golden hair. Blue eyes looking at him searchingly. A smooth young forehead that had a unique way of wrinkling into a frown, not quite confusion, not quite wonder, not quite alarm, not quite deep focus, but all four at once. The moment he saw it, he remembered a child he had once carried in his arms.",
     "ko": "그는 그녀를 쳐다보았다. 키가 작고 날씬하며 예뻤다. 금발 머리에 그를 유심히 바라보는 푸른 눈. 혼란스럽지도 않고 놀랍지도 않고 불안하지도 않고 깊은 집중도 아니지만 그 네 가지가 동시에 섞여 특유의 방식으로 찡그려지는 매끄럽고 젊은 이마. 그것을 본 순간 그는 언젠가 자신의 팔에 안았던 한 아이를 떠올렸다.",
@@ -600,7 +616,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 76,
+    "id": 78,
     "tag": "P033_4",
     "en": "It was years ago, crossing this very Channel, on a cold day when hail fell heavily and the sea was rough. The memory faded quickly. He made his formal bow to Miss Manette.",
     "ko": "수년 전 굵은 우박이 쏟아지고 바다가 거칠었던 어느 추운 날 이 해협을 건널 때였다. 그 기억은 금세 흐려졌다. 그는 마네트 양에게 정중히 인사를 건넸다.",
@@ -608,7 +624,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 77,
+    "id": 79,
     "tag": "P034",
     "en": "\"Please take a seat, sir,\" she said in a clear, pleasant young voice. It had a slight foreign accent, but only a very little.",
     "ko": "\"자리에 앉으세요, 선생님.\" 그녀가 맑고 상냥한 젊은 목소리로 말했다. 약간의 외국어 억양이 있었지만 아주 미미했다.",
@@ -616,7 +632,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 78,
+    "id": 80,
     "tag": "P035_1",
     "en": "“I kiss your hand, miss,” said Mr. Lorry with old-fashioned courtesy, bowing formally once more and taking his seat.",
     "ko": "“아가씨의 손에 경의를 표합니다,” 로리 씨는 옛 시절의 예법을 갖춰 다시 한번 정중하게 고개 숙여 인사한 뒤 자리에 앉았다.",
@@ -624,7 +640,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 79,
+    "id": 81,
     "tag": "P036",
     "en": "\"I received a letter from the bank yesterday, sir, informing me that some information, or discovery, \"",
     "ko": "\"어제 은행에서 편지를 한 통 받았습니다, 선생님. 어떤 정보나 발견에 관해서요, \"",
@@ -632,7 +648,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 80,
+    "id": 82,
     "tag": "P037",
     "en": "\"The exact word doesn't matter, miss; either one works.\"",
     "ko": "\"정확한 단어는 중요하지 않습니다, 아가씨. 둘 다 상관없습니다.\"",
@@ -640,7 +656,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 81,
+    "id": 83,
     "tag": "P038",
     "en": "\", regarding the small property of my poor father, whom I never saw because he died so long ago, \"",
     "ko": "\", 돌아가신 지 너무 오래되어 한 번도 뵌 적 없는 가엾은 아버지의 작은 재산에 관한 일이었어요, \"",
@@ -648,7 +664,7 @@
     "raw_ref_id": 90
   },
   {
-    "id": 82,
+    "id": 84,
     "tag": "P039_1",
     "en": "Mr. Lorry shifted in his chair and cast a troubled look toward the hospital procession of black cupids.",
     "ko": "로리 씨는 의자에서 몸을 뒤척이며, 흑인 큐피드들의 병원 행렬 그림 쪽으로 불안한 시선을 던졌다.",
@@ -656,7 +672,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 83,
+    "id": 85,
     "tag": "P039_3",
     "en": "As if they had any help to offer anyone in their ridiculous baskets!",
     "ko": "마치 그 우스꽝스러운 바구니 속에서 누군가에게 도움을 줄 수라도 있는 것처럼!",
@@ -664,7 +680,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 84,
+    "id": 86,
     "tag": "P040",
     "en": "\", makes it necessary for me to go to Paris, to speak with a representative of the bank who was kind enough to be sent there for this purpose.\"",
     "ko": "\", 이 때문에 저는 이 목적을 위해 기꺼이 그곳으로 파견되신 은행 대표님과 이야기를 나누기 위해 파리로 가야 합니다.\"",
@@ -672,7 +688,7 @@
     "raw_ref_id": 94
   },
   {
-    "id": 85,
+    "id": 87,
     "tag": "P041",
     "en": "\"That would be me.\"",
     "ko": "\"제가 바로 그 사람입니다.\"",
@@ -680,7 +696,7 @@
     "raw_ref_id": 95
   },
   {
-    "id": 86,
+    "id": 88,
     "tag": "P042",
     "en": "\"So I was told, sir.\"",
     "ko": "\"그렇게 들었습니다, 선생님.\"",
@@ -688,7 +704,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 87,
+    "id": 89,
     "tag": "P043_1",
     "en": "She curtsied to him, which is what young ladies did in those days, politely showing that she respected him as someone older and wiser.",
     "ko": "그녀는 그에게 절을 했는데, 이는 당시 젊은 여성들이 나이가 많고 지혜로운 사람으로서 그를 존경한다는 것을 정중하게 보여주기 위해 하던 행동이었습니다.",
@@ -696,7 +712,7 @@
     "raw_ref_id": 97
   },
   {
-    "id": 88,
+    "id": 90,
     "tag": "P043_2",
     "en": "He bowed back to her again.",
     "ko": "그도 다시 그녀에게 고개를 숙여 인사했습니다.",
@@ -704,7 +720,7 @@
     "raw_ref_id": 98
   },
   {
-    "id": 89,
+    "id": 91,
     "tag": "P044_1",
     "en": "\"I replied to the bank, sir, that since those who advise me think it necessary for me to go to France, and since I am an orphan and have no friends to go with me, I would be very grateful to travel under that gentleman's protection.",
     "ko": "\"선생님, 저는 은행에 답장을 보냈습니다. 저에게 조언을 해주시는 분들이 제가 프랑스에 가는 것이 필요하다고 생각하시고, 저는 고아이자 함께 갈 친구가 없기 때문에 그 신사분의 보호를 받으며 여행하게 된다면 무척 감사할 것이라고요.",
@@ -712,7 +728,7 @@
     "raw_ref_id": 99
   },
   {
-    "id": 90,
+    "id": 92,
     "tag": "P044_2",
     "en": "The gentleman had already left London, but I believe a messenger was sent after him to ask him to wait for me here.\"",
     "ko": "그 신사분은 이미 런던을 떠났지만, 제가 여기서 저를 기다려 달라고 부탁하기 위해 그분 뒤로 전령이 파견된 것으로 알고 있습니다.\"",
@@ -720,7 +736,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 91,
+    "id": 93,
     "tag": "P045_1",
     "en": "“I was happy,” said Mr. Lorry, “to be entrusted with the charge.”",
     "ko": "“그런 중책을 맡게 되어,” 로리 씨가 말했다. “기뻤습니다.”",
@@ -728,7 +744,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 92,
+    "id": 94,
     "tag": "P045_3",
     "en": "I will be even happier to carry it out.\"",
     "ko": "그 책임을 수행하게 된다면 더욱 기쁠 것입니다.\"",
@@ -736,7 +752,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 93,
+    "id": 95,
     "tag": "P046_1",
     "en": "\"Sir, thank you.",
     "ko": "\"선생님, 감사합니다.",
@@ -744,7 +760,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 94,
+    "id": 96,
     "tag": "P046_2",
     "en": "I am very grateful.",
     "ko": "저는 매우 감사합니다.",
@@ -752,7 +768,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 95,
+    "id": 97,
     "tag": "P046_3",
     "en": "The bank told me that the gentleman would explain the details of this business to me, and that I should prepare myself for some surprising news.",
     "ko": "은행에서는 그 신사분이 이 일의 세부 사항을 저에게 설명해 줄 것이며, 놀라운 소식을 들을 준비를 해야 한다고 했습니다.",
@@ -760,7 +776,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 96,
+    "id": 98,
     "tag": "P046_4",
     "en": "I have done my best to prepare, and naturally, I am very anxious to know what it is.\"",
     "ko": "나름대로 마음의 준비를 했고, 당연히 그게 무엇인지 무척 알고 싶습니다.\"",
@@ -768,7 +784,7 @@
     "raw_ref_id": 107
   },
   {
-    "id": 97,
+    "id": 99,
     "tag": "P047_1",
     "en": "“Naturally,” said Mr. Lorry. “Yes—I—”",
     "ko": "“당연하지요,” 로리 씨가 말했다. “그렇습니다—저는—”",
@@ -776,7 +792,7 @@
     "raw_ref_id": 108
   },
   {
-    "id": 98,
+    "id": 100,
     "tag": "P048",
     "en": "After a pause, he adjusted his tight light wig over his ears again and said, \"It is very difficult to begin.\"",
     "ko": "잠시 멈춘 후, 그는 자신의 꼭 맞는 밝은색 가발을 귀 위로 다시 고쳐 쓰고는 말했습니다. \"시작하기가 참 어렵군요.\"",
@@ -784,7 +800,7 @@
     "raw_ref_id": 110
   },
   {
-    "id": 99,
+    "id": 101,
     "tag": "P049_1",
     "en": "He didn't start right away, but hesitated and looked at her.",
     "ko": "그는 바로 시작하지 않고, 망설이며 그녀를 바라보았습니다.",
@@ -792,7 +808,7 @@
     "raw_ref_id": 111
   },
   {
-    "id": 100,
+    "id": 102,
     "tag": "P049_2",
     "en": "Her young forehead wrinkled in that unique way, which was pretty and characteristic of her, and she raised her hand, as if automatically trying to catch or stop a passing shadow.",
     "ko": "그녀의 젊은 이마에 그녀 특유의 예쁘고 독특한 방식으로 주름이 졌고, 그녀는 마치 지나가는 그림자를 무의식적으로 잡거나 멈추려는 듯이 손을 들어 올렸습니다.",
@@ -800,7 +816,7 @@
     "raw_ref_id": 112
   },
   {
-    "id": 101,
+    "id": 103,
     "tag": "P050",
     "en": "\"Are you a complete stranger to me, sir?\"",
     "ko": "\"선생님, 저를 전혀 모르시는 분이신가요?\"",
@@ -808,7 +824,7 @@
     "raw_ref_id": 113
   },
   {
-    "id": 102,
+    "id": 104,
     "tag": "P051_1",
     "en": "“Am I not?” Mr. Lorry opened his hands and spread them outward with a persuasive smile.",
     "ko": "“그렇지 않습니까?” 로리 씨는 두 손을 펼쳐 앞으로 내밀며 조리 있게 설득하듯 미소를 지었다.",
@@ -816,7 +832,7 @@
     "raw_ref_id": 114
   },
   {
-    "id": 103,
+    "id": 105,
     "tag": "P052_1",
     "en": "The frown between her eyebrows and just above her delicate nose deepened as she sat down thoughtfully in the chair she had been standing next to.",
     "ko": "그녀가 아까까지 서 있던 의자에 생각에 잠겨 앉자, 그녀의 눈썹 사이와 오뚝한 코 바로 위쪽의 주름이 더 깊어졌습니다.",
@@ -824,7 +840,7 @@
     "raw_ref_id": 116
   },
   {
-    "id": 104,
+    "id": 106,
     "tag": "P052_2",
     "en": "He watched her as she sat thinking, and the moment she looked up at him again, he continued:",
     "ko": "그녀가 생각에 잠겨 앉아 있는 것을 지켜보던 그는, 그녀가 다시 자신을 올려다보는 순간 말을 이었습니다:",
@@ -832,7 +848,7 @@
     "raw_ref_id": 117
   },
   {
-    "id": 105,
+    "id": 107,
     "tag": "P053",
     "en": "\"Since England is your adopted home, I assume I should address you as an English lady, Miss Manette?\"",
     "ko": "\"영국이 아가씨의 제이의 고향이니, 제가 아가씨를 영국 숙녀인 마네트 양으로 대해야 하겠지요?\"",
@@ -840,7 +856,7 @@
     "raw_ref_id": 118
   },
   {
-    "id": 106,
+    "id": 108,
     "tag": "P054",
     "en": "\"If you please, sir.\"",
     "ko": "\"괜찮으시다면요, 선생님.\"",
@@ -848,7 +864,7 @@
     "raw_ref_id": 119
   },
   {
-    "id": 107,
+    "id": 109,
     "tag": "P055_1",
     "en": "\"Miss Manette, I am a businessman.",
     "ko": "\"마네트 양, 저는 사업가입니다.",
@@ -856,7 +872,7 @@
     "raw_ref_id": 120
   },
   {
-    "id": 108,
+    "id": 110,
     "tag": "P055_2",
     "en": "I have a business task to complete.",
     "ko": "저에게는 완수해야 할 사업상의 임무가 있습니다.",
@@ -864,7 +880,7 @@
     "raw_ref_id": 121
   },
   {
-    "id": 109,
+    "id": 111,
     "tag": "P055_3",
     "en": "As you listen to it, don't think of me as anything more than a talking machine, really, I'm not much else.",
     "ko": "이 이야기를 들으실 때, 저를 그저 말하는 기계 이상으로 생각하지 말아 주십시오. 사실 저는 그 이상도 이하도 아닙니다.",
@@ -872,7 +888,7 @@
     "raw_ref_id": 122
   },
   {
-    "id": 110,
+    "id": 112,
     "tag": "P055_4",
     "en": "With your permission, I will tell you the story of one of our clients.\"",
     "ko": "허락해 주신다면, 저희 고객 중 한 분의 이야기를 해드리겠습니다.\"",
@@ -880,7 +896,7 @@
     "raw_ref_id": 123
   },
   {
-    "id": 111,
+    "id": 113,
     "tag": "P056",
     "en": "\"A story?\"",
     "ko": "\"이야기요?\"",
@@ -888,7 +904,7 @@
     "raw_ref_id": 124
   },
   {
-    "id": 112,
+    "id": 114,
     "tag": "P057_1",
     "en": "He pretended to misunderstand why she repeated the word, adding quickly, \"Yes, a client. In banking, we usually call our contacts our clients.",
     "ko": "그는 그녀가 그 단어를 왜 반복했는지 모르는 척하며 재빨리 덧붙였습니다. \"네, 고객입니다. 은행에서는 보통 저희와 거래하는 분들을 고객이라고 부릅니다.",
@@ -896,7 +912,7 @@
     "raw_ref_id": 125
   },
   {
-    "id": 113,
+    "id": 115,
     "tag": "P057_2",
     "en": "He was a French gentleman, a man of science, highly educated, a Doctor.\"",
     "ko": "그는 프랑스 신사였고, 고등 교육을 받은 과학자이자 의사였습니다.\"",
@@ -904,7 +920,7 @@
     "raw_ref_id": 126
   },
   {
-    "id": 114,
+    "id": 116,
     "tag": "P058",
     "en": "\"Not from Beauvais?\"",
     "ko": "\"보베 출신은 아니신가요?\"",
@@ -912,7 +928,7 @@
     "raw_ref_id": 127
   },
   {
-    "id": 115,
+    "id": 117,
     "tag": "P059_1",
     "en": "\"Why, yes, from Beauvais.",
     "ko": "\"아, 네, 보베 출신입니다.",
@@ -920,7 +936,7 @@
     "raw_ref_id": 128
   },
   {
-    "id": 116,
+    "id": 118,
     "tag": "P059_2",
     "en": "Just like Monsieur Manette, your father, the gentleman was from Beauvais.",
     "ko": "아가씨의 아버님이신 마네트 씨처럼 그 신사분도 보베 출신이었습니다.",
@@ -928,7 +944,7 @@
     "raw_ref_id": 129
   },
   {
-    "id": 117,
+    "id": 119,
     "tag": "P059_3",
     "en": "Like your father, he was well-known in Paris.",
     "ko": "아가씨의 아버지처럼 그분도 파리에서 꽤 유명했습니다.",
@@ -936,7 +952,7 @@
     "raw_ref_id": 130
   },
   {
-    "id": 118,
+    "id": 120,
     "tag": "P059_4",
     "en": "I had the honor of knowing him there.",
     "ko": "저는 그곳에서 그분을 알게 되는 영광을 누렸습니다.",
@@ -944,7 +960,7 @@
     "raw_ref_id": 131
   },
   {
-    "id": 119,
+    "id": 121,
     "tag": "P059_5",
     "en": "Our relationship was professional, but very confidential.",
     "ko": "저희의 관계는 직업적이었지만, 매우 기밀을 요하는 것이었습니다.",
@@ -952,7 +968,7 @@
     "raw_ref_id": 132
   },
   {
-    "id": 120,
+    "id": 122,
     "tag": "P059_6",
     "en": "At that time, I was working in our French branch, and had been there for, oh, twenty years.\"",
     "ko": "그 당시 저는 저희 프랑스 지점에서 일하고 있었고, 그곳에 있은 지 한 이십 년 정도 되었습니다.\"",
@@ -960,7 +976,7 @@
     "raw_ref_id": 133
   },
   {
-    "id": 121,
+    "id": 123,
     "tag": "P060",
     "en": "\"At that time, may I ask, what time was that, sir?\"",
     "ko": "\"그 당시면, 여쭤봐도 될까요, 언제를 말씀하시는 건가요, 선생님?\"",
@@ -968,7 +984,7 @@
     "raw_ref_id": 134
   },
   {
-    "id": 122,
+    "id": 124,
     "tag": "P061_1",
     "en": "\"I am speaking of twenty years ago, miss.",
     "ko": "\"저는 이십 년 전을 말씀드리는 겁니다, 아가씨.",
@@ -976,7 +992,7 @@
     "raw_ref_id": 135
   },
   {
-    "id": 123,
+    "id": 125,
     "tag": "P061_2",
     "en": "He married an English lady, and I was one of the trustees of his estate.",
     "ko": "그분은 영국 숙녀와 결혼하셨고, 저는 그분의 재산 관리인 중 한 명이었습니다.",
@@ -984,7 +1000,7 @@
     "raw_ref_id": 136
   },
   {
-    "id": 124,
+    "id": 126,
     "tag": "P061_3",
     "en": "His financial affairs, like those of many other French gentlemen, were kept entirely in Tellson's hands.",
     "ko": "다른 많은 프랑스 신사들의 재정 문제와 마찬가지로, 그분의 재정 문제도 텔슨 은행에서 전적으로 맡아 관리했습니다.",
@@ -992,7 +1008,7 @@
     "raw_ref_id": 137
   },
   {
-    "id": 125,
+    "id": 127,
     "tag": "P061_4",
     "en": "In the same way, I have acted as a trustee in some form for dozens of our clients.",
     "ko": "같은 방식으로 저는 수십 명의 저희 고객들을 위해 어떤 형태로든 관리인 역할을 해왔습니다.",
@@ -1000,7 +1016,7 @@
     "raw_ref_id": 138
   },
   {
-    "id": 126,
+    "id": 128,
     "tag": "P061_5",
     "en": "These are purely business relationships, miss; there is no personal friendship in them, no special interest, nothing emotional.",
     "ko": "이것은 순전히 비즈니스적인 관계일 뿐입니다, 아가씨. 여기에는 개인적인 친분도, 특별한 이해관계도, 어떤 감정적인 것도 없습니다.",
@@ -1008,7 +1024,7 @@
     "raw_ref_id": 139
   },
   {
-    "id": 127,
+    "id": 129,
     "tag": "P061_6",
     "en": "I have moved from one client to another throughout my career just as I move from one account to another during my workday. In short, I have no feelings; I am just a machine.",
     "ko": "저는 근무 시간 동안 이 계좌에서 저 계좌로 옮겨가듯이, 제 경력 내내 한 고객에게서 다른 고객으로 옮겨 다녔습니다. 요컨대, 저는 아무런 감정이 없습니다. 저는 그저 기계일 뿐입니다.",
@@ -1016,7 +1032,7 @@
     "raw_ref_id": 140
   },
   {
-    "id": 128,
+    "id": 130,
     "tag": "P061_7",
     "en": "To continue, \"",
     "ko": "계속하자면, \"",
@@ -1024,7 +1040,7 @@
     "raw_ref_id": 141
   },
   {
-    "id": 129,
+    "id": 131,
     "tag": "P062_1",
     "en": "\"But this is my father's story, sir.\" She paused. Her forehead wrinkled in that intense, searching way. \"And I am starting to think that when I was left an orphan, because my mother only outlived my father by two years, it was you who brought me to England.",
     "ko": "\"하지만 이건 제 아버지의 이야기잖아요, 선생님.\" 그녀는 말을 멈췄습니다. 그녀의 이마에 깊이 탐색하는 듯한 주름이 졌습니다. \"그리고 제 어머니께서 아버지가 돌아가신 후 겨우 이 년밖에 더 살지 못하셨기 때문에 제가 고아로 남겨졌을 때, 저를 영국으로 데려오신 분이 선생님이라는 생각이 들기 시작했어요.",
@@ -1032,7 +1048,7 @@
     "raw_ref_id": 142
   },
   {
-    "id": 130,
+    "id": 132,
     "tag": "P062_2",
     "en": "I am almost sure it was you.\"",
     "ko": "선생님이라는 확신이 듭니다.\"",
@@ -1040,7 +1056,7 @@
     "raw_ref_id": 143
   },
   {
-    "id": 131,
+    "id": 133,
     "tag": "P063_1",
     "en": "Mr. Lorry took the small, hesitant hand that trustingly reached out to take his, and raised it with some ceremony to his lips.",
     "ko": "로리 씨는 그를 신뢰하며 다가오는 작고 머뭇거리는 손을 잡아 정중하게 입을 맞추었다.",
@@ -1048,7 +1064,7 @@
     "raw_ref_id": 144
   },
   {
-    "id": 132,
+    "id": 134,
     "tag": "P063_3",
     "en": "He then led the young lady back to her chair. He stood behind the chair, holding the back of it with his left hand. With his right hand he rubbed his chin, adjusted his wig, or gestured as he spoke. He stood looking down at her face. She sat looking up at him.",
     "ko": "그러고 나서 그는 젊은 숙녀를 그녀의 의자로 다시 이끌었습니다. 그는 의자 뒤에 서서 왼손으로 의자 등받이를 잡았습니다. 오른손으로는 턱을 만지거나, 가발을 고쳐 쓰거나, 말을 하며 제스처를 취했습니다. 그는 서서 그녀의 얼굴을 내려다보았습니다. 그녀는 앉아서 그를 올려다보았습니다.",
@@ -1056,7 +1072,7 @@
     "raw_ref_id": 146
   },
   {
-    "id": 133,
+    "id": 135,
     "tag": "P064_1",
     "en": "\"Miss Manette, it was me.",
     "ko": "\"마네트 양, 그게 저였습니다.",
@@ -1064,7 +1080,7 @@
     "raw_ref_id": 147
   },
   {
-    "id": 134,
+    "id": 136,
     "tag": "P064_2",
     "en": "And you will see how true it is that I have no feelings, and that all my relationships are strictly professional, when you realize that I haven't seen you since that day.",
     "ko": "그리고 그날 이후로 제가 아가씨를 한 번도 보지 않았다는 사실을 알게 되신다면, 저에게 아무런 감정이 없으며 저의 모든 관계가 철저히 직업적이라는 제 말이 얼마나 사실인지 알게 되실 겁니다.",
@@ -1072,7 +1088,7 @@
     "raw_ref_id": 148
   },
   {
-    "id": 135,
+    "id": 137,
     "tag": "P064_3",
     "en": "No; you have been a ward of Tellson's Bank ever since, and I have been busy with other bank business.",
     "ko": "아니요; 아가씨는 그 이후로 계속 텔슨 은행의 피후견인이었고, 저는 다른 은행 업무로 바빴습니다.",
@@ -1080,7 +1096,7 @@
     "raw_ref_id": 149
   },
   {
-    "id": 136,
+    "id": 138,
     "tag": "P064_4",
     "en": "Feelings!",
     "ko": "감정이라니요!",
@@ -1088,7 +1104,7 @@
     "raw_ref_id": 150
   },
   {
-    "id": 137,
+    "id": 139,
     "tag": "P064_5",
     "en": "I have no time for them, no opportunity for them.",
     "ko": "저는 그런 걸 느낄 시간도 없고, 기회도 없습니다.",
@@ -1096,7 +1112,7 @@
     "raw_ref_id": 151
   },
   {
-    "id": 138,
+    "id": 140,
     "tag": "P064_6",
     "en": "I spend my whole life, miss, turning a giant money-grinding machine.\"",
     "ko": "저는 평생을, 아가씨, 거대한 돈 버는 기계를 돌리며 보냅니다.\"",
@@ -1104,7 +1120,7 @@
     "raw_ref_id": 152
   },
   {
-    "id": 139,
+    "id": 141,
     "tag": "P065_1",
     "en": "After this odd description of his daily work routine, Mr. Lorry flattened his flaxen wig upon his head with both hands (which was entirely unnecessary, as nothing could have been flatter than its shining surface was before), and resumed his former posture.",
     "ko": "자신의 일상적인 업무에 대한 이 기묘한 설명을 마친 뒤, 로리 씨는 양손으로 머리의 아마포색 가발을 꾹 눌러 폈는데(이미 반질반질한 표면이 더 이상 납작해질 수 없을 만큼 납작했기에 지극히 불필요한 행동이었지만), 그러고 나서 이전의 자세로 돌아갔다.",
@@ -1112,7 +1128,7 @@
     "raw_ref_id": 153
   },
   {
-    "id": 140,
+    "id": 142,
     "tag": "P066_1",
     "en": "\"So far, miss, as you noted, this is the story of your late father.",
     "ko": "\"아가씨가 눈치채셨듯이, 여기까지는 돌아가신 아버님의 이야기입니다.",
@@ -1120,7 +1136,7 @@
     "raw_ref_id": 155
   },
   {
-    "id": 141,
+    "id": 143,
     "tag": "P066_2",
     "en": "Now comes the difference.",
     "ko": "이제 다른 점이 나옵니다.",
@@ -1128,7 +1144,7 @@
     "raw_ref_id": 156
   },
   {
-    "id": 142,
+    "id": 144,
     "tag": "P066_3",
     "en": "If your father had not died when he did, don't be frightened!",
     "ko": "만약 아버님이 그때 돌아가시지 않았다면, 놀라지 마십시오!",
@@ -1136,7 +1152,7 @@
     "raw_ref_id": 157
   },
   {
-    "id": 143,
+    "id": 145,
     "tag": "P066_4",
     "en": "Why do you jump like that?\"",
     "ko": "왜 그렇게 깜짝 놀라십니까?\"",
@@ -1144,7 +1160,7 @@
     "raw_ref_id": 158
   },
   {
-    "id": 144,
+    "id": 146,
     "tag": "P067_1",
     "en": "She did jump, startled.",
     "ko": "그녀는 화들짝 놀랐습니다.",
@@ -1152,7 +1168,7 @@
     "raw_ref_id": 159
   },
   {
-    "id": 145,
+    "id": 147,
     "tag": "P067_2",
     "en": "And she grabbed his wrist with both hands.",
     "ko": "그리고 두 손으로 그의 손목을 꽉 잡았습니다.",
@@ -1160,7 +1176,7 @@
     "raw_ref_id": 160
   },
   {
-    "id": 146,
+    "id": 148,
     "tag": "P068_1",
     "en": "“Pray,” said Mr. Lorry in a soothing tone, moving his left hand from the back of the chair to lay it on the pleading fingers that gripped him with violent trembling: “pray control your agitation—a matter of business.”",
     "ko": "“부디,” 로리 씨는 달래는 어조로 말하며 등받이에 얹었던 왼손을 가져와 격렬하게 떨며 애원하듯 매달리는 그녀의 손가락 위에 얹었다. “부디 진정하십시오—업무상의 일입니다.”",
@@ -1168,7 +1184,7 @@
     "raw_ref_id": 161
   },
   {
-    "id": 147,
+    "id": 149,
     "tag": "P068_3",
     "en": "As I was saying, \"",
     "ko": "제가 말씀드리고 있었듯이, \"",
@@ -1176,7 +1192,7 @@
     "raw_ref_id": 163
   },
   {
-    "id": 148,
+    "id": 150,
     "tag": "P069",
     "en": "The look on her face shook him so much that he stopped, hesitated, and started over:",
     "ko": "그녀의 얼굴에 나타난 표정이 그를 너무 흔들어 놓아서 그는 말을 멈추고 망설이다가 다시 시작했습니다:",
@@ -1184,15 +1200,31 @@
     "raw_ref_id": 164
   },
   {
-    "id": 149,
-    "tag": "P070",
-    "en": "\"As I was saying: suppose Monsieur Manette did not die. Suppose he simply vanished one day, silently and without a trace. Suppose he was taken away. It would be easy enough to guess which terrible place he had been sent to, even if no one could prove it. Suppose he had an enemy, someone with the power to sign blank arrest warrants and lock anyone away in a silent prison forever. That power was so feared in France that even the bravest people refused to whisper about it. Suppose his wife went to the king, the queen, the court, and the church, begging for any news of her husband. All of that begging would come to nothing. If all of this were true, then the story of your father would be the story of this unfortunate gentleman, the Doctor of Beauvais.\"",
-    "ko": "\"제가 말씀드리고 있었듯이: 마네트 씨가 죽지 않았다고 가정해 보십시오. 그가 어느 날 조용히 흔적도 없이 사라졌다고 가정해 봅시다. 그가 어디론가 끌려갔다고 가정해 봅시다. 비록 아무도 그것을 증명할 수 없었더라도, 그가 어떤 끔찍한 곳으로 보내졌는지 짐작하기란 충분히 쉬웠을 것입니다. 그에게 백지 체포 영장에 서명하여 누구든 영원히 소리 없는 감옥에 가둘 수 있는 권력을 가진 적이 있었다고 가정해 봅시다. 그 권력은 프랑스에서 너무나 두려운 것이어서 가장 용감한 사람들조차 그것에 대해 속삭이기를 거부했습니다. 그의 아내가 남편의 소식을 조금이라도 얻기 위해 왕과 왕비, 궁정, 교회에 찾아가 애원했다고 가정해 봅시다. 그 모든 애원은 수포로 돌아갔을 것입니다. 이 모든 것이 사실이라면, 아가씨 아버님의 이야기는 바로 이 불행한 신사, 보베의 의사 이야기일 것입니다.\"",
+    "id": 151,
+    "tag": "P070_1",
+    "en": "\"As I was saying: suppose Monsieur Manette did not die. Suppose he simply vanished one day, silently and without a trace. Suppose he was taken away.",
+    "ko": "\"제가 말씀드리고 있었듯이: 마네트 씨가 죽지 않았다고 가정해 보십시오. 그가 어느 날 조용히 흔적도 없이 사라졌다고 가정해 봅시다. 그가 어디론가 끌려갔다고 가정해 봅시다.",
     "is_header": false,
     "raw_ref_id": 165
   },
   {
-    "id": 150,
+    "id": 152,
+    "tag": "P070_2",
+    "en": "It would be easy enough to guess which terrible place he had been sent to, even if no one could prove it. Suppose he had an enemy, someone with the power to sign blank arrest warrants and lock anyone away in a silent prison forever. That power was so feared in France that even the bravest people refused to whisper about it.",
+    "ko": "비록 아무도 그것을 증명할 수 없었더라도, 그가 어떤 끔찍한 곳으로 보내졌는지 짐작하기란 충분히 쉬웠을 것입니다. 그에게 백지 체포 영장에 서명하여 누구든 영원히 소리 없는 감옥에 가둘 수 있는 권력을 가진 적이 있었다고 가정해 봅시다. 그 권력은 프랑스에서 너무나 두려운 것이어서 가장 용감한 사람들조차 그것에 대해 속삭이기를 거부했습니다.",
+    "is_header": false,
+    "raw_ref_id": 165
+  },
+  {
+    "id": 153,
+    "tag": "P070_3",
+    "en": "Suppose his wife went to the king, the queen, the court, and the church, begging for any news of her husband. All of that begging would come to nothing. If all of this were true, then the story of your father would be the story of this unfortunate gentleman, the Doctor of Beauvais.\"",
+    "ko": "그의 아내가 남편의 소식을 조금이라도 얻기 위해 왕과 왕비, 궁정, 교회에 찾아가 애원했다고 가정해 봅시다. 그 모든 애원은 수포로 돌아갔을 것입니다. 이 모든 것이 사실이라면, 아가씨 아버님의 이야기는 바로 이 불행한 신사, 보베의 의사 이야기일 것입니다.\"",
+    "is_header": false,
+    "raw_ref_id": 165
+  },
+  {
+    "id": 154,
     "tag": "P071",
     "en": "\"I beg you to tell me more, sir.\"",
     "ko": "\"더 말씀해 주시기를 간청합니다, 선생님.\"",
@@ -1200,7 +1232,7 @@
     "raw_ref_id": 166
   },
   {
-    "id": 151,
+    "id": 155,
     "tag": "P072_1",
     "en": "\"I will.",
     "ko": "\"그렇게 하겠습니다.",
@@ -1208,7 +1240,7 @@
     "raw_ref_id": 167
   },
   {
-    "id": 152,
+    "id": 156,
     "tag": "P072_2",
     "en": "I am about to.",
     "ko": "막 그러려던 참입니다.",
@@ -1216,7 +1248,7 @@
     "raw_ref_id": 168
   },
   {
-    "id": 153,
+    "id": 157,
     "tag": "P072_3",
     "en": "Can you handle it?\"",
     "ko": "감당하실 수 있겠습니까?\"",
@@ -1224,7 +1256,7 @@
     "raw_ref_id": 169
   },
   {
-    "id": 154,
+    "id": 158,
     "tag": "P073",
     "en": "\"I can bear anything except the uncertainty you are keeping me in right now.\"",
     "ko": "\"선생님께서 지금 저를 가두어 두고 계신 불확실성만 아니라면 무엇이든 견딜 수 있습니다.\"",
@@ -1232,7 +1264,7 @@
     "raw_ref_id": 170
   },
   {
-    "id": 155,
+    "id": 159,
     "tag": "P074_1",
     "en": "\"You speak calmly, and you are calm.",
     "ko": "\"차분하게 말씀하시는군요, 그리고 아가씨는 차분합니다.",
@@ -1240,7 +1272,7 @@
     "raw_ref_id": 171
   },
   {
-    "id": 156,
+    "id": 160,
     "tag": "P074_2",
     "en": "That’s good!\" he said, though he looked less confident than his words suggested. \"A matter of business.",
     "ko": "다행입니다!\" 그는 말과 달리 자신감이 부족해 보였지만 그렇게 말했습니다. \"업무상의 일입니다.",
@@ -1248,7 +1280,7 @@
     "raw_ref_id": 172
   },
   {
-    "id": 157,
+    "id": 161,
     "tag": "P074_3",
     "en": "Look at it as a matter of business, work that must be done.",
     "ko": "이것을 업무상의 일, 반드시 해야 할 일로 생각하십시오.",
@@ -1256,7 +1288,7 @@
     "raw_ref_id": 173
   },
   {
-    "id": 158,
+    "id": 162,
     "tag": "P074_4",
     "en": "Now, if this doctor's wife, though she was a woman of great courage and strength, had suffered so intensely from this before her baby was born, \"",
     "ko": "자, 만약 이 의사의 아내가 비록 용기와 강인함이 대단한 여성이었음에도 불구하고 아기가 태어나기 전에 이 일로 인해 너무나 큰 고통을 겪었다면, \"",
@@ -1264,7 +1296,7 @@
     "raw_ref_id": 174
   },
   {
-    "id": 159,
+    "id": 163,
     "tag": "P075",
     "en": "\"The baby was a daughter, sir.\"",
     "ko": "\"그 아기는 딸이었습니다, 선생님.\"",
@@ -1272,7 +1304,7 @@
     "raw_ref_id": 175
   },
   {
-    "id": 160,
+    "id": 164,
     "tag": "P076_1",
     "en": "\"A daughter.",
     "ko": "\"딸이요.",
@@ -1280,7 +1312,7 @@
     "raw_ref_id": 176
   },
   {
-    "id": 161,
+    "id": 165,
     "tag": "P076_2",
     "en": "A, a matter of business, don't be upset.",
     "ko": "아, 업무상의 일입니다. 너무 속상해하지 마십시오.",
@@ -1288,7 +1320,7 @@
     "raw_ref_id": 177
   },
   {
-    "id": 162,
+    "id": 166,
     "tag": "P076_3",
     "en": "Miss, if the poor lady had suffered so intensely before her baby was born that she decided to save her child from inheriting any of the agony she had felt, by raising her to believe that her father was dead, No, don't kneel!",
     "ko": "아가씨, 만약 그 가엾은 부인이 아기를 낳기 전에 너무 큰 고통을 겪어서, 그녀가 느꼈던 고통을 아이에게 물려주지 않기 위해 아버지가 죽었다고 믿게 키우기로 결심했다면, 아니요, 무릎 꿇지 마십시오!",
@@ -1296,7 +1328,7 @@
     "raw_ref_id": 178
   },
   {
-    "id": 163,
+    "id": 167,
     "tag": "P076_4",
     "en": "In Heaven's name, why are you kneeling to me?\"",
     "ko": "도대체 왜 저에게 무릎을 꿇으시는 겁니까?\"",
@@ -1304,7 +1336,7 @@
     "raw_ref_id": 179
   },
   {
-    "id": 164,
+    "id": 168,
     "tag": "P077_1",
     "en": "\"For the truth. Oh, dear, good, compassionate sir, tell me the truth!\" \"It's just—a matter of business.",
     "ko": "\"진실을 위해서요. 오, 친절하고 선량하며 동정심 많으신 선생님, 제게 진실을 말씀해 주세요!\" \"이건 그저... 업무상의 일일 뿐입니다.",
@@ -1312,7 +1344,7 @@
     "raw_ref_id": 180
   },
   {
-    "id": 165,
+    "id": 169,
     "tag": "P077_2",
     "en": "You're freaking me out, and I can't do my job if I'm stressed.",
     "ko": "아가씨 때문에 제가 겁이 나고, 제가 스트레스를 받으면 제 일을 할 수가 없습니다.",
@@ -1320,7 +1352,7 @@
     "raw_ref_id": 181
   },
   {
-    "id": 166,
+    "id": 170,
     "tag": "P077_3",
     "en": "Let's just keep it together.",
     "ko": "우리 진정합시다.",
@@ -1328,7 +1360,7 @@
     "raw_ref_id": 182
   },
   {
-    "id": 167,
+    "id": 171,
     "tag": "P077_4",
     "en": "If you could tell me basic math, like nine times nine or how many shillings in twenty pounds, that'd be great.",
     "ko": "구구단 구구는 팔십일이나, 이십 파운드가 몇 실링인지 같은 기본 수학을 제게 말해주실 수 있다면 정말 좋겠군요.",
@@ -1336,7 +1368,7 @@
     "raw_ref_id": 183
   },
   {
-    "id": 168,
+    "id": 172,
     "tag": "P077_5",
     "en": "It would make me feel better about your head being in the game.\"",
     "ko": "그게 아가씨가 이 상황에 집중하고 있다는 걸 확인시켜 주어 제 마음을 더 편하게 해줄 겁니다.\"",
@@ -1344,7 +1376,7 @@
     "raw_ref_id": 184
   },
   {
-    "id": 169,
+    "id": 173,
     "tag": "P078_1",
     "en": "Without directly answering this appeal, she sat so still when he had very gently helped her up, and the hands that had not ceased to grasp his wrists were so much steadier than they had been, that she communicated some reassurance to Mr. Jarvis Lorry.",
     "ko": "그녀는 이 말에 곧바로 대답하지는 않았지만, 그가 아주 조심스럽게 그녀를 일으켜 세우자 아주 가만히 앉아 있었고, 여전히 그의 손목을 쥐고 있는 손도 한결 안정을 되찾아 오히려 자비스 로리 씨를 다소 안심시켜 주었다.",
@@ -1352,7 +1384,7 @@
     "raw_ref_id": 185
   },
   {
-    "id": 170,
+    "id": 174,
     "tag": "P079_1",
     "en": "\"That's right, that's right.",
     "ko": "\"그렇습니다, 그렇습니다.",
@@ -1360,7 +1392,7 @@
     "raw_ref_id": 187
   },
   {
-    "id": 171,
+    "id": 175,
     "tag": "P079_2",
     "en": "Courage!",
     "ko": "용기를 내십시오!",
@@ -1368,7 +1400,7 @@
     "raw_ref_id": 188
   },
   {
-    "id": 172,
+    "id": 176,
     "tag": "P079_3",
     "en": "Business!",
     "ko": "비즈니스입니다!",
@@ -1376,7 +1408,7 @@
     "raw_ref_id": 189
   },
   {
-    "id": 173,
+    "id": 177,
     "tag": "P079_4",
     "en": "You have important, useful work ahead of you.",
     "ko": "아가씨 앞에는 중요하고 유용한 일이 기다리고 있습니다.",
@@ -1384,7 +1416,7 @@
     "raw_ref_id": 190
   },
   {
-    "id": 174,
+    "id": 178,
     "tag": "P079_5",
     "en": "Miss Manette, your mother decided to raise you this way.",
     "ko": "마네트 양, 아가씨의 어머니께서는 아가씨를 그렇게 키우기로 결정하셨습니다.",
@@ -1392,7 +1424,7 @@
     "raw_ref_id": 191
   },
   {
-    "id": 175,
+    "id": 179,
     "tag": "P079_6",
     "en": "When she died, brokenhearted, I believe, having never stopped searching for your father, she left you, at two years old, to grow up healthy, beautiful, and happy. She spared you the dark cloud of wondering whether your father died quickly in prison or wasted away there over many long years.\"",
     "ko": "아버지를 찾는 일을 멈추지 않으시다가 슬픔에 잠겨 돌아가셨을 때, 그녀는 두 살이었던 아가씨가 건강하고 아름답고 행복하게 자라도록 남겨두었습니다. 그녀는 아버지가 감옥에서 일찍 죽었는지 아니면 긴 세월 동안 그곳에서 쇠약해져 갔는지 궁금해하는 어두운 구름으로부터 아가씨를 지켜주었습니다.\"",
@@ -1400,7 +1432,7 @@
     "raw_ref_id": 192
   },
   {
-    "id": 176,
+    "id": 180,
     "tag": "P080",
     "en": "As he spoke, he looked down with pity and admiration at her flowing golden hair, as if imagining that it could have already been turned gray by worry.",
     "ko": "그는 말을 하면서, 마치 그녀의 머리카락이 걱정으로 인해 이미 회색으로 변해버렸을 수도 있다는 것을 상상하는 듯, 그녀의 찰랑이는 금발을 연민과 감탄을 담아 내려다보았습니다.",
@@ -1408,7 +1440,7 @@
     "raw_ref_id": 193
   },
   {
-    "id": 177,
+    "id": 181,
     "tag": "P081_1",
     "en": "\"You know that your parents had very little money, and that what they did have was secured for your mother and you.",
     "ko": "\"아가씨의 부모님은 돈이 거의 없었으며, 그들이 가진 것은 어머니와 아가씨를 위해 안전하게 보관되었다는 것을 아가씨도 아실 겁니다.",
@@ -1416,7 +1448,7 @@
     "raw_ref_id": 194
   },
   {
-    "id": 178,
+    "id": 182,
     "tag": "P081_2",
     "en": "There has been no new discovery of money or property; but, \"",
     "ko": "새로운 돈이나 재산이 발견된 것은 아닙니다만, \"",
@@ -1424,7 +1456,7 @@
     "raw_ref_id": 195
   },
   {
-    "id": 179,
+    "id": 183,
     "tag": "P082_1",
     "en": "He felt her grip tighten on his wrist, and he stopped.",
     "ko": "그는 자신의 손목을 잡은 그녀의 손에 힘이 들어가는 것을 느끼고 멈추었다.",
@@ -1432,7 +1464,7 @@
     "raw_ref_id": 196
   },
   {
-    "id": 180,
+    "id": 184,
     "tag": "P082_2",
     "en": "The expression on her forehead, which had caught his attention before and was now frozen, had deepened into a look of pain and horror.",
     "ko": "이전에도 그의 주의를 끌었으나 이제는 굳어버린 그녀의 이마에 떠오른 표정은, 고통과 공포의 모습으로 더욱 짙어져 있었다.",
@@ -1440,7 +1472,7 @@
     "raw_ref_id": 197
   },
   {
-    "id": 181,
+    "id": 185,
     "tag": "P083_1",
     "en": "\"But he has been, been found.",
     "ko": "\"하지만 그분이, 그분이 발견되었습니다.",
@@ -1448,7 +1480,7 @@
     "raw_ref_id": 198
   },
   {
-    "id": 182,
+    "id": 186,
     "tag": "P083_2",
     "en": "He is alive.",
     "ko": "그분은 살아 계십니다.",
@@ -1456,7 +1488,7 @@
     "raw_ref_id": 199
   },
   {
-    "id": 183,
+    "id": 187,
     "tag": "P083_3",
     "en": "Greatly changed, it is very likely; almost a wreck, it is possible; though we will hope for the best. Still, alive.",
     "ko": "너무나 크게 변했을 가능성이 매우 높고, 거의 폐인이 되었을 수도 있습니다. 하지만 최선을 바라봅시다. 그래도 살아 계십니다.",
@@ -1464,7 +1496,7 @@
     "raw_ref_id": 200
   },
   {
-    "id": 184,
+    "id": 188,
     "tag": "P083_5",
     "en": "Your father has been taken to the home of an old servant in Paris, and we are going there: I, to identify him if I can; you, to restore him to life, love, work, rest, and comfort.\"",
     "ko": "당신의 아버지는 파리에 있는 옛 하인의 집으로 모셔졌고, 우리는 그곳으로 갈 것입니다. 저는 할 수 있다면 그분의 신원을 확인하러 가고, 당신은 그분에게 삶과 사랑, 일, 휴식, 그리고 안식을 되찾아 드리기 위해 가는 것입니다.\"",
@@ -1472,7 +1504,7 @@
     "raw_ref_id": 202
   },
   {
-    "id": 185,
+    "id": 189,
     "tag": "P084_1",
     "en": "A shiver ran through her body, and from her into him.",
     "ko": "전율이 그녀의 몸을 훑고 지나가, 그녀에게서 그에게로 전해졌다.",
@@ -1480,7 +1512,7 @@
     "raw_ref_id": 203
   },
   {
-    "id": 186,
+    "id": 190,
     "tag": "P084_2",
     "en": "She said in a low, clear, awestruck voice, as if speaking in a dream:",
     "ko": "그녀는 마치 꿈속에서 말하듯 낮고 또렷하면서도 경외감에 찬 목소리로 말했다.",
@@ -1488,7 +1520,7 @@
     "raw_ref_id": 204
   },
   {
-    "id": 187,
+    "id": 191,
     "tag": "P085_1",
     "en": "\"I am going to see his ghost!",
     "ko": "\"저는 그분의 유령을 보러 가는 거군요!",
@@ -1496,7 +1528,7 @@
     "raw_ref_id": 205
   },
   {
-    "id": 188,
+    "id": 192,
     "tag": "P085_2",
     "en": "It will be his ghost, not him!\"",
     "ko": "그분이 아니라, 그분의 유령일 거예요!\"",
@@ -1504,7 +1536,7 @@
     "raw_ref_id": 206
   },
   {
-    "id": 189,
+    "id": 193,
     "tag": "P086_1",
     "en": "Mr. Lorry quietly rubbed the hands holding his arm. “There, there, there!”",
     "ko": "로리 씨는 자신의 팔을 붙잡고 있는 손을 가만히 문질러 주었다. “자, 자, 괜찮습니다!”",
@@ -1512,7 +1544,7 @@
     "raw_ref_id": 207
   },
   {
-    "id": 190,
+    "id": 194,
     "tag": "P086_3",
     "en": "Look, now!",
     "ko": "이제 보세요!",
@@ -1520,7 +1552,7 @@
     "raw_ref_id": 209
   },
   {
-    "id": 191,
+    "id": 195,
     "tag": "P086_4",
     "en": "You know the best and the worst of it now.",
     "ko": "당신은 이제 가장 좋은 것과 가장 나쁜 것을 모두 알게 되었습니다.",
@@ -1528,7 +1560,7 @@
     "raw_ref_id": 210
   },
   {
-    "id": 192,
+    "id": 196,
     "tag": "P086_5",
     "en": "You are on your way to see the poor, wronged gentleman, and after a smooth sea voyage and a land journey, you will soon be by his side.\"",
     "ko": "당신은 지금 불쌍하고 억울한 그 신사분을 뵈러 가는 길이며, 순탄한 항해와 육로 여행을 거치고 나면 곧 그분 곁에 있게 될 것입니다.\"",
@@ -1536,7 +1568,7 @@
     "raw_ref_id": 211
   },
   {
-    "id": 193,
+    "id": 197,
     "tag": "P087",
     "en": "She repeated in the same tone, sinking to a whisper, \"I have been free, I have been happy, yet his ghost has never haunted me!\"",
     "ko": "그녀는 목소리가 잦아들어 속삭이며 같은 어조로 반복했다. \"나는 자유로웠고 행복했는데, 그분의 유령은 한 번도 나를 찾아온 적이 없어!\"",
@@ -1544,7 +1576,7 @@
     "raw_ref_id": 212
   },
   {
-    "id": 194,
+    "id": 198,
     "tag": "P088_1",
     "en": "“Only one thing more,” said Mr. Lorry, emphasizing it as a wholesome way of holding her attention: “he has been found under another name; his own, long forgotten or long concealed.”",
     "ko": "“한 가지만 더 말씀드리겠습니다,” 로리 씨는 그녀의 주의를 집중시키기 위한 유익한 방법으로 힘주어 말했다. “그분은 다른 이름으로 발견되었습니다. 본명은 오랫동안 잊혔거나 오랫동안 감춰져 있었지요.”",
@@ -1552,7 +1584,7 @@
     "raw_ref_id": 213
   },
   {
-    "id": 195,
+    "id": 199,
     "tag": "P088_3",
     "en": "\"He was found under another name. His true name had been forgotten or hidden long ago.",
     "ko": "\"그분은 다른 이름으로 발견되었습니다. 그분의 진짜 이름은 오래전에 잊혀졌거나 감춰졌습니다.",
@@ -1560,7 +1592,7 @@
     "raw_ref_id": 215
   },
   {
-    "id": 196,
+    "id": 200,
     "tag": "P088_4",
     "en": "It would be worse than useless to ask any questions now, because it would be dangerous.",
     "ko": "지금 어떠한 질문을 하는 것은 소용없는 일을 넘어 위험할 수 있습니다.",
@@ -1568,7 +1600,7 @@
     "raw_ref_id": 216
   },
   {
-    "id": 197,
+    "id": 201,
     "tag": "P088_5",
     "en": "It would be even more pointless to find out whether he was deliberately kept prisoner or simply forgotten.",
     "ko": "그분이 고의로 수감된 것인지 아니면 단순히 잊혀진 것인지 알아내는 것은 더욱 무의미할 것입니다.",
@@ -1576,7 +1608,7 @@
     "raw_ref_id": 217
   },
   {
-    "id": 198,
+    "id": 202,
     "tag": "P088_6",
     "en": "Even I, safe because I am an Englishman, and even Tellson's Bank, as important as they are to French finances, avoid mentioning the matter.",
     "ko": "영국인이라 안전한 저조차도, 그리고 프랑스 재정에 그토록 중요한 텔슨 은행조차도 그 문제를 언급하는 것은 피하고 있습니다.",
@@ -1584,7 +1616,7 @@
     "raw_ref_id": 218
   },
   {
-    "id": 199,
+    "id": 203,
     "tag": "P088_7",
     "en": "The safest thing is to say nothing about this anywhere, to anyone, and to get him out of France.",
     "ko": "가장 안전한 방법은 어디서든 누구에게든 이 일에 대해 아무 말도 하지 않고, 그분을 프랑스에서 빼내는 것입니다.",
@@ -1592,7 +1624,7 @@
     "raw_ref_id": 219
   },
   {
-    "id": 200,
+    "id": 204,
     "tag": "P088_8",
     "en": "Even I, safe as an Englishman, and even Tellson's Bank, as important as we are to French finance, avoid all talk of it.",
     "ko": "영국인이라 안전한 저조차도, 그리고 프랑스 재정에 그토록 중요한 우리 텔슨 은행조차도 그에 대한 모든 이야기는 피하고 있습니다.",
@@ -1600,7 +1632,7 @@
     "raw_ref_id": 220
   },
   {
-    "id": 201,
+    "id": 205,
     "tag": "P088_9",
     "en": "I carry not a single scrap of paper mentioning this mission.",
     "ko": "저는 이 임무를 언급하는 종이 쪼가리 하나도 가지고 있지 않습니다.",
@@ -1608,7 +1640,7 @@
     "raw_ref_id": 221
   },
   {
-    "id": 202,
+    "id": 206,
     "tag": "P088_10",
     "en": "My credentials, notes, and records are summed up in one single phrase: 'Recalled to Life.' But what's wrong?",
     "ko": "저의 신임장, 메모, 그리고 기록은 '삶으로 소환됨'이라는 단 하나의 문구로 요약됩니다. 그런데 무슨 일이시죠?\"",
@@ -1616,7 +1648,7 @@
     "raw_ref_id": 222
   },
   {
-    "id": 203,
+    "id": 207,
     "tag": "P088_11",
     "en": "She isn't hearing a word!",
     "ko": "그녀는 한 마디도 듣지 못하고 있잖아!",
@@ -1624,7 +1656,7 @@
     "raw_ref_id": 223
   },
   {
-    "id": 204,
+    "id": 208,
     "tag": "P088_12",
     "en": "Miss Manette!\"",
     "ko": "마네트 양!\"",
@@ -1632,7 +1664,7 @@
     "raw_ref_id": 224
   },
   {
-    "id": 205,
+    "id": 209,
     "tag": "P089_1",
     "en": "Completely still and silent, not even leaning back in her chair, she sat under his touch, totally unconscious. Her eyes were open and fixed on him, and that worried expression looked as if it were carved or branded into her forehead.",
     "ko": "그녀는 의자에 기대지도 않은 채로 완전히 미동도 없이 조용히, 그의 손길 아래 전혀 의식이 없는 상태로 앉아 있었다. 그녀의 두 눈은 뜬 채로 그에게 고정되어 있었고, 그 걱정스러운 표정은 마치 그녀의 이마에 조각되거나 낙인찍힌 것처럼 보였다.",
@@ -1640,7 +1672,7 @@
     "raw_ref_id": 225
   },
   {
-    "id": 206,
+    "id": 210,
     "tag": "P089_2",
     "en": "She held his arm so tightly that he was afraid to pull away in case he hurt her, so he called out loudly for help without moving.",
     "ko": "그녀가 그의 팔을 너무 꽉 잡고 있어서, 그는 팔을 빼내려다 그녀를 다치게 할까 봐 두려워 꼼짝하지 않고 큰 소리로 도움을 청했다.",
@@ -1648,15 +1680,23 @@
     "raw_ref_id": 226
   },
   {
-    "id": 207,
+    "id": 211,
     "tag": "P090_1",
-    "en": "A wild-looking woman—whom even in his agitation Mr. Lorry observed to be entirely dressed in red, with red hair, wearing remarkably tight-fitting clothes, and having on her head a most wonderful bonnet like a Grenadier wooden measure (and a generous measure at that) or a great Stilton cheese—came running into the room ahead of the inn servants, and soon settled the matter of his detachment from the poor young lady by slamming a brawny hand against his chest and sending him flying back against the nearest wall.",
-    "ko": "로리 씨가 경황없는 와중에도 온통 붉은빛 옷차림에 붉은 머리칼, 기묘할 정도로 몸에 꽉 끼는 옷을 입고 머리에는 근위병의 나무 됫박(그것도 아주 큼직한 됫박)이나 커다란 스틸턴 치즈 같은 기이한 보닛 모자를 쓰고 있음을 알아챌 만큼 거친 용모의 한 여인이 여관 하인들보다 앞서 방으로 뛰어 들어왔고, 그의 가슴팍에 우람한 손을 얹어 가까운 벽 쪽으로 날려버림으로써 가엾은 숙녀에게서 그를 떼어놓는 문제를 단숨에 해결해 버렸다.",
+    "en": "A wild-looking woman—whom even in his agitation Mr. Lorry observed to be entirely dressed in red, with red hair, wearing remarkably tight-fitting clothes, and having on her head a most wonderful bonnet like a Grenadier wooden measure (and a generous measure at that) or a great Stilton cheese—came running into the room ahead of the inn servants.",
+    "ko": "로리 씨가 경황없는 와중에도 온통 붉은빛 옷차림에 붉은 머리칼, 기묘할 정도로 몸에 꽉 끼는 옷을 입고 머리에는 근위병의 나무 됫박(그것도 아주 큼직한 됫박)이나 커다란 스틸턴 치즈 같은 기이한 보닛 모자를 쓰고 있음을 알아챌 만큼 거친 용모의 한 여인이 여관 하인들보다 앞서 방으로 뛰어 들어왔다.",
     "is_header": false,
     "raw_ref_id": 227
   },
   {
-    "id": 208,
+    "id": 212,
+    "tag": "P090_2",
+    "en": "She soon settled the matter of his detachment from the poor young lady by slamming a brawny hand against his chest and sending him flying back against the nearest wall.",
+    "ko": "그녀는 그의 가슴팍에 우람한 손을 얹어 가까운 벽 쪽으로 날려버림으로써 가엾은 숙녀에게서 그를 떼어놓는 문제를 단숨에 해결해 버렸다.",
+    "is_header": false,
+    "raw_ref_id": 227
+  },
+  {
+    "id": 213,
     "tag": "P091_1",
     "en": "(“I really think this must be a man!” was Mr. Lorry’s breathless reflection, the moment he collided with the wall.)",
     "ko": "(“정말 남자임에 틀림없어!” 벽에 부딪히는 순간 로리 씨가 숨을 헐떡이며 반사적으로 한 생각이었다.)",
@@ -1664,7 +1704,7 @@
     "raw_ref_id": 229
   },
   {
-    "id": 209,
+    "id": 214,
     "tag": "P092_1",
     "en": "\"Look at all of you!\" this woman yelled at the hotel servants. \"Why don't you go and fetch help, instead of standing there staring at me?",
     "ko": "\"너희들 모두 꼴 좀 봐라!\" 이 여자는 호텔 하인들에게 소리쳤다. \"거기 서서 나를 빤히 쳐다보고만 있지 말고 가서 사람 좀 불러오지 못해?",
@@ -1672,7 +1712,7 @@
     "raw_ref_id": 231
   },
   {
-    "id": 210,
+    "id": 215,
     "tag": "P092_2",
     "en": "I'm not much to look at, am I?",
     "ko": "내 볼품이 그리 대단한 것도 아니잖아?\"",
@@ -1680,7 +1720,7 @@
     "raw_ref_id": 232
   },
   {
-    "id": 211,
+    "id": 216,
     "tag": "P092_3",
     "en": "Why don't you go get things?",
     "ko": "\"가서 물건들 좀 가져오지 그래?",
@@ -1688,7 +1728,7 @@
     "raw_ref_id": 233
   },
   {
-    "id": 212,
+    "id": 217,
     "tag": "P092_4",
     "en": "I'll show you what's what if you don't bring smelling salts, cold water, and vinegar right now!\"",
     "ko": "지금 당장 후각 각성제, 찬물, 그리고 식초를 가져오지 않으면 내가 매운맛을 보여주겠어!\"",
@@ -1696,7 +1736,7 @@
     "raw_ref_id": 234
   },
   {
-    "id": 213,
+    "id": 218,
     "tag": "P093",
     "en": "The servants quickly scattered to get these items, and she gently laid the unconscious girl on a sofa, tending to her with great skill and care. She called her \"my precious!\" and \"my sweet bird!\" and spread her golden hair over her shoulders with pride and tenderness.",
     "ko": "하인들은 이 물건들을 구하러 재빨리 흩어졌고, 그녀는 의식을 잃은 소녀를 소파에 부드럽게 눕히고는 대단한 솜씨와 정성으로 그녀를 돌보았다. 그녀는 소녀를 \"내 보물!\" 그리고 \"내 예쁜 새!\"라고 부르며 그녀의 금발 머리를 자랑스럽고 다정하게 어깨 너머로 펼쳐 주었다.",
@@ -1704,7 +1744,7 @@
     "raw_ref_id": 235
   },
   {
-    "id": 214,
+    "id": 219,
     "tag": "P094_1",
     "en": "“And you in brown!” she said, turning indignantly to Mr. Lorry; “couldn’t you tell her what you had to tell her without frightening her to death?”",
     "ko": "“그리고 거기 갈색 옷 입은 양반!” 그녀가 로리 씨를 향해 분개하며 돌아섰다. “꼭 애를 놀라 자빠지게 만들어야만 할 말을 전할 수 있었수?”",
@@ -1712,7 +1752,7 @@
     "raw_ref_id": 236
   },
   {
-    "id": 215,
+    "id": 220,
     "tag": "P094_3",
     "en": "Look at her, with her pretty pale face and cold hands.",
     "ko": "이 창백하고 예쁜 얼굴과 차가운 손 좀 보시오.",
@@ -1720,7 +1760,7 @@
     "raw_ref_id": 238
   },
   {
-    "id": 216,
+    "id": 221,
     "tag": "P094_4",
     "en": "Do you call that being a banker?\"",
     "ko": "그러고도 당신이 은행가라고 할 수 있소?\"",
@@ -1728,7 +1768,7 @@
     "raw_ref_id": 239
   },
   {
-    "id": 217,
+    "id": 222,
     "tag": "P095_1",
     "en": "Mr. Lorry was so exceedingly flustered by a question so hard to answer that he could only look on from a distance with much meeker sympathy and humility, while the strong woman—having banished the inn servants under the mysterious threat of “letting them know” a thing or two if they stayed staring—gradually revived her charge step by step and coaxed her to rest her drooping head upon her shoulder.",
     "ko": "로리 씨는 대답하기 몹시 곤란한 질문에 너무나 당황한 나머지, 훨씬 주눅 든 동정과 겸손의 눈길로 멀찍이 떨어져 지켜볼 수밖에 없었다. 그 사이 억척스러운 여인은 멍하니 서서 쳐다보는 여관 하인들에게 계속 버티고 있으면 '맛 좀 보여주겠다'는 모호한 위협을 가해 내쫓고는, 차근차근 단계적으로 아가씨의 정신을 차리게 한 뒤 축 늘어진 그녀의 머리를 자신의 어깨에 기대도록 달랬다.",
@@ -1736,7 +1776,7 @@
     "raw_ref_id": 240
   },
   {
-    "id": 218,
+    "id": 223,
     "tag": "P096_1",
     "en": "“I hope she will do well now,” said Mr. Lorry.",
     "ko": "“이제 괜찮아지길 바랍니다,” 로리 씨가 말했다.",
@@ -1744,7 +1784,7 @@
     "raw_ref_id": 242
   },
   {
-    "id": 219,
+    "id": 224,
     "tag": "P097_1",
     "en": "\"No thanks to you in brown, if she is.",
     "ko": "\"갈색 옷 입은 당신 덕분은 아니지, 혹 괜찮아진다 하더라도.",
@@ -1752,7 +1792,7 @@
     "raw_ref_id": 244
   },
   {
-    "id": 220,
+    "id": 225,
     "tag": "P097_2",
     "en": "My darling girl!\"",
     "ko": "내 사랑스러운 아가씨!\"",
@@ -1760,7 +1800,7 @@
     "raw_ref_id": 245
   },
   {
-    "id": 221,
+    "id": 226,
     "tag": "P098_1",
     "en": "“I hope,” said Mr. Lorry, after another pause of timid sympathy and deference, “that you are accompanying Miss Manette to France?”",
     "ko": "“마네트 양과 함께,” 로리 씨는 멋쩍은 동정과 공손함을 담아 잠시 머뭇거리다가 물었다. “프랑스로 동행해 주시겠지요?”",
@@ -1768,7 +1808,7 @@
     "raw_ref_id": 246
   },
   {
-    "id": 222,
+    "id": 227,
     "tag": "P099",
     "en": "\"As if!\" replied the strong woman. \"If I was ever meant to cross the ocean, do you think God would have had me born on an island?\"",
     "ko": "\"말도 안 돼!\" 힘센 여자가 대답했다. \"내가 만약 바다를 건널 운명이었다면, 신께서 나를 섬에서 태어나게 하셨겠소?\"",
@@ -1776,7 +1816,7 @@
     "raw_ref_id": 248
   },
   {
-    "id": 223,
+    "id": 228,
     "tag": "P100_1",
     "en": "Since this was another question hard to answer, Mr. Jarvis Lorry withdrew to consider it.",
     "ko": "이 역시 대답하기 난처한 질문이었기에, 자비스 로리 씨는 곰곰이 생각해 보려고 물러났다.",

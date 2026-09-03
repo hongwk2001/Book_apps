@@ -122,8 +122,8 @@
   {
     "id": 16,
     "tag": "P011_2",
-    "en": "The doorkeeper will pass the note to Mr. Lorry, and you should make any gesture that will attract Mr.",
-    "ko": "문지기가 로리 씨에게 쪽지를 건넬 테니, 자네는...",
+    "en": "The doorkeeper will pass the note to Mr. Lorry, and you should make any gesture that will attract Mr. Lorry's attention.",
+    "ko": "문지기가 로리 씨에게 쪽지를 건넬 테니, 자네는 로리 씨의 주의를 끌 만한 몸짓을 하게.",
     "is_header": false,
     "raw_ref_id": 20
   },
@@ -458,16 +458,16 @@
   {
     "id": 58,
     "tag": "P035_1",
-    "en": "Mr. Cruncher’s attention was now diverted to the doorkeeper, whom he saw making his way toward Mr.",
-    "ko": "이때 크런처 씨의 주의는 문지기에게로 쏠렸는데, 문지기가...",
+    "en": "Mr. Cruncher’s attention was now diverted to the doorkeeper, whom he saw making his way toward Mr. Lorry.",
+    "ko": "이때 크런처 씨의 주의는 문지기에게로 쏠렸는데, 문지기가 로리 씨를 향해 다가가는 것을 보았기 때문이었다.",
     "is_header": false,
     "raw_ref_id": 66
   },
   {
     "id": 59,
     "tag": "P035_4",
-    "en": "Mr. Lorry sat at a table among the gentlemen in wigs: not far from a wigged gentleman, the prisoner’s counsel, who had a large bundle of papers before him; and nearly opposite another wigged gentleman with his hands in his pockets, whose whole attention, when Mr.",
-    "ko": "로리 씨는 가발을 쓴 신사들 틈에 섞여 테이블에 앉아 있었다. 그의 자리는 앞에 커다란 서류 뭉치를 쌓아둔 가발 쓴 신사인 피고인 측 변호인과 그리 멀지 않았고, 주머니에 두 손을 찔러 넣은 또 다른 가발 쓴 신사의 거의 맞은편이었는데, 크런처 씨가...",
+    "en": "Mr. Lorry sat at a table among the gentlemen in wigs: not far from a wigged gentleman, the prisoner’s counsel, who had a large bundle of papers before him; and nearly opposite another wigged gentleman with his hands in his pockets, whose whole attention, when Mr. Cruncher looked at him, was directed to the ceiling.",
+    "ko": "로리 씨는 가발을 쓴 신사들 틈에 섞여 테이블에 앉아 있었다. 그의 자리는 앞에 커다란 서류 뭉치를 쌓아둔 가발 쓴 신사인 피고인 측 변호인과 그리 멀지 않았고, 주머니에 두 손을 찔러 넣은 또 다른 가발 쓴 신사의 거의 맞은편이었는데, 크런처 씨가 그의 모든 시선은 천장을 향해 있었다.",
     "is_header": false,
     "raw_ref_id": 69
   },
@@ -642,13 +642,21 @@
   {
     "id": 81,
     "tag": "P044_2",
-    "en": "Charles Darnay had pleaded not guilty the day before to a long, repetitive indictment charging him with being a traitor to our king. He was accused of having assisted Louis, the King of France, in his wars against England on several occasions. The charges claimed he did this by traveling back and forth between England and France, revealing to the French king what military forces England was preparing to send to Canada and North America.",
-    "ko": "찰스 다네이는 우리 국왕에 대한 반역자라는 길고 반복적인 기소장에 대해 전날 무죄를 주장한 바 있었다. 그는 프랑스의 루이 국왕이 영국을 상대로 벌인 전쟁을 여러 차례 도왔다는 혐의를 받고 있었다. 기소장에는 그가 영국과 프랑스를 오가며 영국이 캐나다와 북미로 보낼 군사력을 프랑스 국왕에게 누설하는 방식으로 그런 짓을 했다고 적혀 있었다.",
+    "en": "Charles Darnay had pleaded not guilty the day before to a long, repetitive indictment charging him with being a traitor to our king. He was accused of having assisted Louis, the King of France, in his wars against England on several occasions.",
+    "ko": "찰스 다네이는 우리 국왕에 대한 반역자라는 길고 반복적인 기소장에 대해 전날 무죄를 주장한 바 있었다. 그는 프랑스의 루이 국왕이 영국을 상대로 벌인 전쟁을 여러 차례 도왔다는 혐의를 받고 있었다.",
     "is_header": false,
     "raw_ref_id": 95
   },
   {
     "id": 82,
+    "tag": "P044_3",
+    "en": "The charges claimed he did this by traveling back and forth between England and France, revealing to the French king what military forces England was preparing to send to Canada and North America.",
+    "ko": "기소장에는 그가 영국과 프랑스를 오가며 영국이 캐나다와 북미로 보낼 군사력을 프랑스 국왕에게 누설하는 방식으로 그런 짓을 했다고 적혀 있었다.",
+    "is_header": false,
+    "raw_ref_id": 95
+  },
+  {
+    "id": 83,
     "tag": "P044_3",
     "en": "This much Jerry—his hair bristling more and more as the legal terms confused him—figured out with great satisfaction, and so arrived indirectly at the understanding that the aforesaid, and repeatedly aforesaid, Charles Darnay stood before him on trial; that the jury was being sworn in; and that Mr. Attorney-General was preparing to speak.",
     "ko": "법률 용어가 쏟아질 때마다 곤두서듯 머리카락을 빳빳이 세우던 제리는 이만큼을 파악하고는 대단히 만족스러워했고, 그리하여 앞서 언급되었고 수없이 되풀이하여 언급된 찰스 다네이라는 자가 지금 재판을 받기 위해 제 앞에 서 있으며, 배심원들이 선서를 하고 있고, 검찰총장이 변론을 시작하려 준비 중이라는 사실을 돌고 돌아 이해하게 되었다.",
@@ -656,7 +664,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 83,
+    "id": 84,
     "tag": "P045_1",
     "en": "The accused man knew that everyone in the room was already imagining him hanged, beheaded, and quartered. He did not panic. He did not act dramatically.",
     "ko": "피고인은 법정 안의 모든 사람이 이미 그가 교수형에 처해지고 참수당하고 사지가 찢기는 모습을 상상하고 있다는 것을 알고 있었습니다. 그는 당황하지 않았습니다. 그는 극적으로 행동하지도 않았습니다.",
@@ -664,7 +672,7 @@
     "raw_ref_id": 98
   },
   {
-    "id": 84,
+    "id": 85,
     "tag": "P045_2",
     "en": "He was quiet and attentive, watching the start of the trial with serious interest. He stood with his hands resting on the wooden bar in front of him so calmly that he didn't even stir the herbs scattered on it.",
     "ko": "그는 조용하고 주의 깊게, 진지한 관심을 가지고 재판이 시작되는 것을 지켜보았습니다. 그는 자신 앞에 있는 나무 난간에 손을 얹고 너무나 차분하게 서 있어서 그 위에 흩어진 허브조차 흔들리지 않았습니다.",
@@ -672,7 +680,7 @@
     "raw_ref_id": 99
   },
   {
-    "id": 85,
+    "id": 86,
     "tag": "P045_3",
     "en": "The courtroom was covered in herbs and sprinkled with vinegar to protect against the bad air and prison fever.",
     "ko": "법정은 나쁜 공기와 감옥 열병을 막기 위해 허브로 덮여 있었고 식초가 뿌려져 있었습니다.",
@@ -680,7 +688,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 86,
+    "id": 87,
     "tag": "P046_1",
     "en": "Over the prisoner’s head hung a mirror to reflect light down on him.",
     "ko": "죄수의 머리 위에는 그에게 빛을 반사하기 위한 거울이 걸려 있었습니다.",
@@ -688,7 +696,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 87,
+    "id": 88,
     "tag": "P046_2",
     "en": "Over the years, crowds of desperate and criminal people had been reflected in it before leaving both the courtroom and the earth.",
     "ko": "수년 동안, 절망에 빠진 범죄자 무리가 법정과 이 세상을 떠나기 전에 그 거울에 비춰졌습니다.",
@@ -696,7 +704,7 @@
     "raw_ref_id": 102
   },
   {
-    "id": 88,
+    "id": 89,
     "tag": "P046_3",
     "en": "That terrible place would have been haunted indeed if the glass could show all the faces it had once reflected, just as the ocean will one day give up its dead.",
     "ko": "언젠가 바다가 죽은 자들을 내어주듯, 그 거울이 한때 비추었던 모든 얼굴을 보여줄 수 있다면 그 끔찍한 장소는 참으로 유령이 출몰하는 곳이었을 것입니다.",
@@ -704,7 +712,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 89,
+    "id": 90,
     "tag": "P046_4",
     "en": "Perhaps some thought of the disgrace associated with that mirror crossed the prisoner’s mind.",
     "ko": "어쩌면 그 거울과 관련된 불명예에 대한 어떤 생각이 죄수의 마음을 스쳤을지도 모릅니다.",
@@ -712,7 +720,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 90,
+    "id": 91,
     "tag": "P046_5",
     "en": "In any case, as he shifted his position and felt a beam of light hit his face, he looked up. When he saw the mirror, his face flushed, and his right hand pushed the herbs aside.",
     "ko": "어쨌든, 그가 자세를 바꾸고 한 줄기 빛이 자신의 얼굴에 닿는 것을 느꼈을 때, 그는 위를 쳐다보았습니다. 거울을 보았을 때, 그의 얼굴은 붉어졌고 오른손으로 허브를 밀어냈습니다.",
@@ -720,7 +728,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 91,
+    "id": 92,
     "tag": "P047_1",
     "en": "This movement caused him to turn his face to the left side of the court.",
     "ko": "이 움직임으로 인해 그는 법정의 왼쪽으로 얼굴을 돌리게 되었습니다.",
@@ -728,7 +736,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 92,
+    "id": 93,
     "tag": "P047_2",
     "en": "On a level with his eyes, sitting in the corner of the Judge’s bench, were two people who caught his attention immediately. His expression changed so suddenly when he saw them that all eyes in the room followed his gaze.",
     "ko": "그의 눈높이에, 판사석 구석에 앉아 있는 두 사람이 즉시 그의 시선을 끌었습니다. 그들을 보았을 때 그의 표정이 너무나 갑작스럽게 변했기 때문에 방 안의 모든 시선이 그의 시선을 따라갔습니다.",
@@ -736,7 +744,7 @@
     "raw_ref_id": 107
   },
   {
-    "id": 93,
+    "id": 94,
     "tag": "P048_1",
     "en": "The spectators saw a young lady of just over twenty and a gentleman who was clearly her father. He was a man of very striking appearance, with pure white hair and an intense, thoughtful face.",
     "ko": "관중들은 스무 살이 조금 넘은 젊은 숙녀와 그녀의 아버지임이 분명한 한 신사를 보았습니다. 그는 순백의 머리카락과 강렬하고 사색적인 얼굴을 가진, 매우 인상적인 외모의 남자였습니다.",
@@ -744,7 +752,7 @@
     "raw_ref_id": 108
   },
   {
-    "id": 94,
+    "id": 95,
     "tag": "P048_2",
     "en": "When he was lost in thought, he looked quite old; but when he was engaged, as he was now, speaking to his daughter, he became a handsome man who seemed to still be in his prime.",
     "ko": "생각에 잠겨 있을 때 그는 꽤 늙어 보였지만, 지금처럼 딸에게 말을 걸며 몰두하고 있을 때는 여전히 전성기에 있는 듯한 잘생긴 남자가 되었습니다.",
@@ -752,7 +760,7 @@
     "raw_ref_id": 109
   },
   {
-    "id": 95,
+    "id": 96,
     "tag": "P049_1",
     "en": "His daughter sat beside him with one hand resting on his arm and the other pressing against it.",
     "ko": "그의 딸은 한 손은 그의 팔에 얹고 다른 한 손은 그 팔을 꽉 누른 채 그의 곁에 앉아 있었습니다.",
@@ -760,7 +768,7 @@
     "raw_ref_id": 110
   },
   {
-    "id": 96,
+    "id": 97,
     "tag": "P049_2",
     "en": "She had drawn close to him in her fear of the courtroom and her pity for the prisoner.",
     "ko": "그녀는 법정에 대한 두려움과 죄수에 대한 연민 때문에 그에게 바짝 다가가 있었습니다.",
@@ -768,7 +776,7 @@
     "raw_ref_id": 111
   },
   {
-    "id": 97,
+    "id": 98,
     "tag": "P049_3",
     "en": "Her face showed deep terror and compassion, focused entirely on the danger facing the accused man.",
     "ko": "그녀의 얼굴은 깊은 공포와 연민을 보여주었으며, 기소된 남자가 직면한 위험에 온전히 집중하고 있었습니다.",
@@ -776,7 +784,7 @@
     "raw_ref_id": 112
   },
   {
-    "id": 98,
+    "id": 99,
     "tag": "P049_4",
     "en": "This was so clear and natural that even the spectators who felt no pity for him were touched by her expression, and a whisper went around: \"Who are they?\"",
     "ko": "이것은 너무나 명확하고 자연스러워서 죄수에게 연민을 느끼지 않던 관중들조차 그녀의 표정에 감동받았고, 속삭임이 퍼졌습니다. 그들은 누구인가?",
@@ -784,7 +792,7 @@
     "raw_ref_id": 113
   },
   {
-    "id": 99,
+    "id": 100,
     "tag": "P050_1",
     "en": "Jerry the messenger, who had been watching in his own way and sucking the rust off his fingers, stretched his neck to hear the answer.",
     "ko": "자기만의 방식으로 지켜보며 손가락의 녹을 빨아먹고 있던 메신저 제리는 대답을 듣기 위해 목을 길게 뺐습니다.",
@@ -792,7 +800,7 @@
     "raw_ref_id": 114
   },
   {
-    "id": 100,
+    "id": 101,
     "tag": "P050_2",
     "en": "The question was passed through the crowd to the nearest court official and then whispered back until it reached Jerry:",
     "ko": "질문은 군중을 지나 가장 가까운 법원 관리에게 전달되었고, 그런 다음 다시 제리에게 도달할 때까지 속삭임으로 돌아왔습니다.",
@@ -800,7 +808,7 @@
     "raw_ref_id": 115
   },
   {
-    "id": 101,
+    "id": 102,
     "tag": "P051",
     "en": "\"Witnesses.\"",
     "ko": "증인들.",
@@ -808,7 +816,7 @@
     "raw_ref_id": 116
   },
   {
-    "id": 102,
+    "id": 103,
     "tag": "P052",
     "en": "\"For which side?\"",
     "ko": "어느 쪽의?",
@@ -816,7 +824,7 @@
     "raw_ref_id": 117
   },
   {
-    "id": 103,
+    "id": 104,
     "tag": "P053",
     "en": "“Against.” “Against which side?”",
     "ko": "“반대쪽이지.” “어느 쪽 반대 말이요?”",
@@ -824,7 +832,7 @@
     "raw_ref_id": 118
   },
   {
-    "id": 104,
+    "id": 105,
     "tag": "P055",
     "en": "\"Against the prisoner.\"",
     "ko": "죄수를 반대하여.",
@@ -832,7 +840,7 @@
     "raw_ref_id": 120
   },
   {
-    "id": 105,
+    "id": 106,
     "tag": "P056_1",
     "en": "The Judge, whose eyes had wandered in that general direction, recalled them, leaned back in his seat, and looked steadily at the man whose life was in his hands, as Mr. Attorney-General rose to spin the rope, grind the axe, and hammer the nails into the scaffold.",
     "ko": "그쪽 방향으로 눈길을 돌렸던 판사는 시선을 거두어 의자 뒤로 몸을 기대며 자신의 손에 목숨이 달린 남자를 가만히 응시했고, 검찰총장은 밧줄을 꼬고 도끼날을 갈며 단두대에 못을 박듯 일어섰다.",

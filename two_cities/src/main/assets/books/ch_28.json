@@ -306,13 +306,21 @@
   {
     "id": 39,
     "tag": "P021_1",
-    "en": "The men were terrifying in the bloodthirsty anger with which they looked from windows, seized whatever weapons they had, and came pouring down into the streets; but the women were a sight to chill the bravest heart. Leaving behind what little household work their extreme poverty allowed, leaving their children, and leaving their sick and elderly crouching famished and naked on the bare ground, they rushed out with disheveled hair, driving one another and themselves into madness with the wildest cries and actions.",
-    "ko": "창밖을 내다보며 손에 잡히는 무기를 들고 거리로 쏟아져 나오는 남자들의 잔혹한 분노도 끔찍했지만, 여자들의 모습은 가장 용감한 사람의 간담도 서늘하게 할 정도였다. 지독한 빈곤이 허락한 보잘것없는 집안일도 팽개치고, 굶주리고 헐벗은 채 맨땅에 웅크리고 있는 자식들과 노인, 병자들을 뒤로한 채, 여자들은 머리를 풀어헤치고 뛰쳐나와 거친 비명과 광란의 몸짓으로 서로를, 그리고 스스로를 미치도록 부추겼다.",
+    "en": "The men were terrifying in the bloodthirsty anger with which they looked from windows, seized whatever weapons they had, and came pouring down into the streets; but the women were a sight to chill the bravest heart.",
+    "ko": "창밖을 내다보며 손에 잡히는 무기를 들고 거리로 쏟아져 나오는 남자들의 잔혹한 분노도 끔찍했지만, 여자들의 모습은 가장 용감한 사람의 간담도 서늘하게 할 정도였다.",
     "is_header": false,
     "raw_ref_id": 39
   },
   {
     "id": 40,
+    "tag": "P021_2",
+    "en": "Leaving behind what little household work their extreme poverty allowed, leaving their children, and leaving their sick and elderly crouching famished and naked on the bare ground, they rushed out with disheveled hair, driving one another and themselves into madness with the wildest cries and actions.",
+    "ko": "지독한 빈곤이 허락한 보잘것없는 집안일도 팽개치고, 굶주리고 헐벗은 채 맨땅에 웅크리고 있는 자식들과 노인, 병자들을 뒤로한 채, 여자들은 머리를 풀어헤치고 뛰쳐나와 거친 비명과 광란의 몸짓으로 서로를, 그리고 스스로를 미치도록 부추겼다.",
+    "is_header": false,
+    "raw_ref_id": 39
+  },
+  {
+    "id": 41,
     "tag": "P021_3",
     "en": "Leaving their poor chores, their children, and their sick, they ran out with messy hair, screaming and driving one another to madness.",
     "ko": "가난한 집안일과 아이들, 병자들을 남겨둔 채 그들은 산발을 하고 뛰쳐나가 비명을 지르며 서로를 광기로 몰아넣었다.",
@@ -320,7 +328,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 41,
+    "id": 42,
     "tag": "P021_4",
     "en": "\"Foulon is caught, sister!",
     "ko": "\"풀롱이 잡혔어, 자매여!",
@@ -328,7 +336,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 42,
+    "id": 43,
     "tag": "P021_5",
     "en": "Old Foulon is caught, mother!",
     "ko": "늙은 풀롱이 잡혔어요, 어머니!",
@@ -336,7 +344,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 43,
+    "id": 44,
     "tag": "P021_6",
     "en": "Foulon is caught, daughter!\" Others ran into the crowd, screaming: \"Foulon is alive!",
     "ko": "풀롱이 잡혔다, 딸아!\" 다른 사람들은 군중 속으로 달려가며 소리쳤다. \"풀롱이 살아있다!",
@@ -344,7 +352,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 44,
+    "id": 45,
     "tag": "P021_7",
     "en": "Foulon who told the starving people to eat grass!",
     "ko": "굶주린 사람들에게 풀이나 뜯어 먹으라고 했던 풀롱!",
@@ -352,7 +360,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 45,
+    "id": 46,
     "tag": "P021_8",
     "en": "Foulon who told my old father to eat grass when I had no bread!",
     "ko": "내게 빵이 없을 때 내 늙은 아버지에게 풀을 먹으라고 했던 풀롱!",
@@ -360,7 +368,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 46,
+    "id": 47,
     "tag": "P021_9",
     "en": "Foulon who told my baby to suck grass when my breasts were dry!",
     "ko": "내 젖이 말랐을 때 내 아기에게 풀이나 빨라고 했던 풀롱!",
@@ -368,7 +376,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 47,
+    "id": 48,
     "tag": "P021_10",
     "en": "I swear on my knees to avenge you on Foulon!",
     "ko": "무릎을 꿇고 맹세컨대 풀롱에게 복수하겠어!",
@@ -376,7 +384,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 48,
+    "id": 49,
     "tag": "P021_11",
     "en": "Hear me, my dead baby and my frail father: I swear on my knees, upon these very stones, to avenge you by punishing Foulon!",
     "ko": "내 죽은 아기와 연약한 아버지여, 내 말을 들으소서. 내가 이 돌 위에 무릎을 꿇고 맹세컨대, 풀롱을 벌하여 당신들의 복수를 하겠나이다!",
@@ -384,15 +392,23 @@
     "raw_ref_id": 49
   },
   {
-    "id": 49,
-    "tag": "P021_12",
-    "en": "Husbands, brothers, and young men, give us the blood of Foulon, give us the head of Foulon, give us the heart of Foulon, give us the body and soul of Foulon! Tear Foulon to pieces, and bury him in the ground so that grass can grow from him! Shouting these cries, many of the women were driven into a blind frenzy. They spun around, striking and scratching at their own friends until they collapsed in an exhausted faint, only saved from being trampled by the men who cared for them.",
-    "ko": "남편, 형제, 청년들이여, 풀롱의 피를 우리에게 주오, 풀롱의 머리를 우리에게 주오, 풀롱의 심장을 우리에게 주오, 풀롱의 몸과 영혼을 우리에게 주오! 풀롱을 갈기갈기 찢어 땅에 묻어 그에게서 풀이 자라게 하라! 이 외침을 지르며 많은 여성들이 맹목적인 광란에 빠져들었다. 그들은 빙빙 돌며 친구들을 때리고 할퀴다가 지쳐 쓰러졌고, 그들을 돌보는 남자들 덕분에 짓밟히는 것을 간신히 면했다.",
+    "id": 50,
+    "tag": "P021_1",
+    "en": "Husbands, brothers, and young men, give us the blood of Foulon, give us the head of Foulon, give us the heart of Foulon, give us the body and soul of Foulon! Tear Foulon to pieces, and bury him in the ground so that grass can grow from him!",
+    "ko": "남편, 형제, 청년들이여, 풀롱의 피를 우리에게 주오, 풀롱의 머리를 우리에게 주오, 풀롱의 심장을 우리에게 주오, 풀롱의 몸과 영혼을 우리에게 주오! 풀롱을 갈기갈기 찢어 땅에 묻어 그에게서 풀이 자라게 하라!",
     "is_header": false,
     "raw_ref_id": 50
   },
   {
-    "id": 50,
+    "id": 51,
+    "tag": "P021_2",
+    "en": "Shouting these cries, many of the women were driven into a blind frenzy. They spun around, striking and scratching at their own friends until they collapsed in an exhausted faint, only saved from being trampled by the men who cared for them.",
+    "ko": "이 외침을 지르며 많은 여성들이 맹목적인 광란에 빠져들었다. 그들은 빙빙 돌며 친구들을 때리고 할퀴다가 지쳐 쓰러졌고, 그들을 돌보는 남자들 덕분에 짓밟히는 것을 간신히 면했다.",
+    "is_header": false,
+    "raw_ref_id": 50
+  },
+  {
+    "id": 52,
     "tag": "P022_1",
     "en": "Nevertheless, not a single moment was lost!",
     "ko": "그럼에도 불구하고 단 한 순간도 지체되지 않았다!",
@@ -400,7 +416,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 51,
+    "id": 53,
     "tag": "P022_2",
     "en": "Foulon was at the City Hall and might be released.",
     "ko": "풀롱은 시청에 있었고 풀려날지도 모르는 상황이었다.",
@@ -408,7 +424,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 52,
+    "id": 54,
     "tag": "P022_3",
     "en": "Never, if Saint Antoine could help it!",
     "ko": "생탕투안이 막을 수 있다면 절대 그럴 일은 없을 것이다!",
@@ -416,7 +432,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 53,
+    "id": 55,
     "tag": "P022_4",
     "en": "Armed men and women poured out of the neighborhood so fast, pulling even the stragglers along with such force, that within fifteen minutes, there wasn't a single person left in the heart of Saint Antoine except for a few old women and crying children.",
     "ko": "무장한 남녀들이 순식간에 동네에서 쏟아져 나와 뒤처진 사람들마저 맹렬한 기세로 끌어당겼고, 15분 만에 몇몇 노파와 우는 아이들을 제외하고는 생탕투안 중심부에 단 한 사람도 남지 않게 되었다.",
@@ -424,7 +440,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 54,
+    "id": 56,
     "tag": "P023_1",
     "en": "The crowd packed the examination room where the wicked old man was held, overflowing into the streets.",
     "ko": "사악한 노인이 갇혀 있는 취조실은 군중으로 가득 찼고, 거리에까지 넘쳐났다.",
@@ -432,7 +448,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 55,
+    "id": 57,
     "tag": "P023_2",
     "en": "The Defarges, The Vengeance, and Jacques Three were in the front of the crowd, close to him.",
     "ko": "드파르지 부부, 복수의 여신, 그리고 자크 3세는 군중의 맨 앞에 서서 그와 가까이 있었다.",
@@ -440,7 +456,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 56,
+    "id": 58,
     "tag": "P024_1",
     "en": "\"Look!\" cried Madame, pointing with her knife. \"Look at the old villain tied up with ropes.\"",
     "ko": "\"보라!\" 부인이 칼을 가리키며 외쳤다. \"밧줄로 묶여 있는 늙은 악당을 보라.\"",
@@ -448,7 +464,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 57,
+    "id": 59,
     "tag": "P024_2",
     "en": "\"See the old villain tied with ropes.",
     "ko": "\"밧줄에 묶인 늙은 악당을 보라.",
@@ -456,7 +472,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 58,
+    "id": 60,
     "tag": "P024_3",
     "en": "They tied a bunch of grass to his back!",
     "ko": "그의 등에 풀다발을 묶었구나!",
@@ -464,7 +480,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 59,
+    "id": 61,
     "tag": "P024_4",
     "en": "That was well done.",
     "ko": "참 잘한 일이다.",
@@ -472,7 +488,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 60,
+    "id": 62,
     "tag": "P024_5",
     "en": "Let him eat it now!\" Madame put her knife under her arm and clapped her hands as if watching a play.",
     "ko": "이제 그가 그것을 먹게 하라!\" 부인은 마치 연극을 보듯 팔 아래에 칼을 끼고 손뼉을 쳤다.",
@@ -480,7 +496,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 61,
+    "id": 63,
     "tag": "P025_1",
     "en": "The people behind her explained her reaction to those behind them, and soon the streets clapped in response.",
     "ko": "그녀 뒤에 있던 사람들은 그녀의 반응을 더 뒤에 있는 사람들에게 설명했고, 이내 거리의 사람들도 이에 호응하며 박수를 쳤다.",
@@ -488,15 +504,23 @@
     "raw_ref_id": 62
   },
   {
-    "id": 62,
+    "id": 64,
     "tag": "P025_2",
-    "en": "Similarly, during two or three hours of slow talking and sifting through countless words, Madame Defarge's frequent shows of impatience were picked up surprisingly quickly by people far away. This happened easily because certain men had agilely climbed the outside of the building to look in through the windows. These men knew Madame Defarge well and acted as a living telegraph, passing her signals to the crowd outside.",
-    "ko": "마찬가지로, 두세 시간 동안 느릿한 대화가 이어지고 무수한 말들이 오가는 동안, 마담 드파르지가 자주 보이는 조바심은 멀리 있는 사람들에게 놀라울 정도로 빨리 전해졌다. 어떤 남자들이 창문 안을 들여다보기 위해 날렵하게 건물 밖으로 기어올라갔기 때문에 이런 일이 쉽게 일어날 수 있었다. 이 남자들은 마담 드파르지를 잘 알고 있었고 살아있는 전신기 역할을 하며 군중 밖으로 그녀의 신호를 전달했다.",
+    "en": "Similarly, during two or three hours of slow talking and sifting through countless words, Madame Defarge's frequent shows of impatience were picked up surprisingly quickly by people far away.",
+    "ko": "마찬가지로, 두세 시간 동안 느릿한 대화가 이어지고 무수한 말들이 오가는 동안, 마담 드파르지가 자주 보이는 조바심은 멀리 있는 사람들에게 놀라울 정도로 빨리 전해졌다.",
     "is_header": false,
     "raw_ref_id": 63
   },
   {
-    "id": 63,
+    "id": 65,
+    "tag": "P025_3",
+    "en": "This happened easily because certain men had agilely climbed the outside of the building to look in through the windows. These men knew Madame Defarge well and acted as a living telegraph, passing her signals to the crowd outside.",
+    "ko": "어떤 남자들이 창문 안을 들여다보기 위해 날렵하게 건물 밖으로 기어올라갔기 때문에 이런 일이 쉽게 일어날 수 있었다. 이 남자들은 마담 드파르지를 잘 알고 있었고 살아있는 전신기 역할을 하며 군중 밖으로 그녀의 신호를 전달했다.",
+    "is_header": false,
+    "raw_ref_id": 63
+  },
+  {
+    "id": 66,
     "tag": "P026_1",
     "en": "Finally, the sun rose high enough that it shone a gentle ray directly down onto the old prisoner's head, like a symbol of hope or protection.",
     "ko": "마침내 태양이 높이 떠올라 희망이나 보호의 상징처럼 늙은 죄수의 머리 위로 직접 부드러운 빛을 비추었다.",
@@ -504,7 +528,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 64,
+    "id": 67,
     "tag": "P026_2",
     "en": "The crowd could wait no longer. In an instant, the guards were pushed aside, and Saint Antoine grabbed him!",
     "ko": "군중은 더 이상 기다릴 수 없었다. 순식간에 경비병들은 밀려났고, 생탕투안이 그를 낚아챘다!",
@@ -512,7 +536,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 65,
+    "id": 68,
     "tag": "P027_1",
     "en": "The news was instantly known all the way to the very edges of the crowd.",
     "ko": "그 소식은 즉시 군중의 가장자리까지 전해졌다.",
@@ -520,15 +544,23 @@
     "raw_ref_id": 66
   },
   {
-    "id": 66,
+    "id": 69,
     "tag": "P027_2",
-    "en": "Defarge had just jumped over a railing and a table to grab the miserable wretch in a deadly hug. Madame Defarge had just followed and twisted her hand into one of the ropes tying him. The Vengeance and Jacques Three hadn't even reached them yet, and the men at the windows hadn't yet swooped into the Hall like birds of prey from their high perches, when the cry seemed to echo all over the city: \"Bring him out!\"",
-    "ko": "드파르지가 난간과 탁자를 뛰어넘어 비참한 악당을 치명적인 포옹으로 붙잡은 참이었다. 마담 드파르지는 뒤따라와 그를 묶고 있는 밧줄 중 하나에 손을 비틀어 넣었다. 복수의 여신과 자크 3세는 아직 그들에게 도달하지도 않았고, 창문에 있던 남자들도 높은 자리에서 맹금류처럼 홀로 아직 날아들기 전이었는데, 도시 전체에 메아리치는 듯한 외침이 들렸다. \"그를 끌어내라!\"",
+    "en": "Defarge had just jumped over a railing and a table to grab the miserable wretch in a deadly hug. Madame Defarge had just followed and twisted her hand into one of the ropes tying him.",
+    "ko": "드파르지가 난간과 탁자를 뛰어넘어 비참한 악당을 치명적인 포옹으로 붙잡은 참이었다. 마담 드파르지는 뒤따라와 그를 묶고 있는 밧줄 중 하나에 손을 비틀어 넣었다.",
     "is_header": false,
     "raw_ref_id": 67
   },
   {
-    "id": 67,
+    "id": 70,
+    "tag": "P027_3",
+    "en": "The Vengeance and Jacques Three hadn't even reached them yet, and the men at the windows hadn't yet swooped into the Hall like birds of prey from their high perches, when the cry seemed to echo all over the city: \"Bring him out!\"",
+    "ko": "복수의 여신과 자크 3세는 아직 그들에게 도달하지도 않았고, 창문에 있던 남자들도 높은 자리에서 맹금류처럼 홀로 아직 날아들기 전이었는데, 도시 전체에 메아리치는 듯한 외침이 들렸다. \"그를 끌어내라!\"",
+    "is_header": false,
+    "raw_ref_id": 67
+  },
+  {
+    "id": 71,
     "tag": "P027_3",
     "en": "To the lamp post!\"",
     "ko": "가로등 기둥으로!\"",
@@ -536,15 +568,23 @@
     "raw_ref_id": 68
   },
   {
-    "id": 68,
+    "id": 72,
     "tag": "P028_1",
-    "en": "Dragged up and down the steps, now on his knees, now on his back, beaten and choked with grass and straw stuffed into his face, the old man begged for mercy. The crowd drew back to watch him struggle. They dragged him to the nearest street corner where a lamp post hung. Madame Defarge let him go like a cat releasing a mouse, watching quietly while they prepared the rope, as he begged her for help. The women screamed at him, and the men called for him to be hanged with grass in his mouth.",
-    "ko": "계단을 오르내리며 끌려다니고, 때로는 무릎을 꿇거나 등에 업힌 채, 맞고 얼굴에 쑤셔 넣어진 풀과 짚으로 숨이 막혀 늙은이는 자비를 구걸했다. 군중은 그가 발버둥 치는 것을 보려고 뒤로 물러섰다. 그들은 가로등 기둥이 매달려 있는 가장 가까운 길모퉁이로 그를 끌고 갔다. 마담 드파르지는 고양이가 쥐를 놓아주듯 그를 풀어주었고, 그가 도와달라고 애원하는 동안 그들이 밧줄을 준비하는 것을 조용히 지켜보았다. 여자들은 그에게 소리를 질렀고, 남자들은 입에 풀을 물린 채 그를 교수형에 처하라고 외쳤다.",
+    "en": "Dragged up and down the steps, now on his knees, now on his back, beaten and choked with grass and straw stuffed into his face, the old man begged for mercy. The crowd drew back to watch him struggle.",
+    "ko": "계단을 오르내리며 끌려다니고, 때로는 무릎을 꿇거나 등에 업힌 채, 맞고 얼굴에 쑤셔 넣어진 풀과 짚으로 숨이 막혀 늙은이는 자비를 구걸했다. 군중은 그가 발버둥 치는 것을 보려고 뒤로 물러섰다.",
     "is_header": false,
     "raw_ref_id": 69
   },
   {
-    "id": 69,
+    "id": 73,
+    "tag": "P028_2",
+    "en": "They dragged him to the nearest street corner where a lamp post hung. Madame Defarge let him go like a cat releasing a mouse, watching quietly while they prepared the rope, as he begged her for help. The women screamed at him, and the men called for him to be hanged with grass in his mouth.",
+    "ko": "그들은 가로등 기둥이 매달려 있는 가장 가까운 길모퉁이로 그를 끌고 갔다. 마담 드파르지는 고양이가 쥐를 놓아주듯 그를 풀어주었고, 그가 도와달라고 애원하는 동안 그들이 밧줄을 준비하는 것을 조용히 지켜보았다. 여자들은 그에게 소리를 질렀고, 남자들은 입에 풀을 물린 채 그를 교수형에 처하라고 외쳤다.",
+    "is_header": false,
+    "raw_ref_id": 69
+  },
+  {
+    "id": 74,
     "tag": "P028_2",
     "en": "Twice they hoisted him up, and twice the rope broke, dropping him screaming to the ground. The third time, the rope held him, and his head was soon placed on a pike with grass stuffed in his mouth, while Saint Antoine danced around it.",
     "ko": "두 번이나 그를 끌어올렸지만 밧줄이 두 번이나 끊어져 비명을 지르며 바닥으로 떨어졌다. 세 번째에는 밧줄이 그를 붙잡았고, 그의 머리는 곧 입에 풀이 쑤셔 박힌 채 창에 꽂혔으며, 그 동안 생탕투안은 그 주위를 돌며 춤을 추었다.",
@@ -552,7 +592,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 70,
+    "id": 75,
     "tag": "P029_1",
     "en": "This was not the end of the day's violence. The crowd danced until they heard that Foulon's son-in-law, another enemy of the people, was being brought to Paris under a guard of five hundred cavalry.",
     "ko": "이것이 그날 일어난 폭력의 끝이 아니었다. 군중은 인민의 또 다른 적인 풀롱의 사위가 500명의 기병대 호위를 받으며 파리로 이송되고 있다는 소식을 들을 때까지 춤을 추었다.",
@@ -560,7 +600,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 71,
+    "id": 76,
     "tag": "P029_2",
     "en": "The mob wrote his crimes on paper, seized him from the soldiers, cut off his head and heart, and carried the three bloody trophies on pikes through the streets.",
     "ko": "폭도들은 그의 범죄를 종이에 적고, 병사들에게서 그를 빼앗아 그의 머리와 심장을 베어내고, 그 세 개의 피투성이 전리품을 창에 꽂아 거리를 행진했다.",
@@ -568,7 +608,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 72,
+    "id": 77,
     "tag": "P030_1",
     "en": "Only at dark did the men and women return to their hungry children.",
     "ko": "어두워져서야 남녀들은 굶주린 아이들에게 돌아갔다.",
@@ -576,7 +616,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 73,
+    "id": 78,
     "tag": "P030_2",
     "en": "They stood in long lines at the bakeries to buy bad bread. As they waited with empty stomachs, they comforted themselves by talking about the day's triumphs.",
     "ko": "그들은 형편없는 빵을 사기 위해 빵집에 긴 줄을 섰다. 빈속으로 기다리면서, 그들은 그날의 승리에 대해 이야기하며 스스로를 위로했다.",
@@ -584,7 +624,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 74,
+    "id": 79,
     "tag": "P030_3",
     "en": "Gradually, the lines disappeared, and small fires were lit in the streets where neighbors cooked and ate together at their doors.",
     "ko": "점차 줄이 사라졌고, 거리에는 이웃들이 집 문 앞에서 함께 요리하고 식사할 작은 불이 피워졌다.",
@@ -592,7 +632,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 75,
+    "id": 80,
     "tag": "P031_1",
     "en": "It was a poor supper with no meat, but sharing it brought some comfort and cheer.",
     "ko": "고기 없는 형편없는 저녁 식사였지만, 그것을 함께 나누는 것은 약간의 위로와 기쁨을 주었다.",
@@ -600,7 +640,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 76,
+    "id": 81,
     "tag": "P031_2",
     "en": "Still, human companionship brought a little comfort to their hard, stale food and sparked some cheerfulness among them. Fathers and mothers who had endured the absolute worst of the day played gently with their skinny children; and lovers, despite the harsh world around them and ahead of them, continued to love and hope.",
     "ko": "그래도 사람 간의 교감은 딱딱하고 굳은 음식에 약간의 위안을 주고 그들 사이에 어느 정도 명랑함을 불러일으켰다. 그날의 최악을 견뎌낸 아버지와 어머니들은 마른 아이들과 부드럽게 놀아 주었고, 연인들은 주변과 앞에 놓인 가혹한 세상에도 불구하고 계속해서 사랑하고 희망을 품었다.",
@@ -608,7 +648,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 77,
+    "id": 82,
     "tag": "P032",
     "en": "It was almost morning when the last customers left Defarge’s shop. Monsieur Defarge closed the door and said quietly to his wife:",
     "ko": "드파르지의 가게에서 마지막 손님이 떠났을 때는 거의 아침이었다. 드파르지 씨는 문을 닫고 아내에게 조용히 말했다.",
@@ -616,7 +656,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 78,
+    "id": 83,
     "tag": "P033",
     "en": "\"At last it is here, my dear!\"",
     "ko": "\"드디어 그 날이 왔소, 여보!\"",
@@ -624,7 +664,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 79,
+    "id": 84,
     "tag": "P034",
     "en": "\"Well then!\" Madame replied. \"Almost.\" Saint Antoine slept, the Defarges slept: even The Vengeance slept beside her starved grocer, and the drum was at rest.",
     "ko": "\"그렇지!\" 마담이 대답했다. \"거의 다 됐어.\" 생탕투안은 잠들었고, 드파르주 부부도 잠들었다. 심지어 '복수' 여인도 굶주린 식료품점 주인 남편 곁에서 잠들었으며, 북소리도 멎었다.",
@@ -632,7 +672,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 80,
+    "id": 85,
     "tag": "P035_3",
     "en": "The Vengeance, as the keeper of the drum, could have easily woken him up and gotten the same response from him as she did before the Bastille fell or old Foulon was captured; but the harsh, raspy voices of the men and women in the heart of Saint Antoine could no longer be quieted so easily.",
     "ko": "북의 수호자인 복수의 여신은 바스티유가 무너지거나 늙은 풀롱이 잡히기 전과 마찬가지로 쉽게 북을 쳐서 그와 똑같은 반응을 이끌어 낼 수 있었지만, 생탕투안 중심부의 남녀들이 내는 거칠고 귀에 거슬리는 목소리는 더 이상 그렇게 쉽게 잠잠해지지 않았다.",

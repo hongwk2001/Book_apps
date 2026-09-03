@@ -48,10 +48,10 @@ class ReaderViewModel(
         override fun onReceive(context: Context?, intent: Intent?) {
             when (intent?.action) {
                 "com.tkprof.shared.TTS_PLAY" -> {
-                    if (!ttsManager.isSpeaking.value) playOrPause()
+                    if (!isPlaying.value) playOrPause()
                 }
                 "com.tkprof.shared.TTS_PAUSE" -> {
-                    if (ttsManager.isSpeaking.value) playOrPause()
+                    if (isPlaying.value) playOrPause()
                 }
                 "com.tkprof.shared.TTS_NEXT" -> {
                     nextSentence()
@@ -81,6 +81,10 @@ class ReaderViewModel(
         super.onCleared()
         try {
             getApplication<Application>().unregisterReceiver(ttsReceiver)
+            val stopIntent = Intent(getApplication(), TtsPlaybackService::class.java).apply {
+                action = "STOP_SERVICE"
+            }
+            getApplication<Application>().startService(stopIntent)
         } catch (e: Exception) {}
         ttsManager.shutdown()
         billingManager.disconnect()
@@ -97,6 +101,10 @@ class ReaderViewModel(
     val totalChapters: StateFlow<Int> = _totalChapters
 
     val isFullUnlocked: StateFlow<Boolean> = billingManager.isFullUnlocked
+    
+    private val _isPlaying = MutableStateFlow(false)
+    val isPlaying: StateFlow<Boolean> = _isPlaying
+
     val isSpeaking: StateFlow<Boolean> = ttsManager.isSpeaking
 
     
@@ -106,8 +114,10 @@ class ReaderViewModel(
     private val audioFocusChangeListener = AudioManager.OnAudioFocusChangeListener { focusChange ->
         when (focusChange) {
             AudioManager.AUDIOFOCUS_LOSS, AudioManager.AUDIOFOCUS_LOSS_TRANSIENT -> {
-                if (isSpeaking.value) {
+                hasAudioFocus = false
+                if (isPlaying.value) {
                     wasPlayingBeforeFocusLoss = true
+                    _isPlaying.value = false
                     ttsManager.stop()
                 }
             }
@@ -120,12 +130,16 @@ class ReaderViewModel(
         }
     }
 
+    private var hasAudioFocus = false
+    private var focusRequestObj: Any? = null
+
     private fun requestAudioFocus(): Boolean {
+        if (hasAudioFocus) return true
         val result = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            val focusRequest = AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+            val request = (focusRequestObj as? android.media.AudioFocusRequest) ?: android.media.AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
                 .setOnAudioFocusChangeListener(audioFocusChangeListener)
-                .build()
-            audioManager.requestAudioFocus(focusRequest)
+                .build().also { focusRequestObj = it }
+            audioManager.requestAudioFocus(request)
         } else {
             @Suppress("DEPRECATION")
             audioManager.requestAudioFocus(
@@ -134,7 +148,8 @@ class ReaderViewModel(
                 AudioManager.AUDIOFOCUS_GAIN
             )
         }
-        return result == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        hasAudioFocus = result == AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        return hasAudioFocus
     }
 
     private val _speakingParagraphIndex = MutableStateFlow(-1)
@@ -166,18 +181,25 @@ class ReaderViewModel(
             _totalChapters.value = titles.size
         }
         
-        // Listen to TTS state to update the foreground service
+        // Immediately start TtsPlaybackService on ViewModel init so MediaSession is active right from the start
+        try {
+            val initialIntent = Intent(application, TtsPlaybackService::class.java).apply {
+                putExtra("BOOK_TITLE", bookConfig.titleEn)
+                putExtra("IS_PLAYING", false)
+            }
+            ContextCompat.startForegroundService(application, initialIntent)
+        } catch (e: Exception) {}
+
+        // Listen to playback state to update the foreground service
         viewModelScope.launch {
-            var hasStartedPlaying = false
-            isSpeaking.collect { speaking ->
-                if (speaking) hasStartedPlaying = true
-                if (hasStartedPlaying) {
-                    val intent = Intent(application, TtsPlaybackService::class.java).apply {
-                        putExtra("BOOK_TITLE", bookConfig.titleEn)
-                        putExtra("IS_PLAYING", speaking)
-                    }
-                    ContextCompat.startForegroundService(application, intent)
+            isPlaying.collect { playing ->
+                val intent = Intent(application, TtsPlaybackService::class.java).apply {
+                    putExtra("BOOK_TITLE", bookConfig.titleEn)
+                    putExtra("IS_PLAYING", playing)
                 }
+                try {
+                    ContextCompat.startForegroundService(application, intent)
+                } catch (e: Exception) {}
             }
         }
         
@@ -299,10 +321,11 @@ class ReaderViewModel(
     }
 
     fun playOrPause() {
-        if (isSpeaking.value) {
+        if (isPlaying.value) {
             wasPlayingBeforeFocusLoss = false
+            _isPlaying.value = false
             ttsManager.stop()
-            _speakingSentenceId.value = null
+            sendSetPlaying(false)
         } else {
             if (currentQueueIndex == -1 && sentenceQueue.isNotEmpty()) {
                 currentQueueIndex = 0
@@ -311,6 +334,15 @@ class ReaderViewModel(
                 playCurrentSequence()
             }
         }
+    }
+
+    /** Explicitly update the MediaSession PlaybackState — called only on user play/pause, not per-sentence */
+    private fun sendSetPlaying(playing: Boolean) {
+        val intent = Intent(getApplication<android.app.Application>(), com.tkprof.shared.tts.TtsPlaybackService::class.java).apply {
+            action = "SET_PLAYING"
+            putExtra("IS_PLAYING", playing)
+        }
+        ContextCompat.startForegroundService(getApplication(), intent)
     }
 
     fun nextSentence() {
@@ -380,6 +412,7 @@ class ReaderViewModel(
             }
             _speakingSentenceId.value = null
             _speakingParagraphIndex.value = -1
+            _isPlaying.value = false
             return
         }
         
@@ -394,6 +427,11 @@ class ReaderViewModel(
         _speakingSentenceId.value = s.id
         
         if (!play) return
+        
+        if (!_isPlaying.value) {
+            _isPlaying.value = true
+            sendSetPlaying(true)
+        }
         
         // Check if we should read this language
         val shouldRead = when (s.lang) {
@@ -422,10 +460,6 @@ class ReaderViewModel(
 
     fun stopSpeaking() {
         wasPlayingBeforeFocusLoss = false
-        if (Build.VERSION.SDK_INT < Build.VERSION_CODES.O) {
-            @Suppress("DEPRECATION")
-            audioManager.abandonAudioFocus(audioFocusChangeListener)
-        }
         ttsManager.stop()
 
         _speakingSentenceId.value = null

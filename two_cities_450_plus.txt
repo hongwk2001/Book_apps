@@ -1,0 +1,16 @@
+[1] ch_34.json ID 42 (Tag: P012_2) - 487 chars, EN=1 sent, KO=2 sent
+EN: A revolutionary tribunal in the capital, and forty or fifty thousand revolutionary committees all over the land; a law of the Suspected, which struck away all security for liberty or life, and delivered over any good and innocent person to any bad and guilty one; prisons gorged with people who had committed no offence, and could obtain no hearing; these things became the established order and nature of appointed things, and seemed to be ancient usage before they were many weeks old.
+KO: 수도의 혁명재판소와 전국 각지의 사오만 개에 달하는 혁명위원회, 자유와 생명에 대한 모든 안전장치를 박탈하고 선량하고 무고한 사람을 악하고 죄 있는 자의 손에 넘겨버린 용의자법, 아무런 죄도 짓지 않고 재판조차 받지 못하는 사람들로 가득 찬 감옥들. 이러한 것들이 정해진 일상의 질서이자 본질이 되었고, 불과 몇 주가 지나기도 전에 아주 오래된 관습처럼 여겨졌다.
+
+[2] ch_12.json ID 31 (Tag: P016_3) - 475 chars, EN=1 sent, KO=1 sent
+EN: The arrangement of everything in the rooms, from the largest object to the smallest; the harmony of colors, the elegant variety and contrast achieved through thrift in small things, delicate hands, clear eyes, and good sense—were both so delightful in themselves and so expressive of their creator that, as Mr. Lorry stood looking around, the very chairs and tables seemed to ask him, with something of that distinctive expression he knew so well by now, whether he approved.
+KO: 가장 큰 물건부터 가장 작은 것에 이르기까지 방 안의 모든 배치는 물론이고, 색상의 조화, 그리고 섬세한 손길과 맑은 눈, 훌륭한 감각으로 자잘한 것들을 알뜰하게 꾸며 얻어낸 우아한 다양성과 대비는 그 자체로 매우 유쾌했을 뿐 아니라 그것을 꾸민 사람의 모습을 고스란히 담아내고 있어서, 로리 씨가 서서 주위를 둘러볼 때 의자와 탁자들조차도 그가 이제는 아주 잘 알고 있는 특유의 표정으로 마음에 드느냐고 묻는 듯했다.
+
+[3] ch_31.json ID 174 (Tag: P097_1) - 475 chars, EN=1 sent, KO=1 sent
+EN: The jailer standing beside him and the other jailers moving about, who would have looked normal enough while performing their ordinary duties, appeared outrageously coarse compared to the grieving mothers and blooming daughters who were there—to the ghostly figures of the flirt, the young beauty, and the delicately raised mature woman—so much so that the total reversal of all normal experience and expectation presented by this shadowy scene was heightened to the extreme.
+KO: 그의 곁에 서 있는 간수와 주위를 돌아다니는 다른 간수들은 평상시의 직무를 수행할 때라면 겉모습이 그럭저럭 무난해 보였겠지만, 그곳에 있는 슬픔에 잠긴 어머니들과 피어나는 딸들—교태를 부리는 여인, 젊은 미녀, 그리고 고상하게 자란 원숙한 여인의 유령 같은 모습들—과 대조되어 터무니없이 거칠어 보였기에, 그림자 같은 그 광경이 보여 주는 온갖 경험과 상식의 전도는 극에 달해 있었다.
+
+[4] ch_32.json ID 13 (Tag: P005_1) - 467 chars, EN=1 sent, KO=1 sent
+EN: How much money would henceforth be withdrawn from Tellson’s, and how much would lie there, lost and forgotten; what silver plate and jewels would tarnish in Tellson’s vaults while the depositors languished in prison or violently perished; how many accounts with Tellson’s, never to be settled in this world, would have to be carried over into the next—no man could have said that night, any more than Mr. Jarvis Lorry could, though he pondered these questions deeply.
+KO: 앞으로 텔슨 은행에서 얼마나 많은 돈이 인출될지, 그리고 얼마나 많은 돈이 잊힌 채 그곳에 방치되어 있을지, 예금주들이 감옥에서 썩어가거나 비참하게 목숨을 잃는 동안 얼마나 많은 은식기와 보석이 텔슨 은행의 비밀 금고 속에서 빛을 잃어갈지, 이 세상에서는 결코 정산되지 못하고 저세상으로 넘어가야 할 텔슨 은행의 계좌가 얼마나 많을지, 그날 밤 자비스 로리 씨가 이 문제들에 대해 깊은 생각에 잠겨 있었지만, 그 누구도 답을 내릴 수 없었다.
+

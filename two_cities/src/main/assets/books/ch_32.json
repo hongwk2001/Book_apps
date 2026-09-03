@@ -2,7 +2,7 @@
   {
     "id": 1,
     "tag": "P001",
-    "en": "[Chapter 2]",
+    "en": "[Chapter 2] The Grindstone",
     "ko": "",
     "is_header": true,
     "raw_ref_id": 1
@@ -10,8 +10,8 @@
   {
     "id": 2,
     "tag": "P002_1",
-    "en": "The Grindstone Tellson’s Bank in Paris was located in a wing of a large house, accessible through a courtyard and shut off from the street by a high wall and a strong gate.",
-    "ko": "숫돌 파리에 있는 텔슨 은행은 큰 집의 한쪽 부속 건물에 위치해 있었고, 안뜰을 통해 접근할 수 있었으며 높은 벽과 튼튼한 문으로 거리와 차단되어 있었다.",
+    "en": "Tellson’s Bank in Paris was located in a wing of a large house, accessible through a courtyard and shut off from the street by a high wall and a strong gate.",
+    "ko": "파리에 있는 텔슨 은행은 큰 집의 한쪽 부속 건물에 위치해 있었고, 안뜰을 통해 접근할 수 있었으며 높은 벽과 튼튼한 문으로 거리와 차단되어 있었다.",
     "is_header": false,
     "raw_ref_id": 2
   },

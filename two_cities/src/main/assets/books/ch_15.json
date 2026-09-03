@@ -1482,13 +1482,21 @@
   {
     "id": 186,
     "tag": "P107_2",
-    "en": "First, the morning sun shone red on the boar spears and hunting knives, just as it had in the old days; then, doors and windows were thrown open, horses in their stables looked back over their shoulders at the light and fresh air pouring in, leaves sparkled and rustled at iron-grated windows, and dogs pulled hard at their chains, jumping impatiently to be let loose.",
-    "ko": "먼저, 옛날과 다름없이 아침 해가 멧돼지 창과 사냥용 칼 위로 붉게 비췄다. 그런 다음 문과 창문이 활짝 열렸고, 마구간의 말들은 쏟아져 들어오는 빛과 신선한 공기를 어깨 너머로 돌아보았으며, 쇠창살 창문에서는 나뭇잎이 반짝이며 바스락거렸고, 개들은 사슬을 세게 당기며 풀려나기를 초조하게 기다리며 펄쩍펄쩍 뛰었다.",
+    "en": "First, the morning sun shone red on the boar spears and hunting knives, just as it had in the old days.",
+    "ko": "먼저, 옛날과 다름없이 아침 해가 멧돼지 창과 사냥용 칼 위로 붉게 비쳤다.",
     "is_header": false,
     "raw_ref_id": 186
   },
   {
     "id": 187,
+    "tag": "P107_3",
+    "en": "Then, doors and windows were thrown open, horses in their stables looked back at the light pouring in, leaves sparkled at iron-grated windows, and dogs pulled hard at their chains, jumping impatiently to be let loose.",
+    "ko": "그런 다음 문과 창문이 활짝 열렸고, 마구간의 말들은 쏟아져 들어오는 빛을 돌아보았으며, 쇠창살 창문에서는 나뭇잎이 반짝였고, 개들은 사슬을 세게 당기며 풀려나기를 초조하게 기다렸다.",
+    "is_header": false,
+    "raw_ref_id": 186
+  },
+  {
+    "id": 188,
     "tag": "P108_1",
     "en": "All these small events belonged to the normal routine of life and the return of morning.",
     "ko": "이 모든 작은 사건들은 삶의 평범한 일상과 아침의 귀환에 속하는 것들이었다.",
@@ -1496,7 +1504,7 @@
     "raw_ref_id": 187
   },
   {
-    "id": 188,
+    "id": 189,
     "tag": "P108_2",
     "en": "But the sudden ringing of the great castle bell, the sound of people running up and down the stairs, and the panic on the terrace were not normal. Servants saddled horses and rode away in a hurry.",
     "ko": "그러나 성의 큰 종이 갑자기 울리고, 사람들이 계단을 오르내리는 소리와 테라스에서의 혼란은 정상이 아니었다. 하인들은 말에 안장을 얹고 서둘러 타고 떠났다.",
@@ -1504,7 +1512,7 @@
     "raw_ref_id": 188
   },
   {
-    "id": 189,
+    "id": 190,
     "tag": "P109_1",
     "en": "What invisible winds carried this sense of panic to the gray-haired road mender? He was already at work on the hilltop beyond the village, with his day's dinner—which wasn't much to carry—lying in a bundle on a pile of stones, so meager that it wasn't even worth a crow's time to peck at.",
     "ko": "어떤 보이지 않는 바람이 이 공포감을 백발의 도로 수리공에게 실어 날랐을까? 그는 이미 마을 너머 언덕 꼭대기에서 일하고 있었고, 들고 다닐 것도 별로 없는 하루 치 저녁 식사는 돌무더기 위 보따리 속에 놓여 있었는데, 까마귀가 쪼아먹을 시간조차 아까울 정도로 빈약했다.",
@@ -1512,7 +1520,7 @@
     "raw_ref_id": 189
   },
   {
-    "id": 190,
+    "id": 191,
     "tag": "P109_2",
     "en": "Did the birds, carrying some grains of the news to a distance, drop one on him like they drop random seeds? Whether they did or not, the road mender ran on that hot morning as if running for his life, down the hill through knee-high dust, and he never stopped until he reached the village fountain.",
     "ko": "멀리 소식의 알갱이들을 실어 나르던 새들이 무작위로 씨앗을 떨어뜨리듯 그에게 하나를 떨어뜨렸을까? 그들이 그랬든 아니든, 도로 수리공은 그 더운 아침에 마치 목숨을 걸고 달리는 것처럼 무릎 높이의 먼지를 헤치고 언덕을 뛰어내려 갔으며, 마을 분수대에 도달할 때까지 결코 멈추지 않았다.",
@@ -1520,7 +1528,7 @@
     "raw_ref_id": 190
   },
   {
-    "id": 191,
+    "id": 192,
     "tag": "P110_1",
     "en": "All the village people were gathered at the fountain, standing around in their usual depressed manner and whispering quietly, showing no emotions other than grim curiosity and surprise.",
     "ko": "마을 사람들은 모두 분수대에 모여 평소처럼 우울한 태도로 서서 조용히 속삭이고 있었으며, 암울한 호기심과 놀라움 외에는 아무런 감정도 보이지 않았다.",
@@ -1528,7 +1536,7 @@
     "raw_ref_id": 191
   },
   {
-    "id": 192,
+    "id": 193,
     "tag": "P110_2",
     "en": "The tethered cows, hastily brought in and tied to anything that would hold them, were looking on stupidly, or lying down chewing whatever unrewarding cud they had picked up during their interrupted morning walk.",
     "ko": "서둘러 끌려와 묶일 만한 곳이면 어디든 묶인 소들은 멍청하게 쳐다보거나 엎드려 방해받은 아침 산책 중에 주워 먹은 보잘것없는 먹이를 되새김질하고 있었다.",
@@ -1536,7 +1544,7 @@
     "raw_ref_id": 192
   },
   {
-    "id": 193,
+    "id": 194,
     "tag": "P110_3",
     "en": "Some of the castle servants, some people from the inn, and all the tax officials were more or less armed, crowding aimlessly on the other side of the little street in a confused way that suggested they had no real plan.",
     "ko": "일부 성의 하인들과 여관 사람들, 그리고 모든 세무 관리들은 다소 무장한 채 좁은 거리 반대편에 목적 없이 모여 있었는데, 그들의 혼란스러운 모습은 아무런 실질적인 계획이 없음을 보여주었다.",
@@ -1544,15 +1552,23 @@
     "raw_ref_id": 193
   },
   {
-    "id": 194,
+    "id": 195,
     "tag": "P110_4",
-    "en": "Already, the road mender had pushed his way into the middle of a group of fifty specific friends, and he was beating himself on the chest with his blue cap. What did all this mean? And what was the meaning of Monsieur Gabelle being quickly hoisted up behind a servant on horseback, and ridden away at a gallop, even though the horse was carrying a double load, like a scene from an old German ballad?",
-    "ko": "이미 도로 수리공은 오십 명의 지인들 무리 한가운데로 밀고 들어가 파란 모자로 자신의 가슴을 치고 있었다. 이 모든 것이 무슨 의미일까? 그리고 말이 두 배의 짐을 지고 있음에도 불구하고 옛 독일 발라드의 한 장면처럼 가벨 씨가 말을 탄 하인 뒤에 재빨리 올라타 전속력으로 달려간 것은 무슨 의미였을까?",
+    "en": "Already, the road mender had pushed his way into the middle of a group of fifty specific friends, and he was beating himself on the chest with his blue cap. What did all this mean?",
+    "ko": "이미 도로 수리공은 오십 명의 지인들 무리 한가운데로 밀고 들어가 파란 모자로 자신의 가슴을 치고 있었다. 이 모든 것이 무슨 의미일까?",
     "is_header": false,
     "raw_ref_id": 194
   },
   {
-    "id": 195,
+    "id": 196,
+    "tag": "P110_5",
+    "en": "And what was the meaning of Monsieur Gabelle being quickly hoisted up behind a servant on horseback, and ridden away at a gallop, even though the horse was carrying a double load, like a scene from an old German ballad?",
+    "ko": "그리고 말이 두 배의 짐을 지고 있음에도 불구하고 옛 독일 발라드의 한 장면처럼 가벨 씨가 말을 탄 하인 뒤에 재빨리 올라타 전속력으로 달려간 것은 무슨 의미였을까?",
+    "is_header": false,
+    "raw_ref_id": 194
+  },
+  {
+    "id": 197,
     "tag": "P111",
     "en": "It meant there was one stone face too many at the castle.",
     "ko": "그것은 성에 석상 얼굴이 하나 더 생겼다는 것을 의미했다.",
@@ -1560,7 +1576,7 @@
     "raw_ref_id": 195
   },
   {
-    "id": 196,
+    "id": 198,
     "tag": "P112",
     "en": "The Gorgon had looked at the building during the night, adding the final stone face it had waited two hundred years for.",
     "ko": "고르곤이 밤사이에 그 건물을 바라보며, 이백 년 동안 기다려온 마지막 석상 얼굴을 추가했던 것이다.",
@@ -1568,7 +1584,7 @@
     "raw_ref_id": 196
   },
   {
-    "id": 197,
+    "id": 199,
     "tag": "P113_1",
     "en": "It lay on the Marquis's pillow.",
     "ko": "그것은 후작의 베개 위에 놓여 있었다.",
@@ -1576,7 +1592,7 @@
     "raw_ref_id": 197
   },
   {
-    "id": 198,
+    "id": 200,
     "tag": "P113_2",
     "en": "It looked like his mask-like face, but frozen in anger and petrified.",
     "ko": "그것은 그의 가면 같은 얼굴처럼 보였지만, 분노로 얼어붙어 돌로 변해 있었다.",
@@ -1584,7 +1600,7 @@
     "raw_ref_id": 198
   },
   {
-    "id": 199,
+    "id": 201,
     "tag": "P113_3",
     "en": "Driven deep into the stone figure's heart was a knife.",
     "ko": "그 돌 형상의 심장 깊숙이 칼이 박혀 있었다.",
@@ -1592,7 +1608,7 @@
     "raw_ref_id": 199
   },
   {
-    "id": 200,
+    "id": 202,
     "tag": "P113_4",
     "en": "Around the handle was a piece of paper, on which was written:",
     "ko": "손잡이 주변에는 종이 한 장이 있었고, 거기에는 다음과 같이 쓰여 있었다:",
@@ -1600,7 +1616,7 @@
     "raw_ref_id": 200
   },
   {
-    "id": 201,
+    "id": 203,
     "tag": "P114_1",
     "en": "\"Drive him fast to his tomb.",
     "ko": "\"그를 그의 무덤으로 빨리 몰아라.",
@@ -1608,7 +1624,7 @@
     "raw_ref_id": 201
   },
   {
-    "id": 202,
+    "id": 204,
     "tag": "P114_2",
     "en": "This, from Jacques.\"",
     "ko": "자크가 남김.\"",

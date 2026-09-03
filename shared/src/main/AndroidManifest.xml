@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
@@ -7,10 +7,25 @@
     <uses-permission android:name="android.permission.WAKE_LOCK" />
 
     <application>
+        <receiver android:name="androidx.media.session.MediaButtonReceiver" android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+        </receiver>
         <service
             android:name="com.tkprof.shared.tts.TtsPlaybackService"
             android:enabled="true"
-            android:exported="false"
-            android:foregroundServiceType="mediaPlayback" />
+            android:exported="true"
+            android:foregroundServiceType="mediaPlayback">
+            <!-- Standard Android media button routing -->
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON" />
+            </intent-filter>
+            <!-- Registers as a MediaBrowserService so Samsung Now Bar, BT AVRCP,
+                 Android Auto and lock screen widgets treat us as a proper media app -->
+            <intent-filter>
+                <action android:name="android.media.browse.MediaBrowserService" />
+            </intent-filter>
+        </service>
     </application>
 </manifest>

@@ -290,21 +290,37 @@
   {
     "id": 37,
     "tag": "P008_3",
-    "en": "To find a promising cure for this exhaustion, three of these six gentlemen had joined a wild religious group called the Convulsionists. They were currently wondering if they should start foaming at the mouth, raging, roaring, and freezing in trances right then and there, hoping to provide a very clear sign pointing out the future for Monseigneur's guidance.",
-    "ko": "이 피로에 대한 유망한 치료법을 찾기 위해 이 여섯 명의 신사 중 세 명은 경련파라는 거친 종교 단체에 가입했다. 그들은 몽세뇌르의 지도를 위해 미래를 가리키는 매우 명확한 신호를 제공하기를 바라며, 그 자리에서 당장 입에 거품을 물고 분노하고 포효하며 무아지경에 빠져 얼어붙어야 할지 생각하고 있었다.",
+    "en": "To find a promising cure for this exhaustion, three of these six gentlemen had joined a wild religious group called the Convulsionists.",
+    "ko": "이 피로에 대한 유망한 치료법을 찾기 위해 이 여섯 명의 신사 중 세 명은 경련파라는 거친 종교 단체에 가입했다.",
     "is_header": false,
     "raw_ref_id": 37
   },
   {
     "id": 38,
     "tag": "P008_4",
-    "en": "Besides these fanatics, there were three others who had joined a different sect that resolved matters with mystical jargon about \"the Center of Truth.\" They held that Man had strayed from the Center of Truth—which required little proof—but had not yet escaped its Circumference, and that he must be kept from flying beyond this perimeter and even pushed back into the Center through fasting and spiritual visions. Naturally, there was much conversing with spirits among them, producing a great deal of good that remained entirely invisible. But the comforting part was that everyone in Monseigneur's grand mansion was impeccably dressed.",
-    "ko": "이들 광신도들 외에도 또 다른 종파에 뛰어든 세 사람이 있었는데, 그 종파는 '진리의 중심'에 관한 횡설수설로 문제를 얼버무렸다. 그들은 인간이 진리의 중심에서 벗어났으나—이는 굳이 증명할 필요도 없었지만—그 원주 밖으로까지 벗어난 것은 아니며, 단식과 영혼과의 접신을 통해 원주 밖으로 날아가지 못하게 막고 중심부로 다시 밀어 넣어야 한다고 주장했다. 따라서 그들 사이에서는 영혼들과의 대화가 활발히 이어졌고, 그 덕에 엄청난 효험이 있었으나 그것이 겉으로 드러나는 일은 결코 없었다. 그러나 다행스러운 것은 몽세뇌르의 웅장한 저택에 모인 모든 이들이 완벽하게 차려입고 있었다는 점이었다.",
+    "en": "They were currently wondering if they should start foaming at the mouth, raging, roaring, and freezing in trances right then and there, hoping to provide a very clear sign pointing out the future for Monseigneur's guidance.",
+    "ko": "그들은 몽세뇌르의 지도를 위해 미래를 가리키는 매우 명확한 신호를 제공하기를 바라며, 그 자리에서 당장 입에 거품을 물고 분노하고 포효하며 무아지경에 빠져 얼어붙어야 할지 생각하고 있었다.",
+    "is_header": false,
+    "raw_ref_id": 37
+  },
+  {
+    "id": 39,
+    "tag": "P008_1",
+    "en": "Besides these fanatics, there were three others who had joined a different sect that resolved matters with mystical jargon about \"the Center of Truth.\" They held that Man had strayed from the Center of Truth—which required little proof—but had not yet escaped its Circumference, and that he must be kept from flying beyond this perimeter and even pushed back into the Center through fasting and spiritual visions.",
+    "ko": "이들 광신도들 외에도 또 다른 종파에 뛰어든 세 사람이 있었는데, 그 종파는 '진리의 중심'에 관한 횡설수설로 문제를 얼버무렸다. 그들은 인간이 진리의 중심에서 벗어났으나—이는 굳이 증명할 필요도 없었지만—그 원주 밖으로까지 벗어난 것은 아니며, 단식과 영혼과의 접신을 통해 원주 밖으로 날아가지 못하게 막고 중심부로 다시 밀어 넣어야 한다고 주장했다.",
     "is_header": false,
     "raw_ref_id": 38
   },
   {
-    "id": 39,
+    "id": 40,
+    "tag": "P008_2",
+    "en": "Naturally, there was much conversing with spirits among them, producing a great deal of good that remained entirely invisible. But the comforting part was that everyone in Monseigneur's grand mansion was impeccably dressed.",
+    "ko": "따라서 그들 사이에서는 영혼들과의 대화가 활발히 이어졌고, 그 덕에 엄청난 효험이 있었으나 그것이 겉으로 드러나는 일은 결코 없었다. 그러나 다행스러운 것은 몽세뇌르의 웅장한 저택에 모인 모든 이들이 완벽하게 차려입고 있었다는 점이었다.",
+    "is_header": false,
+    "raw_ref_id": 38
+  },
+  {
+    "id": 41,
     "tag": "P009_2",
     "en": "If the Day of Judgment were a fashion show, everyone there would have been saved.",
     "ko": "만약 심판의 날이 패션쇼였다면, 그곳에 있는 모든 사람은 구원을 받았을 것이다.",
@@ -312,7 +328,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 40,
+    "id": 42,
     "tag": "P009_3",
     "en": "They had powdered hair, painted faces, fine swords, and expensive perfumes. They looked capable of keeping the system going forever.",
     "ko": "그들은 분칠을 한 머리, 화장한 얼굴, 훌륭한 칼, 그리고 비싼 향수를 가졌다. 그들은 이 체제를 영원히 지속시킬 수 있을 것처럼 보였다.",
@@ -320,7 +336,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 41,
+    "id": 43,
     "tag": "P009_4",
     "en": "The gentlemen wore gold trinkets that jingled as they walked like little bells. Between the jingling and the rustling of silk and fine linen, the air was filled with a flurry that blew the memory of the starving people of Saint Antoine far away.",
     "ko": "신사들은 걸을 때마다 작은 방울처럼 딸랑거리는 금 장신구를 달고 있었다. 딸랑거리는 소리와 실크와 고운 리넨이 스치는 소리 사이로, 생탕투안의 굶주린 사람들에 대한 기억을 저 멀리 날려버리는 작은 돌풍이 공기를 채웠다.",
@@ -328,7 +344,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 42,
+    "id": 44,
     "tag": "P010_1",
     "en": "Fashionable dress was the magic charm used to keep everything in its place.",
     "ko": "유행하는 옷은 모든 것을 제자리에 유지하는 데 사용되는 마법의 주문이었다.",
@@ -336,7 +352,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 43,
+    "id": 45,
     "tag": "P010_2",
     "en": "Everyone acted as if they were at a never-ending costume ball.",
     "ko": "모든 사람이 마치 끝없는 가장무도회에 있는 것처럼 행동했다.",
@@ -344,15 +360,31 @@
     "raw_ref_id": 44
   },
   {
-    "id": 44,
-    "tag": "P010_3",
-    "en": "This obsession with dressing up like it was a costume party trickled all the way down from the royal Palace of the Tuileries, past Monseigneur and the entire Court, through the government chambers, the courts of justice, and all of high society (ignoring the poor people in rags), until it reached the common executioner. To keep the glamorous illusion going, the executioner had to do his grim job with curled and powdered hair, wearing a gold-laced coat, dress shoes, and white silk stockings. At the gallows and the breaking wheel—the executioner's axe was rarely used—Monsieur Paris, which is what his fellow executioners from the provinces like Monsieur Orleans respectfully called him, presided over the executions in this delicate and fancy outfit.",
-    "ko": "마치 가장무도회인 것처럼 차려입는 것에 대한 이 집착은 왕궁인 튈르리 궁전에서부터 시작되어, 몽세뇌르와 궁정 전체를 지나, 정부 기관들, 사법 재판소들, 그리고 상류 사회 전체(누더기를 입은 가난한 사람들은 무시한 채)로 흘러내려 와, 마침내 흔한 사형 집행인에게까지 이르렀다. 그 화려한 환상을 유지하기 위해 사형 집행인은 구부러지고 분칠된 머리에 금색 끈이 달린 코트, 정장 구두, 그리고 하얀 실크 스타킹을 신고 그의 끔찍한 직무를 수행해야 했다. 교수대와 수레바퀴 처형대에서—사형 집행인의 도끼는 거의 사용되지 않았다—지방에서 온 오를레앙 씨와 같은 그의 동료 사형 집행인들이 정중하게 파리 씨라고 불렀던 그는, 이 섬세하고 화려한 복장으로 처형을 주재했다.",
+    "id": 46,
+    "tag": "P010_1",
+    "en": "This obsession with dressing up like it was a costume party trickled all the way down from the royal Palace of the Tuileries, past Monseigneur and the entire Court, through the government chambers, the courts of justice, and all of high society (ignoring the poor people in rags), until it reached the common executioner.",
+    "ko": "마치 가장무도회인 것처럼 차려입는 것에 대한 이 집착은 왕궁인 튈르리 궁전에서부터 시작되어, 몽세뇌르와 궁정 전체를 지나, 정부 기관들, 사법 재판소들, 그리고 상류 사회 전체(누더기를 입은 가난한 사람들은 무시한 채)로 흘러내려 와, 마침내 흔한 사형 집행인에게까지 이르렀다.",
     "is_header": false,
     "raw_ref_id": 45
   },
   {
-    "id": 45,
+    "id": 47,
+    "tag": "P010_2",
+    "en": "To keep the glamorous illusion going, the executioner had to do his grim job with curled and powdered hair, wearing a gold-laced coat, dress shoes, and white silk stockings.",
+    "ko": "그 화려한 환상을 유지하기 위해 사형 집행인은 구부러지고 분칠된 머리에 금색 끈이 달린 코트, 정장 구두, 그리고 하얀 실크 스타킹을 신고 그의 끔찍한 직무를 수행해야 했다.",
+    "is_header": false,
+    "raw_ref_id": 45
+  },
+  {
+    "id": 48,
+    "tag": "P010_3",
+    "en": "At the gallows and the breaking wheel—the executioner's axe was rarely used—Monsieur Paris, which is what his fellow executioners from the provinces like Monsieur Orleans respectfully called him, presided over the executions in this delicate and fancy outfit.",
+    "ko": "교수대와 수레바퀴 처형대에서—사형 집행인의 도끼는 거의 사용되지 않았다—지방에서 온 오를레앙 씨와 같은 그의 동료 사형 집행인들이 정중하게 파리 씨라고 불렀던 그는, 이 섬세하고 화려한 복장으로 처형을 주재했다.",
+    "is_header": false,
+    "raw_ref_id": 45
+  },
+  {
+    "id": 49,
     "tag": "P010_4",
     "en": "And who among the guests at Monseigneur's reception in the year 1780 could possibly doubt that a whole social system based around a hangman with curled hair, powdered, dressed in gold lace, dress shoes, and white silk stockings would last forever, even outliving the stars themselves!",
     "ko": "그리고 1780년 몽세뇌르의 연회에 참석한 손님들 중 누가, 구부러진 머리에 분칠을 하고 금색 끈을 달고 정장 구두와 하얀 실크 스타킹을 신은 사형 집행인을 기반으로 한 전체 사회 체제가 영원히, 심지어 별들보다 더 오래 지속될 것이라는 점을 의심할 수 있었겠는가!",
@@ -360,7 +392,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 46,
+    "id": 50,
     "tag": "P011_1",
     "en": "After Monseigneur had relieved his four servants of their duties and finished drinking his chocolate, he had the doors to his private inner room thrown wide open and finally came out.",
     "ko": "몽세뇌르는 네 명의 하인들의 임무를 면제해주고 초콜릿을 다 마신 후, 자신의 개인 내실 문을 활짝 열게 하고 마침내 밖으로 나왔다.",
@@ -368,7 +400,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 47,
+    "id": 51,
     "tag": "P011_2",
     "en": "The crowd bowed, flattered, and humbled themselves before him.",
     "ko": "군중은 고개를 숙이고, 아첨하며, 그 앞에서 자신들을 낮추었다.",
@@ -376,7 +408,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 48,
+    "id": 52,
     "tag": "P011_3",
     "en": "They showed so much devotion that they left nothing for God, which was probably why they never bothered to pray.",
     "ko": "그들은 하나님을 위해서는 아무것도 남기지 않을 만큼 너무 많은 헌신을 보여주었고, 그것이 아마도 그들이 굳이 기도하지 않았던 이유일 것이다.",
@@ -384,7 +416,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 49,
+    "id": 53,
     "tag": "P012_1",
     "en": "Giving a promise here and a smile there, whispering to one happy guest and waving to another, Monseigneur walked through the rooms.",
     "ko": "여기서 약속을 하고 저기서 미소를 지으며, 한 행복한 손님에게 속삭이고 다른 손님에게 손을 흔들면서 몽세뇌르는 방을 걸어갔다.",
@@ -392,7 +424,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 50,
+    "id": 54,
     "tag": "P012_2",
     "en": "He then turned and returned to his private room, shut in once more by his servants, and was seen no more.",
     "ko": "그러고 나서 그는 몸을 돌려 개인 방으로 돌아갔고, 그의 하인들에 의해 다시 한번 문이 닫혔으며 더 이상 보이지 않았다.",
@@ -400,7 +432,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 51,
+    "id": 55,
     "tag": "P013_1",
     "en": "With the reception over, the guests hurried downstairs, their gold trinkets jingling.",
     "ko": "연회가 끝나자 손님들은 금 장신구를 딸랑거리며 서둘러 아래층으로 내려갔다.",
@@ -408,7 +440,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 52,
+    "id": 56,
     "tag": "P013_2",
     "en": "Soon only one man was left, slowly walking past the mirrors on his way out, holding his hat and snuffbox.",
     "ko": "곧 단 한 남자만이 남아 모자와 코담뱃갑을 든 채 밖으로 나가는 길에 거울들을 지나 천천히 걸어가고 있었다.",
@@ -416,7 +448,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 53,
+    "id": 57,
     "tag": "P014",
     "en": "\"I condemn you,\" he muttered, stopping at the door and looking back toward Monseigneur's room, \"to the Devil!\"",
     "ko": "\"나는 너를 저주한다,\" 문에 멈춰 서서 몽세뇌르의 방 쪽을 뒤돌아보며 그가 중얼거렸다. \"악마에게나 가버려라!\"",
@@ -424,7 +456,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 54,
+    "id": 58,
     "tag": "P015",
     "en": "He shook the snuff from his fingers as if shaking dust from his shoes, and walked downstairs.",
     "ko": "그는 신발에서 먼지를 털어내듯 손가락에서 코담배를 털어내고 아래층으로 걸어 내려갔다.",
@@ -432,7 +464,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 55,
+    "id": 59,
     "tag": "P016_1",
     "en": "He was a man of about sixty, handsomely dressed, proud, with a face like a mask.",
     "ko": "그는 60세가량의 단정하게 차려입은 자부심이 강한 남자로, 가면 같은 얼굴을 하고 있었다.",
@@ -440,7 +472,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 56,
+    "id": 60,
     "tag": "P016_2",
     "en": "His face was very pale, with sharp features and a cold expression.",
     "ko": "그의 얼굴은 창백했고, 날카로운 이목구비에 차가운 표정을 짓고 있었다.",
@@ -448,7 +480,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 57,
+    "id": 61,
     "tag": "P016_3",
     "en": "His nose was well-shaped, but pinched at the nostrils.",
     "ko": "그의 코는 모양이 잘 잡혀 있었지만, 콧구멍이 좁아져 있었다.",
@@ -456,7 +488,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 58,
+    "id": 62,
     "tag": "P016_4",
     "en": "This pinching was the only part of his face that ever changed, turning white or twitching slightly when he was angry, giving him a look of cruelty and treachery.",
     "ko": "이 좁아진 부분은 그의 얼굴에서 유일하게 변하는 부분이었는데, 그가 화가 났을 때 하얗게 변하거나 약간 씰룩거리면서 그에게 잔인함과 배반의 인상을 주었다.",
@@ -464,7 +496,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 59,
+    "id": 63,
     "tag": "P016_5",
     "en": "If you looked closely, you could see that this cruel expression came from the line of his mouth and the shape of his eye sockets, which were far too thin and straight. But despite all that, it was still a very handsome and striking face.",
     "ko": "자세히 보면 이 잔인한 표정은 너무 얇고 일직선인 입매와 눈구멍 모양에서 비롯된 것임을 알 수 있었다. 하지만 그 모든 것에도 불구하고 그것은 여전히 매우 잘생기고 눈에 띄는 얼굴이었다.",
@@ -472,7 +504,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 60,
+    "id": 64,
     "tag": "P017_1",
     "en": "He went down to the courtyard, got into his carriage, and drove away.",
     "ko": "그는 마당으로 내려가 마차에 올라타고는 가버렸다.",
@@ -480,7 +512,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 61,
+    "id": 65,
     "tag": "P017_2",
     "en": "Few people had spoken to him at the reception, and Monseigneur had been cold to him.",
     "ko": "리셉션에서 그에게 말을 건넨 사람은 거의 없었고, 몽세뇌르도 그에게 냉담했다.",
@@ -488,7 +520,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 62,
+    "id": 66,
     "tag": "P017_3",
     "en": "Under the circumstances, he seemed to enjoy seeing the common people scatter before his horses, barely escaping with their lives.",
     "ko": "이러한 상황에서 그는 평민들이 그의 말 앞에서 가까스로 목숨을 건지며 흩어지는 것을 즐기는 듯했다.",
@@ -496,7 +528,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 63,
+    "id": 67,
     "tag": "P017_4",
     "en": "His driver drove recklessly, as if charging into battle, and the master did not stop him.",
     "ko": "마부는 마치 전투에 돌진하듯 난폭하게 마차를 몰았지만, 주인은 그를 말리지 않았다.",
@@ -504,7 +536,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 64,
+    "id": 68,
     "tag": "P017_5",
     "en": "Even in that deaf city and ignorant age, people had sometimes managed to voice their complaints that the rich nobles' aggressive habit of driving their carriages recklessly fast through the narrow, sidewalk-less streets was violently injuring and killing common people in a brutal way.",
     "ko": "그 귀먹은 도시와 무지한 시대에도, 사람들은 때때로 인도도 없는 좁은 거리를 난폭하고 빠르게 마차를 모는 부유한 귀족들의 공격적인 습관이 평민들을 잔인하게 다치게 하고 죽인다고 불만을 표출하곤 했다.",
@@ -512,7 +544,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 65,
+    "id": 69,
     "tag": "P017_6",
     "en": "But few wealthy people cared, and the poor were left to get out of the way as best they could.",
     "ko": "하지만 신경 쓰는 부자는 거의 없었고, 가난한 사람들은 알아서 길을 비켜야만 했다.",
@@ -520,7 +552,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 66,
+    "id": 70,
     "tag": "P018_1",
     "en": "With a loud clatter and a complete lack of concern, the carriage sped through the streets and around corners. Women screamed, and men grabbed their children to pull them out of the way.",
     "ko": "요란한 소리를 내며 전혀 아랑곳하지 않고 마차는 거리를 달리고 모퉁이를 돌았다. 여자들은 비명을 질렀고, 남자들은 아이들을 붙잡아 길 밖으로 끌어냈다.",
@@ -528,7 +560,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 67,
+    "id": 71,
     "tag": "P018_2",
     "en": "Suddenly, near a fountain at a street corner, a wheel hit something with a sickening jolt. The horses reared, and the crowd screamed.",
     "ko": "갑자기 어느 길모퉁이의 분수 근처에서 바퀴가 역겨운 충격과 함께 무언가에 부딪혔다. 말들은 뒷다리로 섰고, 군중은 비명을 질렀다.",
@@ -536,7 +568,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 68,
+    "id": 72,
     "tag": "P019_1",
     "en": "If the horses hadn't stopped, the carriage would have driven on, leaving the injured behind.",
     "ko": "말들이 멈추지 않았다면 마차는 부상자를 남겨둔 채 계속 달렸을 것이다.",
@@ -544,7 +576,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 69,
+    "id": 73,
     "tag": "P019_2",
     "en": "But the driver quickly got down, and several people grabbed the horses' reins.",
     "ko": "하지만 마부는 재빨리 내려왔고, 몇몇 사람들이 말의 고삐를 붙잡았다.",
@@ -552,7 +584,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 70,
+    "id": 74,
     "tag": "P020",
     "en": "\"What is the matter?\" the master asked, looking out calmly.",
     "ko": "\"무슨 일이냐?\" 주인이 차분하게 밖을 내다보며 물었다.",
@@ -560,7 +592,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 71,
+    "id": 75,
     "tag": "P021",
     "en": "A tall man in a nightcap had picked up a bundle from under the horses' hooves and laid it by the fountain. He was kneeling in the mud, crying out like a wild animal.",
     "ko": "나이트캡을 쓴 키 큰 남자가 말발굽 아래에서 무언가 꾸러미를 집어 들어 분수대 옆에 눕혔다. 그는 진흙 속에 무릎을 꿇고 야생동물처럼 울부짖고 있었다.",
@@ -568,7 +600,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 72,
+    "id": 76,
     "tag": "P022",
     "en": "\"Pardon, Monsieur the Marquis!\" said a poor man, bowing. \"It is a child.\"",
     "ko": "\"죄송합니다, 후작님!\" 가난한 남자가 허리를 굽히며 말했다. \"아이입니다.\"",
@@ -576,7 +608,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 73,
+    "id": 77,
     "tag": "P023_1",
     "en": "\"Why is he making that terrible noise?",
     "ko": "\"저 자는 왜 저런 끔찍한 소리를 내는 거냐?",
@@ -584,7 +616,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 74,
+    "id": 78,
     "tag": "P023_2",
     "en": "Is it his child?\"",
     "ko": "그의 아이냐?\"",
@@ -592,7 +624,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 75,
+    "id": 79,
     "tag": "P024",
     "en": "\"Excuse me, Monsieur the Marquis, yes, unfortunately.\"",
     "ko": "\"죄송합니다만, 후작님, 불행히도 그렇습니다.\"",
@@ -600,7 +632,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 76,
+    "id": 80,
     "tag": "P025_1",
     "en": "The fountain was set back a little bit from the main road, because right where it stood, the street opened up into a small square area about ten or twelve yards wide.",
     "ko": "분수대는 길에서 약간 뒤로 물러나 있었는데, 그곳에 약 10~12야드 너비의 작은 광장 같은 공간이 펼쳐져 있었기 때문이다.",
@@ -608,7 +640,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 77,
+    "id": 81,
     "tag": "P025_2",
     "en": "As the tall man suddenly stood up and ran toward the carriage, the Marquis put his hand on his sword.",
     "ko": "키 큰 남자가 갑자기 일어나 마차를 향해 달려오자, 후작은 칼에 손을 얹었다.",
@@ -616,7 +648,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 78,
+    "id": 82,
     "tag": "P026",
     "en": "\"Killed!\" the man shrieked in wild desperation, stretching both of his arms straight up high above his head and staring right at him. \"Dead!\"",
     "ko": "\"죽었어!\" 그 남자는 두 팔을 머리 위로 높이 뻗고 그를 똑바로 쳐다보며 미친 듯한 절망 속에서 비명을 질렀다. \"죽었다고!\"",
@@ -624,7 +656,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 79,
+    "id": 83,
     "tag": "P027_1",
     "en": "The crowd gathered around and looked at the Marquis.",
     "ko": "군중이 모여들어 후작을 바라보았다.",
@@ -632,7 +664,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 80,
+    "id": 84,
     "tag": "P027_2",
     "en": "The many eyes staring at him didn't show any visible threats or anger at all; they only revealed a quiet watchfulness and an eager curiosity.",
     "ko": "그를 응시하는 많은 눈빛은 어떠한 눈에 띄는 위협이나 분노도 전혀 보여주지 않았다. 단지 조용한 경계와 강렬한 호기심만을 드러낼 뿐이었다.",
@@ -640,7 +672,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 81,
+    "id": 85,
     "tag": "P027_3",
     "en": "The people didn't say a single word either; after their very first cry, they had gone completely silent, and they stayed that way.",
     "ko": "사람들은 단 한마디도 하지 않았다. 첫 번째 비명을 지른 후 그들은 완전히 침묵했고, 계속 그 상태로 머물렀다.",
@@ -648,7 +680,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 82,
+    "id": 86,
     "tag": "P027_4",
     "en": "The man who had spoken sounded humble and frightened.",
     "ko": "말을 했던 남자의 목소리는 겸손하고 겁에 질려 있었다.",
@@ -656,7 +688,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 83,
+    "id": 87,
     "tag": "P027_5",
     "en": "The Marquis looked at them as if they were rats coming out of their holes.",
     "ko": "후작은 쥐들이 쥐구멍에서 기어나온 것처럼 그들을 쳐다보았다.",
@@ -664,7 +696,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 84,
+    "id": 88,
     "tag": "P028",
     "en": "He took out his purse.",
     "ko": "그는 지갑을 꺼냈다.",
@@ -672,7 +704,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 85,
+    "id": 89,
     "tag": "P029_1",
     "en": "He said, \"It is strange to me that you people cannot take care of yourselves and your children.",
     "ko": "그는 말했다. \"너희들이 너희 자신과 아이들을 돌보지 못한다는 게 참 이상하구나.",
@@ -680,7 +712,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 86,
+    "id": 90,
     "tag": "P029_2",
     "en": "You are always in the way.",
     "ko": "너희는 항상 방해만 돼.",
@@ -688,7 +720,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 87,
+    "id": 91,
     "tag": "P029_3",
     "en": "For all I know, you have injured my horses.",
     "ko": "어쩌면 너희 때문에 내 말들이 다쳤을지도 모르지.",
@@ -696,7 +728,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 88,
+    "id": 92,
     "tag": "P029_4",
     "en": "Here!",
     "ko": "자!",
@@ -704,7 +736,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 89,
+    "id": 93,
     "tag": "P029_5",
     "en": "Give him this.\"",
     "ko": "이걸 그에게 주어라.\"",
@@ -712,7 +744,7 @@
     "raw_ref_id": 90
   },
   {
-    "id": 90,
+    "id": 94,
     "tag": "P030_1",
     "en": "He threw a gold coin out for the driver to pick up, and the crowd stared at it as it fell.",
     "ko": "그는 마부가 주울 수 있도록 금화 하나를 던졌고, 군중은 그것이 떨어지는 것을 지켜보았다.",
@@ -720,7 +752,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 91,
+    "id": 95,
     "tag": "P030_2",
     "en": "The tall man cried out again, \"Dead!\"",
     "ko": "키 큰 남자가 다시 울부짖었다. \"죽었어!\"",
@@ -728,7 +760,7 @@
     "raw_ref_id": 92
   },
   {
-    "id": 92,
+    "id": 96,
     "tag": "P031_1",
     "en": "He was stopped by the arrival of another man, for whom the crowd made way.",
     "ko": "군중이 길을 터주며 다른 남자가 도착하자 그는 멈칫했다.",
@@ -736,7 +768,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 93,
+    "id": 97,
     "tag": "P031_2",
     "en": "Seeing him, the father fell on his shoulder, sobbing and pointing to the fountain where some women were looking at the still bundle.",
     "ko": "그를 보자, 아이의 아버지는 그의 어깨에 기대어 흐느끼며, 몇몇 여자들이 움직이지 않는 꾸러미를 바라보고 있는 분수대를 가리켰다.",
@@ -744,7 +776,7 @@
     "raw_ref_id": 94
   },
   {
-    "id": 94,
+    "id": 98,
     "tag": "P031_3",
     "en": "The women were as quiet as the men.",
     "ko": "여자들도 남자들만큼이나 조용했다.",
@@ -752,7 +784,7 @@
     "raw_ref_id": 95
   },
   {
-    "id": 95,
+    "id": 99,
     "tag": "P032_1",
     "en": "\"I know, I know,\" said the newcomer. \"Be brave, Gaspard.",
     "ko": "\"알아, 안다고,\" 새로 온 사람이 말했다. \"용기를 내, 가스파르.",
@@ -760,7 +792,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 96,
+    "id": 100,
     "tag": "P032_2",
     "en": "It is better for the poor child to die like this than to live in misery.",
     "ko": "가엾은 아이가 비참하게 사는 것보다 이렇게 죽는 편이 나아.",
@@ -768,7 +800,7 @@
     "raw_ref_id": 97
   },
   {
-    "id": 97,
+    "id": 101,
     "tag": "P032_3",
     "en": "It died in a moment, without pain.",
     "ko": "고통 없이 한순간에 죽었잖아.",
@@ -776,7 +808,7 @@
     "raw_ref_id": 98
   },
   {
-    "id": 98,
+    "id": 102,
     "tag": "P032_4",
     "en": "Could it have lived a happy life?\"",
     "ko": "행복한 삶을 살 수 있었겠어?\"",
@@ -784,7 +816,7 @@
     "raw_ref_id": 99
   },
   {
-    "id": 99,
+    "id": 103,
     "tag": "P033",
     "en": "\"You are a philosopher,\" the Marquis said, smiling. \"What is your name?\"",
     "ko": "\"철학자 시로군,\" 후작이 미소를 지으며 말했다. \"이름이 뭔가?\"",
@@ -792,7 +824,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 100,
+    "id": 104,
     "tag": "P034",
     "en": "\"They call me Defarge.\"",
     "ko": "\"사람들은 저를 드파르지라고 부릅니다.\"",
@@ -800,7 +832,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 101,
+    "id": 105,
     "tag": "P035",
     "en": "\"What is your trade?\"",
     "ko": "\"직업이 뭔가?\"",
@@ -808,7 +840,7 @@
     "raw_ref_id": 102
   },
   {
-    "id": 102,
+    "id": 106,
     "tag": "P036",
     "en": "\"I sell wine, Monsieur the Marquis.\"",
     "ko": "\"와인을 팝니다, 후작님.\"",
@@ -816,7 +848,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 103,
+    "id": 107,
     "tag": "P037_1",
     "en": "\"Pick that up, philosopher and wine seller,\" said the Marquis, throwing him another gold coin. \"Spend it as you like.",
     "ko": "\"주워라, 철학자이자 와인 상인,\" 후작이 또 다른 금화를 던지며 말했다. \"마음대로 써라.",
@@ -824,7 +856,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 104,
+    "id": 108,
     "tag": "P037_2",
     "en": "Are the horses ready?\"",
     "ko": "말들은 준비되었나?\"",
@@ -832,7 +864,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 105,
+    "id": 109,
     "tag": "P038",
     "en": "Without looking at the crowd again, the Marquis leaned back, preparing to drive away like a gentleman who had broken a cheap object and paid for it. Suddenly, a coin was thrown back into the carriage, ringing on the floor.",
     "ko": "후작은 군중을 다시 보지도 않고 등받이에 기댔다. 마치 싸구려 물건을 부수고 값을 지불한 신사처럼 마차를 출발시킬 준비를 했다. 그 순간, 금화 하나가 마차 안으로 다시 날아와 바닥에 떨어지며 쨍그랑 소리를 냈다.",
@@ -840,7 +872,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 106,
+    "id": 110,
     "tag": "P039_1",
     "en": "\"Stop!\" the Marquis called out. \"Hold the horses!",
     "ko": "\"멈춰라!\" 후작이 소리쳤다. \"말들을 잡아!",
@@ -848,7 +880,7 @@
     "raw_ref_id": 107
   },
   {
-    "id": 107,
+    "id": 111,
     "tag": "P039_2",
     "en": "Who threw that?\"",
     "ko": "누가 던졌지?\"",
@@ -856,7 +888,7 @@
     "raw_ref_id": 108
   },
   {
-    "id": 108,
+    "id": 112,
     "tag": "P040",
     "en": "He looked toward where Defarge had been standing. The father was on the pavement, crying. Next to him stood a stout, dark woman, knitting.",
     "ko": "그는 드파르지가 서 있던 곳을 향해 시선을 돌렸다. 아버지는 보도에 엎드려 울고 있었다. 그 옆에는 뚱뚱하고 어두운 인상의 여자가 뜨개질을 하며 서 있었다.",
@@ -864,7 +896,7 @@
     "raw_ref_id": 109
   },
   {
-    "id": 109,
+    "id": 113,
     "tag": "P041_1",
     "en": "\"You dogs!\" the Marquis said calmly, his nostrils twitching. \"I would gladly run over all of you and wipe you off the earth.",
     "ko": "\"이 개 같은 것들!\" 후작은 차분하게 말했지만 그의 콧방울이 씰룩거렸다. \"기꺼이 너희 모두를 밟고 지나가서 이 땅에서 쓸어버리겠다.",
@@ -872,7 +904,7 @@
     "raw_ref_id": 110
   },
   {
-    "id": 110,
+    "id": 114,
     "tag": "P041_2",
     "en": "If I knew who threw that coin, I would crush him under the wheels.\"",
     "ko": "누가 그 동전을 던졌는지 안다면 바퀴 밑에 깔아 뭉개버렸을 것이다.\"",
@@ -880,7 +912,7 @@
     "raw_ref_id": 111
   },
   {
-    "id": 111,
+    "id": 115,
     "tag": "P042_1",
     "en": "The crowd was so cowed and used to his power that no one raised a hand or said a word.",
     "ko": "군중은 너무나 겁에 질려 있었고 그의 권력에 익숙해져 있어서 아무도 손을 들거나 말 한마디 하지 못했다.",
@@ -888,7 +920,7 @@
     "raw_ref_id": 112
   },
   {
-    "id": 112,
+    "id": 116,
     "tag": "P042_2",
     "en": "But the woman who stood knitting looked the Marquis straight in the eye.",
     "ko": "하지만 뜨개질을 하며 서 있던 여자는 후작의 눈을 똑바로 쳐다보았다.",
@@ -896,7 +928,7 @@
     "raw_ref_id": 113
   },
   {
-    "id": 113,
+    "id": 117,
     "tag": "P042_3",
     "en": "It was beneath his dignity to pay attention to it; his scornful eyes just swept right past her, and over all the rest of the people as if they were rats. Then he leaned back in his seat again and gave the order, \"Go on!\"",
     "ko": "그것에 신경 쓰는 것은 그의 품위에 맞지 않았다. 그의 경멸적인 시선은 단지 그녀를 스쳐 지나갔고, 나머지 모든 사람들을 마치 쥐를 보듯 훑어보았다. 그리고 그는 다시 좌석에 기대앉아 명령했다. \"출발해!\"",
@@ -904,7 +936,7 @@
     "raw_ref_id": 114
   },
   {
-    "id": 114,
+    "id": 118,
     "tag": "P043_1",
     "en": "He drove away. Other carriages followed in quick succession, the ministers, tax collectors, doctors, and lawyers. They were all part of the grand costume ball.",
     "ko": "그는 마차를 몰고 떠났다. 다른 마차들이 그 뒤를 빠르게 따랐는데, 장관, 세금 징수원, 의사, 변호사들이었다. 그들은 모두 거대한 가장무도회의 일부였다.",
@@ -912,7 +944,7 @@
     "raw_ref_id": 115
   },
   {
-    "id": 115,
+    "id": 119,
     "tag": "P043_2",
     "en": "The poor people, like rats creeping out of their holes, had come out to watch, and they stayed there looking on for hours. Soldiers and police officers often marched between the crowd and the scene, forming a barrier that the people slinked behind and tried to peek through.",
     "ko": "가난한 사람들은 마치 구멍에서 기어 나오는 쥐들처럼 구경하러 나왔고, 몇 시간 동안 그곳에 머물며 지켜보았다. 군인들과 경찰들이 종종 군중과 현장 사이를 행진하며 장벽을 형성했고, 사람들은 그 뒤로 몰래 숨어 틈새로 엿보려 했다.",
@@ -920,7 +952,7 @@
     "raw_ref_id": 116
   },
   {
-    "id": 116,
+    "id": 120,
     "tag": "P043_3",
     "en": "The father had carried his dead child away. The women sat by the fountain, watching the water flow and the carriages pass, while the woman who had stood knitting continued to knit like the figure of Fate.",
     "ko": "아버지는 죽은 아이를 안고 가버렸다. 여자들은 분수대 곁에 앉아 물이 흐르는 것과 마차들이 지나가는 것을 바라보았고, 한편 서서 뜨개질을 하던 여자는 운명의 여신처럼 계속 뜨개질을 했다.",
@@ -928,7 +960,7 @@
     "raw_ref_id": 117
   },
   {
-    "id": 117,
+    "id": 121,
     "tag": "P043_4",
     "en": "The water ran, the river flowed, day turned to evening, and life in the city turned to death. The poor went back to their dark rooms, the rich lit up their dinners, and everything continued as before.",
     "ko": "물은 흐르고, 강물도 흘러, 낮은 저녁이 되었고, 도시의 삶은 죽음으로 변했다. 가난한 사람들은 어두운 방으로 돌아갔고, 부자들은 저녁 만찬을 밝혔으며, 모든 것은 이전처럼 계속되었다.",

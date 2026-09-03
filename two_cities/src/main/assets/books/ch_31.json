@@ -33,14 +33,22 @@
   },
   {
     "id": 5,
-    "tag": "P003_3",
-    "en": "Every town gate and village tollhouse was guarded by a band of citizen-patriots holding loaded muskets, ready to shoot at any moment. They stopped everyone. They cross-examined travelers, checked papers, and searched for names on custom lists. Then they turned people back, sent them forward, or arrested them outright. It all depended on whatever their random judgment decided was best for the new Republic of Liberty, Equality, Fraternity, or Death.",
-    "ko": "모든 성문과 마을 요금소에는 장전된 머스킷 총을 들고 언제든 쏠 준비가 된 시민 애국자 무리가 경비를 서고 있었다. 그들은 모든 사람을 멈춰 세웠다. 그들은 여행자를 심문하고, 서류를 확인하며, 세관 명단에서 이름을 찾았다. 그런 다음 사람들을 돌려보내거나, 통과시키거나, 그 자리에서 체포했다. 모든 것은 그들의 자의적인 판단이 자유, 평등, 박애, 혹은 죽음이라는 새로운 공화국에 무엇이 최선이라고 결정하느냐에 달려 있었다.",
+    "tag": "P003_1",
+    "en": "Every town gate and village tollhouse was guarded by a band of citizen-patriots holding loaded muskets, ready to shoot at any moment. They stopped everyone. They cross-examined travelers, checked papers, and searched for names on custom lists.",
+    "ko": "모든 성문과 마을 요금소에는 장전된 머스킷 총을 들고 언제든 쏠 준비가 된 시민 애국자 무리가 경비를 서고 있었다. 그들은 모든 사람을 멈춰 세웠다. 그들은 여행자를 심문하고, 서류를 확인하며, 세관 명단에서 이름을 찾았다.",
     "is_header": false,
     "raw_ref_id": 5
   },
   {
     "id": 6,
+    "tag": "P003_2",
+    "en": "Then they turned people back, sent them forward, or arrested them outright. It all depended on whatever their random judgment decided was best for the new Republic of Liberty, Equality, Fraternity, or Death.",
+    "ko": "그런 다음 사람들을 돌려보내거나, 통과시키거나, 그 자리에서 체포했다. 모든 것은 그들의 자의적인 판단이 자유, 평등, 박애, 혹은 죽음이라는 새로운 공화국에 무엇이 최선이라고 결정하느냐에 달려 있었다.",
+    "is_header": false,
+    "raw_ref_id": 5
+  },
+  {
+    "id": 7,
     "tag": "P004_1",
     "en": "After only a few miles in France, Charles Darnay realized that there was no turning back for him along these country roads until he was officially declared a good citizen in Paris.",
     "ko": "프랑스에 들어서서 불과 몇 마일 지나지 않아 찰스 다네이는 파리에서 훌륭한 시민으로 공식 선언받기 전까지는 이 시골길을 따라 되돌아가는 것이 불가능하다는 것을 깨달았다.",
@@ -48,7 +56,7 @@
     "raw_ref_id": 6
   },
   {
-    "id": 7,
+    "id": 8,
     "tag": "P004_2",
     "en": "Whatever happened, he had to keep moving forward.",
     "ko": "무슨 일이 있어도 그는 계속 앞으로 나아가야만 했다.",
@@ -56,7 +64,7 @@
     "raw_ref_id": 7
   },
   {
-    "id": 8,
+    "id": 9,
     "tag": "P004_3",
     "en": "Every small village he passed through and every gate that closed behind him felt like another iron door locking him away from England.",
     "ko": "그가 지나는 모든 작은 마을과 그의 뒤에서 닫히는 모든 문은 그를 영국으로부터 단절시키는 또 다른 철문처럼 느껴졌다.",
@@ -64,7 +72,7 @@
     "raw_ref_id": 8
   },
   {
-    "id": 9,
+    "id": 10,
     "tag": "P004_4",
     "en": "The constant surveillance surrounded him so completely that he felt as if he were being carried to his destination in a cage.",
     "ko": "끊임없는 감시가 그를 완전히 에워싸서, 그는 마치 새장에 갇혀 목적지로 실려 가는 듯한 기분이 들었다.",
@@ -72,7 +80,7 @@
     "raw_ref_id": 9
   },
   {
-    "id": 10,
+    "id": 11,
     "tag": "P005_1",
     "en": "This constant watchfulness stopped him dozens of times during each leg of the trip. Soldiers would ride after him to bring him back, ride ahead to wait for him, or ride alongside him to keep him under guard.",
     "ko": "이 끊임없는 경계는 여행의 각 구간마다 그를 수십 번이나 멈춰 세웠다. 군인들이 그를 다시 데려오기 위해 뒤따라 말을 달리거나, 그를 기다리기 위해 앞서 달리거나, 그를 감시하기 위해 나란히 말을 타고 달렸다.",
@@ -80,7 +88,7 @@
     "raw_ref_id": 10
   },
   {
-    "id": 11,
+    "id": 12,
     "tag": "P005_2",
     "en": "He had been traveling through France for days when he finally went to bed exhausted in a small town on the highway, still a long way from Paris.",
     "ko": "그가 며칠 동안 프랑스를 횡단하여 여전히 파리에서 멀리 떨어진 고속도로변의 한 작은 마을에서 마침내 지쳐 잠자리에 들었을 때였다.",
@@ -88,7 +96,7 @@
     "raw_ref_id": 11
   },
   {
-    "id": 12,
+    "id": 13,
     "tag": "P006_1",
     "en": "Only showing Gabelle's letter from the Abbaye Prison had allowed him to get this far.",
     "ko": "아베이 감옥에서 온 가벨의 편지를 보여준 덕분에 간신히 여기까지 올 수 있었다.",
@@ -96,7 +104,7 @@
     "raw_ref_id": 12
   },
   {
-    "id": 13,
+    "id": 14,
     "tag": "P006_2",
     "en": "The trouble he faced at the guardhouse in this small town made him realize that his journey had reached a turning point.",
     "ko": "이 작은 마을의 위병소에서 겪은 골칫거리로 그는 자신의 여행이 전환점에 도달했음을 깨달았다.",
@@ -104,7 +112,7 @@
     "raw_ref_id": 13
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "P006_3",
     "en": "Therefore, he was not surprised when he was awakened in the middle of the night at the small inn where he was being kept until morning.",
     "ko": "그러므로 그가 아침까지 묵게 될 작은 여관에서 한밤중에 깨워졌을 때 그는 놀라지 않았다.",
@@ -112,7 +120,7 @@
     "raw_ref_id": 14
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "P007",
     "en": "He was woken up by a nervous local official and three armed patriots wearing rough red caps, who sat right on his bed with pipes in their mouths.",
     "ko": "파이프를 입에 물고 침대에 걸터앉은 초조해하는 지역 관리와 거친 빨간 모자를 쓴 세 명의 무장한 애국자들이 그를 깨웠다.",
@@ -120,7 +128,7 @@
     "raw_ref_id": 15
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "P008",
     "en": "“Emigrant,” the official said, “I am sending you to Paris under guard.”",
     "ko": "망명자여. 관리가 말했다. 감시하에 당신을 파리로 보내겠소.",
@@ -128,7 +136,7 @@
     "raw_ref_id": 16
   },
   {
-    "id": 17,
+    "id": 18,
     "tag": "P009",
     "en": "“Citizen, I want nothing more than to get to Paris, though I could do without the guard.”",
     "ko": "시민이여, 비록 감시가 없어도 갈 수 있지만 나 역시 파리에 가는 것 말고는 바라는 것이 없소.",
@@ -136,7 +144,7 @@
     "raw_ref_id": 17
   },
   {
-    "id": 18,
+    "id": 19,
     "tag": "P010",
     "en": "“Silence!” growled one of the men in a red cap, hitting the bed cover with the butt of his gun. “Quiet, aristocrat!”",
     "ko": "조용히 해! 빨간 모자를 쓴 남자 중 한 명이 소리치며 총 개머리판으로 침대 시트를 내리쳤다. 조용히 해라, 귀족!",
@@ -144,7 +152,7 @@
     "raw_ref_id": 18
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "P011",
     "en": "“It is just as the patriot says,” the nervous official remarked. “You are an aristocrat, so you must have a guard, and you have to pay for it.”",
     "ko": "애국자의 말이 맞소. 초조한 관리가 말했다. 당신은 귀족이므로 감시병을 붙여야 하고, 그 비용도 지불해야 하오.",
@@ -152,7 +160,7 @@
     "raw_ref_id": 19
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "P012",
     "en": "“I have no choice,” said Charles Darnay.",
     "ko": "선택의 여지가 없군요. 찰스 다네이가 말했다.",
@@ -160,7 +168,7 @@
     "raw_ref_id": 20
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "P013_1",
     "en": "“Choice!",
     "ko": "선택의 여지!",
@@ -168,7 +176,7 @@
     "raw_ref_id": 21
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "P013_2",
     "en": "Listen to him!” cried the scowling patriot. “As if it isn't a favor to be protected from being hanged from a street lamp!”",
     "ko": "이자의 말 좀 들어보게! 얼굴을 찌푸린 애국자가 소리쳤다. 마치 가로등에 매달리는 것에서 보호받는 게 특혜가 아닌 것처럼 말하는군!",
@@ -176,7 +184,7 @@
     "raw_ref_id": 22
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "P014",
     "en": "“It is always as the patriot says,” the official observed. “Get up and get dressed, emigrant.”",
     "ko": "애국자의 말이 항상 맞소. 관리가 덧붙였다. 일어나서 옷을 입으시오, 망명자여.",
@@ -184,7 +192,7 @@
     "raw_ref_id": 23
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "P015_1",
     "en": "Darnay did as he was told and was taken back to the guardhouse, where other patriots in red caps were smoking, drinking, and sleeping by a campfire.",
     "ko": "다네이는 시키는 대로 했고, 빨간 모자를 쓴 다른 애국자들이 모닥불 옆에서 담배를 피우고 술을 마시며 자고 있는 위병소로 다시 끌려갔다.",
@@ -192,7 +200,7 @@
     "raw_ref_id": 24
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "P015_2",
     "en": "He paid a high price for his guard, and they set out together on the muddy, wet roads at three o'clock in the morning.",
     "ko": "그는 호위병 비용으로 큰돈을 지불했고, 그들은 새벽 세시에 진흙탕의 젖은 길을 함께 출발했다.",
@@ -200,7 +208,7 @@
     "raw_ref_id": 25
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "P016",
     "en": "His guard consisted of two mounted patriots wearing red caps and ribbons showing the revolutionary colors, armed with muskets and swords, riding on either side of him.",
     "ko": "그의 호위병은 혁명을 상징하는 색의 리본과 빨간 모자를 쓰고 머스킷 총과 칼로 무장한 채 말에 탄 두 명의 애국자로 이루어져 있었으며, 그의 양옆에서 말을 탔다.",
@@ -208,7 +216,7 @@
     "raw_ref_id": 26
   },
   {
-    "id": 27,
+    "id": 28,
     "tag": "P017_1",
     "en": "The escorted prisoner governed his own horse, but a loose rope was attached to his bridle, the end of which one of the patriots kept wrapped around his wrist. In this condition they set forth with the sharp rain driving in their faces, clattering at a heavy dragoon trot over the uneven town pavement and out onto the mire-deep roads.",
     "ko": "호송받는 죄수는 자신의 말을 직접 몰았지만, 굴레에는 느슨한 줄이 매여 있었고 그 끝은 애국자 중 한 명의 손목에 감겨 있었다. 이 상태로 그들은 매서운 비를 얼굴에 맞으며 길을 나섰다. 울퉁불퉁한 마을 포장도로 위를 묵직한 기병대 속보로 덜컥거리며 지나 진흙투성이 깊은 도로로 나아갔다.",
@@ -216,7 +224,7 @@
     "raw_ref_id": 27
   },
   {
-    "id": 28,
+    "id": 29,
     "tag": "P017_3",
     "en": "They traveled this way all the miles to Paris, changing only their horses and their speed.",
     "ko": "그들은 말과 속도만 바꿀 뿐 이런 방식으로 파리까지 남은 거리를 이동했다.",
@@ -224,7 +232,7 @@
     "raw_ref_id": 29
   },
   {
-    "id": 29,
+    "id": 30,
     "tag": "P018_1",
     "en": "They traveled by night, stopping an hour or two after dawn and hiding out until twilight fell.",
     "ko": "그들은 밤에 이동했고, 동이 튼 후 한두 시간 뒤에 멈춰 땅거미가 질 때까지 숨어 있었다.",
@@ -232,7 +240,7 @@
     "raw_ref_id": 30
   },
   {
-    "id": 30,
+    "id": 31,
     "tag": "P018_2",
     "en": "The guards were so poorly dressed that they wrapped straw around their bare legs and placed bundles of straw on their shoulders to keep the rain off.",
     "ko": "경비병들은 복장이 너무 허술해서 비를 막기 위해 맨다리에 짚을 감고 어깨에는 볏짚 단을 올려놓았다.",
@@ -240,7 +248,7 @@
     "raw_ref_id": 31
   },
   {
-    "id": 31,
+    "id": 32,
     "tag": "P018_3",
     "en": "Despite the discomfort of traveling this way, and the danger of one guard being constantly drunk and carrying his gun carelessly, Darnay did not let himself panic. He reasoned that his specific case had not been heard yet, and the facts, which Gabelle could confirm, had not yet been presented.",
     "ko": "이런 식의 이동이 주는 불편함과, 한 경비병이 끊임없이 취해 총을 부주의하게 다루는 위험 속에서도 다네이는 당황하지 않았다. 그는 자신의 구체적인 사건이 아직 청취되지 않았으며, 가벨이 확인할 수 있는 사실들이 아직 제시되지 않았다고 이성적으로 생각했다.",
@@ -248,7 +256,7 @@
     "raw_ref_id": 32
   },
   {
-    "id": 32,
+    "id": 33,
     "tag": "P019_1",
     "en": "But when they reached the town of Beauvais in the evening, when the streets were crowded with people, he had to admit that things looked very bad.",
     "ko": "그러나 저녁에 사람들이 거리로 붐비는 보베 마을에 도착했을 때, 그는 상황이 매우 나빠 보인다는 것을 인정해야만 했다.",
@@ -256,7 +264,7 @@
     "raw_ref_id": 33
   },
   {
-    "id": 33,
+    "id": 34,
     "tag": "P019_2",
     "en": "An angry crowd gathered to watch him get off his horse at the station, and many voices shouted, “Down with the emigrant!”",
     "ko": "분노한 군중이 역에서 그가 말에서 내리는 것을 보려고 모여들었고, 많은 목소리들이 망명자를 타도하라!고 외쳤다.",
@@ -264,7 +272,7 @@
     "raw_ref_id": 34
   },
   {
-    "id": 34,
+    "id": 35,
     "tag": "P020",
     "en": "He paused as he was about to get off his horse and, staying in the saddle as the safest place, said:",
     "ko": "그는 말에서 내리려다 멈칫했고, 가장 안전한 장소인 안장 위에 머문 채 말했다.",
@@ -272,7 +280,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 35,
+    "id": 36,
     "tag": "P021_1",
     "en": "“An emigrant, my friends?",
     "ko": "망명자라니요, 나의 친구들?",
@@ -280,7 +288,7 @@
     "raw_ref_id": 36
   },
   {
-    "id": 36,
+    "id": 37,
     "tag": "P021_2",
     "en": "Don't you see that I came back to France of my own free will?”",
     "ko": "내가 내 자유 의지로 프랑스에 돌아온 것이 보이지 않습니까?",
@@ -288,7 +296,7 @@
     "raw_ref_id": 37
   },
   {
-    "id": 37,
+    "id": 38,
     "tag": "P022",
     "en": "“You are a cursed emigrant,” cried a blacksmith, pushing through the crowd toward him with a hammer in his hand, “and you are a cursed aristocrat!”",
     "ko": "너는 저주받은 망명자야. 한 대장장이가 손에 망치를 들고 군중을 헤치며 그를 향해 외쳤다. 그리고 너는 저주받은 귀족이다!",
@@ -296,7 +304,7 @@
     "raw_ref_id": 38
   },
   {
-    "id": 38,
+    "id": 39,
     "tag": "P023_1",
     "en": "The postmaster stepped between the blacksmith and Darnay's horse, saying calmly, “Leave him alone, leave him alone!",
     "ko": "역장이 대장장이와 다네이의 말 사이에 끼어들며 침착하게 말했다. 그를 내버려 두시오, 내버려 둬요!",
@@ -304,7 +312,7 @@
     "raw_ref_id": 39
   },
   {
-    "id": 39,
+    "id": 40,
     "tag": "P023_2",
     "en": "He will be judged in Paris.”",
     "ko": "그는 파리에서 재판을 받을 것이오.",
@@ -312,7 +320,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 40,
+    "id": 41,
     "tag": "P024",
     "en": "“Judged!” the blacksmith repeated, swinging his hammer. “Yes! And condemned as a traitor!” The crowd roared in agreement.",
     "ko": "재판이라고! 대장장이가 망치를 휘두르며 반복했다. 그래! 그리고 반역자로 사형 선고를 받겠지! 군중이 동의하며 환호성을 질렀다.",
@@ -320,7 +328,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 41,
+    "id": 42,
     "tag": "P025",
     "en": "The postmaster was trying to lead his horse into the yard. The drunken guard watched from his saddle, the rope still wrapped around his wrist. Darnay stepped in and stopped the postmaster. He spoke as loudly as he could:",
     "ko": "우체국장은 말을 이끌고 마당으로 들어가려 하고 있었다. 술 취한 경비병은 손목에 여전히 밧줄을 감은 채 안장 위에서 지켜보고 있었다. 다네이가 나서서 우체국장을 막아섰다. 그는 가능한 한 큰 목소리로 말했다:",
@@ -328,7 +336,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 42,
+    "id": 43,
     "tag": "P026_1",
     "en": "“Friends, you are mistaken.",
     "ko": "\"친구들, 여러분은 오해하고 있습니다.",
@@ -336,7 +344,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 43,
+    "id": 44,
     "tag": "P026_2",
     "en": "I am not a traitor.”",
     "ko": "나는 반역자가 아닙니다.\"",
@@ -344,7 +352,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 44,
+    "id": 45,
     "tag": "P027_1",
     "en": "“He lies!” cried the blacksmith. “He is a traitor under the new law.",
     "ko": "\"그가 거짓말을 하고 있다!\" 대장장이가 소리쳤다. \"그는 새로운 법에 따른 반역자다.",
@@ -352,7 +360,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 45,
+    "id": 46,
     "tag": "P027_2",
     "en": "His life belongs to the people.",
     "ko": "그의 목숨은 인민의 것이다.",
@@ -360,7 +368,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 46,
+    "id": 47,
     "tag": "P027_3",
     "en": "His cursed life is not his own!”",
     "ko": "그의 저주받은 목숨은 그 자신의 것이 아니다!\"",
@@ -368,7 +376,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 47,
+    "id": 48,
     "tag": "P028_1",
     "en": "Just as Darnay saw the crowd prepare to rush him, the postmaster pulled his horse into the yard, the guards followed close behind, and the postmaster shut and locked the creaky double gates.",
     "ko": "다네이가 군중이 자신에게 덤벼들 준비를 하는 것을 본 바로 그 순간, 우체국장은 자신의 말을 마당으로 끌어들였고, 경비병들이 바짝 뒤따랐으며, 우체국장은 삐걱거리는 이중 문을 닫고 자물쇠를 채웠다.",
@@ -376,7 +384,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 48,
+    "id": 49,
     "tag": "P028_2",
     "en": "The blacksmith hit the gates with his hammer, and the crowd groaned in disappointment, but they did not try to break in.",
     "ko": "대장장이가 자신의 망치로 문을 쳤고 군중은 실망감에 신음했지만, 안으로 뚫고 들어오려 하지는 않았다.",
@@ -384,7 +392,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 49,
+    "id": 50,
     "tag": "P029",
     "en": "“What is this new law the blacksmith mentioned?” Darnay asked the postmaster, after thanking him.",
     "ko": "\"대장장이가 언급한 이 새로운 법이란 것이 무엇입니까?\" 다네이가 그에게 감사를 표한 후 우체국장에게 물었다.",
@@ -392,7 +400,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 50,
+    "id": 51,
     "tag": "P030",
     "en": "“It is a law to sell the property of all exiles.”",
     "ko": "\"그것은 모든 망명자의 재산을 몰수하여 매각하는 법이오.\"",
@@ -400,7 +408,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 51,
+    "id": 52,
     "tag": "P031",
     "en": "“When was it passed?”",
     "ko": "\"그 법이 언제 통과되었습니까?\"",
@@ -408,7 +416,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 52,
+    "id": 53,
     "tag": "P032",
     "en": "“On the fourteenth.”",
     "ko": "\"십사일에 통과되었소.\"",
@@ -416,7 +424,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 53,
+    "id": 54,
     "tag": "P033",
     "en": "“The very day I left England!”",
     "ko": "\"내가 영국을 떠난 바로 그날이군요!\"",
@@ -424,7 +432,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 54,
+    "id": 55,
     "tag": "P034_1",
     "en": "“Everyone says it is just the first of many laws. They say there will be others, if they aren't passed already, banishing all emigrants, and sentencing anyone who returns to death.",
     "ko": "\"다들 그 법이 수많은 법들 중 첫 번째에 불과하다고들 하오. 아직 통과되지 않았다면 다른 법들도 생길 텐데, 모든 망명자를 추방하고 돌아오는 누구에게든 사형을 선고할 것이라 하오.",
@@ -432,7 +440,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 55,
+    "id": 56,
     "tag": "P034_2",
     "en": "That is why he said your life is not your own.”",
     "ko": "그래서 그가 당신의 목숨이 당신의 것이 아니라고 말한 것이오.\"",
@@ -440,7 +448,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 56,
+    "id": 57,
     "tag": "P035",
     "en": "“But those laws haven't actually been passed yet, have they?”",
     "ko": "\"하지만 그런 법들이 아직 실제로 통과된 것은 아니지 않습니까?\"",
@@ -448,7 +456,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 57,
+    "id": 58,
     "tag": "P036_1",
     "en": "“How should I know!” the postmaster said, shrugging. “Maybe they have, or maybe they will.",
     "ko": "\"내가 어찌 알겠소!\" 우체국장이 어깨를 으쓱하며 말했다. \"통과되었을지도 모르고, 앞으로 통과될지도 모르지.",
@@ -456,7 +464,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 58,
+    "id": 59,
     "tag": "P036_2",
     "en": "It is all the same.",
     "ko": "모두 마찬가지요.",
@@ -464,7 +472,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 59,
+    "id": 60,
     "tag": "P036_3",
     "en": "What can you do?”",
     "ko": "당신이 할 수 있는 일이 무엇이겠소?\"",
@@ -472,7 +480,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 60,
+    "id": 61,
     "tag": "P037_1",
     "en": "They rested on some straw in a loft until the middle of the night, then rode on while the town was asleep.",
     "ko": "그들은 한밤중이 될 때까지 다락방의 짚더미 위에서 쉬었고, 그런 다음 마을이 잠든 사이에 말을 타고 나아갔다.",
@@ -480,7 +488,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 61,
+    "id": 62,
     "tag": "P037_2",
     "en": "Among the strange changes that made this ride feel like a dream, the rarest thing seemed to be sleep.",
     "ko": "이 여정을 꿈처럼 느껴지게 만든 낯선 변화들 중에서 가장 보기 드문 것은 잠인 듯했다.",
@@ -488,7 +496,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 62,
+    "id": 63,
     "tag": "P037_3",
     "en": "After riding for miles over lonely, dark roads, they would come across small villages that were completely lit up. In the middle of the night, they would see groups of villagers holding hands and dancing around a dry \"Liberty Tree\" or gathering to sing revolutionary songs.",
     "ko": "인적 없고 어두운 길을 몇 마일이나 달린 후에, 그들은 완전히 환하게 불이 켜진 작은 마을들과 마주치곤 했다. 한밤중에 그들은 마을 사람들이 손에 손을 잡고 마른 자유의 나무 주위를 춤추며 돌거나 모여서 혁명가를 부르는 무리를 보곤 했다.",
@@ -496,7 +504,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 63,
+    "id": 64,
     "tag": "P037_4",
     "en": "Fortunately, the people of Beauvais were sleeping, allowing them to pass through quietly into the cold, wet night. They rode past barren fields that had grown no food that year, ruined houses blackened by fire, and patrols of patriots who suddenly jumped out to stop them on the road.",
     "ko": "다행히도 보베의 사람들은 잠들어 있어서, 그들은 차갑고 축축한 밤을 틈타 조용히 지나갈 수 있었다. 그들은 그 해에 어떤 식량도 자라지 않은 황량한 들판과, 불에 타서 새까맣게 변한 폐허가 된 집들, 그리고 길에서 그들을 막아세우기 위해 갑자기 튀어나오는 애국자들의 순찰대 곁을 말을 타고 지나갔다.",
@@ -504,7 +512,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 64,
+    "id": 65,
     "tag": "P038_1",
     "en": "At dawn, they finally arrived at the gates of Paris.",
     "ko": "동이 틀 무렵, 그들은 마침내 파리의 성문에 도착했다.",
@@ -512,7 +520,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 65,
+    "id": 66,
     "tag": "P038_2",
     "en": "The barrier was closed and heavily guarded when they approached.",
     "ko": "그들이 다가갔을 때 관문은 굳게 닫혀 있었고 삼엄한 경비가 이루어지고 있었다.",
@@ -520,7 +528,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 66,
+    "id": 67,
     "tag": "P039",
     "en": "“Where are this prisoner's papers?” demanded a stern official who came out of the guardhouse.",
     "ko": "\"이 죄수의 서류는 어디에 있소?\" 위병소에서 나온 엄격해 보이는 관리가 요구했다.",
@@ -528,7 +536,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 67,
+    "id": 68,
     "tag": "P040",
     "en": "The word \"prisoner\" hit Charles Darnay like a blow. He spoke up at once. He was a free traveler, he said, a French citizen. He had paid for the guard himself, because of the chaotic state of the country.",
     "ko": "죄수라는 단어가 찰스 다네이에게 일격처럼 날아왔다. 그는 즉시 목소리를 높였다. 자신은 자유로운 여행자이자 프랑스 시민이라고 그는 말했다. 나라가 혼란스러운 상태였기 때문에 그가 직접 경비병에게 돈을 지불한 것이었다.",
@@ -536,7 +544,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 68,
+    "id": 69,
     "tag": "P041",
     "en": "“Where,” the official repeated, completely ignoring him, “are this prisoner's papers?”",
     "ko": "\"이 죄수의 서류는,\" 관리가 그를 완전히 무시하며 반복했다, \"어디에 있단 말이오?\"",
@@ -544,7 +552,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 69,
+    "id": 70,
     "tag": "P042_1",
     "en": "The drunken guard pulled the papers out of his cap and handed them over.",
     "ko": "술 취한 경비병이 자신의 모자에서 서류를 꺼내어 건네주었다.",
@@ -552,7 +560,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 70,
+    "id": 71,
     "tag": "P042_2",
     "en": "Reading Gabelle's letter, the official looked surprised and stared closely at Darnay.",
     "ko": "가벨의 편지를 읽으며 관리는 놀란 표정을 지었고 다네이를 유심히 응시했다.",
@@ -560,7 +568,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 71,
+    "id": 72,
     "tag": "P043_1",
     "en": "Without another word, the official went inside the guardroom, leaving them waiting on their horses outside the gate.",
     "ko": "다른 말 없이, 관리는 위병소 안으로 들어갔고, 그들이 성문 밖에서 말을 탄 채 기다리게 내버려 두었다.",
@@ -568,7 +576,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 72,
+    "id": 73,
     "tag": "P043_2",
     "en": "During this tense wait, Darnay noticed that the gate was guarded by a mix of soldiers and patriots, with the patriots far outnumbering the soldiers. He saw that while it was easy for carts and peasants to enter the city, it was very difficult for anyone to leave.",
     "ko": "이 긴장되는 대기 시간 동안, 다네이는 성문이 군인들과 애국자들의 혼성 병력에 의해 경비되고 있으며 애국자들의 수가 군인들보다 훨씬 더 많다는 것을 알아차렸다. 그는 수레와 농민들이 도시로 들어가는 것은 쉬운 반면, 누구든 떠나는 것은 매우 어렵다는 것을 목격했다.",
@@ -576,7 +584,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 73,
+    "id": 74,
     "tag": "P043_3",
     "en": "A large crowd of people, animals, and carriages waited to exit, but the security check was so strict that they could only trickle through.",
     "ko": "짐승들과 마차들, 그리고 많은 사람의 무리가 나가기 위해 기다리고 있었지만, 보안 검색이 너무나도 엄격하여 그들은 그저 조금씩 빠져나갈 수 있을 뿐이었다.",
@@ -584,7 +592,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 74,
+    "id": 75,
     "tag": "P043_4",
     "en": "Some people knew they would have to wait so long that they lay down on the ground to sleep or smoke, while others chatted or walked around.",
     "ko": "어떤 사람들은 그들이 너무 오래 기다려야 한다는 것을 알고는 땅에 누워 잠을 자거나 담배를 피웠고, 반면에 다른 이들은 수다를 떨거나 주변을 서성거렸다.",
@@ -592,7 +600,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 75,
+    "id": 76,
     "tag": "P043_5",
     "en": "Everyone, both men and women, wore red caps and revolutionary ribbons.",
     "ko": "남자와 여자를 불문하고 모든 사람들이 붉은 모자와 혁명 리본을 착용하고 있었다.",
@@ -600,7 +608,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 76,
+    "id": 77,
     "tag": "P044_1",
     "en": "After Darnay had waited in his saddle for about half an hour, the official returned and ordered the guards to open the gate.",
     "ko": "다네이가 안장 위에서 약 삼십분을 기다린 후, 관리가 돌아와 경비병들에게 성문을 열라고 명령했다.",
@@ -608,7 +616,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 77,
+    "id": 78,
     "tag": "P044_2",
     "en": "He gave the two guards a receipt for Darnay and told Darnay to get off his horse.",
     "ko": "그는 두 경비병에게 다네이에 대한 인수증을 주고 다네이에게 말에서 내리라고 말했다.",
@@ -616,7 +624,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 78,
+    "id": 79,
     "tag": "P044_3",
     "en": "He did so, and the two guards took his tired horse, turned around, and rode back without entering Paris.",
     "ko": "그가 그렇게 하자, 두 경비병은 그의 지친 말을 끌고 돌아서서 파리로 들어가지 않은 채 되돌아갔다.",
@@ -624,7 +632,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 79,
+    "id": 80,
     "tag": "P045_1",
     "en": "He followed his guide into a guardroom that smelled of cheap wine and tobacco, where soldiers and patriots in various states of sleep and drunkenness were lounging around.",
     "ko": "그는 안내자를 따라 값싼 포도주와 담배 냄새가 나는 위병소 안으로 들어갔는데, 그곳에는 수면과 만취 등 다양한 상태의 군인들과 애국자들이 빈둥거리며 널브러져 있었다.",
@@ -632,7 +640,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 80,
+    "id": 81,
     "tag": "P045_2",
     "en": "The light in the room, coming partly from dying oil lamps and partly from the cloudy morning, was dim and gloomy.",
     "ko": "부분적으로는 꺼져가는 기름 램프에서, 또 부분적으로는 흐린 아침에서 들어오는 방 안의 빛은 희미하고 우울했다.",
@@ -640,7 +648,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 81,
+    "id": 82,
     "tag": "P045_3",
     "en": "Several record books lay open on a desk, where a rough, dark-looking officer sat in charge.",
     "ko": "책상 위에는 여러 권의 기록 장부들이 펼쳐져 있었고, 그곳에는 거칠고 어두워 보이는 장교가 책임자로 앉아 있었다.",
@@ -648,7 +656,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 82,
+    "id": 83,
     "tag": "P046",
     "en": "“Citizen Defarge,” the officer said to Darnay's guide, picking up a slip of paper. “Is this the emigrant Evremonde?”",
     "ko": "\"시민 드파르지,\" 장교가 종이 한 장을 집어 들며 다네이의 안내자에게 말했다. \"이 자가 망명자 에브레몽드인가?\"",
@@ -656,7 +664,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 83,
+    "id": 84,
     "tag": "P047",
     "en": "“This is the man.”",
     "ko": "\"바로 이 사람입니다.\"",
@@ -664,7 +672,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 84,
+    "id": 85,
     "tag": "P048",
     "en": "“Your age, Evremonde?”",
     "ko": "\"나이는, 에브레몽드?\"",
@@ -672,7 +680,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 85,
+    "id": 86,
     "tag": "P049",
     "en": "“Thirty-seven.”",
     "ko": "\"서른일곱입니다.\"",
@@ -680,7 +688,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 86,
+    "id": 87,
     "tag": "P050",
     "en": "“Married, Evremonde?”",
     "ko": "\"결혼했는가, 에브레몽드?\"",
@@ -688,7 +696,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 87,
+    "id": 88,
     "tag": "P051",
     "en": "“Yes.”",
     "ko": "\"예.\"",
@@ -696,7 +704,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 88,
+    "id": 89,
     "tag": "P052",
     "en": "“Where were you married?”",
     "ko": "\"어디서 결혼했지?\"",
@@ -704,7 +712,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 89,
+    "id": 90,
     "tag": "P053",
     "en": "“In England.”",
     "ko": "\"영국에서 했습니다.\"",
@@ -712,7 +720,7 @@
     "raw_ref_id": 90
   },
   {
-    "id": 90,
+    "id": 91,
     "tag": "P054_1",
     "en": "“Of course.",
     "ko": "\"당연하겠지.",
@@ -720,7 +728,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 91,
+    "id": 92,
     "tag": "P054_2",
     "en": "Where is your wife, Evremonde?”",
     "ko": "아내는 어디 있나, 에브레몽드?\"",
@@ -728,7 +736,7 @@
     "raw_ref_id": 92
   },
   {
-    "id": 92,
+    "id": 93,
     "tag": "P055",
     "en": "“In England.”",
     "ko": "\"영국에 있습니다.\"",
@@ -736,7 +744,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 93,
+    "id": 94,
     "tag": "P056_1",
     "en": "“Of course.",
     "ko": "\"물론 그렇겠지.",
@@ -744,7 +752,7 @@
     "raw_ref_id": 94
   },
   {
-    "id": 94,
+    "id": 95,
     "tag": "P056_2",
     "en": "You are sent, Evremonde, to the prison of La Force.”",
     "ko": "너를 라 포르스 감옥으로 보낸다, 에브레몽드.\"",
@@ -752,7 +760,7 @@
     "raw_ref_id": 95
   },
   {
-    "id": 95,
+    "id": 96,
     "tag": "P057",
     "en": "“Good heavens!” Darnay exclaimed. “Under what law, and for what crime?”",
     "ko": "\"맙소사!\" 다네이가 외쳤다. \"무슨 법에 의해, 그리고 무슨 죄목으로 말입니까?\"",
@@ -760,7 +768,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 96,
+    "id": 97,
     "tag": "P058",
     "en": "The officer looked up from his paper for a moment.",
     "ko": "장교는 잠시 서류에서 고개를 들었다.",
@@ -768,7 +776,7 @@
     "raw_ref_id": 97
   },
   {
-    "id": 97,
+    "id": 98,
     "tag": "P059",
     "en": "“\"We have new laws, Evremonde, and new crimes, since you were last here,\" he said with a cold smile. Then he went on writing.",
     "ko": "\"네가 마지막으로 이곳에 온 이후로 우리에게는 새로운 법과 새로운 범죄들이 생겼다, 에브레몽드,\" 그가 차가운 미소를 지으며 말했다. 그러고 나서 그는 계속해서 글을 썼다.",
@@ -776,7 +784,7 @@
     "raw_ref_id": 98
   },
   {
-    "id": 98,
+    "id": 99,
     "tag": "P060_1",
     "en": "“Please understand that I came here voluntarily, responding to the letter of a fellow countryman which you have there.",
     "ko": "\"내가 여기 자발적으로 왔다는 것을, 당신이 가지고 있는 내 동포의 편지에 응하여 왔다는 것을 제발 이해해주시오.",
@@ -784,7 +792,7 @@
     "raw_ref_id": 99
   },
   {
-    "id": 99,
+    "id": 100,
     "tag": "P060_2",
     "en": "All I want is the chance to explain my case.",
     "ko": "내가 원하는 것은 단지 내 입장을 설명할 기회뿐입니다.",
@@ -792,7 +800,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 100,
+    "id": 101,
     "tag": "P060_3",
     "en": "Is that not my right?”",
     "ko": "그것은 나의 권리가 아닙니까?\"",
@@ -800,7 +808,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 101,
+    "id": 102,
     "tag": "P061_1",
     "en": "“\"Emigrants have no rights, Evremonde,\" was the flat reply.",
     "ko": "\"망명자들에게는 권리가 없다, 에브레몽드,\"라는 단호한 대답이 돌아왔다.",
@@ -808,7 +816,7 @@
     "raw_ref_id": 102
   },
   {
-    "id": 102,
+    "id": 103,
     "tag": "P061_2",
     "en": "The officer finished writing. He read it over, dried the ink with sand, and handed the paper to Defarge. \"In secret,\" he said.”",
     "ko": "장교는 글쓰기를 마쳤다. 그는 그것을 다 읽고 모래로 잉크를 말린 다음 드파르지에게 종이를 건넸다. \"비밀리에,\" 그가 말했다.\"",
@@ -816,7 +824,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 103,
+    "id": 104,
     "tag": "P062_1",
     "en": "Defarge gestured with the paper that the prisoner had to follow him.",
     "ko": "드파르지는 종이로 몸짓을 하며 죄수가 자신을 따라와야 한다고 표시했다.",
@@ -824,7 +832,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 104,
+    "id": 105,
     "tag": "P062_2",
     "en": "Darnay obeyed, escorted by two armed patriots.",
     "ko": "두 명의 무장한 애국자들에게 호위받으며, 다네이는 복종했다.",
@@ -832,7 +840,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 105,
+    "id": 106,
     "tag": "P063",
     "en": "“Are you the one,” Defarge asked quietly as they walked down the steps into Paris, “who married the daughter of Doctor Manette, who was once a prisoner in the Bastille?”",
     "ko": "\"당신이,\" 그들이 파리를 향해 계단을 걸어 내려갈 때 드파르지가 조용히 물었다, \"한때 바스티유의 죄수였던 마네트 박사의 딸과 결혼한 그 사람입니까?\"",
@@ -840,7 +848,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 106,
+    "id": 107,
     "tag": "P064",
     "en": "“Yes,” Darnay replied, looking at him in surprise.",
     "ko": "\"그렇습니다,\" 다네이는 놀라서 그를 쳐다보며 대답했다.",
@@ -848,7 +856,7 @@
     "raw_ref_id": 107
   },
   {
-    "id": 107,
+    "id": 108,
     "tag": "P065_1",
     "en": "“My name is Defarge. I own a wine shop in the Saint Antoine district.",
     "ko": "\"내 이름은 드파르지입니다. 생탕투안 지역에서 와인 가게를 운영하고 있죠.",
@@ -856,7 +864,7 @@
     "raw_ref_id": 108
   },
   {
-    "id": 108,
+    "id": 109,
     "tag": "P065_2",
     "en": "Perhaps you have heard of me.”",
     "ko": "아마 내 이야기를 들어본 적이 있을 겁니다.\"",
@@ -864,7 +872,7 @@
     "raw_ref_id": 109
   },
   {
-    "id": 109,
+    "id": 110,
     "tag": "P066_1",
     "en": "“My wife came to your shop to find her father?",
     "ko": "\"제 아내가 아버지를 찾으러 당신의 가게에 왔었군요?",
@@ -872,7 +880,7 @@
     "raw_ref_id": 110
   },
   {
-    "id": 110,
+    "id": 111,
     "tag": "P066_2",
     "en": "Yes!”",
     "ko": "네!\"",
@@ -880,7 +888,7 @@
     "raw_ref_id": 111
   },
   {
-    "id": 111,
+    "id": 112,
     "tag": "P067",
     "en": "The word “wife” seemed to upset Defarge, who said with sudden anger, “In the name of that sharp new machine called the Guillotine, why on earth did you come back to France?”",
     "ko": "아내라는 단어가 드파르지를 심란하게 만든 것 같았고, 그는 갑작스런 분노와 함께 말했다. \"기요틴이라는 그 날카로운 새 기계의 이름으로 묻건대, 도대체 왜 프랑스로 돌아온 거요?\"",
@@ -888,7 +896,7 @@
     "raw_ref_id": 112
   },
   {
-    "id": 112,
+    "id": 113,
     "tag": "P068_1",
     "en": "“You heard me explain why just a minute ago.",
     "ko": "\"내가 왜 그랬는지 방금 전 당신이 듣지 않았습니까.",
@@ -896,7 +904,7 @@
     "raw_ref_id": 113
   },
   {
-    "id": 113,
+    "id": 114,
     "tag": "P068_2",
     "en": "Don't you believe it is the truth?”",
     "ko": "그게 진실이라는 것을 믿지 않습니까?\"",
@@ -904,7 +912,7 @@
     "raw_ref_id": 114
   },
   {
-    "id": 114,
+    "id": 115,
     "tag": "P069",
     "en": "“It is a bad truth for you,” Defarge said, frowning and looking straight ahead.",
     "ko": "\"그것은 당신에게 나쁜 진실이오,\" 드파르지가 미간을 찌푸린 채 정면을 바라보며 말했다.",
@@ -912,7 +920,7 @@
     "raw_ref_id": 115
   },
   {
-    "id": 115,
+    "id": 116,
     "tag": "P070_1",
     "en": "“I am completely lost here.",
     "ko": "\"나는 지금 여기서 완전히 길을 잃은 기분입니다.",
@@ -920,7 +928,7 @@
     "raw_ref_id": 116
   },
   {
-    "id": 116,
+    "id": 117,
     "tag": "P070_2",
     "en": "\"All here is so unprecedented, so changed, so sudden and unfair, that I am absolutely lost. Will you render me a little help?\"",
     "ko": "\"이곳의 모든 것이 너무나 전례 없고, 너무나 변했으며, 너무나 갑작스럽고 부당해서 어찌할 바를 모르겠습니다. 저를 조금 도와주시겠습니까?\"",
@@ -928,7 +936,7 @@
     "raw_ref_id": 117
   },
   {
-    "id": 117,
+    "id": 118,
     "tag": "P071",
     "en": "“No.” Defarge spoke without looking at him.",
     "ko": "\"아니오.\" 드파르지는 그를 쳐다보지도 않고 말했다.",
@@ -936,7 +944,7 @@
     "raw_ref_id": 119
   },
   {
-    "id": 118,
+    "id": 119,
     "tag": "P072",
     "en": "“Will you answer just one question?”",
     "ko": "\"단 하나의 질문에만 대답해 주시겠습니까?\"",
@@ -944,7 +952,7 @@
     "raw_ref_id": 120
   },
   {
-    "id": 119,
+    "id": 120,
     "tag": "P073_1",
     "en": "“Maybe, depending on what it is.",
     "ko": "\"질문이 무엇인지에 따라 그럴 수도 있소.",
@@ -952,7 +960,7 @@
     "raw_ref_id": 121
   },
   {
-    "id": 120,
+    "id": 121,
     "tag": "P073_2",
     "en": "Ask it.”",
     "ko": "물어보시오.\"",
@@ -960,7 +968,7 @@
     "raw_ref_id": 122
   },
   {
-    "id": 121,
+    "id": 122,
     "tag": "P074",
     "en": "“In this prison where I am being sent so unfairly, will I be allowed to communicate with the outside world?”",
     "ko": "\"내가 이렇게 부당하게 보내지는 이 감옥에서, 외부 세계와 연락하는 것이 허용됩니까?\"",
@@ -968,7 +976,7 @@
     "raw_ref_id": 123
   },
   {
-    "id": 122,
+    "id": 123,
     "tag": "P075",
     "en": "“You will see.”",
     "ko": "\"두고 보면 알게 될 거요.\"",
@@ -976,7 +984,7 @@
     "raw_ref_id": 124
   },
   {
-    "id": 123,
+    "id": 124,
     "tag": "P076",
     "en": "“I won't be buried there forever without any chance to explain my case, will I?”",
     "ko": "\"내 입장을 설명할 어떤 기회도 없이 그곳에 영원히 파묻혀 있지는 않겠지요, 그렇지 않습니까?\"",
@@ -984,7 +992,7 @@
     "raw_ref_id": 125
   },
   {
-    "id": 124,
+    "id": 125,
     "tag": "P077_1",
     "en": "“You will see.",
     "ko": "\"두고 보면 알게 될 거요.",
@@ -992,7 +1000,7 @@
     "raw_ref_id": 126
   },
   {
-    "id": 125,
+    "id": 126,
     "tag": "P077_2",
     "en": "But what of it?",
     "ko": "하지만 그게 무슨 소용이오?",
@@ -1000,7 +1008,7 @@
     "raw_ref_id": 127
   },
   {
-    "id": 126,
+    "id": 127,
     "tag": "P077_3",
     "en": "Many others have been buried in worse prisons before now.”",
     "ko": "지금까지 수많은 다른 이들이 더 끔찍한 감옥들에 묻혀 있었소.\"",
@@ -1008,7 +1016,7 @@
     "raw_ref_id": 128
   },
   {
-    "id": 127,
+    "id": 128,
     "tag": "P078",
     "en": "“But never by me, Citizen Defarge.”",
     "ko": "\"하지만 저에 의해서는 결코 아니었습니다, 시민 드파르지.\"",
@@ -1016,7 +1024,7 @@
     "raw_ref_id": 129
   },
   {
-    "id": 128,
+    "id": 129,
     "tag": "P079_1",
     "en": "Defarge gave him a dark look and kept walking in silence.",
     "ko": "드파르지는 그에게 어두운 시선을 던지고는 침묵 속에 계속 걸었다.",
@@ -1024,7 +1032,7 @@
     "raw_ref_id": 130
   },
   {
-    "id": 129,
+    "id": 130,
     "tag": "P079_2",
     "en": "As Defarge remained silent, Darnay lost hope of changing his mind.",
     "ko": "드파르지가 침묵을 지키자, 다네이는 그의 마음을 돌리려는 희망을 잃었다.",
@@ -1032,7 +1040,7 @@
     "raw_ref_id": 131
   },
   {
-    "id": 130,
+    "id": 131,
     "tag": "P079_3",
     "en": "So, he quickly added:",
     "ko": "그래서, 그는 재빨리 덧붙였다:",
@@ -1040,7 +1048,7 @@
     "raw_ref_id": 132
   },
   {
-    "id": 131,
+    "id": 132,
     "tag": "P080_1",
     "en": "\"It is of the utmost importance to me (you know, Citizen, even better than I, of how much importance), that I should be able to communicate to Mr. Lorry of Tellson’s Bank, an English gentleman who is now in Paris, the simple fact, without comment, that I have been thrown into the prison of La Force.",
     "ko": "\"제가 지금 파리에 계신 영국인 신사인 텔슨 은행의 로리 씨에게, 아무런 부연 설명 없이 단지 라 포르스 감옥에 갇혔다는 단순한 사실만을 전할 수 있는 것이 제게는 더없이 중요한 일입니다(시민 동무, 당신은 이것이 얼마나 중요한 일인지 나보다도 더 잘 알고 있겠지만요).",
@@ -1048,7 +1056,7 @@
     "raw_ref_id": 133
   },
   {
-    "id": 132,
+    "id": 133,
     "tag": "P080_3",
     "en": "Will you get that message to him?”",
     "ko": "그에게 그 메시지를 전해주시겠습니까?\"",
@@ -1056,7 +1064,7 @@
     "raw_ref_id": 135
   },
   {
-    "id": 133,
+    "id": 134,
     "tag": "P081_1",
     "en": "“I will do nothing for you,” Defarge replied stubbornly. “My duty is to my country and the People.",
     "ko": "\"나는 당신을 위해 아무것도 하지 않을 것이오,\" 드파르지가 완고하게 대답했다. \"내 의무는 나의 조국과 인민을 향한 것이오.",
@@ -1064,7 +1072,7 @@
     "raw_ref_id": 136
   },
   {
-    "id": 134,
+    "id": 135,
     "tag": "P081_2",
     "en": "I am sworn to serve them against you.",
     "ko": "나는 당신을 거슬러 그들에게 봉사할 것을 맹세했소.",
@@ -1072,7 +1080,7 @@
     "raw_ref_id": 137
   },
   {
-    "id": 135,
+    "id": 136,
     "tag": "P081_3",
     "en": "I will do nothing for you.”",
     "ko": "나는 당신을 위해 아무것도 하지 않겠소.\"",
@@ -1080,7 +1088,7 @@
     "raw_ref_id": 138
   },
   {
-    "id": 136,
+    "id": 137,
     "tag": "P082_1",
     "en": "Darnay knew it was useless to beg, and his pride was hurt as well.",
     "ko": "다네이는 구걸하는 것이 소용없음을 알았고, 그의 자존심 역시 상처받았다.",
@@ -1088,7 +1096,7 @@
     "raw_ref_id": 139
   },
   {
-    "id": 137,
+    "id": 138,
     "tag": "P082_2",
     "en": "As they walked in silence, he noticed that the citizens were completely used to seeing prisoners led through the streets.",
     "ko": "그들이 침묵 속에 걷는 동안, 그는 시민들이 죄수들이 거리를 거쳐 끌려가는 것을 보는 것에 완전히 익숙해져 있음을 알아차렸다.",
@@ -1096,7 +1104,7 @@
     "raw_ref_id": 140
   },
   {
-    "id": 138,
+    "id": 139,
     "tag": "P082_3",
     "en": "Even children barely looked at him.",
     "ko": "심지어 아이들조차 그를 거의 쳐다보지 않았다.",
@@ -1104,7 +1112,7 @@
     "raw_ref_id": 141
   },
   {
-    "id": 139,
+    "id": 140,
     "tag": "P082_4",
     "en": "A few people turned their heads, and some shook their fingers at him for being an aristocrat. Other than that, seeing a well-dressed man going to prison was no more unusual than seeing a laborer in work clothes heading to work.",
     "ko": "몇몇 사람들은 고개를 돌렸고, 어떤 이들은 그가 귀족이라는 이유로 그를 향해 손가락질을 했다. 그것을 제외하면, 잘 차려입은 남자가 감옥으로 가는 것을 보는 것은 작업복을 입은 노동자가 일터로 향하는 것을 보는 것보다 더 특이할 것이 없었다.",
@@ -1112,7 +1120,7 @@
     "raw_ref_id": 142
   },
   {
-    "id": 140,
+    "id": 141,
     "tag": "P082_5",
     "en": "But otherwise, seeing a well-dressed man going to prison was as ordinary as seeing a worker going to a job.",
     "ko": "하지만 그 외에는 잘 차려입은 남자가 감옥으로 가는 모습을 보는 것은 일꾼이 일터로 가는 것을 보는 것만큼이나 평범했다.",
@@ -1120,7 +1128,7 @@
     "raw_ref_id": 143
   },
   {
-    "id": 141,
+    "id": 142,
     "tag": "P082_6",
     "en": "In a narrow, dirty street, an angry speaker on a stool was shouting to a crowd about the crimes of the king and the royal family.",
     "ko": "좁고 더러운 거리에서, 스툴 위에 올라선 화난 연설자가 군중에게 왕과 왕실의 범죄에 대해 소리치고 있었다.",
@@ -1128,7 +1136,7 @@
     "raw_ref_id": 144
   },
   {
-    "id": 142,
+    "id": 143,
     "tag": "P082_7",
     "en": "The few words Darnay caught made him realize for the first time that the king had been imprisoned and that all foreign ambassadors had left Paris.",
     "ko": "다네이가 들은 몇 마디 말로 인해 그는 왕이 감옥에 갇혔고 모든 외국 대사들이 파리를 떠났다는 것을 처음으로 깨달았다.",
@@ -1136,7 +1144,7 @@
     "raw_ref_id": 145
   },
   {
-    "id": 143,
+    "id": 144,
     "tag": "P082_8",
     "en": "He had heard nothing on his journey except at Beauvais, because his guards and the security checks had kept him completely isolated.",
     "ko": "경비병들과 보안 검색 때문에 완전히 고립되어 있었기 때문에, 그는 보베에서 들은 것 외에는 여행 중 아무것도 듣지 못했다.",
@@ -1144,7 +1152,7 @@
     "raw_ref_id": 146
   },
   {
-    "id": 144,
+    "id": 145,
     "tag": "P083_1",
     "en": "He knew now that he was in far greater danger than he had realized when leaving England, and that the threats around him were growing quickly.",
     "ko": "그는 영국을 떠날 때 깨달았던 것보다 지금 자신이 훨씬 더 큰 위험에 처해 있으며, 그를 둘러싼 위협이 빠르게 커지고 있다는 것을 이제 알았다.",
@@ -1152,7 +1160,7 @@
     "raw_ref_id": 147
   },
   {
-    "id": 145,
+    "id": 146,
     "tag": "P083_2",
     "en": "He admitted to himself that he would not have made this trip if he had known what would happen.",
     "ko": "그는 무슨 일이 일어날지 알았다면 이 여행을 하지 않았을 것이라고 스스로 인정했다.",
@@ -1160,7 +1168,7 @@
     "raw_ref_id": 148
   },
   {
-    "id": 146,
+    "id": 147,
     "tag": "P083_3",
     "en": "Yet, his fears were not as dark as they might seem to us looking back.",
     "ko": "하지만, 그의 두려움은 우리가 되돌아볼 때 보이는 것만큼 어둡지는 않았다.",
@@ -1168,7 +1176,7 @@
     "raw_ref_id": 149
   },
   {
-    "id": 147,
+    "id": 148,
     "tag": "P083_4",
     "en": "The future was scary, but it was still unknown, and its mystery left room for hope.",
     "ko": "미래는 두려웠지만 여전히 알 수 없었고, 그 신비로움은 희망의 여지를 남겼다.",
@@ -1176,7 +1184,7 @@
     "raw_ref_id": 150
   },
   {
-    "id": 148,
+    "id": 149,
     "tag": "P083_5",
     "en": "He had no idea that a horrible massacre, lasting for days and nights, would soon leave a huge bloody mark on this peaceful harvest season within just a few hours. He was as completely unaware of it as if it were a hundred thousand years in the future.",
     "ko": "그는 며칠 밤낮으로 계속되는 끔찍한 학살이 단 몇 시간 안에 이 평화로운 수확의 계절에 거대한 피의 자국을 남기게 될 줄은 전혀 몰랐다. 그는 그것이 십만 년 후의 미래인 것처럼 완전히 알지 못했다.",
@@ -1184,7 +1192,7 @@
     "raw_ref_id": 151
   },
   {
-    "id": 149,
+    "id": 150,
     "tag": "P083_6",
     "en": "The name of the Guillotine was barely known to him or to most people.",
     "ko": "단두대의 이름은 그에게나 대부분의 사람들에게 거의 알려지지 않았다.",
@@ -1192,7 +1200,7 @@
     "raw_ref_id": 152
   },
   {
-    "id": 150,
+    "id": 151,
     "tag": "P083_7",
     "en": "The terrible acts that were about to happen were probably not even imagined yet by the people who would commit them.",
     "ko": "곧 일어날 끔찍한 일들은 아마 그것을 저지를 사람들조차도 아직 상상하지 못했을 것이다.",
@@ -1200,7 +1208,7 @@
     "raw_ref_id": 153
   },
   {
-    "id": 151,
+    "id": 152,
     "tag": "P083_8",
     "en": "How could such horrors exist in the mind of a gentle man?",
     "ko": "어떻게 그런 공포가 온화한 사람의 마음에 존재할 수 있겠는가?",
@@ -1208,7 +1216,7 @@
     "raw_ref_id": 154
   },
   {
-    "id": 152,
+    "id": 153,
     "tag": "P084_1",
     "en": "He expected unfair treatment, hardships, and the painful separation from his wife and child, but he did not fear anything worse than that.",
     "ko": "그는 불공평한 대우, 고난, 그리고 아내와 아이와의 고통스러운 이별을 예상했지만, 그것보다 더 나쁜 것은 두려워하지 않았다.",
@@ -1216,7 +1224,7 @@
     "raw_ref_id": 155
   },
   {
-    "id": 153,
+    "id": 154,
     "tag": "P084_2",
     "en": "With these heavy thoughts, he arrived at the gates of La Force prison.",
     "ko": "이런 무거운 생각들을 안고 그는 라 포스 감옥의 문에 도착했다.",
@@ -1224,7 +1232,7 @@
     "raw_ref_id": 156
   },
   {
-    "id": 154,
+    "id": 155,
     "tag": "P085",
     "en": "A man with a red, swollen face opened the small gate, and Defarge announced, “The Emigrant Evremonde.”",
     "ko": "얼굴이 붉고 부어오른 한 남자가 작은 문을 열었고, 드파르지가 “망명자 에브레몽드”라고 알렸다.",
@@ -1232,7 +1240,7 @@
     "raw_ref_id": 157
   },
   {
-    "id": 155,
+    "id": 156,
     "tag": "P086_1",
     "en": "“What the devil!",
     "ko": "“빌어먹을!",
@@ -1240,7 +1248,7 @@
     "raw_ref_id": 158
   },
   {
-    "id": 156,
+    "id": 157,
     "tag": "P086_2",
     "en": "How many more of them are coming!” exclaimed the bloated man.",
     "ko": "도대체 그들이 얼마나 더 오는 거야!”라고 배가 불룩한 남자가 외쳤다.",
@@ -1248,7 +1256,7 @@
     "raw_ref_id": 159
   },
   {
-    "id": 157,
+    "id": 158,
     "tag": "P087",
     "en": "Defarge took his receipt without answering the jailer, and left with the two patriots.",
     "ko": "드파르지는 간수에게 대답하지 않고 영수증을 챙긴 뒤, 두 명의 애국자와 함께 떠났다.",
@@ -1256,7 +1264,7 @@
     "raw_ref_id": 160
   },
   {
-    "id": 158,
+    "id": 159,
     "tag": "P088",
     "en": "“What the devil, I say again!” the jailer said to his wife. “How many more!”",
     "ko": "“빌어먹을, 다시 말하지만!” 간수가 아내에게 말했다. “얼마나 더 오는 거야!”",
@@ -1264,7 +1272,7 @@
     "raw_ref_id": 161
   },
   {
-    "id": 159,
+    "id": 160,
     "tag": "P089",
     "en": "His wife had no answer. \"We must be patient, my dear!\" she said. Three assistant jailers came in when she rang a bell. They all agreed. One added, \"For the love of Liberty!\", which sounded very out of place in that grim prison.",
     "ko": "그의 아내는 대답이 없었다. \"여보, 우리는 참아야 해!\" 그녀가 말했다. 그녀가 종을 울리자 세 명의 보조 간수들이 들어왔다. 그들은 모두 동의했다. 한 명이 \"자유의 이름으로!\"라고 덧붙였는데, 그 말은 그 으스스한 감옥에 아주 어울리지 않게 들렸다.",
@@ -1272,7 +1280,7 @@
     "raw_ref_id": 162
   },
   {
-    "id": 160,
+    "id": 161,
     "tag": "P090_1",
     "en": "La Force was a dark, filthy, and gloomy prison that smelled terribly of sweaty, locked-up bodies.",
     "ko": "라 포스는 어둡고 더러우며 우울한 감옥으로, 갇혀서 땀 흘리는 몸들의 냄새가 지독하게 났다.",
@@ -1280,7 +1288,7 @@
     "raw_ref_id": 163
   },
   {
-    "id": 161,
+    "id": 162,
     "tag": "P090_2",
     "en": "It is amazing how quickly the bad smell of crowded prisoners develops in places that are not kept clean.",
     "ko": "청결하게 유지되지 않는 곳에서 붐비는 수감자들의 악취가 얼마나 빨리 생겨나는지 놀라울 정도다.",
@@ -1288,7 +1296,7 @@
     "raw_ref_id": 164
   },
   {
-    "id": 162,
+    "id": 163,
     "tag": "P091",
     "en": "“In secret too,” grumbled the jailer, looking at the paper. “As if my prison wasn't already packed to bursting!”",
     "ko": "“비밀에 부치라니,” 간수가 종이를 보며 투덜거렸다. “내 감옥이 이미 터질 듯이 꽉 차지나 않은 것처럼!”",
@@ -1296,7 +1304,7 @@
     "raw_ref_id": 165
   },
   {
-    "id": 163,
+    "id": 164,
     "tag": "P092",
     "en": "He angrily filed the paper, and Darnay was left waiting for half an hour. Darnay walked back and forth in the arched stone room or rested on a stone bench, while the chief jailer and his assistants stared at him to memorize his face.",
     "ko": "그는 화를 내며 종이를 철했고, 다네이는 30분 동안 기다려야 했다. 다네이는 아치형 돌방 안을 왔다 갔다 하거나 돌 벤치에 쉬었고, 수석 간수와 그의 조수들은 다네이의 얼굴을 기억하기 위해 그를 빤히 쳐다보았다.",
@@ -1304,7 +1312,7 @@
     "raw_ref_id": 166
   },
   {
-    "id": 164,
+    "id": 165,
     "tag": "P093",
     "en": "“Come!” the chief jailer said finally, taking his keys. “Come with me, emigrant.”",
     "ko": "“와라!” 수석 간수가 마침내 열쇠를 집어 들며 말했다. “나와 함께 가자, 망명자여.”",
@@ -1312,7 +1320,7 @@
     "raw_ref_id": 167
   },
   {
-    "id": 165,
+    "id": 166,
     "tag": "P094_1",
     "en": "Darnay followed him through the dark prison corridors and up staircases, with many heavy doors slamming and locking behind them. Finally, they entered a large, low room with arched ceilings, crowded with male and female prisoners.",
     "ko": "다네이는 어두운 감옥 복도와 계단을 따라 그를 따라갔고, 그들의 뒤로 많은 무거운 문들이 쾅 닫히고 잠겼다. 마침내 그들은 아치형 천장이 있는 넓고 낮은 방에 들어섰는데, 그곳에는 남녀 수감자들이 가득 차 있었다.",
@@ -1320,7 +1328,7 @@
     "raw_ref_id": 168
   },
   {
-    "id": 166,
+    "id": 167,
     "tag": "P094_2",
     "en": "The women sat at a long table. Some read, some wrote, some knitted, sewed, or embroidered. Most of the men stood behind the chairs or walked around the room.",
     "ko": "여성들은 긴 탁자에 앉아 있었다. 어떤 이들은 책을 읽고, 어떤 이들은 글을 쓰고, 어떤 이들은 뜨개질, 바느질, 또는 자수를 했다. 대부분의 남성들은 의자 뒤에 서 있거나 방을 돌아다녔다.",
@@ -1328,7 +1336,7 @@
     "raw_ref_id": 169
   },
   {
-    "id": 167,
+    "id": 168,
     "tag": "P095_1",
     "en": "Thinking that prisoners must be criminals, Darnay shrank back at first.",
     "ko": "수감자들은 범죄자들일 것이라고 생각했던 다네이는 처음에 몸을 움츠렸다.",
@@ -1336,7 +1344,7 @@
     "raw_ref_id": 170
   },
   {
-    "id": 168,
+    "id": 169,
     "tag": "P095_2",
     "en": "But the strangest part of his journey was that all of them stood up to welcome him with the most polite, elegant manners of high society.",
     "ko": "하지만 그의 여정에서 가장 이상했던 부분은 그들 모두가 일어나 상류 사회의 가장 공손하고 우아한 태도로 그를 환영했다는 점이었다.",
@@ -1344,7 +1352,7 @@
     "raw_ref_id": 171
   },
   {
-    "id": 169,
+    "id": 170,
     "tag": "P096_1",
     "en": "These refined manners looked so strange in the dark, dirty prison that Darnay felt as if he were standing among the dead. They seemed like ghosts.",
     "ko": "이 정제된 태도는 어둡고 더러운 감옥 안에서 너무나 기이해 보여서 다네이는 마치 죽은 자들 사이에 서 있는 것 같았다. 그들은 유령처럼 보였다.",
@@ -1352,7 +1360,7 @@
     "raw_ref_id": 172
   },
   {
-    "id": 170,
+    "id": 171,
     "tag": "P096_2",
     "en": "The ghost of beauty.",
     "ko": "아름다움의 유령.",
@@ -1360,7 +1368,7 @@
     "raw_ref_id": 173
   },
   {
-    "id": 171,
+    "id": 172,
     "tag": "P096_3",
     "en": "The ghost of elegance. The ghost of pride, of humor, of youth, of old age. All of them were waiting to be sent away from this miserable shore, and all of them looked at him with eyes changed by their imprisonment.",
     "ko": "우아함의 유령. 자부심의, 유머의, 젊음의, 늙음의 유령. 그들 모두는 이 비참한 해안에서 쫓겨나기를 기다리고 있었고, 그들 모두는 감금으로 인해 변해버린 눈으로 그를 바라보았다.",
@@ -1368,7 +1376,7 @@
     "raw_ref_id": 174
   },
   {
-    "id": 172,
+    "id": 173,
     "tag": "P097_1",
     "en": "He stood frozen.",
     "ko": "그는 얼어붙은 채 서 있었다.",
@@ -1376,15 +1384,23 @@
     "raw_ref_id": 175
   },
   {
-    "id": 173,
-    "tag": "P097_2",
-    "en": "The jailer standing beside him and the other jailers moving about, who would have looked normal enough while performing their ordinary duties, appeared outrageously coarse compared to the grieving mothers and blooming daughters who were there—to the ghostly figures of the flirt, the young beauty, and the delicately raised mature woman—so much so that the total reversal of all normal experience and expectation presented by this shadowy scene was heightened to the extreme. Surely, they were all ghosts.",
-    "ko": "그의 곁에 서 있는 간수와 주위를 돌아다니는 다른 간수들은 평상시의 직무를 수행할 때라면 겉모습이 그럭저럭 무난해 보였겠지만, 그곳에 있는 슬픔에 잠긴 어머니들과 피어나는 딸들—교태를 부리는 여인, 젊은 미녀, 그리고 고상하게 자란 원숙한 여인의 유령 같은 모습들—과 대조되어 터무니없이 거칠어 보였기에, 그림자 같은 그 광경이 보여 주는 온갖 경험과 상식의 전도는 극에 달해 있었다. 분명 그들은 모두 유령이었다.",
+    "id": 174,
+    "tag": "P097_1",
+    "en": "The jailer standing beside him and the other jailers moving about, who would have looked normal enough while performing their ordinary duties, appeared outrageously coarse compared to the grieving mothers and blooming daughters who were there—to the ghostly figures of the flirt, the young beauty, and the delicately raised mature woman—so much so that the total reversal of all normal experience and expectation presented by this shadowy scene was heightened to the extreme.",
+    "ko": "그의 곁에 서 있는 간수와 주위를 돌아다니는 다른 간수들은 평상시의 직무를 수행할 때라면 겉모습이 그럭저럭 무난해 보였겠지만, 그곳에 있는 슬픔에 잠긴 어머니들과 피어나는 딸들—교태를 부리는 여인, 젊은 미녀, 그리고 고상하게 자란 원숙한 여인의 유령 같은 모습들—과 대조되어 터무니없이 거칠어 보였기에, 그림자 같은 그 광경이 보여 주는 온갖 경험과 상식의 전도는 극에 달해 있었다.",
     "is_header": false,
     "raw_ref_id": 176
   },
   {
-    "id": 174,
+    "id": 175,
+    "tag": "P097_2",
+    "en": "Surely, they were all ghosts.",
+    "ko": "분명 그들은 모두 유령이었다.",
+    "is_header": false,
+    "raw_ref_id": 176
+  },
+  {
+    "id": 176,
     "tag": "P097_4",
     "en": "Surely they were all ghosts, and his long, strange journey was just a fever dream that had brought him to the underworld.",
     "ko": "확실히 그들은 모두 유령이었고, 그의 길고 이상한 여행은 단지 그를 지하 세계로 데려온 열병의 꿈에 불과했다.",
@@ -1392,7 +1408,7 @@
     "raw_ref_id": 178
   },
   {
-    "id": 175,
+    "id": 177,
     "tag": "P098_1",
     "en": "“In the name of your fellow prisoners,” said an elegant gentleman, stepping forward, “I have the honor of welcoming you to La Force, and of offering our sympathy for the misfortune that brought you here.",
     "ko": "“당신의 동료 수감자들의 이름으로,” 한 우아한 신사가 앞으로 나서며 말했다. “라 포스에 오신 것을 환영하는 영광을 가지며, 당신을 이곳으로 데려온 불운에 대해 우리의 동정을 표합니다.",
@@ -1400,7 +1416,7 @@
     "raw_ref_id": 179
   },
   {
-    "id": 176,
+    "id": 178,
     "tag": "P098_2",
     "en": "We hope you will be released soon.",
     "ko": "우리는 당신이 곧 석방되기를 바랍니다.",
@@ -1408,7 +1424,7 @@
     "raw_ref_id": 180
   },
   {
-    "id": 177,
+    "id": 179,
     "tag": "P098_3",
     "en": "It would be rude to ask elsewhere, but here it is normal: what is your name and background?”",
     "ko": "다른 곳에서 묻는 것은 무례하겠지만, 여기서는 정상입니다. 당신의 이름과 배경은 무엇입니까?”",
@@ -1416,7 +1432,7 @@
     "raw_ref_id": 181
   },
   {
-    "id": 178,
+    "id": 180,
     "tag": "P099",
     "en": "Charles Darnay shook off his shock and gave them his name and details as politely as he could.",
     "ko": "찰스 다네이는 충격을 떨쳐내고 가능한 한 정중하게 자신의 이름과 세부 사항을 그들에게 말해주었다.",
@@ -1424,7 +1440,7 @@
     "raw_ref_id": 182
   },
   {
-    "id": 179,
+    "id": 181,
     "tag": "P100",
     "en": "“I hope,” the gentleman said, watching the chief jailer walk across the room, “that you are not placed 'in secret'?”",
     "ko": "“저는 희망합니다,” 그 신사는 수석 간수가 방을 가로질러 걸어가는 것을 보며 말했다, “당신이 '비밀 독방'에 배치되지 않기를?”",
@@ -1432,7 +1448,7 @@
     "raw_ref_id": 183
   },
   {
-    "id": 180,
+    "id": 182,
     "tag": "P101",
     "en": "“I don't know what that means, but I heard them use those words.”",
     "ko": "“그게 무슨 뜻인지는 모르겠지만, 그들이 그 단어를 사용하는 것을 들었습니다.”",
@@ -1440,7 +1456,7 @@
     "raw_ref_id": 184
   },
   {
-    "id": 181,
+    "id": 183,
     "tag": "P102_1",
     "en": "“\"Ah, what a pity!",
     "ko": "“아, 참 안타깝군요!",
@@ -1448,7 +1464,7 @@
     "raw_ref_id": 185
   },
   {
-    "id": 182,
+    "id": 184,
     "tag": "P102_2",
     "en": "We are so sorry to hear that.",
     "ko": "그 말을 듣게 되어 무척 유감입니다.",
@@ -1456,7 +1472,7 @@
     "raw_ref_id": 186
   },
   {
-    "id": 183,
+    "id": 185,
     "tag": "P102_3",
     "en": "But take courage; several of us were kept in solitary confinement at first, and it didn't last long.\" Then he raised his voice and announced to the room: \"I regret to inform everyone, he is in secret.\"”",
     "ko": "하지만 용기를 내세요. 우리 중 몇 명도 처음에는 독방에 갇혔지만, 오래 가지는 않았습니다.\" 그런 다음 그는 목소리를 높여 방에 알렸다: \"모두에게 알리게 되어 유감입니다만, 그는 비밀 독방에 있습니다.\"”",
@@ -1464,7 +1480,7 @@
     "raw_ref_id": 187
   },
   {
-    "id": 184,
+    "id": 186,
     "tag": "P103_1",
     "en": "A murmur of sympathy spread through the room as Darnay walked toward a barred door where the jailer was waiting. Many voices, especially the gentle voices of the women, offered him encouragement.",
     "ko": "다네이가 간수가 기다리고 있는 창살문 쪽으로 걸어갈 때 방 안으로 동정의 중얼거림이 퍼졌다. 많은 목소리, 특히 여성들의 부드러운 목소리가 그에게 격려를 건넸다.",
@@ -1472,7 +1488,7 @@
     "raw_ref_id": 188
   },
   {
-    "id": 185,
+    "id": 187,
     "tag": "P103_2",
     "en": "He turned at the door to thank them, but the jailer shut the gate, and the ghostly crowd vanished from his sight forever.",
     "ko": "그는 감사를 표하기 위해 문에서 돌아섰지만, 간수는 철창문을 닫아버렸고, 유령 같은 군중은 영원히 그의 시야에서 사라졌다.",
@@ -1480,7 +1496,7 @@
     "raw_ref_id": 189
   },
   {
-    "id": 186,
+    "id": 188,
     "tag": "P104_1",
     "en": "The door opened to a stone staircase going up.",
     "ko": "위로 올라가는 돌계단으로 문이 열렸다.",
@@ -1488,7 +1504,7 @@
     "raw_ref_id": 190
   },
   {
-    "id": 187,
+    "id": 189,
     "tag": "P104_2",
     "en": "After climbing forty steps, which Darnay had already counted, the jailer opened a low black door, and they entered a solitary cell.",
     "ko": "다네이가 이미 세어둔 마흔 개의 계단을 오른 후, 간수는 낮고 검은 문을 열었고, 그들은 독방으로 들어갔다.",
@@ -1496,7 +1512,7 @@
     "raw_ref_id": 191
   },
   {
-    "id": 188,
+    "id": 190,
     "tag": "P104_3",
     "en": "It was cold and damp, but not completely dark.",
     "ko": "춥고 축축했지만, 완전히 어둡지는 않았다.",
@@ -1504,7 +1520,7 @@
     "raw_ref_id": 192
   },
   {
-    "id": 189,
+    "id": 191,
     "tag": "P105",
     "en": "“This is yours,” said the jailer.",
     "ko": "“여기가 네 곳이다,” 간수가 말했다.",
@@ -1512,7 +1528,7 @@
     "raw_ref_id": 193
   },
   {
-    "id": 190,
+    "id": 192,
     "tag": "P106",
     "en": "“Why am I locked up alone?”",
     "ko": "“왜 나 혼자 갇힌 거지?”",
@@ -1520,7 +1536,7 @@
     "raw_ref_id": 194
   },
   {
-    "id": 191,
+    "id": 193,
     "tag": "P107",
     "en": "“How should I know!”",
     "ko": "“내가 어떻게 알겠어!”",
@@ -1528,7 +1544,7 @@
     "raw_ref_id": 195
   },
   {
-    "id": 192,
+    "id": 194,
     "tag": "P108",
     "en": "“Can I buy a pen, ink, and paper?”",
     "ko": "“펜, 잉크, 종이를 살 수 있을까?”",
@@ -1536,7 +1552,7 @@
     "raw_ref_id": 196
   },
   {
-    "id": 193,
+    "id": 195,
     "tag": "P109_1",
     "en": "“Those are not my orders.",
     "ko": "“그건 내 명령에 없어.",
@@ -1544,7 +1560,7 @@
     "raw_ref_id": 197
   },
   {
-    "id": 194,
+    "id": 196,
     "tag": "P109_2",
     "en": "Someone will visit you later, and you can ask then.",
     "ko": "누군가 나중에 널 방문할 테니, 그때 물어봐라.",
@@ -1552,7 +1568,7 @@
     "raw_ref_id": 198
   },
   {
-    "id": 195,
+    "id": 197,
     "tag": "P109_3",
     "en": "For now, you can buy food and nothing else.”",
     "ko": "지금은 음식만 살 수 있고 다른 건 안 돼.”",
@@ -1560,7 +1576,7 @@
     "raw_ref_id": 199
   },
   {
-    "id": 196,
+    "id": 198,
     "tag": "P110_1",
     "en": "The cell contained a chair, a table, and a straw mattress.",
     "ko": "감방에는 의자, 탁자, 그리고 짚 매트리스가 있었다.",
@@ -1568,7 +1584,7 @@
     "raw_ref_id": 200
   },
   {
-    "id": 197,
+    "id": 199,
     "tag": "P110_2",
     "en": "The jailer inspected the room and the walls before leaving. As he did, Darnay leaned against the wall and had a strange thought: the jailer's swollen face and body made him look like a drowned corpse filled with water. The jailer left.",
     "ko": "간수는 떠나기 전에 방과 벽을 검사했다. 그가 그렇게 할 때, 다네이는 벽에 기대어 이상한 생각을 했다: 간수의 부은 얼굴과 몸이 그를 물로 가득 찬 익사한 시체처럼 보이게 만들었다. 간수가 떠났다.",
@@ -1576,7 +1592,7 @@
     "raw_ref_id": 201
   },
   {
-    "id": 198,
+    "id": 200,
     "tag": "P110_3",
     "en": "Darnay stood alone. \"Now I am left here as if I were dead,\" he thought. He looked down at the mattress and felt sick. \"And the bugs crawling here are like the worms that eat a body after death.\"”",
     "ko": "다네이는 홀로 섰다. \"이제 나는 마치 죽은 것처럼 여기에 남겨졌다,\" 그는 생각했다. 그는 매트리스를 내려다보며 구역질을 느꼈다. \"그리고 여기 기어 다니는 벌레들은 죽은 후에 시체를 먹어치우는 구더기 같아.\"”",
@@ -1584,18 +1600,34 @@
     "raw_ref_id": 202
   },
   {
-    "id": 199,
+    "id": 201,
     "tag": "P111_1",
-    "en": "“\"Five paces by four and a half, five paces by four and a half, five paces by four and a half.\" The prisoner paced back and forth in his cell, measuring the room over and over. Outside, the distant roar of the city sounded like muffled drums mixed with shouting voices. “He made shoes, he made shoes, he made shoes.” Darnay measured the cell again, walking faster to try to block out that repetitive thought. “The ghosts who vanished when the gate shut.",
-    "ko": "“다섯 걸음에 네 걸음 반, 다섯 걸음에 네 걸음 반, 다섯 걸음에 네 걸음 반.\" 수감자는 방을 계속해서 측량하며 감방 안을 왔다 갔다 했다. 밖에서는, 도시의 먼 굉음이 고함 소리와 섞인 둔탁한 북소리처럼 들렸다. “그는 신발을 만들었다, 그는 신발을 만들었다, 그는 신발을 만들었다.” 다네이는 그 반복되는 생각을 막으려고 더 빨리 걸으며 감방을 다시 측량했다. “문이 닫힐 때 사라졌던 유령들.",
+    "en": "“\"Five paces by four and a half, five paces by four and a half, five paces by four and a half.\" The prisoner paced back and forth in his cell, measuring the room over and over. Outside, the distant roar of the city sounded like muffled drums mixed with shouting voices.",
+    "ko": "“다섯 걸음에 네 걸음 반, 다섯 걸음에 네 걸음 반, 다섯 걸음에 네 걸음 반.\" 수감자는 방을 계속해서 측량하며 감방 안을 왔다 갔다 했다. 밖에서는, 도시의 먼 굉음이 고함 소리와 섞인 둔탁한 북소리처럼 들렸다.",
     "is_header": false,
     "raw_ref_id": 203
   },
   {
-    "id": 200,
+    "id": 202,
     "tag": "P111_2",
-    "en": "There was one woman dressed in black, leaning near a window, with light shining on her golden hair, and she looked like... Let's ride on again, for God's sake, through the lit-up villages where everyone is awake! He made shoes, he made shoes, he made shoes. Five paces by four and a half.” With these random thoughts spinning in his mind, the prisoner walked faster and faster, stubbornly counting his steps. The roar of the city outside still sounded like muffled drums, but now he imagined hearing the cries of voices he knew in the noise.",
-    "ko": "검은 옷을 입고 창가 근처에 기대어 금발 머리에 빛이 비치는 한 여자가 있었는데, 그녀는 마치... 제발, 모두가 깨어 있는 불이 켜진 마을들을 지나 다시 말을 달려가자! 그는 신발을 만들었다, 그는 신발을 만들었다, 그는 신발을 만들었다. 다섯 걸음에 네 걸음 반.” 이런 무작위적인 생각들이 그의 마음속에서 맴도는 가운데, 수감자는 점점 더 빨리 걸으며, 고집스럽게 발걸음을 세었다. 밖에서 들리는 도시의 굉음은 여전히 둔탁한 북소리처럼 들렸지만, 이제 그는 소음 속에서 자신이 아는 목소리들의 외침이 들린다고 상상했다.",
+    "en": "“He made shoes, he made shoes, he made shoes.” Darnay measured the cell again, walking faster to try to block out that repetitive thought. “The ghosts who vanished when the gate shut.",
+    "ko": "“그는 신발을 만들었다, 그는 신발을 만들었다, 그는 신발을 만들었다.” 다네이는 그 반복되는 생각을 막으려고 더 빨리 걸으며 감방을 다시 측량했다. “문이 닫힐 때 사라졌던 유령들.",
+    "is_header": false,
+    "raw_ref_id": 203
+  },
+  {
+    "id": 203,
+    "tag": "P111_1",
+    "en": "There was one woman dressed in black, leaning near a window, with light shining on her golden hair, and she looked like... Let's ride on again, for God's sake, through the lit-up villages where everyone is awake!",
+    "ko": "검은 옷을 입고 창가 근처에 기대어 금발 머리에 빛이 비치는 한 여자가 있었는데, 그녀는 마치... 제발, 모두가 깨어 있는 불이 켜진 마을들을 지나 다시 말을 달려가자!",
+    "is_header": false,
+    "raw_ref_id": 204
+  },
+  {
+    "id": 204,
+    "tag": "P111_2",
+    "en": "He made shoes, he made shoes, he made shoes. Five paces by four and a half.” With these random thoughts spinning in his mind, the prisoner walked faster and faster, stubbornly counting his steps. The roar of the city outside still sounded like muffled drums, but now he imagined hearing the cries of voices he knew in the noise.",
+    "ko": "그는 신발을 만들었다, 그는 신발을 만들었다, 그는 신발을 만들었다. 다섯 걸음에 네 걸음 반.” 이런 무작위적인 생각들이 그의 마음속에서 맴도는 가운데, 수감자는 점점 더 빨리 걸으며, 고집스럽게 발걸음을 세었다. 밖에서 들리는 도시의 굉음은 여전히 둔탁한 북소리처럼 들렸지만, 이제 그는 소음 속에서 자신이 아는 목소리들의 외침이 들린다고 상상했다.",
     "is_header": false,
     "raw_ref_id": 204
   }

@@ -81,14 +81,22 @@
   },
   {
     "id": 11,
-    "tag": "P004",
-    "en": "The room was thick with smoky lamplight. Customers sat smoking pipes and fiddling with worn cards and yellow dominoes. A shirtless, soot-covered worker read a newspaper aloud to a small crowd. Weapons lay scattered around the tables. Two or three customers were slumped asleep, looking like sleeping bears in their heavy black coats. Taking all of this in, the two English customers walked up to the counter and showed what they wanted.",
-    "ko": "방 안은 연기 자욱한 램프 불빛으로 탁했다. 손님들은 파이프를 피우고 낡은 카드와 누런 도미노를 만지작거리며 앉아 있었다. 셔츠를 벗은 채 그을음을 뒤집어쓴 노동자가 작은 무리에게 큰 소리로 신문을 읽어주고 있었다. 테이블 주변에는 무기들이 널려 있었다. 서너 명의 손님들은 무거운 검은 코트를 입고 잠을 자는 곰처럼 축 늘어져 잠들어 있었다. 이 모든 것을 눈에 담으며, 두 명의 영국인 손님은 카운터로 걸어가서 자신들이 원하는 것을 가리켰다.",
+    "tag": "P004_1",
+    "en": "The room was thick with smoky lamplight. Customers sat smoking pipes and fiddling with worn cards and yellow dominoes. A shirtless, soot-covered worker read a newspaper aloud to a small crowd.",
+    "ko": "방 안은 연기 자욱한 램프 불빛으로 탁했다. 손님들은 파이프를 피우고 낡은 카드와 누런 도미노를 만지작거리며 앉아 있었다. 셔츠를 벗은 채 그을음을 뒤집어쓴 노동자가 작은 무리에게 큰 소리로 신문을 읽어주고 있었다.",
     "is_header": false,
     "raw_ref_id": 14
   },
   {
     "id": 12,
+    "tag": "P004_2",
+    "en": "Weapons lay scattered around the tables. Two or three customers were slumped asleep, looking like sleeping bears in their heavy black coats. Taking all of this in, the two English customers walked up to the counter and showed what they wanted.",
+    "ko": "테이블 주변에는 무기들이 널려 있었다. 서너 명의 손님들은 무거운 검은 코트를 입고 잠을 자는 곰처럼 축 늘어져 잠들어 있었다. 이 모든 것을 눈에 담으며, 두 명의 영국인 손님은 카운터로 걸어가서 자신들이 원하는 것을 가리켰다.",
+    "is_header": false,
+    "raw_ref_id": 14
+  },
+  {
+    "id": 13,
     "tag": "P005_1",
     "en": "As their wine was being poured, a man in the corner said goodbye to his friend and got up to leave.",
     "ko": "그들의 와인이 따라지는 동안, 구석에 있던 한 사내가 친구에게 작별 인사를 하고 떠나려고 일어섰다.",
@@ -96,7 +104,7 @@
     "raw_ref_id": 15
   },
   {
-    "id": 13,
+    "id": 14,
     "tag": "P005_2",
     "en": "To walk out, he had to face Miss Pross.",
     "ko": "밖으로 나가려면, 그는 프로스 양을 마주 보아야 했다.",
@@ -104,7 +112,7 @@
     "raw_ref_id": 16
   },
   {
-    "id": 14,
+    "id": 15,
     "tag": "P005_3",
     "en": "The moment she saw his face, she screamed and clapped her hands.",
     "ko": "그녀는 그의 얼굴을 보자마자 비명을 지르며 손뼉을 쳤다.",
@@ -112,7 +120,7 @@
     "raw_ref_id": 17
   },
   {
-    "id": 15,
+    "id": 16,
     "tag": "P006_1",
     "en": "Instantly, everyone in the shop stood up.",
     "ko": "즉시, 상점 안의 모든 사람들이 일어섰다.",
@@ -120,7 +128,7 @@
     "raw_ref_id": 18
   },
   {
-    "id": 16,
+    "id": 17,
     "tag": "P006_2",
     "en": "They assumed someone had been murdered over a political argument, as that was a common occurrence.",
     "ko": "그들은 흔히 있는 일처럼 정치적인 논쟁으로 누군가 살해당했다고 추측했다.",
@@ -128,7 +136,7 @@
     "raw_ref_id": 19
   },
   {
-    "id": 17,
+    "id": 18,
     "tag": "P006_3",
     "en": "Everyone looked around for a body, but they only saw a man and a woman staring at each other. The man looked like a typical French Republican, while the woman was clearly English.",
     "ko": "모두가 시체를 찾기 위해 주위를 둘러보았지만, 그들은 그저 서로 응시하고 있는 한 남자와 한 여자를 보았을 뿐이다. 그 남자는 전형적인 프랑스 공화주의자처럼 보였고, 여자는 분명히 영국인이었다.",
@@ -136,7 +144,7 @@
     "raw_ref_id": 20
   },
   {
-    "id": 18,
+    "id": 19,
     "tag": "P007_1",
     "en": "Whatever was being shouted loudly and rapidly by the disappointed followers of the Republic would have sounded like complete gibberish to Miss Pross and her companion, even if they had been listening closely.",
     "ko": "실망한 공화국의 지지자들이 크고 빠르게 외쳐대는 소리는, 프로스 양과 그녀의 일행이 주의 깊게 듣고 있었다 하더라도 완전한 헛소리처럼 들렸을 것이다.",
@@ -144,7 +152,7 @@
     "raw_ref_id": 21
   },
   {
-    "id": 19,
+    "id": 20,
     "tag": "P007_2",
     "en": "But the two were too surprised to pay attention.",
     "ko": "하지만 두 사람은 너무 놀라서 주의를 기울일 수 없었다.",
@@ -152,7 +160,7 @@
     "raw_ref_id": 22
   },
   {
-    "id": 20,
+    "id": 21,
     "tag": "P007_3",
     "en": "Not only was Miss Pross shocked and upset, but Jerry Cruncher, for his own secret reasons, was staring in absolute disbelief.",
     "ko": "프로스 양이 충격을 받고 당황했을 뿐만 아니라, 제리 크런처 역시 자신만의 비밀스러운 이유로 도저히 믿을 수 없다는 듯이 빤히 쳐다보고 있었다.",
@@ -160,7 +168,7 @@
     "raw_ref_id": 23
   },
   {
-    "id": 21,
+    "id": 22,
     "tag": "P008",
     "en": "“What is the matter?” said the man who had made Miss Pross scream. He spoke in a quiet, annoyed voice in English.",
     "ko": "\"무슨 일입니까?\" 프로스 양을 비명 지르게 만든 남자가 말했다. 그는 조용하고 짜증 섞인 목소리로 영어로 말했다.",
@@ -168,7 +176,7 @@
     "raw_ref_id": 24
   },
   {
-    "id": 22,
+    "id": 23,
     "tag": "P009",
     "en": "“Oh, Solomon, dear Solomon!” cried Miss Pross, clapping her hands again. “After not seeing you or hearing from you for so long, to find you here!”",
     "ko": "\"오, 솔로몬, 사랑하는 솔로몬!\" 프로스 양이 다시 손뼉을 치며 외쳤다. \"그렇게 오랫동안 보지도 못하고 소식도 못 들었는데, 널 여기서 찾다니!\"",
@@ -176,7 +184,7 @@
     "raw_ref_id": 25
   },
   {
-    "id": 23,
+    "id": 24,
     "tag": "P010_1",
     "en": "“Don't call me Solomon.",
     "ko": "날 솔로몬이라고 부르지 마.",
@@ -184,7 +192,7 @@
     "raw_ref_id": 26
   },
   {
-    "id": 24,
+    "id": 25,
     "tag": "P010_2",
     "en": "Do you want to get me killed?” the man asked in a quiet, frightened way.",
     "ko": "내가 죽기를 바라는 거야?\" 사내가 조용하고 겁에 질린 태도로 물었다.",
@@ -192,7 +200,7 @@
     "raw_ref_id": 27
   },
   {
-    "id": 25,
+    "id": 26,
     "tag": "P011",
     "en": "“Brother, brother!” cried Miss Pross, bursting into tears. “Have I ever been so mean to you that you ask me such a cruel question?”",
     "ko": "\"오빠, 오빠!\" 프로스 양이 울음을 터뜨리며 소리쳤다. \"내가 너에게 그런 잔인한 질문을 할 만큼 그렇게 나쁘게 굴었던 적이 있니?\"",
@@ -200,7 +208,7 @@
     "raw_ref_id": 28
   },
   {
-    "id": 26,
+    "id": 27,
     "tag": "P012_1",
     "en": "“Then hold your tongue,” Solomon said, “and come outside if you want to talk to me.",
     "ko": "\"그럼 입 다물어,\" 솔로몬이 말했다. \"나랑 이야기하고 싶으면 밖으로 나와.",
@@ -208,7 +216,7 @@
     "raw_ref_id": 29
   },
   {
-    "id": 27,
+    "id": 28,
     "tag": "P012_2",
     "en": "Pay for your wine and come out.",
     "ko": "와인 값 내고 나와.",
@@ -216,7 +224,7 @@
     "raw_ref_id": 30
   },
   {
-    "id": 28,
+    "id": 29,
     "tag": "P012_3",
     "en": "Who is this man?”",
     "ko": "이 사람은 누구야?",
@@ -224,7 +232,7 @@
     "raw_ref_id": 31
   },
   {
-    "id": 29,
+    "id": 30,
     "tag": "P013_1",
     "en": "Miss Pross, shaking her loving and dejected head at her far from affectionate brother, said through her tears, “Mr. Cruncher.”",
     "ko": "프로스 양은 전혀 다정하지 않은 오빠를 바라보며 애정 어리고 낙담한 듯 고개를 흔들고는, 눈물을 흘리며 “크런처 씨”라고 말했다.",
@@ -232,7 +240,7 @@
     "raw_ref_id": 32
   },
   {
-    "id": 30,
+    "id": 31,
     "tag": "P014",
     "en": "“Let him come out too,” Solomon said. “Does he think I am a ghost?”",
     "ko": "\"그 사람도 나오라고 해,\" 솔로몬이 말했다. \"그는 내가 유령이라도 되는 줄 아나?\"",
@@ -240,7 +248,7 @@
     "raw_ref_id": 34
   },
   {
-    "id": 31,
+    "id": 32,
     "tag": "P015_1",
     "en": "Judging by his looks, Mr. Cruncher apparently did.",
     "ko": "그의 표정으로 보아 크런처 씨도 분명 그렇게 생각하는 듯했다.",
@@ -248,7 +256,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 32,
+    "id": 33,
     "tag": "P015_3",
     "en": "Miss Pross searched through her purse, tears streaming, and paid for the wine.",
     "ko": "프로스 양은 눈물을 흘리며 지갑을 뒤져 와인 값을 지불했다.",
@@ -256,7 +264,7 @@
     "raw_ref_id": 37
   },
   {
-    "id": 33,
+    "id": 34,
     "tag": "P015_4",
     "en": "As she did so, Solomon turned to the other customers and said a few words in French to explain, which made everyone go back to their cards and drinks.",
     "ko": "그녀가 그렇게 하는 동안, 솔로몬은 다른 손님들을 향해 돌아서서 프랑스어로 몇 마디 설명을 했고, 그 덕분에 모두가 다시 카드 놀이와 술자리로 돌아갔다.",
@@ -264,7 +272,7 @@
     "raw_ref_id": 38
   },
   {
-    "id": 34,
+    "id": 35,
     "tag": "P016",
     "en": "“Now,” Solomon said, stopping at a dark corner, “what do you want?”",
     "ko": "\"자,\" 어두운 구석에 멈춰 서며 솔로몬이 말했다. \"원하는 게 뭐야?\"",
@@ -272,7 +280,7 @@
     "raw_ref_id": 39
   },
   {
-    "id": 35,
+    "id": 36,
     "tag": "P017",
     "en": "“How unkind of a brother whom I have always loved!” cried Miss Pross. “To greet me like this and show no affection at all.”",
     "ko": "\"내가 항상 사랑해 온 오빠치고는 정말 매정하구나!\" 프로스 양이 울부짖었다. \"나를 이렇게 맞이하고 애정이라고는 전혀 보여주지 않다니.\"",
@@ -280,7 +288,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 36,
+    "id": 37,
     "tag": "P018_1",
     "en": "“Fine, damn it!",
     "ko": "알았어, 젠장!",
@@ -288,7 +296,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 37,
+    "id": 38,
     "tag": "P018_2",
     "en": "There,” Solomon said, giving her a quick kiss on the lips. “Are you happy now?”",
     "ko": "자,\" 솔로몬이 그녀의 입술에 짧게 입을 맞추며 말했다. \"이제 만족해?\"",
@@ -296,7 +304,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 38,
+    "id": 39,
     "tag": "P019",
     "en": "Miss Pross only shook her head and cried quietly.",
     "ko": "프로스 양은 고개만 저으며 조용히 울었다.",
@@ -304,7 +312,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 39,
+    "id": 40,
     "tag": "P020_1",
     "en": "“If you expect me to be surprised, I am not,” her brother Solomon said. “I knew you were here; I know about most people who are in Paris.",
     "ko": "\"내가 놀라기를 기대한다면, 안 놀랐어,\" 그녀의 오빠 솔로몬이 말했다. \"네가 여기 있는 거 알았거든. 난 파리에 있는 대부분의 사람들에 대해 알고 있어.",
@@ -312,7 +320,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 40,
+    "id": 41,
     "tag": "P020_2",
     "en": "If you really don't want to put my life in danger, which I think you might, leave as soon as possible and let me go my way.",
     "ko": "정말 내 목숨을 위험에 빠뜨리고 싶지 않다면, 그럴 것 같지도 않지만, 당장 떠나고 내 갈 길 가게 내버려 둬.",
@@ -320,7 +328,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 41,
+    "id": 42,
     "tag": "P020_3",
     "en": "I am busy.",
     "ko": "난 바빠.",
@@ -328,7 +336,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 42,
+    "id": 43,
     "tag": "P020_4",
     "en": "I am a government official.”",
     "ko": "난 정부 관리라고.",
@@ -336,7 +344,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 43,
+    "id": 44,
     "tag": "P021_1",
     "en": "“My English brother Solomon,” Miss Pross wept, looking up with tearful eyes. “He had the potential to be a great man in his own country, and now he is an official among foreigners, and such terrible foreigners!",
     "ko": "\"영국인인 내 오빠 솔로몬,\" 프로스 양이 눈물이 그렁그렁한 눈으로 올려다보며 흐느껴 울었다. \"그는 자기 나라에서 훌륭한 사람이 될 잠재력을 가지고 있었는데, 지금은 외국인들, 그것도 저런 끔찍한 외국인들 사이에서 관리라니!",
@@ -344,7 +352,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 44,
+    "id": 45,
     "tag": "P021_2",
     "en": "I would almost rather have seen him lying in his, ”",
     "ko": "차라리 그가 누워 있는 걸 보는 편이 더 나았을 텐데, \"",
@@ -352,7 +360,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 45,
+    "id": 46,
     "tag": "P022_1",
     "en": "“I knew it!” her brother interrupted. “You want to get me killed.",
     "ko": "\"그럴 줄 알았어!\" 오빠가 말을 끊었다. \"네가 날 죽이고 싶어 하는구나.",
@@ -360,7 +368,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 46,
+    "id": 47,
     "tag": "P022_2",
     "en": "You will make me a 'suspected' person, my own sister, just as I am getting ahead!”",
     "ko": "친동생인 네가, 내가 막 출세하려는 참에 나를 용의자로 만들 작정이로군!\"",
@@ -368,7 +376,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 47,
+    "id": 48,
     "tag": "P023_1",
     "en": "“Heaven forbid!” cried Miss Pross. “I would rather never see you again, dear Solomon, even though I have always loved you.",
     "ko": "\"세상에 그럴 리가!\" 프로스 양이 소리쳤다. \"내가 너를 항상 사랑해 왔지만, 사랑하는 솔로몬, 차라리 널 두 번 다시 안 보는 게 낫겠어.",
@@ -376,7 +384,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 48,
+    "id": 49,
     "tag": "P023_2",
     "en": "Just say one kind word to me, tell me you aren't angry with me, and I will let you go.”",
     "ko": "나한테 다정한 말 한마디만 해 주고, 나한테 화난 게 아니라고 말해 주면 널 보내줄게.\"",
@@ -384,7 +392,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 49,
+    "id": 50,
     "tag": "P024_1",
     "en": "Good Miss Pross!",
     "ko": "착한 프로스 양!",
@@ -392,18 +400,10 @@
     "raw_ref_id": 54
   },
   {
-    "id": 50,
-    "tag": "P024_2",
-    "en": "As if their estrangement were her fault, when Mr.",
-    "ko": "마치 둘 사이가 멀어진 것이 그녀의 잘못인 것처럼 행동하다니.",
-    "is_header": false,
-    "raw_ref_id": 55
-  },
-  {
     "id": 51,
     "tag": "P024_3",
-    "en": "Lorry knew for a fact years ago in London that this worthless brother had stolen all her savings and abandoned her!",
-    "ko": "로리 씨는 이미 수년 전 런던에서 이 쓸모없는 오빠가 그녀의 전 재산을 훔쳐서 그녀를 버렸다는 사실을 알고 있었는데도 말이다!",
+    "en": "As if their estrangement were her fault, when Mr. Lorry knew for a fact years ago in London that this worthless brother had stolen all her savings and abandoned her!",
+    "ko": "마치 둘 사이가 멀어진 것이 그녀의 잘못인 것처럼 행동하다니, 로리 씨는 이미 수년 전 런던에서 이 쓸모없는 오빠가 그녀의 전 재산을 훔쳐서 그녀를 버렸다는 사실을 알고 있었는데도 말이다!",
     "is_header": false,
     "raw_ref_id": 56
   },
@@ -1218,13 +1218,21 @@
   {
     "id": 153,
     "tag": "P077_1",
-    "en": "“Mr. Barsad,” he continued, in the tone of someone actually looking over a hand of cards: “prison spy, emissary of Republican committees, sometimes turnkey, sometimes prisoner, always a spy and secret informer—all the more valuable here for being English, since an Englishman is less suspected of bribery in such roles than a Frenchman—passing himself off to his employers under a false name.”",
-    "ko": "“바사드 씨,” 그는 마치 실제로 카드 패를 살펴보고 있는 듯한 어조로 말을 이었다. “감옥의 스파이이자 공화국 위원회의 밀사, 때로는 간수이고 때로는 죄수이며, 언제나 스파이이자 비밀 정보원이지. 영국인이라는 점 때문에 이곳에서 한층 더 가치가 있는데, 영국인은 프랑스인보다 그런 역할에서 매수당했다는 의심을 덜 받기 때문이고, 고용주들에게 가짜 이름으로 활동하고 있소.”",
+    "en": "“Mr. Barsad,” he continued, in the tone of someone actually looking over a hand of cards:",
+    "ko": "“바사드 씨,” 그는 마치 실제로 카드 패를 살펴보고 있는 듯한 어조로 말을 이었다.",
     "is_header": false,
     "raw_ref_id": 186
   },
   {
     "id": 154,
+    "tag": "P077_2",
+    "en": "“You are a prison spy, emissary of Republican committees, sometimes turnkey, sometimes prisoner, always a spy and secret informer—all the more valuable here for being English, and passing yourself off under a false name.”",
+    "ko": "“당신은 감옥의 스파이이자 공화국 위원회의 밀사, 때로는 간수이고 때로는 죄수이며, 언제나 스파이이자 비밀 정보원이지. 영국인이라는 점 때문에 더 가치가 있고, 가짜 이름으로 활동하고 있소.”",
+    "is_header": false,
+    "raw_ref_id": 186
+  },
+  {
+    "id": 155,
     "tag": "P077_3",
     "en": "You are extra valuable because you are English, meaning you look less suspicious.",
     "ko": "당신은 영국인이기 때문에 훨씬 덜 의심스러워 보여서 특별히 가치가 높소.",
@@ -1232,7 +1240,7 @@
     "raw_ref_id": 188
   },
   {
-    "id": 155,
+    "id": 156,
     "tag": "P077_4",
     "en": "“Mr. Barsad, now in the employ of the republican French government, was formerly in the employ of the aristocratic English government, the enemy of France and freedom.”",
     "ko": "“현재 프랑스 공화정부의 고용을 받고 있는 바사드 씨는, 과거에는 프랑스와 자유의 적인 영국 귀족 정부의 고용을 받고 있었소.”",
@@ -1240,7 +1248,7 @@
     "raw_ref_id": 189
   },
   {
-    "id": 156,
+    "id": 157,
     "tag": "P077_6",
     "en": "You currently work for the French Republic, but you used to work for the English government, France's enemy.",
     "ko": "당신은 현재 프랑스 공화국을 위해 일하고 있지만, 과거에는 프랑스의 적이었던 영국 정부를 위해 일했지.",
@@ -1248,7 +1256,7 @@
     "raw_ref_id": 191
   },
   {
-    "id": 157,
+    "id": 158,
     "tag": "P077_7",
     "en": "“The inference is as clear as day in this land of suspicion: that Mr. Barsad, still in the pay of the aristocratic English government, is the spy of Pitt—the treacherous foe of the Republic crouching in its bosom, the English traitor and agent of all mischief so widely spoken of and so difficult to find.”",
     "ko": "“의심이 판치는 이곳에서는 대낮처럼 명백한 결론이 나오지. 바사드 씨는 여전히 영국 귀족 정부의 돈을 받고 있는 피트의 스파이이자, 공화국의 품속에 웅크리고 있는 배신자요, 세간에 그토록 자주 입에 오르내리면서도 찾아내기 힘든 온갖 악행의 주범인 영국인 반역자라는 결론 말이오.”",
@@ -1256,7 +1264,7 @@
     "raw_ref_id": 192
   },
   {
-    "id": 158,
+    "id": 159,
     "tag": "P077_9",
     "en": "That card cannot be beaten.",
     "ko": "이 카드는 이길 수 없지.",
@@ -1264,7 +1272,7 @@
     "raw_ref_id": 194
   },
   {
-    "id": 159,
+    "id": 160,
     "tag": "P077_10",
     "en": "“Have you followed my hand, Mr. Barsad?”",
     "ko": "“내 패를 잘 따라오고 있소, 바사드 씨?”",
@@ -1272,7 +1280,7 @@
     "raw_ref_id": 195
   },
   {
-    "id": 160,
+    "id": 161,
     "tag": "P078",
     "en": "“I don't understand what you are playing at,” the spy said nervously.",
     "ko": "“무슨 장난을 치고 있는 건지 모르겠군,” 스파이가 초조하게 말했다.",
@@ -1280,7 +1288,7 @@
     "raw_ref_id": 197
   },
   {
-    "id": 161,
+    "id": 162,
     "tag": "P079_1",
     "en": "“I am playing my Ace: reporting you to the nearest revolutionary committee.",
     "ko": "“나는 내 에이스 카드를 내는 중이오. 가장 가까운 혁명 위원회에 당신을 고발하는 거지.",
@@ -1288,7 +1296,7 @@
     "raw_ref_id": 198
   },
   {
-    "id": 162,
+    "id": 163,
     "tag": "P079_2",
     "en": "“Look over your hand, Mr. Barsad, and see what you have.”",
     "ko": "“당신의 패를 살펴보시오, 바사드 씨. 당신에게 무엇이 있는지 말이오.”",
@@ -1296,7 +1304,7 @@
     "raw_ref_id": 199
   },
   {
-    "id": 163,
+    "id": 164,
     "tag": "P079_4",
     "en": "Take your time.”",
     "ko": "천천히 살펴보시오.”",
@@ -1304,7 +1312,7 @@
     "raw_ref_id": 201
   },
   {
-    "id": 164,
+    "id": 165,
     "tag": "P080_1",
     "en": "He poured another glass of brandy and drank it.",
     "ko": "그는 브랜디 한 잔을 더 따라 마셨다.",
@@ -1312,7 +1320,7 @@
     "raw_ref_id": 202
   },
   {
-    "id": 165,
+    "id": 166,
     "tag": "P080_2",
     "en": "He saw the spy was worried Carton would drink enough to get angry and report him immediately, so Carton deliberately drank another glass.",
     "ko": "카턴은 자신이 브랜디를 너무 많이 마셔서 화를 내고 즉시 그를 고발할까 봐 스파이가 걱정하고 있다는 것을 알고서, 일부러 한 잔을 더 마셨다.",
@@ -1320,7 +1328,7 @@
     "raw_ref_id": 203
   },
   {
-    "id": 166,
+    "id": 167,
     "tag": "P081_1",
     "en": "“Look over your hand carefully, Mr. Barsad.”",
     "ko": "“당신의 패를 신중하게 살펴보시오, 바사드 씨.”",
@@ -1328,7 +1336,7 @@
     "raw_ref_id": 204
   },
   {
-    "id": 167,
+    "id": 168,
     "tag": "P081_3",
     "en": "Take your time.”",
     "ko": "천천히 살펴보시오.”",
@@ -1336,7 +1344,7 @@
     "raw_ref_id": 206
   },
   {
-    "id": 168,
+    "id": 169,
     "tag": "P082_1",
     "en": "The spy's hand was even worse than Carton realized, containing secrets Carton didn't even know.",
     "ko": "그 스파이의 패는 카턴이 생각했던 것보다 훨씬 나빴으며, 카턴조차 모르는 비밀들을 포함하고 있었다.",
@@ -1344,7 +1352,7 @@
     "raw_ref_id": 207
   },
   {
-    "id": 169,
+    "id": 170,
     "tag": "P082_2",
     "en": "Having lost his job in England because his lies in court were exposed, he had come to France to work as a spy, first spying on English exiles, then on the French citizens.",
     "ko": "법정에서의 거짓말이 들통나 영국에서 직업을 잃은 그는 프랑스로 건너와 스파이로 일하며 처음에는 영국 망명자들을, 그다음에는 프랑스 시민들을 감시했다.",
@@ -1352,7 +1360,7 @@
     "raw_ref_id": 208
   },
   {
-    "id": 170,
+    "id": 171,
     "tag": "P082_3",
     "en": "After losing his respectable job in England because of too much obvious lying in court, he had crossed the English Channel to work in France. First, he spied and eavesdropped on his own countrymen there, and later he started spying on the French locals.",
     "ko": "법정에서 너무 노골적으로 거짓말을 한 탓에 영국에서 번듯한 직업을 잃은 후, 그는 프랑스에서 일하기 위해 영국 해협을 건넜다. 처음에는 그곳에서 자신의 동포들을 감시하고 도청했으며, 나중에는 프랑스 현지인들을 감시하기 시작했다.",
@@ -1360,7 +1368,7 @@
     "raw_ref_id": 209
   },
   {
-    "id": 171,
+    "id": 172,
     "tag": "P082_4",
     "en": "He knew that under the old government, he had spied on the Saint Antoine neighborhood and Defarge's wine shop. The police had given him enough details about Doctor Manette's imprisonment and release to help him start a conversation with the Defarges. He had tried to use this information on Madame Defarge, but he had failed completely.",
     "ko": "그는 예전 정부 시절에 생탕투안 지역과 드파르지의 와인 가게를 감시했었다는 사실을 알고 있었다. 경찰은 그가 드파르지 부부와 대화를 시작하는 데 도움이 되도록 마네트 박사의 수감 및 석방에 대한 충분한 세부 정보를 그에게 제공했었다. 그는 드파르지 부인에게 이 정보를 써먹으려 했지만 완전히 실패했다.",
@@ -1368,7 +1376,7 @@
     "raw_ref_id": 210
   },
   {
-    "id": 172,
+    "id": 173,
     "tag": "P082_5",
     "en": "He remembered with terror how Madame Defarge had knitted while talking to him, looking at him coldly.",
     "ko": "그는 드파르지 부인이 자신을 차갑게 바라보며 이야기하는 동안 뜨개질을 하던 모습을 공포와 함께 기억했다.",
@@ -1376,7 +1384,7 @@
     "raw_ref_id": 211
   },
   {
-    "id": 173,
+    "id": 174,
     "tag": "P082_6",
     "en": "Since then, he had seen her in the neighborhood meetings pointing to her knitting to accuse people who were then executed.",
     "ko": "그 이후로 그는 지역 모임에서 그녀가 자신의 뜨개질을 가리키며 사람들을 고발하고, 그들이 처형되는 것을 보아왔다.",
@@ -1384,7 +1392,7 @@
     "raw_ref_id": 212
   },
   {
-    "id": 174,
+    "id": 175,
     "tag": "P082_7",
     "en": "Like everyone in his line of work, he knew that he was never truly safe and that escaping was impossible. He was trapped under the constant threat of the Guillotine. Despite all his lying and plotting to support the Reign of Terror, just one wrong word could bring the axe down on his own neck.",
     "ko": "그의 직업에 종사하는 모든 사람이 그렇듯, 그는 자신이 결코 진정으로 안전하지 않으며 도망치는 것은 불가능하다는 것을 알고 있었다. 그는 기요틴의 끊임없는 위협 아래 갇혀 있었다. 공포 정치를 지지하기 위해 온갖 거짓말과 음모를 꾸몄음에도 불구하고, 말 한마디만 잘못해도 도끼가 자신의 목을 내리칠 수 있었다.",
@@ -1392,7 +1400,7 @@
     "raw_ref_id": 213
   },
   {
-    "id": 175,
+    "id": 176,
     "tag": "P082_8",
     "en": "If he were ever reported for the serious crimes Carton just mentioned, he knew exactly what would happen. That terrifying woman, whose ruthless nature he had seen many times, would bring out her deadly knitted records to destroy his final chance of surviving.",
     "ko": "만약 카턴이 방금 언급한 심각한 범죄들로 고발당한다면, 그는 정확히 무슨 일이 일어날지 알고 있었다. 그가 여러 번 보았던 그 무자비한 본성을 가진 무시무시한 여자가, 그가 살아남을 마지막 기회마저 파괴하기 위해 죽음의 뜨개질 기록을 꺼내들 것이었다.",
@@ -1400,7 +1408,7 @@
     "raw_ref_id": 214
   },
   {
-    "id": 176,
+    "id": 177,
     "tag": "P082_9",
     "en": "Men who live a life of secrets are easily terrified, and this hand of cards was certainly dark enough to make anyone turn pale with fear as they were played.",
     "ko": "비밀스러운 삶을 사는 사람들은 쉽게 공포에 질리며, 이 패는 그것이 공개될 때 누구라도 두려움에 창백해질 만큼 확실히 어두웠다.",
@@ -1408,7 +1416,7 @@
     "raw_ref_id": 215
   },
   {
-    "id": 177,
+    "id": 178,
     "tag": "P083",
     "en": "“You don't seem to like your cards,” Sydney said calmly. “Are you going to play?”",
     "ko": "“당신의 패가 마음에 들지 않는 모양이군,” 시드니가 차분하게 말했다. “게임에 참여하시겠소?”",
@@ -1416,7 +1424,7 @@
     "raw_ref_id": 216
   },
   {
-    "id": 178,
+    "id": 179,
     "tag": "P084_1",
     "en": "“I think, sir,” said the spy in the most groveling manner as he turned to Mr. Lorry, “I may appeal to a gentleman of your years and benevolence to ask this other gentleman, so much your junior, whether he can under any circumstances reconcile it with his character to play that Ace of which he has spoken.”",
     "ko": "“제 생각에는, 어르신,” 스파이는 가장 비굴한 태도로 로리 씨를 돌아보며 말했다. “어르신처럼 연륜과 자애로움을 갖추신 신사분께서 어르신보다 한참 젊은 이 신사분에게, 그가 말한 그 에이스를 내미는 것이 과연 어떤 경우라도 자신의 신분에 부합하는 행동인지 따져 물어주실 수 있지 않을까 합니다.”",
@@ -1424,7 +1432,7 @@
     "raw_ref_id": 217
   },
   {
-    "id": 179,
+    "id": 180,
     "tag": "P084_3",
     "en": "I admit I am a spy, and that it's a dirty job, though someone has to do it. But this gentleman is not a spy, so why should he lower himself to act like one?”",
     "ko": "제가 스파이이고 그것이 누군가는 해야 할 더러운 일이라는 것은 인정합니다. 하지만 이 신사 분은 스파이가 아니신데, 왜 자신을 낮추어 스파이처럼 행동하시려 하십니까?”",
@@ -1432,7 +1440,7 @@
     "raw_ref_id": 219
   },
   {
-    "id": 180,
+    "id": 181,
     "tag": "P085_1",
     "en": "“I will play my Ace, Mr. Barsad,” said Carton, answering for himself and looking at his watch, “without any scruple, in a very few minutes.”",
     "ko": "“난 단 몇 분 안에 어떤 거리낌도 없이 내 에이스를 낼 것이오, 바사드 씨.” 카턴은 자신이 직접 대답하며 시계를 내려다보고 말했다.",
@@ -1440,7 +1448,7 @@
     "raw_ref_id": 220
   },
   {
-    "id": 181,
+    "id": 182,
     "tag": "P086_1",
     "en": "“I should have hoped, gentlemen,” said the spy, always trying to draw Mr. Lorry into the discussion, “that out of respect for my sister—”",
     "ko": "“두 신사분 모두,” 스파이는 계속해서 로리 씨를 대화로 끌어들이려 애쓰며 말했다. “제 누이에 대한 존중을 생각해서라도—”",
@@ -1448,7 +1456,7 @@
     "raw_ref_id": 222
   },
   {
-    "id": 182,
+    "id": 183,
     "tag": "P087",
     "en": "“I couldn't show more respect for your sister than by freeing her of her brother once and for all,” said Sydney Carton.",
     "ko": "“당신 누이를 그녀의 오빠로부터 영원히 해방시켜 주는 것보다 더 그녀를 존중하는 방법은 없을 거요,” 시드니 카턴이 말했다.",
@@ -1456,7 +1464,7 @@
     "raw_ref_id": 224
   },
   {
-    "id": 183,
+    "id": 184,
     "tag": "P088",
     "en": "\"I am completely certain about it.\"",
     "ko": "“나는 그 점에 대해 전적으로 확신하오.”",
@@ -1464,7 +1472,7 @@
     "raw_ref_id": 225
   },
   {
-    "id": 184,
+    "id": 185,
     "tag": "P089_1",
     "en": "The spy's smooth and polite manners strangely didn't match his deliberately rough clothes or his usual behavior. However, his confident act hit a wall against Carton's completely unreadable face. Carton was a mystery to men much smarter and more honest than the spy, so Barsad quickly lost his nerve and his smooth manner failed him entirely.",
     "ko": "스파이의 매끄럽고 예의 바른 태도는 그의 의도적으로 거친 옷차림이나 평소의 행동과 묘하게 어울리지 않았다. 하지만 그의 자신감 넘치는 연기는 속을 전혀 알 수 없는 카턴의 얼굴 앞에서 벽에 부딪혔다. 카턴은 스파이보다 훨씬 똑똑하고 정직한 사람들에게도 미스터리한 인물이었기 때문에, 바사드는 빠르게 평정심을 잃었고 그의 능글맞은 태도는 완전히 무너졌다.",
@@ -1472,7 +1480,7 @@
     "raw_ref_id": 226
   },
   {
-    "id": 185,
+    "id": 186,
     "tag": "P089_2",
     "en": "Not knowing what to do, the spy remained quiet while Carton spoke again, looking at his imaginary cards:",
     "ko": "스파이는 어떻게 해야 할지 몰라 조용히 있었고, 카턴은 가상의 카드를 들여다보며 다시 입을 열었다.",
@@ -1480,7 +1488,7 @@
     "raw_ref_id": 227
   },
   {
-    "id": 186,
+    "id": 187,
     "tag": "P090_1",
     "en": "“And indeed, now I think again, I have a strong impression that I have another good card here, not yet enumerated.",
     "ko": "“그리고 정말이지, 다시 생각해보니 아직 꺼내지 않은 또 다른 좋은 패가 있다는 강한 느낌이 드는군.",
@@ -1488,7 +1496,7 @@
     "raw_ref_id": 228
   },
   {
-    "id": 187,
+    "id": 188,
     "tag": "P090_2",
     "en": "That friend and fellow-Sheep, who spoke of himself as pasturing in the country prisons; who was he?”",
     "ko": "자신을 시골 감옥에서 풀을 뜯는다고 말하던 그 친구이자 동료 양(스파이), 그는 누구였지?”",
@@ -1496,7 +1504,7 @@
     "raw_ref_id": 229
   },
   {
-    "id": 188,
+    "id": 189,
     "tag": "P091_1",
     "en": "“He is French.",
     "ko": "“그는 프랑스인입니다.",
@@ -1504,7 +1512,7 @@
     "raw_ref_id": 230
   },
   {
-    "id": 189,
+    "id": 190,
     "tag": "P091_2",
     "en": "You don't know him,” the spy said quickly.",
     "ko": "당신은 그를 모릅니다,” 스파이가 서둘러 말했다.",
@@ -1512,7 +1520,7 @@
     "raw_ref_id": 231
   },
   {
-    "id": 190,
+    "id": 191,
     "tag": "P092",
     "en": "“French, is he?” Carton repeated thoughtfully, looking away. “Well, maybe he is.”",
     "ko": "“프랑스인이라?” 카턴이 시선을 돌리며 생각에 잠긴 듯 반복했다. “글쎄, 그럴지도 모르지.”",
@@ -1520,7 +1528,7 @@
     "raw_ref_id": 232
   },
   {
-    "id": 191,
+    "id": 192,
     "tag": "P093",
     "en": "“He is, I assure you,” said the spy, “though it doesn't matter.”",
     "ko": "“확실히 그렇습니다,” 스파이가 말했다. “물론 그게 중요한 건 아닙니다만.”",
@@ -1528,7 +1536,7 @@
     "raw_ref_id": 233
   },
   {
-    "id": 192,
+    "id": 193,
     "tag": "P094_1",
     "en": "“Though it doesn't matter,” Carton repeated slowly. “No, it doesn't matter.",
     "ko": "“그게 중요하지는 않겠지만,” 카턴이 천천히 반복했다. “그래, 중요한 건 아니지.",
@@ -1536,7 +1544,7 @@
     "raw_ref_id": 234
   },
   {
-    "id": 193,
+    "id": 194,
     "tag": "P094_2",
     "en": "But I know his face.”",
     "ko": "하지만 난 그의 얼굴을 알아.”",
@@ -1544,7 +1552,7 @@
     "raw_ref_id": 235
   },
   {
-    "id": 194,
+    "id": 195,
     "tag": "P095_1",
     "en": "“I think not.",
     "ko": "“아닐 겁니다.",
@@ -1552,7 +1560,7 @@
     "raw_ref_id": 236
   },
   {
-    "id": 195,
+    "id": 196,
     "tag": "P095_2",
     "en": "I am sure you don't.",
     "ko": "절대 모르실 겁니다.",
@@ -1560,7 +1568,7 @@
     "raw_ref_id": 237
   },
   {
-    "id": 196,
+    "id": 197,
     "tag": "P095_3",
     "en": "It's impossible,” said the spy.",
     "ko": "그건 불가능합니다,” 스파이가 말했다.",
@@ -1568,7 +1576,7 @@
     "raw_ref_id": 238
   },
   {
-    "id": 197,
+    "id": 198,
     "tag": "P096_1",
     "en": "“It's impossible,” Sydney Carton muttered, spinning his glass. “Impossible.",
     "ko": "“불가능하다,” 시드니 카턴이 유리잔을 돌리며 중얼거렸다. “불가능하다니.",
@@ -1576,7 +1584,7 @@
     "raw_ref_id": 239
   },
   {
-    "id": 198,
+    "id": 199,
     "tag": "P096_2",
     "en": "He spoke good French, but he sounded like a foreigner, didn't he?”",
     "ko": "그는 프랑스어를 잘 구사했지만 외국인처럼 들렸소, 그렇지 않소?”",
@@ -1584,7 +1592,7 @@
     "raw_ref_id": 240
   },
   {
-    "id": 199,
+    "id": 200,
     "tag": "P097",
     "en": "“He just has an accent from the countryside,” said the spy.",
     "ko": "“단지 시골 억양이 있을 뿐입니다,” 스파이가 말했다.",
@@ -1592,7 +1600,7 @@
     "raw_ref_id": 241
   },
   {
-    "id": 200,
+    "id": 201,
     "tag": "P098_1",
     "en": "“No, he is a foreigner!” Carton cried, hitting the table as he suddenly realized the truth. “It is Roger Cly!",
     "ko": "“아니, 그는 외국인이오!” 갑자기 진실을 깨달은 카턴이 탁자를 치며 외쳤다. “바로 로저 클라이군!",
@@ -1600,7 +1608,7 @@
     "raw_ref_id": 242
   },
   {
-    "id": 201,
+    "id": 202,
     "tag": "P098_2",
     "en": "He is in disguise, but it's him.",
     "ko": "변장을 하고 있지만 그 자가 맞소.",
@@ -1608,7 +1616,7 @@
     "raw_ref_id": 243
   },
   {
-    "id": 202,
+    "id": 203,
     "tag": "P098_3",
     "en": "We saw him at the trial in London.”",
     "ko": "런던의 재판에서 우리가 그를 보았지.”",
@@ -1616,7 +1624,7 @@
     "raw_ref_id": 244
   },
   {
-    "id": 203,
+    "id": 204,
     "tag": "P099_1",
     "en": "\"Now, you are being a bit too quick to judge, sir,\" said Barsad, offering a smile that made his sharp nose tilt even more to one side. \"By saying that, you've actually given me an advantage over you.\"",
     "ko": "“지금 너무 성급하게 판단하고 계십니다, 선생님,” 바사드가 뾰족한 코를 한쪽으로 더욱 기울이며 미소를 지으며 말했다. “그렇게 말씀하심으로써 오히려 선생님보다 제가 유리해졌군요.”",
@@ -1624,7 +1632,7 @@
     "raw_ref_id": 245
   },
   {
-    "id": 204,
+    "id": 205,
     "tag": "P099_2",
     "en": "Cly, who was my partner, I admit now, has been dead for years.",
     "ko": "이제 인정하건대, 제 파트너였던 클라이는 몇 년 전에 죽었습니다.",
@@ -1632,7 +1640,7 @@
     "raw_ref_id": 246
   },
   {
-    "id": 205,
+    "id": 206,
     "tag": "P099_3",
     "en": "I was with him when he died.",
     "ko": "그가 죽을 때 제가 곁에 있었죠.",
@@ -1640,7 +1648,7 @@
     "raw_ref_id": 247
   },
   {
-    "id": 206,
+    "id": 207,
     "tag": "P099_4",
     "en": "He was buried in London at Saint Pancras Church.",
     "ko": "그는 런던의 세인트 판크라스 교회에 묻혔습니다.",
@@ -1648,7 +1656,7 @@
     "raw_ref_id": 248
   },
   {
-    "id": 207,
+    "id": 208,
     "tag": "P099_5",
     "en": "The crowd hated him so much that I couldn't attend the funeral service, but I helped put him in his coffin.”",
     "ko": "군중이 그를 너무나 미워해서 저는 장례 예배에 참석할 수 없었지만, 그를 관에 눕히는 것을 도왔습니다.”",
@@ -1656,7 +1664,7 @@
     "raw_ref_id": 249
   },
   {
-    "id": 208,
+    "id": 209,
     "tag": "P100_1",
     "en": "Here, from where he sat, Mr. Lorry became aware of a most remarkable goblin shadow on the wall.",
     "ko": "이때, 앉아 있던 자리에서 로리 씨는 벽에 비친 대단히 기괴한 도깨비 같은 그림자를 알아차렸다.",
@@ -1664,7 +1672,7 @@
     "raw_ref_id": 250
   },
   {
-    "id": 209,
+    "id": 210,
     "tag": "P100_3",
     "en": "Looking over, he saw it was caused by all the hair on Jerry Cruncher's head standing straight up in excitement.",
     "ko": "고개를 돌려보니, 그것은 제리 크런처의 머리카락이 흥분하여 모두 꼿꼿이 서 있기 때문이었다.",
@@ -1672,7 +1680,7 @@
     "raw_ref_id": 252
   },
   {
-    "id": 210,
+    "id": 211,
     "tag": "P101_1",
     "en": "“Let's be reasonable,” the spy said. “To show you that you are wrong, I have Cly's burial certificate right here in my wallet.” He quickly pulled it out. “Here it is.",
     "ko": "“합리적으로 생각해보죠,” 스파이가 말했다. “선생님이 틀렸다는 것을 증명하기 위해, 제 지갑에 클라이의 매장 증명서를 가지고 있습니다.” 그는 그것을 재빨리 꺼냈다. “여기 있습니다.",
@@ -1680,7 +1688,7 @@
     "raw_ref_id": 253
   },
   {
-    "id": 211,
+    "id": 212,
     "tag": "P101_2",
     "en": "Look at it.",
     "ko": "이걸 보시죠.",
@@ -1688,7 +1696,7 @@
     "raw_ref_id": 254
   },
   {
-    "id": 212,
+    "id": 213,
     "tag": "P101_3",
     "en": "You can hold it; it is real.”",
     "ko": "잡아 보셔도 됩니다; 진짜니까요.”",
@@ -1696,7 +1704,7 @@
     "raw_ref_id": 255
   },
   {
-    "id": 213,
+    "id": 214,
     "tag": "P102_1",
     "en": "Here, Mr. Lorry saw the reflection on the wall elongate, and Mr. Cruncher rose and stepped forward.",
     "ko": "이때 로리 씨는 벽에 비친 그림자가 길어지는 것을 보았고, 크런처 씨가 일어나 앞으로 걸어 나왔다.",
@@ -1704,7 +1712,7 @@
     "raw_ref_id": 256
   },
   {
-    "id": 214,
+    "id": 215,
     "tag": "P102_3",
     "en": "His spiky hair was standing on end as if he had been shocked by electricity.",
     "ko": "그의 뾰족한 머리카락은 마치 전기에 감전된 것처럼 곤두서 있었다.",
@@ -1712,7 +1720,7 @@
     "raw_ref_id": 258
   },
   {
-    "id": 215,
+    "id": 216,
     "tag": "P103",
     "en": "Without the spy seeing him, Jerry stood at his side and tapped his shoulder like a ghost.",
     "ko": "스파이가 알아채지 못하게, 제리는 유령처럼 그의 곁에 서서 어깨를 툭툭 쳤다.",
@@ -1720,7 +1728,7 @@
     "raw_ref_id": 259
   },
   {
-    "id": 216,
+    "id": 217,
     "tag": "P104",
     "en": "“That Roger Cly,” Jerry said with a grim face. “So _you_ put him in his coffin?”",
     "ko": "“그 로저 클라이 말이야,” 제리가 험악한 얼굴로 말했다. “그래, 네가 그를 관에 넣었다고?”",
@@ -1728,7 +1736,7 @@
     "raw_ref_id": 260
   },
   {
-    "id": 217,
+    "id": 218,
     "tag": "P105",
     "en": "“I did.”",
     "ko": "“그렇소.”",
@@ -1736,7 +1744,7 @@
     "raw_ref_id": 261
   },
   {
-    "id": 218,
+    "id": 219,
     "tag": "P106",
     "en": "“Then who took him out of it?”",
     "ko": "“그럼 누가 관에서 그를 꺼냈지?”",
@@ -1744,7 +1752,7 @@
     "raw_ref_id": 262
   },
   {
-    "id": 219,
+    "id": 220,
     "tag": "P107",
     "en": "Barsad leaned back and stammered, “What do you mean?”",
     "ko": "바사드는 뒤로 기대며 더듬거렸다. “무슨 뜻이오?”",
@@ -1752,7 +1760,7 @@
     "raw_ref_id": 263
   },
   {
-    "id": 220,
+    "id": 221,
     "tag": "P108_1",
     "en": "“I mean,” Jerry said, “that he was never in it!",
     "ko": "“내 말은,” 제리가 말했다. “그가 한 번도 거기 들어있지 않았다는 거야!",
@@ -1760,7 +1768,7 @@
     "raw_ref_id": 264
   },
   {
-    "id": 221,
+    "id": 222,
     "tag": "P108_2",
     "en": "No, not him!",
     "ko": "아니, 그는 없었어!",
@@ -1768,7 +1776,7 @@
     "raw_ref_id": 265
   },
   {
-    "id": 222,
+    "id": 223,
     "tag": "P108_3",
     "en": "I will lose my head if he was ever in that coffin.”",
     "ko": "그가 그 관에 조금이라도 들어있었다면 내 목을 걸지.”",
@@ -1776,7 +1784,7 @@
     "raw_ref_id": 266
   },
   {
-    "id": 223,
+    "id": 224,
     "tag": "P109",
     "en": "The spy looked at Carton and Lorry, who were both staring at Jerry in absolute surprise.",
     "ko": "스파이는 완전한 놀라움 속에 제리를 응시하고 있는 카턴과 로리를 번갈아 보았다.",
@@ -1784,7 +1792,7 @@
     "raw_ref_id": 267
   },
   {
-    "id": 224,
+    "id": 225,
     "tag": "P110_1",
     "en": "“I tell you,” Jerry said, “that you buried paving stones and dirt in that coffin.",
     "ko": "“내가 말하는데,” 제리가 말했다. “너희는 그 관에 포장석과 흙을 묻었어.",
@@ -1792,7 +1800,7 @@
     "raw_ref_id": 268
   },
   {
-    "id": 225,
+    "id": 226,
     "tag": "P110_2",
     "en": "Don't tell me you buried Cly.",
     "ko": "클라이를 묻었다고 나한테 말하지 마.",
@@ -1800,7 +1808,7 @@
     "raw_ref_id": 269
   },
   {
-    "id": 226,
+    "id": 227,
     "tag": "P110_3",
     "en": "It was a trick.",
     "ko": "그건 속임수였어.",
@@ -1808,7 +1816,7 @@
     "raw_ref_id": 270
   },
   {
-    "id": 227,
+    "id": 228,
     "tag": "P110_4",
     "en": "I and two other men know it.”",
     "ko": "나와 다른 두 사람이 그걸 알고 있지.”",
@@ -1816,7 +1824,7 @@
     "raw_ref_id": 271
   },
   {
-    "id": 228,
+    "id": 229,
     "tag": "P111",
     "en": "“How do you know that?”",
     "ko": "“당신이 그걸 어떻게 아오?”",
@@ -1824,7 +1832,7 @@
     "raw_ref_id": 272
   },
   {
-    "id": 229,
+    "id": 230,
     "tag": "P112_1",
     "en": "“What is that to you?",
     "ko": "“네가 알 바 아니잖아?",
@@ -1832,7 +1840,7 @@
     "raw_ref_id": 273
   },
   {
-    "id": 230,
+    "id": 231,
     "tag": "P112_2",
     "en": "Damn!” Jerry growled. “So it's you I have an old grudge against, with your trickery!",
     "ko": "젠장!” 제리가 으르렁거렸다. “네놈의 그 속임수 때문에 내가 옛날부터 원한이 맺혔던 게 바로 너였구나!",
@@ -1840,7 +1848,7 @@
     "raw_ref_id": 274
   },
   {
-    "id": 231,
+    "id": 232,
     "tag": "P112_3",
     "en": "I'd choke you right now for half a coin.”",
     "ko": "당장 동전 반 닢에 네 목을 졸라버릴 테다.",
@@ -1848,7 +1856,7 @@
     "raw_ref_id": 275
   },
   {
-    "id": 232,
+    "id": 233,
     "tag": "P113_1",
     "en": "Sydney Carton, who along with Mr. Lorry had been lost in amazement at this turn of events, now asked Mr. Cruncher to calm down and explain himself.",
     "ko": "로리 씨와 함께 이러한 상황 변화에 놀라 넋을 잃고 있던 시드니 카턴은 여기서 크런처 씨에게 진정하고 설명해 보라고 요청했다.",
@@ -1856,7 +1864,7 @@
     "raw_ref_id": 276
   },
   {
-    "id": 233,
+    "id": 234,
     "tag": "P114_1",
     "en": "“Some other time, sir,” Jerry replied, avoiding the question. “Right now is not a good time to explain.",
     "ko": "“나중에요, 선생님.” 제리가 질문을 회피하며 대답했다. “지금은 설명하기 좋은 때가 아닙니다.",
@@ -1864,7 +1872,7 @@
     "raw_ref_id": 278
   },
   {
-    "id": 234,
+    "id": 235,
     "tag": "P114_2",
     "en": "“Let him say he was, even in a single one-syllable word, and I’ll either seize his throat and choke him for half a guinea”—Mr. Cruncher dwelt on this as quite a generous offer—“or I’ll go right out and turn him in.”",
     "ko": "“단 한 음절이라도 그가 관에 있었다고 말해 보라지. 그러면 내가 반 기니를 받고 그의 목덜미를 틀어쥐고 숨통을 끊어놓든가,” 크런처 씨는 이것이 대단히 후한 제안이라는 듯 강조했다. “아니면 당장 밖으로 나가 그자를 고발해 버릴 테니까.”",
@@ -1872,7 +1880,7 @@
     "raw_ref_id": 279
   },
   {
-    "id": 235,
+    "id": 236,
     "tag": "P115_1",
     "en": "“Humph! I see one thing,” said Carton. “I hold another card, Mr. Barsad.",
     "ko": "“흥! 한 가지는 알겠군.” 카턴이 말했다. “내게 또 다른 패가 있소, 바르사드 씨.",
@@ -1880,7 +1888,7 @@
     "raw_ref_id": 281
   },
   {
-    "id": 236,
+    "id": 237,
     "tag": "P115_3",
     "en": "It is impossible for you to survive in Paris if I report you for working with another English spy who faked his death.",
     "ko": "내가 당신을 죽음을 위장한 또 다른 영국 스파이와 함께 일한다고 신고하면 당신이 파리에서 살아남는 것은 불가능하오.",
@@ -1888,7 +1896,7 @@
     "raw_ref_id": 283
   },
   {
-    "id": 237,
+    "id": 238,
     "tag": "P115_4",
     "en": "They will call it a foreign plot in the prisons against the Republic.",
     "ko": "그들은 그것을 감옥 내에서 공화국에 대항하는 외국의 음모라고 부를 것이오.",
@@ -1896,7 +1904,7 @@
     "raw_ref_id": 284
   },
   {
-    "id": 238,
+    "id": 239,
     "tag": "P115_5",
     "en": "That is a winning card, a Guillotine card!",
     "ko": "그것은 이기는 카드, 즉 단두대 카드요!",
@@ -1904,7 +1912,7 @@
     "raw_ref_id": 285
   },
   {
-    "id": 239,
+    "id": 240,
     "tag": "P115_6",
     "en": "Do you play?”",
     "ko": "승부를 겨루겠소?”",
@@ -1912,7 +1920,7 @@
     "raw_ref_id": 286
   },
   {
-    "id": 240,
+    "id": 241,
     "tag": "P116_1",
     "en": "“No!” the spy replied. “I give up.",
     "ko": "“아니오!” 스파이가 대답했다. “내가 포기하겠소.",
@@ -1920,7 +1928,7 @@
     "raw_ref_id": 287
   },
   {
-    "id": 241,
+    "id": 242,
     "tag": "P116_2",
     "en": "I'll admit that we were so hated by the wild mobs in England that I barely escaped with my life. Cly was hunted so relentlessly that he never would have gotten away at all if he hadn't faked his own death.",
     "ko": "우리가 영국에서 거친 군중들에게 너무나 미움을 받은 나머지 내 목숨만 겨우 건져 도망쳤다는 것을 인정하겠소. 클라이는 너무나 집요하게 쫓겨서 자신의 죽음을 위장하지 않았다면 결코 도망치지 못했을 것이오.",
@@ -1928,7 +1936,7 @@
     "raw_ref_id": 288
   },
   {
-    "id": 242,
+    "id": 243,
     "tag": "P116_3",
     "en": "How this man knows it was a trick is a mystery to me.”",
     "ko": "이 남자가 그것이 속임수였다는 것을 어떻게 아는지는 나에게도 미스터리요.”",
@@ -1936,7 +1944,7 @@
     "raw_ref_id": 289
   },
   {
-    "id": 243,
+    "id": 244,
     "tag": "P117_1",
     "en": "“Don’t you worry your head about this man,” the contentious Mr. Cruncher retorted. “You’ll have trouble enough paying attention to that gentleman. And look here! One more thing!”—Mr. Cruncher could not be restrained from making rather an ostentatious display of his generosity—“I’d grab you by the throat and choke you for half a guinea.”",
     "ko": "“이 사람에 대해선 전혀 신경 쓰지 마시오.” 말싸움하기 좋아하는 크런처 씨가 쏘아붙였다. “저 신사분에게 신경 쓰는 것만으로도 골치 아플 테니까. 그리고 이것 봐! 한 번 더 말하는데!”—크런처 씨는 자신의 관대함을 다소 과시하듯 뽐내는 것을 참지 못했다—“반 기니만 준대도 네 멱살을 잡고 숨통을 끊어놓을 수 있단 말이다.”",
@@ -1944,7 +1952,7 @@
     "raw_ref_id": 290
   },
   {
-    "id": 244,
+    "id": 245,
     "tag": "P118_1",
     "en": "The spy turned back to Carton and said, “Let's get to the point.",
     "ko": "스파이는 카턴에게 다시 돌아서서 말했다. “본론으로 들어갑시다.",
@@ -1952,7 +1960,7 @@
     "raw_ref_id": 292
   },
   {
-    "id": 245,
+    "id": 246,
     "tag": "P118_2",
     "en": "I have to go on duty soon.",
     "ko": "나는 곧 근무하러 가야 하오.",
@@ -1960,7 +1968,7 @@
     "raw_ref_id": 293
   },
   {
-    "id": 246,
+    "id": 247,
     "tag": "P118_3",
     "en": "You mentioned that you had a proposal for me; what exactly is it?",
     "ko": "나에게 제안할 것이 있다고 하셨는데, 정확히 무엇입니까?",
@@ -1968,7 +1976,7 @@
     "raw_ref_id": 294
   },
   {
-    "id": 247,
+    "id": 248,
     "tag": "P118_4",
     "en": "Don't ask too much of me.",
     "ko": "나에게 너무 많은 것을 요구하지 마시오.",
@@ -1976,7 +1984,7 @@
     "raw_ref_id": 295
   },
   {
-    "id": 248,
+    "id": 249,
     "tag": "P118_5",
     "en": "If you ask me to help someone escape, which puts my head on the line, I'd rather refuse.",
     "ko": "만약 당신이 내 목숨을 걸어야 하는 누군가의 탈출을 도와달라고 요구한다면, 나는 차라리 거절하겠소.",
@@ -1984,7 +1992,7 @@
     "raw_ref_id": 296
   },
   {
-    "id": 249,
+    "id": 250,
     "tag": "P118_6",
     "en": "To put it simply, that is the choice I would make. Now, you mentioned being desperate.",
     "ko": "간단히 말해서, 그것이 내가 내릴 선택이오. 자, 당신은 필사적이라고 했소.",
@@ -1992,7 +2000,7 @@
     "raw_ref_id": 297
   },
   {
-    "id": 250,
+    "id": 251,
     "tag": "P118_7",
     "en": "Remember, I can report you too, and I can lie in court to protect myself.",
     "ko": "기억하시오, 나도 당신을 고발할 수 있고 나 자신을 보호하기 위해 법정에서 거짓말을 할 수도 있다는 것을.",
@@ -2000,7 +2008,7 @@
     "raw_ref_id": 298
   },
   {
-    "id": 251,
+    "id": 252,
     "tag": "P118_8",
     "en": "What do you want?”",
     "ko": "원하는 게 뭐요?”",
@@ -2008,7 +2016,7 @@
     "raw_ref_id": 299
   },
   {
-    "id": 252,
+    "id": 253,
     "tag": "P119_1",
     "en": "“Not much.",
     "ko": "“대단한 건 아니오.",
@@ -2016,7 +2024,7 @@
     "raw_ref_id": 300
   },
   {
-    "id": 253,
+    "id": 254,
     "tag": "P119_2",
     "en": "You are a guard at the Conciergerie?”",
     "ko": "당신은 콩시에르주리의 간수요?”",
@@ -2024,7 +2032,7 @@
     "raw_ref_id": 301
   },
   {
-    "id": 254,
+    "id": 255,
     "tag": "P120",
     "en": "“I tell you now, an escape is completely impossible,” the spy said firmly.",
     "ko": "“지금 말해두지만, 탈출은 완전히 불가능하오.” 스파이가 단호하게 말했다.",
@@ -2032,7 +2040,7 @@
     "raw_ref_id": 302
   },
   {
-    "id": 255,
+    "id": 256,
     "tag": "P121_1",
     "en": "“Why are you telling me what I didn't ask?",
     "ko": "“왜 내가 묻지도 않은 것을 말하는 거요?",
@@ -2040,7 +2048,7 @@
     "raw_ref_id": 303
   },
   {
-    "id": 256,
+    "id": 257,
     "tag": "P121_2",
     "en": "You are a guard at the Conciergerie?”",
     "ko": "당신은 콩시에르주리의 간수요?”",
@@ -2048,7 +2056,7 @@
     "raw_ref_id": 304
   },
   {
-    "id": 257,
+    "id": 258,
     "tag": "P122",
     "en": "“Sometimes.”",
     "ko": "“가끔은 그렇소.”",
@@ -2056,7 +2064,7 @@
     "raw_ref_id": 305
   },
   {
-    "id": 258,
+    "id": 259,
     "tag": "P123",
     "en": "“You can get inside when you choose?”",
     "ko": "“당신이 원할 때 안으로 들어갈 수 있소?”",
@@ -2064,7 +2072,7 @@
     "raw_ref_id": 306
   },
   {
-    "id": 259,
+    "id": 260,
     "tag": "P124",
     "en": "“I can go in and out when I choose.”",
     "ko": "“나는 원할 때 드나들 수 있소.”",
@@ -2072,7 +2080,7 @@
     "raw_ref_id": 307
   },
   {
-    "id": 260,
+    "id": 261,
     "tag": "P125_1",
     "en": "Sydney Carton filled another glass with brandy, poured it slowly onto the hearth, and watched it drip away.",
     "ko": "시드니 카턴은 다른 잔에 브랜디를 채워 난로 바닥에 천천히 붓고는 그것이 떨어져 내리는 것을 지켜보았다.",
@@ -2080,7 +2088,7 @@
     "raw_ref_id": 308
   },
   {
-    "id": 261,
+    "id": 262,
     "tag": "P125_2",
     "en": "Once the glass was empty, he stood up and said:",
     "ko": "잔이 비워지자, 그가 일어서서 말했다.",
@@ -2088,7 +2096,7 @@
     "raw_ref_id": 309
   },
   {
-    "id": 262,
+    "id": 263,
     "tag": "P126_1",
     "en": "“We spoke in front of these two so they could witness the cards I hold.",
     "ko": "“우리는 이 두 사람이 내 카드의 증인이 될 수 있도록 그들 앞에서 말했소.",
@@ -2096,7 +2104,7 @@
     "raw_ref_id": 310
   },
   {
-    "id": 263,
+    "id": 264,
     "tag": "P126_2",
     "en": "Now, come into this back room, and let's have one final word alone.”",
     "ko": "자, 이 뒷방으로 와서 단둘이 마지막으로 이야기를 나눕시다.”",
