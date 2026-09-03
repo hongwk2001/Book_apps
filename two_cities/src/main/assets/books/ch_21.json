@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "tag": "P001",
     "en": "[Chapter 15] Knitting",
     "ko": "",
@@ -8,7 +8,7 @@
     "raw_ref_id": 1
   },
   {
-    "id": 2,
+    "id": 1,
     "tag": "P002_1",
     "en": "Drinking began earlier than usual in Monsieur Defarge's wine shop.",
     "ko": "드파르지 씨의 와인 가게에서는 평소보다 일찍 술자리가 시작되었다.",
@@ -16,7 +16,7 @@
     "raw_ref_id": 2
   },
   {
-    "id": 3,
+    "id": 2,
     "tag": "P002_2",
     "en": "As early as six o’clock in the morning, pale faces looking through the barred windows could see other customers inside, bending over their wine glasses.",
     "ko": "아침 여섯 시라는 이른 시간부터, 쇠창살이 쳐진 창문 너머로 창백한 얼굴들은 가게 안에서 와인 잔을 기울이고 있는 다른 손님들을 볼 수 있었다.",
@@ -24,7 +24,7 @@
     "raw_ref_id": 3
   },
   {
-    "id": 4,
+    "id": 3,
     "tag": "P002_3",
     "en": "Defarge sold a very cheap, thin wine at the best of times, but the wine he served now seemed unusually sour and thin.",
     "ko": "드파르지는 가장 좋을 때도 아주 싸고 묽은 와인을 팔았지만, 지금 그가 내놓은 와인은 유난히 시고 묽어 보였다.",
@@ -32,7 +32,7 @@
     "raw_ref_id": 4
   },
   {
-    "id": 5,
+    "id": 4,
     "tag": "P002_4",
     "en": "It had a gloomy effect on the mood of those who drank it.",
     "ko": "그것은 와인을 마신 사람들의 기분에 우울한 영향을 미쳤다.",
@@ -40,7 +40,7 @@
     "raw_ref_id": 5
   },
   {
-    "id": 6,
+    "id": 5,
     "tag": "P002_5",
     "en": "No cheerful laughter came from the grapes of Monsieur Defarge; instead, a quiet, smoldering anger lay hidden in the dregs.",
     "ko": "드파르지 씨의 포도에서는 유쾌한 웃음소리가 나지 않았고; 대신 조용하고 억눌린 분노가 찌꺼기 속에 숨어 있었다.",
@@ -48,7 +48,7 @@
     "raw_ref_id": 6
   },
   {
-    "id": 7,
+    "id": 6,
     "tag": "P003_1",
     "en": "This was the third morning in a row that early drinking had occurred at the shop, starting on Monday and continuing to Wednesday.",
     "ko": "이것은 월요일에 시작되어 수요일까지 이어지며, 가게에서 이른 술자리가 일어난 세 번째 아침이었다.",
@@ -56,7 +56,7 @@
     "raw_ref_id": 7
   },
   {
-    "id": 8,
+    "id": 7,
     "tag": "P003_2",
     "en": "However, there was more quiet plotting than drinking.",
     "ko": "그러나 술을 마시기보다는 조용히 모의를 꾸미는 일이 더 많았다.",
@@ -64,7 +64,7 @@
     "raw_ref_id": 8
   },
   {
-    "id": 9,
+    "id": 8,
     "tag": "P003_3",
     "en": "There had been more early brooding than drinking; for many men had been listening, whispering, and sneaking about from the moment the doors opened, even though they couldn't afford to put a single coin on the counter to save their lives.",
     "ko": "술을 마시는 것보다 아침 일찍부터 우울하게 생각에 잠기는 일이 더 많았다; 왜냐하면 문이 열리는 순간부터 많은 남자들이 목숨을 구하기 위해 카운터에 동전 한 닢조차 올려놓을 여유가 없음에도 불구하고 엿듣고, 속삭이고, 몰래 돌아다니고 있었기 때문이다.",
@@ -72,7 +72,7 @@
     "raw_ref_id": 9
   },
   {
-    "id": 10,
+    "id": 9,
     "tag": "P003_4",
     "en": "They were just as interested in the place as if they could afford whole barrels, moving from seat to seat, eagerly absorbing every word.",
     "ko": "그들은 마치 맥주통 전체를 살 여유가 있는 것처럼 그 장소에 똑같이 관심을 가졌고, 자리를 옮겨가며 모든 말을 열심히 흡수했다.",
@@ -80,7 +80,7 @@
     "raw_ref_id": 10
   },
   {
-    "id": 11,
+    "id": 10,
     "tag": "P004_1",
     "en": "Despite the crowd, the master of the wine shop was nowhere to be seen.",
     "ko": "사람들이 북적임에도 불구하고 와인 가게의 주인은 어디에도 보이지 않았다.",
@@ -88,7 +88,7 @@
     "raw_ref_id": 11
   },
   {
-    "id": 12,
+    "id": 11,
     "tag": "P004_2",
     "en": "He was not missed, as no one looked or asked for him. Everyone was used to seeing Madame Defarge sitting at the counter alone, presiding over the wine sales. In front of her sat a bowl of worn, battered coins, which were as damaged and defaced as the poor pockets they had come from.",
     "ko": "아무도 그를 찾거나 묻지 않았기 때문에, 그는 그리운 존재가 아니었다. 모든 사람은 마담 드파르지가 혼자 카운터에 앉아 와인 판매를 지휘하는 것을 보는 데 익숙했다. 그녀 앞에는 닳고 찌그러진 동전들이 담긴 그릇이 있었는데, 그 동전들은 그것들이 나온 가난한 주머니만큼이나 손상되고 훼손되어 있었다.",
@@ -96,7 +96,7 @@
     "raw_ref_id": 12
   },
   {
-    "id": 13,
+    "id": 12,
     "tag": "P005_1",
     "en": "The suspense and widespread distraction were probably noticed by the spies who peeked into the wine shop, just as they spied on every place, high and low, from the king's palace to the criminals' prison.",
     "ko": "그 서스펜스와 널리 퍼진 산만함은 아마도 왕의 궁전에서부터 범죄자들의 감옥에 이르기까지 높고 낮은 모든 곳을 염탐했듯이 와인 가게를 엿보는 스파이들에게도 눈에 띄었을 것이다.",
@@ -104,7 +104,7 @@
     "raw_ref_id": 13
   },
   {
-    "id": 14,
+    "id": 13,
     "tag": "P005_2",
     "en": "Card games were neglected, domino players built towers with their tiles, and drinkers drew shapes on the tables with spilled wine. Madame Defarge herself picked at her sleeve with a toothpick, looking as if she were seeing and hearing things far away.",
     "ko": "카드 게임은 방치되었고, 도미노를 하던 사람들은 타일로 탑을 쌓았으며, 술꾼들은 엎질러진 와인으로 테이블에 모양을 그렸다. 마담 드파르지 자신도 아주 멀리 있는 것들을 보고 듣는 것처럼 보이며 이쑤시개로 소매를 쑤시고 있었다.",
@@ -112,7 +112,7 @@
     "raw_ref_id": 14
   },
   {
-    "id": 15,
+    "id": 14,
     "tag": "P006_1",
     "en": "This was the state of the Saint Antoine neighborhood until midday.",
     "ko": "이것이 정오까지 생탕투안 지역의 상태였다.",
@@ -120,7 +120,7 @@
     "raw_ref_id": 15
   },
   {
-    "id": 16,
+    "id": 15,
     "tag": "P006_2",
     "en": "At noon, two dusty men walked under the street lamps: Monsieur Defarge and a road mender wearing a blue cap.",
     "ko": "정오에 먼지를 뒤집어쓴 두 남자가 가로등 아래를 걸어왔는데, 드파르지 씨와 파란 모자를 쓴 도로 수리공이었다.",
@@ -128,7 +128,7 @@
     "raw_ref_id": 16
   },
   {
-    "id": 17,
+    "id": 16,
     "tag": "P006_3",
     "en": "Covered in dust and thirsty, they entered the wine shop.",
     "ko": "먼지를 뒤집어쓰고 목이 마른 그들은 와인 가게로 들어갔다.",
@@ -136,7 +136,7 @@
     "raw_ref_id": 17
   },
   {
-    "id": 18,
+    "id": 17,
     "tag": "P006_4",
     "en": "Their arrival caused a stir in Saint Antoine, with faces appearing at doors and windows as they walked by.",
     "ko": "그들의 도착은 생탕투안에 소동을 일으켰고, 그들이 지나갈 때 문과 창문에 얼굴들이 나타났다.",
@@ -144,7 +144,7 @@
     "raw_ref_id": 18
   },
   {
-    "id": 19,
+    "id": 18,
     "tag": "P006_5",
     "en": "Yet no one followed them inside, and no one spoke when they entered, though all eyes turned toward them.",
     "ko": "그러나 아무도 그들을 따라 안으로 들어오지 않았고, 그들이 들어갔을 때 모든 시선이 그들에게 쏠렸음에도 불구하고 아무도 말하지 않았다.",
@@ -152,7 +152,7 @@
     "raw_ref_id": 19
   },
   {
-    "id": 20,
+    "id": 19,
     "tag": "P007",
     "en": "\"Good day, gentlemen!\" said Monsieur Defarge.",
     "ko": "\"좋은 날이오, 신사분들!\" 드파르지 씨가 말했다.",
@@ -160,7 +160,7 @@
     "raw_ref_id": 20
   },
   {
-    "id": 21,
+    "id": 20,
     "tag": "P008",
     "en": "This signal loosened the tongues in the room, eliciting a chorus of \"Good day!\"",
     "ko": "이 신호는 방 안에 있는 사람들의 입술을 열어주어 \"좋은 날입니다!\" 하는 합창을 이끌어냈다.",
@@ -168,7 +168,7 @@
     "raw_ref_id": 21
   },
   {
-    "id": 22,
+    "id": 21,
     "tag": "P009",
     "en": "\"It is bad weather, gentlemen,\" said Defarge, shaking his head.",
     "ko": "\"날씨가 나쁘군요, 신사분들,\" 드파르지가 고개를 저으며 말했다.",
@@ -176,7 +176,7 @@
     "raw_ref_id": 22
   },
   {
-    "id": 23,
+    "id": 22,
     "tag": "P010_1",
     "en": "At this, every man looked at his neighbor, then looked down and sat in silence.",
     "ko": "이 말에 모든 남자가 자신의 이웃을 쳐다본 다음, 시선을 아래로 내리고 침묵 속에 앉아 있었다.",
@@ -184,7 +184,7 @@
     "raw_ref_id": 23
   },
   {
-    "id": 24,
+    "id": 23,
     "tag": "P010_2",
     "en": "One man got up and walked out.",
     "ko": "한 남자가 일어나서 걸어 나갔다.",
@@ -192,7 +192,7 @@
     "raw_ref_id": 24
   },
   {
-    "id": 25,
+    "id": 24,
     "tag": "P011_1",
     "en": "\"My wife,\" Defarge said aloud, addressing Madame Defarge. \"I have traveled some distance with this good road mender, named Jacques.",
     "ko": "\"여보,\" 드파르지가 마담 드파르지를 향해 큰 소리로 말했다. \"나는 자크라는 이름의 이 선량한 도로 수리공과 먼 길을 걸어왔소.",
@@ -200,7 +200,7 @@
     "raw_ref_id": 25
   },
   {
-    "id": 26,
+    "id": 25,
     "tag": "P011_2",
     "en": "I met him by accident a day and a half's journey outside Paris.",
     "ko": "나는 파리 외곽에서 하루 반나절 거리에 있는 곳에서 우연히 그를 만났소.",
@@ -208,7 +208,7 @@
     "raw_ref_id": 26
   },
   {
-    "id": 27,
+    "id": 26,
     "tag": "P011_3",
     "en": "He is a good fellow, this road mender named Jacques.",
     "ko": "그는 좋은 사람이오, 자크라는 이름의 이 도로 수리공은.",
@@ -216,7 +216,7 @@
     "raw_ref_id": 27
   },
   {
-    "id": 28,
+    "id": 27,
     "tag": "P011_4",
     "en": "Give him a drink, wife!\"",
     "ko": "그에게 마실 것을 주시오, 여보!\"",
@@ -224,7 +224,7 @@
     "raw_ref_id": 28
   },
   {
-    "id": 29,
+    "id": 28,
     "tag": "P012_1",
     "en": "A second man stood up and left.",
     "ko": "두 번째 남자가 일어나서 떠났다.",
@@ -232,7 +232,7 @@
     "raw_ref_id": 29
   },
   {
-    "id": 30,
+    "id": 29,
     "tag": "P012_2",
     "en": "Madame Defarge poured wine for the road mender, who tipped his blue cap to the room and drank.",
     "ko": "마담 드파르지는 도로 수리공에게 와인을 따라 주었고, 그는 방 안 사람들을 향해 파란 모자를 살짝 들어 올리고 마셨다.",
@@ -240,7 +240,7 @@
     "raw_ref_id": 30
   },
   {
-    "id": 31,
+    "id": 30,
     "tag": "P012_3",
     "en": "He took some dark bread from his shirt and ate it, sitting near Madame Defarge's counter.",
     "ko": "그는 셔츠에서 검은 빵을 꺼내 마담 드파르지의 카운터 근처에 앉아 먹었다.",
@@ -248,7 +248,7 @@
     "raw_ref_id": 31
   },
   {
-    "id": 32,
+    "id": 31,
     "tag": "P012_4",
     "en": "A third man stood up and walked out.",
     "ko": "세 번째 남자가 일어나서 걸어 나갔다.",
@@ -256,7 +256,7 @@
     "raw_ref_id": 32
   },
   {
-    "id": 33,
+    "id": 32,
     "tag": "P013_1",
     "en": "Defarge refreshed himself with a draft of wine—though he drank less than what had been given to the stranger, being himself a man to whom it was no rarity—and stood waiting until the countryman had finished his breakfast.",
     "ko": "드파르주는 와인 한 모금으로 목을 축였으나—와인이 귀하지 않은 처지였기에 이방인에게 준 것보다는 적게 마셨다—시골 사람이 아침 식사를 마칠 때까지 가만히 서서 기다렸다.",
@@ -264,7 +264,7 @@
     "raw_ref_id": 33
   },
   {
-    "id": 34,
+    "id": 33,
     "tag": "P013_2",
     "en": "He looked at no one present, and no one looked at him now; not even Madame Defarge, who had taken up her knitting and was at work.",
     "ko": "그는 그 자리에 있는 누구도 바라보지 않았고, 지금은 아무도 그를 쳐다보지 않았다. 심지어 뜨개질감을 집어 들고 손을 놀리고 있던 드파르주 부인조차도 그를 보지 않았다.",
@@ -272,7 +272,7 @@
     "raw_ref_id": 33
   },
   {
-    "id": 35,
+    "id": 34,
     "tag": "P014",
     "en": "\"Have you finished your meal, friend?\" Defarge asked.",
     "ko": "\"식사는 마쳤소, 친구?\" 드파르지가 물었다.",
@@ -280,7 +280,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 36,
+    "id": 35,
     "tag": "P015",
     "en": "\"Yes, thank you.\"",
     "ko": "\"네, 감사합니다.\"",
@@ -288,31 +288,15 @@
     "raw_ref_id": 36
   },
   {
-    "id": 37,
-    "tag": "P016_1",
-    "en": "\"Come then!",
-    "ko": "\"그럼 갑시다!",
+    "id": 36,
+    "tag": "P016",
+    "en": "\"Come then! I will show you the room I told you about. It will suit you perfectly.\"",
+    "ko": "\"그럼 갑시다! 내가 말했던 방을 보여주겠소. 당신에게 딱 맞을 거요.\"",
     "is_header": false,
     "raw_ref_id": 37
   },
   {
-    "id": 38,
-    "tag": "P016_2",
-    "en": "I will show you the room I told you about.",
-    "ko": "내가 말했던 방을 보여주겠소.",
-    "is_header": false,
-    "raw_ref_id": 38
-  },
-  {
-    "id": 39,
-    "tag": "P016_3",
-    "en": "It will suit you perfectly.\"",
-    "ko": "당신에게 딱 맞을 거요.\"",
-    "is_header": false,
-    "raw_ref_id": 39
-  },
-  {
-    "id": 40,
+    "id": 37,
     "tag": "P017",
     "en": "They walked out of the wine shop into the street, through a courtyard, up a dark staircase, and into an attic, the very attic where a white-haired shoemaker had once sat working on his bench.",
     "ko": "그들은 와인 가게를 나와 거리로 나가 안뜰을 지나고 어두운 계단을 올라 다락방으로 들어갔는데, 그 다락방은 전에 백발의 구두장이가 벤치에 앉아 일하던 바로 그곳이었다.",
@@ -320,7 +304,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 41,
+    "id": 38,
     "tag": "P018_1",
     "en": "No shoemaker was there now. Instead, the three men who had left the wine shop one by one were waiting.",
     "ko": "이제 구두장이는 거기에 없었다. 대신 와인 가게를 차례로 떠났던 세 남자가 기다리고 있었다.",
@@ -328,7 +312,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 42,
+    "id": 39,
     "tag": "P018_2",
     "en": "They and the white-haired man were connected by one thing: they had all looked at him through the cracks in the attic wall.",
     "ko": "그들과 백발의 남자는 한 가지로 연결되어 있었는데, 그들 모두 다락방 벽의 틈새로 그를 보았다는 것이었다.",
@@ -336,7 +320,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 43,
+    "id": 40,
     "tag": "P019",
     "en": "Defarge closed the door carefully and spoke quietly:",
     "ko": "드파르지는 조심스럽게 문을 닫고 조용히 말했다:",
@@ -344,7 +328,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 44,
+    "id": 41,
     "tag": "P020_1",
     "en": "\"Jacques One, Jacques Two, Jacques Three!",
     "ko": "\"자크 1호, 자크 2호, 자크 3호!",
@@ -352,7 +336,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 45,
+    "id": 42,
     "tag": "P020_2",
     "en": "This is the witness I met by agreement, I, Jacques Four.",
     "ko": "이 사람은 내가 약속대로 만난 증인입니다, 나, 자크 4호가 말이오.",
@@ -360,7 +344,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 46,
+    "id": 43,
     "tag": "P020_3",
     "en": "He will tell you everything.",
     "ko": "그가 여러분에게 모든 것을 말해줄 것이오.",
@@ -368,7 +352,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 47,
+    "id": 44,
     "tag": "P020_4",
     "en": "Speak, Jacques Five!\"",
     "ko": "말하시오, 자크 5호!\"",
@@ -376,7 +360,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 48,
+    "id": 45,
     "tag": "P021",
     "en": "The road mender stood there, blue cap in hand. He wiped his forehead and said, \"Where should I start, monsieur?\"",
     "ko": "도로 보수공은 파란 모자를 손에 든 채 그곳에 서 있었다. 그는 이마를 닦으며 말했다, \"어디서부터 시작할까요, 무슈?\"",
@@ -384,7 +368,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 49,
+    "id": 46,
     "tag": "P022",
     "en": "\"Start at the beginning,\" Defarge replied.",
     "ko": "\"처음부터 시작하시오,\" 드파르지가 대답했다.",
@@ -392,7 +376,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 50,
+    "id": 47,
     "tag": "P023_1",
     "en": "\"I saw him, messieurs,\" began the road mender. \"It was a year ago during the summer. He was hanging by the chain under the Marquis's carriage.",
     "ko": "\"나는 그를 보았습니다, 무슈들,\" 도로 보수공이 시작했다. \"일 년 전 여름이었죠. 그는 후작의 마차 아래 사슬에 매달려 있었습니다.",
@@ -400,7 +384,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 51,
+    "id": 48,
     "tag": "P023_2",
     "en": "It happened like this: I had stopped working on the road at sunset.",
     "ko": "일은 이렇게 일어났습니다: 나는 해 질 녘에 도로 작업을 멈췄습니다.",
@@ -408,7 +392,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 52,
+    "id": 49,
     "tag": "P023_3",
     "en": "The Marquis's carriage was slowly climbing the hill. And there he was, hanging by the chain, like this.\"",
     "ko": "후작의 마차가 천천히 언덕을 오르고 있었습니다. 그리고 거기에 그가 사슬에 매달려 있었습니다, 이렇게 말입니다.\"",
@@ -416,7 +400,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 53,
+    "id": 50,
     "tag": "P024",
     "en": "The road mender acted out the scene again. He was very good at it, since it had been the main story in his village for a whole year.",
     "ko": "도로 보수공은 그 장면을 다시 연기했다. 그는 일 년 내내 마을에서 그것이 주요 이야기였기 때문에 아주 능숙했다.",
@@ -424,7 +408,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 54,
+    "id": 51,
     "tag": "P025",
     "en": "Jacques One asked if he had ever seen the man before.",
     "ko": "자크 1호는 그가 그 남자를 이전에 본 적이 있는지 물었다.",
@@ -432,7 +416,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 55,
+    "id": 52,
     "tag": "P026",
     "en": "\"Never,\" answered the road mender.",
     "ko": "\"결코 없습니다,\" 도로 보수공이 대답했다.",
@@ -440,7 +424,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 56,
+    "id": 53,
     "tag": "P027",
     "en": "Jacques Three asked how he recognized him later.",
     "ko": "자크 3호는 그가 나중에 그를 어떻게 알아봤는지 물었다.",
@@ -448,7 +432,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 57,
+    "id": 54,
     "tag": "P028",
     "en": "\"By his height,\" the road mender whispered, putting his finger to his nose. \"When the Marquis asked me that evening, 'What does he look like?' I answered, 'Tall as a ghost.'\"",
     "ko": "\"그의 키로요,\" 도로 보수공은 코에 손가락을 대며 속삭였다. \"그날 저녁 후작이 내게 '그가 어떻게 생겼느냐?'고 물었을 때, 나는 '유령처럼 큽니다'라고 대답했습니다.\"",
@@ -456,7 +440,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 58,
+    "id": 55,
     "tag": "P029",
     "en": "\"You should have said short as a dwarf,\" Jacques Two remarked.",
     "ko": "\"당신은 난쟁이처럼 작다고 말했어야 했소,\" 자크 2호가 말했다.",
@@ -464,7 +448,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 59,
+    "id": 56,
     "tag": "P030_1",
     "en": "\"But how was I to know?",
     "ko": "\"하지만 내가 어떻게 알았겠습니까?",
@@ -472,7 +456,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 60,
+    "id": 57,
     "tag": "P030_2",
     "en": "The deed had not been done yet, and he had not told me anything.",
     "ko": "아직 일이 벌어지지 않았고, 그는 내게 아무것도 말해주지 않았습니다.",
@@ -480,7 +464,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 61,
+    "id": 58,
     "tag": "P030_3",
     "en": "Even then, I did not volunteer to speak.",
     "ko": "그때조차도, 나는 나서서 말하지 않았습니다.",
@@ -488,7 +472,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 62,
+    "id": 59,
     "tag": "P030_4",
     "en": "The Marquis pointed his finger at me by the fountain and ordered his men to bring me to him.",
     "ko": "후작은 분수대 옆에 있던 나를 손가락으로 가리키며 부하들에게 나를 데려오라고 명령했습니다.",
@@ -496,7 +480,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 63,
+    "id": 60,
     "tag": "P030_5",
     "en": "I had no choice, messieurs.\"",
     "ko": "내게는 선택의 여지가 없었습니다, 무슈들.\"",
@@ -504,7 +488,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 64,
+    "id": 61,
     "tag": "P031",
     "en": "\"He is right,\" Defarge muttered to the man who had interrupted. \"Go on!\"",
     "ko": "\"그의 말이 맞소,\" 드파르지가 끼어들었던 남자에게 중얼거렸다. \"계속하시오!\"",
@@ -512,7 +496,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 65,
+    "id": 62,
     "tag": "P032_1",
     "en": "\"Good!\" said the road mender. \"The tall man disappeared, and they searched for him for months.",
     "ko": "\"좋습니다!\" 도로 보수공이 말했다. \"그 키 큰 남자는 사라졌고, 그들은 몇 달 동안 그를 찾았습니다.",
@@ -520,7 +504,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 66,
+    "id": 63,
     "tag": "P032_2",
     "en": "Was it nine, ten, eleven months?\"",
     "ko": "아홉 달, 열 달, 열한 달이었나요?\"",
@@ -528,23 +512,15 @@
     "raw_ref_id": 66
   },
   {
-    "id": 67,
-    "tag": "P033_1",
-    "en": "\"It doesn't matter how long,\" said Defarge. \"He hid well, but at last they found him.",
-    "ko": "\"얼마나 오래인지는 중요하지 않소,\" 드파르지가 말했다. \"그는 잘 숨었지만, 마침내 그들은 그를 찾아냈소.",
+    "id": 64,
+    "tag": "P033",
+    "en": "\"It doesn't matter how long,\" said Defarge. \"He hid well, but at last they found him. Go on!\"",
+    "ko": "\"얼마나 오래인지는 중요하지 않소,\" 드파르지가 말했다. \"그는 잘 숨었지만, 마침내 그들은 그를 찾아냈소. 계속하시오!\"",
     "is_header": false,
     "raw_ref_id": 67
   },
   {
-    "id": 68,
-    "tag": "P033_2",
-    "en": "Go on!\"",
-    "ko": "계속하시오!\"",
-    "is_header": false,
-    "raw_ref_id": 68
-  },
-  {
-    "id": 69,
+    "id": 65,
     "tag": "P034_1",
     "en": "\"I was working on the hillside again at sunset.",
     "ko": "\"나는 해 질 녘에 다시 산비탈에서 일하고 있었습니다.",
@@ -552,7 +528,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 70,
+    "id": 66,
     "tag": "P034_2",
     "en": "I was gathering my tools to go home, where it was already dark, when I looked up and saw six soldiers coming over the hill.",
     "ko": "이미 어두워진 집으로 가기 위해 도구를 챙기던 중, 고개를 들어보니 여섯 명의 군인이 언덕을 넘어오고 있었습니다.",
@@ -560,7 +536,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 71,
+    "id": 67,
     "tag": "P034_3",
     "en": "In the middle of them was the tall man, his arms tied to his sides, like this!\"",
     "ko": "그들 한가운데에 그 키 큰 남자가 팔이 옆구리에 묶인 채 있었습니다, 이렇게 말입니다!\"",
@@ -568,7 +544,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 72,
+    "id": 68,
     "tag": "P035",
     "en": "Using his blue cap, he showed how the man's elbows were tied tightly behind him with knotted ropes.",
     "ko": "그는 파란 모자를 사용해 그 남자의 팔꿈치가 매듭진 밧줄로 등 뒤로 단단히 묶인 모습을 보여주었다.",
@@ -576,7 +552,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 73,
+    "id": 69,
     "tag": "P036_1",
     "en": "\"I stood by my heap of stones to watch them pass, as it is a quiet road where any spectacle is worth watching. At first, as they approached, I only saw six soldiers and the bound man. They looked black against the setting sun, which gave them a red edge, messieurs.",
     "ko": "\"나는 그들이 지나가는 것을 보려고 돌무더 옆에 섰습니다, 어떤 구경거리라도 볼 가치가 있는 조용한 길이니까요. 처음에 그들이 다가올 때, 나는 단지 여섯 명의 군인과 결박된 남자만을 보았습니다. 그들은 지는 해를 배경으로 검게 보였고, 그것이 그들에게 붉은 테두리를 만들어주었습니다, 무슈들.",
@@ -584,7 +560,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 74,
+    "id": 70,
     "tag": "P036_2",
     "en": "Their long shadows stretched like giants across the hill. They were covered in dust, marching tramp, tramp!",
     "ko": "그들의 긴 그림자는 거인들처럼 언덕을 가로질러 뻗어 있었습니다. 그들은 먼지를 뒤집어쓴 채, 쿵, 쿵 발소리를 내며 행진했습니다!",
@@ -592,7 +568,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 75,
+    "id": 71,
     "tag": "P036_3",
     "en": "But when they came close, I recognized the tall man, and he recognized me.",
     "ko": "하지만 그들이 가까이 왔을 때, 나는 그 키 큰 남자를 알아봤고, 그도 나를 알아봤습니다.",
@@ -600,7 +576,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 76,
+    "id": 72,
     "tag": "P036_4",
     "en": "But when they got very close to me, I recognized the tall man, and he recognized me.",
     "ko": "하지만 그들이 내게 아주 가까이 다가왔을 때, 나는 그 키 큰 남자를 알아봤고, 그도 나를 알아봤습니다.",
@@ -608,7 +584,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 77,
+    "id": 73,
     "tag": "P036_5",
     "en": "He would have gladly thrown himself over the hillside again, as he did the first night we met near that very spot!\"",
     "ko": "그는 우리가 바로 그 장소 근처에서 만났던 첫날 밤에 그랬던 것처럼, 기꺼이 다시 산비탈 너머로 몸을 던졌을 겁니다!\"",
@@ -616,7 +592,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 78,
+    "id": 74,
     "tag": "P037",
     "en": "He described it as if he were actually there, and it was obvious that he pictured it vividly; perhaps he hadn't seen much else in his life.",
     "ko": "그는 마치 자신이 실제로 그곳에 있는 것처럼 설명했고, 그가 그것을 생생하게 그리고 있음이 분명했다. 아마도 그는 평생 다른 것을 많이 보지 못했을 것이다.",
@@ -624,7 +600,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 79,
+    "id": 75,
     "tag": "P038_1",
     "en": "\"I did not show the soldiers that I knew him, and he did not show them that he knew me. We spoke only with our eyes. 'Come on!' the sergeant said, pointing toward the village. 'Bring him to his grave!' and they marched faster.",
     "ko": "\"나는 군인들에게 그를 안다는 티를 내지 않았고, 그도 그들에게 나를 안다는 티를 내지 않았습니다. 우리는 오직 눈으로만 말했습니다. '가자!' 하사가 마을을 가리키며 말했습니다. '그를 그의 무덤으로 데려가라!' 그리고 그들은 더 빨리 행진했습니다.",
@@ -632,7 +608,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 80,
+    "id": 76,
     "tag": "P038_2",
     "en": "I followed them.",
     "ko": "나는 그들을 따라갔습니다.",
@@ -640,7 +616,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 81,
+    "id": 77,
     "tag": "P038_3",
     "en": "His arms were swollen from the tight ropes, his wooden shoes were clumsy, and he was limping.",
     "ko": "그의 팔은 단단한 밧줄 때문에 부어올랐고, 그의 나막신은 투박했으며, 그는 절뚝거리고 있었습니다.",
@@ -648,7 +624,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 82,
+    "id": 78,
     "tag": "P038_4",
     "en": "Because he was slow, the soldiers hit him with their gunstocks, like this!\"",
     "ko": "그가 느렸기 때문에, 군인들은 총머리로 그를 때렸습니다, 이렇게 말입니다!\"",
@@ -656,7 +632,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 83,
+    "id": 79,
     "tag": "P039",
     "en": "He acted out a man being pushed forward by musket butts.",
     "ko": "그는 머스킷 총머리에 밀려 앞으로 나아가는 남자의 모습을 연기했다.",
@@ -664,7 +640,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 84,
+    "id": 80,
     "tag": "P040_1",
     "en": "\"As they ran down the hill like madmen, he fell.",
     "ko": "\"그들이 미치광이들처럼 언덕을 뛰어내려갈 때, 그는 넘어졌습니다.",
@@ -672,7 +648,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 85,
+    "id": 81,
     "tag": "P040_2",
     "en": "They laughed and pulled him up.",
     "ko": "그들은 웃으며 그를 끌어올렸습니다.",
@@ -680,7 +656,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 86,
+    "id": 82,
     "tag": "P040_3",
     "en": "His face was bleeding and dusty, but he couldn't wipe it because his hands were tied.",
     "ko": "그의 얼굴은 피가 나고 먼투성이였지만, 손이 묶여 있어서 닦을 수가 없었습니다.",
@@ -688,7 +664,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 87,
+    "id": 83,
     "tag": "P040_4",
     "en": "The soldiers laughed again. They brought him into the village, and everyone ran to see. They took him past the mill and up to the prison. Everyone saw the prison gates open in the dark and swallow him up, like this!\"",
     "ko": "군인들은 다시 웃었습니다. 그들은 그를 마을로 데려왔고, 모두가 보러 달려나왔습니다. 그들은 제분소를 지나 감옥까지 그를 끌고 갔습니다. 모두가 어둠 속에서 감옥 문이 열리고 그를 삼켜버리는 것을 보았습니다, 이렇게 말입니다!\"",
@@ -696,7 +672,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 88,
+    "id": 84,
     "tag": "P041_1",
     "en": "He opened his mouth wide and snapped his teeth shut.",
     "ko": "그는 입을 크게 벌렸다가 이빨을 딱 소리 내며 닫았다.",
@@ -704,7 +680,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 89,
+    "id": 85,
     "tag": "P041_2",
     "en": "Seeing he wanted to keep his mouth closed for effect, Defarge said, \"Go on, Jacques.\"",
     "ko": "그가 극적인 효과를 위해 입을 다물고 싶어 하는 것을 보고, 드파르지가 말했다, \"계속하시오, 자크.\"",
@@ -712,7 +688,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 90,
+    "id": 86,
     "tag": "P042_1",
     "en": "\"All the villagers went home,\" the road mender whispered on tiptoe. \"Everyone whispered by the fountain, then went to sleep and dreamed of that poor man locked in the prison on the cliff, never to come out alive.",
     "ko": "\"마을 사람들은 모두 집으로 돌아갔습니다,\" 도로 보수공이 발끝으로 서서 속삭였다. \"모두가 분수대 옆에서 속삭이다가 잠자리에 들었고, 절벽 위 감옥에 갇혀 다시는 살아서 나오지 못할 그 불쌍한 남자의 꿈을 꾸었습니다.",
@@ -720,7 +696,7 @@
     "raw_ref_id": 90
   },
   {
-    "id": 91,
+    "id": 87,
     "tag": "P042_2",
     "en": "In the morning, with my tools on my shoulder, eating my bread, I walked past the prison.",
     "ko": "아침에, 내 도구를 어깨에 메고, 빵을 먹으며, 나는 감옥을 지나쳐 걸어갔습니다.",
@@ -728,7 +704,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 92,
+    "id": 88,
     "tag": "P042_3",
     "en": "I saw him high up, behind the iron bars of a cage, still bloody and dusty, looking out.",
     "ko": "나는 높은 곳에 있는 철창 뒤에서, 여전히 피투성이에 먼지를 뒤집어쓴 채 밖을 내다보고 있는 그를 보았습니다.",
@@ -736,7 +712,7 @@
     "raw_ref_id": 92
   },
   {
-    "id": 93,
+    "id": 89,
     "tag": "P042_4",
     "en": "He could not wave because his hands were tied. I did not dare call out to him. He looked at me like a dead man.\"",
     "ko": "그는 손이 묶여 있어서 손을 흔들 수 없었습니다. 나는 감히 그에게 소리쳐 부르지 못했습니다. 그는 마치 죽은 사람처럼 나를 바라보았습니다.\"",
@@ -744,7 +720,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 94,
+    "id": 90,
     "tag": "P043_1",
     "en": "Defarge and the other three men looked at one another with dark, vengeful expressions.",
     "ko": "드파르지와 다른 세 남자는 어둡고 복수심에 찬 표정으로 서로를 바라보았다.",
@@ -752,7 +728,7 @@
     "raw_ref_id": 94
   },
   {
-    "id": 95,
+    "id": 91,
     "tag": "P043_2",
     "en": "All their expressions were dark, restrained, and vengeful as they listened to the countryman's story. While their behavior was secretive, it was also authoritative.",
     "ko": "시골 남자의 이야기를 듣는 그들의 표정은 모두 어둡고, 억눌려 있었으며, 복수심에 차 있었다. 그들의 행동은 비밀스러우면서도 권위가 있었다.",
@@ -760,7 +736,7 @@
     "raw_ref_id": 95
   },
   {
-    "id": 96,
+    "id": 92,
     "tag": "P043_3",
     "en": "They looked like a rough jury. Jacques One and Two sat on the old straw bed, each with his chin resting on his hand, staring intently at the road-mender.",
     "ko": "그들은 마치 거친 배심원들 같았다. 자크 1호와 2호는 낡은 짚 침대에 앉아 각자 손에 턱을 괴고 도로 보수공을 빤히 쳐다보았다.",
@@ -768,7 +744,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 97,
+    "id": 93,
     "tag": "P043_4",
     "en": "Jacques Three was equally focused, resting on one knee behind them with his nervous hand constantly rubbing the fine nerves around his mouth and nose. Defarge stood between them and the storyteller, whom he had placed in the light of the window, looking back and forth from him to them.",
     "ko": "자크 3호도 똑같이 집중한 채, 그들 뒤에서 한쪽 무릎을 꿇고 신경질적인 손으로 입과 코 주위의 가는 신경을 끊임없이 문지르고 있었다. 드파르지는 그들과 이야기꾼 사이에 서서 그를 창가의 빛 속에 세워두고, 그와 그들을 번갈아 보았다.",
@@ -776,7 +752,7 @@
     "raw_ref_id": 96
   },
   {
-    "id": 98,
+    "id": 94,
     "tag": "P044",
     "en": "\"Go on, Jacques,\" Defarge said.",
     "ko": "\"계속하시오, 자크,\" 드파르지가 말했다.",
@@ -784,7 +760,7 @@
     "raw_ref_id": 97
   },
   {
-    "id": 99,
+    "id": 95,
     "tag": "P045_1",
     "en": "\"He stayed in that iron cage for several days.",
     "ko": "\"그는 며칠 동안 그 철창 안에 머물렀습니다.",
@@ -792,7 +768,7 @@
     "raw_ref_id": 98
   },
   {
-    "id": 100,
+    "id": 96,
     "tag": "P045_2",
     "en": "The villagers watched him secretly, fearing the soldiers.",
     "ko": "마을 사람들은 군인들을 두려워하며 남몰래 그를 지켜보았습니다.",
@@ -800,7 +776,7 @@
     "raw_ref_id": 99
   },
   {
-    "id": 101,
+    "id": 97,
     "tag": "P045_3",
     "en": "But the whole village always looked up from a distance at the prison on the cliff. In the evening, when the day's work was done and everyone gathered to gossip at the fountain, all faces were turned toward the prison.",
     "ko": "하지만 온 마을이 항상 멀리서 절벽 위의 감옥을 올려다보았습니다. 저녁이 되어 하루 일과를 마치고 모두가 분수대에 모여 수다를 떨 때면, 모든 얼굴이 감옥 쪽을 향했습니다.",
@@ -808,7 +784,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 102,
+    "id": 98,
     "tag": "P045_4",
     "en": "In the evening, when they gathered by the fountain, all faces turned toward the prison instead of the post house.",
     "ko": "저녁에 그들이 분수대에 모였을 때, 모든 얼굴이 역참 대신 감옥 쪽을 향했습니다.",
@@ -816,7 +792,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 103,
+    "id": 99,
     "tag": "P045_5",
     "en": "They whispered at the fountain that even though he was sentenced to death, he wouldn't be executed. People said that petitions were presented in Paris, explaining that he was enraged and driven mad by the death of his child, and even that a petition was given to the King himself.",
     "ko": "그들은 그가 사형 선고를 받았지만 처형되지는 않을 것이라고 분수대에서 속삭였습니다. 사람들은 그가 자식의 죽음으로 인해 분노하고 미쳐버렸다고 설명하는 탄원서가 파리에 제출되었으며, 심지어 왕에게 직접 탄원서가 전달되었다고 말했습니다.",
@@ -824,7 +800,7 @@
     "raw_ref_id": 102
   },
   {
-    "id": 104,
+    "id": 100,
     "tag": "P045_6",
     "en": "They said petitions had been sent to Paris, explaining that he had gone mad from the death of his child, and that a petition had been given to the King himself.",
     "ko": "그들은 자식의 죽음으로 인해 그가 미쳐버렸다고 설명하는 탄원서가 파리로 보내졌고, 왕에게 직접 탄원서가 전달되었다고 말했습니다.",
@@ -832,7 +808,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 105,
+    "id": 101,
     "tag": "P045_7",
     "en": "I don't know if it's true.",
     "ko": "그것이 사실인지는 모르겠습니다.",
@@ -840,7 +816,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 106,
+    "id": 102,
     "tag": "P045_8",
     "en": "Perhaps yes, perhaps no.\"",
     "ko": "아마도 그렇거나, 아마도 아니겠지요.\"",
@@ -848,7 +824,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 107,
+    "id": 103,
     "tag": "P046_1",
     "en": "\"Listen, Jacques,\" Jacques One said sternly. \"A petition was indeed given to the King and Queen.",
     "ko": "\"들으시오, 자크,\" 자크 1호가 단호하게 말했다. \"왕과 왕비에게 실제로 탄원서가 전달되었소.",
@@ -856,7 +832,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 108,
+    "id": 104,
     "tag": "P046_2",
     "en": "Everyone here, except you, saw the King take it from his carriage in the street.",
     "ko": "당신을 제외하고 여기 있는 모두가 왕이 거리에서 마차에서 그것을 받는 것을 보았소.",
@@ -864,7 +840,7 @@
     "raw_ref_id": 107
   },
   {
-    "id": 109,
+    "id": 105,
     "tag": "P046_3",
     "en": "It was Defarge who ran out before the horses at the risk of his life to hand it to him.\"",
     "ko": "목숨을 걸고 말들 앞으로 뛰어나가 그에게 그것을 건넨 사람이 바로 드파르지였소.\"",
@@ -872,7 +848,7 @@
     "raw_ref_id": 108
   },
   {
-    "id": 110,
+    "id": 106,
     "tag": "P047_1",
     "en": "\"And listen once again, Jacques!\" said the kneeling Number Three, his fingers constantly rubbing his nervous face with a strangely greedy look, as if he hungered for something that wasn't food or drink. \"The guards on horseback and on foot surrounded the petitioner and beat him.\"",
     "ko": "\"그리고 다시 한번 들으시오, 자크!\" 무릎을 꿇은 3호가 말했는데, 그의 손가락은 마치 음식이나 물이 아닌 다른 것에 굶주린 듯한 기묘하게 탐욕스러운 표정으로 그의 신경질적인 얼굴을 끊임없이 문지르고 있었다. \"말을 타거나 도보로 다니는 경비병들이 탄원자를 둘러싸고 그를 때렸소.\"",
@@ -880,7 +856,7 @@
     "raw_ref_id": 109
   },
   {
-    "id": 111,
+    "id": 107,
     "tag": "P047_2",
     "en": "Do you hear?\"",
     "ko": "들리시오?\"",
@@ -888,7 +864,7 @@
     "raw_ref_id": 110
   },
   {
-    "id": 112,
+    "id": 108,
     "tag": "P048",
     "en": "\"I hear, messieurs.\"",
     "ko": "\"듣고 있습니다, 무슈들.\"",
@@ -896,7 +872,7 @@
     "raw_ref_id": 111
   },
   {
-    "id": 113,
+    "id": 109,
     "tag": "P049",
     "en": "\"Go on then,\" said Defarge.",
     "ko": "\"그럼 계속하시오,\" 드파르지가 말했다.",
@@ -904,7 +880,7 @@
     "raw_ref_id": 112
   },
   {
-    "id": 114,
+    "id": 110,
     "tag": "P050_1",
     "en": "The road mender continued, \"But on the other hand, they whisper by the fountain that he will be executed in our village.",
     "ko": "도로 보수공은 계속했다, \"하지만 다른 한편으로, 사람들은 분수대에서 그가 우리 마을에서 처형될 것이라고 속삭입니다.",
@@ -912,7 +888,7 @@
     "raw_ref_id": 113
   },
   {
-    "id": 115,
+    "id": 111,
     "tag": "P050_2",
     "en": "They say that because he killed the Marquis, who was the lord of the land, he will be executed as a parent-killer.",
     "ko": "그들은 그가 이 땅의 영주인 후작을 죽였기 때문에, 존속 살해범으로 처형될 것이라고 말합니다.",
@@ -920,7 +896,7 @@
     "raw_ref_id": 114
   },
   {
-    "id": 116,
+    "id": 112,
     "tag": "P050_3",
     "en": "One old man at the fountain said that his right hand, holding the knife, would be burned off right in front of him. He said they would cut his arms, chest, and legs, and pour boiling oil, melted lead, hot resin, wax, and sulfur into the wounds, and finally, he would be torn apart limb by limb by four strong horses.",
     "ko": "분수대에 있던 한 노인은 칼을 쥐었던 그의 오른손이 그가 보는 바로 앞에서 불태워질 것이라고 말했습니다. 그는 그들이 그의 팔, 가슴, 다리를 자르고 그 상처에 끓는 기름, 녹인 납, 뜨거운 수지, 밀랍, 유황을 쏟아부은 다음, 마침내 네 마리의 튼튼한 말들에 의해 사지가 갈기갈기 찢겨나갈 것이라고 말했습니다.",
@@ -928,7 +904,7 @@
     "raw_ref_id": 115
   },
   {
-    "id": 117,
+    "id": 113,
     "tag": "P050_4",
     "en": "They will pour boiling oil, melted lead, and sulfur into his wounds, and then tear him apart with four horses.",
     "ko": "그들은 그의 상처에 끓는 기름, 녹인 납, 유황을 쏟아붓고 나서, 네 마리의 말로 그를 찢어발길 것입니다.",
@@ -936,7 +912,7 @@
     "raw_ref_id": 116
   },
   {
-    "id": 118,
+    "id": 114,
     "tag": "P050_5",
     "en": "The old man said this was done to Damiens, the man who tried to kill King Louis XV.",
     "ko": "노인은 이것이 루이 15세 왕을 죽이려 했던 다미앵에게 행해진 일이라고 말했습니다.",
@@ -944,7 +920,7 @@
     "raw_ref_id": 117
   },
   {
-    "id": 119,
+    "id": 115,
     "tag": "P050_6",
     "en": "But I don't know if it's true; I am not educated.\"",
     "ko": "하지만 나는 그것이 사실인지 모릅니다; 나는 배운 게 없으니까요.\"",
@@ -952,7 +928,7 @@
     "raw_ref_id": 118
   },
   {
-    "id": 120,
+    "id": 116,
     "tag": "P051_1",
     "en": "\"Listen, Jacques!\" the nervous Jacques Three said. \"The man was named Damiens, and it was done in broad daylight in the streets of Paris. The wealthy ladies of the court watched the execution until nightfall, when the man was still breathing after losing his limbs!",
     "ko": "\"들으시오, 자크!\" 신경질적인 자크 3호가 말했다. \"그 남자의 이름은 다미앵이었고, 그 일은 파리 거리에서 백주 대낮에 행해졌소. 궁정의 부유한 부인들은 밤이 될 때까지 처형을 지켜보았는데, 그때까지 그 남자는 사지를 잃고도 여전히 숨을 쉬고 있었소!",
@@ -960,7 +936,7 @@
     "raw_ref_id": 119
   },
   {
-    "id": 121,
+    "id": 117,
     "tag": "P051_2",
     "en": "It happened when you were ten years old; you could have seen it.\"",
     "ko": "그것은 당신이 열 살 때 일어났으니, 당신도 볼 수 있었을 것이오.\"",
@@ -968,7 +944,7 @@
     "raw_ref_id": 120
   },
   {
-    "id": 122,
+    "id": 118,
     "tag": "P052",
     "en": "\"Thirty-five,\" said the road-mender, who looked sixty. \"It happened when you were more than ten years old; you might have seen it.\"",
     "ko": "\"서른다섯입니다,\" 육십 대처럼 보이는 도로 보수공이 말했다. \"그것은 당신이 열 살이 넘었을 때 일어났으니, 당신도 보았을지도 모르오.\"",
@@ -976,7 +952,7 @@
     "raw_ref_id": 121
   },
   {
-    "id": 123,
+    "id": 119,
     "tag": "P053_1",
     "en": "\"Well, some say this and some say that.",
     "ko": "\"글쎄요, 어떤 이는 이렇게 말하고 어떤 이는 저렇게 말합니다.",
@@ -984,7 +960,7 @@
     "raw_ref_id": 122
   },
   {
-    "id": 124,
+    "id": 120,
     "tag": "P053_2",
     "en": "On Sunday night, when the village was asleep, the soldiers came down from the prison.",
     "ko": "마을이 잠든 일요일 밤에 군인들이 감옥에서 내려왔습니다.",
@@ -992,7 +968,7 @@
     "raw_ref_id": 123
   },
   {
-    "id": 125,
+    "id": 121,
     "tag": "P053_3",
     "en": "Some whispered this, some whispered that; they talked of nothing else, and even the fountain seemed to splash to that tune.",
     "ko": "어떤 이들은 이렇게 속삭였고, 어떤 이들은 저렇게 속삭였습니다; 그들은 다른 것은 전혀 이야기하지 않았고, 심지어 분수대마저도 그 장단에 맞춰 물을 튀기는 것 같았습니다.",
@@ -1000,7 +976,7 @@
     "raw_ref_id": 124
   },
   {
-    "id": 126,
+    "id": 122,
     "tag": "P053_4",
     "en": "Finally, on Sunday night when the whole village was asleep, soldiers came marching down from the prison, their guns ringing on the stones of the little street.",
     "ko": "마침내, 온 마을이 잠든 일요일 밤, 작은 거리의 돌바닥에 총을 울리며 군인들이 감옥에서 행진하며 내려왔습니다.",
@@ -1008,7 +984,7 @@
     "raw_ref_id": 125
   },
   {
-    "id": 127,
+    "id": 123,
     "tag": "P053_5",
     "en": "In the morning, a gallows forty feet high was standing by the fountain, shadowing the water.\"",
     "ko": "아침이 되자 분수대 옆에는 물에 그림자를 드리우며 사십 피트 높이의 교수대가 서 있었습니다.\"",
@@ -1016,7 +992,7 @@
     "raw_ref_id": 126
   },
   {
-    "id": 128,
+    "id": 124,
     "tag": "P054",
     "en": "The road mender pointed toward the ceiling as if he could see the gallows in the sky.",
     "ko": "도로 보수공은 마치 하늘에 있는 교수대를 볼 수 있다는 듯이 천장을 가리켰다.",
@@ -1024,7 +1000,7 @@
     "raw_ref_id": 127
   },
   {
-    "id": 129,
+    "id": 125,
     "tag": "P055_1",
     "en": "“All work stops, all assemble there, nobody leads the cows out—the cows are there with the rest. At midday, the roll of drums begins.”",
     "ko": "“모든 일이 중단되고 모두가 그곳으로 모여듭니다. 아무도 소를 몰고 나가지 않아 소들도 사람들과 함께 거기에 있지요. 정오가 되면 북소리가 울려 퍼집니다.”",
@@ -1032,7 +1008,7 @@
     "raw_ref_id": 128
   },
   {
-    "id": 130,
+    "id": 126,
     "tag": "P055_4",
     "en": "He was tied up as before, and there was a gag in his mouth, tied with a tight string that made him look almost as if he was laughing.\" He demonstrated this by stretching his mouth to his ears with his thumbs. \"At the top of the gallows, they fixed the knife with the blade facing upwards and the point in the air.",
     "ko": "그는 이전처럼 묶여 있었고, 입에는 재갈이 물려 있었는데 단단한 줄로 묶여 있어서 마치 웃고 있는 것처럼 보였습니다.\" 그는 엄지손가락으로 입을 귀까지 늘려가며 이를 시연했다. \"교수대 꼭대기에 그들은 칼날이 위를 향하고 끝이 공중을 향하도록 칼을 고정했습니다.",
@@ -1040,7 +1016,7 @@
     "raw_ref_id": 131
   },
   {
-    "id": 131,
+    "id": 127,
     "tag": "P055_5",
     "en": "He was hanged forty feet in the air, left hanging to poison the water.\"",
     "ko": "그는 사십 피트 공중에 매달렸고, 물을 오염시키기 위해 매달린 채로 남겨졌습니다.\"",
@@ -1048,7 +1024,7 @@
     "raw_ref_id": 132
   },
   {
-    "id": 132,
+    "id": 128,
     "tag": "P056",
     "en": "They looked at one another in silence as the road mender wiped his sweaty face with his blue cap.",
     "ko": "도로 보수공이 파란 모자로 땀투성이 얼굴을 닦을 때 그들은 침묵 속에서 서로를 바라보았다.",
@@ -1056,7 +1032,7 @@
     "raw_ref_id": 133
   },
   {
-    "id": 133,
+    "id": 129,
     "tag": "P057_1",
     "en": "\"It is terrible, messieurs.",
     "ko": "\"끔찍한 일입니다, 무슈들.",
@@ -1064,7 +1040,7 @@
     "raw_ref_id": 134
   },
   {
-    "id": 134,
+    "id": 130,
     "tag": "P057_2",
     "en": "How can the women draw water now?",
     "ko": "이제 여자들이 어떻게 물을 기를 수 있겠습니까?",
@@ -1072,7 +1048,7 @@
     "raw_ref_id": 135
   },
   {
-    "id": 135,
+    "id": 131,
     "tag": "P057_3",
     "en": "Who can sit by the fountain under that shadow?",
     "ko": "누가 그 그림자 아래 분수대에 앉을 수 있겠습니까?",
@@ -1080,7 +1056,7 @@
     "raw_ref_id": 136
   },
   {
-    "id": 136,
+    "id": 132,
     "tag": "P057_4",
     "en": "When I left the village on Monday evening and looked back from the hill, the shadow of the gallows stretched across the church, the mill, the prison, across the whole earth!\"",
     "ko": "월요일 저녁에 마을을 떠나 언덕에서 뒤돌아보았을 때, 교수대의 그림자가 교회, 제분소, 감옥을 가로질러 온 대지 위에 뻗어 있었습니다!\"",
@@ -1088,7 +1064,7 @@
     "raw_ref_id": 137
   },
   {
-    "id": 137,
+    "id": 133,
     "tag": "P058",
     "en": "The hungry man gnawed on one of his fingers as he looked at the other three, and his finger shook with the intense craving he felt.",
     "ko": "굶주린 남자는 다른 세 사람을 바라보며 자신의 손가락 하나를 물어뜯었고, 그의 손가락은 그가 느끼는 강렬한 갈망으로 인해 떨렸다.",
@@ -1096,7 +1072,7 @@
     "raw_ref_id": 138
   },
   {
-    "id": 138,
+    "id": 134,
     "tag": "P059_1",
     "en": "\"That is all, messieurs.",
     "ko": "\"그게 전부입니다, 무슈들.",
@@ -1104,7 +1080,7 @@
     "raw_ref_id": 139
   },
   {
-    "id": 139,
+    "id": 135,
     "tag": "P059_2",
     "en": "I left at sunset as I was told, walked all night and half the next day, until I met this comrade.",
     "ko": "나는 지시받은 대로 해 질 녘에 떠나 이 동지를 만날 때까지 밤새도록, 그리고 다음 날 반나절 동안 걸었습니다.",
@@ -1112,7 +1088,7 @@
     "raw_ref_id": 140
   },
   {
-    "id": 140,
+    "id": 136,
     "tag": "P059_3",
     "en": "I traveled with him, sometimes riding and sometimes walking, through the rest of yesterday and through last night. And now here you see me!\"",
     "ko": "나는 어제 남은 시간과 지난밤 내내 그와 함께 때로는 말을 타고 때로는 걸어서 여행했습니다. 그리고 지금 여기서 나를 보고 계시는 겁니다!\"",
@@ -1120,7 +1096,7 @@
     "raw_ref_id": 141
   },
   {
-    "id": 141,
+    "id": 137,
     "tag": "P060_1",
     "en": "After a quiet pause, Jacques One said, \"Good!",
     "ko": "조용한 침묵 후에, 자크 1호가 말했다, \"좋소!",
@@ -1128,7 +1104,7 @@
     "raw_ref_id": 142
   },
   {
-    "id": 142,
+    "id": 138,
     "tag": "P060_2",
     "en": "You have told your story well.",
     "ko": "당신은 이야기를 잘 말해주었소.",
@@ -1136,7 +1112,7 @@
     "raw_ref_id": 143
   },
   {
-    "id": 143,
+    "id": 139,
     "tag": "P060_3",
     "en": "Wait for us outside the door.\"",
     "ko": "\"문 밖에서 우리를 기다려라.\"",
@@ -1144,7 +1120,7 @@
     "raw_ref_id": 144
   },
   {
-    "id": 144,
+    "id": 140,
     "tag": "P061_1",
     "en": "\"Gladly,\" said the road mender.",
     "ko": "\"기꺼이 그러죠,\" 도로 보수공이 말했다.",
@@ -1152,7 +1128,7 @@
     "raw_ref_id": 145
   },
   {
-    "id": 145,
+    "id": 141,
     "tag": "P061_2",
     "en": "Defarge led him to the stairs and returned to the attic.",
     "ko": "드파르지는 그를 계단으로 안내하고 다락방으로 돌아왔다.",
@@ -1160,7 +1136,7 @@
     "raw_ref_id": 146
   },
   {
-    "id": 146,
+    "id": 142,
     "tag": "P062",
     "en": "The three men stood with their heads together.",
     "ko": "세 남자는 머리를 맞대고 섰다.",
@@ -1168,7 +1144,7 @@
     "raw_ref_id": 147
   },
   {
-    "id": 147,
+    "id": 143,
     "tag": "P063",
     "en": "\"What do you say, Jacques?\" Number One asked. \"Should they be registered?\"",
     "ko": "\"어떻게 생각하시오, 자크?\" 1호가 물었다. \"그들을 명부에 올려야겠소?\"",
@@ -1176,7 +1152,7 @@
     "raw_ref_id": 148
   },
   {
-    "id": 148,
+    "id": 144,
     "tag": "P064",
     "en": "\"To be registered for destruction,\" Defarge replied.",
     "ko": "\"파멸시키기 위해 명부에 올려야 합니다,\" 드파르지가 대답했다.",
@@ -1184,7 +1160,7 @@
     "raw_ref_id": 149
   },
   {
-    "id": 149,
+    "id": 145,
     "tag": "P065",
     "en": "\"Excellent!\" Jacques Three croaked.",
     "ko": "\"훌륭해!\" 자크 3호가 쉰 목소리로 말했다.",
@@ -1192,7 +1168,7 @@
     "raw_ref_id": 150
   },
   {
-    "id": 150,
+    "id": 146,
     "tag": "P066",
     "en": "“The chateau, and all the lineage?” inquired the first. “The chateau and all the lineage,” replied Defarge. “Extermination.”",
     "ko": "“그 성과 그 가문 전체를 말입니까?” 첫 번째 사내가 물었다. “그 성과 그 가문 전체요,” 드파르주가 대답했다. “절멸이오.”",
@@ -1200,7 +1176,7 @@
     "raw_ref_id": 151
   },
   {
-    "id": 151,
+    "id": 147,
     "tag": "P068",
     "en": "Jacques Three croaked happily, \"Excellent!\" and chewed on another finger.",
     "ko": "자크 3호는 기뻐하며 \"훌륭해!\" 하고 쉰 목소리로 말하며 또 다른 손가락을 씹었다.",
@@ -1208,7 +1184,7 @@
     "raw_ref_id": 153
   },
   {
-    "id": 152,
+    "id": 148,
     "tag": "P069_1",
     "en": "Jacques Two asked Defarge, \"Are you sure that there is no danger in how we keep the record?",
     "ko": "자크 2호가 드파르지에게 물었다. \"우리가 기록을 보관하는 방식에 아무런 위험이 없다고 확신하시오?",
@@ -1216,7 +1192,7 @@
     "raw_ref_id": 154
   },
   {
-    "id": 153,
+    "id": 149,
     "tag": "P069_2",
     "en": "It is safe because no one else can read it, but will we always be able to read it, or rather, will she?\"",
     "ko": "다른 누구도 읽을 수 없으니 안전하긴 하지만, 우리가 언제나 그것을 읽을 수 있을까, 아니, 그녀가 읽을 수 있을까?\"",
@@ -1224,7 +1200,7 @@
     "raw_ref_id": 155
   },
   {
-    "id": 154,
+    "id": 150,
     "tag": "P070_1",
     "en": "Defarge said proudly, \"Jacques, if my wife kept the record in her head alone, she would never lose a word of it.",
     "ko": "드파르지는 자랑스럽게 말했다. \"자크, 내 아내가 그 기록을 오직 머릿속에만 보관한다 해도 단 한 단어도 잊어버리지 않을 것이오.",
@@ -1232,7 +1208,7 @@
     "raw_ref_id": 156
   },
   {
-    "id": 155,
+    "id": 151,
     "tag": "P070_2",
     "en": "Knitted into her own stitches and symbols, it will always be clear to her.",
     "ko": "그녀만의 바늘땀과 기호들로 짜여 있으니, 그녀에게는 항상 명확할 것이오.",
@@ -1240,7 +1216,7 @@
     "raw_ref_id": 157
   },
   {
-    "id": 156,
+    "id": 152,
     "tag": "P070_3",
     "en": "Trust Madame Defarge.",
     "ko": "마담 드파르지를 믿으시오.",
@@ -1248,7 +1224,7 @@
     "raw_ref_id": 158
   },
   {
-    "id": 157,
+    "id": 153,
     "tag": "P070_4",
     "en": "It would be easier for a man to erase himself from existence than to erase a single letter from her knitted register.\"",
     "ko": "사람이 존재 자체를 지워버리는 것이 그녀가 짠 명부에서 단 한 글자라도 지워버리는 것보다 더 쉬울 거요.\"",
@@ -1256,7 +1232,7 @@
     "raw_ref_id": 159
   },
   {
-    "id": 158,
+    "id": 154,
     "tag": "P071_1",
     "en": "They murmured in agreement, and Jacques Three asked, \"Should we send the countryman back soon?",
     "ko": "그들은 동의하며 중얼거렸고, 자크 3호가 물었다. \"저 시골뜨기를 곧 돌려보내야 할까?",
@@ -1264,7 +1240,7 @@
     "raw_ref_id": 160
   },
   {
-    "id": 159,
+    "id": 155,
     "tag": "P071_2",
     "en": "He is very simple; is he dangerous?\"",
     "ko": "그는 매우 단순한데, 위험하지는 않을까?\"",
@@ -1272,7 +1248,7 @@
     "raw_ref_id": 161
   },
   {
-    "id": 160,
+    "id": 156,
     "tag": "P072_1",
     "en": "\"He knows nothing,\" said Defarge. \"Only enough to get himself hanged if he talks.",
     "ko": "\"그는 아무것도 모릅니다,\" 드파르지가 말했다. \"말을 잘못하면 자기 목을 매달게 될 정도만 알 뿐이죠.",
@@ -1280,7 +1256,7 @@
     "raw_ref_id": 162
   },
   {
-    "id": 161,
+    "id": 157,
     "tag": "P072_2",
     "en": "I will take care of him and set him on his way.",
     "ko": "내가 그를 보살피다 길을 떠나게 하겠소.",
@@ -1288,7 +1264,7 @@
     "raw_ref_id": 163
   },
   {
-    "id": 162,
+    "id": 158,
     "tag": "P072_3",
     "en": "He wants to see the King, Queen, and court. I will take him to Versailles on Sunday.\"",
     "ko": "그는 국왕과 왕비, 그리고 궁정을 보고 싶어 하오. 일요일에 내가 그를 베르사유로 데려가겠소.\"",
@@ -1296,7 +1272,7 @@
     "raw_ref_id": 164
   },
   {
-    "id": 163,
+    "id": 159,
     "tag": "P073",
     "en": "\"What?\" Jacques Three asked in surprise. \"Is it a good sign that he wants to see royalty?\"",
     "ko": "\"뭐라고요?\" 자크 3호가 놀라서 물었다. \"그가 왕족을 보고 싶어 하는 게 좋은 징조요?\"",
@@ -1304,7 +1280,7 @@
     "raw_ref_id": 165
   },
   {
-    "id": 164,
+    "id": 160,
     "tag": "P074_1",
     "en": "Defarge explained, \"Jacques, if you want a cat to catch mice, show her milk first.",
     "ko": "드파르지가 설명했다. \"자크, 고양이가 쥐를 잡게 하려면 먼저 우유를 보여주어야 하오.",
@@ -1312,7 +1288,7 @@
     "raw_ref_id": 166
   },
   {
-    "id": 165,
+    "id": 161,
     "tag": "P074_2",
     "en": "Show a dog his prey if you want him to hunt it down one day.\"",
     "ko": "개가 언젠가 사냥감을 쫓게 만들고 싶다면 그 사냥감을 보여주시오.\"",
@@ -1320,7 +1296,7 @@
     "raw_ref_id": 167
   },
   {
-    "id": 166,
+    "id": 162,
     "tag": "P075_1",
     "en": "Nothing more was said, and the road mender, being found already dozing on the topmost stair, was advised to lie down on the pallet bed and get some rest. He needed no persuasion, and was soon fast asleep.",
     "ko": "더 이상 아무 말도 오가지 않았고, 꼭대기 계단에서 이미 졸고 있던 도로 보수공은 짚 깔개에 누워 휴식을 취하라는 권유를 받았다. 그는 다른 권유가 필요치 않았고 이내 깊이 잠들었다.",
@@ -1328,7 +1304,7 @@
     "raw_ref_id": 168
   },
   {
-    "id": 167,
+    "id": 163,
     "tag": "P076_1",
     "en": "For a poor peasant, Defarge’s shop was a comfortable place to stay.",
     "ko": "가난한 농부에게 드파르지의 가게는 머물기에 아주 편안한 곳이었다.",
@@ -1336,7 +1312,7 @@
     "raw_ref_id": 170
   },
   {
-    "id": 168,
+    "id": 164,
     "tag": "P076_2",
     "en": "Aside from his fear of Madame Defarge, his time in Paris was very pleasant.",
     "ko": "마담 드파르지에 대한 두려움만 빼면, 그의 파리에서의 시간은 매우 즐거웠다.",
@@ -1344,7 +1320,7 @@
     "raw_ref_id": 171
   },
   {
-    "id": 169,
+    "id": 165,
     "tag": "P076_3",
     "en": "Madame sat at her counter all day, acting as if he weren't there, which made him shake in his wooden shoes whenever she looked at him.",
     "ko": "마담은 하루 종일 계산대에 앉아 마치 그가 그곳에 없는 것처럼 행동했는데, 그녀가 그를 쳐다볼 때마다 그는 나막신 속에서 벌벌 떨었다.",
@@ -1352,7 +1328,7 @@
     "raw_ref_id": 172
   },
   {
-    "id": 170,
+    "id": 166,
     "tag": "P076_4",
     "en": "He argued with himself that it was impossible to predict what that lady might pretend next. He was absolutely sure that if she took it into her brightly decorated head to pretend she had seen him commit a murder and then skin the victim, she would completely commit to the act until the very end.",
     "ko": "그는 그 부인이 다음에 무슨 행동을 꾸며낼지 예측하는 것은 불가능하다고 속으로 다짐했다. 만약 그녀가 화려하게 치장한 머릿속으로 그가 살인을 저지르고 피해자의 가죽을 벗기는 것을 보았다고 꾸며내기로 마음먹는다면, 그녀는 끝까지 그 연극에 완전히 몰입할 것이라고 그는 절대적으로 확신했다.",
@@ -1360,7 +1336,7 @@
     "raw_ref_id": 173
   },
   {
-    "id": 171,
+    "id": 167,
     "tag": "P077_1",
     "en": "Therefore, when Sunday came, the road mender pretended to be happy to go to Versailles with the Defarges.",
     "ko": "그러므로 일요일이 되자, 도로 보수공은 드파르지 부부와 함께 베르사유에 가게 되어 기쁜 척했다.",
@@ -1368,7 +1344,7 @@
     "raw_ref_id": 174
   },
   {
-    "id": 172,
+    "id": 168,
     "tag": "P077_2",
     "en": "It was uncomfortable to have madame knitting in the public carriage all the way, and even more uncomfortable to have her knitting in the crowd as they waited to see the King and Queen.",
     "ko": "내내 마차 안에서 마담이 뜨개질을 하는 것도 불편했고, 그들이 국왕과 왕비를 보려고 군중 속에서 기다릴 때 그녀가 뜨개질을 하는 것은 더욱 불편했다.",
@@ -1376,7 +1352,7 @@
     "raw_ref_id": 175
   },
   {
-    "id": 173,
+    "id": 169,
     "tag": "P078",
     "en": "\"You work hard, madame,\" a man nearby remarked.",
     "ko": "\"마담, 열심히 일하시는군요,\" 근처에 있던 한 남자가 말했다.",
@@ -1384,7 +1360,7 @@
     "raw_ref_id": 176
   },
   {
-    "id": 174,
+    "id": 170,
     "tag": "P079",
     "en": "\"Yes,\" Madame Defarge replied. \"I have a lot to do.\"",
     "ko": "\"네,\" 마담 드파르지가 대답했다. \"할 일이 많답니다.\"",
@@ -1392,7 +1368,7 @@
     "raw_ref_id": 177
   },
   {
-    "id": 175,
+    "id": 171,
     "tag": "P080",
     "en": "\"What are you making?\"",
     "ko": "\"무엇을 만들고 계십니까?\"",
@@ -1400,7 +1376,7 @@
     "raw_ref_id": 178
   },
   {
-    "id": 176,
+    "id": 172,
     "tag": "P081",
     "en": "\"Many things.\"",
     "ko": "\"여러 가지를 만듭니다.\"",
@@ -1408,7 +1384,7 @@
     "raw_ref_id": 179
   },
   {
-    "id": 177,
+    "id": 173,
     "tag": "P082",
     "en": "\"For example?\"",
     "ko": "\"예를 들면요?\"",
@@ -1416,7 +1392,7 @@
     "raw_ref_id": 180
   },
   {
-    "id": 178,
+    "id": 174,
     "tag": "P083",
     "en": "She replied calmly, \"For example, shrouds.\"",
     "ko": "그녀는 차분하게 대답했다. \"예를 들면, 수의 말입니다.\"",
@@ -1424,7 +1400,7 @@
     "raw_ref_id": 181
   },
   {
-    "id": 179,
+    "id": 175,
     "tag": "P084_1",
     "en": "The man moved away quickly, and the road mender fanned himself with his cap, feeling the heat.",
     "ko": "그 남자는 재빨리 자리를 피했고, 도로 보수공은 더위를 느끼며 모자로 부채질을 했다.",
@@ -1432,7 +1408,7 @@
     "raw_ref_id": 182
   },
   {
-    "id": 180,
+    "id": 176,
     "tag": "P084_1",
     "en": "If he needed a King and Queen to recover, he was lucky to have his cure nearby. Soon, the large-faced King and the fair-faced Queen arrived in their golden coach, accompanied by the shining stars of their Court—a glittering crowd of laughing ladies and elegant lords.",
     "ko": "만약 그가 기력을 회복하기 위해 국왕과 왕비가 필요했다면, 가까운 곳에 그 치유책이 있어서 다행이었다. 곧, 큰 얼굴의 국왕과 고운 얼굴의 왕비가 궁정의 빛나는 별들—웃고 있는 귀부인들과 우아한 귀족들의 화려한 무리—을 동반하고 황금 마차를 타고 도착했다.",
@@ -1440,7 +1416,7 @@
     "raw_ref_id": 183
   },
   {
-    "id": 181,
+    "id": 177,
     "tag": "P084_2",
     "en": "The road-mender soaked in the jewels, silks, powder, splendor, and the gracefully snobby figures and handsome, arrogant faces of both sexes. He became so temporarily intoxicated by it all that he shouted, \"Long live the King, long live the Queen, long live everybody and everything!\" as if he had never even heard of the mysterious Jacques.",
     "ko": "도로 보수공은 보석, 비단, 분, 화려함, 그리고 남녀 모두의 우아하게 거만한 자태와 잘생기고 오만한 얼굴들에 흠뻑 빠져들었다. 그는 그 모든 것에 일시적으로 몹시 취한 나머지, 마치 미스터리한 자크에 대해 들어본 적도 없는 것처럼 \"국왕 만세, 왕비 만세, 모든 사람과 모든 것들 만세!\"라고 소리쳤다.",
@@ -1448,7 +1424,7 @@
     "raw_ref_id": 183
   },
   {
-    "id": 182,
+    "id": 178,
     "tag": "P084_3",
     "en": "Then there were gardens, courtyards, terraces, fountains, green banks, more of the King and Queen, more shining courtiers, more lords and ladies, and more shouts of \"Long live them all!\" until he literally cried with emotion.",
     "ko": "그런 다음 정원, 안뜰, 테라스, 분수, 푸른 둑이 있었고, 국왕과 왕비, 더 많은 빛나는 신하들, 더 많은 귀족 남녀, 그리고 \"그들 모두 만세!\"라는 더 많은 외침이 이어졌고, 그는 감격에 겨워 말 그대로 눈물을 흘렸다.",
@@ -1456,7 +1432,7 @@
     "raw_ref_id": 184
   },
   {
-    "id": 183,
+    "id": 179,
     "tag": "P084_4",
     "en": "During the three hours of the display, he shouted and cried with the crowd. Defarge held him by the collar the whole time, keeping him from getting too close to the carriage.",
     "ko": "삼 시간의 관람 동안 그는 군중과 함께 소리치고 울부짖었다. 드파르지는 그가 마차에 너무 가까이 다가가지 못하게 막으며 내내 그의 목덜미를 잡고 있었다.",
@@ -1464,7 +1440,7 @@
     "raw_ref_id": 185
   },
   {
-    "id": 184,
+    "id": 180,
     "tag": "P085",
     "en": "\"Well done!\" Defarge said, clapping him on the back afterward. \"You are a good boy!\"",
     "ko": "\"잘했어!\" 나중에 드파르지가 그의 등을 두드리며 말했다. \"넌 참 좋은 녀석이야!\"",
@@ -1472,7 +1448,7 @@
     "raw_ref_id": 186
   },
   {
-    "id": 185,
+    "id": 181,
     "tag": "P086",
     "en": "The road mender began to worry if he had made a mistake by cheering the King.",
     "ko": "도로 보수공은 국왕을 환호한 것이 실수였는지 걱정하기 시작했다.",
@@ -1480,7 +1456,7 @@
     "raw_ref_id": 187
   },
   {
-    "id": 186,
+    "id": 182,
     "tag": "P087_1",
     "en": "\"You are exactly the kind of man we need,\" Defarge whispered. \"You make these fools believe their system will last forever.",
     "ko": "\"넌 정확히 우리가 필요로 하는 부류의 사람이야,\" 드파르지가 속삭였다. \"넌 이 바보들이 자신들의 체제가 영원히 지속될 거라고 믿게 만들거든.",
@@ -1488,7 +1464,7 @@
     "raw_ref_id": 188
   },
   {
-    "id": 187,
+    "id": 183,
     "tag": "P087_2",
     "en": "That makes them more insolent, and brings the end closer.\"",
     "ko": "그것이 그들을 더 오만하게 만들고, 종말을 더 앞당기지.\"",
@@ -1496,7 +1472,7 @@
     "raw_ref_id": 189
   },
   {
-    "id": 188,
+    "id": 184,
     "tag": "P088",
     "en": "\"Ah!\" said the road mender. \"That is true.\"",
     "ko": "\"아!\" 도로 보수공이 말했다. \"그 말이 맞습니다.\"",
@@ -1504,7 +1480,7 @@
     "raw_ref_id": 190
   },
   {
-    "id": 189,
+    "id": 185,
     "tag": "P089_1",
     "en": "\"These fools know nothing.",
     "ko": "\"이 바보들은 아무것도 몰라.",
@@ -1512,7 +1488,7 @@
     "raw_ref_id": 191
   },
   {
-    "id": 190,
+    "id": 186,
     "tag": "P089_2",
     "en": "They despise you and would kill you before they killed one of their horses, but they only believe what they see.",
     "ko": "그들은 너를 경멸하고 그들의 말 한 마리를 죽이기 전에 너를 먼저 죽일 테지만, 그들은 오직 자신들이 보는 것만 믿지.",
@@ -1520,7 +1496,7 @@
     "raw_ref_id": 192
   },
   {
-    "id": 191,
+    "id": 187,
     "tag": "P089_3",
     "en": "Let them be deceived a little longer.\"",
     "ko": "그들이 조금 더 속게 내버려 두자고.\"",
@@ -1528,7 +1504,7 @@
     "raw_ref_id": 193
   },
   {
-    "id": 192,
+    "id": 188,
     "tag": "P090",
     "en": "Madame Defarge looked at him and nodded.",
     "ko": "마담 드파르지가 그를 보며 고개를 끄덕였다.",
@@ -1536,23 +1512,15 @@
     "raw_ref_id": 194
   },
   {
-    "id": 193,
-    "tag": "P091_1",
-    "en": "She said, \"As for you, you would cheer for anything that makes a noise.",
-    "ko": "그녀가 말했다. \"너로 말하자면, 소리 나는 것이라면 무엇이든 환호할 녀석이지.",
+    "id": 189,
+    "tag": "P091",
+    "en": "She said, \"As for you, you would cheer for anything that makes a noise. Wouldn't you?\"",
+    "ko": "그녀가 말했다. \"너로 말하자면, 소리 나는 것이라면 무엇이든 환호할 녀석이지. 안 그래?\"",
     "is_header": false,
     "raw_ref_id": 195
   },
   {
-    "id": 194,
-    "tag": "P091_2",
-    "en": "Wouldn't you?\"",
-    "ko": "안 그래?\"",
-    "is_header": false,
-    "raw_ref_id": 196
-  },
-  {
-    "id": 195,
+    "id": 190,
     "tag": "P092_1",
     "en": "\"Yes, madame.",
     "ko": "\"네, 마담.",
@@ -1560,7 +1528,7 @@
     "raw_ref_id": 197
   },
   {
-    "id": 196,
+    "id": 191,
     "tag": "P092_2",
     "en": "For the moment.\"",
     "ko": "당분간은요.\"",
@@ -1568,7 +1536,7 @@
     "raw_ref_id": 198
   },
   {
-    "id": 197,
+    "id": 192,
     "tag": "P093",
     "en": "\"If you were shown a pile of dolls and told to tear them to pieces for your own profit, you would choose the finest ones, wouldn't you?\"",
     "ko": "\"만약 너에게 인형 더미를 보여주며 네 이익을 위해 그것들을 갈기갈기 찢어버리라고 한다면, 넌 가장 좋은 것들을 고르겠지, 안 그래?\"",
@@ -1576,7 +1544,7 @@
     "raw_ref_id": 199
   },
   {
-    "id": 198,
+    "id": 193,
     "tag": "P094",
     "en": "\"Yes, madame.\"",
     "ko": "\"네, 마담.\"",
@@ -1584,7 +1552,7 @@
     "raw_ref_id": 200
   },
   {
-    "id": 199,
+    "id": 194,
     "tag": "P095",
     "en": "\"And if you were shown a flock of fine birds unable to fly and told to pluck their feathers, you would choose the best ones, wouldn't you?\"",
     "ko": "\"그리고 만약 너에게 날지 못하는 훌륭한 새 떼를 보여주며 그 깃털을 뽑으라고 한다면, 넌 가장 좋은 것들을 고르겠지, 안 그래?\"",
@@ -1592,7 +1560,7 @@
     "raw_ref_id": 201
   },
   {
-    "id": 200,
+    "id": 195,
     "tag": "P096",
     "en": "\"That is true, madame.\"",
     "ko": "\"맞는 말씀입니다, 마담.\"",
@@ -1600,7 +1568,7 @@
     "raw_ref_id": 202
   },
   {
-    "id": 201,
+    "id": 196,
     "tag": "P097",
     "en": "\"You have seen both dolls and birds today,\" Madame Defarge said, pointing toward the palace. \"Now, go home!\"",
     "ko": "\"넌 오늘 인형과 새들을 모두 보았어,\" 마담 드파르지가 궁전을 가리키며 말했다. \"자, 이제 집으로 가!\"",

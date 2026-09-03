@@ -194,6 +194,7 @@ class ReaderViewModel(
         viewModelScope.launch {
             isPlaying.collect { playing ->
                 val intent = Intent(application, TtsPlaybackService::class.java).apply {
+                    action = "SET_PLAYING"
                     putExtra("BOOK_TITLE", bookConfig.titleEn)
                     putExtra("IS_PLAYING", playing)
                 }
@@ -215,11 +216,18 @@ class ReaderViewModel(
 
     fun loadChapter(number: Int, restoreSentenceId: String? = null, autoPlay: Boolean = false, playFromEnd: Boolean = false, selectOnLoad: Boolean = false) {
         prefs.edit().putInt("last_chapter", number).apply()
+        
+        // Immediately synchronize state on the main thread
+        ttsManager.stop()
+        _speakingSentenceId.value = null
+        currentQueueIndex = -1
+        _currentChapterNumber.value = number
+        if (!autoPlay) {
+            _isPlaying.value = false
+            sendSetPlaying(false)
+        }
+
         viewModelScope.launch(Dispatchers.IO) {
-            ttsManager.stop()
-            _speakingSentenceId.value = null
-            currentQueueIndex = -1
-            _currentChapterNumber.value = number
             val ch = repository.loadChapter(number)
             _currentChapter.value = ch
             rebuildSentenceQueue(ch)
@@ -238,6 +246,11 @@ class ReaderViewModel(
             val willShowPaywall = shouldShowSoftPaywall(number)
             val effectiveAutoPlay = autoPlay && !willShowPaywall
             val effectiveSelectOnLoad = selectOnLoad || (autoPlay && willShowPaywall)
+
+            if (!effectiveAutoPlay) {
+                _isPlaying.value = false
+                sendSetPlaying(false)
+            }
 
             if ((effectiveAutoPlay || effectiveSelectOnLoad) && sentenceQueue.isNotEmpty()) {
                 if (playFromEnd) {
@@ -287,12 +300,12 @@ class ReaderViewModel(
 
     fun nextChapter() {
         val next = _currentChapterNumber.value + 1
-        if (next <= _totalChapters.value) loadChapter(next)
+        if (next <= _totalChapters.value) loadChapter(next, autoPlay = isPlaying.value, selectOnLoad = true)
     }
 
     fun previousChapter() {
         val prev = _currentChapterNumber.value - 1
-        if (prev >= 1) loadChapter(prev)
+        if (prev >= 1) loadChapter(prev, autoPlay = isPlaying.value, selectOnLoad = true)
     }
 
     fun isChapterAccessible(chapterNumber: Int): Boolean {
@@ -368,6 +381,8 @@ class ReaderViewModel(
                 loadChapter(next, autoPlay = true, selectOnLoad = false)
             } else {
                 _speakingSentenceId.value = null
+                _isPlaying.value = false
+                sendSetPlaying(false)
             }
         }
     }
@@ -395,6 +410,8 @@ class ReaderViewModel(
                 loadChapter(prev, autoPlay = true, playFromEnd = true, selectOnLoad = false)
             } else {
                 _speakingSentenceId.value = null
+                _isPlaying.value = false
+                sendSetPlaying(false)
             }
         }
     }
@@ -413,6 +430,7 @@ class ReaderViewModel(
             _speakingSentenceId.value = null
             _speakingParagraphIndex.value = -1
             _isPlaying.value = false
+            sendSetPlaying(false)
             return
         }
         
@@ -451,18 +469,31 @@ class ReaderViewModel(
             currentQueueIndex++
             playCurrentSequence()
         }
+        val onError = {
+            _isPlaying.value = false
+            sendSetPlaying(false)
+        }
 
         when (s.lang) {
-            Language.KO -> ttsManager.speakKorean(s.text, onDone)
-            else -> ttsManager.speakEnglish(s.text, onDone)
+            Language.KO -> ttsManager.speakKorean(s.text, onDone, onError)
+            else -> ttsManager.speakEnglish(s.text, onDone, onError)
         }
     }
 
     fun stopSpeaking() {
         wasPlayingBeforeFocusLoss = false
         ttsManager.stop()
-
         _speakingSentenceId.value = null
+        _isPlaying.value = false
+        sendSetPlaying(false)
+    }
+
+    /** Called when the reader screen returns to foreground to ensure UI matches playback reality */
+    fun syncPlaybackState() {
+        if (_isPlaying.value && !ttsManager.isSpeaking.value) {
+            _isPlaying.value = false
+            sendSetPlaying(false)
+        }
     }
 
 }

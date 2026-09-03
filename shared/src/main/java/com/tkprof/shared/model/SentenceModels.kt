@@ -59,8 +59,10 @@ object SentenceSplitter {
                 val lastWord = words.lastOrNull() ?: ""
                 
                 if (lastWord.endsWith(".") && lastWord.length > 1) {
-                    val wordWithoutDot = lastWord.dropLast(1).lowercase()
-                    if (abbreviations.contains(wordWithoutDot)) {
+                    val wordWithoutDot = lastWord.dropLast(1).lowercase().trim('"', '\'', '“', '‘', '”', '’')
+                    val isAbbrev = abbreviations.contains(wordWithoutDot)
+                    val isSingleLetterInitial = wordWithoutDot.length == 1 && wordWithoutDot[0].isLetter()
+                    if (isAbbrev || isSingleLetterInitial) {
                         val next = initialSentences[i + 1]
                         val combinedText = text.substring(current.startIndex, next.endIndex).trim()
                         current = Sentence(

@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "tag": "P001",
     "en": "[Chapter 11] Dusk",
     "ko": "",
@@ -8,7 +8,7 @@
     "raw_ref_id": 1
   },
   {
-    "id": 2,
+    "id": 1,
     "tag": "P002_1",
     "en": "The poor wife of the innocent man condemned to die collapsed when she heard the sentence, as if she had been struck with a deadly blow.",
     "ko": "사형 선고를 받은 무고한 남자의 불쌍한 아내는 그 선고를 듣자마자 마치 치명적인 일격을 당한 것처럼 쓰러졌습니다.",
@@ -16,7 +16,7 @@
     "raw_ref_id": 2
   },
   {
-    "id": 3,
+    "id": 2,
     "tag": "P002_2",
     "en": "But she made no sound. A strong voice inside told her that she, of all people in the world, had to support him in his misery and not make it worse. This thought quickly helped her recover, even from such a terrible shock.",
     "ko": "하지만 그녀는 아무 소리도 내지 않았습니다. 세상의 모든 사람들 중에서도 그녀가 그의 불행 속에서 그를 지지해야 하며 그것을 악화시켜서는 안 된다고 내면의 강한 목소리가 그녀에게 말했습니다. 이 생각은 그토록 끔찍한 충격 속에서도 그녀가 빨리 회복하도록 도와주었습니다.",
@@ -24,7 +24,7 @@
     "raw_ref_id": 3
   },
   {
-    "id": 4,
+    "id": 3,
     "tag": "P003_1",
     "en": "The judges had to take part in a public parade outside, so the court was adjourned.",
     "ko": "판사들은 밖에서 열리는 공개 행진에 참석해야 했기 때문에 재판은 휴정되었습니다.",
@@ -32,7 +32,7 @@
     "raw_ref_id": 4
   },
   {
-    "id": 5,
+    "id": 4,
     "tag": "P003_2",
     "en": "The loud noise and movement of the courtroom emptying through many exits was still going on when Lucie stood up, stretching out her arms toward her husband with nothing but love and comfort on her face.",
     "ko": "루시가 오직 사랑과 위안만을 얼굴에 띤 채 남편을 향해 두 팔을 뻗으며 일어났을 때, 많은 출구를 통해 텅 비어가는 법정의 큰 소음과 움직임은 여전히 계속되고 있었습니다.",
@@ -40,7 +40,7 @@
     "raw_ref_id": 5
   },
   {
-    "id": 6,
+    "id": 5,
     "tag": "P004_1",
     "en": "“If only I could touch him!",
     "ko": "\"그를 만질 수만 있다면!",
@@ -48,7 +48,7 @@
     "raw_ref_id": 6
   },
   {
-    "id": 7,
+    "id": 6,
     "tag": "P004_2",
     "en": "If only I could hug him just once!",
     "ko": "그를 단 한 번만이라도 안을 수 있다면!",
@@ -56,7 +56,7 @@
     "raw_ref_id": 7
   },
   {
-    "id": 8,
+    "id": 7,
     "tag": "P004_3",
     "en": "Oh, good citizens, if you would only have some pity on us!”",
     "ko": "오, 선량한 시민 여러분, 우리를 조금만 불쌍히 여겨주신다면!\"",
@@ -64,7 +64,7 @@
     "raw_ref_id": 8
   },
   {
-    "id": 9,
+    "id": 8,
     "tag": "P005_1",
     "en": "Only a jailer was left, along with two of the four guards who had arrested Darnay the night before, and Barsad.",
     "ko": "전날 밤 다네이를 체포했던 네 명의 경비병 중 두 명과 간수, 그리고 바사드만이 남아 있었습니다.",
@@ -72,7 +72,7 @@
     "raw_ref_id": 9
   },
   {
-    "id": 10,
+    "id": 9,
     "tag": "P005_2",
     "en": "The rest of the crowd had poured out into the streets to watch the parade.",
     "ko": "나머지 군중들은 행진을 보기 위해 거리로 쏟아져 나갔습니다.",
@@ -80,7 +80,7 @@
     "raw_ref_id": 10
   },
   {
-    "id": 11,
+    "id": 10,
     "tag": "P005_3",
     "en": "Barsad proposed to the rest, “Let her embrace him then; it is but a moment.” It was silently agreed to, and they passed her over the seats in the hall to a raised place, where Darnay, by leaning over the dock, could fold her in his arms. “Farewell, dear darling of my soul.",
     "ko": "바르사드가 다른 사람들에게 제안했다. “그럼 포옹하게 해 줍시다. 잠깐이면 되잖소.” 사람들은 묵묵히 동의했고, 그녀는 방청석 좌석을 지나 높은 곳으로 건네졌으며, 그곳에서 다네는 피고인석 너머로 몸을 숙여 그녀를 품에 안을 수 있었다. “안녕이오, 내 영혼의 사랑하는 이여.",
@@ -88,7 +88,7 @@
     "raw_ref_id": 11
   },
   {
-    "id": 12,
+    "id": 11,
     "tag": "P006_2",
     "en": "My parting blessing to you, my love.",
     "ko": "내 사랑, 당신에게 내 작별의 축복을 보냅니다.",
@@ -96,7 +96,7 @@
     "raw_ref_id": 13
   },
   {
-    "id": 13,
+    "id": 12,
     "tag": "P006_3",
     "en": "We will meet again, where the tired are at peace!”",
     "ko": "지친 자들이 평화롭게 쉬는 곳에서 우리는 다시 만날 것입니다!\"",
@@ -104,7 +104,7 @@
     "raw_ref_id": 14
   },
   {
-    "id": 14,
+    "id": 13,
     "tag": "P007",
     "en": "These were her husband's words as he held her close to his chest.",
     "ko": "이것은 남편이 그녀를 가슴에 꽉 껴안으며 한 말이었습니다.",
@@ -112,7 +112,7 @@
     "raw_ref_id": 15
   },
   {
-    "id": 15,
+    "id": 14,
     "tag": "P008_1",
     "en": "“I can bear it, dear Charles.",
     "ko": "\"나는 견딜 수 있어요, 사랑하는 찰스.",
@@ -120,7 +120,7 @@
     "raw_ref_id": 16
   },
   {
-    "id": 16,
+    "id": 15,
     "tag": "P008_2",
     "en": "I am being supported from heaven; do not worry about me.",
     "ko": "나는 하늘의 보살핌을 받고 있으니 내 걱정은 하지 마세요.",
@@ -128,7 +128,7 @@
     "raw_ref_id": 17
   },
   {
-    "id": 17,
+    "id": 16,
     "tag": "P008_3",
     "en": "Give a parting blessing for our child.”",
     "ko": "우리 아이에게 작별의 축복을 내려주세요.\"",
@@ -136,7 +136,7 @@
     "raw_ref_id": 18
   },
   {
-    "id": 18,
+    "id": 17,
     "tag": "P009_1",
     "en": "“I send it to her through you.",
     "ko": "\"당신을 통해 아이에게 축복을 보냅니다.",
@@ -144,7 +144,7 @@
     "raw_ref_id": 19
   },
   {
-    "id": 19,
+    "id": 18,
     "tag": "P009_2",
     "en": "I kiss her through you.",
     "ko": "당신을 통해 아이에게 입 맞춥니다.",
@@ -152,7 +152,7 @@
     "raw_ref_id": 20
   },
   {
-    "id": 20,
+    "id": 19,
     "tag": "P009_3",
     "en": "I say goodbye to her through you.”",
     "ko": "당신을 통해 아이에게 작별 인사를 합니다.\"",
@@ -160,39 +160,15 @@
     "raw_ref_id": 21
   },
   {
-    "id": 21,
-    "tag": "P010_1",
-    "en": "“My husband.",
-    "ko": "\"나의 남편.",
+    "id": 20,
+    "tag": "P010",
+    "en": "“My husband. No! Just a moment!” He was pulling himself away from her. “We will not be separated for long. I feel that this will break my heart soon, but I will do my duty while I can. And when I leave her, God will bring friends to help her, just as He did for me.”",
+    "ko": "\"나의 남편. 안 돼요! 잠깐만요!\" 그가 그녀에게서 몸을 떼어내려 하고 있었습니다. \"우리는 오랫동안 떨어져 있지 않을 거예요. 이 일로 곧 제 마음이 무너져 내릴 것 같지만, 할 수 있는 한 제 의무를 다할 거예요. 그리고 내가 그녀를 떠날 때, 신께서 나에게 해주셨던 것처럼 그녀를 도울 친구들을 보내주실 거예요.\"",
     "is_header": false,
     "raw_ref_id": 22
   },
   {
-    "id": 22,
-    "tag": "P010_2",
-    "en": "No!",
-    "ko": "안 돼요!",
-    "is_header": false,
-    "raw_ref_id": 23
-  },
-  {
-    "id": 23,
-    "tag": "P010_3",
-    "en": "Just a moment!” He was pulling himself away from her. “We will not be separated for long.",
-    "ko": "잠깐만요!\" 그가 그녀에게서 몸을 떼어내려 하고 있었습니다. \"우리는 오랫동안 떨어져 있지 않을 거예요.",
-    "is_header": false,
-    "raw_ref_id": 24
-  },
-  {
-    "id": 24,
-    "tag": "P010_4",
-    "en": "I feel that this will break my heart soon, but I will do my duty while I can. And when I leave her, God will bring friends to help her, just as He did for me.”",
-    "ko": "이 일로 곧 제 마음이 무너져 내릴 것 같지만, 할 수 있는 한 제 의무를 다할 거예요. 그리고 내가 그녀를 떠날 때, 신께서 나에게 해주셨던 것처럼 그녀를 도울 친구들을 보내주실 거예요.\"",
-    "is_header": false,
-    "raw_ref_id": 25
-  },
-  {
-    "id": 25,
+    "id": 21,
     "tag": "P011",
     "en": "Her father had followed her, and would have fallen to his knees before them, but Darnay reached out and caught him, crying:",
     "ko": "그녀의 아버지가 그녀를 따라왔고, 그들 앞에 무릎을 꿇으려 했으나, 다네이가 손을 뻗어 그를 붙잡고 울부짖었습니다.",
@@ -200,63 +176,15 @@
     "raw_ref_id": 26
   },
   {
-    "id": 26,
-    "tag": "P012_1",
-    "en": "“No, no!",
-    "ko": "\"안 됩니다, 안 돼!",
+    "id": 22,
+    "tag": "P012",
+    "en": "“No, no! What have you done, what have you done, that you should kneel to us! We know now what a struggle you went through in the past. We know now what you suffered when you suspected who my family was, and when you finally knew it. We know now the natural hatred you fought against and conquered for her dear sake. We thank you with all our hearts, and all our love and respect. May Heaven be with you!”",
+    "ko": "\"안 됩니다, 안 돼! 아버님께서 무슨 일을 하셨다고, 무슨 일을 하셨다고 저희에게 무릎을 꿇으십니까! 우리는 이제 아버님께서 과거에 어떤 고난을 겪으셨는지 알고 있습니다. 우리는 이제 아버님께서 제 가족이 누구인지 의심하셨을 때, 그리고 마침내 그것을 아셨을 때 겪으셨던 고통을 압니다. 우리는 이제 아버님께서 사랑하는 그녀를 위해 맞서 싸우고 이겨내신 그 당연한 증오를 압니다. 우리는 진심을 다해, 그리고 우리의 모든 사랑과 존경을 담아 아버님께 감사드립니다. 하늘이 아버님과 함께 하시기를!\"",
     "is_header": false,
     "raw_ref_id": 27
   },
   {
-    "id": 27,
-    "tag": "P012_2",
-    "en": "What have you done, what have you done, that you should kneel to us!",
-    "ko": "아버님께서 무슨 일을 하셨다고, 무슨 일을 하셨다고 저희에게 무릎을 꿇으십니까!",
-    "is_header": false,
-    "raw_ref_id": 28
-  },
-  {
-    "id": 28,
-    "tag": "P012_3",
-    "en": "We know now what a struggle you went through in the past.",
-    "ko": "우리는 이제 아버님께서 과거에 어떤 고난을 겪으셨는지 알고 있습니다.",
-    "is_header": false,
-    "raw_ref_id": 29
-  },
-  {
-    "id": 29,
-    "tag": "P012_4",
-    "en": "We know now what you suffered when you suspected who my family was, and when you finally knew it.",
-    "ko": "우리는 이제 아버님께서 제 가족이 누구인지 의심하셨을 때, 그리고 마침내 그것을 아셨을 때 겪으셨던 고통을 압니다.",
-    "is_header": false,
-    "raw_ref_id": 30
-  },
-  {
-    "id": 30,
-    "tag": "P012_5",
-    "en": "We know now the natural hatred you fought against and conquered for her dear sake.",
-    "ko": "우리는 이제 아버님께서 사랑하는 그녀를 위해 맞서 싸우고 이겨내신 그 당연한 증오를 압니다.",
-    "is_header": false,
-    "raw_ref_id": 31
-  },
-  {
-    "id": 31,
-    "tag": "P012_6",
-    "en": "We thank you with all our hearts, and all our love and respect.",
-    "ko": "우리는 진심을 다해, 그리고 우리의 모든 사랑과 존경을 담아 아버님께 감사드립니다.",
-    "is_header": false,
-    "raw_ref_id": 32
-  },
-  {
-    "id": 32,
-    "tag": "P012_7",
-    "en": "May Heaven be with you!”",
-    "ko": "하늘이 아버님과 함께 하시기를!\"",
-    "is_header": false,
-    "raw_ref_id": 33
-  },
-  {
-    "id": 33,
+    "id": 23,
     "tag": "P013",
     "en": "Her father's only answer was to run his hands through his white hair and wring them, letting out a cry of agony.",
     "ko": "그녀의 아버지의 유일한 대답은 하얀 머리카락을 쓸어 넘기며 두 손을 쥐어짜고, 고통스러운 비명을 지르는 것뿐이었습니다.",
@@ -264,7 +192,7 @@
     "raw_ref_id": 34
   },
   {
-    "id": 34,
+    "id": 24,
     "tag": "P014_1",
     "en": "“It could not be any other way,” said the prisoner. “Everything has worked out exactly as it had to.",
     "ko": "\"다른 방법은 없었습니다.\" 죄수가 말했습니다. \"모든 것은 정확히 그래야만 하는 대로 이루어졌습니다.",
@@ -272,7 +200,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 35,
+    "id": 25,
     "tag": "P014_2",
     "en": "It was my failed attempt to carry out my poor mother's last wishes that first brought my dangerous presence near you.",
     "ko": "나의 위험한 존재를 처음 당신 곁으로 데려온 것은 불쌍한 어머니의 마지막 소원을 이루려던 나의 실패한 시도였습니다.",
@@ -280,7 +208,7 @@
     "raw_ref_id": 36
   },
   {
-    "id": 36,
+    "id": 26,
     "tag": "P014_3",
     "en": "Good could never come from such evil, and a happy ending was not possible after such a sad beginning.",
     "ko": "그러한 악에서 선이 나올 수 없었고, 그렇게 슬픈 시작 후에 행복한 결말은 불가능했습니다.",
@@ -288,7 +216,7 @@
     "raw_ref_id": 37
   },
   {
-    "id": 37,
+    "id": 27,
     "tag": "P014_4",
     "en": "Find comfort, and forgive me.",
     "ko": "부디 위안을 찾으시고 저를 용서해 주십시오.",
@@ -296,7 +224,7 @@
     "raw_ref_id": 38
   },
   {
-    "id": 38,
+    "id": 28,
     "tag": "P014_5",
     "en": "May Heaven bless you!”",
     "ko": "하늘이 아버님을 축복하시기를!\"",
@@ -304,7 +232,7 @@
     "raw_ref_id": 39
   },
   {
-    "id": 39,
+    "id": 29,
     "tag": "P015_1",
     "en": "As he was led away, his wife let go of him and stood watching him go, her hands pressed together in prayer. There was a bright look on her face, and even a comforting smile.",
     "ko": "그가 끌려갈 때, 그의 아내는 그를 놓아주고 두 손을 모아 기도하며 그가 가는 것을 지켜보았습니다. 그녀의 얼굴에는 밝은 표정이 있었고 위안을 주는 미소조차 띠고 있었습니다.",
@@ -312,7 +240,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 40,
+    "id": 30,
     "tag": "P015_2",
     "en": "As he walked through the prisoner's door, she turned, laid her head lovingly on her father's chest, tried to speak to him, and fainted at his feet.",
     "ko": "그가 죄수의 문을 걸어 들어갈 때, 그녀는 돌아서서 아버지의 가슴에 애정 어린 머리를 기대고 무언가 말하려 하다가 그의 발치에 쓰러졌습니다.",
@@ -320,7 +248,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 41,
+    "id": 31,
     "tag": "P016_1",
     "en": "Then, stepping out from the dark corner where he had stood without moving, Sydney Carton came over and picked her up.",
     "ko": "그러자, 움직이지 않고 서 있던 어두운 구석에서 시드니 카턴이 걸어 나와 그녀를 안아 올렸습니다.",
@@ -328,7 +256,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 42,
+    "id": 32,
     "tag": "P016_2",
     "en": "Only her father and Mr. Lorry were with her.",
     "ko": "오직 그녀의 아버지와 로리 씨만이 그녀 곁에 있었다.",
@@ -336,7 +264,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 43,
+    "id": 33,
     "tag": "P016_4",
     "en": "Carton's arm shook as he lifted her and supported her head.",
     "ko": "카턴이 그녀를 들어 올려 그녀의 머리를 받칠 때 그의 팔이 떨렸습니다.",
@@ -344,7 +272,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 44,
+    "id": 34,
     "tag": "P016_5",
     "en": "Yet, there was something in his look that was not just pity, there was a glow of pride in it too.",
     "ko": "그러나 그의 눈빛에는 단지 연민뿐만 아니라 어떤 자부심의 빛도 함께 있었습니다.",
@@ -352,7 +280,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 45,
+    "id": 35,
     "tag": "P017_1",
     "en": "“Shall I carry her to a carriage?",
     "ko": "\"제가 마차까지 안고 갈까요?",
@@ -360,7 +288,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 46,
+    "id": 36,
     "tag": "P017_2",
     "en": "She feels as light as a feather to me.”",
     "ko": "제게는 그녀가 깃털처럼 가볍게 느껴집니다.\"",
@@ -368,7 +296,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 47,
+    "id": 37,
     "tag": "P018_1",
     "en": "He carried her easily to the door and laid her down gently in a carriage.",
     "ko": "그는 그녀를 쉽게 문으로 안고 가서 마차 안에 부드럽게 눕혔습니다.",
@@ -376,7 +304,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 48,
+    "id": 38,
     "tag": "P018_2",
     "en": "Her father and their old friend got inside, and Carton took his seat next to the driver.",
     "ko": "그녀의 아버지와 그들의 오랜 친구가 안으로 들어갔고, 카턴은 마부 옆자리에 앉았습니다.",
@@ -384,7 +312,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 49,
+    "id": 39,
     "tag": "P019_1",
     "en": "When they arrived at the gateway where he had paused in the dark only a few hours before, to picture to himself on which of the rough stones of the street her feet had trodden, he lifted her again, and carried her up the staircase to their rooms. There, he laid her down on a couch, where her child and Miss Pross wept over her.",
     "ko": "불과 몇 시간 전 어둠 속에서 그녀의 발이 거친 길바닥의 어느 돌을 밟았을지 상상하며 걸음을 멈췄던 그 출입문에 다다르자, 그는 그녀를 다시 들어 올려 계단을 지나 방으로 안고 올라갔다. 그곳에서 그는 그녀를 소파에 눕혔고, 그녀의 아이와 프로스 양이 그녀를 보며 흐느껴 울었다.",
@@ -392,7 +320,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 50,
+    "id": 40,
     "tag": "P020_1",
     "en": "“Don't wake her up yet,” he said softly to Miss Pross. “She is better off like this.",
     "ko": "\"아직 그녀를 깨우지 마세요.\" 그가 미스 프로스에게 부드럽게 말했습니다. \"그녀는 이대로 있는 것이 더 낫습니다.",
@@ -400,7 +328,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 51,
+    "id": 41,
     "tag": "P020_2",
     "en": "Don't bring her back to consciousness while she is only fainted.”",
     "ko": "그녀가 그저 기절해 있는 동안에는 그녀의 의식을 되돌리지 마세요.\"",
@@ -408,7 +336,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 52,
+    "id": 42,
     "tag": "P021_1",
     "en": "“Oh, Carton, Carton, dear Carton!” cried little Lucie, jumping up and throwing her arms tightly around him in a burst of tears. “Now that you are here, I know you will do something to help mamma and save papa!",
     "ko": "\"오, 카턴, 카턴, 사랑하는 카턴!\" 어린 루시가 펄쩍 뛰어올라 눈물을 터뜨리며 그를 꼭 껴안고 외쳤습니다. \"당신이 여기에 있으니, 당신이 엄마를 돕고 아빠를 구하기 위해 뭔가를 해줄 거라는 걸 알아요!",
@@ -416,7 +344,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 53,
+    "id": 43,
     "tag": "P021_2",
     "en": "Oh, look at her, dear Carton!",
     "ko": "오, 그녀를 보세요, 사랑하는 카턴!",
@@ -424,7 +352,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 54,
+    "id": 44,
     "tag": "P021_3",
     "en": "Can you, of all the people who love her, bear to see her like this?”",
     "ko": "그녀를 사랑하는 모든 사람들 중에, 당신은 그녀가 이런 모습인 것을 견딜 수 있나요?\"",
@@ -432,7 +360,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 55,
+    "id": 45,
     "tag": "P022_1",
     "en": "He bent over the child and rested her warm cheek against his face.",
     "ko": "그는 아이에게 몸을 굽혀 그녀의 따뜻한 뺨을 자신의 얼굴에 맞댔습니다.",
@@ -440,7 +368,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 56,
+    "id": 46,
     "tag": "P022_2",
     "en": "He gently set her aside and looked at her unconscious mother.",
     "ko": "그는 부드럽게 그녀를 옆에 내려놓고 의식을 잃은 그녀의 어머니를 바라보았습니다.",
@@ -448,7 +376,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 57,
+    "id": 47,
     "tag": "P023",
     "en": "“Before I go,” he said, and paused, “may I kiss her?”",
     "ko": "\"가기 전에,\" 그는 말하고는 잠시 멈추었습니다. \"그녀에게 입 맞춰도 될까요?\"",
@@ -456,7 +384,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 58,
+    "id": 48,
     "tag": "P024_1",
     "en": "It was remembered later that when he bent down and touched her face with his lips, he whispered a few words.",
     "ko": "나중에 기억되기를, 그가 허리를 굽혀 입술로 그녀의 얼굴에 입 맞출 때 그가 몇 마디를 속삭였다고 합니다.",
@@ -464,7 +392,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 59,
+    "id": 49,
     "tag": "P024_2",
     "en": "The child, who was closest to him, told them later, and repeated them to her own grandchildren when she was an old lady, that she had heard him say, “A life you love.”",
     "ko": "그에게 가장 가까이 있었던 아이는 나중에 그들에게 말했고, 자신이 할머니가 되었을 때 자신의 손주들에게도 반복해서 말하기를, 그가 \"당신이 사랑하는 생명\"이라고 말하는 것을 들었다고 했습니다.",
@@ -472,7 +400,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 60,
+    "id": 50,
     "tag": "P025_1",
     "en": "When he had gone out into the next room, he turned suddenly on Mr. Lorry and her father, who were following, and said to the latter:",
     "ko": "그가 옆방으로 나갔을 때, 뒤따라오던 로리 씨와 그녀의 아버지를 향해 갑자기 돌아서며 마네트 박사에게 말했다.",
@@ -480,7 +408,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 61,
+    "id": 51,
     "tag": "P026_1",
     "en": "“You had great influence only yesterday, Doctor Manette. Let us at least try to use it.",
     "ko": "\"당신은 불과 어제만 해도 큰 영향력이 있었습니다, 닥터 마네트. 우리가 적어도 그것을 써보려고 시도합시다.",
@@ -488,7 +416,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 62,
+    "id": 52,
     "tag": "P026_2",
     "en": "These judges and all the men in power are very friendly to you and appreciate your services, don't they?”",
     "ko": "이 판사들과 권력을 가진 모든 사람들이 당신에게 매우 우호적이고 당신의 봉사에 감사하고 있지 않습니까?\"",
@@ -496,7 +424,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 63,
+    "id": 53,
     "tag": "P027_1",
     "en": "“Nothing about Charles was kept from me.",
     "ko": "\"찰스에 관한 어떤 것도 내게 숨겨지지 않았소.",
@@ -504,7 +432,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 64,
+    "id": 54,
     "tag": "P027_2",
     "en": "I had the strongest promises that I would save him, and I did.” He answered in great distress and very slowly.",
     "ko": "나는 그를 구할 수 있다는 가장 강력한 약속을 받았고, 실제로 구했소.\" 그가 깊은 괴로움 속에서 아주 느릿느릿 대답했습니다.",
@@ -512,7 +440,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 65,
+    "id": 55,
     "tag": "P028_1",
     "en": "“Try them again.",
     "ko": "\"그들을 다시 설득해 보십시오.",
@@ -520,7 +448,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 66,
+    "id": 56,
     "tag": "P028_2",
     "en": "The hours between now and tomorrow afternoon are few and short, but try.”",
     "ko": "지금부터 내일 오후까지의 시간은 얼마 안 되고 짧지만, 시도해 보십시오.\"",
@@ -528,7 +456,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 67,
+    "id": 57,
     "tag": "P029_1",
     "en": "“I plan to try.",
     "ko": "\"시도해 볼 계획이오.",
@@ -536,7 +464,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 68,
+    "id": 58,
     "tag": "P029_2",
     "en": "I will not rest for a second.”",
     "ko": "나는 일 초도 쉬지 않을 것입니다.”",
@@ -544,47 +472,15 @@
     "raw_ref_id": 72
   },
   {
-    "id": 69,
-    "tag": "P030_1",
-    "en": "“That is good.",
-    "ko": "“좋습니다.",
+    "id": 59,
+    "tag": "P030",
+    "en": "“That is good. I have seen energy like yours do great things before, though never,” he added with a smile and a sigh, “anything as great as this. But try! As worthless as life is when we waste it, it is worth this effort. If it weren't, it would be easy to give up.”",
+    "ko": "“좋습니다. 당신과 같은 에너지가 예전에도 위대한 일들을 해내는 것을 보았지만,” 그가 미소와 한숨을 지으며 덧붙였다. “이것만큼 위대한 일은 본 적이 없습니다. 하지만 해보세요! 우리가 인생을 낭비할 때 삶이 아무리 무가치하더라도, 이것은 그만한 노력을 기울일 가치가 있습니다. 그렇지 않다면, 포기하기 쉬웠을 것입니다.”",
     "is_header": false,
     "raw_ref_id": 73
   },
   {
-    "id": 70,
-    "tag": "P030_2",
-    "en": "I have seen energy like yours do great things before, though never,” he added with a smile and a sigh, “anything as great as this.",
-    "ko": "당신과 같은 에너지가 예전에도 위대한 일들을 해내는 것을 보았지만,” 그가 미소와 한숨을 지으며 덧붙였다. “이것만큼 위대한 일은 본 적이 없습니다.",
-    "is_header": false,
-    "raw_ref_id": 74
-  },
-  {
-    "id": 71,
-    "tag": "P030_3",
-    "en": "But try!",
-    "ko": "하지만 해보세요!",
-    "is_header": false,
-    "raw_ref_id": 75
-  },
-  {
-    "id": 72,
-    "tag": "P030_4",
-    "en": "As worthless as life is when we waste it, it is worth this effort.",
-    "ko": "우리가 인생을 낭비할 때 삶이 아무리 무가치하더라도, 이것은 그만한 노력을 기울일 가치가 있습니다.",
-    "is_header": false,
-    "raw_ref_id": 76
-  },
-  {
-    "id": 73,
-    "tag": "P030_5",
-    "en": "If it weren't, it would be easy to give up.”",
-    "ko": "그렇지 않다면, 포기하기 쉬웠을 것입니다.”",
-    "is_header": false,
-    "raw_ref_id": 77
-  },
-  {
-    "id": 74,
+    "id": 60,
     "tag": "P031_1",
     "en": "“I will go,” said Doctor Manette, “straight to the Prosecutor and the President, and I will go to others whom it is better not to name.",
     "ko": "“나는 가겠습니다.” 마네트 박사가 말했다. “검사와 재판장에게 곧바로 갈 것이며, 이름을 밝히지 않는 것이 더 나은 다른 사람들에게도 갈 것입니다.",
@@ -592,7 +488,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 75,
+    "id": 61,
     "tag": "P031_2",
     "en": "I will write letters too, and, but wait!",
     "ko": "나도 편지를 쓸 것이고, 하지만 잠깐!",
@@ -600,7 +496,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 76,
+    "id": 62,
     "tag": "P031_3",
     "en": "There is a festival in the streets, and no one will be reachable until dark.”",
     "ko": "거리에 축제가 있어서 어두워질 때까지 아무도 만날 수 없을 것입니다.”",
@@ -608,7 +504,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 77,
+    "id": 63,
     "tag": "P032_1",
     "en": "“That is true.",
     "ko": "“그건 사실입니다.",
@@ -616,7 +512,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 78,
+    "id": 64,
     "tag": "P032_2",
     "en": "Well, it is a desperate hope at best, and not much more desperate for being delayed until dark.",
     "ko": "글쎄요, 기껏해야 절망적인 희망일 뿐이고, 어두워질 때까지 미루어진다고 해서 훨씬 더 절망적인 것은 아닙니다.",
@@ -624,7 +520,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 79,
+    "id": 65,
     "tag": "P032_3",
     "en": "I would like to know how you succeed, though remember, I expect nothing!",
     "ko": "당신이 어떻게 성공할지 알고 싶지만, 기억하세요, 나는 아무것도 기대하지 않습니다!",
@@ -632,7 +528,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 80,
+    "id": 66,
     "tag": "P032_4",
     "en": "When will you likely have seen these powerful men, Doctor Manette?”",
     "ko": "이 권력자들을 언제쯤 볼 수 있을 것 같습니까, 마네트 박사님?”",
@@ -640,7 +536,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 81,
+    "id": 67,
     "tag": "P033_1",
     "en": "“Right after dark, I hope.",
     "ko": "“어두워진 직후이기를 바랍니다.",
@@ -648,7 +544,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 82,
+    "id": 68,
     "tag": "P033_2",
     "en": "Within an hour or two from now.”",
     "ko": "지금부터 한두 시간 안에요.”",
@@ -656,7 +552,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 83,
+    "id": 69,
     "tag": "P034_1",
     "en": "“It will be dark soon after four.",
     "ko": "“네 시가 지나면 곧 어두워질 것입니다.",
@@ -664,7 +560,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 84,
+    "id": 70,
     "tag": "P034_2",
     "en": "Let us give it more time.",
     "ko": "우리에게 시간을 좀 더 줍시다.",
@@ -672,7 +568,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 85,
+    "id": 71,
     "tag": "P034_3",
     "en": "If I go to Mr. Lorry’s at nine, shall I hear what you have done, either from our friend or from yourself?”",
     "ko": "제가 9시에 로리 씨 댁으로 가면, 우리 친구나 박사님을 통해 어떻게 되었는지 들을 수 있겠습니까?”",
@@ -680,7 +576,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 86,
+    "id": 72,
     "tag": "P035",
     "en": "“Yes.”",
     "ko": "“네.”",
@@ -688,7 +584,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 87,
+    "id": 73,
     "tag": "P036",
     "en": "“May you succeed!”",
     "ko": "“성공하시기를!”",
@@ -696,7 +592,7 @@
     "raw_ref_id": 92
   },
   {
-    "id": 88,
+    "id": 74,
     "tag": "P037_1",
     "en": "Mr. Lorry followed Sydney to the outer door, and, touching him on the shoulder as he was going away, caused him to turn.",
     "ko": "로리 씨는 바깥문까지 시드니를 따라가, 떠나려는 그의 어깨를 짚어 돌아서게 했다.",
@@ -704,7 +600,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 89,
+    "id": 75,
     "tag": "P038_1",
     "en": "“I have no hope,” said Mr. Lorry in a low, sorrowful whisper.",
     "ko": "“제겐 아무런 희망도 없습니다.” 로리 씨가 낮고 슬픈 목소리로 속삭였다.",
@@ -712,7 +608,7 @@
     "raw_ref_id": 95
   },
   {
-    "id": 90,
+    "id": 76,
     "tag": "P039",
     "en": "“Neither do I.”",
     "ko": "“나도 마찬가지입니다.”",
@@ -720,7 +616,7 @@
     "raw_ref_id": 97
   },
   {
-    "id": 91,
+    "id": 77,
     "tag": "P040",
     "en": "“Even if one of these men, or all of them, wanted to spare him, which is highly unlikely, for what is his life or any man's life to them!, I doubt they would dare to save him after that demonstration in the courtroom.”",
     "ko": "“이 사람들 중 한 명, 또는 그들 모두가 그를 살려주고 싶어 한다고 해도, 그들에게 그의 목숨이나 어떤 사람의 목숨이 무슨 의미가 있겠습니까마는, 법정에서의 그 시위 이후에 그들이 감히 그를 구하려 할지 의문입니다.”",
@@ -728,23 +624,15 @@
     "raw_ref_id": 98
   },
   {
-    "id": 92,
-    "tag": "P041_1",
-    "en": "“I agree.",
-    "ko": "“동의합니다.",
+    "id": 78,
+    "tag": "P041",
+    "en": "“I agree. I heard the sound of the Guillotine's blade falling in those cheers.”",
+    "ko": "“동의합니다. 나는 그 환호성 속에서 기요틴의 칼날이 떨어지는 소리를 들었습니다.”",
     "is_header": false,
     "raw_ref_id": 99
   },
   {
-    "id": 93,
-    "tag": "P041_2",
-    "en": "I heard the sound of the Guillotine's blade falling in those cheers.”",
-    "ko": "나는 그 환호성 속에서 기요틴의 칼날이 떨어지는 소리를 들었습니다.”",
-    "is_header": false,
-    "raw_ref_id": 100
-  },
-  {
-    "id": 94,
+    "id": 79,
     "tag": "P042_1",
     "en": "Mr. Lorry leaned his arm against the doorpost and rested his face on it.",
     "ko": "로리 씨는 문기둥에 팔을 기대고 그 위에 얼굴을 묻었다.",
@@ -752,7 +640,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 95,
+    "id": 80,
     "tag": "P043_1",
     "en": "“Don't lose hope,” Carton said very gently. “Don't grieve.",
     "ko": "“희망을 잃지 마십시오.” 카턴이 매우 부드럽게 말했다. “슬퍼하지 마십시오.",
@@ -760,7 +648,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 96,
+    "id": 81,
     "tag": "P043_2",
     "en": "I encouraged Doctor Manette to try because I felt it might one day bring her comfort.",
     "ko": "나는 마네트 박사에게 시도해보라고 권했습니다. 그것이 언젠가 그녀에게 위로가 될 수 있다고 느꼈기 때문입니다.",
@@ -768,7 +656,7 @@
     "raw_ref_id": 104
   },
   {
-    "id": 97,
+    "id": 82,
     "tag": "P043_3",
     "en": "Otherwise, she might always think his life was pointlessly thrown away or wasted, and that thought would torture her.”",
     "ko": "그렇지 않으면, 그녀는 항상 그의 삶이 무의미하게 버려지거나 낭비되었다고 생각할 수 있고, 그 생각은 그녀를 고문할 것입니다.”",
@@ -776,7 +664,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 98,
+    "id": 83,
     "tag": "P044_1",
     "en": "“Yes, yes, yes,” replied Mr. Lorry, wiping his eyes. “You are right.",
     "ko": "“그렇군요, 맞습니다, 맞아요.” 로리 씨는 눈물을 닦으며 대답했다. “자네 말이 맞아.",
@@ -784,7 +672,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 99,
+    "id": 84,
     "tag": "P044_3",
     "en": "But he will die; there is no real hope.”",
     "ko": "하지만 그는 죽을 것입니다; 진정한 희망은 없습니다.”",
@@ -792,23 +680,15 @@
     "raw_ref_id": 108
   },
   {
-    "id": 100,
-    "tag": "P045_1",
-    "en": "“Yes.",
-    "ko": "“네.",
+    "id": 85,
+    "tag": "P045",
+    "en": "“Yes. He will die; there is no real hope,” Carton repeated.",
+    "ko": "“네. 그는 죽을 것입니다; 진정한 희망은 없습니다.” 카턴이 반복했다.",
     "is_header": false,
     "raw_ref_id": 109
   },
   {
-    "id": 101,
-    "tag": "P045_2",
-    "en": "He will die; there is no real hope,” Carton repeated.",
-    "ko": "그는 죽을 것입니다; 진정한 희망은 없습니다.” 카턴이 반복했다.",
-    "is_header": false,
-    "raw_ref_id": 110
-  },
-  {
-    "id": 102,
+    "id": 86,
     "tag": "P046",
     "en": "And he walked with a steady, determined step downstairs.",
     "ko": "그리고 그는 확고하고 결연한 발걸음으로 계단을 내려갔다.",

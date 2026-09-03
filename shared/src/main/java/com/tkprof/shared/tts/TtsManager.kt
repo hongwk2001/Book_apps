@@ -35,6 +35,9 @@ class TtsManager(private val context: Context) {
         var englishPitch: Float = 1.0f
     var koreanPitch: Float = 1.0f
 
+    private var onCurrentUtteranceDone: (() -> Unit)? = null
+    private var onCurrentUtteranceError: (() -> Unit)? = null
+
     fun init() {
         tts = TextToSpeech(context) { status ->
             if (status == TextToSpeech.SUCCESS) {
@@ -44,6 +47,26 @@ class TtsManager(private val context: Context) {
                         .setContentType(android.media.AudioAttributes.CONTENT_TYPE_SPEECH)
                         .build()
                 )
+                tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+                    override fun onStart(id: String?) {
+                        _isSpeaking.value = true
+                    }
+                    override fun onDone(id: String?) {
+                        _isSpeaking.value = false
+                        val callback = onCurrentUtteranceDone
+                        onCurrentUtteranceDone = null
+                        onCurrentUtteranceError = null
+                        callback?.invoke()
+                    }
+                    @Deprecated("Deprecated in Java")
+                    override fun onError(id: String?) {
+                        _isSpeaking.value = false
+                        val callback = onCurrentUtteranceError
+                        onCurrentUtteranceDone = null
+                        onCurrentUtteranceError = null
+                        callback?.invoke()
+                    }
+                })
                 _isReady.value = true
                 loadVoices()
             }
@@ -61,40 +84,50 @@ class TtsManager(private val context: Context) {
             .filter { it.locale.language == "ko" }
             .sortedBy { it.name }
             
-                selectedEnglishVoice = englishVoices.value.firstOrNull()
+        selectedEnglishVoice = englishVoices.value.firstOrNull()
         selectedKoreanVoice  = koreanVoices.value.firstOrNull()
     }
 
-    fun speakEnglish(text: String, onDone: () -> Unit = {}) {
-        val engine = tts ?: return
+    fun speakEnglish(text: String, onDone: () -> Unit = {}, onError: () -> Unit = {}) {
+        val engine = tts ?: run {
+            onError()
+            return
+        }
         engine.setSpeechRate(englishSpeed)
         engine.setPitch(englishPitch)
         selectedEnglishVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.US)
         
+        onCurrentUtteranceDone = onDone
+        onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_en")
-        engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-            override fun onStart(id: String?) {}
-            override fun onDone(id: String?) { _isSpeaking.value = false; onDone() }
-            @Deprecated("Deprecated in Java")
-            override fun onError(id: String?) { _isSpeaking.value = false }
-        })
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_en_${System.currentTimeMillis()}")
+        if (result != TextToSpeech.SUCCESS) {
+            _isSpeaking.value = false
+            onCurrentUtteranceDone = null
+            onCurrentUtteranceError = null
+            onError()
+        }
     }
 
-    fun speakKorean(text: String, onDone: () -> Unit = {}) {
-        val engine = tts ?: return
+    fun speakKorean(text: String, onDone: () -> Unit = {}, onError: () -> Unit = {}) {
+        val engine = tts ?: run {
+            onError()
+            return
+        }
         engine.setSpeechRate(koreanSpeed)
         engine.setPitch(koreanPitch)
         selectedKoreanVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.KOREA)
         
+        onCurrentUtteranceDone = onDone
+        onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_ko")
-        engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-            override fun onStart(id: String?) {}
-            override fun onDone(id: String?) { _isSpeaking.value = false; onDone() }
-            @Deprecated("Deprecated in Java")
-            override fun onError(id: String?) { _isSpeaking.value = false }
-        })
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_ko_${System.currentTimeMillis()}")
+        if (result != TextToSpeech.SUCCESS) {
+            _isSpeaking.value = false
+            onCurrentUtteranceDone = null
+            onCurrentUtteranceError = null
+            onError()
+        }
     }
 
     fun speakSample(lang: Language, bookTitle: String) {
@@ -105,13 +138,19 @@ class TtsManager(private val context: Context) {
     }
 
     fun stop() {
+        onCurrentUtteranceDone = null
+        onCurrentUtteranceError = null
         tts?.stop()
         _isSpeaking.value = false
     }
 
     fun shutdown() {
+        onCurrentUtteranceDone = null
+        onCurrentUtteranceError = null
+        tts?.stop()
         tts?.shutdown()
         tts = null
         _isReady.value = false
+        _isSpeaking.value = false
     }
 }

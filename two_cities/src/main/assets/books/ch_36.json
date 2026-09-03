@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": 0,
     "tag": "P001",
     "en": "[Chapter 6] Triumph",
     "ko": "",
@@ -8,7 +8,7 @@
     "raw_ref_id": 1
   },
   {
-    "id": 2,
+    "id": 1,
     "tag": "P002_1",
     "en": "The terrible court of five judges, a public prosecutor, and a determined jury met every day.",
     "ko": "다섯 명의 판사, 한 명의 검사, 그리고 단호한 배심원들로 구성된 이 끔찍한 법정은 매일 열렸다.",
@@ -16,7 +16,7 @@
     "raw_ref_id": 2
   },
   {
-    "id": 3,
+    "id": 2,
     "tag": "P002_2",
     "en": "Their list of the condemned went out every evening, read aloud by the jailers to the prisoners in each jail.",
     "ko": "사형수 명단은 매일 저녁 발표되었고, 각 감옥의 간수들이 죄수들에게 큰 소리로 읽어주었다.",
@@ -24,7 +24,7 @@
     "raw_ref_id": 3
   },
   {
-    "id": 4,
+    "id": 3,
     "tag": "P002_3",
     "en": "The jailers' favorite joke was, “Come out and listen to the Evening Paper, you guys inside!”",
     "ko": "간수들이 가장 좋아하는 농담은 '안에 있는 녀석들아, 나와서 저녁 신문을 들어라!'였다.",
@@ -32,7 +32,7 @@
     "raw_ref_id": 4
   },
   {
-    "id": 5,
+    "id": 4,
     "tag": "P003",
     "en": "“Charles Evremonde, called Darnay!”",
     "ko": "'다네이라고 불리는 샤를 에브레몽드!'",
@@ -40,7 +40,7 @@
     "raw_ref_id": 5
   },
   {
-    "id": 6,
+    "id": 5,
     "tag": "P004",
     "en": "So at last began the reading of the list at La Force prison.",
     "ko": "마침내 라포르스 감옥에서 명단 낭독이 시작되었다.",
@@ -48,7 +48,7 @@
     "raw_ref_id": 6
   },
   {
-    "id": 7,
+    "id": 6,
     "tag": "P005_1",
     "en": "When a name was called, the prisoner stepped aside into an area reserved for those marked for death.",
     "ko": "이름이 불리면, 그 죄수는 죽음이 예정된 자들을 위해 마련된 구역으로 물러났다.",
@@ -56,7 +56,7 @@
     "raw_ref_id": 7
   },
   {
-    "id": 8,
+    "id": 7,
     "tag": "P005_2",
     "en": "Charles Darnay knew the routine well; he had seen hundreds of prisoners go this way.",
     "ko": "샤를 다네이는 이 절차를 잘 알고 있었다. 그는 수백 명의 죄수들이 이런 식으로 떠나는 것을 보아왔다.",
@@ -64,7 +64,7 @@
     "raw_ref_id": 8
   },
   {
-    "id": 9,
+    "id": 8,
     "tag": "P006_1",
     "en": "His bloated jailer, wearing glasses to read, looked over them to make sure Darnay had stepped aside, and then continued through the list, pausing briefly at each name.",
     "ko": "그의 뚱뚱한 간수는 글을 읽기 위해 안경을 쓰고 있었는데, 안경 너머로 다네이가 옆으로 물러났는지 확인한 후, 각 이름마다 잠시 멈추면서 계속해서 명단을 읽어 내려갔다.",
@@ -72,7 +72,7 @@
     "raw_ref_id": 9
   },
   {
-    "id": 10,
+    "id": 9,
     "tag": "P006_2",
     "en": "There were twenty-three names, but only twenty people answered. One of the summoned prisoners had already died in jail and been forgotten, and two had already been executed and forgotten.",
     "ko": "명단에는 스물세 개의 이름이 있었지만, 스무 명만이 대답했다. 소환된 죄수 중 한 명은 이미 감옥에서 죽어 잊혀졌고, 두 명은 이미 처형되어 잊혀진 상태였다.",
@@ -80,7 +80,7 @@
     "raw_ref_id": 10
   },
   {
-    "id": 11,
+    "id": 10,
     "tag": "P006_3",
     "en": "The list was read in the same arched room where Darnay had seen the polite crowd on his first night.",
     "ko": "명단은 다네이가 첫날 밤 예의 바른 군중을 보았던 바로 그 아치형 방에서 낭독되었다.",
@@ -88,7 +88,7 @@
     "raw_ref_id": 11
   },
   {
-    "id": 12,
+    "id": 11,
     "tag": "P006_4",
     "en": "Every single person from that crowd had died in the massacre, and everyone he had met since then had been executed.",
     "ko": "그 군중 속에 있던 모든 사람은 대학살에서 죽었고, 그 이후로 그가 만난 모든 사람들은 처형되었다.",
@@ -96,7 +96,7 @@
     "raw_ref_id": 12
   },
   {
-    "id": 13,
+    "id": 12,
     "tag": "P007_1",
     "en": "There were quick goodbyes and kind words, but the parting was over fast.",
     "ko": "짧은 작별 인사와 다정한 말들이 오갔지만, 헤어짐은 순식간에 끝났다.",
@@ -104,7 +104,7 @@
     "raw_ref_id": 13
   },
   {
-    "id": 14,
+    "id": 13,
     "tag": "P007_2",
     "en": "It was an everyday event, and the prisoners of La Force were busy planning games and a small concert for that evening.",
     "ko": "그것은 매일 일어나는 일이었고, 라포르스의 죄수들은 그날 저녁을 위한 게임과 작은 음악회를 계획하느라 바빴다.",
@@ -112,7 +112,7 @@
     "raw_ref_id": 14
   },
   {
-    "id": 15,
+    "id": 14,
     "tag": "P007_3",
     "en": "The prisoners crowded to the bars and cried, but twenty spots in the evening's planned entertainment had to be filled again, and there was very little time left before lockdown, when the common rooms and hallways would be handed over to the huge dogs that kept watch there all night.",
     "ko": "죄수들은 창살로 몰려들어 울었지만, 그날 저녁 예정된 오락 프로그램의 스무 자리를 다시 채워야 했고, 밤새도록 그곳을 지킬 커다란 개들에게 휴게실과 복도를 넘겨줘야 하는 점호 시간까지는 남은 시간이 거의 없었다.",
@@ -120,7 +120,7 @@
     "raw_ref_id": 15
   },
   {
-    "id": 16,
+    "id": 15,
     "tag": "P007_4",
     "en": "Time was short before lockup, when the rooms and halls would be guarded by the large guard dogs for the night.",
     "ko": "밤이 되어 방과 복도를 커다란 경비견들이 지키게 될 점호 시간까지 시간이 촉박했다.",
@@ -128,7 +128,7 @@
     "raw_ref_id": 16
   },
   {
-    "id": 17,
+    "id": 16,
     "tag": "P007_5",
     "en": "In a similar way, though slightly different, there was a kind of intense passion or frenzy—which is actually known to have caused some people to unnecessarily face the guillotine and die by it—that wasn't just showing off, but a wild sickness spreading through the deeply disturbed public mind.",
     "ko": "조금 다르기는 하지만 비슷한 방식으로, 단순한 허세가 아니라 깊이 병든 대중의 마음속에 퍼져나가는 일종의 맹렬한 열정이나 광기가 있었다. 그것은 실제로 일부 사람들이 불필요하게 단두대에 맞서 죽게 만든 것으로 알려져 있다.",
@@ -136,7 +136,7 @@
     "raw_ref_id": 17
   },
   {
-    "id": 18,
+    "id": 17,
     "tag": "P007_6",
     "en": "Indeed, a strange urge to face the Guillotine unnecessarily and die had infected many people, not out of boasting, but as a mental illness spreading through the population.",
     "ko": "실제로, 불필요하게 단두대에 맞서 죽으려는 이상한 충동이 허세가 아니라 사람들 사이에 퍼지는 정신 질환처럼 많은 이들을 감염시켰다.",
@@ -144,7 +144,7 @@
     "raw_ref_id": 18
   },
   {
-    "id": 19,
+    "id": 18,
     "tag": "P007_7",
     "en": "In times of plague, some people feel a weird urge to get sick, and all of us have hidden instincts that only appear in extreme circumstances.",
     "ko": "전염병이 도는 시기에 어떤 사람들은 병에 걸리고 싶은 이상한 충동을 느끼며, 우리 모두에게는 극단적인 상황에서만 나타나는 숨겨진 본능이 있다.",
@@ -152,7 +152,7 @@
     "raw_ref_id": 19
   },
   {
-    "id": 20,
+    "id": 19,
     "tag": "P008_1",
     "en": "The trip to the Conciergerie prison was short and dark, and the night spent in its dirty cells was long and cold.",
     "ko": "콩시에르주리 감옥으로 가는 길은 짧고 어두웠으며, 그곳의 더러운 감방에서 보내는 밤은 길고 추웠다.",
@@ -160,7 +160,7 @@
     "raw_ref_id": 20
   },
   {
-    "id": 21,
+    "id": 20,
     "tag": "P008_2",
     "en": "The next day, fifteen prisoners were tried before Darnay's name was called.",
     "ko": "다음 날, 다네이의 이름이 불리기 전에 열다섯 명의 죄수들이 재판을 받았다.",
@@ -168,7 +168,7 @@
     "raw_ref_id": 21
   },
   {
-    "id": 22,
+    "id": 21,
     "tag": "P008_3",
     "en": "All fifteen were condemned to death, and their trials took only an hour and a half in total.",
     "ko": "열다섯 명 모두 사형 선고를 받았고, 그들의 재판은 총 한 시간 반밖에 걸리지 않았다.",
@@ -176,7 +176,7 @@
     "raw_ref_id": 22
   },
   {
-    "id": 23,
+    "id": 22,
     "tag": "P009",
     "en": "“Charles Evremonde, called Darnay,” was finally called to the front.",
     "ko": "마침내 '다네이라고 불리는 샤를 에브레몽드'가 앞으로 불려 나갔다.",
@@ -184,7 +184,7 @@
     "raw_ref_id": 23
   },
   {
-    "id": 24,
+    "id": 23,
     "tag": "P010_1",
     "en": "His judges sat on the bench wearing feathered hats, while almost everyone else in the room wore red caps and tri-color ribbons.",
     "ko": "그의 판사들은 깃털 장식이 달린 모자를 쓰고 벤치에 앉아 있었고, 방 안에 있는 거의 모든 사람들은 빨간 모자를 쓰고 삼색 리본을 달고 있었다.",
@@ -192,7 +192,7 @@
     "raw_ref_id": 24
   },
   {
-    "id": 25,
+    "id": 24,
     "tag": "P010_2",
     "en": "Looking at the jury and the noisy crowd, one might have thought that criminals were putting honest men on trial.",
     "ko": "배심원단과 시끄러운 군중을 보고 있자면, 범죄자들이 정직한 사람들을 재판하고 있다고 생각할 수도 있었다.",
@@ -200,7 +200,7 @@
     "raw_ref_id": 25
   },
   {
-    "id": 26,
+    "id": 25,
     "tag": "P010_3",
     "en": "The poorest and cruelest people in the city ruled the courtroom, shouting comments, cheering, booing, and deciding the verdicts without any control.",
     "ko": "도시에서 가장 가난하고 잔인한 사람들이 법정을 지배하며, 통제 없이 소리치고, 환호하고, 야유하며 판결을 결정했다.",
@@ -208,7 +208,7 @@
     "raw_ref_id": 26
   },
   {
-    "id": 27,
+    "id": 26,
     "tag": "P010_4",
     "en": "Most of the men were armed, and some of the women carried knives or daggers, eating and drinking while they watched, and many knitted.",
     "ko": "대부분의 남자들은 무장하고 있었고, 일부 여자들은 칼이나 단검을 지니고 구경하면서 먹고 마셨으며, 많은 사람들이 뜨개질을 했다.",
@@ -216,7 +216,7 @@
     "raw_ref_id": 27
   },
   {
-    "id": 28,
+    "id": 27,
     "tag": "P010_5",
     "en": "Among the knitters was one woman sitting in the front row with a spare piece of knitting under her arm.",
     "ko": "뜨개질하는 사람들 중에는 맨 앞줄에 앉아 여분의 뜨개질감을 팔 아래에 끼고 있는 한 여자가 있었다.",
@@ -224,7 +224,7 @@
     "raw_ref_id": 28
   },
   {
-    "id": 29,
+    "id": 28,
     "tag": "P010_6",
     "en": "She sat next to a man Darnay had not seen since the city gates, but whom he immediately recognized as Defarge.",
     "ko": "그녀는 다네이가 성문에서 본 이후로 보지 못했지만 즉시 드파르지라고 알아본 남자 옆에 앉아 있었다.",
@@ -232,7 +232,7 @@
     "raw_ref_id": 29
   },
   {
-    "id": 30,
+    "id": 29,
     "tag": "P010_7",
     "en": "He noticed that she whispered to him once or twice and seemed to be his wife. But what he noticed most was that, even though they sat very close to him, they never looked at him.",
     "ko": "그는 그녀가 그에게 한두 번 속삭이는 것을 보았고 그녀가 그의 아내인 것 같다고 생각했다. 하지만 그가 가장 크게 알아차린 것은, 그들이 그와 아주 가까이 앉아 있었음에도 불구하고 절대 그를 쳐다보지 않는다는 점이었다.",
@@ -240,7 +240,7 @@
     "raw_ref_id": 30
   },
   {
-    "id": 31,
+    "id": 30,
     "tag": "P010_8",
     "en": "They seemed to be waiting for something with stubborn determination, staring only at the jury.",
     "ko": "그들은 오직 배심원단만을 응시하며 고집스러운 결의를 품고 무언가를 기다리고 있는 것 같았다.",
@@ -248,7 +248,7 @@
     "raw_ref_id": 31
   },
   {
-    "id": 32,
+    "id": 31,
     "tag": "P010_9",
     "en": "Below the president of the court sat Doctor Manette in his usual quiet clothes.",
     "ko": "법원장 아래에는 평소와 같은 수수한 옷차림을 한 마네트 박사가 앉아 있었다.",
@@ -256,7 +256,7 @@
     "raw_ref_id": 32
   },
   {
-    "id": 33,
+    "id": 32,
     "tag": "P010_10",
     "en": "As well as the prisoner could see, he and Mr. Lorry were the only men there, unconnected with the Tribunal, who wore their usual clothes, and had not assumed the coarse garb of the Carmagnole.",
     "ko": "죄수가 보기에, 혁명재판소와 무관한 사람들 중 평상복을 입고 거친 카르마뇰 복장을 걸치지 않은 사람은 자신과 로리 씨뿐이었다.",
@@ -264,7 +264,7 @@
     "raw_ref_id": 33
   },
   {
-    "id": 34,
+    "id": 33,
     "tag": "P011_1",
     "en": "Charles Darnay was accused of being an emigrant whose life belonged to the Republic under the law that banished all exiles under penalty of death.",
     "ko": "샤를 다네이는 모든 망명자를 사형에 처한다는 법에 따라 그 목숨이 공화국에 귀속되는 망명자라는 혐의를 받았다.",
@@ -272,7 +272,7 @@
     "raw_ref_id": 35
   },
   {
-    "id": 35,
+    "id": 34,
     "tag": "P011_2",
     "en": "It did not matter that the law was passed after he had already returned to France.",
     "ko": "그가 이미 프랑스로 돌아온 후에 그 법이 통과되었다는 사실은 중요하지 않았다.",
@@ -280,7 +280,7 @@
     "raw_ref_id": 36
   },
   {
-    "id": 36,
+    "id": 35,
     "tag": "P011_3",
     "en": "He was there, the law was there, he had been captured in France, and they demanded his execution.",
     "ko": "그가 그곳에 있었고, 법이 존재했으며, 그가 프랑스에서 잡혔기 때문에, 그들은 그의 처형을 요구했다.",
@@ -288,7 +288,7 @@
     "raw_ref_id": 37
   },
   {
-    "id": 37,
+    "id": 36,
     "tag": "P012",
     "en": "“Cut off his head!” cried the audience. “He is an enemy of the Republic!”",
     "ko": "군중은 '그의 목을 쳐라! 그는 공화국의 적이다!'라고 외쳤다.",
@@ -296,7 +296,7 @@
     "raw_ref_id": 38
   },
   {
-    "id": 38,
+    "id": 37,
     "tag": "P013",
     "en": "The president rang his bell to quiet the crowd and asked the prisoner if it was true that he had lived for many years in England.",
     "ko": "법원장은 종을 울려 군중을 조용히 시키고 죄수에게 영국에서 수년 동안 살았던 것이 사실인지 물었다.",
@@ -304,7 +304,7 @@
     "raw_ref_id": 39
   },
   {
-    "id": 39,
+    "id": 38,
     "tag": "P014",
     "en": "Yes, it was true.",
     "ko": "네, 사실입니다.",
@@ -312,7 +312,7 @@
     "raw_ref_id": 40
   },
   {
-    "id": 40,
+    "id": 39,
     "tag": "P015_1",
     "en": "Was he not an emigrant then?",
     "ko": "그렇다면 당신은 망명자가 아닌가요?",
@@ -320,7 +320,7 @@
     "raw_ref_id": 41
   },
   {
-    "id": 41,
+    "id": 40,
     "tag": "P015_2",
     "en": "What did he call himself?",
     "ko": "스스로를 무엇이라고 부릅니까?",
@@ -328,7 +328,7 @@
     "raw_ref_id": 42
   },
   {
-    "id": 42,
+    "id": 41,
     "tag": "P016",
     "en": "Not an emigrant, he hoped, according to the spirit of the law.",
     "ko": "법의 정신에 따르면, 망명자가 아니기를 바란다고 그는 대답했다.",
@@ -336,7 +336,7 @@
     "raw_ref_id": 43
   },
   {
-    "id": 43,
+    "id": 42,
     "tag": "P017",
     "en": "Why not? the president asked.",
     "ko": "왜 아니라는 거지? 하고 법원장이 물었다.",
@@ -344,7 +344,7 @@
     "raw_ref_id": 44
   },
   {
-    "id": 44,
+    "id": 43,
     "tag": "P018",
     "en": "Because he had voluntarily given up a title and a position that he hated, leaving his country long before the word \"emigrant\" was used in this way, to live by his own hard work in England rather than off the labor of the heavily taxed people of France.",
     "ko": "왜냐하면 그는 무거운 세금에 시달리는 프랑스 국민들의 노동에 기대어 살기보다는, 영국에서 스스로 열심히 일하며 살기 위해 '망명자'라는 단어가 이런 식으로 사용되기 훨씬 전에 자신이 싫어했던 작위와 지위를 자발적으로 포기하고 조국을 떠났기 때문이었다.",
@@ -352,7 +352,7 @@
     "raw_ref_id": 45
   },
   {
-    "id": 45,
+    "id": 44,
     "tag": "P019",
     "en": "What proof did he have of this?",
     "ko": "이것을 증명할 증거가 있나?",
@@ -360,7 +360,7 @@
     "raw_ref_id": 46
   },
   {
-    "id": 46,
+    "id": 45,
     "tag": "P020",
     "en": "He gave the names of two witnesses: Theophile Gabelle and Alexandre Manette.",
     "ko": "그는 두 명의 증인 이름을 댔다. 테오필 가벨과 알렉상드르 마네트였다.",
@@ -368,7 +368,7 @@
     "raw_ref_id": 47
   },
   {
-    "id": 47,
+    "id": 46,
     "tag": "P021",
     "en": "But he had married in England, the president reminded him.",
     "ko": "하지만 당신은 영국에서 결혼했소, 라고 법원장이 상기시켰다.",
@@ -376,7 +376,7 @@
     "raw_ref_id": 48
   },
   {
-    "id": 48,
+    "id": 47,
     "tag": "P022",
     "en": "Yes, but not an English woman.",
     "ko": "네, 하지만 영국 여자와 한 것은 아닙니다.",
@@ -384,7 +384,7 @@
     "raw_ref_id": 49
   },
   {
-    "id": 49,
+    "id": 48,
     "tag": "P023",
     "en": "A citizeness of France?",
     "ko": "프랑스 여성 시민인가요?",
@@ -392,7 +392,7 @@
     "raw_ref_id": 50
   },
   {
-    "id": 50,
+    "id": 49,
     "tag": "P024",
     "en": "Yes, by birth.",
     "ko": "네, 태생적으로 그렇습니다.",
@@ -400,7 +400,7 @@
     "raw_ref_id": 51
   },
   {
-    "id": 51,
+    "id": 50,
     "tag": "P025",
     "en": "What was her name and family?",
     "ko": "그녀의 이름과 가문은 무엇인가요?",
@@ -408,7 +408,7 @@
     "raw_ref_id": 52
   },
   {
-    "id": 52,
+    "id": 51,
     "tag": "P026",
     "en": "“Lucie Manette, the only daughter of Doctor Manette, the good physician sitting right there.”",
     "ko": "'바로 저기에 앉아 계신 훌륭한 의사 마네트 박사님의 외동딸 루시 마네트입니다.'",
@@ -416,7 +416,7 @@
     "raw_ref_id": 53
   },
   {
-    "id": 53,
+    "id": 52,
     "tag": "P027_1",
     "en": "This answer had a great effect on the crowd.",
     "ko": "이 대답은 군중에게 큰 영향을 미쳤다.",
@@ -424,7 +424,7 @@
     "raw_ref_id": 54
   },
   {
-    "id": 54,
+    "id": 53,
     "tag": "P027_2",
     "en": "Shouts praising the well-known doctor filled the hall.",
     "ko": "유명한 박사를 찬양하는 외침이 홀을 가득 채웠다.",
@@ -432,7 +432,7 @@
     "raw_ref_id": 55
   },
   {
-    "id": 55,
+    "id": 54,
     "tag": "P027_3",
     "en": "The crowd was so unpredictable that tears rolled down the faces of several fierce-looking people who, just a moment before, had been glaring at the prisoner as if they wanted to drag him outside and kill him.",
     "ko": "군중은 너무나 예측할 수 없어서, 불과 잠시 전까지만 해도 죄수를 밖으로 끌고 나가 죽일 듯이 노려보던 사나운 인상의 여러 사람들 얼굴에 눈물이 흘러내렸다.",
@@ -440,7 +440,7 @@
     "raw_ref_id": 56
   },
   {
-    "id": 56,
+    "id": 55,
     "tag": "P028_1",
     "en": "During these first steps of his trial, Charles Darnay followed Doctor Manette's exact instructions.",
     "ko": "재판의 이 첫 단계 동안, 샤를 다네이는 마네트 박사의 정확한 지시를 따랐다.",
@@ -448,7 +448,7 @@
     "raw_ref_id": 57
   },
   {
-    "id": 57,
+    "id": 56,
     "tag": "P028_2",
     "en": "The same careful plan guided every step that lay ahead of him, prepared in advance.",
     "ko": "사전에 준비된 똑같이 신중한 계획이 그의 앞에 놓인 모든 단계를 이끌었다.",
@@ -456,7 +456,7 @@
     "raw_ref_id": 58
   },
   {
-    "id": 58,
+    "id": 57,
     "tag": "P029",
     "en": "The president asked why he had returned to France when he did, and not earlier.",
     "ko": "법원장은 왜 더 일찍 오지 않고 하필 그때 프랑스로 돌아왔는지 물었다.",
@@ -464,7 +464,7 @@
     "raw_ref_id": 59
   },
   {
-    "id": 59,
+    "id": 58,
     "tag": "P030_1",
     "en": "He replied that he had not returned sooner because he had no way of making a living in France other than the wealth he had given up, whereas in England he earned his living by teaching French.",
     "ko": "그는 자기가 포기한 재산 외에는 프랑스에서 생계를 유지할 방법이 없었기 때문에 더 일찍 돌아오지 않았으며, 반면에 영국에서는 프랑스어를 가르치며 생계를 꾸렸다고 대답했다.",
@@ -472,7 +472,7 @@
     "raw_ref_id": 60
   },
   {
-    "id": 60,
+    "id": 59,
     "tag": "P030_2",
     "en": "He returned when he did because of the urgent letter from a French citizen who said his life was in danger because of Darnay's absence.",
     "ko": "그가 그때 돌아온 것은 다네이의 부재로 인해 자신의 목숨이 위험에 처해 있다고 말하는 한 프랑스 시민의 다급한 편지 때문이었다.",
@@ -480,7 +480,7 @@
     "raw_ref_id": 61
   },
   {
-    "id": 61,
+    "id": 60,
     "tag": "P030_3",
     "en": "He had come back to save a citizen's life and tell the truth, risking his own safety.",
     "ko": "그는 자신의 안전을 위험에 빠뜨리면서 시민의 목숨을 구하고 진실을 말하기 위해 돌아왔던 것이다.",
@@ -488,7 +488,7 @@
     "raw_ref_id": 62
   },
   {
-    "id": 62,
+    "id": 61,
     "tag": "P030_4",
     "en": "Was that a crime in the eyes of the Republic?",
     "ko": "그것이 공화국의 눈에는 범죄인가요?",
@@ -496,7 +496,7 @@
     "raw_ref_id": 63
   },
   {
-    "id": 63,
+    "id": 62,
     "tag": "P031_1",
     "en": "The crowd shouted enthusiastically, “No!” and the president rang his bell to quiet them.",
     "ko": "군중은 열광적으로 '아니오!'라고 소리쳤고, 법원장은 그들을 조용히 시키기 위해 종을 울렸다.",
@@ -504,7 +504,7 @@
     "raw_ref_id": 64
   },
   {
-    "id": 64,
+    "id": 63,
     "tag": "P031_2",
     "en": "It didn't work, as they kept shouting “No!” until they decided to stop on their own.",
     "ko": "그들이 스스로 멈추기로 결정할 때까지 계속해서 '아니오!'라고 소리쳤기 때문에 그것은 소용이 없었다.",
@@ -512,7 +512,7 @@
     "raw_ref_id": 65
   },
   {
-    "id": 65,
+    "id": 64,
     "tag": "P032_1",
     "en": "The president asked for the name of that citizen.",
     "ko": "법원장은 그 시민의 이름을 물었다.",
@@ -520,7 +520,7 @@
     "raw_ref_id": 66
   },
   {
-    "id": 66,
+    "id": 65,
     "tag": "P032_2",
     "en": "Darnay explained that the citizen was Gabelle, his first witness.",
     "ko": "다네이는 그 시민이 자신의 첫 번째 증인인 가벨이라고 설명했다.",
@@ -528,7 +528,7 @@
     "raw_ref_id": 67
   },
   {
-    "id": 67,
+    "id": 66,
     "tag": "P032_3",
     "en": "He also pointed to Gabelle's letter, which had been taken from him at the gates but was surely among the papers on the president's desk.",
     "ko": "그는 또한 성문에서 압수당했지만 법원장의 책상 위에 있는 서류들 사이에 분명히 있을 가벨의 편지를 가리켰다.",
@@ -536,7 +536,7 @@
     "raw_ref_id": 68
   },
   {
-    "id": 68,
+    "id": 67,
     "tag": "P033_1",
     "en": "The Doctor had made sure the letter was there. At this point, it was produced and read aloud.",
     "ko": "박사는 그 편지가 거기에 있는지 확인했었다. 이 시점에서 편지가 제시되었고 큰 소리로 낭독되었다.",
@@ -544,7 +544,7 @@
     "raw_ref_id": 69
   },
   {
-    "id": 69,
+    "id": 68,
     "tag": "P033_2",
     "en": "Gabelle was called to confirm it, and did so.",
     "ko": "가벨이 그것을 확인하기 위해 불려 나왔고, 그렇게 했다.",
@@ -552,7 +552,7 @@
     "raw_ref_id": 70
   },
   {
-    "id": 70,
+    "id": 69,
     "tag": "P033_3",
     "en": "Gabelle politely mentioned that because the court was so busy dealing with so many enemies of the Republic, he had been slightly forgotten in the Abbaye Prison until three days ago, when he was finally released after the jury decided that his charges were answered by the arrival of Citizen Darnay.",
     "ko": "가벨은 법정이 공화국의 너무 많은 적들을 처리하느라 바빠서 삼 일 전까지 아베이 감옥에서 자신이 약간 잊혀져 있었으나, 다네이 시민의 도착으로 그의 혐의가 해소되었다고 배심원단이 결정한 후 마침내 풀려났다고 정중하게 언급했다.",
@@ -560,7 +560,7 @@
     "raw_ref_id": 71
   },
   {
-    "id": 71,
+    "id": 70,
     "tag": "P034_1",
     "en": "Doctor Manette was questioned next.",
     "ko": "다음으로 마네트 박사가 심문을 받았다.",
@@ -568,7 +568,7 @@
     "raw_ref_id": 72
   },
   {
-    "id": 72,
+    "id": 71,
     "tag": "P034_2",
     "en": "His great popularity and clear answers made a strong impression. He explained that Charles was his first friend after being released from the Bastille, and that Charles had stayed in England to care for him and Lucie in their exile.",
     "ko": "그의 큰 인기와 명확한 답변은 강한 인상을 남겼다. 그는 바스티유 감옥에서 풀려난 후 샤를이 그의 첫 번째 친구였으며, 샤를이 그와 루시가 망명 생활을 할 때 돌보기 위해 영국에 머물렀다고 설명했다.",
@@ -576,7 +576,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 73,
+    "id": 72,
     "tag": "P034_3",
     "en": "He also revealed that, far from being favored by the English government, Charles had actually been tried for his life in London for being a friend to the United States and an enemy to England.",
     "ko": "그는 또한 샤를이 영국 정부의 총애를 받기는커녕, 미국에 우호적이고 영국의 적이라는 이유로 런던에서 생사가 걸린 재판을 받았다는 사실을 밝혔다.",
@@ -584,7 +584,7 @@
     "raw_ref_id": 73
   },
   {
-    "id": 74,
+    "id": 73,
     "tag": "P034_3",
     "en": "As he explained these facts clearly and honestly, the jury and the crowd were completely won over. Finally, when he called on Mr. Lorry to confirm the details of the English trial, the jury declared they had heard enough and were ready to vote.",
     "ko": "그가 이러한 사실들을 명확하고 정직하게 설명하자 배심원단과 군중은 완전히 마음을 빼앗겼다. 마지막으로 영국 재판의 세부 사항을 확인하기 위해 로리 씨를 불렀을 때, 배심원단은 충분히 들었고 투표할 준비가 되었다고 선언했다.",
@@ -592,7 +592,7 @@
     "raw_ref_id": 74
   },
   {
-    "id": 75,
+    "id": 74,
     "tag": "P035_1",
     "en": "With every single vote—since the jury members voted out loud and one by one—the crowd erupted into a loud cheer.",
     "ko": "배심원들이 한 명씩 큰 소리로 투표를 했기 때문에, 모든 투표가 나올 때마다 군중은 큰 환호성을 터뜨렸다.",
@@ -600,7 +600,7 @@
     "raw_ref_id": 75
   },
   {
-    "id": 76,
+    "id": 75,
     "tag": "P035_2",
     "en": "Every vote was in the prisoner's favor, and the president declared him free.",
     "ko": "모든 투표가 죄수에게 유리하게 나왔고, 법원장은 그가 자유의 몸이 되었음을 선언했다.",
@@ -608,7 +608,7 @@
     "raw_ref_id": 76
   },
   {
-    "id": 77,
+    "id": 76,
     "tag": "P036_1",
     "en": "Then began one of those wild scenes where the crowd showed their unpredictable generosity and mercy. It was probably a mix of emotions.",
     "ko": "그 후 군중이 예측할 수 없는 관대함과 자비를 보여주는 광란의 장면 중 하나가 시작되었다. 아마도 여러 감정이 뒤섞인 것이었을 것이다.",
@@ -616,7 +616,7 @@
     "raw_ref_id": 77
   },
   {
-    "id": 78,
+    "id": 77,
     "tag": "P036_2",
     "en": "As soon as the acquittal was announced, tears flowed as freely as blood had on other days.",
     "ko": "무죄 판결이 발표되자마자 다른 날들에 피가 흘렀던 것만큼이나 눈물이 쏟아졌다.",
@@ -624,7 +624,7 @@
     "raw_ref_id": 78
   },
   {
-    "id": 79,
+    "id": 78,
     "tag": "P036_3",
     "en": "Men and women rushed to hug Darnay, nearly causing him to faint from exhaustion after his long imprisonment. He was well aware that these same people, under a different mood, would have rushed at him just as eagerly to tear him to pieces in the streets.",
     "ko": "남녀가 달려들어 다네이를 껴안았고, 그는 오랜 수감 생활 후 피로로 거의 기절할 뻔했다. 그는 이 똑같은 사람들이 다른 기분이었다면 길거리에서 그를 갈기갈기 찢기 위해 똑같이 열정적으로 달려들었을 것임을 잘 알고 있었다.",
@@ -632,7 +632,7 @@
     "raw_ref_id": 79
   },
   {
-    "id": 80,
+    "id": 79,
     "tag": "P037_1",
     "en": "He was led away to make room for other prisoners, saving him from the crowd for a moment.",
     "ko": "그는 다른 죄수들을 위해 공간을 마련하려 이끌려 나갔고, 잠시나마 군중으로부터 벗어날 수 있었다.",
@@ -640,7 +640,7 @@
     "raw_ref_id": 80
   },
   {
-    "id": 81,
+    "id": 80,
     "tag": "P037_2",
     "en": "Five prisoners were to be tried next, accused of being enemies of the Republic because they had not active helped it.",
     "ko": "다음으로 공화국을 적극적으로 돕지 않았다는 이유로 공화국의 적이라는 혐의를 받은 다섯 명의 죄수들이 재판을 받을 예정이었다.",
@@ -648,7 +648,7 @@
     "raw_ref_id": 81
   },
   {
-    "id": 82,
+    "id": 81,
     "tag": "P037_3",
     "en": "The court worked so quickly to make up for freeing Darnay that these five were condemned to die within twenty-four hours before Darnay even left the building.",
     "ko": "법정은 다네이를 석방한 것을 만회하려는 듯 너무나 빨리 재판을 진행해서, 다네이가 건물을 떠나기도 전에 이 다섯 명은 이십사 시간 이내에 처형될 운명에 처했다.",
@@ -656,7 +656,7 @@
     "raw_ref_id": 82
   },
   {
-    "id": 83,
+    "id": 82,
     "tag": "P037_4",
     "en": "The first one told Darnay the news with the usual prison sign of death, a raised finger, and they all said, “Long live the Republic!”",
     "ko": "첫 번째 죄수는 평소 감옥에서 죽음을 의미하는 손가락을 치켜세우는 신호로 다네이에게 이 소식을 전했고, 그들은 모두 '공화국 만세!'라고 말했다.",
@@ -664,7 +664,7 @@
     "raw_ref_id": 83
   },
   {
-    "id": 84,
+    "id": 83,
     "tag": "P038_1",
     "en": "The five prisoners had no audience to watch their trial, because when Darnay and Doctor Manette walked out the gates, the entire courtroom crowd was outside waiting.",
     "ko": "다섯 명의 죄수들은 그들의 재판을 지켜볼 관중이 없었는데, 다네이와 마네트 박사가 성문 밖으로 걸어 나갔을 때 법정 전체 군중이 밖에서 기다리고 있었기 때문이다.",
@@ -672,7 +672,7 @@
     "raw_ref_id": 84
   },
   {
-    "id": 85,
+    "id": 84,
     "tag": "P038_2",
     "en": "Only two faces were missing, whom Darnay looked for in vain. As he came out, the crowd rushed him again, crying, hugging, and shouting, until the scene by the riverbank seemed completely wild.",
     "ko": "오직 두 사람의 얼굴만이 보이지 않았고, 다네이는 헛되이 그들을 찾았다. 그가 나오자 군중은 울고, 껴안고, 소리치며 다시 그에게 몰려들었고, 강변의 풍경은 완전히 광란의 도가니가 된 듯했다.",
@@ -680,7 +680,7 @@
     "raw_ref_id": 85
   },
   {
-    "id": 86,
+    "id": 85,
     "tag": "P039_1",
     "en": "The crowd sat him in a huge chair they had brought with them, which they had grabbed either directly from the courtroom itself, or from one of its side rooms or hallways.",
     "ko": "군중은 법정 그 자체나 법정의 곁방 또는 복도 중 한 곳에서 가져온 커다란 의자에 그를 앉혔다.",
@@ -688,7 +688,7 @@
     "raw_ref_id": 86
   },
   {
-    "id": 87,
+    "id": 86,
     "tag": "P039_2",
     "en": "They threw a red flag over the chair and tied a spear with a red cap to the back of it.",
     "ko": "그들은 의자 위로 붉은 깃발을 던지고 등받이에 빨간 모자가 달린 창을 묶었다.",
@@ -696,7 +696,7 @@
     "raw_ref_id": 87
   },
   {
-    "id": 88,
+    "id": 87,
     "tag": "P039_3",
     "en": "In this triumphal seat, despite the Doctor's objections, he was carried home on men's shoulders. Surrounded by a sea of red caps and wild faces, Darnay felt so confused that he feared he was actually in a cart on his way to the Guillotine.",
     "ko": "이 승리의 자리에서 박사의 만류에도 불구하고 그는 남자들의 어깨에 메어 집으로 옮겨졌다. 빨간 모자와 거친 얼굴의 바다에 둘러싸인 다네이는 너무나 혼란스러워 자신이 실은 단두대로 향하는 수레에 타고 있는 것은 아닌지 두려워했다.",
@@ -704,7 +704,7 @@
     "raw_ref_id": 88
   },
   {
-    "id": 89,
+    "id": 88,
     "tag": "P040_1",
     "en": "In a dreamlike procession, hugging strangers and pointing Darnay out, they carried him along.",
     "ko": "낯선 사람들을 껴안고 다네이를 가리키며 그들은 꿈결 같은 행렬로 그를 옮겼다.",
@@ -712,7 +712,7 @@
     "raw_ref_id": 89
   },
   {
-    "id": 90,
+    "id": 89,
     "tag": "P040_2",
     "en": "They made the snowy streets look red with the popular color of the Republic as they twisted and stomped through them—just as they had stained the ground beneath the snow a much darker, bloodier red in the past—and carried him all the way into the courtyard of the building where he lived.",
     "ko": "과거에 그들이 눈 아래의 땅을 훨씬 더 어둡고 피비린내 나는 붉은색으로 물들였던 것처럼, 그들은 구불구불 춤추며 발을 구르며 눈 덮인 거리를 공화국의 인기 있는 색상인 붉은색으로 물들이며 그가 사는 건물의 안뜰까지 그를 안고 갔다.",
@@ -720,7 +720,7 @@
     "raw_ref_id": 90
   },
   {
-    "id": 91,
+    "id": 90,
     "tag": "P040_3",
     "en": "Her father had gone on before, to prepare her, and when her husband stood upon his feet, she dropped insensible in his arms. As he held her to his heart and turned her beautiful head between his face and the brawling crowd, so that his tears and her lips might come together unseen, a few of the people fell to dancing.",
     "ko": "그녀의 아버지가 그녀를 준비시키기 위해 먼저 가 있었고, 남편이 일어서자 그녀는 의식을 잃고 그의 품에 쓰러졌다. 그가 그녀를 가슴에 안고 소란스러운 군중의 시선을 피해 눈물과 입술이 남몰래 맞닿을 수 있도록 그녀의 아름다운 머리를 감싸 안자, 사람들 중 몇몇이 춤을 추기 시작했다.",
@@ -728,7 +728,7 @@
     "raw_ref_id": 91
   },
   {
-    "id": 92,
+    "id": 91,
     "tag": "P041_2",
     "en": "Instantly, everyone joined in, and the courtyard filled with the Carmagnole.",
     "ko": "즉시 모든 사람이 참여했고, 안뜰은 카르마뇰 춤으로 가득 찼다.",
@@ -736,7 +736,7 @@
     "raw_ref_id": 93
   },
   {
-    "id": 93,
+    "id": 92,
     "tag": "P041_3",
     "en": "They placed a young woman from the crowd into the empty chair to carry her as the Goddess of Liberty, and then the dancing crowd spilled out into the streets, along the river, and over the bridge, carrying everyone away.",
     "ko": "그들은 군중 속의 한 젊은 여성을 자유의 여신으로 모시기 위해 빈 의자에 앉혔고, 춤추는 군중은 거리로, 강을 따라, 그리고 다리 위로 쏟아져 나와 모든 사람을 데려갔다.",
@@ -744,7 +744,7 @@
     "raw_ref_id": 94
   },
   {
-    "id": 94,
+    "id": 93,
     "tag": "P042_1",
     "en": "After grasping the Doctor’s hand, as he stood victorious and proud before him; after grasping the hand of Mr. Lorry, who came panting in breathless from his struggle against the waterspout of the Carmagnole; after kissing little Lucie, who was lifted up to clasp her arms round his neck; and after embracing the ever zealous and faithful Pross who lifted her; he took his wife in his arms, and carried her up to their rooms.",
     "ko": "자신 앞에 당당하고 의기양양하게 서 있는 박사의 손을 잡고, 카르마뇰 춤의 거센 소용돌이 속을 뚫고 나오느라 헐떡이며 숨이 찬 로리 씨의 손을 쥐고, 자신의 목에 팔을 감을 수 있도록 안아 올려진 어린 루시에게 입을 맞추고, 아이를 들어 올려 준 언제나 열성적이고 충직한 프로스를 껴안은 후, 그는 아내를 품에 안고 자신들의 방으로 올라갔다.",
@@ -752,23 +752,15 @@
     "raw_ref_id": 95
   },
   {
-    "id": 95,
-    "tag": "P043_2",
-    "en": "My own!",
-    "ko": "내 사랑!",
+    "id": 94,
+    "tag": "P043",
+    "en": "My own! I am safe.”",
+    "ko": "내 사랑! 난 안전하오.”",
     "is_header": false,
     "raw_ref_id": 98
   },
   {
-    "id": 96,
-    "tag": "P043_3",
-    "en": "I am safe.”",
-    "ko": "난 안전하오.”",
-    "is_header": false,
-    "raw_ref_id": 99
-  },
-  {
-    "id": 97,
+    "id": 95,
     "tag": "P044",
     "en": "“Oh, dearest Charles, let me thank God on my knees, just as I prayed to Him.”",
     "ko": "“오, 사랑하는 찰스, 제가 무릎 꿇고 기도했던 것처럼 하나님께 감사드리게 해주세요.”",
@@ -776,7 +768,7 @@
     "raw_ref_id": 100
   },
   {
-    "id": 98,
+    "id": 96,
     "tag": "P045_1",
     "en": "They all bowed their heads in prayer.",
     "ko": "그들은 모두 고개를 숙이고 기도했다.",
@@ -784,7 +776,7 @@
     "raw_ref_id": 101
   },
   {
-    "id": 99,
+    "id": 97,
     "tag": "P045_2",
     "en": "When she was back in his arms, he said to her:",
     "ko": "그녀가 다시 그의 품에 안겼을 때, 그가 그녀에게 말했다:",
@@ -792,7 +784,7 @@
     "raw_ref_id": 102
   },
   {
-    "id": 100,
+    "id": 98,
     "tag": "P046_1",
     "en": "“And now speak to your father, dearest. No other man in all this France could have done what he has done for me.”",
     "ko": "“그리고 이제 아버지께 말씀드리구려, 여보. 온 프랑스를 통틀어 그 어떤 사람도 아버지가 나를 위해 해주신 일을 해내지 못했을 것이오.”",
@@ -800,7 +792,7 @@
     "raw_ref_id": 103
   },
   {
-    "id": 101,
+    "id": 99,
     "tag": "P047_1",
     "en": "She rested her head on her father's chest, just as she had held his poor head long ago.",
     "ko": "그녀는 오래전 그의 가엾은 머리를 안았던 것처럼 아버지의 가슴에 머리를 기댔다.",
@@ -808,7 +800,7 @@
     "raw_ref_id": 105
   },
   {
-    "id": 102,
+    "id": 100,
     "tag": "P047_2",
     "en": "He was happy to have returned the favor, rewarded for his past suffering, and proud of his strength. “You must not be weak, my darling,” he said. “Don't tremble so.",
     "ko": "그는 보답하게 되어 기뻤고, 과거의 고통에 대한 보상을 받았으며, 자신의 힘을 자랑스러워했다. “약해지면 안 돼, 내 사랑,” 그가 말했다. “그렇게 떨지 마라.",
@@ -816,7 +808,7 @@
     "raw_ref_id": 106
   },
   {
-    "id": 103,
+    "id": 101,
     "tag": "P047_3",
     "en": "I have saved him.”",
     "ko": "내가 그를 구했단다.”",

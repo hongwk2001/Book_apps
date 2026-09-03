@@ -80,7 +80,10 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val lifecycleOwner = LocalLifecycleOwner.current
     DisposableEffect(lifecycleOwner) {
         val observer = LifecycleEventObserver { _, event ->
-            if (event == Lifecycle.Event.ON_RESUME) resumeTrigger++
+            if (event == Lifecycle.Event.ON_RESUME) {
+                resumeTrigger++
+                viewModel.syncPlaybackState()
+            }
         }
         lifecycleOwner.lifecycle.addObserver(observer)
         onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
@@ -150,7 +153,8 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                 },
                                 selected = i == chapterNumber,
                                 onClick = {
-                                    viewModel.loadChapter(i)
+                                    val wasPlaying = isPlaying
+                                    viewModel.loadChapter(i, autoPlay = wasPlaying, selectOnLoad = true)
                                     scope.launch { drawerState.close() }
                                 },
                                 modifier = Modifier.padding(horizontal = 12.dp, vertical = 2.dp)
@@ -251,13 +255,13 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         listState.scrollToItem(0)
                     }
 
-                    // Scroll to active paragraph when it changes or app resumes
+                    // Scroll to active paragraph if not currently visible
                     LaunchedEffect(speakingParagraphIndex, resumeTrigger) {
                         if (speakingParagraphIndex >= 0) {
                             val visibleItems = listState.layoutInfo.visibleItemsInfo
                             val isVisible = visibleItems.any { it.index == speakingParagraphIndex }
-                            if (!isVisible || resumeTrigger > 0) {
-                                listState.animateScrollToItem(speakingParagraphIndex)
+                            if (!isVisible) {
+                                listState.scrollToItem(speakingParagraphIndex)
                             }
                         }
                     }
@@ -284,6 +288,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                     showEn = showEn,
                                     showKo = showKo,
                                     fontSizeMultiplier = fontSizeMultiplier,
+                                    resumeTrigger = resumeTrigger,
                                     onSentenceClick = { sentenceId -> viewModel.playFromSentence(sentenceId) }
                                 )
                             }
@@ -372,6 +377,7 @@ private fun ParagraphCard(
     showEn: Boolean,
     showKo: Boolean,
     fontSizeMultiplier: Float,
+    resumeTrigger: Int = 0,
     onSentenceClick: (String) -> Unit
 ) {
     val enTextStyle = if (paragraph.is_header) {
@@ -390,8 +396,8 @@ private fun ParagraphCard(
         Column(modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
             languageOrder.forEach { lang ->
                 when (lang) {
-                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick)
-                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick)
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, resumeTrigger, onSentenceClick)
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, resumeTrigger, onSentenceClick)
                     else -> {}
                 }
             }
@@ -409,8 +415,8 @@ private fun ParagraphCard(
             val visibleBlocks = mutableListOf<@Composable () -> Unit>()
             for (lang in languageOrder) {
                 when (lang) {
-                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, onSentenceClick) }
-                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, onSentenceClick) }
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, resumeTrigger, onSentenceClick) }
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, resumeTrigger, onSentenceClick) }
                     else -> {}
                 }
             }
@@ -432,9 +438,11 @@ private fun SentenceBlock(
     speakingId: String?,
     textColor: Color,
     textStyle: androidx.compose.ui.text.TextStyle,
+    resumeTrigger: Int = 0,
     onClick: (String) -> Unit
 ) {
-    val highlightColor = MaterialTheme.colorScheme.primaryContainer
+    val highlightColor = MaterialTheme.colorScheme.tertiaryContainer
+    val highlightTextColor = MaterialTheme.colorScheme.onTertiaryContainer
     
     val sentences = remember(text) { SentenceSplitter.split(text, lang, paragraphId) }
     
@@ -449,7 +457,14 @@ private fun SentenceBlock(
             val end = length
             
             addStringAnnotation(tag = "SENTENCE", annotation = s.id, start = start, end = end)
-            addStyle(style = SpanStyle(color = textColor, background = if (isHighlighted) highlightColor else Color.Transparent), start = start, end = end)
+            addStyle(
+                style = SpanStyle(
+                    color = if (isHighlighted) highlightTextColor else textColor,
+                    background = if (isHighlighted) highlightColor else Color.Transparent
+                ),
+                start = start,
+                end = end
+            )
         }
     }
 
@@ -482,7 +497,7 @@ private fun SentenceBlock(
     }
     
     val density = LocalDensity.current
-    LaunchedEffect(speakingId, highlightY) {
+    LaunchedEffect(speakingId, highlightY, resumeTrigger) {
         if (sentences.any { it.id == speakingId }) {
             // Pad the bounding box by 350dp above and below.
             // This forces the scrolling list to place the sentence near the center of the screen,

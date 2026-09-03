@@ -4,12 +4,14 @@ import android.app.Notification
 import android.app.NotificationChannel
 import android.app.NotificationManager
 import android.app.PendingIntent
+import android.content.Context
 import android.content.Intent
 import android.media.AudioAttributes
 import android.media.AudioFormat
 import android.media.AudioTrack
 import android.os.Build
 import android.os.Bundle
+import android.os.PowerManager
 import androidx.core.app.NotificationCompat
 import androidx.core.content.IntentCompat
 import androidx.media.MediaBrowserServiceCompat
@@ -25,6 +27,7 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
     private var mediaSession: MediaSessionCompat? = null
     private var isMediaPlaying = false
     private var silentAudioTrack: AudioTrack? = null
+    private var wakeLock: PowerManager.WakeLock? = null
 
     private fun startSilentAudio() {
         if (silentAudioTrack != null) {
@@ -203,11 +206,17 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
         // Samsung Now Bar and BT devices discover us as the active media app.
         sessionToken = mediaSession?.sessionToken
 
-        // Immediately declare STATE_PLAYING so Android routes media buttons here
-        updatePlaybackState(true)
+        // Initialize state to PAUSED by default on service creation
+        updatePlaybackState(false)
     }
 
     override fun onDestroy() {
+        try {
+            if (wakeLock?.isHeld == true) {
+                wakeLock?.release()
+            }
+        } catch (_: Exception) {}
+        wakeLock = null
         stopSilentAudio()
         mediaSession?.isActive = false
         mediaSession?.release()
@@ -248,7 +257,11 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
             "PREV"  -> sendBroadcast(Intent("com.tkprof.shared.TTS_PREV").apply { setPackage(packageName) })
         }
 
-        // Notification-only update — MediaSession state is intentionally NOT touched here
+        // If an explicit IS_PLAYING extra was supplied without a specific action, ensure playback state matches
+        if (intent?.hasExtra("IS_PLAYING") == true) {
+            updatePlaybackState(intent.getBooleanExtra("IS_PLAYING", false))
+        }
+
         return START_STICKY
     }
 
@@ -256,8 +269,22 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
         isMediaPlaying = isPlaying
         if (isPlaying) {
             startSilentAudio()
+            if (wakeLock == null) {
+                val powerManager = getSystemService(Context.POWER_SERVICE) as? PowerManager
+                wakeLock = powerManager?.newWakeLock(PowerManager.PARTIAL_WAKE_LOCK, "BookApps:TtsWakeLock")
+            }
+            try {
+                if (wakeLock?.isHeld != true) {
+                    wakeLock?.acquire(60 * 60 * 1000L) // 60 min safety timeout
+                }
+            } catch (_: Exception) {}
         } else {
             pauseSilentAudio()
+            try {
+                if (wakeLock?.isHeld == true) {
+                    wakeLock?.release()
+                }
+            } catch (_: Exception) {}
         }
         val state = if (isPlaying) PlaybackStateCompat.STATE_PLAYING else PlaybackStateCompat.STATE_PAUSED
         mediaSession?.setPlaybackState(
