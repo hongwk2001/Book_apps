@@ -3,6 +3,7 @@ package com.tkprof.shared.ui.reader
 import android.app.Application
 import android.media.AudioManager
 import android.media.AudioFocusRequest
+import android.media.AudioAttributes
 import android.content.Context
 import android.os.Build
 
@@ -31,6 +32,15 @@ class ReaderViewModel(
     val billingManager: BillingManager
 ) : AndroidViewModel(application) {
 
+    companion object {
+        const val PREF_FONT_SIZE_MULTIPLIER = "font_size_multiplier"
+        const val PREF_SHOW_EN = "show_en"
+        const val PREF_SHOW_KO = "show_ko"
+        const val PREF_READ_EN = "read_en"
+        const val PREF_READ_KO = "read_ko"
+        const val PREF_LANGUAGE_ORDER = "language_order"
+    }
+
     private val repository = BookRepository(application)
 
     private val prefs = application.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE)
@@ -42,7 +52,9 @@ class ReaderViewModel(
     private val _currentChapterNumber = MutableStateFlow(1)
     val currentChapterNumber: StateFlow<Int> = _currentChapterNumber
 
-    val fontSizeMultiplier = MutableStateFlow(1.0f)
+    val fontSizeMultiplier = MutableStateFlow(
+        prefs.getFloat(PREF_FONT_SIZE_MULTIPLIER, 1.0f).let { if (it <= 0f) 1.0f else it }
+    )
 
     private val ttsReceiver = object : android.content.BroadcastReceiver() {
         override fun onReceive(context: Context?, intent: Intent?) {
@@ -86,6 +98,7 @@ class ReaderViewModel(
             }
             getApplication<Application>().startService(stopIntent)
         } catch (e: Exception) {}
+        abandonAudioFocus()
         ttsManager.shutdown()
         billingManager.disconnect()
     }
@@ -109,19 +122,32 @@ class ReaderViewModel(
 
     
     private val audioManager = application.getSystemService(Context.AUDIO_SERVICE) as AudioManager
-    private var wasPlayingBeforeFocusLoss = false
+    internal var wasPlayingBeforeFocusLoss = false
 
-    private val audioFocusChangeListener = AudioManager.OnAudioFocusChangeListener { focusChange ->
+    internal val audioFocusChangeListener = AudioManager.OnAudioFocusChangeListener { focusChange ->
         when (focusChange) {
-            AudioManager.AUDIOFOCUS_LOSS, AudioManager.AUDIOFOCUS_LOSS_TRANSIENT -> {
+            AudioManager.AUDIOFOCUS_LOSS_TRANSIENT,
+            AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK -> {
                 hasAudioFocus = false
                 if (isPlaying.value) {
                     wasPlayingBeforeFocusLoss = true
                     _isPlaying.value = false
                     ttsManager.stop()
+                    sendSetPlaying(false)
                 }
             }
+            AudioManager.AUDIOFOCUS_LOSS -> {
+                hasAudioFocus = false
+                wasPlayingBeforeFocusLoss = false
+                if (isPlaying.value) {
+                    _isPlaying.value = false
+                    ttsManager.stop()
+                    sendSetPlaying(false)
+                }
+                abandonAudioFocus()
+            }
             AudioManager.AUDIOFOCUS_GAIN -> {
+                hasAudioFocus = true
                 if (wasPlayingBeforeFocusLoss) {
                     wasPlayingBeforeFocusLoss = false
                     playCurrentSequence()
@@ -130,15 +156,22 @@ class ReaderViewModel(
         }
     }
 
-    private var hasAudioFocus = false
+    internal var hasAudioFocus = false
     private var focusRequestObj: Any? = null
 
     private fun requestAudioFocus(): Boolean {
         if (hasAudioFocus) return true
         val result = if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
-            val request = (focusRequestObj as? android.media.AudioFocusRequest) ?: android.media.AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
-                .setOnAudioFocusChangeListener(audioFocusChangeListener)
-                .build().also { focusRequestObj = it }
+            val audioAttributes = AudioAttributes.Builder()
+                .setUsage(AudioAttributes.USAGE_MEDIA)
+                .setContentType(AudioAttributes.CONTENT_TYPE_SPEECH)
+                .build()
+            val request = (focusRequestObj as? AudioFocusRequest)
+                ?: AudioFocusRequest.Builder(AudioManager.AUDIOFOCUS_GAIN)
+                    .setAudioAttributes(audioAttributes)
+                    .setWillPauseWhenDucked(true)
+                    .setOnAudioFocusChangeListener(audioFocusChangeListener)
+                    .build().also { focusRequestObj = it }
             audioManager.requestAudioFocus(request)
         } else {
             @Suppress("DEPRECATION")
@@ -152,15 +185,36 @@ class ReaderViewModel(
         return hasAudioFocus
     }
 
+    internal fun abandonAudioFocus() {
+        if (!hasAudioFocus) return
+        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+            (focusRequestObj as? AudioFocusRequest)?.let {
+                audioManager.abandonAudioFocusRequest(it)
+            }
+        } else {
+            @Suppress("DEPRECATION")
+            audioManager.abandonAudioFocus(audioFocusChangeListener)
+        }
+        hasAudioFocus = false
+    }
+
     private val _speakingParagraphIndex = MutableStateFlow(-1)
     val speakingParagraphIndex: StateFlow<Int> = _speakingParagraphIndex
 
     // Settings States
-    val languageOrder = MutableStateFlow(listOf(Language.EN, Language.KO))
-    val showEn = MutableStateFlow(true)
-    val showKo = MutableStateFlow(true)
-    val readEn = MutableStateFlow(true)
-    val readKo = MutableStateFlow(true)
+    val languageOrder = MutableStateFlow(loadInitialLanguageOrder())
+    val showEn = MutableStateFlow(if (prefs.contains(PREF_SHOW_EN)) prefs.getBoolean(PREF_SHOW_EN, true) else true)
+    val showKo = MutableStateFlow(if (prefs.contains(PREF_SHOW_KO)) prefs.getBoolean(PREF_SHOW_KO, true) else true)
+    val readEn = MutableStateFlow(if (prefs.contains(PREF_READ_EN)) prefs.getBoolean(PREF_READ_EN, true) else true)
+    val readKo = MutableStateFlow(if (prefs.contains(PREF_READ_KO)) prefs.getBoolean(PREF_READ_KO, true) else true)
+
+    private fun loadInitialLanguageOrder(): List<Language> {
+        val saved = prefs.getString(PREF_LANGUAGE_ORDER, null) ?: return listOf(Language.EN, Language.KO)
+        val parsed = saved.split(",").mapNotNull {
+            try { Language.valueOf(it) } catch (e: Exception) { null }
+        }
+        return if (parsed.isNotEmpty()) parsed else listOf(Language.EN, Language.KO)
+    }
 
     private val _bypassedUpToChapter = MutableStateFlow(0)
     val bypassedUpToChapter: StateFlow<Int> = _bypassedUpToChapter
@@ -216,6 +270,7 @@ class ReaderViewModel(
 
     fun loadChapter(number: Int, restoreSentenceId: String? = null, autoPlay: Boolean = false, playFromEnd: Boolean = false, selectOnLoad: Boolean = false) {
         prefs.edit().putInt("last_chapter", number).apply()
+        notifyBackupDataChanged()
         
         // Immediately synchronize state on the main thread
         ttsManager.stop()
@@ -292,10 +347,42 @@ class ReaderViewModel(
         sentenceQueue = queue
     }
 
+    /** Save and persist reader display and audio settings */
+    fun saveReaderSettings(
+        fontSize: Float,
+        newShowEn: Boolean,
+        newShowKo: Boolean,
+        newReadEn: Boolean,
+        newReadKo: Boolean,
+        order: List<Language>
+    ) {
+        fontSizeMultiplier.value = fontSize
+        showEn.value = newShowEn
+        showKo.value = newShowKo
+        readEn.value = newReadEn
+        readKo.value = newReadKo
+        if (languageOrder.value != order) {
+            languageOrder.value = order
+            rebuildSentenceQueue(_currentChapter.value)
+        }
+
+        prefs.edit()
+            .putFloat(PREF_FONT_SIZE_MULTIPLIER, fontSize)
+            .putBoolean(PREF_SHOW_EN, newShowEn)
+            .putBoolean(PREF_SHOW_KO, newShowKo)
+            .putBoolean(PREF_READ_EN, newReadEn)
+            .putBoolean(PREF_READ_KO, newReadKo)
+            .putString(PREF_LANGUAGE_ORDER, order.joinToString(",") { it.name })
+            .apply()
+        notifyBackupDataChanged()
+    }
+
     /** Rebuild queue when Language Order changes */
     fun updateLanguageOrder(order: List<Language>) {
         languageOrder.value = order
+        prefs.edit().putString(PREF_LANGUAGE_ORDER, order.joinToString(",") { it.name }).apply()
         rebuildSentenceQueue(_currentChapter.value)
+        notifyBackupDataChanged()
     }
 
     fun nextChapter() {
@@ -322,6 +409,13 @@ class ReaderViewModel(
         val current = _currentChapterNumber.value
         prefs.edit().putInt("bypassed_up_to_chapter", current).apply()
         _bypassedUpToChapter.value = current
+        notifyBackupDataChanged()
+    }
+
+    private fun notifyBackupDataChanged() {
+        try {
+            android.app.backup.BackupManager(getApplication()).dataChanged()
+        } catch (_: Exception) {}
     }
 
     /** Start playing from a specific sentence */
@@ -339,6 +433,7 @@ class ReaderViewModel(
             _isPlaying.value = false
             ttsManager.stop()
             sendSetPlaying(false)
+            abandonAudioFocus()
         } else {
             if (currentQueueIndex == -1 && sentenceQueue.isNotEmpty()) {
                 currentQueueIndex = 0
@@ -351,8 +446,15 @@ class ReaderViewModel(
 
     /** Explicitly update the MediaSession PlaybackState — called only on user play/pause, not per-sentence */
     private fun sendSetPlaying(playing: Boolean) {
+        val ch = _currentChapter.value
+        val chapterTitle = ch?.let { if (it.titleEn.isNotBlank()) it.titleEn else "Chapter ${it.chapterNumber}" }
+            ?: "Chapter ${_currentChapterNumber.value}"
         val intent = Intent(getApplication<android.app.Application>(), com.tkprof.shared.tts.TtsPlaybackService::class.java).apply {
             action = "SET_PLAYING"
+            putExtra("BOOK_TITLE", bookConfig.titleEn)
+            if (chapterTitle != null) {
+                putExtra("CHAPTER_TITLE", chapterTitle)
+            }
             putExtra("IS_PLAYING", playing)
         }
         ContextCompat.startForegroundService(getApplication(), intent)
@@ -383,6 +485,7 @@ class ReaderViewModel(
                 _speakingSentenceId.value = null
                 _isPlaying.value = false
                 sendSetPlaying(false)
+                abandonAudioFocus()
             }
         }
     }
@@ -412,6 +515,7 @@ class ReaderViewModel(
                 _speakingSentenceId.value = null
                 _isPlaying.value = false
                 sendSetPlaying(false)
+                abandonAudioFocus()
             }
         }
     }
@@ -431,6 +535,7 @@ class ReaderViewModel(
             _speakingParagraphIndex.value = -1
             _isPlaying.value = false
             sendSetPlaying(false)
+            abandonAudioFocus()
             return
         }
         
@@ -472,6 +577,7 @@ class ReaderViewModel(
         val onError = {
             _isPlaying.value = false
             sendSetPlaying(false)
+            abandonAudioFocus()
         }
 
         when (s.lang) {
@@ -486,6 +592,7 @@ class ReaderViewModel(
         _speakingSentenceId.value = null
         _isPlaying.value = false
         sendSetPlaying(false)
+        abandonAudioFocus()
     }
 
     /** Called when the reader screen returns to foreground to ensure UI matches playback reality */

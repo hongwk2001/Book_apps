@@ -29,6 +29,39 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
     private var silentAudioTrack: AudioTrack? = null
     private var wakeLock: PowerManager.WakeLock? = null
 
+    private var currentBookTitle: String = "Audiobook"
+    private var currentChapterTitle: String? = null
+
+    private var isNoisyReceiverRegistered = false
+    private val becomingNoisyReceiver = object : android.content.BroadcastReceiver() {
+        override fun onReceive(context: Context?, intent: Intent?) {
+            if (intent?.action == android.media.AudioManager.ACTION_AUDIO_BECOMING_NOISY) {
+                sendBroadcast(Intent("com.tkprof.shared.TTS_PAUSE").apply { setPackage(packageName) })
+            }
+        }
+    }
+
+    private fun registerNoisyReceiver() {
+        if (!isNoisyReceiverRegistered) {
+            try {
+                registerReceiver(
+                    becomingNoisyReceiver,
+                    android.content.IntentFilter(android.media.AudioManager.ACTION_AUDIO_BECOMING_NOISY)
+                )
+                isNoisyReceiverRegistered = true
+            } catch (_: Exception) {}
+        }
+    }
+
+    private fun unregisterNoisyReceiver() {
+        if (isNoisyReceiverRegistered) {
+            try {
+                unregisterReceiver(becomingNoisyReceiver)
+            } catch (_: Exception) {}
+            isNoisyReceiverRegistered = false
+        }
+    }
+
     private fun startSilentAudio() {
         if (silentAudioTrack != null) {
             try {
@@ -211,6 +244,7 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
     }
 
     override fun onDestroy() {
+        unregisterNoisyReceiver()
         try {
             if (wakeLock?.isHeld == true) {
                 wakeLock?.release()
@@ -224,9 +258,16 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
     }
 
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
-        val bookTitle = intent?.getStringExtra("BOOK_TITLE") ?: "Audiobook"
+        val bookTitle = intent?.getStringExtra("BOOK_TITLE")
+        if (!bookTitle.isNullOrBlank()) {
+            currentBookTitle = bookTitle
+        }
+        val chapterTitle = intent?.getStringExtra("CHAPTER_TITLE")
+        if (chapterTitle != null) {
+            currentChapterTitle = chapterTitle
+        }
         val isPlayingForNotification = intent?.getBooleanExtra("IS_PLAYING", isMediaPlaying) ?: isMediaPlaying
-        val notification = createNotification(bookTitle, isPlayingForNotification)
+        val notification = createNotification(currentBookTitle, currentChapterTitle, isPlayingForNotification)
 
         if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.Q) {
             startForeground(1, notification, android.content.pm.ServiceInfo.FOREGROUND_SERVICE_TYPE_MEDIA_PLAYBACK)
@@ -268,6 +309,7 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
     private fun updatePlaybackState(isPlaying: Boolean) {
         isMediaPlaying = isPlaying
         if (isPlaying) {
+            registerNoisyReceiver()
             startSilentAudio()
             if (wakeLock == null) {
                 val powerManager = getSystemService(Context.POWER_SERVICE) as? PowerManager
@@ -279,6 +321,7 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
                 }
             } catch (_: Exception) {}
         } else {
+            unregisterNoisyReceiver()
             pauseSilentAudio()
             try {
                 if (wakeLock?.isHeld == true) {
@@ -302,11 +345,15 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
         )
     }
 
-    private fun createNotification(title: String, isPlaying: Boolean): Notification {
+    private fun createNotification(title: String, subtitle: String?, isPlaying: Boolean): Notification {
+        val displayTrackTitle = if (!subtitle.isNullOrBlank()) subtitle else title
+        val displayArtist = if (!subtitle.isNullOrBlank()) title else "TKProf Book"
+
         mediaSession?.setMetadata(
             MediaMetadataCompat.Builder()
-                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, title)
-                .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, "TKProf Book")
+                .putString(MediaMetadataCompat.METADATA_KEY_TITLE, displayTrackTitle)
+                .putString(MediaMetadataCompat.METADATA_KEY_ARTIST, displayArtist)
+                .putString(MediaMetadataCompat.METADATA_KEY_ALBUM, title)
                 .build()
         )
 
@@ -326,8 +373,8 @@ class TtsPlaybackService : MediaBrowserServiceCompat() {
         val nextPendingIntent = PendingIntent.getService(this, 4, nextIntent, PendingIntent.FLAG_IMMUTABLE)
 
         val builder = NotificationCompat.Builder(this, "tts_channel")
-            .setContentTitle(title)
-            .setContentText("Audiobook Playback")
+            .setContentTitle(displayTrackTitle)
+            .setContentText(displayArtist)
             .setSmallIcon(android.R.drawable.ic_media_play)
             .setOngoing(isPlaying)
             .setDeleteIntent(stopPendingIntent)

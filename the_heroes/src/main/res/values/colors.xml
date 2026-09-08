@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="aegean_navy">#102A45</color>
+    <color name="ic_launcher_background">@color/aegean_navy</color>
+</resources>

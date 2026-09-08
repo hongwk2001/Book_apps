@@ -18,7 +18,10 @@ import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.test.StandardTestDispatcher
 import kotlinx.coroutines.test.resetMain
 import kotlinx.coroutines.test.setMain
+import io.mockk.verify
+import com.tkprof.shared.model.Language
 import org.junit.After
+import org.junit.Assert.assertEquals
 import org.junit.Assert.assertFalse
 import org.junit.Assert.assertTrue
 import org.junit.Before
@@ -49,10 +52,15 @@ class ReaderViewModelTest {
 
         every { application.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE) } returns sharedPrefs
         every { application.getSystemService(Context.AUDIO_SERVICE) } returns audioManager
+        every { audioManager.requestAudioFocus(any<android.media.AudioFocusRequest>()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        every { audioManager.abandonAudioFocusRequest(any<android.media.AudioFocusRequest>()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
         
         every { sharedPrefs.getInt("bypassed_up_to_chapter", 0) } returns 0
         every { sharedPrefs.edit() } returns sharedPrefsEditor
         every { sharedPrefsEditor.putInt(any(), any()) } returns sharedPrefsEditor
+        every { sharedPrefsEditor.putFloat(any(), any()) } returns sharedPrefsEditor
+        every { sharedPrefsEditor.putBoolean(any(), any()) } returns sharedPrefsEditor
+        every { sharedPrefsEditor.putString(any(), any()) } returns sharedPrefsEditor
 
         every { billingManager.isFullUnlocked } returns isFullUnlockedFlow
         every { ttsManager.isSpeaking } returns MutableStateFlow(false)
@@ -119,5 +127,109 @@ class ReaderViewModelTest {
         }
         viewModel.bypassSoftPaywall()
         assertFalse("Chapter 6 is now bypassed", viewModel.shouldShowSoftPaywall(6))
+    }
+
+    @Test
+    fun saveReaderSettings_persistsValuesToSharedPreferences() {
+        viewModel.saveReaderSettings(
+            fontSize = 1.4f,
+            newShowEn = true,
+            newShowKo = false,
+            newReadEn = true,
+            newReadKo = false,
+            order = listOf(Language.KO, Language.EN)
+        )
+
+        verify { sharedPrefsEditor.putFloat(ReaderViewModel.PREF_FONT_SIZE_MULTIPLIER, 1.4f) }
+        verify { sharedPrefsEditor.putBoolean(ReaderViewModel.PREF_SHOW_EN, true) }
+        verify { sharedPrefsEditor.putBoolean(ReaderViewModel.PREF_SHOW_KO, false) }
+        verify { sharedPrefsEditor.putBoolean(ReaderViewModel.PREF_READ_EN, true) }
+        verify { sharedPrefsEditor.putBoolean(ReaderViewModel.PREF_READ_KO, false) }
+        verify { sharedPrefsEditor.putString(ReaderViewModel.PREF_LANGUAGE_ORDER, "KO,EN") }
+
+        assertEquals(1.4f, viewModel.fontSizeMultiplier.value)
+        assertEquals(true, viewModel.showEn.value)
+        assertEquals(false, viewModel.showKo.value)
+        assertEquals(true, viewModel.readEn.value)
+        assertEquals(false, viewModel.readKo.value)
+        assertEquals(listOf(Language.KO, Language.EN), viewModel.languageOrder.value)
+    }
+
+    @Test
+    fun languageOrder_restoresFromSharedPreferences() {
+        val customPrefs = mockk<SharedPreferences>(relaxed = true)
+        val customApp = mockk<Application>(relaxed = true)
+        every { customApp.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE) } returns customPrefs
+        every { customApp.getSystemService(Context.AUDIO_SERVICE) } returns audioManager
+        every { customPrefs.getString(ReaderViewModel.PREF_LANGUAGE_ORDER, null) } returns "KO,EN"
+        every { customPrefs.getFloat(ReaderViewModel.PREF_FONT_SIZE_MULTIPLIER, 1.0f) } returns 1.5f
+
+        val customVm = ReaderViewModel(customApp, viewModel.bookConfig, ttsManager, billingManager)
+        assertEquals(listOf(Language.KO, Language.EN), customVm.languageOrder.value)
+        assertEquals(1.5f, customVm.fontSizeMultiplier.value)
+    }
+
+    @Test
+    fun audioFocus_lossTransientCanDuck_pausesPlayback_andResumesOnGain() {
+        val isPlayingField = ReaderViewModel::class.java.getDeclaredField("_isPlaying")
+        isPlayingField.isAccessible = true
+        @Suppress("UNCHECKED_CAST")
+        (isPlayingField.get(viewModel) as MutableStateFlow<Boolean>).value = true
+        viewModel.hasAudioFocus = true
+
+        val queueField = ReaderViewModel::class.java.getDeclaredField("sentenceQueue")
+        queueField.isAccessible = true
+        queueField.set(viewModel, listOf(com.tkprof.shared.model.Sentence("1_EN_0", "Hello world", Language.EN, 1, 0, 11)))
+
+        val indexField = ReaderViewModel::class.java.getDeclaredField("currentQueueIndex")
+        indexField.isAccessible = true
+        indexField.set(viewModel, 0)
+
+        // Simulate Android Auto navigation speaking (AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK)
+        viewModel.audioFocusChangeListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK)
+
+        assertFalse("Playback must pause during navigation prompt", viewModel.isPlaying.value)
+        assertTrue("wasPlayingBeforeFocusLoss should be true for auto-resumption", viewModel.wasPlayingBeforeFocusLoss)
+        verify { ttsManager.stop() }
+
+        // Simulate navigation prompt finishing (AUDIOFOCUS_GAIN)
+        viewModel.audioFocusChangeListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_GAIN)
+        assertFalse("wasPlayingBeforeFocusLoss should be reset", viewModel.wasPlayingBeforeFocusLoss)
+        assertTrue("hasAudioFocus should be true", viewModel.hasAudioFocus)
+        assertTrue("Playback should resume after navigation prompt finishes", viewModel.isPlaying.value)
+    }
+
+    @Test
+    fun audioFocus_lossPermanent_pausesPlayback_andDoesNotResumeOnGain() {
+        val isPlayingField = ReaderViewModel::class.java.getDeclaredField("_isPlaying")
+        isPlayingField.isAccessible = true
+        @Suppress("UNCHECKED_CAST")
+        (isPlayingField.get(viewModel) as MutableStateFlow<Boolean>).value = true
+        viewModel.hasAudioFocus = true
+
+        // Simulate permanent audio focus loss (e.g. user starts Spotify or YouTube)
+        viewModel.audioFocusChangeListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_LOSS)
+
+        assertFalse("Playback must pause on permanent loss", viewModel.isPlaying.value)
+        assertFalse("wasPlayingBeforeFocusLoss must be false on permanent loss", viewModel.wasPlayingBeforeFocusLoss)
+        assertFalse("hasAudioFocus must be false", viewModel.hasAudioFocus)
+
+        // Subsequent gain from another app finishing should NOT resume reading
+        viewModel.audioFocusChangeListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_GAIN)
+        assertFalse("Playback must not auto-resume after permanent loss", viewModel.isPlaying.value)
+    }
+
+    @Test
+    fun playOrPause_whenPlaying_abandonsAudioFocus() {
+        val isPlayingField = ReaderViewModel::class.java.getDeclaredField("_isPlaying")
+        isPlayingField.isAccessible = true
+        @Suppress("UNCHECKED_CAST")
+        (isPlayingField.get(viewModel) as MutableStateFlow<Boolean>).value = true
+        viewModel.hasAudioFocus = true
+
+        viewModel.playOrPause()
+
+        assertFalse(viewModel.isPlaying.value)
+        assertFalse(viewModel.hasAudioFocus)
     }
 }

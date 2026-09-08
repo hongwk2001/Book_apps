@@ -39,7 +39,7 @@ class BookRepository(private val context: Context) {
             val rawText = context.assets.open(filename).bufferedReader().readText()
             val paragraphs = json.decodeFromString<List<RawParagraph>>(rawText)
 
-            val headerParagraphs = paragraphs.filter { it.is_header }
+            val headerParagraphs = paragraphs.takeWhile { it.is_header }
             val headerEn = if (headerParagraphs.isNotEmpty()) {
                 headerParagraphs.joinToString(" - ") { it.en.takeIf { t -> t.isNotBlank() } ?: it.raw }.trim(' ', '-')
             } else {

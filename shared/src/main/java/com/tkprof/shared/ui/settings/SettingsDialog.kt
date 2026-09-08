@@ -60,7 +60,10 @@ fun SettingsDialog(
     }
 
     AlertDialog(
-        onDismissRequest = onDismiss,
+        onDismissRequest = {
+            ttsManager.restoreSavedVoices()
+            onDismiss()
+        },
         title = { Text(stringResource(R.string.settings_title)) },
         text = {
             Column(
@@ -205,29 +208,34 @@ fun SettingsDialog(
         },
         confirmButton = {
             TextButton(onClick = {
-                // Apply everything
-                viewModel.fontSizeMultiplier.value = fontSizeMult
-                viewModel.showEn.value = showEn
-                viewModel.showKo.value = showKo
-                viewModel.readEn.value = readEn
-                viewModel.readKo.value = readKo
+                // Persist reader settings
+                viewModel.saveReaderSettings(
+                    fontSize = fontSizeMult,
+                    newShowEn = showEn,
+                    newShowKo = showKo,
+                    newReadEn = readEn,
+                    newReadKo = readKo,
+                    order = currentLanguageOrder
+                )
                 
-                if (viewModel.languageOrder.value != currentLanguageOrder) {
-                    viewModel.updateLanguageOrder(currentLanguageOrder)
-                }
-                
-                                ttsManager.selectedEnglishVoice = selectedEnVoice
-                ttsManager.selectedKoreanVoice = selectedKoVoice
-                                ttsManager.englishSpeed = enSpeed
-                ttsManager.koreanSpeed = koSpeed
-                                ttsManager.englishPitch = enPitch
-                ttsManager.koreanPitch = koPitch
+                // Persist voice settings
+                ttsManager.saveVoiceSettings(
+                    enVoice = selectedEnVoice,
+                    koVoice = selectedKoVoice,
+                    enSpeed = enSpeed,
+                    koSpeed = koSpeed,
+                    enPitch = enPitch,
+                    koPitch = koPitch
+                )
                 
                 onDismiss()
             }) { Text(stringResource(R.string.btn_apply)) }
         },
         dismissButton = {
-            TextButton(onClick = onDismiss) { Text(stringResource(R.string.btn_cancel)) }
+            TextButton(onClick = {
+                ttsManager.restoreSavedVoices()
+                onDismiss()
+            }) { Text(stringResource(R.string.btn_cancel)) }
         }
     )
 }

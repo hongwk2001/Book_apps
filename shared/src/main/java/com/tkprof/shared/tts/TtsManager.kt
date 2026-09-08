@@ -15,6 +15,17 @@ import java.util.Locale
  */
 class TtsManager(private val context: Context) {
 
+    private val prefs = context.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE)
+
+    companion object {
+        const val PREF_VOICE_EN = "tts_voice_en"
+        const val PREF_VOICE_KO = "tts_voice_ko"
+        const val PREF_SPEED_EN = "tts_speed_en"
+        const val PREF_SPEED_KO = "tts_speed_ko"
+        const val PREF_PITCH_EN = "tts_pitch_en"
+        const val PREF_PITCH_KO = "tts_pitch_ko"
+    }
+
     private var tts: TextToSpeech? = null
 
     private val _isReady = MutableStateFlow(false)
@@ -26,14 +37,14 @@ class TtsManager(private val context: Context) {
     val englishVoices = MutableStateFlow<List<Voice>>(emptyList())
     val koreanVoices  = MutableStateFlow<List<Voice>>(emptyList())
 
-        var selectedEnglishVoice: Voice? = null
+    var selectedEnglishVoice: Voice? = null
     var selectedKoreanVoice: Voice? = null
-    
-        var englishSpeed: Float = 1.0f
-    var koreanSpeed: Float = 0.9f
-    
-        var englishPitch: Float = 1.0f
-    var koreanPitch: Float = 1.0f
+
+    var englishSpeed: Float = prefs.getFloat(PREF_SPEED_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+    var koreanSpeed: Float = prefs.getFloat(PREF_SPEED_KO, 0.9f).let { if (it <= 0f) 0.9f else it }
+
+    var englishPitch: Float = prefs.getFloat(PREF_PITCH_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+    var koreanPitch: Float = prefs.getFloat(PREF_PITCH_KO, 1.0f).let { if (it <= 0f) 1.0f else it }
 
     private var onCurrentUtteranceDone: (() -> Unit)? = null
     private var onCurrentUtteranceError: (() -> Unit)? = null
@@ -84,8 +95,60 @@ class TtsManager(private val context: Context) {
             .filter { it.locale.language == "ko" }
             .sortedBy { it.name }
             
-        selectedEnglishVoice = englishVoices.value.firstOrNull()
-        selectedKoreanVoice  = koreanVoices.value.firstOrNull()
+        val savedEnVoice = prefs.getString(PREF_VOICE_EN, null)
+        selectedEnglishVoice = englishVoices.value.firstOrNull { it.name == savedEnVoice }
+            ?: englishVoices.value.firstOrNull()
+
+        val savedKoVoice = prefs.getString(PREF_VOICE_KO, null)
+        selectedKoreanVoice = koreanVoices.value.firstOrNull { it.name == savedKoVoice }
+            ?: koreanVoices.value.firstOrNull()
+    }
+
+    fun saveVoiceSettings(
+        enVoice: Voice?,
+        koVoice: Voice?,
+        enSpeed: Float,
+        koSpeed: Float,
+        enPitch: Float,
+        koPitch: Float
+    ) {
+        selectedEnglishVoice = enVoice
+        selectedKoreanVoice = koVoice
+        englishSpeed = enSpeed
+        koreanSpeed = koSpeed
+        englishPitch = enPitch
+        koreanPitch = koPitch
+
+        prefs.edit()
+            .putString(PREF_VOICE_EN, enVoice?.name)
+            .putString(PREF_VOICE_KO, koVoice?.name)
+            .putFloat(PREF_SPEED_EN, enSpeed)
+            .putFloat(PREF_SPEED_KO, koSpeed)
+            .putFloat(PREF_PITCH_EN, enPitch)
+            .putFloat(PREF_PITCH_KO, koPitch)
+            .apply()
+        notifyBackupDataChanged()
+    }
+
+    private fun notifyBackupDataChanged() {
+        try {
+            android.app.backup.BackupManager(context).dataChanged()
+        } catch (_: Exception) {}
+    }
+
+    fun restoreSavedVoices() {
+        val savedEnVoice = prefs.getString(PREF_VOICE_EN, null)
+        selectedEnglishVoice = englishVoices.value.firstOrNull { it.name == savedEnVoice }
+            ?: englishVoices.value.firstOrNull()
+
+        val savedKoVoice = prefs.getString(PREF_VOICE_KO, null)
+        selectedKoreanVoice = koreanVoices.value.firstOrNull { it.name == savedKoVoice }
+            ?: koreanVoices.value.firstOrNull()
+
+        englishSpeed = prefs.getFloat(PREF_SPEED_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+        koreanSpeed = prefs.getFloat(PREF_SPEED_KO, 0.9f).let { if (it <= 0f) 0.9f else it }
+        englishPitch = prefs.getFloat(PREF_PITCH_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+        koreanPitch = prefs.getFloat(PREF_PITCH_KO, 1.0f).let { if (it <= 0f) 1.0f else it }
     }
 
     fun speakEnglish(text: String, onDone: () -> Unit = {}, onError: () -> Unit = {}) {
