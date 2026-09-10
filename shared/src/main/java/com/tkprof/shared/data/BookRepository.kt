@@ -16,7 +16,8 @@ private data class RawParagraph(
     val raw: String = "",
     val en: String,
     val ko: String,
-    val is_header: Boolean = false
+    val is_header: Boolean = false,
+    val image: String? = null
 )
 
 /**
@@ -61,7 +62,8 @@ class BookRepository(private val context: Context) {
                         tag = it.tag,
                         en = it.en,
                         ko = it.ko,
-                        is_header = it.is_header
+                        is_header = it.is_header,
+                        image = it.image
                     )
                 }
             )

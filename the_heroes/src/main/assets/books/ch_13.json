@@ -254,9 +254,10 @@
   {
     "id": 37,
     "tag": "P0642",
-    "en": "[Picture: Theseus and Aithra]",
-    "ko": "[그림: 테세우스와 아이트라]",
-    "is_header": false
+    "en": "Theseus and Aithra",
+    "ko": "테세우스와 아이트라",
+    "is_header": false,
+    "image": "images/06_theseus_and_aithra_color.jpg"
   },
   {
     "id": 38,

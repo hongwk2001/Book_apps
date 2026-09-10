@@ -12,7 +12,8 @@ data class BilingualParagraph(
     val raw_ref_id: Int = 0,
     val en: String,
     val ko: String,
-    val is_header: Boolean = false
+    val is_header: Boolean = false,
+    val image: String? = null
 )
 
 /**

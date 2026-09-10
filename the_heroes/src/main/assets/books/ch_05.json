@@ -303,9 +303,10 @@
   {
     "id": 44,
     "tag": "P0182",
-    "en": "[Picture: Perseus and the maid]",
-    "ko": "[그림: 페르세우스와 처녀]",
-    "is_header": false
+    "en": "Perseus and the maid",
+    "ko": "페르세우스와 처녀",
+    "is_header": false,
+    "image": "images/02_perseus_and_andromeda_color.jpg"
   },
   {
     "id": 45,

@@ -1458,9 +1458,10 @@
   {
     "id": 209,
     "tag": "P0480",
-    "en": "[Picture: Jason takes the fleece]",
-    "ko": "[그림: 이아손이 양털을 가져가다]",
-    "is_header": false
+    "en": "Jason takes the fleece",
+    "ko": "이아손이 양털을 가져가다",
+    "is_header": false,
+    "image": "images/05_jason_takes_fleece_color.jpg"
   },
   {
     "id": 210,

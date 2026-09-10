@@ -6,11 +6,17 @@ import com.tkprof.shared.R
 
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.asImageBitmap
+import androidx.compose.ui.layout.ContentScale
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import android.content.ActivityNotFoundException
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
@@ -382,12 +388,16 @@ private fun ParagraphCard(
 ) {
     val enTextStyle = if (paragraph.is_header) {
         MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (30 * fontSizeMultiplier).sp, fontSize = (22 * fontSizeMultiplier).sp)
+    } else if (paragraph.image != null) {
+        MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic, textAlign = TextAlign.Center, lineHeight = (22 * fontSizeMultiplier).sp, fontSize = (14 * fontSizeMultiplier).sp)
     } else {
         MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
     }
 
     val koTextStyle = if (paragraph.is_header) {
         MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (18 * fontSizeMultiplier).sp)
+    } else if (paragraph.image != null) {
+        MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic, textAlign = TextAlign.Center, lineHeight = (22 * fontSizeMultiplier).sp, fontSize = (14 * fontSizeMultiplier).sp)
     } else {
         MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
     }
@@ -409,9 +419,22 @@ private fun ParagraphCard(
     Card(
         modifier = Modifier.fillMaxWidth(),
         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-        elevation = CardDefaults.cardElevation(1.dp)
+        elevation = CardDefaults.cardElevation(if (paragraph.image != null) 3.dp else 1.dp)
     ) {
-        Column(modifier = Modifier.padding(16.dp)) {
+        Column(
+            modifier = Modifier.padding(16.dp),
+            horizontalAlignment = if (paragraph.image != null) Alignment.CenterHorizontally else Alignment.Start
+        ) {
+            if (paragraph.image != null) {
+                AssetImage(
+                    imagePath = paragraph.image,
+                    contentDescription = paragraph.en.takeIf { it.isNotBlank() },
+                    modifier = Modifier.fillMaxWidth()
+                )
+                if (paragraph.en.isNotBlank() || paragraph.ko.isNotBlank()) {
+                    Spacer(modifier = Modifier.height(12.dp))
+                }
+            }
             val visibleBlocks = mutableListOf<@Composable () -> Unit>()
             for (lang in languageOrder) {
                 when (lang) {
@@ -427,6 +450,37 @@ private fun ParagraphCard(
                 }
             }
         }
+    }
+}
+
+@Composable
+private fun AssetImage(
+    imagePath: String,
+    contentDescription: String?,
+    modifier: Modifier = Modifier
+) {
+    val context = LocalContext.current
+    val bitmapState = produceState<androidx.compose.ui.graphics.ImageBitmap?>(initialValue = null, key1 = imagePath) {
+        value = withContext(Dispatchers.IO) {
+            try {
+                context.assets.open(imagePath).use { stream ->
+                    android.graphics.BitmapFactory.decodeStream(stream)?.asImageBitmap()
+                }
+            } catch (e: Exception) {
+                null
+            }
+        }
+    }
+
+    bitmapState.value?.let { bitmap ->
+        Image(
+            bitmap = bitmap,
+            contentDescription = contentDescription,
+            modifier = modifier
+                .fillMaxWidth()
+                .clip(androidx.compose.foundation.shape.RoundedCornerShape(8.dp)),
+            contentScale = ContentScale.FillWidth
+        )
     }
 }
 

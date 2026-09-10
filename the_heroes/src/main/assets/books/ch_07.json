@@ -674,9 +674,10 @@
   {
     "id": 97,
     "tag": "P0292",
-    "en": "[Picture: Chiron]",
-    "ko": "[그림: 케이론]",
-    "is_header": false
+    "en": "Chiron",
+    "ko": "케이론",
+    "is_header": false,
+    "image": "images/03_chiron_the_centaur_color.jpg"
   },
   {
     "id": 98,

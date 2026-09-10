@@ -128,9 +128,10 @@
   {
     "id": 19,
     "tag": "P0850",
-    "en": "[Picture: Warriors fighting]",
-    "ko": "[그림: 전투 중인 전사들]",
-    "is_header": false
+    "en": "Warriors fighting",
+    "ko": "전투 중인 전사들",
+    "is_header": false,
+    "image": "images/08_warriors_fighting_color.jpg"
   },
   {
     "id": 20,

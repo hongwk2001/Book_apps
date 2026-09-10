@@ -80,6 +80,13 @@ def strip_brackets(text: str) -> str:
         return t[1:-1].strip()
     return t
 
+def clean_caption(text: str) -> str:
+    t = text.strip()
+    if t.startswith('[') and t.endswith(']'):
+        t = t[1:-1].strip()
+    t = re.sub(r'^(Illustration|Picture|삽화|그림)\s*:\s*', '', t, flags=re.IGNORECASE).strip()
+    return t
+
 def chunk_list(items, max_chunk=3):
     n = len(items)
     if n <= max_chunk:
@@ -156,6 +163,22 @@ def migrate():
                         "ko": t_ko,
                         "is_header": True
                     })
+                continue
+
+            # Special case: Image illustration
+            img_path = item.get("image_color") or item.get("image")
+            if img_path:
+                en_caption = clean_caption(translations[0]["en"]) if translations else ""
+                ko_caption = clean_caption(translations[0]["kr"]) if translations else ""
+                app_paragraphs.append({
+                    "id": len(app_paragraphs) + 1,
+                    "tag": item.get("tag", f"IMG_{len(app_paragraphs)+1:04d}"),
+                    "en": en_caption,
+                    "ko": ko_caption,
+                    "is_header": False,
+                    "image": img_path
+                })
+                total_sentences_processed += len(translations)
                 continue
 
             # Standard paragraph
