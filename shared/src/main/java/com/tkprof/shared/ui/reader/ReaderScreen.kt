@@ -140,7 +140,10 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             NavigationDrawerItem(
                                 label = {
                                     Text(
-                                        text = displayTitle,
+                                        // Numbered so a chapter can be located at a
+                                        // glance; the top bar already shows the same
+                                        // number as "(n / total)".
+                                        text = "$i. $displayTitle",
                                         style = MaterialTheme.typography.bodyMedium.copy(
                                             fontFamily = androidx.compose.ui.text.font.FontFamily.Serif,
                                             fontSize = 14.sp,
