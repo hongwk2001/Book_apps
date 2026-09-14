@@ -1,0 +1,268 @@
+[
+ {
+  "id": 1,
+  "tag": "H01",
+  "en": "Jumong Founds Goguryeo",
+  "ko": "주몽, 고구려를 세우다",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "S01",
+  "en": "Northern Buyeo",
+  "ko": "북부여",
+  "is_header": true
+ },
+ {
+  "id": 3,
+  "tag": "P0002_1",
+  "en": "Old records state that on the eighth day of the fourth month of the year of Imsul, the third year of Sinjak of Emperor Xuan in the Book of Han, the Heavenly Emperor descended to Heulseunggolseong (located on the border of Daeryeoju) riding a chariot drawn by five dragons, established a capital, and called himself king.",
+  "ko": "옛 기록에 이르기를, 전한(前漢) 서(書) 선제(宣帝) 신작(神爵) 삼년 임술(壬戌) 사월 팔일에 천제(天帝)가 흘승골성(訖升骨城)(대려의주 경계에 있다)에 다섯 용이 끄는 수레를 타고 내려와 도읍을 세우고 왕이라 칭했다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0002_2",
+  "en": "The name of the country was called Bukbuyeo.",
+  "ko": "나라의 이름은 북부여(北扶餘)라 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0002_3",
+  "en": "He called his name Haemosu and, after giving birth to a son, named him Buru. He took Hae as his surname. Later, following the command of Sangje, he moved the capital to Dongbuyeo.",
+  "ko": "그는 자신의 이름을 해모수(解慕漱)라 칭하였고, 아들을 낳아 이름을 부루(扶婁)라 하였다. 해씨를 성으로 삼았다. 왕후에 상제(上帝)의 명을 받들어 도읍을 동부여(東扶餘)로 옮겼다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0002_4",
+  "en": "Dongmyeongje succeeded Bukbuyeo and established the capital in Jolbonju, calling it Jolbonbuyeo. He was the first ancestor of Goguryeo.",
+  "ko": "동명(東明)제는 북부여를 이어 일어났으며, 도읍을 졸본주(卒本州)에 세우고 졸본부여(卒本扶餘)라 하였다. 곧 고구려(句麗)의 시조이다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "S03",
+  "en": "Eastern Buyeo",
+  "ko": "동부여",
+  "is_header": true
+ },
+ {
+  "id": 8,
+  "tag": "P0004_1",
+  "en": "In a dream, the Emperor of Heaven descended and spoke to Aranbul, the prime minister of King Haeburu of Bukbuyeo.",
+  "ko": "북부여(北扶餘) 왕 해부루(解夫婁)의 재상 아란불(阿蘭弗)이 꿈에 천제(天帝)가 내려와 말하였다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0004_2",
+  "en": "\"I shall cause my descendants to establish a nation here; you must move them to the edge of the East Sea.\" (This refers to the sign of Dongmyeong's rise.)",
+  "ko": "\"내 아들 후손들이 이곳에 나라를 세우게 할 것이니, 너는 그들을 동해의 가장자리로 피신시켜라. \" (동명(東明)이 일어날 징조를 말함이다.)",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0004_3",
+  "en": "A place named Gabyeowon had fertile soil and was suitable for establishing a royal capital. Aranbul advised the king to move the capital there, and the name of the country was called Dongbuyeo.",
+  "ko": "땅 이름이 가섭원(迦葉原)인 곳은 토양이 기름져 왕도(王都)를 세우기에 적당하였다. 아란불이 왕에게 그곳으로 도읍을 옮기라고 권하였으며, 나라의 이름을 동부여(東扶餘)라 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0004_4",
+  "en": "Haeburu was old but had no son. One day, he offered sacrifices to the mountains and rivers to seek a successor. The horse he rode reached Gonyeon, where large stones faced each other and blocked the flow of water. The king found this strange.",
+  "ko": "해부루는 늙었으나 아들이 없었다. 어느 날 산천에 제사를 지내며 후사를 구하였다. 타고 있던 말이 곤연(鯤淵)에 이르렀는데, 큰 돌이 서로 마주하며 물줄기를 가로막고 있었다. 왕은 이를 이상하게 여겼다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0004_5",
+  "en": "When the king ordered his men to turn the stone over, there was a young child shaped like a golden frog. The king rejoiced and said, \"Is this the descendant heaven has bestowed upon me?\" He took the child in and raised him, naming him Geumwa.",
+  "ko": "왕이 사람을 시켜 그 돌을 돌려놓게 하자, 금빛 개구리 모양의 어린아이가 있었다. 왕이 기뻐하며 말하기를, \"이것이 하늘이 내게 내린 후손인가?\" 하고 하였다. 이에 아이를 거두어 기르며 이름을 금와(金蛙)라 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0005_1",
+  "en": "His eldest son became the crown prince. When Bure died, Gimwa succeeded him and became king.",
+  "ko": "그의 장남이 태자(太子)가 되었다. 부루(夫婁)가 죽자 금와(金蛙)가 왕위를 이어 왕이 되었다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0005_2",
+  "en": "After that, the throne was passed to Crown Prince Daeso. In the third year of Jihwang, in the year of Im-o, King Muryul of Goguryeo conquered him. He killed King Daeso and divided the land.",
+  "ko": "그 뒤에 왕위는 태자 대소(帶素)에게 전해졌다. 지황(地皇) 삼 년 임오년, 고구려(高麗)왕 무휼(無恤)이 그를 정벌하였다. 왕 대소를 죽이고 나라를 나누었다.",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "S06",
+  "en": "Goguryeo: Jumong",
+  "ko": "고구려 (주몽)",
+  "is_header": true
+ },
+ {
+  "id": 16,
+  "tag": "P0007_1",
+  "en": "Goguryeo was Jolbon Buyeo. Some say that the records of it being in current Hwaju or Seongju are all incorrect. Jolbonju was located on the border of Yodong.",
+  "ko": "고구려(高句麗)는 곧 졸본부여(卒本扶餘)이다. 어떤 이는 지금의 화주(和州)나 성주(成州) 등으로 기록된 것이 모두 잘못되었다고 말한다. 졸본주(卒本州)는 요동(遼東) 경계에 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0007_2",
+  "en": "The Guksa Goryeobongi states that the founding emperor Dongmyeongseongwang was of the Eon clan and his personal name was Jumong. Before him, there was Haeburu, the king of Bukbuyeo.",
+  "ko": "국사고려본기(國史高麗本記)에 이르기를, 시조 동명성왕(東明聖帝)은 성이 언(言)씨이고 휘(諱)는 주몽(朱蒙)이라 한다. 그전에는 북부여(北扶餘) 왕 해부루(解夫婁)가 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0007_3",
+  "en": "Haeburu fled the land and moved to Dongbuyeo, and when Buru died, Geumwa succeeded him.",
+  "ko": "해부루가 땅을 피해 동부여(東扶餘)로 옮겨갔고, 부루가 죽자 금와(金蛙)가 뒤를 이었다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0007_4",
+  "en": "At that time, he found a woman at Ubalsu south of Taebaeksan. When he asked her, she replied, \"I am the daughter of Habaek, and my name is Yuhwa.\" Then a man appeared and called himself Haemosu, the son of the Heavenly Emperor.",
+  "ko": "이때 그는 태백산(太伯山) 남쪽 우발수(優渤水)에서 한 여자를 얻었다. 그에게 물으니, \"나는 하백(河柏)의 딸로 이름은 유화(柳花)이다\"라고 하였다. 그때 한 남자가 나타나 스스로를 천제의 아들 해모수(解慕漱)라 칭했다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0008_1",
+  "en": "Yu-hwa took me to a room on the edge of the Amrok River below the Woongsin Mountain; I knew it and followed, but did not return. My parents scolded me for following someone without a mediator, and eventually, I was exiled and stayed here.",
+  "ko": "유화(誘我)가 나를 데리고 웅신산(熊神山) 아래 압록(鴨綠) 변의 방으로 갔는데, 나는 그것을 알고 따라갔으나 돌아오지 않았다. 부모가 매개자도 없이 사람을 따랐다고 꾸짖었으나, 결국 이곳에 유배되어 머물게 되었다.",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0008_2",
+  "en": "Geumwa found this strange and confined it in a room. When sunlight shone upon it, it turned its body to avoid it, but the sunlight pursued and shone upon it again. Because of this, it became pregnant and laid one egg, which was about five *doe* in size.",
+  "ko": "금와(金蛙)가 이를 기이하게 여겨 방 안에 가두었다. 햇빛이 비추어 오자 몸을 돌려 피했으나, 햇빛이 다시 쫓아와 비추었다. 이로 인해 임신을 하고 알 하나를 낳았는데, 크기가 대략 다섯 되 정도였다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0008_3",
+  "en": "Wang discarded it and gave it to dogs and pigs, but they did not eat it. He also abandoned it on the road, but horses and cattle avoided it; when he left it in a field, birds and beasts swarmed over it. Wang tried to cut it open, but he could not break it.",
+  "ko": "왕(금와)이 그것을 버리며 개와 돼지에게 주었으나 모두 먹지 않았다. 또한 길에 버렸으나 소와 말이 피했고, 들에 버리자 새와 짐승들이 덮쳤다. 왕이 그것을 가르려 했으나 깨뜨릴 수 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0008_4",
+  "en": "Then he returned it to its mother, and the mother wrapped it in an object and placed it in a warm place. A child broke through the shell and emerged; its bones were extraordinary and magnificent, and it was only seven years old. Its appearance was extraordinary.",
+  "ko": "이에 다시 그 어머니에게 돌려주었고, 어머니는 물건으로 그것을 싸서 따뜻한 곳에 두었다. 한 아이가 껍질을 깨고 나왔는데, 골격이 빼어나고 기이했으며 나이는 겨우 일곱 살이었다. 용모가 비범했다.",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0009_1",
+  "en": "He made bows and arrows for himself, and of a hundred shots, a hundred hit the target.",
+  "ko": "스스로 활과 화살을 만들었는데 백 번 쏘아 백 번이 과녁에 맞았다.",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0009_2",
+  "en": "The custom of the land was to call one who shot arrows well Jumong, so he was called Jumong. Geumwa had seven sons, and they always played with Jumong, but even though their skills were excellent, they did not reach those of Jumong.",
+  "ko": "나라의 풍속에서 활을 잘 쏘는 사람을 주몽(朱蒙)이라 일렀으므로 그를 주몽이라 불렀다. 금와(金蛙)에게는 일곱 아들이 있었는데, 늘 주몽과 함께 놀며 기술이 뛰어나도 주몽에 미치지 못했다.",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0009_3",
+  "en": "The eldest son Daeso said to the king, \"Jumong is not born of a human; if you do not plan against him early, I fear there will be future consequences.\"",
+  "ko": "맏아들 대소(帶素)가 왕에게 말하기를, \"주몽은 사람이 낳은 자가 아니니, 만약 일찍 도모하지 않으면 뒤에 화가 있을까 두렵습니다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0009_4",
+  "en": "He said. The king did not listen and ordered Jumong to raise horses. Jumong identified the swift horses among them and reduced their feed to make them thin, while he raised the dull horses well and made them fat.",
+  "ko": "\"라고 하였다. 왕은 듣지 않고 주몽에게 말을 기르게 했다. 주몽은 그중 준마를 알아내어 먹이를 줄여 날씬하게 만들고, 둔한 말은 잘 길러 살찌게 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0009_5",
+  "en": "The king rode a fat horse himself and gave the thin horse to Jumong. The king's many sons and officials plotted this and tried to harm Jumong.",
+  "ko": "왕이 스스로는 살진 말을 타고, 주몽에게는 여윈 말을 주었다. 왕의 여러 아들과 신하들이 이를 도모하여 주몽을 해치려 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0009_6",
+  "en": "Jumong's mother learned of this and said, \"The people of the land intend to harm you. With your talents, there is nowhere you cannot go, so plan quickly.\"",
+  "ko": "주몽의 어머니가 이를 알고 말하기를, \"나라 사람들이 너를 해치려 하니, 네 재략으로 어디를 가도 못 갈 곳이 없으니 속히 도모하라. \"고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0009_7",
+  "en": "Then Jumong took three people, including Oi, as his friends.",
+  "ko": "이에 주몽은 오이(烏伊) 등 세 사람을 벗으로 삼았다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0010_1",
+  "en": "Upon reaching Eomsu (the current location is not known), he said to the water, \"I am the grandson of Habuk, the son of the Heavenly Emperor.\"",
+  "ko": "엄수(淹水)(지금은 자세히 알 수 없다)에 이르러 물에게 말하기를, \"나는 천제의 아들 하백(河伯)의 손자이다.",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0010_2",
+  "en": "\"I am fleeing today and the pursuers have reached my rear. What shall I do?\" he said to the water. Then fish and turtles formed a bridge and allowed him to cross, but after he crossed, the bridge dissolved and the pursuing cavalry could not cross.",
+  "ko": "오늘 도망치는데 추격자가 뒤까지 쫓아왔다. 어찌할 것인가? \"라고 하였다. 그러자 물고기와 자라들이 다리를 이루어 건너게 하였으나, 건넌 뒤에 다리가 풀려 추격하는 기병들이 건너지 못했다.",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0010_3",
+  "en": "Upon reaching Jolbonju (the border of Hyeondo-gun), he finally established the capital. Lacking the time to build palaces, he simply built a hut above Biryusu and resided there. The name of the nation was called Goguryeo.",
+  "ko": "졸본주(卒本州)(현도(玄葂)군의 경계)에 이르러 마침내 도읍을 정하였다. 궁궐을 지을 겨를이 없어 단지 비류수(沸流水) 위에 막사를 짓고 거처하였다. 나라의 이름은 고구려(高句麗)라 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0010_4",
+  "en": "After that, he took Go as his surname (this was an interpretation of the original surname; since he now called himself the son of the Heavenly Emperor and was born inheriting the sunlight, he took Go as his surname).",
+  "ko": "그 후에 고(高)를 성씨로 삼았다(본래 성씨를 풀이한 것이다. 지금 스스로 천제의 아들이라 말하며, 햇빛을 이어받아 태어났으므로 스스로 고를 성으로 삼았다).",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0010_5",
+  "en": "He was twelve years old at the time. In the year Gapsin, the second year of Gyeonso built by Emperor Hyowon of Han, he ascended the throne and took the title of king; it was the day Goguryeo entered its period of prosperity.",
+  "ko": "당시 나이는 열두 살이었다. 한나라 효원제(孝元帝)가 건소(建昭)를 세운 둘째 해 갑신년에 즉위하여 왕이라 칭하였으니, 고구려가 전성기를 맞이한 날이다.",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0011_1",
+  "en": "Two hundred ten thousand five hundred and eight households. It is recorded in the Jurimjeon, Volume Twenty-one. Long ago, a maid serving King Yeongbeomni became pregnant. A fortune-teller cast a divination and said, \"It is a noble body; it will be the king's offspring.\"",
+  "ko": "이십일만 오백팔 호. 주림전(珠琳傳) 제이십일권에 기록되어 있다. 옛날 영품리(寧稟離) 왕의 시중을 드는 비녀가 임신하였다. 점술가가 이를 점치며 말하기를, \"귀한 몸이니 왕의 자손이 될 것이다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0011_2",
+  "en": "The king said, \"She is not my offspring, so she must be killed.\" The maid replied, \"The energy came from heaven, and thus I became pregnant.\"",
+  "ko": "왕이 말하기를, \"내 자손이 아니니 죽여야 한다\"고 하였다. 비녀가 말하기에, \"기운이 하늘에서 내려와 내가 임신한 것입니다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0011_3",
+  "en": "When the child was born, it was considered an ill omen; when the fences were abandoned, pigs rushed in, and when the stalls were abandoned, horses drank the milk and did not die. She eventually became the king of Buyeo.",
+  "ko": "아이를 낳았을 때 이를 불길하게 여겨, 울타리를 버리자 돼지가 달려들고 우리를 버리자 말이 젖을 먹어 죽지 않았다. 마침내 부여의 왕이 되었다.",
+  "is_header": false
+ }
+]

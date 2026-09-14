@@ -1,0 +1,219 @@
+[
+ {
+  "id": 1,
+  "tag": "H01",
+  "en": "Shoot the Zither Case",
+  "ko": "거문고 갑을 쏘다",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "S01",
+  "en": "King Silseong, the Eighteenth",
+  "ko": "제18대 실성왕",
+  "is_header": true
+ },
+ {
+  "id": 3,
+  "tag": "P0002_1",
+  "en": "In the year Gyechuk of Uihui, at Daegyo in Pyeongyangseong, Wanggi learned that the crown prince of the previous king, Nuljiwang, possessed great virtue and prestige, and he sought to harm him. (It is feared this was Nampyeong; it is now Yangju.)",
+  "ko": "의희(義熙) 구년 계축년에 평양성(平壤城) 대교에서 왕기(王忌)가 앞선 왕의 태자 눌지왕(訥祗王)이 덕망이 있음을 알고 그를 해치려 했다. (두려워하니 남평이라, 지금은 양주이다.)",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0002_2",
+  "en": "He requested the Goguryeo soldiers to deceive and welcome Nuljiwang. The Goguryeo people saw the virtuous conduct of Nuljiwang, threw down their spears, and killed Wang. They then established Nuljiwang as king and departed.",
+  "ko": "고구려(高麗) 군사들에게 요청하여 눌지왕을 속여 맞이하게 하였다. 고구려인들이 눌지왕의 어진 행실을 보고는 창을 내던지고 왕을 죽였다. 그리고 눌지왕을 왕으로 세우고 떠났다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "S03",
+  "en": "Shoot the Zither Case",
+  "ko": "사금갑 (거문고 갑을 쏘다)",
+  "is_header": true
+ },
+ {
+  "id": 6,
+  "tag": "P0004_1",
+  "en": "Twenty-one: In the year of Mujin, the tenth year of King Bicheo's (also written as Sojiwang) reign, the king stayed at Cheoncheonjeong. At that time, a crow and a mouse came and cried out. The mouse spoke in human words, \"Find the place where this crow went.\"",
+  "ko": "제이십일 비처왕(毘處王, 일자 소지왕)이 즉위한 지 열 해가 되는 무진년에 임금이 천천정(天泉亭)에 거동하였다. 이때 까마귀와 쥐가 찾아와 울었다. 쥐가 사람의 말로 \"이 까마귀가 간 곳을 찾아보라\"고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0004_2",
+  "en": "The king ordered the horsemen to pursue it. They went south and arrived at Pichon (Pichon; today's Yangpisa Village is located at the eastern foot of Namsan).",
+  "ko": "왕이 명하여 기사들이 이를 뒤쫓았다. 남쪽으로 가서 피촌(避村, 지금 양피사 마을이 남산 동쪽 기슭에 있다)에 이르렀다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0004_3",
+  "en": "Two pigs were fighting each other. People stayed and watched, but they suddenly lost the location of the crow and wandered along the roadside.",
+  "ko": "두 마리 돼지가 서로 싸우고 있었다. 사람들이 머물러 지켜보았으나 갑자기 까마귀의 소재를 잃어버리고 길가에서 배회하였다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0004_4",
+  "en": "At that time, an old man emerged from a pond and presented a book.",
+  "ko": "이때 한 노인이 연못 속에서 나와 서책을 받들어 올렸다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0004_5",
+  "en": "On the outside it was written, \"If opened, two people die; if not opened, one person dies.\" They brought the book and presented it to him. The king said, \"Rather than two people dying, it is better that only one person dies.\"",
+  "ko": "바깥쪽에는 \"열어서 두 사람이 죽고, 열지 않으면 한 사람이 죽는다\"라고 적혀 있었다. (서책을) 가져와 바치게 하였다. 왕이 말했다. \"두 사람이 죽는 것보다 차라리 한 사람만 죽는 것이 낫다. \"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0004_6",
+  "en": "The Ilgwan reported, \"Those two are commoners.\"",
+  "ko": "일관(日官)이 아뢰었다. \"그 두 사람은 서민들입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0005_1",
+  "en": "There was a man who was the King. When the King saw this, it was recorded in the book to shoot the zither case. The King entered the palace, saw the zither case, and shot it.",
+  "ko": "한 사람이 있었으니 왕(王)이다. 왕이 이를 보았을 때, 책에 거문고 갑을 쏘라(射琴匣)고 기록되어 있었다. 왕은 궁에 들어가 거문고 갑을 보고 그것을 쏘았다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0005_2",
+  "en": "At that time, there was a monk practicing in the inner palace, and because he and the person in charge of the palace master communicated secretly, they were punished.",
+  "ko": "그때 내전에서 수행하던 승려가 있었는데, 그와 궁의 주인을 주관하는 자가 몰래 통하였기에 그들이 처벌을 받았다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0005_3",
+  "en": "The two were ambushed and executed. From then on, it became a custom of the land to refrain from a hundred things and not dare move on days such as the first of every month, the hour of the boar, the hour of the rat, and the early morning.",
+  "ko": "두 사람은 매복하여 처형되었다. 그때부터 나라의 풍속으로 매달 초하루와 해시, 자시, 오전 등 날에 백 가지 일을 삼가고 감히 움직이지 않았다.",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0005_4",
+  "en": "The fifteenth day was designated as the day of avoiding crows (Ugijil), and a ritual was performed with glutinous rice. This practice continues to this day.",
+  "ko": "열닷샛날을 오기일(烏忌之日, 까마귀를 꺼리는 날)로 삼아 찰밥으로 제사 지냈다. 지금까지 이를 행하고 있다.",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0005_5",
+  "en": "The meaning of this word being painful (Daldo) meant that they were sorrowful and distressed, and forbade a hundred things. They named that pond Seochulji.",
+  "ko": "이 말이 고통스럽다(怛忉)는 것은 슬프고 괴로워하며 백 가지 일을 금했다는 뜻이다. 그 연못을 서출지(書出池)라 명했다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "S06",
+  "en": "King Jicheollo",
+  "ko": "지철로왕",
+  "is_header": true
+ },
+ {
+  "id": 18,
+  "tag": "P0007_1",
+  "en": "Twenty-two, King Jicheollo. His surname was Kim and his name was Jidaro or Jidoro. His posthumous name was Jijeung. The use of posthumous names began with this king. Also, the calling of the king as Maripkan in the district refers to the king from this point forward.",
+  "ko": "제이십이 지철로왕(智哲老王). 성은 김씨이며 이름은 지대로(智大路) 또는 지도로(智度路)이다. 시호는 지증이라 한다. 시호가 여기서부터 시작되었다. 또한 고을에서 왕을 마립간(麻立干)이라 부르는 것은 이때부터의 왕을 말한다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0007_2",
+  "en": "King Jicheoro ascended the throne in the year Gyeongjin of Yeongwon (or if it is Sinsa, then it was the third year). The king's penis was one *ja* and five *chi* long, making it difficult to find a mate. The king sent messengers along three paths to seek it. The messengers arrived at Muryangbu.",
+  "ko": "왕은 영원 이년 경진에 즉위하였다(혹은 신사라 하면 삼 년이다). 왕의 음경이 한 자 다섯 치나 되어 짝을 맺기에 어려웠다. 왕은 세 갈래 길로 사자를 보내 그것을 구하게 했다. 사자들은 모량부(牟梁部)에 이르렀다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0007_3",
+  "en": "In winter, under an old tree, two dogs were biting a piece of dung as large as a drum and fighting over its two ends.",
+  "ko": "겨울에 늙은 나무 아래에서 두 마리 개가 북처럼 큰 똥덩어리를 물고 서로 양끝을 다투며 물고 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0007_4",
+  "en": "When they asked the people of the village, a young girl said, \"The wife of the lord of this district washed herself here and left it hidden in the woods.\"",
+  "ko": "마을 사람에게 물으니, 한 어린 계집아이가 말하기를 \"이 부락의 상공(相公)의 여인이 이곳에서 몸을 씻고 숲에 숨어 두고 간 것이다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0007_5",
+  "en": "They went to the house and investigated it; it was that place.",
+  "ko": "그 집을 찾아가 조사하니, 그것은 그곳이었다.",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0008_1",
+  "en": "Her height was seven feet and five inches. She reported various matters, so the king sent a carriage to bring her into the palace. He titled her Empress. All the officials congratulated her.",
+  "ko": "그녀의 키는 일곱 자 다섯 치였다. 여러 일을 갖추어 보고하니, 왕이 수레를 보내 그녀를 궁중으로 불러들였다. 그녀를 황후로 봉했다. 신하들이 모두 축하하였다.",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0008_2",
+  "en": "Saroju (now Myeongju) was located in the middle of the East Sea. A strong wind blew for two days and reached Yeongneungdo (now called Ureung). The barbarians of the island relied on the depth of the water and acted arrogantly, defying the king's orders.",
+  "ko": "사로주(薩羅州, 지금은 명주)가 동해 가운데에 있다. 곧바람이 이틀 동안 불어 령릉도(嶺陵島, 지금은 우릉이라 한다)에 이르렀다. 섬의 이방인들은 물이 깊음을 믿고 왕의 명령을 거역하며 오만하게 굴었다.",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0008_3",
+  "en": "Ijong made a wooden puppet lion, loaded it onto a large ship, and threatened them, saying, \"If you do not surrender, I will release this beast.\" The islanders were afraid and surrendered. He was rewarded with the title of Jubek.",
+  "ko": "이종(伊宗)이 나무 인형 사자를 만들어 큰 배 위에 싣고 위협하며 \"항복하지 않으면 이 짐승을 내뿜겠다\"라고 말했다. 섬의 이방인들이 두려워하여 항복하였다. 이종에게 주백(州伯)의 작위를 내렸다.",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "S09",
+  "en": "King Jinheung",
+  "ko": "진흥왕",
+  "is_header": true
+ },
+ {
+  "id": 27,
+  "tag": "P0010_1",
+  "en": "Twenty-four. King Jinheung. He was fifteen years old when he ascended the throne. The Queen Dowager served as regent.",
+  "ko": "제이십사 진흥왕(眞興王). 즉위할 때 나이가 열다섯 살이었다. 태후가 섭정하였다.",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0010_2",
+  "en": "The Empress Dowager was the daughter of King Beopheung and the wife of Ippjong Geolmunwang. In the ninth month of the third year of Seungseong, she shaved her hair, donned the dharma robes, and passed away.",
+  "ko": "태후는 법흥왕(法興王)의 딸이었으며, 입종(立宗) 갈문왕(葛文王)의 비였다. 승성(承聖) 삼년 구월에 머리를 깎고 법의를 입은 채 세상을 떠났다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0010_3",
+  "en": "In the ninth month of the third year of Seungseong, Baekje forces invaded Jinseong. They looted thirty-nine thousand men and women and took away eight thousand horses. Previously, Baekje had conspired with Silla to join forces and conquer Goguryeo.",
+  "ko": "승성 삼년 구월에 백제군이 진성(珍城)으로 침입하였다. 남녀 삼만 구천 명을 약탈하고 말 팔천 필을 빼앗아 갔다. 앞서 백제는 신라와 연합하여 군사를 합쳐 고구려를 정벌할 모의를 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0010_4",
+  "en": "Jinheungwang said, \"The rise and fall of a nation depend on heaven. If heaven does not yet weary of Goguryeo, how could I dare to aspire to it?\" Jinheungwang used these words to communicate with Goguryeo.",
+  "ko": "진흥왕이 말했다. \"나라의 흥망은 하늘에 달려 있다. 만약 하늘이 아직 고구려를 싫어하지 않는다면, 내가 어찌 감히 그것을 바라보겠는가?\" 진흥왕은 이 말을 가지고 고구려와 소통하였다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0010_5",
+  "en": "Goguryeo was moved by those words and communicated with Silla, maintaining a close relationship. Baekje resented this and came here.",
+  "ko": "고구려는 그 말을 감동하여 신라와 통교하며 친하게 지냈다. 이에 백제는 이를 원망하여 이곳으로 왔다.",
+  "is_header": false
+ }
+]

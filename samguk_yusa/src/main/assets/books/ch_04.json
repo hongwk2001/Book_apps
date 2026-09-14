@@ -1,0 +1,401 @@
+[
+ {
+  "id": 1,
+  "tag": "H01",
+  "en": "Hyeokgeose Born from an Egg",
+  "ko": "혁거세, 알에서 나다",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "S01",
+  "en": "Byeonhan and Baekje",
+  "ko": "변한과 백제",
+  "is_header": true
+ },
+ {
+  "id": 3,
+  "tag": "P0002_1",
+  "en": "(It is also said that Nambuyeo was Sabiseong.) In the year Im-o, the nineteenth year of the reign of Heokgeose, the founder of Silla, people from Byeonhan abandoned their country and surrendered.",
+  "ko": "(또한 이르기를, 남부여는 곧 사비(泗泚)성이다.) 신라의 시조 혁거세(赫居世)가 즉위한 지 열아홉 해 되는 임오년에, 변한(卞韓) 사람이 나라를 버리고 항복하였다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0002_2",
+  "en": "The Sintangsa and Houhanshu stated that the descendants of Byeonhan were in the land of Nakrang. The Houhansha stated that Byeonhan was in the south, Mahan was in the west, and Jinhan was in the east.",
+  "ko": "신당사(新唐書)와 후한서(後漢書)에서 이르기를, 변한의 후예가 낙랑(樂浪) 땅에 있다고 하였다. 후한서에서는 변한이 남쪽에 있고 마한(馬韓)은 서쪽에 있으며 진한(辰韓)은 동쪽에 있다고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0002_3",
+  "en": "Chiwon said that Byeonhan is Baekje. Comparing it with the Bongi, Onjo rose in the year Gapjin of the fourth year of Hongga, which was more than forty years after the era of Heokgeose and Dongmyeong.",
+  "ko": "치원(致遠)이 말하기를, 변한은 백제이다. 본기(本記)를 대조해 보면 온조(溫祚)가 일어난 것이 홍가(鴻嘉) 4년 갑진년이니, 이는 혁거세와 동명(東明)의 시대보다 마흔여 년 뒤이다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0002_4",
+  "en": "Therefore, the statement in the New Book of Tang that the descendants of Byeonhan were in the land of Nakrang was only said because Onjo's lineage came from Dongmyeong. It is not that some person emerged from the land of Nakrang.",
+  "ko": "따라서 당서에서 변한의 후예가 낙랑 땅에 있다고 한 것은 온조의 계통이 동명으로부터 나왔기 때문에 그렇게 말한 것일 뿐이다. 어떤 사람이 낙랑 땅에서 나온 것이 아니다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0003_1",
+  "en": "They established the state in Byeonhan. The place facing Mahan and others was the former territory of Onjo. It was not north of Nakrang.",
+  "ko": "변한(卞韓)에 나라를 세웠다. 말한(馬韓) 등과 나란히 마주 보고 있는 곳은 온조(溫祚)의 이전이다. 낙랑(樂浪)의 북쪽이 아니다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0003_2",
+  "en": "Some called Guryongsan also Byeonnasan. Therefore, calling Goguryeo Byeonhan was likely incorrect. One should follow the sayings of the ancient sages as correct.",
+  "ko": "혹자는 구룡산(九龍山)을 변나산(卞那山)이라도 불렀다. 그러므로 고구려(高句麗)를 변한이라 하는 것은 아마도 잘못된 것이다. 마땅히 옛 현인들의 설을 옳게 여겨야 한다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0003_3",
+  "en": "There was a Byeonsan in the land of Baekje. Therefore, it was called Byeonhan. At the height of its prosperity, Baekje had 152,300 households.",
+  "ko": "백제(百濟) 땅에 자체적으로 변산(卞山)이 있다. 그러므로 변한이라 하였다. 백제가 전성기일 때, 집이 열다섯만 이천삼백 호였다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "S04",
+  "en": "Jinhan",
+  "ko": "진한",
+  "is_header": true
+ },
+ {
+  "id": 11,
+  "tag": "P0005_1",
+  "en": "(It is also written as Jinhan.) The Book of Han states that an elder of Jinhan said to himself, \"After the fall of Qin, people came and settled in Han. Mahan cut off the eastern border land to share it with them, and they called each other companions.\"",
+  "ko": "(또한 진한이라 쓰기도 한다.) 《한서》에 이르기를, 진한의 어르신이 스스로 말하기를 \"진나라가 망한 뒤 사람들이 찾아와 한국에 머물렀고, 마한이 동쪽 경계 땅을 잘라 그들과 나누어 가졌으며 서로 동료로 불렀다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0005_2",
+  "en": "Because the language resembled that of Qin, some people named it Jinhan.",
+  "ko": "진나라 말과 비슷하여 어떤 이들은 이를 진한이라 이름하였다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0005_3",
+  "en": "There were twelve small states in that place, each governing ten thousand households and calling themselves nations.",
+  "ko": "그곳에는 열두 개의 작은 나라가 있었으며 각각 만 호씩을 거느리고 나라를 일컬었다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0005_4",
+  "en": "Also, Choe Chiwon said, \"Jinhaen were originally people from the state of Yan who fled and took the name of the Taksu to refer to the villages where they resided, calling them Satak.\"",
+  "ko": "또한 최치원(崔致遠)이 이르기를, \"진한은 본래 연나라 사람 중 피난 온 자들이었기에 탁수(涿水)의 이름을 취하여 그들이 거주하는 마을을 일컫고 사탁이라 하였다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0005_5",
+  "en": "Satak and others were records from the time of Silla's peak (in the Nara dialect, Tak was read as Do, so it is sometimes called Saryang today; Ryang is also read as Do).",
+  "ko": "사탁 등은 (나라인 방언으로, 탁을 도로 읽어 지금은 때때로 사량이라 한다. 량 또한 도로 읽힌다.) 신라가 전성기일 때의 기록이다.",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0006_1",
+  "en": "Inside Gyeong there were 178,936 households, 1,360 bang, and 55 ri, and there were thirty-five Geumiptaek (referring to large houses of wealth and abundance).",
+  "ko": "서울(京) 안에 십칠만 팔천구백삼십육 호가 있고, 천삼백육십 방과 오십오 리가 있으며, 서른다섯 금입택(金入宅)(부유하고 풍족한 큰 집을 말한다)이 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0006_2",
+  "en": "Namtaek, Buktaek, Ryangbiso-taek, Bonpi-taek, Ryang-taek, Chisang-taek (belonging to the Pi clan), Jaemaejeong-taek (the ancestor of Gong Yushin), Bukwi-taek, and Namwi-taek (in the neighborhood below Banhyangsa) existed.",
+  "ko": "남택, 북택, 량비소택, 본피택, 량택, 치상택(본피부), 재매정택(유신공의 조상), 북위택, 남위택(반향사 아래 방)이 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0006_3",
+  "en": "Daetaek, Binjitaek (Beom of Banhyangsa), Jangsa-taek, Sangaeng-taek, Haeng-taek, Sumang-taek, Cheon-taek, Yangsang-taek (south of Ryang), Hangi-taek (south of Beollyusa), and Bihyeol-taek (same as above) existed.",
+  "ko": "대택, 빈지택(반향사 범), 장사(長沙)택, 상앵택, 하앵택, 수망택, 천택, 양상택(량 남쪽), 한기택(법류사 남쪽), 비혈택(위와 같음)이 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0006_4",
+  "en": "Panjeoktaek (the upper neighborhood of Bunhwangsa), Byeolgyotaek (north of the river), Anamtaek, Geumyangjongtaek (south of Ryanggwansa), Goksutaek (north of the river), Ryuyataek, Sahataek, Saryangtaek, Jeongsangtaek, and Rinamtaek (Ryangsotaek) existed.",
+  "ko": "판적택(분황사 위쪽 방), 별교택(천 북쪽), 아남택, 금양종택(량관사 남쪽), 곡수택(천 북쪽), 류야택, 사하택, 사량(沙梁)택, 정상택, 리남택(량소택)이 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0006_5",
+  "en": "Sanaegoktaek, Chitaek, Sasangtaek (Daesuktaek), Imsangtaek (there is a pond to the east of the Cheongnyong temple), Gyonamtaek, Hangchaltaek (bonpitaek), Nusangtaek, Risangtaek, Yeopnamtaek, and Jeonghataek existed.",
+  "ko": "사내곡택, 치택, 사상택(대숙택), 임상택(청룡의 사원 동쪽에 연못이 있음), 교남택, 항찰택(본피부), 누상택, 리상택, 엽남택, 정하택이 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "S07",
+  "en": "The Four Seasonal Villas",
+  "ko": "사절유택",
+  "is_header": true
+ },
+ {
+  "id": 22,
+  "tag": "P0008_1",
+  "en": "He lived in the house of Dongya in the spring, in the house of Guryang in the summer, in the house of Gai in the autumn, and during the reign of King Heonkang, he stayed in the house of Jesipgu.",
+  "ko": "봄에는 동야(東野)의 집에서 여름에는 곡량(谷良)의 집에서 가이(加伊)의 집에서 겨울에 거처하며, 헌강왕(憲康王) 대에 이르러서는 제사십구의 집에서 머물렀다.",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0008_2",
+  "en": "There was not a single thatched house in the city; houses were joined together and walls were connected. The sound of singing filled the roads and did not cease day or night.",
+  "ko": "성안에는 풀집 하나 없으며, 집들이 서로 맞닿고 담장이 이어져 있었다. 노래 부르는 소리가 길에 가득하여 밤낮으로 끊이지 않았다.",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "S09",
+  "en": "Hyeokgeose, Founder of Silla",
+  "ko": "신라 시조 혁거세왕",
+  "is_header": true
+ },
+ {
+  "id": 25,
+  "tag": "P0010_1",
+  "en": "In the land of Jinhan, there were six villages in ancient times. The first was the Yangsan Village of Alcheon. It is the current Damyumsa, and the elder's name was Alpyeong. He first descended at Pyoambong, and he was the ancestor of the Lee clan of Geu-ryangbu.",
+  "ko": "진한 땅에 옛날에 여섯 마을이 있었다. 첫째는 알천(閼川) 양산(楊山) 마을이다. 지금의 담엄사(曇嚴寺)이며, 어른의 이름은 알평(謁平)이라 한다. 처음 표암봉(瓢嵒峰)에 내려왔으며, 이는 급량부(及梁部) 이씨의 조상이다.",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0010_2",
+  "en": "The second was Dolsan Goheo Village. The elder's name was Sobeoldori.",
+  "ko": "둘째는 돌산(突山) 고허(高墟) 마을이다. 어른의 이름은 소벌도리(蘇伐都利)라 한다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0010_3",
+  "en": "He first descended at Musan and was the ancestor of the Jeong clan of Saryangbu (the character Ryang is read as Do, or it was written as Tak; it is also read as Do). It now belongs to Namsanbu.",
+  "ko": "처음 무산(茂山)에 내려왔으며, 이는 사량부(沙梁部)(량은 도라고 읽으며, 혹은 탁(涿)으로 쓰였다. 또한 도로 읽힌다.) 정씨의 조상이다. 지금은 남산부에 속한다.",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0010_4",
+  "en": "The third was the Musan Daesu village. The elder's name was Guryema (the character for Gu is also written as Hu).",
+  "ko": "셋째는 무산(茂山) 대수(大樹) 마을이다. 어른의 이름은 구(俱)(한 자가 후(仇)로도 쓰임)례마라 한다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0011_1",
+  "en": "The one who first descended at Isan (some say Bisan) was a person of the Jeomnyang (some say Tak) tribe. Also, the ancestor of the Son clan of Moryangbu is now called the Jangbok tribe. Pakgokchon and other western villages belong to it.",
+  "ko": "처음에 이산(伊山)(일설에는 모두 비산이라 한다)에 내려온 이는 점량(漸梁)(일설에는 탁(涿))부 사람이었다. 또한 모량부(牟梁部) 손씨의 조상은 지금 장복부라 불린다. 박곡촌 등 서쪽 마을이 여기에 속한다.",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0011_2",
+  "en": "The four places were Jisan Jinjichon (some say Binji, also Binja, and others say Heonji), and their leader was Jibakho. The one who first descended at Hwasan was the ancestor of the Choi clan of Bonpibu. It is now called Tongseonbu.",
+  "ko": "네 곳은 자산(觜山) 진지(珍支)촌(일설은 빈지, 또 빈자, 또 헌지라 한다)이며, 그 우두머리는 지백호(智伯虎)였다. 처음에 화산(花山)에 내려온 이는 본피부(本彼部) 최씨의 조상이다. 지금은 통선부라 불린다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0011_3",
+  "en": "Siba and the other southeastern villages belonged to this. Chiwon was a person of Bonpibu. There is an old site south of Mitamsa, which is south of Hwangnyongsa; people say this is the old house of Count Choi, so it is almost certain.",
+  "ko": "시바 등 동남쪽 마을이 여기에 속한다. 치원은 바로 본피부 사람이다. 지금 황룡사(皇龍寺) 남쪽 미탐사 남쪽에 옛 터가 있는데, 사람들이 이곳을 최후의 옛 집이라고 말하니 거의 분명하다.",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0012_1",
+  "en": "The fifth is Gasan Gari Village (the mountain north of Baekryeoksa in Geumgangsan). The name is Jita (also written as Jita).",
+  "ko": "다섯째는 금산(金山) 가리(加利) 마을이다(지금 금강산 백력사 북쪽 산이다). 장(長)은 지타(祇沱)(일자 지타)라고 한다.",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0012_2",
+  "en": "He first descended on Myeonghwalsan. This was the ancestor of the Hangibe. It was also recorded as the ancestor of the Pil clan of the Hangibe. It is now called Gadeokbu. The eastern villages of Sangha, Seojina, and Mo belong to it.",
+  "ko": "처음에 명활산(明活山)에 내려왔다. 이는 한기부(漢岐部)의 조상이다. 또한 한기부 필씨의 조상으로도 기록되었다. 지금은 가덕부라 한다. 상하서지나모 등 동쪽 마을들이 여기에 속한다.",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0012_3",
+  "en": "The sixth is the Goya village of Myeonghwalsan. The name is called Hojin. It first descended at Geumgangsan.",
+  "ko": "여섯째는 명활산(明活山) 고야(高耶) 마을이다. 장은 호진(虎珍)이라 한다. 처음에 금강산(金剛山)에 내려왔다.",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0012_4",
+  "en": "This was the ancestor of the Seol clan of the Seupbibu. It is now called Imcheonbu. Muri-chon, Imgu-chon, Gwolgok (also written as Galgok), and other northeastern villages belong to this.",
+  "ko": "이는 습비부(習比部) 설씨의 조상이다. 지금은 임천부라 한다. 물이촌, 임구촌, 궐곡(일자 갈곡) 등 동북쪽 마을들이 여기에 속한다.",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0012_5",
+  "en": "In the above passage, the ancestors of these six tribes all appear to have descended from heaven.",
+  "ko": "한문에서 위 문장의 이 여섯 부의 조상은 모두 하늘에서 내려온 것으로 보인다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0012_6",
+  "en": "In the ninth year, King Norye finally changed the names of the six tribes.",
+  "ko": "노례왕(弩禮王)이 아홉째 해에 비로소 여섯 부의 이름을 고쳤다.",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0013_1",
+  "en": "Six surnames were also bestowed. Jungheungbu was taken as the mother, Jangbokbu as the father, Imcheonbu as the son, and Gadeokbu as the daughter. The details of this are not specified.",
+  "ko": "또한 여섯 성씨를 하사하였다. 중흥부를 어머니로 삼고, 장복부를 아버지로 삼으며, 임천부를 아들로 삼고, 가덕부를 딸로 삼았다. 그 내력은 자세하지 않다.",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0013_2",
+  "en": "In the first year of Jijeol of the Former Han, in the month of Imja, on the first day of the third month, the ancestors of the six tribes each led their sons and brothers and gathered all together on the banks of Alcheon.",
+  "ko": "전한(前漢) 지절 원년 임자년 삼월 초하루에 여섯 부의 조상들이 각각 자제들을 거느리고 모두 알천(閼川) 기슭에 모였다.",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0013_3",
+  "en": "They discussed, \"Our people have no sovereign above them to govern the people, and the people are all dissolute and act as they please.\"",
+  "ko": "그들이 논의하기를, \"우리 무리는 위로 군주가 없어 백성을 다스림이 없고, 백성들이 모두 방종하여 제멋대로 행동한다. \"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0013_4",
+  "en": "\"Therefore, let us find a person of virtue to serve as our monarch, and establish a nation and a capital.\" At that moment, they looked toward the south, and near Najeong below Yangsan, a strange energy descended to the ground like a flash of lightning.",
+  "ko": "\"그러므로 덕이 있는 사람을 찾아 그를 군주로 삼고, 나라를 세우며 도읍을 정하자.\" 이에 고남쪽을 바라보니 양산(楊山) 아래 나정(蘿井) 곁에 기이한 기운이 번개처럼 땅으로 내려왔다.",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0013_5",
+  "en": "There was a white horse in the posture of kneeling and bowing. When it was found, a purple egg (some said a large blue egg) horse saw the people, neighed long, and ascended to the sky.",
+  "ko": "그곳에 한 마리 흰 말이 무릎을 꿇고 절하는 형상이 있었다. 이를 찾아내니, 한 마리 자색 알(어떤 이는 청색 큰 알이라 하였다) 말이 사람을 보고 길게 울며 하늘로 올라갔다.",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0014_1",
+  "en": "When they split the egg, a young boy (Amji) emerged. His form was neat and beautiful, which was surprising and wondrous.",
+  "ko": "그 알을 가르니 어린아이(閼智)가 나왔다. 그 형체가 단정하고 아름다워 놀랍고 기이했다.",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0014_2",
+  "en": "At Dongcheon (Dongcheonsa is located in the northern part of Sanoeya), light emanated from his body, and birds and beasts danced all together. Heaven and earth trembled, and the sun and moon became clear.",
+  "ko": "동천(東泉, 동천사가 사뇌야 북쪽에 있다)에서 몸에서 빛이 났으며, 새와 짐승들이 일제히 춤을 추었다. 하늘과 땅이 진동하고 해와 달이 맑아졌다.",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0014_3",
+  "en": "They named him Heokgeose and placed him on the throne, calling him Geoseohan (some records state Geoseogan).",
+  "ko": "그를 혁거세(赫居世)라 이름하고 왕위에 올리며 거슬한(居瑟邯, 어떤 곳에서는 거서간이라도 기록함)이라 불렀다.",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0014_4",
+  "en": "When he first opened his mouth, he spoke for himself, saying, \"The child Geoseogan has arisen,\" and because of this, he was called so. (What was spoken and named became the royal title later.)",
+  "ko": "(그가 처음 입을 열었을 때 스스로 \"어린아이 거서간이 일어났다\"라고 말하였으며, 그 때문에 그렇게 부른 것이다.) (말하여 칭한 것이 나중에 왕의 존칭이 되었다.)",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0014_5",
+  "en": "People congratulated one another and said, \"Since the Son of Heaven has descended today, a virtuous woman must be sought to become his spouse.\" On that day, a rooster and a dragon appeared near Alyeongjeong in Saryangdo (in some places recorded as Arieongjeong).",
+  "ko": "사람들이 서로 축하하며 말했다. \"오늘 천자가 강림하셨으니, 마땅히 덕이 있는 여인과 배필로 삼아야 한다.\" 그날 사량도(沙梁里) 알영정(閼英井, 한 곳에서는 아리영정이라도 기록함) 근처에 닭과 용이 나타났다.",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0015_1",
+  "en": "And from the left side, a maiden was born (some say a dragon appeared and died, and they obtained her by cutting open its belly); her appearance was very beautiful, but her lips were like a chicken's beak.",
+  "ko": "그리고 왼쪽 옆구리에서 동녀(童女)가 태어났는데(어떤 이는 용이 나타나 죽고 그 배를 갈라 얻었다고 한다), 그 자태가 매우 아름다웠으나 입술은 닭부리와 같았다.",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0015_2",
+  "en": "When they bathed the child in the Bukcheon of Wolseong, the beak-like shape fell off. Thus, they named that river Balcheon. They built a palace at the foot of a mountain to the southwest (now Changnimsa) and raised the sons of the two saints.",
+  "ko": "그 아이를 월성(月城) 북천(北川)에서 목욕시킬 때, 그 부리 모양이 떨어져 나갔다. 이에 그 강을 발천(撥川)이라 이름하였다. 궁실을 남서쪽 산기슭(지금의 창림사)에 짓고 두 성인(聖人)의 아들을 봉양하였다.",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0015_3",
+  "en": "The man was born from an egg that resembled a gourd. Since the people of the village called a gourd Bak, his surname was given as Bak. The woman was named Iseong because of the name of the well from which she emerged.",
+  "ko": "남자는 알에서 태어났는데 알이 박과 같았다. 마을 사람들이 박을 박(朴)이라 하였으므로, 그 아이는 성을 박이라 하였다. 여자는 나온 우물의 이름으로 말미암아 이름을 이성(二聖)이라 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0015_4",
+  "en": "When she was thirteen years old, in the year of Gapsa in the first year of Obong, the man was established as king and the woman was made queen.",
+  "ko": "그녀의 나이가 열세 살이던 오봉 원년 갑자년(五鳳元年甲子年)에 남자가 왕으로 세워졌고, 또한 여자를 왕비로 삼았다.",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0015_5",
+  "en": "The name of the country was called Seorabyeol, or Seobeol (this is because the character Gyeong in current custom is interpreted as Byeol), or Saro.",
+  "ko": "나라의 이름은 서라벌(徐羅伐)이라 하였으며, 또 서벌(徐伐)(지금 풍속으로 경(京) 자를 해석하여 서벌이라 하니 이 때문이며), 혹은 사라(斯羅)라고도 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0016_1",
+  "en": "It was also Saro. The first king was born at Gyejeong. Therefore, some called it the state of Gyerim. This was because a rooster and a dragon appeared to show auspiciousness.",
+  "ko": "또한 사로(斯盧)이다. 처음 왕이 계정(雞井)에서 태어났다. 그러므로 어떤 이는 이를 계림(雞林)국이라 하였다. 이는 닭과 용이 나타나 상서로움을 나타냈기 때문이다.",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0016_2",
+  "en": "One theory states that during the reign of Talseongwang, Kimalji was found and a rooster crowed in the forest, so the name of the kingdom was changed to Gyerim. In later generations, the name Silla was finally established.",
+  "ko": "한 가지 설은 탈해왕(脫解王) 때에 김알지(金閼智)를 얻었는데, 숲속에서 닭이 울어 나라의 이름을 계림으로 고쳤다는 것이다. 후세에 마침내 신라라는 이름을 정하였다.",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0016_3",
+  "en": "The kingdom lasted for sixty-one years, and after the king ascended to heaven, his body scattered on the ground seven days later. It was said that it was lost even after that.",
+  "ko": "나라가 예순한 해 동안 지속되다 왕이 하늘로 올라간 지 이레 후에 시신이 땅에 흩어졌다. 이후에도 이를 잃어버렸다고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0016_4",
+  "en": "When the people of the land tried to gather it to bury it, a large snake blocked them.",
+  "ko": "나라 사람들이 이를 모아 장사 지내려 하니 큰 뱀이 가로막았다.",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0016_5",
+  "en": "They divided the five bodies and buried them in five tombs, which were also called Saryeong. The North Tomb of Dameomsa is this very place. Prince Namhaewang succeeded him to the throne.",
+  "ko": "각각 다섯 신체를 나누어 다섯 능으로 장사 지냈으며, 이를 사릉(蛇陵)이라도 불렀다. 담엄사(曇嚴寺) 북능이 바로 이것이다. 태자 남해왕(南解王)이 뒤를 이어 즉위했다.",
+  "is_header": false
+ }
+]

@@ -1,0 +1,282 @@
+[
+ {
+  "id": 1,
+  "tag": "H01",
+  "en": "Gim Yu-sin",
+  "ko": "김유신",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "S01",
+  "en": "Queen Jindeok",
+  "ko": "진덕여왕",
+  "is_header": true
+ },
+ {
+  "id": 3,
+  "tag": "P0002_1",
+  "en": "Twenty-eight. Queen Jindeok. Upon ascending the throne, she composed the Taepyeongga for herself. She wove silk to create patterns and sent an envoy to offer it to the Tang Dynasty. The Emperor of Tang admired it and changed her title to the King of Gyerim.",
+  "ko": "스물여덟 진덕여왕(眞德女王). 즉위하자 스스로 태평가(太平歌)를 지었다. 비단을 짜서 무늬를 만들고, 사자를 보내 당나라에 바치게 하였다. 당나라 황제가 이를 가상히 여겨 그녀의 봉호를 계림(雞林)국왕으로 고쳐주었다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0002_2",
+  "en": "The lyrics of the poem were as follows: \"Great Tang has opened a grand undertaking and is majestic; the Emperor's domain is flourishing; the majesty of spears and shields is established. Cultivating civil rule, the covenants of a hundred kings are forged; reaching through heaven, rain falls; bestowing the principles of all things, they encompass the physical world.\"",
+  "ko": "그 가사 내용은 이러하다. \"대당이 홍업을 열어 웅장하고, 황제의 도량이 창성하며, 창과 방패의 위엄이 정해졌도다. 문치를 닦아 백 왕의 약속을 맺고, 하늘을 통달하여 비를 내리며, 만물의 이치를 베풀어 몸을 품었도다.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0002_3",
+  "en": "The majestic aura was deep and the benevolence was harmonious so that the sun and moon were joined together; the military spirit extended far, and how high were the flags and banners of the Tang Dynasty.",
+  "ko": "\"장엄한 기운이 깊고 인자함이 조화로워 해와 달이 어우러졌으며, 군대의 기세가 멀리까지 뻗쳐 당나라의 깃발과 깃이 얼마나 드높은가.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0002_4",
+  "en": "How majestic are the sounds of the clashing weapons and drums; the people of the outer lands could not defy the orders and were spared from the calamities of heaven.",
+  "ko": "쟁거와 북소리가 얼마나 웅장하며, 외방의 무리들이 명을 거스르지 못하고 하늘의 재앙을 피하게 되었도다. \"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0002_5",
+  "en": "The pure demeanor was deep and profound, so that near and far places competed to offer auspiciousness; the four seasons were harmonious, and the jade candles and seven stars circled their respective directions.",
+  "ko": "\"순수한 풍모가 깊고 그윽하여 멀고 가까운 곳에서 상서로움을 다투어 바치며, 사계절이 화목하고 옥촛과 일곱 별이 방위를 순행하도다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0002_6",
+  "en": "The high mountains descended to assist and the emperor appointed loyal subjects; five and three became one, and virtue shone upon the lineage of our Great Tang royal house. (There was Alcheon-gong.)",
+  "ko": "높은 산이 내려와 보좌하며 황제가 충신을 임명하니, 다섯과 셋이 하나가 되어 덕이 우리 당나라 황왕의 대를 비추도다. \" (알천공(閼川公)이 있었다.)",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0003_1",
+  "en": "Imjonggong, Suljonggong, Horimgong (the father of Jajang), Yeomjanggong, and Yushinggong gathered at Aljiam in Namsan to discuss state affairs.",
+  "ko": "임종공(林宗公), 술종공(述宗公), 호림공(虎林公)(자장(慈藏)의 아버지), 염장공(廉長공), 유신공(庾信公)이 남산(南山)의 알지암(亐知巖)에서 모여 국사를 논의했다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0003_2",
+  "en": "At that time, a large tiger leaped into the space between the seats. The various lords rose in alarm, but Alcheon-gong remained almost unmoved and spoke with composure. He seized the tiger's tail, slammed it to the ground, and killed it.",
+  "ko": "이때 큰 호랑이 한 마리가 좌석 사이로 뛰어 들어왔다. 여러 공이 놀라 일어났으나, 알천공(閼川公)은 거의 움직이지 않고 담소하며 태연자약했다. 그는 호랑이 꼬리를 잡아 땅에 메치고 죽였다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0003_3",
+  "en": "Because Alcheon-gong's strength was such, he sat at the head of the seats. However, all the other lords submitted to the majesty of Yushin.",
+  "ko": "알천공의 힘이 이와 같았기에 그가 좌석의 머리에 앉았다. 그러나 다른 공들은 모두 유신(庾信)의 위엄에 복종했다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0003_4",
+  "en": "Silla had four sacred lands; when ministers gathered there to deliberate on great matters, those matters were bound to succeed.",
+  "ko": "신라에는 사령지(四靈地)가 있어, 큰일을 논의할 때 대신들이 반드시 그곳에 모여 도모하면 그 일이 반드시 이루어졌다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0003_5",
+  "en": "The first is called Cheongsongsan, the second is Namaljisan, the third is Seopijeon, and the fourth is Bukgeumgangsan. These were established from the time of the kings when the Jeongdanrye was first performed and the title of Sirang was first implemented.",
+  "ko": "동쪽은 청송산이라 하고, 둘째는 남알지산, 셋째는 서피전, 넷째는 북금강산(金剛山)이라 한다. 이는 왕대부터 정단례를 행하기 시작하고 시랑의 호칭을 처음으로 시행한 것이다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "S04",
+  "en": "Gim Yu-sin",
+  "ko": "김유신",
+  "is_header": true
+ },
+ {
+  "id": 15,
+  "tag": "P0005_1",
+  "en": "The son of Horyeogan, Seohyeongakgan, was the eldest son of the Kim clan and was called Yusin.",
+  "ko": "호력이간(虎力伊干)의 아들인 서현각간(舒玄角干)은 김씨(金氏)의 장남으로 유신(庾信)이라 했다.",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0005_2",
+  "en": "His younger brother was Heumdon, and his sister was Bohee, whose small name was Ahae. His younger sister was Munhui, whose small name was Aji.",
+  "ko": "동생은 흠돈(欽鈍)이며, 누이는 보희(寶姬)로 작은 이름이 아해(阿海)였다. 여동생은 문희(文姬)로 작은 이름이 아지(阿之)였다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0005_3",
+  "en": "Lord Yusin was born in the year of Eumnyo in the seventeenth year of King Jinpyeong. Because he contained essence in the seven stars, there were patterns of seven stars on his back. Furthermore, many mysterious things occurred. In the year of Imsin when he was eighteen, he repaired the thunder and obtained magical arts and became a hunter for the state.",
+  "ko": "유신 공은 진평왕(眞平王) 열일곱 해 을묘년에 태어났다. 정수를 일곱 별에 담았기에 등에 일곱 별의 문양이 있었다. 또한 여러 신비로운 일이 많았다. 나이 열여덟 해 임신에 뇌를 수리하여 술법을 얻고 나라의 사냥꾼이 되었다.",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0005_4",
+  "en": "At that time, there was a man named Baekseok. No one knew where he came from, but he had stayed among the group for a long time.",
+  "ko": "그때 백석(白石)이라는 자가 있었다. 그는 어디에서 왔는지 알지 못했으나 무리 속에 머문 지 오래되었다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0005_5",
+  "en": "Yusin planned the attack on Goguryeo day and night. Baekseok discovered his plan and said to him, \"How about I make a secret pact with you and scout them first before we attempt it?\" Yushin was pleased.",
+  "ko": "유신은 고구려를 치는 일을 밤낮으로 깊이 도모했다. 백석은 그의 계획을 알아내어 그에게 말하기를, \"제가 공과 밀약하여 먼저 저들을 탐색한 뒤에야 그것을 도모하는 것이 어떻겠습니까? \"라고 하였다. 유신은 기뻐했다.",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0006_1",
+  "en": "He set out at night with Baekseok. They were resting on a ridge. Two women traveled following the man.",
+  "ko": "백석(白石)을 데리고 밤에 나섰다. 마침 고개 위에서 쉬고 있었다. 두 여자가 사내를 따라오며 행했다.",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0006_2",
+  "en": "He arrived at Golhwacheon and stayed there. At that time, another woman suddenly appeared. While Gong joyfully conversed with the three women, they brought beautiful fruits and gave them to him.",
+  "ko": "골화(骨火)천에 이르러 머물렀다. 이때 또 한 여자가 갑자기 나타났다. 공이 세 처자와 기쁘게 대화를 나누는 동안, 처자들은 아름다운 과일을 가져와 그에게 주었다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0006_3",
+  "en": "The man received and ate the fruit while making a promise in his heart. Then he spoke of his circumstances.",
+  "ko": "사내는 그것을 받아 먹으며 마음으로 서로 약속했다. 그리고 그 사정을 말하였다.",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0006_4",
+  "en": "The women said, \"We have already heard what you spoke of. I hope that you will thank Baekseok and enter the forest with us together. Also, reveal your true feelings in more detail.\"",
+  "ko": "처자들은 말하기를, \"공이 말한 바는 이미 명을 들었소. 바라건대 공은 백석에게 고마워하고 함께 숲속으로 들어오시오. 또한 진실한 정을 더 자세히 밝히시오. \"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0006_5",
+  "en": "Only then did he enter with them. The women immediately revealed their divine forms and spoke.",
+  "ko": "그제야 그들과 함께 들어갔다. 처자들은 곧 신령스러운 형체를 드러내며 말하였다.",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0006_6",
+  "en": "\"We are the guardian deities of three places: Narim, Hyeollye, and Golhwa. A person from an enemy nation lured the man and drew him here, but he advanced along the path without knowing.\"",
+  "ko": "\"우리들은 나림(奈林), 혈례(穴禮), 골화(骨火) 등 세 곳의 호국신이다. 지금 적국의 사람이 사내를 유인하여 이리로 끌어들였으나, 사내는 알지 못한 채 길을 나아왔다. \"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0007_1",
+  "en": "I left Rang to stay and arrived here. After finishing my words, I hid. Gong heard this, was startled, and prostrated himself. He bowed again and came out.",
+  "ko": "나는 랑을 머물게 하고 이곳에 이르렀다. 말을 마치고 숨었다. 공(公)이 이를 듣고 놀라 엎드렸다. 다시 절하고 나왔다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0007_2",
+  "en": "Staying at the Golhwa hall, he spoke to Baekseok. \"If we return to another land now, we will forget those essential texts; I request that you and I return to your home together to bring them back.\"",
+  "ko": "골화(骨火) 관에 숙박하며 백석(白石)에게 말했다. \"이제 다른 나라로 돌아가면 그 요문(要文)을 잊게 되니, 청컨대 너와 함께 집으로 돌아가 그것을 가져오자.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0007_3",
+  "en": "Finally, he went back to the house with him. He tortured Baekseok and asked about his circumstances. Baekseok said,",
+  "ko": "마침내 그와 함께 집으로 돌아갔다. 백석을 고문하여 그 사정을 물었다. 백석이 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0007_4",
+  "en": "\"I was originally a Goguryeo person, and the various officials of my country said that Yushin of Silla was Chunam, the diviner of our country. (The old version is Chunnam, but it is incorrect.)\"",
+  "ko": "\"나는 본래 고구려 사람인데 우리 나라의 여러 신하가 말하기를, 신라(新羅)의 유신(庾信)은 우리 나라 점술가인 추남(楸南)이라 하였소. (고본은 춘남(春南)이나 잘못된 것이다.)\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0007_5",
+  "en": "There was a river flowing against the current at the border (or it is called Ungseo; this is especially a matter of reversal), and they had him perform divination for it.",
+  "ko": "\"국경에 역류하는 물이 있어(혹은 웅서(雄雌)라 한다. 특히 번복하는 일이다), 그에게 점을 치게 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0007_6",
+  "en": "When it was reported, they said that the Great King's wife acted against the way of Yin and Yang, and thus the omen was like this. The Great King was surprised and found it strange, and the Queen became greatly angry.",
+  "ko": "그것을 보고하자, 대왕 부인(夫人)이 음양의 도를 거슬러 행하니 그 상서로움이 이와 같다고 하였다. 대왕께서 놀라고 기이하게 여기셨고, 왕비가 크게 노하셨다. \"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0008_1",
+  "en": "This was said to be the words of a wicked fox. It was reported to the king, and he asked other questions as a test. If the person spoke incorrectly, the punishment was made heavier. Thus, he hid one mouse in a pouch and asked what it was.",
+  "ko": "이것은 요사스러운 여우의 말이라고 하였다. 왕에게 고하고, 다른 일로 시험 삼아 물었다. 만약 말을 잘못하면 형벌을 무겁게 가하였다. 이에 쥐 한 마리를 주머니 속에 숨기고 그것이 무엇인지 물었다.",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0008_2",
+  "en": "The man reported, \"This is certainly a mouse.\" He stated that it had eight lives.",
+  "ko": "그 사람이 아뢰기를 \"이것은 반드시 쥐입니다\"라고 하였다. 그 생명이 여덟이라 말하였다.",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0008_3",
+  "en": "When they were about to add the punishment of beheading for a mistake in speech, that person swore and said, \"After my death, I will become a great general and surely destroy Goguryeo.\"",
+  "ko": "(말을 잘못한 것으로 간주하여) 베어버릴 죄를 더하려 하자, 그 사람이 맹세하며 말했다. \"내가 죽은 뒤에 대장이 되어 반드시 고구려(高麗)를 멸할 것이다. \"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0008_4",
+  "en": "They beheaded him immediately and cut open the belly of the rat to examine it, and found that its life was seven. Thus they knew his previous statement had been correct. From that day on, the Great King dreamed of Chunam entering into the embrace of the wife of Seohyeonggong of Silla.",
+  "ko": "그를 즉시 베고 쥐의 배를 갈라 살펴보니, 그 생명이 일곱이었다. 이에 앞선 말이 맞았음을 알았다. 그날 밤부터 대왕이 꿈에 추남(楸南)이 신라(新羅) 서현공 부인(夫人)의 품으로 들어가는 것을 꾸었다.",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0008_5",
+  "en": "When this was told to the various officials, they all said, \"Chunam swore with a determined heart before death, so his words are certain. Therefore, he sent me here to plot this.\"",
+  "ko": "이를 여러 신하에게 알리자, 모두가 말하기를 \"추남이 죽음을 각오하고 맹세했으니 그 말이 틀림없다. 그러므로 나를 이곳까지 보내 이를 도모하게 한 것이다\"라고 하였다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0009_1",
+  "en": "The Duke punished Baekseok. He prepared a hundred types of offerings and performed a sacrifice to the three gods, all of whom appeared in person to receive the ritual wine. Kim Jongjae bought a wife and buried her in Cheongyeonsanggok, and because of this, he called that place Jaemaegok.",
+  "ko": "공이 백석(白石)을 형벌하였다. 백 가지 제물을 갖추어 세 신에게 제사 지내니, 모두가 몸을 나타내어 술잔을 받았다. 김씨 종재가 부인을 사서 청연상곡에 장사 지냈으며, 이로 인해 그곳을 재매곡이라 불렀다.",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0009_2",
+  "en": "Every year during the spring moon, the men and women of a clan held a feast at the stream to the south of that valley.",
+  "ko": "매년 봄달에 한 종족의 사내와 여자들이 그 골짜기 남쪽 시냇가에서 잔치를 베풀었다.",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0009_3",
+  "en": "At that time, all kinds of flowers bloomed and pine flowers filled the cave, and a building was erected at the entrance of the forest and valley to serve as a hermitage. Because of this, the place was called Songhwabang.",
+  "ko": "이때 온갖 꽃이 피어났고 소나무 꽃이 동굴 안을 가득 채웠으며, 숲과 골짜기 입구에 건물을 세워 암자로 삼았다. 이로 인해 그곳을 송화방이라 불렀다.",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0009_4",
+  "en": "It is handed down as Wonsa. In the fifty-fourth year, during the reign of King Gyeongmyeong, he was posthumously honored as Heungho Daewang. The tomb is located on a peak facing east in the north of Mojisa in Seosan.",
+  "ko": "전해 내려오기를 원사라 한다. 오십사년 경명왕(景明王) 때 공을 흥호대왕으로 추봉하였다. 능은 서산 모지사 북쪽 동향 산봉에 있다.",
+  "is_header": false
+ }
+]
