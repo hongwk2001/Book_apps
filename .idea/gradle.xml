@@ -12,10 +12,12 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/dracula" />
             <option value="$PROJECT_DIR$/frankenstein" />
+            <option value="$PROJECT_DIR$/samguk_yusa" />
             <option value="$PROJECT_DIR$/secret_garden" />
             <option value="$PROJECT_DIR$/shared" />
             <option value="$PROJECT_DIR$/the_heroes" />
             <option value="$PROJECT_DIR$/two_cities" />
+            <option value="$PROJECT_DIR$/werther" />
           </set>
         </option>
       </GradleProjectSettings>

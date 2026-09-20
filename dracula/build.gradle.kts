@@ -12,8 +12,8 @@ android {
         applicationId = "com.tkprof.dracula"
         minSdk = 24
         targetSdk = 36
-        versionCode = 5
-        versionName = "Aug/2026"
+        versionCode = 6
+        versionName = "Sep/2026"
     }
 
     signingConfigs {

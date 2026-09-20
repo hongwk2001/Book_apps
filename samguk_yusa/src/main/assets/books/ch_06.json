@@ -16,239 +16,218 @@
  {
   "id": 3,
   "tag": "P0002_1",
-  "en": "Yeongpyeong year three, Gyeongsin (one says Jungwon year six, but this is incorrect; Jungwon is only two years).",
-  "ko": "영평(永平) 삼년 경신(庚申)(일설에 중원육년이라 하나, 잘못되었다.",
+  "en": "It was the fourth day of the eighth month of the year Gyeongsin in the third year of Yeongpyeong (one place says the sixth year of Jungwon, but this is incorrect; Jungwon was only two years). Hogong was traveling through a village west of Wolseong at night. He saw a great light emanating from within Sirim (another version says Gurim).",
+  "ko": "영평 삼년 경신(한 곳은 중원 육년이라 하나 틀렸다. 중원은 단지 이년뿐이다) 팔월 사일이었다. 호공이 밤에 월성 서쪽 마을을 지나가고 있었다. 그는 시림(한 곳은 구림이라 함) 속에서 큰 빛이 나는 것을 보았다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "(One says it was the sixth year of Jungwon, but this is incorrect; Jungwon was only two years. ) On the fourth day of the eighth month of the third year of Yeongpyeong, Gyeongsin, Hogong was traveling at night in Wolseong Seori. A great light appeared in Sirim (one version says Gurim), and a purple cloud descended from the sky to the earth.",
-  "ko": "중원은 단지 이년뿐이다.) 팔월 사일, 호공(호공)이 밤에 월성(月城) 서리에서 길을 가고 있었다. 시림(始林)(일설에 구림(鳩林)이라 한다) 속에서 큰 빛이 보였으며, 하늘에서 땅으로 내려오는 자색 구름이 있었다.",
+  "en": "There was a purple cloud descending from the heavens to the earth. Inside that cloud, a golden chest hung from a tree branch. Light emanated from the chest. Also, a white rooster crowed beneath the tree.",
+  "ko": "하늘에서 땅으로 내려온 자줏빛 구름이 있었다. 그 구름 속에는 황금 궤가 나무 가지에 걸려 있었다. 빛이 그 궤에서 흘러나왔다. 또한 흰 닭 한 마리가 나무 아래에서 울었다.",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Inside the cloud was a golden chest, and it hung from a tree branch.",
-  "ko": "구름 속에는 황금 궤(樻)가 있었는데, 그것이 나뭇가지에 걸려 있었다.",
+  "en": "Hogong reported this strange situation to the king. The king rode a carriage and rushed to that forest. When the king opened the chest, there was a young boy. The boy was lying down and then immediately stood up. This was like the story of Heokgeose.",
+  "ko": "호공은 이 기이한 상황을 왕에게 알렸다. 왕은 수레를 타고 그 숲으로 달려갔다. 왕이 궤를 열자 어린아이가 있었다. 아이는 누워 있다가 곧 일어났다. 이는 혁거세의 이야기와 같았다.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "Light came out from that chest, and a white rooster crowed beneath the tree. Hogong reported this situation to the king. The king rode his carriage to the forest and opened the chest, where there was a young boy.",
-  "ko": "빛이 그 궤에서 나왔고, 또한 흰 닭이 나무 아래에서 울었다. 호공은 이 상황을 왕에게 알렸다. 왕이 수레를 타고 그 숲으로 임하여 궤를 열었더니 어린아이가 있었다.",
+  "en": "Following the words of the child, the king gave him the name Alji. Alji was a local term for a young child. The king carried the child back to the palace, and birds and beasts followed behind. The king leaped joyfully across the ground and chose an auspicious day.",
+  "ko": "왕은 아이의 말을 따라 알지라고 이름을 지어주었다. 알지는 마을 말로 어린아이를 부르는 이름이었다. 왕은 아이를 안고 궁으로 돌아왔다. 새와 짐승들이 뒤를 따랐다. 왕은 기뻐하며 땅을 뛰며 다니며 길한 날을 골랐다.",
   "is_header": false
  },
  {
   "id": 7,
-  "tag": "P0002_5",
-  "en": "The child was lying down and immediately stood up. This was like the story of Heukgeose. Therefore, the king listened to the child's words and called him Alji. Alji was a dialect term for a young child.",
-  "ko": "그 아이는 누워 있다가 즉시 일어났다. 이는 혁거세(赫居世)의 고사와 같았다. 그러므로 왕은 아이의 말을 들어 '알지'라는 이름으로 부르게 했다. 알지는 곧 사투리로 어린아이를 일컫는 명칭이다.",
+  "tag": "P0003_1",
+  "en": "The prince stepped down and Pasawang succeeded him. He did not take the throne immediately. The prince went out with a golden chest. His surname was Kim.",
+  "ko": "태자가 자리를 물러나고 파사왕이 그 뒤를 이었다. 그는 왕위를 바로 차지하지 않았다. 태자는 금궤를 가지고 밖으로 나갔다. 그의 성은 김씨였다.",
   "is_header": false
  },
  {
   "id": 8,
-  "tag": "P0002_6",
-  "en": "Hogong carried the child and the belongings and returned to the palace. Birds and beasts followed behind, and they leaped joyfully while treading the ground to choose an auspicious day.",
-  "ko": "호공이 아이를 안고 짐을 실어 궁궐로 돌아왔다. 새와 짐승들이 뒤를 따랐으며, 기뻐하며 뛰며 땅을 밟아 길한 날을 택했다.",
+  "tag": "P0003_2",
+  "en": "Alji gave birth to Yeolhan. Yeolhan gave birth to Ado. Ado gave birth to Suryu. Suryu gave birth to Ukbu. Ukbu gave birth to Gudo (some say Gudo). Gudo gave birth to Miju, and Mijung succeeded to the throne. The Silla Kim clan began from Alji.",
+  "ko": "알지는 열한을 낳았다. 열한은 아도를 낳았다. 아도는 수류를 낳았다. 수류는 욱부를 낳았다. 욱부는 구도(일설에 구도)를 낳았다. 구도는 미주를 낳았고, 미중이 왕위를 이어받았다. 신라 김씨는 알지부터 시작되었다.",
   "is_header": false
  },
  {
   "id": 9,
-  "tag": "P0003_1",
-  "en": "The Crown Prince yielded his position and established Passageu behind him. He did not take the throne and emerged from a golden chest, so his surname was Kim.",
-  "ko": "태자(太子)가 자리를 양보하고 뒤에 파사왕(婆娑)을 세웠다. 그는 왕위를 받지 않았고, 금궤(金樻)에서 나왔으니 성은 금씨(金氏)였다.",
-  "is_header": false
- },
- {
-  "id": 10,
-  "tag": "P0003_2",
-  "en": "Alji gave birth to Yeolhan, Yeolhan gave birth to Ado, and Ado gave birth to Suryu.",
-  "ko": "알지(閼智)가 열한(熱漢)을 낳고, 열한이 아도(阿都)를 낳았으며, 아도가 수류(首留)를 낳았다.",
-  "is_header": false
- },
- {
-  "id": 11,
-  "tag": "P0003_3",
-  "en": "Suryu gave birth to Ukbu, and Ukbu gave birth to Gudo (in one version, Gudo), and Gudo gave birth to Miju. Miju inherited the throne. The Silla Kim clan began from Alji.",
-  "ko": "수류는 욱부(郁部)를 낳고, 욱부는 구도(俱道)(일자 구도(仇刀))를 낳았으며, 구도는 미주(未鄒)를 낳았다. 미주가 왕위를 이어받았다. 신라 금씨는 알지부터 시작되었다.",
-  "is_header": false
- },
- {
-  "id": 12,
   "tag": "S04",
   "en": "Yeono-rang and Seo-nyeo",
   "ko": "연오랑과 세오녀",
   "is_header": true
  },
  {
-  "id": 13,
+  "id": 10,
   "tag": "P0005_1",
-  "en": "It was the year of Jeongyu, the fourth year of King Adara's reign. Yeonorang and Seoeo lived by the East Sea coast, and the couple resided together.",
-  "ko": "아달라왕(阿達羅王)이 즉위한 지 사년 되는 정유년이었다. 동해 변에 연오랑(延烏郎)과 세오녀(細烏女)가 살고 있었으며, 부부는 함께 거주하였다.",
+  "en": "It was the year of Jeongyu, four years after King Adalla ascended the throne. Yeonorang and Seoeunyeo lived by the coast of the East Sea. The two lived together as a married couple.",
+  "ko": "아달라왕이 즉위한 지 네 해가 되던 정유년이었다. 동해 바닷가에 연오랑과 세오녀가 살고 있었다. 두 사람은 부부로 함께 살았다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0005_2",
+  "en": "One day, Yeonurang went out to the sea to gather seaweed. At that time, a rock (some say it was a fish) carried him on its back and left for Japan. The people of that land saw this and said he was not an ordinary person.",
+  "ko": "어느 날 연오랑이 바다로 나가 해초를 채취했다. 그때 바위 하나(어떤 이는 물고기라고도 한다)가 그를 짊어지고 일본으로 떠났다. 그 나라 사람들이 이를 보고 평범한 사람이 아니라고 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0005_3",
+  "en": "They established Yeon-orang as king (a man became king, but this was a small king of a frontier land and not a true king). Seo-nyeo found it strange that her husband did not return and set out to find him. She discovered the shoes he had taken off.",
+  "ko": "그들은 연오랑을 왕으로 세웠다(사람이 왕이 되었으나, 이는 변방의 작은 왕일 뿐 진짜 왕은 아니었다). 세오녀는 남편이 오지 않자 이상하게 여겨 그를 찾아 나섰다. 그녀는 남편이 벗어 놓은 신발을 발견했다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0005_4",
+  "en": "Seoeunyeo also climbed onto that rock, and the rock carried her and departed for the place where it had gone before. The people of the land were astonished and reported this matter to the king.",
+  "ko": "세오녀도 그 바위에 올라타고 바위는 다시 그녀를 짊어지고 앞서간 곳으로 떠났다. 나라 사람들이 놀라 이 일을 왕에게 보고했다.",
   "is_header": false
  },
  {
   "id": 14,
-  "tag": "P0005_2",
-  "en": "One day, while Yeonorang went to the seashore to gather seaweed, a rock (some say a fish) suddenly carried him on its back and returned to Japan. The people of that land saw this and said, \"This is no ordinary person.\"",
-  "ko": "어느 날 연오랑이 해변으로 나가 해초를 채취하던 중, 갑자기 바위 하나(어떤 이는 물고기라고도 한다)가 그를 짊어지고 일본으로 돌아갔다. 그 나라 사람들이 이를 보고 \"이것은 보통 사람이 아니다\"라고 말했다.",
+  "tag": "P0005_5",
+  "en": "When the couple met, Seoeunyeo was appointed as a royal concubine. At that time, the sun and moon of Silla lost their light. A subject reported, \"The essence of the sun and moon has descended into our land.\"",
+  "ko": "부부가 만나자 세오녀를 귀비로 삼았다. 이때 신라의 해와 달이 빛을 잃었다. 신하가 아뢰기를 \"해와 달의 정기가 우리 나라에 내려왔다\"고 하였다.",
   "is_header": false
  },
  {
   "id": 15,
-  "tag": "P0005_3",
-  "en": "He was established as a king (the fact that a person became king meant he was a minor king of a frontier area and not a true king). Seonyeo found it strange that her husband did not return and went to search for him, where she discovered the shoes he had taken off.",
-  "ko": "그는 왕으로 세워졌다(사람이 왕이 된 것은 변방의 작은 왕이며, 진정한 왕은 아니다). 세오녀는 남편이 돌아오지 않자 이상하게 여겨 찾았는데, 남편이 벗어 놓은 신발을 발견했다.",
+  "tag": "P0006_1",
+  "en": "It is now Japan. In the past, a strange thing occurred. The king sent envoys to seek two people. Yeonu said.",
+  "ko": "지금은 일본이다. 예전에 기이한 일이 일어났다. 왕이 사신을 보내 두 사람을 찾았다. 연우가 말했다.",
   "is_header": false
  },
  {
   "id": 16,
-  "tag": "P0005_4",
-  "en": "Seoeo also rode the rock, and the rock carried her away just as before. The people of that land were astonished and reported it to the king.",
-  "ko": "세오녀도 그 바위에 올라타고, 바위 또한 그녀를 짊어지고 앞서와 같이 떠났다. 그 나라 사람들이 놀라 왕에게 아뢰었다.",
+  "tag": "P0006_2",
+  "en": "When I arrived in this land, the celestial envoy was also like this. How shall we return now? Fortunately, the Empress's silk is here. It will suffice to offer it as a sacrifice to heaven. Furthermore, he bestowed that silk.",
+  "ko": "\"내가 이 나라에 왔을 때 천사도 그러했다. 이제 어떻게 돌아가겠는가? 마침 황후의 비단이 여기 있다. 이것으로 하늘에 제사 지내면 된다. 또한 그 비단을 하사했다.",
   "is_header": false
  },
  {
   "id": 17,
-  "tag": "P0005_5",
-  "en": "When the couple met again, Seonyeo was established as a royal concubine. At that time, the sun and moon of Silla lost their light, and the one in charge of the sun reported, \"The essence of the sun and moon has descended into our land.\"",
-  "ko": "부부가 서로 만나게 되자 세오녀를 귀비로 삼았다. 이때 신라의 해와 달이 빛을 잃었는데, 해를 담당하는 자가 아뢰기를 \"해와 달의 정수가 우리 나라에 내려왔다\"고 하였다.",
+  "tag": "P0006_3",
+  "en": "The envoy returned and reported. The king performed the ritual as the envoy suggested. Then the sun and the moon returned to how they were before.",
+  "ko": "사신이 돌아와 보고했다. 왕은 사신의 말대로 제사를 지냈다. 그러자 해와 달이 예전처럼 돌아왔다.",
   "is_header": false
  },
  {
   "id": 18,
-  "tag": "P0006_1",
-  "en": "Now, when going to Japan, this strange thing happened in the past. The king sent envoys and demanded two people. Yeonu said, \"When I arrived at this land, the heavenly messenger was also like this.\"",
-  "ko": "지금 일본에 가니 예전에 이 괴이한 일이 일어났다. 왕이 사신을 보내 두 사람을 요구하였다. 연우(延烏)가 말했다. \"내가 이 나라에 이르렀을 때 천사도 그러했다.",
+  "tag": "P0006_4",
+  "en": "The king put the silk in a storehouse and made it a national treasure. He called that storehouse Gwibigo, and he called the place where the sacrifice was offered Yeongnilhyeon. He also called it Dogiya.",
+  "ko": "왕은 비단을 창고에 넣어 나라의 보물로 삼았다. 그 창고를 귀비고라 불렀고, 제사 지낸 곳을 영일현이라 했다. 또한 도기야라고도 불렀다.",
   "is_header": false
  },
  {
   "id": 19,
-  "tag": "P0006_2",
-  "en": "\"How shall we return now? Fortunately, there is fine silk woven by the Emperor's concubine; it will suffice to offer a sacrifice to heaven with this.\" He also bestowed the silk and sent someone to report it.",
-  "ko": "이제 어떻게 돌아가겠소? 마침 황제의 비가 짜놓은 고운 비단이 있으니 이것으로 하늘에 제사 지내면 될 것이다. \" 또한 그 비단을 하사하고 사람을 보내 보고하게 하였다.",
-  "is_header": false
- },
- {
-  "id": 20,
-  "tag": "P0006_3",
-  "en": "They performed the sacrifice according to his words, and afterward, the sun and moon became as they were before.",
-  "ko": "그의 말에 따라 제사를 지내니 그 후에 해와 달이 예전과 같이 되었다.",
-  "is_header": false
- },
- {
-  "id": 21,
-  "tag": "P0006_4",
-  "en": "They placed the silk in the royal storehouse and made it a national treasure, named the storehouse Gwibigo, and called the place where they offered the sacrifice Yeongnilhyeon. It was also called Doginya.",
-  "ko": "그 비단을 어물고에 넣어 국보로 삼고, 그 고를 귀비고(貴妃庫)라 이름하였으며, 제사 지낸 곳을 영일현(迎日縣)이라 하였다. 또한 도기야(都祈野)라고도 하였다.",
-  "is_header": false
- },
- {
-  "id": 22,
   "tag": "S07",
   "en": "King Michu and the Bamboo-Leaf Army",
   "ko": "미추왕과 죽엽군",
   "is_header": true
  },
  {
-  "id": 23,
+  "id": 20,
   "tag": "P0008_1",
-  "en": "Thirteenth, Heuksejayeong is Seongdeok, the seventh descendant of Kim Alji of Miju I Sageum (some records say Maljo or Malgo).",
-  "ko": "열셋째, 미추왕(末鄒) 이사금(尼叱今)(일부에는 말조 또는 말고로 기록됨)의 김알지(金閼智) 일곱째 손자인 혁세자영이 성덕왕(聖德)이다.",
+  "en": "The thirteenth was King Michu (in one edition, it is written as Mijo or Migo). He was the seventh-generation grandson of Gimalji and also bore the name Seongdeok. He received teachings from King Yuri and ascended to the throne. He reigned for twenty-three years and passed away.",
+  "ko": "열세째는 미추왕이다. (한 판본에는 미조 또는 미고로 적혔다.) 그는 김알지의 일곱 대손자이며 성덕왕의 이름이기도 하다. 그는 유리왕에게 가르침을 받고 왕위에 올랐다. 그는 스물세 해 동안 재위하다가 세상을 떠났다.",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0008_2",
+  "en": "His tomb is located east of Heungnyunsasa. The fourteenth is an event from the reign of Yuriwang. People from Seosiguk came and attacked Geumseong. Our army defended with all its might, but could not hold out for long. At that moment, strange soldiers suddenly appeared and helped.",
+  "ko": "그의 능은 흥륜사 동쪽에 있다. 열네째는 유리왕 때의 일이다. 서시국의 사람들이 찾아와 금성을 공격했다. 우리 군대는 힘껏 방어했으나 오랫동안 버티지 못했다. 그때 갑자기 기이한 병사들이 나타나 도왔다.",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0008_3",
+  "en": "They all wore bamboo leaves. They joined forces with our army and defeated the enemies.",
+  "ko": "그들은 모두 대나뭇잎을 쓰고 있었다. 그들은 우리 군과 힘을 합쳐 적을 물리쳤다.",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0008_4",
+  "en": "After the enemy retreated, it was unknown where they went. However, bamboo leaves were seen piled in front of the tomb of Miju-wang. People then realized that the mysterious power of the former king had achieved the victory.",
+  "ko": "적군이 물러난 뒤 어디로 갔는지 알 수 없었다. 다만 미추왕의 능 앞에 대나뭇잎이 쌓여 있는 것을 보았다. 사람들은 비로소 선왕의 신비로운 힘이 공을 세웠음을 알았다.",
   "is_header": false
  },
  {
   "id": 24,
-  "tag": "P0008_2",
-  "en": "He received the transmission of the dharma from Yulirang and ascended the throne. He reigned for twenty-three years and, upon his death, his tomb was located to the east of Heungnyunsa.",
-  "ko": "그는 유리왕(儒理)에게 선전을 받고 왕위에 올랐다. 재위 기간은 스물세 년이었으며 그가 죽자 능은 흥륜사(興輪寺) 동쪽에 위치하게 되었다.",
+  "tag": "P0008_5",
+  "en": "People called it Jukhyeonreung. This matter was passed down only during the reign of King Hyegong, thirty-six generations later.",
+  "ko": "사람들은 죽현릉을 불렀다. 서른여섯 세 뒤인 혜공왕 때에 이르러서야 이 일이 전해졌다.",
   "is_header": false
  },
  {
   "id": 25,
-  "tag": "P0008_3",
-  "en": "Fourteenth, during the reign of Yulirang, people from Seoguk came and attacked Geumseong. Our army defended in large numbers, but they could not resist for a long time. Suddenly, other soldiers came to help, and they all used bamboo leaves.",
-  "ko": "열넷째, 유리왕의 시대에 서국 사람이 찾아와 금성(金城)을 공격했다. 우리 군대가 대거 방어했으나 오랫동안 저항할 수 없었다. 갑자기 다른 병사들이 와서 도왔는데, 그들은 모두 대나뭇잎(竹葉)을 쓰고 있었다.",
+  "tag": "P0009_1",
+  "en": "It was the fourth month of the year Gimi, the fourteenth year of Daeryeok. Suddenly, a whirlwind rose from the tomb of Yusin-gong.",
+  "ko": "대력 열네 해 기미년 사월이었다. 갑자기 회오리바람이 일었다. 그 바람은 유신공의 무덤에서 솟아올랐다.",
   "is_header": false
  },
  {
   "id": 26,
-  "tag": "P0008_4",
-  "en": "They joined forces with our army and defeated the enemy. After the army retreated, it was unknown where they went, but bamboo leaves were seen piled in front of the tomb of Miju. Thus, they realized that the former king possessed mysterious merit.",
-  "ko": "그들은 우리 군과 힘을 합쳐 적을 격퇴하였다. 군대가 물러난 뒤 어디로 돌아갔는지 알 수 없었으나, 다만 미추왕의 능 앞에 대나뭇잎이 쌓여 있는 것을 보았다. 이에 선왕의 신묘한 공덕이 있음을 알게 되었다.",
+  "tag": "P0009_2",
+  "en": "Within that wind, there was one man. He appeared riding a swift horse in the appearance of a general. About forty warriors equipped with clothes and armor followed behind him.",
+  "ko": "그 바람 속에는 한 사람이 있었다. 그는 준마를 타고 장군의 모습으로 나타났다. 옷과 갑옷을 갖춘 마흔 명 정도의 무사들도 뒤를 따랐다.",
   "is_header": false
  },
  {
   "id": 27,
-  "tag": "P0008_5",
-  "en": "They called it Jukhyeonreung. After thirty-six generations, it became the era of Hyegongwang.",
-  "ko": "그들은 죽현릉(竹現陵)을 불렀다. 서른여섯 세를 지나 혜공왕(惠恭)의 시대가 되었다.",
+  "tag": "P0009_3",
+  "en": "They entered Jukhyeonreung. Soon, sounds of shaking and crying came from inside the tomb. A voice that sounded like a lament also came.",
+  "ko": "그들은 죽현릉으로 들어갔다. 곧 능 안에서 흔들리는 소리와 울음소리가 들렸다. 누군가 하소연하는 듯한 목소리도 들려왔다.",
   "is_header": false
  },
  {
   "id": 28,
-  "tag": "P0009_1",
-  "en": "In the fourth month of the year Gimi in the fourteenth year of Daeryeok, a whirlwind suddenly arose. The wind rose from the tomb of Yushin-gong. From within it, one person appeared riding a swift horse with the appearance of a general.",
-  "ko": "대력 열사년 기미 사월에 갑자기 회오리바람이 일었다. 그 바람은 유신공(廋信公)의 무덤에서 일어났다. 그 속에 한 사람이 준마를 타고 장군의 모습과 같은 형상으로 나타났다.",
+  "tag": "P0009_4",
+  "en": "He said, \"I have achieved the merit of assisting the nation and saving it from crises throughout my life. Even now as a spirit, my heart to protect the country remains unchanged.\"",
+  "ko": "그는 말했다. \"나는 평생 나라를 돕고 난국을 구하는 공을 세웠다. 지금도 혼령이 되어 나라를 지키려는 마음은 변함이 없다.",
   "is_header": false
  },
  {
   "id": 29,
-  "tag": "P0009_2",
-  "en": "There were also about forty people equipped with armor and weapons. The place they followed into was Jukhyeonneung. After a short while, a sobbing sound that seemed to vibrate came from inside the tomb.",
-  "ko": "또한 갑옷과 무기를 갖춘 자가 마흔여 명이나 있었다. 그들이 뒤따라 들어간 곳은 죽현릉(竹現陵)이었다. 얼마 지나지 않아 능 안에서 진동하는 듯한 울음소리가 들려왔다.",
+  "tag": "P0009_5",
+  "en": "In the year Gyeongsul, my descendants were executed without crime. The monarch and the officials did not heed my achievements. I now intend to move to another place and no longer labor.",
+  "ko": "지난 경술년에 내 자손들이 죄 없이 죽임을 당했다. 임금과 신하들은 나의 공적을 돌보지 않았다. 나는 이제 다른 곳으로 옮겨가 더 이상 애쓰지 않으려 한다.\"",
   "is_header": false
  },
  {
   "id": 30,
-  "tag": "P0009_3",
-  "en": "The sound was like a voice reporting something. He said, \"I had the merit of assisting the era, rescuing it from crises, and promoting harmony throughout my life.\"",
-  "ko": "그 소리는 마치 무언가를 고하는 듯한 음성이었다. 그가 말하기를, \"신은 평생에 시대를 보필하고 난국을 구하며 화합을 도모하는 공이 있었다.\"라고 하였다.",
+  "tag": "P0010_1",
+  "en": "Wang Yun asked. The King replied, \"If only you and I do not protect this land, what will become of the people? You must exert your strength again as before.\" He requested three times, but it was not permitted three times. The whirlwind then returned.",
+  "ko": "왕윤이 물었다. 왕이 대답했다. \"오직 나와 공이 이 나라를 지키지 못한다면 백성들은 어찌 되겠소? 그대는 예전처럼 다시 힘을 내시오.\" 세 번 청했으나 세 번이나 허락되지 않았다. 소용돌이가 곧 돌아갔다.",
   "is_header": false
  },
  {
   "id": 31,
-  "tag": "P0009_4",
-  "en": "Even now, as a soul, my heart to protect the nation and avert disasters has not changed in the slightest.",
-  "ko": "\"지금 혼백이 되어 나라를 지키고 재앙을 막으려는 마음이 조금도 변하지 않았다.",
+  "tag": "P0010_2",
+  "en": "The King heard those words and felt fear. The King sent the meritorious official Kim Gyeongsin to go to the tomb of Kim-gong to offer an apology. The King prepared thirty measures of merit fields for Kim-gong and established them at Chwiseonsa. This was to provide for his blessings in the afterlife.",
+  "ko": "왕은 그 말을 듣고 두려워했다. 왕은 공신 김경신을 보내 김공의 무덤에 가서 사죄하게 했다. 왕은 김공을 위해 공덕보전을 서른 결 마련하여 취선사에 세웠다. 이는 죽은 뒤의 복을 돕기 위함이었다.",
   "is_header": false
  },
  {
   "id": 32,
-  "tag": "P0009_5",
-  "en": "In the previous Gyeongseul year, my descendants were executed without crime, yet the king and the officials did not consider my merits. I now wish to move far away to another place and will no longer labor or work.",
-  "ko": "지난 경술년에 신의 자손들이 죄 없이 죽임을 당했는데, 임금과 신하들은 나의 공렬을 생각지 않았다. 신은 이제 다른 곳으로 멀리 옮겨가 더 이상 수고하며 일하지 않겠다. \"",
+  "tag": "P0010_3",
+  "en": "The temple was the place established by Kimgong to pray for blessings after he pacified Pyeongyangseong. Because it was not the spirit of King Michu, it could not have averted the anger of Kimgong. Since the king's merit in protecting the nation was not small, the people remembered his grace.",
+  "ko": "절은 김공이 평양을 평정한 뒤에 복을 빌기 위해 세운 곳이다. 미추왕의 영령이 아니었기에 김공의 노여움을 막을 수 없었다. 왕이 나라를 지키는 공이 결코 작지 않았기에, 백성들은 그 은덕을 기렸다.",
   "is_header": false
  },
  {
   "id": 33,
-  "tag": "P0010_1",
-  "en": "Wang Yun pleaded, and the King replied, \"If only you and the Duke do not protect this land, what will become of the people? You must strive again as before.\" He requested three times, but it was not permitted three times; then the wind returned.",
-  "ko": "왕윤(王允)이 원하니 왕(王)이 답하였다. \"오직 나와 공(公)이 이 나라를 보호하지 않는다면 백성들이 어찌 되겠소? 공은 다시 전과 같이 힘쓰시오.\" 세 번 청했으나 세 번 허락되지 않자, 곧 바람이 돌아갔다.",
-  "is_header": false
- },
- {
-  "id": 34,
-  "tag": "P0010_2",
-  "en": "The King heard this and felt fear, and finally sent the official Kim Gyeongsin to the tomb of Lord Kim to offer apologies. He also established thirty measures of merit fields at Chwiseonsa for the sake of the Lord's merit to aid his blessings in the underworld.",
-  "ko": "왕은 이를 듣고 두려워하여, 마침내 공인 김경신(金敬信)을 보내 김공의 능에 가서 사죄하게 하였다. 또한 공을 위해 공덕보전 서른 결을 취선사(鷲仙寺)에 세워 명부의 복을 돕게 하였다.",
-  "is_header": false
- },
- {
-  "id": 35,
-  "tag": "P0010_3",
-  "en": "The temple was originally established by Kimgong to pray for blessings after he pacified Pyeongyangseong. The spirit of Miju-wang could not have appeased the anger of Kimgong, and the merit of Wang in protecting the nation was great.",
-  "ko": "절은 본래 김공이 평양(平壤)을 평정한 뒤에 복을 빌기 위해 세운 곳이다. 미추왕(末鄒)의 영령으로는 김공의 노여움을 막을 수 없었으며, 왕이 나라를 보호한 공이 매우 컸다.",
-  "is_header": false
- },
- {
-  "id": 36,
   "tag": "P0010_4",
-  "en": "Thus, the people of the land honored his virtue and enshrined him together with the Three Mountains without falling behind, and his rank rose above the Five Tombs to be called Daemyo.",
-  "ko": "그리하여 나라 사람들이 그 덕을 기려 삼산(三山)과 함께 모시되 뒤처지지 않았고, 품계가 오릉(五陵) 위로 올라가 대묘(大廟)라 불리게 되었다.",
+  "en": "The people did not forget him and performed ancestral rites together with the Three Mountains. Their rank rose higher than that of the Five Royal Tombs. People called this place Daemyo.",
+  "ko": "백성들은 삼산과 함께 제사를 지내며 잊지 않았다. 그들의 품계는 오릉보다 높게 올라갔다. 사람들은 이곳을 대묘라고 불렀다.",
   "is_header": false
  }
 ]

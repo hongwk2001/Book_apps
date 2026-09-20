@@ -12,8 +12,8 @@ android {
         applicationId = "com.tkprof.secretgarden"
         minSdk = 24
         targetSdk = 36
-        versionCode = 3
-        versionName = "Aug/2026"
+        versionCode = 4
+        versionName = "Sep/2026"
     }
 
     signingConfigs {

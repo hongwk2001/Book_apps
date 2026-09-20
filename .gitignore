@@ -24,3 +24,6 @@ keystore.jks
 # Python
 __pycache__/
 *.pyc
+
+# R8/ProGuard mapping files (regenerated per release build, ~33 MB each)
+*/release/mapping.txt

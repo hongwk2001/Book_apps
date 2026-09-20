@@ -16,330 +16,281 @@
  {
   "id": 3,
   "tag": "P0002_1",
-  "en": "The narrative says that generally, when the sages of old established the rites and music to found nations and established benevolence and righteousness to spread teachings, strange powers and unruly spirits were not spoken of.",
-  "ko": "서술하기를, 대체로 옛 성인들이 예악을 일으켜 나라를 세우고 인의를 세워 가르침을 전할 때에는, 괴력난신(怪力亂神)이 말하지 않는 바였다.",
+  "en": "To put it simply, the ancient sages established nations through ritual and music and established teachings through benevolence and righteousness. They did not speak of strange occurrences or spirits.",
+  "ko": "말하자면 이러하다. 옛 성인들은 예악으로 나라를 일으키고 인의로 가르침을 세웠다. 그들은 괴이한 일이나 귀신 이야기를 입에 올리지 않았다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "However, when an emperor was about to rise and received the talismanic mandate and the records of diagrams, there were inevitably points that set them apart from others.",
-  "ko": "그러나 제왕이 일어날 때에 부명(符命)을 받들고 도록(圖錄)을 받으면 반드시 남과 다른 점이 있게 마련이다.",
+  "en": "When emperors were about to establish a nation, they received heavenly talismans or prophetic records of the future. They certainly possessed something different from others. Only then could they ride great changes, hold great vessels, and achieve great deeds.",
+  "ko": "제왕이 나라를 일으키려 할 때 하늘이 내린 징표를 받거나 앞날을 적은 예언서를 받았다. 반드시 남과 다른 특별한 것을 가졌다. 그래야 큰 변화를 타고 큰 그릇을 쥐어 큰 업적을 이룰 수 있었다.",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Only then could they ride great changes, grasp great instruments, and achieve great deeds. Therefore, after the Hado and Lokseo appeared, sages emerged; a rainbow enveloped Sinmo to give birth to Bokhi.",
-  "ko": "그 후에야 비로소 큰 변화를 타고 큰 기틀을 쥐어 큰 업적을 이룰 수 있다. 그러므로 하도(河圖)가 나오고 낙서(洛書)가 나온 뒤에 성인이 나타났으며, 무지개는 신모(神母)를 감싸며 복희(伏羲)를 낳았다.",
+  "en": "Therefore, after the painting emerged from the Hado and the writing emerged from the Luseo, sages appeared. The rainbow wrapped around the mother of the gods and gave birth to Fuxi, and the dragon moved Yuding and gave birth to Yan.",
+  "ko": "그래서 하도에서 그림이 나오고 낙서에서 글이 나온 뒤에 성인들이 나타났다. 무지개는 신의 어머니를 감싸며 복희를 낳았고, 용은 여등을 감응하게 하여 염제를 낳았다.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "The dragon caused Yeodeung to respond and gave birth to Yeomje. When Hwanga wandered the fields of Gungsang, a divine boy identified himself as the son of Baekje and had intercourse with Soho.",
-  "ko": "용은 여등(女登)을 감응하게 하여 염제(炎帝)를 낳았다. 황아(皇娥)가 궁상(窮桑)의 들판을 노닐 때, 신동이 스스로 백제자(白帝子)라 칭하며 소호(少昊)와 통교하였다.",
+  "en": "When Huang'a wandered the fields of Gungsang, a divine child identified himself as the son of Baekje and gave birth to Soho. Ganjeok swallowed an egg and gave birth to Seol, and Gangwon followed footprints and gave birth to Gi. After carrying for fourteen months in the womb, she gave birth to Yao.",
+  "ko": "황아는 궁상의 들판을 거닐 때 신동이 백제자라 자칭하며 소호를 낳았다. 간적은 알을 삼켜 설을 낳았고, 강원은 발자국을 밟으며 기를 낳았다. 태중에서 열네 달을 품어 요임금을 낳았다.",
   "is_header": false
  },
  {
   "id": 7,
-  "tag": "P0002_5",
-  "en": "Ganjeok swallowed an egg and gave birth to Seol, and Gangwon followed footprints and gave birth to Gi. After being pregnant for fourteen months, Yao was born.",
-  "ko": "간적(簡狄)은 알을 삼켜 설(契)을 낳았고, 강원(姜嫄)은 발자취를 밟아 기(棄)를 낳았다. 태중에 임신한 지 열네 달 만에 요(堯)임금을 낳았다.",
+  "tag": "P0003_1",
+  "en": "A dragon intertwined with a large pond and gave birth to Paegong. From this point, the records were cut off. How could everything be recorded?",
+  "ko": "용이 큰 못과 엉켜 패공을 낳았다. 이때부터 기록이 끊겼다. 어찌 모든 것을 다 적을 수 있겠는가.",
   "is_header": false
  },
  {
   "id": 8,
-  "tag": "P0003_1",
-  "en": "A dragon mated in a large pond and gave birth to Paegong. Records have descended since that time, but how could they all be recorded?",
-  "ko": "용이 큰 못에서 교합하여 패공(沛公)을 낳았다. 이때부터 기록이 내려오는데 어찌 다 적을 수 있겠는가.",
+  "tag": "P0003_2",
+  "en": "However, the ancestors of the Three Kingdoms all began from mysterious events. Therefore, what was there to be surprised about? This is the reason why strange occurrences were placed at the beginning of various chapters. The intent lies here.",
+  "ko": "그러나 삼국의 시조들은 모두 신비로운 일에서 시작되었다. 그러니 무엇이 그리 놀랍겠는가. 이것이 기이한 일을 여러 편의 첫머리에 둔 까닭이다. 그 뜻은 여기에 있다.",
   "is_header": false
  },
  {
   "id": 9,
-  "tag": "P0003_2",
-  "en": "However, the ancestors of the Three Kingdoms all originated from mysterious events, so why would that be strange? This is the reason why Giyi was placed at the beginning of various chapters, and the intent lies here.",
-  "ko": "그러나 삼국의 시조들은 모두 신비로운 일에서 비롯되었으니 무엇이 이상하겠는가. 이것이 기이(紀異)를 여러 편의 첫머리에 둔 까닭이며, 뜻은 여기에 있다.",
-  "is_header": false
- },
- {
-  "id": 10,
   "tag": "S04",
   "en": "Gojoseon: Dangun Wanggeom",
   "ko": "고조선 (왕검조선)",
   "is_header": true
  },
  {
-  "id": 11,
+  "id": 10,
   "tag": "P0005_1",
-  "en": "(Wanggeomseong Joseon) The *Weishi* states: \"After some time, two thousand years ago, there was Dangun Wanggeom. He established the capital in Asadal (the scriptures call it Muyeopsan, and also say Baegak.\"",
-  "ko": "(왕검성(王儉) 조선) 《위서(魏書)》에 이르기를, \"이윽고 이천 년 전이에 단군왕검(壇君王儉)이 있었다. 아사달(阿斯達)(경전에서는 무엽산이라 하고, 또한 백악이라 한다.",
+  "en": "(Wanggeomseong Joseon) The *Wei Shu* states that long ago, two thousand years ago, there was Dangun Wanggeom. He established the capital at Asadal (the scriptures call it Muyeopsan or Baegak.",
+  "ko": "(왕검성 조선) 《위서》에 이르기를, 옛날에 두천 년 전 단군왕검이 있었다. 그는 아사달(경전은 무엽산이라 하고 또 백악이라도 한다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0005_2",
+  "en": "He established the capital at Asadal (the scriptures call it Muyeopsan, and some also call it Baegak; it is in the land of Baekju, while others say it is east of Gaeseong. It is the current Baegakgung) and founded the nation's name as Joseon. This was the same era as King Yao.",
+  "ko": "백주 땅에 있으며 어떤 이는 개성 동쪽에 있다고 한다. 지금의 백악궁이다)에 도읍을 정하고 나라 이름을 조선이라 세웠다. 이는 요임금과 같은 시대였다.",
   "is_header": false
  },
  {
   "id": 12,
-  "tag": "P0005_2",
-  "en": "It was located in the land of Baekju, though some said it was east of Gaeseong. The current Baegakgung is that very place. He established the capital there and founded the nation, calling it Joseon. This was during the same era as King Yao.",
-  "ko": "백주 땅에 있으며, 어떤 이는 개성 동쪽에 있다고 한다. 지금 백악궁이 바로 그곳이다)에 도읍을 세우고 나라를 열어 조선이라 불렀다. 이는 요(堯)임금과 같은 시대였다. \"라고 하였다.",
+  "tag": "P0005_3",
+  "en": "The Gogi says: Long ago, there was Hwanung, the son of Hwanin (meaning the Heavenly King). Hwanung harbored the intent to rule the world and desired the human realm. His father knew his son's intention and looked down.",
+  "ko": "《고기》에 이르기를, 옛날에 환인(제석을 뜻한다)의 서자인 환웅이 있었다. 환웅은 천하를 다스릴 마음을 품고 인간 세상을 탐내었다. 아버지는 아들의 뜻을 알아서 아래를 굽어보았다.",
   "is_header": false
  },
  {
   "id": 13,
-  "tag": "P0005_3",
-  "en": "The *Gogi* states, \"Long ago, Hwanwoong, the illegitimate son of Hwanin (referring to Cheuk), conceived the intent to rule the world and desired the human realm.\"",
-  "ko": "《고기(古記)》에 이르기를, \"옛적에 환인(桓因)(제석(帝釋)을 말한다)의 서자(庶子)인 환웅(桓雄)이 천하를 다스릴 뜻을 품고 인간 세상을 탐내었다.\"라고 하였다.",
+  "tag": "P0005_4",
+  "en": "The father saw that he could greatly benefit the people at Samwitaebaek. The father gave three heavenly seals to Hwanung and sent him down with them to rule the world.",
+  "ko": "아버지는 삼위태백에서 사람들을 널리 이롭게 할 수 있음을 보았다. 아버지는 세 개의 천부인을 환웅에게 내어주었다. 그리고 그에게 그것을 가지고 내려가 세상을 다스리라고 보냈다.",
   "is_header": false
  },
  {
   "id": 14,
-  "tag": "P0005_4",
-  "en": "The father knew the son's intention. The father looked at Samwi Taebaek and saw that it could be used to widely benefit the human world, and thus he gave three Cheonbuin and sent Hwanung to rule with them.",
-  "ko": "아버지는 아들의 뜻을 알았다. 아버지는 삼위태백(三危太伯)을 살펴서 널리 인간을 이롭게 할 수 있다고 보았고, 이에 천부인(天符印) 세 개를 내어주며 환웅을 보내 그것으로 다스리게 하였다.",
+  "tag": "P0006_1",
+  "en": "Hwanung led a group of three thousand and descended below the Sindansu tree on the summit of Taebaeksan (which is present-day Myohyansan). Hwanung called that place Sinsi, which referred to Hwanung Cheonwang.",
+  "ko": "환웅은 무리 삼천 명을 거느리고 태백산 꼭대기(즉, 태백산은 지금의 묘향산이다) 신단수 아래에 내려왔다. 환웅은 그곳을 신시라 불렀으며, 이는 곧 환웅 천왕을 일컫는 말이다.",
   "is_header": false
  },
  {
   "id": 15,
-  "tag": "P0006_1",
-  "en": "Hwanung led a group of three thousand and descended below the Sindansu on the summit of Taebaeksan (Taebaeksan is now Myohyansan), and called it Sinsi; this referred to Hwanung Cheonwang.",
-  "ko": "환웅(桓雄)이 무리 삼천 명을 거느리고 태백산(太伯山) 꼭대기(곧 태백산은 지금의 묘향산이다) 신단수(神壇樹) 아래에 내려와 이를 신시(神市)라 불렀으니, 이는 환웅천왕을 일컫는 것이다.",
+  "tag": "P0006_2",
+  "en": "Hwanung took the gods who were in charge of wind, rain, and clouds, and made them govern grain, life, disease, punishment, and good and evil. Hwanung took on all more than three hundred and sixty matters that governed the human world, lived in the world, and ruled and taught it.",
+  "ko": "환웅은 바람과 비와 구름을 맡은 신들을 거느리고 곡식과 생명과 질병과 형벌과 선악을 주관하게 했다. 환웅은 인간 세상을 다스리는 삼백육십여 가지 일을 모두 맡아 세상에 살며 다스리고 교화했다.",
   "is_header": false
  },
  {
   "id": 16,
-  "tag": "P0006_2",
-  "en": "Hwanung took the divine beings Pungbaek, Usa, and Unsa, who were in charge of wind, rain, and clouds, and had them govern grain, life, disease, punishment, and good and evil. They were assigned over three hundred and sixty matters to rule the human world, and they lived in the world while governing and transforming it.",
-  "ko": "환웅이 바람·비·구름을 맡은 신인 풍백(風伯), 우사(雨師), 운사(雲師)를 거느리고 곡식과 생명, 질병과 형벌, 선악을 주관하게 했다. 모든 인간 세상을 다스리는 삼백육십여 가지 일을 맡아 세상에 살면서 다스리고 교화했다.",
+  "tag": "P0006_3",
+  "en": "At that time, a bear and a tiger lived in the same cave and always prayed to Sinung. They desired to become human.",
+  "ko": "그때 한 마리 곰과 한 마리 범이 같은 굴에 살면서 늘 신웅에게 빌었다. 그들은 사람이 되기를 원했다.",
   "is_header": false
  },
  {
   "id": 17,
-  "tag": "P0006_3",
-  "en": "At that time, a bear and a tiger lived in the same cave and always prayed to Sinung. They desired to become human.",
-  "ko": "이때 한 마리의 곰과 한 마리의 범이 같은 굴에 살며 항상 신웅(神雄)에게 빌었다. 사람이 되기를 원했다.",
+  "tag": "P0006_4",
+  "en": "Hwanung gave them a bundle of divine mugwort and twenty cloves of garlic and said, \"Eat these and do not see the sunlight for one hundred days. Then you will obtain human form.\"",
+  "ko": "환웅은 신령한 쑥 한 단과 마늘 스무 개를 내어주며 말했다. \"너희는 이것을 먹고 백일 동안 햇빛을 보지 마라. 그러면 사람의 형상을 얻을 것이다.\"",
   "is_header": false
  },
  {
   "id": 18,
-  "tag": "P0006_4",
-  "en": "At that time, Hwanung left a bundle of divine mugwort and twenty cloves of garlic and said, \"If your group eats these and does not see the sunlight for one hundred days, you will soon obtain human form.\"",
-  "ko": "이때 환웅이 신령한 쑥 한 단과 마늘 스무 개를 남겨두고 말하였다. \"너희 무리가 이것을 먹고 백일 동안 햇빛을 보지 않으면 곧 사람의 형상을 얻으리라. \"",
+  "tag": "P0006_5",
+  "en": "The bear and the tiger received and ate them. The two beasts endured for twenty-one days. The bear transformed into a woman's body. However, the tiger could not endure. Therefore, the tiger did not obtain a human body.",
+  "ko": "곰과 범은 그것을 얻어 먹었다. 두 짐승은 스무하루 동안을 참았다. 곰은 여자로 변했다. 그러나 범은 참지 못했다. 그래서 범은 사람의 몸을 얻지 못했다.",
   "is_header": false
  },
  {
   "id": 19,
-  "tag": "P0006_5",
-  "en": "The bear and the tiger obtained and ate them and endured for twenty-one days. The bear obtained a woman's body, but the tiger could not endure and did not obtain a human body.",
-  "ko": "곰과 범은 그것을 얻어 먹고 스무하루 동안을 참았다. 곰은 여자의 몸을 얻었으나, 범은 참지 못하여 사람의 몸을 얻지 못했다.",
+  "tag": "P0007_1",
+  "en": "Ungnyeo had no one to marry. Therefore, she prayed under the Sindansu tree every time for a child. Hwanung disguised himself as a human and married her. A son was born from them, and his name was called Dangun Wanggeom.",
+  "ko": "웅녀는 혼인할 상대가 없었다. 그래서 매번 신단수 아래에서 아이를 갖게 해달라고 빌었다. 환웅은 잠시 사람으로 변하여 웅녀와 혼인하였다. 그 사이에서 아들이 태어났고, 이름을 단군왕검이라 하였다.",
   "is_header": false
  },
  {
   "id": 20,
-  "tag": "P0007_1",
-  "en": "Ungnyeo had no one to marry. Therefore, she prayed under the Sindansu tree for a child every time.",
-  "ko": "웅녀(熊女)는 (곰이 변한 여자) 결혼할 상대가 없었다. 그러므로 매번 신단수(神壇樹) 아래에서 아이를 갖게 해달라고 빌었다.",
+  "tag": "P0007_2",
+  "en": "In the Gyeongin year, which was the fiftieth year since Yao's accession (the first year of his reign was Mujin and the fiftieth year was Jeongsa; as it was not Gyeongin, the record is not certain), the capital was moved to Pyeongyangseong (now Seogyeong) and was first called Joseon.",
+  "ko": "요임금이 즉위한 지 오십 년이 되는 경인년에(당신이 즉위한 첫해는 무진이고, 오십 년째는 정사이다. 경인이 아니니 기록이 확실치 않다), 평양성(지금의 서경)으로 도읍을 옮겨 처음으로 조선이라 불렀다.",
   "is_header": false
  },
  {
   "id": 21,
-  "tag": "P0007_2",
-  "en": "Hwanung disguised himself as a human and married her. She conceived and gave birth to a son, and his name was called Dangun Wanggeom.",
-  "ko": "환웅은 잠시 사람으로 변하여 그녀와 혼인하였다. 아이를 임신하여 아들을 낳았으니, 그 이름을 단군왕검(壇君王儉)이라 하였다.",
+  "tag": "P0007_3",
+  "en": "After that, the capital was moved to Asadal on Baegaksan. That place was also called Gungholsan (in one version, it is written as Bang) or Midal.",
+  "ko": "그 후 도읍을 백악산 아사달로 옮겼다. 그곳은 궁홀산(한 곳에서는 방이라도 씀) 또는 미달이라고도 불렸다.",
   "is_header": false
  },
  {
   "id": 22,
-  "tag": "P0007_3",
-  "en": "In the year Gyeongin, which was the fiftieth year since Yao ascended the throne (the first year of Yao's reign was Mujin; if it were fifty years, it should be Jeongsa, not Gyeongin. It is suspected that this is not factual),",
-  "ko": "요임금(唐堯)이 즉위한 지 오십 년 되는 경인년(唐高即位五十年庚寅)(요임금이 즉위한 첫해는 무진이다.",
+  "tag": "P0007_4",
+  "en": "One thousand five hundred years had passed since the rule of the country. In the year Gimyo, when King Mu of Zhou ascended the throne, he entrusted Joseon to Gija. Dangun moved the capital to Jangdanggyeong.",
+  "ko": "나라를 다스린 지 천오백 년이 되었다. 주나라 무왕이 즉위한 기묘년에 기자에게 조선을 맡겼다. 단군은 도읍을 장당경으로 옮겼다.",
   "is_header": false
  },
  {
   "id": 23,
-  "tag": "P0007_4",
-  "en": "If it were fifty years after Yao's accession, the year would be Jeongsa, not Gyeongin; thus, it is suspected that this did not actually occur. In the year Gyeongin, the capital was moved to Pyeongyangseong (now Seogyeong) and was first called Joseon.",
-  "ko": "그러면 오십 년은 정사여야 하니, 경인이 아니다. 실재하지 않는 것으로 의심된다)에 평양성(今西京)으로 도읍을 옮겨 처음으로 조선이라 불렀다.",
+  "tag": "P0008_1",
+  "en": "He later returned to Asadal and lived in hiding, becoming a mountain god. His lifespan was one thousand nine hundred and eight years. This was recorded in the Baegujeon of the Tang Dynasty.",
+  "ko": "그는 나중에 아사달로 돌아가 숨어 살며 산신이 되었다. 그의 수명은 천구백여덟 살이었다. 당나라의 배구전에서 기록하였다.",
   "is_header": false
  },
  {
   "id": 24,
-  "tag": "P0007_5",
-  "en": "He also moved the capital to Asadal on Baegaksan, and named it Gungholsan (one version records it as Bang), which is called Midal today.",
-  "ko": "또한 도읍을 백악산 아사달로 옮겼으며, 또 궁홀산(弓忽山)(한 자는 방이라 씀)이라 이름하였고 지금은 미달이라 한다.",
+  "tag": "P0008_2",
+  "en": "Goryeo was originally Gojukguk (now Haeju). It was the land that the Zhou Dynasty bestowed upon Gija as Joseon. The Han Dynasty divided it into three districts and established them. They were called Hyeondo, Nakrang, and Daebang. Tongjeon also conveys this same account.",
+  "ko": "고구려는 본래 고죽국(지금의 해주)이었다. 주나라가 기자에게 조선을 봉한 땅이다. 한나라가 세 군을 나누어 설치했다. 이를 현도, 낙랑, 대방이라 불렀다. 통전에서도 이와 같은 설을 전한다.",
   "is_header": false
  },
  {
   "id": 25,
-  "tag": "P0007_6",
-  "en": "When the rule of the land reached one thousand five hundred years, King Mu of Zhou ascended the throne and enfeoffed Gija in Joseon in the year Gimyo. Dangun moved the capital to Jangdanggyeong.",
-  "ko": "나라를 다스린 지 천오백 년이 되자 주나라 무왕(周虎王)이 즉위하여 기묘년에 기자(箕子)를 조선에 봉했다. 단군은 도읍을 장당경(藏唐京)으로 옮겼다.",
-  "is_header": false
- },
- {
-  "id": 26,
-  "tag": "P0008_1",
-  "en": "After that, he hid in Asadal and became a mountain god. His lifespan was one thousand nine hundred and eighty years. The Tang Dynasty's Baegujeon stated that Goryeo was originally Gojukguk (present-day Haeju).",
-  "ko": "그 후에 다시 아사달(阿斯達)에 숨어 산신이 되었다. 수명은 천구백여덟 살이었다. 당나라 배구전(裴矩傳)에서 이르기를, 고구려(高麗)는 본래 고죽국(孤竹國)(지금의 해주)이라 하였다.",
-  "is_header": false
- },
- {
-  "id": 27,
-  "tag": "P0008_2",
-  "en": "The state of Zhou enfeoffed Gija and called it Joseon, and the state of Han divided it into three commanderies. These were called Hyeondo, Nakrang, and Daebang (North Daebang). The Tongjeon also holds this same view.",
-  "ko": "주나라가 기자(箕子)를 봉하여 조선이라 불렀고, 한나라가 세 군을 나누어 두었다. 이를 현도(玄菟), 낙랑(樂浪), 대방(帶方)(북대방)이라 하였다. 통전(通典) 또한 이 설과 같다.",
-  "is_header": false
- },
- {
-  "id": 28,
   "tag": "S09",
   "en": "Wiman Joseon",
   "ko": "위만조선",
   "is_header": true
  },
  {
-  "id": 29,
+  "id": 26,
   "tag": "P0010_1",
-  "en": "The Chronicles of Joseon in the Former Han state say that since the time of Yan, Jinbeon Joseon was always plundered, and officials were stationed and barriers were built there.",
-  "ko": "전한(前漢) 조선전에서 이르기를, 예부터 연나라 때 항상 진번(真番) 조선을 약탈하여 관리를 배치하고 방벽을 쌓았다.",
+  "en": "The records of Joseon in the Former Han state say that since the time of Yan, Jinbeon Joseon was frequently plundered. They stationed officials and built barriers. When Qin destroyed Yan, this land became part of the Liaodong outskirts.",
+  "ko": "한나라의 조선 기록에 이르기를, 옛 연나라 시절부터 진번 조선은 늘 약탈을 당했다. 그들은 관리를 배치하고 방벽을 쌓았다. 진나라가 연나라를 멸망시키자 이 땅은 요동 외곽으로 속하게 되었다.",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0010_2",
+  "en": "After the Han Dynasty rose, it was difficult to defend because of the distance. The Han repaired the old fortifications of Liaodong and established the boundary at Paesu, making it part of Yan.",
+  "ko": "한나라가 일어난 뒤에는 거리가 멀어 지키기 어려웠다. 한나라는 다시 요동의 옛 성벽을 수리했다. 패수에서 경계를 정하고 이를 연나라에 속하게 했다.",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0010_3",
+  "en": "The King of Yan, No Gwan, rebelled and entered the Xiongnu territory. Wiman, a person of Yan, fled to save his life. He gathered a group of about one thousand people and passed through the eastern fortress.",
+  "ko": "연나라 왕 노관이 반란을 일으켜 흉노로 들어갔다. 연나라 사람 위만이 목숨을 구하기 위해 도망쳤다. 그는 천여 명의 무리를 모아 동쪽 성벽을 빠져나왔다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0010_4",
+  "en": "He crossed the Paesu, settled in the land left empty by the Qin, and built barriers. He ruled the barbarians of Jinbeon and Imdun and led those kings who had fled.",
+  "ko": "그는 패수를 건너 진나라가 비워둔 땅에 자리를 잡고 방벽을 세웠다. 그가 진번 임둔의 오랑캐들을 다스리며 도망친 왕들을 거느렸다.",
   "is_header": false
  },
  {
   "id": 30,
-  "tag": "P0010_2",
-  "en": "When Qin destroyed Yan, it became part of the Liaodong outskirts. When Han rose, it was difficult to defend due to its distance, but they repaired the old fortifications of Liaodong and established the Paesu as the boundary, making it part of Yan.",
-  "ko": "진(秦)이 연을 멸망시키자 요동(遼東) 외곽에 속하게 되었다. 한나라가 일어났을 때는 멀리 있어 지키기 어려웠으나, 다시 요동의 옛 성벽을 수축하여 패수(浿水)를 경계로 삼고 연나라에 속하게 하였다.",
+  "tag": "P0010_5",
+  "en": "He established his capital at Wanggeomseong and forced the neighboring villages to submit. Jinbeon and Imdun all obeyed, and the territory reached several thousand li. Wiman passed this on to his son, and this was passed on to his grandson Ugeo.",
+  "ko": "그는 왕검성에 도읍을 정하고 주변 마을을 굴복시켰다. 진번과 임둔이 모두 복종하였으며 그 땅은 수천 리에 달했다. 위만은 아들에게 전했고, 이 뜻은 손자 우거에게 전해졌다.",
   "is_header": false
  },
  {
   "id": 31,
-  "tag": "P0010_3",
-  "en": "King Luwan of Yan rebelled and entered the territory of the Xiongnu.",
-  "ko": "연왕 노관(盧綰)이 반란을 일으켜 흉노(凶奴)로 들어갔다.",
+  "tag": "P0011_1",
+  "en": "Jinbeon and Jinguk intended to write a letter to the Emperor. However, passage was blocked. In the second year of Wonpung, the Han envoy Seopha issued an order to Ugeo. Ugeo ultimately refused to accept the command.",
+  "ko": "진번과 진국이 천자에게 올릴 글을 쓰고자 했다. 그러나 통행이 막혀 있었다. 원봉 이년, 한나라 사신 섭하가 우거에게 명령을 내렸다. 우거는 끝내 명을 받들지 않았다.",
   "is_header": false
  },
  {
   "id": 32,
-  "tag": "P0010_4",
-  "en": "Wiman, a man of Yan, fled to save his life and gathered a group of over a thousand people, went out through the eastern barrier, and crossed the Paesu. He stayed in the former vacant land of Qin, built barriers, and gradually subjugated the barbarians of Jinbeon Joseon by employing them.",
-  "ko": "연나라 사람 위만(衛滿)이 목숨을 구하기 위해 도망쳐 천여 명의 무리를 모아 동쪽으로 성벽을 나가 패수를 건넜다. 진나라의 옛 빈터에 머물며 방벽을 쌓고, 조금씩 진번 조선의 만인들을 부려 복속시켰다.",
+  "tag": "P0011_2",
+  "en": "Seopha went to the border and reached the Paesu. Seopha ordered his groom to stab and kill Jang, the Biwang of Joseon, who was escorting him. The groom entered the fortress and reported the news, and the Emperor appointed Seopha as the Budowi of Liodong.",
+  "ko": "섭하가 경계까지 가서 패수 가에 이르렀다. 섭하가 마부를 시켜 자신을 배웅하던 조선의 비왕 장을 찔러 죽였다. 마부는 성 안으로 들어가 소식을 알렸고, 천자는 섭하를 요동의 부도위로 임명했다.",
   "is_header": false
  },
  {
   "id": 33,
-  "tag": "P0010_5",
-  "en": "Those who had fled from the former states of Yan and Qi gathered there.",
-  "ko": "그곳에 예전 연과 제나라에서 도망쳐 온 자들이 모여들었다.",
+  "tag": "P0011_3",
+  "en": "Joseon resented He and attacked him, killing him. The Emperor sent General Louliang Yang Pu to cross the Yellow Sea with troops from Qi. There were fifty thousand soldiers. Left General Xun Zhi went out to Liaodong to attack Ugeo.",
+  "ko": "조선이 섭하를 원망하며 습격하여 그를 죽였다. 천자는 누선장군 양복을 보내어 제나라 군사와 함께 황해를 건너게 했다. 병사는 오만 명이었다. 좌장군 순체는 요동으로 나가 우거를 공격했다.",
   "is_header": false
  },
  {
   "id": 34,
-  "tag": "P0010_6",
-  "en": "They took Wanggeomseong as their capital and, by the power of their military, invaded and subdued the nearby small villages. The people of Jinbeon Imdun all came to submit, and the territory reached several thousand li.",
-  "ko": "그들은 왕검성(王儉)을 도읍으로 삼고 병력의 위세로 주변의 작은 마을들을 침범하여 굴복시켰다. 진번 임둔(臨屯)이 모두 와서 복종하였으며, 그 범위가 어느덧 수천 리에 달했다.",
+  "tag": "P0011_4",
+  "en": "Ugeo raised his troops and resisted in a rugged place. General Loutian led seven thousand people from Qi and arrived at Wanggeomseong first. Ugeo defended the city. He knew that the forces of General Loutian were small.",
+  "ko": "우거가 군사를 일으켜 험한 곳에서 저항했다. 누선장군은 제나라 사람 칠천 명을 거느리고 먼저 왕검성에 도착했다. 우거는 성안에서 지키고 있었다. 그는 누선장군의 군세가 적다고 알았다.",
   "is_header": false
  },
  {
   "id": 35,
-  "tag": "P0010_7",
-  "en": "Wiman passed it on to his son and it reached his grandson Ugeo.",
-  "ko": "위만이 아들에게 전하고 손자 우거(右渠)에게 이르렀다.",
+  "tag": "P0012_1",
+  "en": "They immediately went out to attack the ships of General Nuseon. General Nuseon was defeated and fled, and his subordinates lost their groups and escaped into the mountains to save their lives. The Left General attacked the western army of Joseon at Paesu but could not defeat them.",
+  "ko": "곧 출격하여 누선장군이 배를 공격했다. 누선장군은 패배하여 달아났고, 부하들은 무리를 잃고 산속으로 숨어 목숨을 건졌다. 좌장군은 조선의 패수 서쪽 군대를 공격했으나 이기지 못했다.",
   "is_header": false
  },
  {
   "id": 36,
-  "tag": "P0011_1",
-  "en": "Jinbeon and Jinguk sought to submit a memorial to the Emperor, but they could not pass through Yongaek. In the second year of Wonpung, the Han envoy Seopha ordered Ugeo, but he ultimately refused to accept the imperial edict.",
-  "ko": "진번(真番)과 진국(辰國)이 상소문을 올려 천자를 알리고자 했으나, 융액(雍閼)을 통과하지 못했다. 원봉(元封) 이년, 한나라 사신 섭하(涉何)가 우거(右渠)에게 명하였으나 끝내 조서를 받들지 않았다.",
+  "tag": "P0012_2",
+  "en": "The Emperor knew that the situation was not favorable for the two generals. He then sent Wisan to urge Ugeo to surrender using the might of the troops. Ugeo requested to surrender, and the Crown Prince was sent to offer horses.",
+  "ko": "천자는 두 장군이 유리하지 못한 상황임을 알았다. 이에 위산을 보내 병사들의 위엄을 빌려 우거에게 항복을 권고하게 했다. 우거는 항복을 청했고, 태자를 보내 말을 바치기로 했다.",
   "is_header": false
  },
  {
   "id": 37,
-  "tag": "P0011_2",
-  "en": "Seopha went to the border and reached Paesu. A groom stabbed and killed Jang, the Biwang of Joseon, who was escorting Seopha. Only then did he cross the river, and the groom entered the fortress, returned, and reported.",
-  "ko": "섭하가 경계까지 가서 패수(浿水)에 이르렀다. 섭하를 배웅하던 조선의 비왕(裨王) 장(長)을 마부가 찔러 죽였다. 그제야 물을 건너고 마부는 성 안으로 들어가 돌아와 보고했다.",
+  "tag": "P0012_3",
+  "en": "A crowd of ten thousand people carried weapons and was crossing the Paesu. The messenger and the Left General suspected they were attempting a trick. They said that since the Crown Prince had already submitted, he should not carry weapons.",
+  "ko": "한만여 명의 인파가 무기를 들고 패수를 건너고 있었다. 사자와 좌장군은 그들이 변칙을 부리는지 의심했다. 그들은 태자가 이미 복종했으니 무기를 버려야 한다고 말했다.",
   "is_header": false
  },
  {
   "id": 38,
-  "tag": "P0011_3",
-  "en": "The Emperor appointed Seopha as the Budowi of Lyodong. Joseon resented Seopha and ambushed and killed him. The Emperor sent General Nuseon and Yang Pu to cross the Bohae with fifty thousand soldiers from Qi.",
-  "ko": "천자가 섭하를 요동(遼東)의 부도위(部都尉)로 임명했다. 조선이 섭하를 원망하여 습격하여 죽였다. 천자가 누선장군(樓舡將軍)과 양복(楊僕)을 보내 제나라 군사로 발해를 건너게 했으며, 병사는 오만 명이었다.",
+  "tag": "P0012_4",
+  "en": "The Crown Prince also suspected that the messenger was deceiving him. He did not cross the Paesu and turned his troops back. He reported to the Emperor and executed Wisan. The Left General defeated the upper army of the Paesu, arrived below the city, and besieged their northwest.",
+  "ko": "태자도 사자가 자신을 속이는지 의심했다. 그는 결국 패수를 건너지 않고 군대를 돌려 돌아왔다. 그는 천자에게 보고하여 위산을 베었다. 좌장군은 패수 상군을 꺾고 성 아래에 이르러 그들의 서북쪽을 에워쌌다.",
   "is_header": false
  },
  {
   "id": 39,
-  "tag": "P0011_4",
-  "en": "Left General Xun Zhi went to Liaodong and attacked Ugeo. Ugeo deployed his troops and resisted in a rugged place.",
-  "ko": "좌장군 순체(荀彘)가 요동으로 나가 우거를 공격했다. 우거는 군사를 내어 험준한 곳에서 저항했다.",
+  "tag": "P0013_1",
+  "en": "Ugeo defended the fortress firmly. For several months, they could not take the fortress. The Emperor could not reach a conclusion for a long time. The Emperor sent Gongsun Sui, the former Taesu of Jenam, to correct Ugeo. General Pyeon followed him.",
+  "ko": "우거가 성을 굳게 지켰다. 몇 달 동안 성을 함락하지 못했다. 황제는 오랫동안 결판을 내지 못했다. 황제는 옛 제남 태수 공손수를 보내 우거를 바로잡게 했다. 편의 장군이 그를 따라나섰다.",
   "is_header": false
  },
  {
   "id": 40,
-  "tag": "P0011_5",
-  "en": "General Lu-seon led seven thousand Qi soldiers and arrived at Wanggeomseong first. Ugeo defended the city and knew that the forces of General Lu-seon were few.",
-  "ko": "누선장군은 제나라 군사 칠천 명을 거느리고 먼저 왕검성(王儉)에 도착했다. 우거는 성에서 수비하며 누선장군의 군세가 적음을 알았다.",
+  "tag": "P0013_2",
+  "en": "When Gongsun Sui arrived, he bound and imprisoned General Nuseon and his army. The Left General launched a rapid attack on Joseon. The minister of Joseon, Norin, along with Han Do, Nikye Sangsam, and the general Wanghyeop conspired to surrender. However, Ugeo refused.",
+  "ko": "공순수가 도착하자 누선장군과 그의 군대를 묶어 가두었다. 좌장군은 조선을 급히 공격했다. 조선의 재상 노인과 한도, 니계상 삼, 그리고 장군 왕협은 서로 모의하며 항복하려 했다. 그러나 우거는 이를 거부했다.",
   "is_header": false
  },
  {
   "id": 41,
-  "tag": "P0012_1",
-  "en": "They immediately went out to attack General Nuseon. General Nuseon fled, and his followers scattered into the mountains and escaped. The Left General attacked the Western Army of Joseon at Paesu but could not break through.",
-  "ko": "곧 출격하여 누선장군을 공격했다. 누선장군은 패주하였고, 종자들이 흩어져 산속으로 달아나 목숨을 건졌다. 좌장군은 조선의 패수(浿水) 서군을 공격했으나 뚫지 못했다.",
+  "tag": "P0013_3",
+  "en": "Tao, Wanghyeop, and the elder all surrendered to the Han. The elder died. In the summer of the third year of Yuanfeng, Nigye Sangsam sent people to kill Wang Ugeo and make him surrender. Wanggeomseong was not yet captured. Seonggi, a minister of Ugeo, rebelled again.",
+  "ko": "한도와 왕협 그리고 노인은 모두 한나라에 항복했다. 노인은 죽었다. 원봉 삼년 여름에 니계상 삼이 사람을 시켜 왕우거를 죽이고 항복하게 했다. 왕검성은 아직 함락되지 않았다. 우거의 대신 성기가 다시 반기를 들었다.",
   "is_header": false
  },
  {
   "id": 42,
-  "tag": "P0012_2",
-  "en": "The Emperor judged that the two generals were not in a favorable position. He then sent Wisan to go to Ugeo with military prestige and urge him to surrender. Ugeo requested surrender, and the Crown Prince was sent to offer horses.",
-  "ko": "천자는 두 장군이 유리하지 않다고 판단하였다. 이에 위산(衛山)을 보내 병위로 우거(右渠)에게 가서 항복을 권고하게 하였다. 우거는 항복을 청하였고, 태자(太子)를 보내 말을 바치게 했다.",
-  "is_header": false
- },
- {
-  "id": 43,
-  "tag": "P0012_3",
-  "en": "When the people, numbering ten thousand, prepared to cross the Paesu with weapons, the messenger and the Left General suspected a plot. They said that since the Crown Prince had already submitted, he should have laid down his weapons.",
-  "ko": "사람들이 만여 명이나 되어 무기를 들고 막 패수를 건너려 할 때, 사자와 좌장군은 이를 변고로 의심했다. 그들은 태자가 이미 복종했으니 마땅히 무기를 버려야 한다고 말했다.",
-  "is_header": false
- },
- {
-  "id": 44,
-  "tag": "P0012_4",
-  "en": "The Crown Prince also suspected that the messenger was deceiving him, so he did not cross the Paesu and brought them back instead.",
-  "ko": "태자 또한 사자가 자신을 속이는 것을 의심하여 결국 패수를 건너지 않고 다시 데리고 돌아왔다.",
-  "is_header": false
- },
- {
-  "id": 45,
-  "tag": "P0012_5",
-  "en": "The Emperor was informed and Weisan was executed. The Left General defeated the upper army of Paesu and arrived first at the foot of the castle, surrounding its northwest side. Noseon also gathered at the south of the castle.",
-  "ko": "(천자에게 보고하여 위산을 베었다.) 좌장군은 패수 상군을 격파하고 먼저 성 아래에 이르러 그곳의 서북쪽을 포위했다. 누선장군도 남쪽 성에 모여들었다.",
-  "is_header": false
- },
- {
-  "id": 46,
-  "tag": "P0013_1",
-  "en": "Ugeo defended firmly and could not be captured for several months. Because the Emperor could not decide for a long time, he sent Gongsun Sui, the former Taesu of Jenam, to rectify the situation. General Pyeonui accompanied him as an attendant.",
-  "ko": "우거(右渠)가 견고하게 지키고 있어 몇 달 동안도 함락하지 못했다. 천자는 오랫동안 결단하지 못하자, 옛 제남 태수 공손수(公孫遂)를 보내 이를 바로잡게 했다. 편의 장군이 그를 따라 수행하였다.",
-  "is_header": false
- },
- {
-  "id": 47,
-  "tag": "P0013_2",
-  "en": "Gongsun Sui arrived and captured General Nuseon and his army. Then, the Left General launched a rapid attack on Joseon. The ministers of Joseon—Noin, Hando, Nigye Sangsam, and General Wanghyeop—conspired together to surrender.",
-  "ko": "공손수가 도착하여 누선장군(樓舡將軍)과 그의 군대를 포박했다. 그리고 좌장군이 조선을 급히 공격했다. 조선의 재상 노인(路人), 한도(韓陶), 니계상 삼(尼谿相參), 장군 왕협(王唊)은 서로 모의하여 항복하려 했다.",
-  "is_header": false
- },
- {
-  "id": 48,
-  "tag": "P0013_3",
-  "en": "Ugeo did not want this. However, Hando, Wanghyeop, and Noin all surrendered to the Han. Noin died. In the summer of the third year of Wonbong, Nigyesangsam sent people to kill Ugero and make him surrender. Wanggeomseong was not yet captured.",
-  "ko": "우거는 이를 원치 않았다. 그러나 한도, 왕협, 노인은 모두 한나라에 항복했다. 노인은 죽었다. 원봉(元封) 삼년 여름, 니계상 삼이 사람을 시켜 우거를 죽이고 항복하게 했다. 왕검성(王儉城)은 아직 함락되지 않았다.",
-  "is_header": false
- },
- {
-  "id": 49,
   "tag": "P0013_4",
-  "en": "Seong-i, a minister of Ugeo, rebelled again. The Left General ordered Jang, the son of Ugeo, and Choe, the son of Noin, to inform the people and plot to kill Seong-i. Thus, Gongsun Sui pacified Joseon and established the four commanderies of Jinbeon, Imdun, Nakrang, and Hyeondo.",
-  "ko": "우거의 대신 성기(成已)가 다시 반란을 일으켰다. 좌장군이 우거의 아들 장과 노인의 아들 최를 시켜 백성들에게 알리고 성기를 죽이도록 모의했다. 그리하여 공손수가 조선을 평정하고 진번, 임둔, 낙랑, 현도 네 군을 설치했다.",
+  "en": "The Left General ordered Jang, the son of Ugeo, and Choi, the son of the Old Man, to act. They informed the people and conspired to kill Seonggi. Thus, Gongsun Sui pacified Joseon and governed the four commanderies of Jinbeon, Imdun, Nakrang, and Hyeondo.",
+  "ko": "좌장군은 우거의 아들 장과 노인의 아들 최를 시켰다. 그들은 백성들에게 알리고 성기를 죽이기로 모의했다. 그리하여 공순수가 조선을 평정했다. 진번, 임둔, 낙랑, 현도 네 군을 다스리게 되었다.",
   "is_header": false
  }
 ]
