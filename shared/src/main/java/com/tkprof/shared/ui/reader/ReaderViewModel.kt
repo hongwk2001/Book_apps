@@ -244,20 +244,20 @@ class ReaderViewModel(
     }
 
     /** First index at or after [from] whose language is unmuted, or -1 if there is none. */
-    private fun nextReadableIndex(from: Int): Int {
+    private fun nextReadableIndex(queue: List<Sentence>, from: Int): Int {
         var i = maxOf(from, 0)
-        while (i < sentenceQueue.size) {
-            if (isReadable(sentenceQueue[i])) return i
+        while (i < queue.size) {
+            if (isReadable(queue[i])) return i
             i++
         }
         return -1
     }
 
     /** Last index at or before [from] whose language is unmuted, or -1 if there is none. */
-    private fun previousReadableIndex(from: Int): Int {
-        var i = minOf(from, sentenceQueue.size - 1)
+    private fun previousReadableIndex(queue: List<Sentence>, from: Int): Int {
+        var i = minOf(from, queue.size - 1)
         while (i >= 0) {
-            if (isReadable(sentenceQueue[i])) return i
+            if (isReadable(queue[i])) return i
             i--
         }
         return -1
@@ -355,9 +355,10 @@ class ReaderViewModel(
                 sendSetPlaying(false)
             }
 
-            if ((effectiveAutoPlay || effectiveSelectOnLoad) && sentenceQueue.isNotEmpty()) {
+            val loaded = sentenceQueue
+            if ((effectiveAutoPlay || effectiveSelectOnLoad) && loaded.isNotEmpty()) {
                 currentQueueIndex = if (playFromEnd) {
-                    previousReadableIndex(sentenceQueue.size - 1).takeIf { it != -1 } ?: (sentenceQueue.size - 1)
+                    previousReadableIndex(loaded, loaded.size - 1).takeIf { it != -1 } ?: (loaded.size - 1)
                 } else {
                     0
                 }
@@ -458,12 +459,13 @@ class ReaderViewModel(
 
     /** Start playing from a specific sentence */
     fun playFromSentence(sentenceId: String) {
-        val index = sentenceQueue.indexOfFirst { it.id == sentenceId }
+        val queue = sentenceQueue
+        val index = queue.indexOfFirst { it.id == sentenceId }
         if (index != -1) {
             currentQueueIndex = index
-            // With both languages muted there is nothing to speak, but the tap should
-            // still move the highlight rather than look ignored.
-            playCurrentSequence(play = hasReadableLanguage())
+            // A tap is a selection: it always highlights the line that was touched,
+            // and starts reading only when that line's own language is unmuted.
+            playCurrentSequence(play = isReadable(queue[index]))
         }
     }
 
@@ -502,7 +504,7 @@ class ReaderViewModel(
     fun nextSentence() {
         ttsManager.stop()
 
-        val target = nextReadableIndex(currentQueueIndex + 1)
+        val target = nextReadableIndex(sentenceQueue, currentQueueIndex + 1)
         if (target != -1) {
             currentQueueIndex = target
             playCurrentSequence(play = true)
@@ -518,7 +520,7 @@ class ReaderViewModel(
         // sentence to step back from, so start at the top of this chapter rather
         // than falling through to the end of the previous one.
         if (currentQueueIndex < 0) {
-            val first = nextReadableIndex(0)
+            val first = nextReadableIndex(sentenceQueue, 0)
             if (first != -1) {
                 currentQueueIndex = first
                 playCurrentSequence(play = true)
@@ -526,7 +528,7 @@ class ReaderViewModel(
             return
         }
 
-        val target = previousReadableIndex(currentQueueIndex - 1)
+        val target = previousReadableIndex(sentenceQueue, currentQueueIndex - 1)
         if (target != -1) {
             currentQueueIndex = target
             playCurrentSequence(play = true)
@@ -570,6 +572,18 @@ class ReaderViewModel(
             currentQueueIndex = queue.indexOfFirst { it.id == highlighted }.takeIf { it != -1 } ?: 0
         }
 
+        // Step over muted lines before anything is highlighted, so the highlight only
+        // ever lands on a line that is actually spoken. A tap on a muted line arrives
+        // with play = false and keeps its own highlight.
+        if (play && !isReadable(queue[currentQueueIndex])) {
+            val skipTo = nextReadableIndex(queue, currentQueueIndex + 1)
+            if (skipTo == -1) {
+                advanceToNextChapterOrStop(play = true)
+                return
+            }
+            currentQueueIndex = skipTo
+        }
+
         val s = queue[currentQueueIndex]
 
         // Update paragraph index for auto-scroll
@@ -585,19 +599,6 @@ class ReaderViewModel(
         if (!_isPlaying.value) {
             _isPlaying.value = true
             sendSetPlaying(true)
-        }
-
-        if (!isReadable(s)) {
-            // Jump over the muted language in one step rather than recursing once
-            // per sentence.
-            val skipTo = nextReadableIndex(currentQueueIndex + 1)
-            if (skipTo == -1) {
-                advanceToNextChapterOrStop(play = true)
-            } else {
-                currentQueueIndex = skipTo
-                playCurrentSequence()
-            }
-            return
         }
 
         val onDone = {

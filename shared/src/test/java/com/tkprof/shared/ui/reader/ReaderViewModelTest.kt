@@ -54,6 +54,12 @@ class ReaderViewModelTest {
         every { application.getSystemService(Context.AUDIO_SERVICE) } returns audioManager
         every { audioManager.requestAudioFocus(any<android.media.AudioFocusRequest>()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
         every { audioManager.abandonAudioFocusRequest(any<android.media.AudioFocusRequest>()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        // Build.VERSION.SDK_INT is 0 on the JVM, so the ViewModel takes the pre-O
+        // path. Without these the request is denied and playback never starts.
+        @Suppress("DEPRECATION")
+        every { audioManager.requestAudioFocus(any(), any(), any()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
+        @Suppress("DEPRECATION")
+        every { audioManager.abandonAudioFocus(any()) } returns AudioManager.AUDIOFOCUS_REQUEST_GRANTED
         
         every { sharedPrefs.getInt("bypassed_up_to_chapter", 0) } returns 0
         every { sharedPrefs.edit() } returns sharedPrefsEditor
@@ -296,6 +302,39 @@ class ReaderViewModelTest {
         assertEquals("Tap must move the highlight", "1_KO_0", viewModel.speakingSentenceId.value)
         assertFalse("Tap must not start playback", viewModel.isPlaying.value)
         verify(exactly = 0) { ttsManager.speakKorean(any(), any(), any()) }
+        verify(exactly = 0) { ttsManager.speakEnglish(any(), any(), any()) }
+    }
+
+    @Test
+    fun playFromSentence_onAMutedLine_highlightsItWithoutReading() {
+        // A tap is a selection: touching a muted line parks the highlight there
+        // instead of starting the neighbouring readable line.
+        isFullUnlockedFlow.value = true
+        viewModel.readEn.value = true
+        viewModel.readKo.value = false
+        seedQueue(enSentence, koSentence, index = 0)
+
+        viewModel.playFromSentence("1_KO_0")
+
+        assertEquals("Tapping a muted line selects it", "1_KO_0", viewModel.speakingSentenceId.value)
+        assertFalse("Tapping a muted line must not start playback", viewModel.isPlaying.value)
+        verify(exactly = 0) { ttsManager.speakKorean(any(), any(), any()) }
+        verify(exactly = 0) { ttsManager.speakEnglish(any(), any(), any()) }
+    }
+
+    @Test
+    fun playback_stepsOverMutedLinesWithoutHighlightingThem() {
+        // The highlight must land on the line being spoken, never on the muted line
+        // that playback passed through on the way.
+        isFullUnlockedFlow.value = true
+        viewModel.readEn.value = false
+        viewModel.readKo.value = true
+        seedQueue(enSentence, koSentence, index = 0)
+
+        viewModel.playOrPause()
+
+        assertEquals("Highlight follows the spoken line", "1_KO_0", viewModel.speakingSentenceId.value)
+        verify(exactly = 1) { ttsManager.speakKorean(any(), any(), any()) }
         verify(exactly = 0) { ttsManager.speakEnglish(any(), any(), any()) }
     }
 
