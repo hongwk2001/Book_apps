@@ -46,8 +46,20 @@ class TtsManager(private val context: Context) {
     var englishPitch: Float = prefs.getFloat(PREF_PITCH_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
     var koreanPitch: Float = prefs.getFloat(PREF_PITCH_KO, 1.0f).let { if (it <= 0f) 1.0f else it }
 
-    private var onCurrentUtteranceDone: (() -> Unit)? = null
-    private var onCurrentUtteranceError: (() -> Unit)? = null
+    // Written from the caller's thread, read on the engine's callback thread.
+    @Volatile private var onCurrentUtteranceDone: (() -> Unit)? = null
+    @Volatile private var onCurrentUtteranceError: (() -> Unit)? = null
+
+    /**
+     * Id of the utterance whose callbacks are still wanted.
+     *
+     * speak() uses QUEUE_FLUSH, so the engine reports onDone/onError for the
+     * utterance it just flushed -- asynchronously, and often after the replacement
+     * has been queued. Without this guard that late callback advances the sentence
+     * queue and flushes the sentence we only just started.
+     */
+    @Volatile private var currentUtteranceId: String? = null
+    private val utteranceCounter = java.util.concurrent.atomic.AtomicLong(0)
 
     fun init() {
         tts = TextToSpeech(context) { status ->
@@ -60,9 +72,12 @@ class TtsManager(private val context: Context) {
                 )
                 tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
                     override fun onStart(id: String?) {
+                        if (id != currentUtteranceId) return
                         _isSpeaking.value = true
                     }
                     override fun onDone(id: String?) {
+                        if (id != currentUtteranceId) return
+                        currentUtteranceId = null
                         _isSpeaking.value = false
                         val callback = onCurrentUtteranceDone
                         onCurrentUtteranceDone = null
@@ -71,6 +86,8 @@ class TtsManager(private val context: Context) {
                     }
                     @Deprecated("Deprecated in Java")
                     override fun onError(id: String?) {
+                        if (id != currentUtteranceId) return
+                        currentUtteranceId = null
                         _isSpeaking.value = false
                         val callback = onCurrentUtteranceError
                         onCurrentUtteranceDone = null
@@ -160,11 +177,14 @@ class TtsManager(private val context: Context) {
         engine.setPitch(englishPitch)
         selectedEnglishVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.US)
         
+        val utteranceId = "utt_en_${utteranceCounter.incrementAndGet()}"
+        currentUtteranceId = utteranceId
         onCurrentUtteranceDone = onDone
         onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_en_${System.currentTimeMillis()}")
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         if (result != TextToSpeech.SUCCESS) {
+            currentUtteranceId = null
             _isSpeaking.value = false
             onCurrentUtteranceDone = null
             onCurrentUtteranceError = null
@@ -181,11 +201,14 @@ class TtsManager(private val context: Context) {
         engine.setPitch(koreanPitch)
         selectedKoreanVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.KOREA)
         
+        val utteranceId = "utt_ko_${utteranceCounter.incrementAndGet()}"
+        currentUtteranceId = utteranceId
         onCurrentUtteranceDone = onDone
         onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_ko_${System.currentTimeMillis()}")
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         if (result != TextToSpeech.SUCCESS) {
+            currentUtteranceId = null
             _isSpeaking.value = false
             onCurrentUtteranceDone = null
             onCurrentUtteranceError = null
@@ -201,6 +224,7 @@ class TtsManager(private val context: Context) {
     }
 
     fun stop() {
+        currentUtteranceId = null
         onCurrentUtteranceDone = null
         onCurrentUtteranceError = null
         tts?.stop()
@@ -208,6 +232,7 @@ class TtsManager(private val context: Context) {
     }
 
     fun shutdown() {
+        currentUtteranceId = null
         onCurrentUtteranceDone = null
         onCurrentUtteranceError = null
         tts?.stop()

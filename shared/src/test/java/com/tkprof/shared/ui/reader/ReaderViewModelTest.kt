@@ -76,6 +76,24 @@ class ReaderViewModelTest {
         )
 
         viewModel = ReaderViewModel(application, bookConfig, ttsManager, billingManager)
+        awaitChapterLoad()
+    }
+
+    /**
+     * Wait for the in-flight chapter load to finish. It runs on Dispatchers.IO and
+     * rebuilds the sentence queue, so a test that seeds a queue before it completes
+     * has that queue pulled out from under it.
+     */
+    private fun awaitChapterLoad() {
+        val jobField = ReaderViewModel::class.java.getDeclaredField("loadJob")
+        jobField.isAccessible = true
+        val deadline = System.currentTimeMillis() + 5_000
+        while (System.currentTimeMillis() < deadline) {
+            val job = jobField.get(viewModel) as? kotlinx.coroutines.Job
+            if (job != null && job.isCompleted) return
+            Thread.sleep(5)
+        }
+        throw AssertionError("chapter load did not finish in time")
     }
 
     @After
@@ -177,13 +195,7 @@ class ReaderViewModelTest {
         (isPlayingField.get(viewModel) as MutableStateFlow<Boolean>).value = true
         viewModel.hasAudioFocus = true
 
-        val queueField = ReaderViewModel::class.java.getDeclaredField("sentenceQueue")
-        queueField.isAccessible = true
-        queueField.set(viewModel, listOf(com.tkprof.shared.model.Sentence("1_EN_0", "Hello world", Language.EN, 1, 0, 11)))
-
-        val indexField = ReaderViewModel::class.java.getDeclaredField("currentQueueIndex")
-        indexField.isAccessible = true
-        indexField.set(viewModel, 0)
+        seedQueue(enSentence, index = 0)
 
         // Simulate Android Auto navigation speaking (AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK)
         viewModel.audioFocusChangeListener.onAudioFocusChange(AudioManager.AUDIOFOCUS_LOSS_TRANSIENT_CAN_DUCK)
@@ -231,5 +243,80 @@ class ReaderViewModelTest {
 
         assertFalse(viewModel.isPlaying.value)
         assertFalse(viewModel.hasAudioFocus)
+    }
+    /** Seed the sentence queue directly; callers must have settled any chapter load. */
+    private fun seedQueue(vararg sentences: com.tkprof.shared.model.Sentence, index: Int) {
+        val queueField = ReaderViewModel::class.java.getDeclaredField("sentenceQueue")
+        queueField.isAccessible = true
+        queueField.set(viewModel, sentences.toList())
+        val indexField = ReaderViewModel::class.java.getDeclaredField("currentQueueIndex")
+        indexField.isAccessible = true
+        indexField.set(viewModel, index)
+    }
+
+    private fun currentQueueIndex(): Int {
+        val indexField = ReaderViewModel::class.java.getDeclaredField("currentQueueIndex")
+        indexField.isAccessible = true
+        return indexField.get(viewModel) as Int
+    }
+
+    private val enSentence = com.tkprof.shared.model.Sentence("1_EN_0", "Hello world", Language.EN, 1, 0, 11)
+    private val koSentence = com.tkprof.shared.model.Sentence("1_KO_0", "\uc548\ub155\ud558\uc138\uc694", Language.KO, 1, 0, 5)
+
+    @Test
+    fun playOrPause_withBothLanguagesMuted_staysOnTheChapter() {
+        // Regression: muting both languages made every sentence "skip", which ran off
+        // the end of the queue and loaded the next chapter, then the next, carrying
+        // the reader to the end of the book without ever speaking.
+        isFullUnlockedFlow.value = true
+        viewModel.readEn.value = false
+        viewModel.readKo.value = false
+        seedQueue(enSentence, koSentence, index = 0)
+
+        val chapterBefore = viewModel.currentChapterNumber.value
+        viewModel.playOrPause()
+
+        assertEquals("Play must not change chapter when nothing is readable", chapterBefore, viewModel.currentChapterNumber.value)
+        assertFalse("Play must not report playing when nothing is readable", viewModel.isPlaying.value)
+        verify(exactly = 0) { ttsManager.speakEnglish(any(), any(), any()) }
+        verify(exactly = 0) { ttsManager.speakKorean(any(), any(), any()) }
+    }
+
+    @Test
+    fun canRead_isFalse_onlyWhenBothLanguagesAreMuted() {
+        viewModel.readEn.value = false
+        viewModel.readKo.value = true
+        assertTrue(viewModel.readEn.value || viewModel.readKo.value)
+
+        viewModel.readKo.value = false
+        assertFalse(viewModel.readEn.value || viewModel.readKo.value)
+    }
+
+    @Test
+    fun playCurrentSequence_withStaleIndex_resyncsInsteadOfChangingChapter() {
+        // Regression: an index left over from a longer chapter read as "past the end"
+        // and silently advanced the chapter.
+        isFullUnlockedFlow.value = true
+        seedQueue(enSentence, koSentence, index = 57)
+
+        val chapterBefore = viewModel.currentChapterNumber.value
+        viewModel.playOrPause()
+
+        assertEquals("A stale index must not change chapter", chapterBefore, viewModel.currentChapterNumber.value)
+        assertTrue("Index must be brought back inside the queue", currentQueueIndex() in 0..1)
+    }
+
+    @Test
+    fun previousSentence_withNothingSelected_staysOnTheChapter() {
+        // Regression: with no sentence selected the backward scan started at -2, found
+        // nothing, and fell through to loading the previous chapter.
+        isFullUnlockedFlow.value = true
+        viewModel.loadChapter(4, autoPlay = false, selectOnLoad = false)
+        awaitChapterLoad()
+        seedQueue(enSentence, koSentence, index = -1)
+
+        viewModel.previousSentence()
+
+        assertEquals("Previous must not leave the chapter when nothing is selected", 4, viewModel.currentChapterNumber.value)
     }
 }

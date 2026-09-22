@@ -21,6 +21,11 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.launch
+import kotlinx.coroutines.Job
+import kotlinx.coroutines.ensureActive
+import kotlinx.coroutines.flow.SharingStarted
+import kotlinx.coroutines.flow.combine
+import kotlinx.coroutines.flow.stateIn
 import android.content.Intent
 import androidx.core.content.ContextCompat
 import com.tkprof.shared.tts.TtsPlaybackService
@@ -208,6 +213,12 @@ class ReaderViewModel(
     val readEn = MutableStateFlow(if (prefs.contains(PREF_READ_EN)) prefs.getBoolean(PREF_READ_EN, true) else true)
     val readKo = MutableStateFlow(if (prefs.contains(PREF_READ_KO)) prefs.getBoolean(PREF_READ_KO, true) else true)
 
+    /** False when both languages are muted, so there is nothing for Play to speak. */
+    val canRead: StateFlow<Boolean> = combine(readEn, readKo) { en, ko -> en || ko }
+        .stateIn(viewModelScope, SharingStarted.Eagerly, readEn.value || readKo.value)
+
+    private fun hasReadableLanguage(): Boolean = readEn.value || readKo.value
+
     private fun loadInitialLanguageOrder(): List<Language> {
         val saved = prefs.getString(PREF_LANGUAGE_ORDER, null) ?: return listOf(Language.EN, Language.KO)
         val parsed = saved.split(",").mapNotNull {
@@ -219,9 +230,38 @@ class ReaderViewModel(
     private val _bypassedUpToChapter = MutableStateFlow(0)
     val bypassedUpToChapter: StateFlow<Int> = _bypassedUpToChapter
 
-    // Flat queue of all playable sentences in the chapter
-    private var sentenceQueue = listOf<Sentence>()
-    private var currentQueueIndex = -1
+    // Flat queue of all playable sentences in the chapter. Both are written from the
+    // chapter-loading IO thread and from the TTS engine's callback thread.
+    @Volatile private var sentenceQueue = listOf<Sentence>()
+    @Volatile private var currentQueueIndex = -1
+
+    /** In-flight chapter load, cancelled as soon as a newer chapter is requested. */
+    private var loadJob: Job? = null
+
+    private fun isReadable(sentence: Sentence): Boolean = when (sentence.lang) {
+        Language.EN -> readEn.value
+        Language.KO -> readKo.value
+    }
+
+    /** First index at or after [from] whose language is unmuted, or -1 if there is none. */
+    private fun nextReadableIndex(from: Int): Int {
+        var i = maxOf(from, 0)
+        while (i < sentenceQueue.size) {
+            if (isReadable(sentenceQueue[i])) return i
+            i++
+        }
+        return -1
+    }
+
+    /** Last index at or before [from] whose language is unmuted, or -1 if there is none. */
+    private fun previousReadableIndex(from: Int): Int {
+        var i = minOf(from, sentenceQueue.size - 1)
+        while (i >= 0) {
+            if (isReadable(sentenceQueue[i])) return i
+            i--
+        }
+        return -1
+    }
 
         init {
         val lastChapter = prefs.getInt("last_chapter", 1)
@@ -271,10 +311,15 @@ class ReaderViewModel(
     fun loadChapter(number: Int, restoreSentenceId: String? = null, autoPlay: Boolean = false, playFromEnd: Boolean = false, selectOnLoad: Boolean = false) {
         prefs.edit().putInt("last_chapter", number).apply()
         notifyBackupDataChanged()
-        
+
         // Immediately synchronize state on the main thread
+        loadJob?.cancel()
         ttsManager.stop()
         _speakingSentenceId.value = null
+        _speakingParagraphIndex.value = -1
+        // Drop the outgoing chapter's sentences as well. Leaving them in place meant
+        // a Play press during the load spoke the chapter the reader had just left.
+        sentenceQueue = emptyList()
         currentQueueIndex = -1
         _currentChapterNumber.value = number
         if (!autoPlay) {
@@ -282,11 +327,14 @@ class ReaderViewModel(
             sendSetPlaying(false)
         }
 
-        viewModelScope.launch(Dispatchers.IO) {
+        loadJob = viewModelScope.launch(Dispatchers.IO) {
             val ch = repository.loadChapter(number)
+            // loadChapter() blocks, so a chapter picked while it ran could not have
+            // interrupted it -- drop the result rather than publish a stale chapter.
+            ensureActive()
             _currentChapter.value = ch
             rebuildSentenceQueue(ch)
-            
+
             if (restoreSentenceId != null) {
                 val idx = sentenceQueue.indexOfFirst { it.id == restoreSentenceId }
                 if (idx != -1) {
@@ -297,7 +345,7 @@ class ReaderViewModel(
             } else {
                 prefs.edit().remove("last_sentence_id").apply()
             }
-            
+
             val willShowPaywall = shouldShowSoftPaywall(number)
             val effectiveAutoPlay = autoPlay && !willShowPaywall
             val effectiveSelectOnLoad = selectOnLoad || (autoPlay && willShowPaywall)
@@ -308,20 +356,10 @@ class ReaderViewModel(
             }
 
             if ((effectiveAutoPlay || effectiveSelectOnLoad) && sentenceQueue.isNotEmpty()) {
-                if (playFromEnd) {
-                    var idx = sentenceQueue.size - 1
-                    while (idx >= 0) {
-                        val s = sentenceQueue[idx]
-                        val shouldRead = when (s.lang) {
-                            Language.EN -> readEn.value
-                            Language.KO -> readKo.value
-                        }
-                        if (shouldRead) break
-                        idx--
-                    }
-                    currentQueueIndex = if (idx >= 0) idx else sentenceQueue.size - 1
+                currentQueueIndex = if (playFromEnd) {
+                    previousReadableIndex(sentenceQueue.size - 1).takeIf { it != -1 } ?: (sentenceQueue.size - 1)
                 } else {
-                    currentQueueIndex = 0
+                    0
                 }
                 playCurrentSequence(play = effectiveAutoPlay)
             }
@@ -435,12 +473,11 @@ class ReaderViewModel(
             sendSetPlaying(false)
             abandonAudioFocus()
         } else {
-            if (currentQueueIndex == -1 && sentenceQueue.isNotEmpty()) {
+            if (sentenceQueue.isEmpty()) return
+            if (currentQueueIndex !in sentenceQueue.indices) {
                 currentQueueIndex = 0
             }
-            if (currentQueueIndex in sentenceQueue.indices) {
-                playCurrentSequence()
-            }
+            playCurrentSequence()
         }
     }
 
@@ -462,50 +499,34 @@ class ReaderViewModel(
 
     fun nextSentence() {
         ttsManager.stop()
-        
-        var tempIndex = currentQueueIndex + 1
-        while (tempIndex < sentenceQueue.size) {
-            val s = sentenceQueue[tempIndex]
-            val shouldRead = when (s.lang) {
-                Language.EN -> readEn.value
-                Language.KO -> readKo.value
-            }
-            if (shouldRead) break
-            tempIndex++
-        }
 
-        if (tempIndex < sentenceQueue.size) {
-            currentQueueIndex = tempIndex
+        val target = nextReadableIndex(currentQueueIndex + 1)
+        if (target != -1) {
+            currentQueueIndex = target
             playCurrentSequence(play = true)
         } else {
-            val next = _currentChapterNumber.value + 1
-            if (next <= _totalChapters.value) {
-                loadChapter(next, autoPlay = true, selectOnLoad = false)
-            } else {
-                _speakingSentenceId.value = null
-                _isPlaying.value = false
-                sendSetPlaying(false)
-                abandonAudioFocus()
-            }
+            advanceToNextChapterOrStop(play = true)
         }
     }
 
     fun previousSentence() {
         ttsManager.stop()
-        
-        var tempIndex = currentQueueIndex - 1
-        while (tempIndex >= 0) {
-            val s = sentenceQueue[tempIndex]
-            val shouldRead = when (s.lang) {
-                Language.EN -> readEn.value
-                Language.KO -> readKo.value
+
+        // Nothing selected yet (a fresh start with no saved sentence): there is no
+        // sentence to step back from, so start at the top of this chapter rather
+        // than falling through to the end of the previous one.
+        if (currentQueueIndex < 0) {
+            val first = nextReadableIndex(0)
+            if (first != -1) {
+                currentQueueIndex = first
+                playCurrentSequence(play = true)
             }
-            if (shouldRead) break
-            tempIndex--
+            return
         }
 
-        if (tempIndex >= 0) {
-            currentQueueIndex = tempIndex
+        val target = previousReadableIndex(currentQueueIndex - 1)
+        if (target != -1) {
+            currentQueueIndex = target
             playCurrentSequence(play = true)
         } else {
             val prev = _currentChapterNumber.value - 1
@@ -513,34 +534,42 @@ class ReaderViewModel(
                 loadChapter(prev, autoPlay = true, playFromEnd = true, selectOnLoad = false)
             } else {
                 _speakingSentenceId.value = null
-                _isPlaying.value = false
-                sendSetPlaying(false)
-                abandonAudioFocus()
+                stopPlaybackState()
             }
         }
     }
 
     private fun playCurrentSequence(play: Boolean = true) {
-        if (play && !requestAudioFocus()) return
-
-        if (currentQueueIndex !in sentenceQueue.indices) {
-            if (currentQueueIndex >= sentenceQueue.size && sentenceQueue.isNotEmpty()) {
-                val next = _currentChapterNumber.value + 1
-                if (next <= _totalChapters.value) {
-                    loadChapter(next, autoPlay = play, selectOnLoad = !play)
-                    return
-                }
-            }
-            _speakingSentenceId.value = null
-            _speakingParagraphIndex.value = -1
-            _isPlaying.value = false
-            sendSetPlaying(false)
-            abandonAudioFocus()
+        // Nothing is readable at all (both languages muted in Settings). Stop before
+        // taking audio focus: skipping forward would run off the end of every chapter
+        // in turn and carry the reader to the end of the book without a sound.
+        if (play && !hasReadableLanguage()) {
+            stopPlaybackState()
             return
         }
-        
-        val s = sentenceQueue[currentQueueIndex]
-        
+
+        if (play && !requestAudioFocus()) return
+
+        // Snapshot the queue: loadChapter() replaces it from an IO thread.
+        val queue = sentenceQueue
+        if (queue.isEmpty()) {
+            _speakingSentenceId.value = null
+            _speakingParagraphIndex.value = -1
+            stopPlaybackState()
+            return
+        }
+
+        // An index that no longer fits the queue means the chapter was swapped
+        // underneath us, not that the chapter finished. Resync to whatever is
+        // highlighted instead of reading it as "past the end" -- that used to
+        // quietly load the next chapter under the reader's feet.
+        if (currentQueueIndex !in queue.indices) {
+            val highlighted = _speakingSentenceId.value
+            currentQueueIndex = queue.indexOfFirst { it.id == highlighted }.takeIf { it != -1 } ?: 0
+        }
+
+        val s = queue[currentQueueIndex]
+
         // Update paragraph index for auto-scroll
         val ch = _currentChapter.value
         if (ch != null) {
@@ -548,42 +577,60 @@ class ReaderViewModel(
         }
 
         _speakingSentenceId.value = s.id
-        
+
         if (!play) return
-        
+
         if (!_isPlaying.value) {
             _isPlaying.value = true
             sendSetPlaying(true)
         }
-        
-        // Check if we should read this language
-        val shouldRead = when (s.lang) {
-            Language.EN -> readEn.value
-            Language.KO -> readKo.value
-        }
-        
-        if (!shouldRead) {
-            // Skip and go to next
-            currentQueueIndex++
-            playCurrentSequence()
+
+        if (!isReadable(s)) {
+            // Jump over the muted language in one step rather than recursing once
+            // per sentence.
+            val skipTo = nextReadableIndex(currentQueueIndex + 1)
+            if (skipTo == -1) {
+                advanceToNextChapterOrStop(play = true)
+            } else {
+                currentQueueIndex = skipTo
+                playCurrentSequence()
+            }
             return
         }
 
-        _speakingSentenceId.value = s.id
         val onDone = {
-            currentQueueIndex++
-            playCurrentSequence()
+            val next = currentQueueIndex + 1
+            if (next >= sentenceQueue.size) {
+                advanceToNextChapterOrStop(play = true)
+            } else {
+                currentQueueIndex = next
+                playCurrentSequence()
+            }
         }
-        val onError = {
-            _isPlaying.value = false
-            sendSetPlaying(false)
-            abandonAudioFocus()
-        }
+        val onError = { stopPlaybackState() }
 
         when (s.lang) {
             Language.KO -> ttsManager.speakKorean(s.text, onDone, onError)
             else -> ttsManager.speakEnglish(s.text, onDone, onError)
         }
+    }
+
+    /** The only path that turns "ran off the end of the queue" into a chapter change. */
+    private fun advanceToNextChapterOrStop(play: Boolean) {
+        val next = _currentChapterNumber.value + 1
+        if (next <= _totalChapters.value) {
+            loadChapter(next, autoPlay = play, selectOnLoad = !play)
+        } else {
+            _speakingSentenceId.value = null
+            _speakingParagraphIndex.value = -1
+            stopPlaybackState()
+        }
+    }
+
+    private fun stopPlaybackState() {
+        _isPlaying.value = false
+        sendSetPlaying(false)
+        abandonAudioFocus()
     }
 
     fun stopSpeaking() {

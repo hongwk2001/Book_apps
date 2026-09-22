@@ -68,6 +68,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val chapterTitles by viewModel.chapterTitles.collectAsState()
     val speakingId by viewModel.speakingSentenceId.collectAsState()
     val isPlaying by viewModel.isPlaying.collectAsState()
+    val canRead by viewModel.canRead.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
     val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
     val maxAccessible = maxOf(viewModel.bookConfig.freeChapters, bypassedUpToChapter + 2)
@@ -250,6 +251,7 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 ReaderBottomBar(
                     isSpeaking = isPlaying,
                     isAccessible = isAccessible,
+                    canRead = canRead,
                     onPrevious = { viewModel.previousSentence() },
                     onNext = { viewModel.nextSentence() },
                     onPlayPause = { viewModel.playOrPause() }
@@ -569,21 +571,25 @@ private fun SentenceBlock(
 private fun ReaderBottomBar(
     isSpeaking: Boolean,
     isAccessible: Boolean,
+    canRead: Boolean,
     onPrevious: () -> Unit,
     onNext: () -> Unit,
     onPlayPause: () -> Unit
 ) {
+    // Muting both languages in Settings leaves nothing to speak; show that in the
+    // transport rather than letting Play look broken.
+    val enabled = isAccessible && canRead
     BottomAppBar {
         Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceEvenly, verticalAlignment = Alignment.CenterVertically) {
-            IconButton(onClick = onPrevious, enabled = isAccessible) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
+            IconButton(onClick = onPrevious, enabled = enabled) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
             FloatingActionButton(
-                onClick = { if (isAccessible) onPlayPause() },
-                containerColor = if (isAccessible) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant,
-                contentColor = if (isAccessible) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.38f)
+                onClick = { if (enabled) onPlayPause() },
+                containerColor = if (enabled) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant,
+                contentColor = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.38f)
             ) {
                 Icon(imageVector = if (isSpeaking) Icons.Default.Stop else Icons.Default.PlayArrow, contentDescription = if (isSpeaking) "Stop" else "Play")
             }
-            IconButton(onClick = onNext, enabled = isAccessible) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
+            IconButton(onClick = onNext, enabled = enabled) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
         }
     }
 }
