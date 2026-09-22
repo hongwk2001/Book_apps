@@ -283,6 +283,23 @@ class ReaderViewModelTest {
     }
 
     @Test
+    fun playFromSentence_withBothLanguagesMuted_stillMovesTheHighlight() {
+        // Tapping a line with nothing to speak used to do nothing at all, which read
+        // as a broken control. It now selects the line without starting playback.
+        isFullUnlockedFlow.value = true
+        viewModel.readEn.value = false
+        viewModel.readKo.value = false
+        seedQueue(enSentence, koSentence, index = 0)
+
+        viewModel.playFromSentence("1_KO_0")
+
+        assertEquals("Tap must move the highlight", "1_KO_0", viewModel.speakingSentenceId.value)
+        assertFalse("Tap must not start playback", viewModel.isPlaying.value)
+        verify(exactly = 0) { ttsManager.speakKorean(any(), any(), any()) }
+        verify(exactly = 0) { ttsManager.speakEnglish(any(), any(), any()) }
+    }
+
+    @Test
     fun canRead_isFalse_onlyWhenBothLanguagesAreMuted() {
         viewModel.readEn.value = false
         viewModel.readKo.value = true

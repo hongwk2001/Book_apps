@@ -461,7 +461,9 @@ class ReaderViewModel(
         val index = sentenceQueue.indexOfFirst { it.id == sentenceId }
         if (index != -1) {
             currentQueueIndex = index
-            playCurrentSequence()
+            // With both languages muted there is nothing to speak, but the tap should
+            // still move the highlight rather than look ignored.
+            playCurrentSequence(play = hasReadableLanguage())
         }
     }
 
