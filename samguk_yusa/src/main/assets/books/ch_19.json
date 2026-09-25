@@ -23,7 +23,7 @@
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "Taejo ordered a general to take ten thousand strong soldiers and go to rescue the king. However, the relief force did not arrive. Gyeonhwon entered the capital of the king in the eleventh month of the winter.",
+  "en": "Taejo ordered a general to take ten thousand strong soldiers and go to rescue the king. However, the relief force did not arrive. Gyeonhwon entered the king's capital in the eleventh month.",
   "ko": "태조는 장수에게 만 명의 강한 군사를 데리고 가서 왕을 구하라고 명령했다. 그러나 구원병이 도착하지 못했다. 견훤은 동월 열한 달에 왕의 도성에 침입했다.",
   "is_header": false
  },
@@ -58,7 +58,7 @@
  {
   "id": 9,
   "tag": "P0003_3",
-  "en": "He and the officials wept bitterly. Our Taejo sent an envoy to offer condolences. The following year, in the third month of the year Mujo, Taejo arrived while patrolling Gyeonggi-do with more than fifty cavalry. The king and the officials welcomed him outside the city gate.",
+  "en": "He and the officials wept bitterly. Our Taejo sent an envoy to offer condolences. The following year, in the third month of the year Muja, Taejo arrived while patrolling Gyeonggi-do with more than fifty cavalry. The king and the officials welcomed him outside the city gate.",
   "ko": "그와 신하들은 슬피 울었다. 우리 태조는 사절을 보내 조문을 표했다. 이듬해 무자년 삼월, 태조는 쉰 명이 넘는 기병을 거느리고 경기도를 순찰하며 도착했다. 왕과 백관은 성문 밖에서 그를 맞이했다.",
   "is_header": false
  },
@@ -86,15 +86,15 @@
  {
   "id": 13,
   "tag": "P0004_2",
-  "en": "The common people and women rejoiced with each other and said, \"When the Jin clan came in the past, it was as if we encountered hungry wolves or tigers.\"",
+  "en": "The men and women of the capital rejoiced together and said, \"When the Jin clan came in the past, it was as if we encountered hungry wolves or tigers.\"",
   "ko": "백성들과 여인들은 서로 기뻐하며 말했다. 예전에 진씨가 올 때는 마치 굶주린 이리나 호랑이를 만난 듯했다.",
   "is_header": false
  },
  {
   "id": 14,
   "tag": "P0004_3",
-  "en": "Now that the king and the lords arrived, it was like seeing one's parents. In the eighth month, Taejo sent envoys to leave behind the king's silk robes, saddles, and horses.",
-  "ko": "이제 왕과 공이 오시니 부모를 뵙는 것과 같다. 여덟 달이 지나자 태조는 사신을 보내 왕의 비단옷과 안장, 말을 남겼다.",
+  "en": "Now that Lord Wang [Taejo] has arrived, it is like seeing one's parents. In the eighth month, Taejo sent envoys to leave behind the king's silk robes, saddles, and horses.",
+  "ko": "이제 왕공(태조)께서 오시니 부모를 뵙는 것과 같다. 여덟 달이 지나자 태조는 사신을 보내 왕의 비단옷과 안장, 말을 남겼다.",
   "is_header": false
  },
  {
@@ -107,7 +107,7 @@
  {
   "id": 16,
   "tag": "P0004_5",
-  "en": "They decided to surrender their land to Taejo. Opinions were divided and continued without end as to whether the officials would approve or oppose it. At that moment, the prince of the king said, \"The survival or destruction of the nation depends surely on the mandate of heaven.\"",
+  "en": "They decided to surrender their land to Taejo. Opinions were divided and continued without end as to whether the officials would approve or oppose it. At that moment, the Crown Prince said, \"The survival or destruction of the nation depends surely on the mandate of heaven.\"",
   "ko": "그들은 태조에게 항복하기 위해 땅을 내놓기로 했다. 신하들이 찬성할지 반대할지를 두고 의견이 분분하여 멈추지 않았다. 이때 왕의 태자가 말했다. 나라의 존망은 반드시 하늘의 명에 달려 있다.",
   "is_header": false
  },
@@ -128,8 +128,8 @@
  {
   "id": 19,
   "tag": "P0005_3",
-  "en": "The secretary Kim Bonghyeu took a letter and went to request surrender from Taejo. The Crown Prince, weeping, cast off the King's entreaties and headed straight for Gaesan. He wore coarse clothes and ate grass before ending his life.",
-  "ko": "시랑 김봉휴가 편지를 들고 가서 태조에게 항복을 청했다. 태자는 울면서 왕의 만류를 뿌리치고 곧장 개산으로 향했다. 그는 거친 옷을 입고 풀을 뜯어 먹으며 목숨을 마감했다.",
+  "en": "The secretary Kim Bonghyeu took a letter and went to request surrender from Taejo. The Crown Prince, weeping, cast off the King's entreaties and headed straight for Gaegolsan. He wore coarse clothes and ate grass before ending his life.",
+  "ko": "시랑 김봉휴가 편지를 들고 가서 태조에게 항복을 청했다. 태자는 울면서 왕의 만류를 뿌리치고 곧장 개골산으로 향했다. 그는 거친 옷을 입고 풀을 뜯어 먹으며 목숨을 마감했다.",
   "is_header": false
  },
  {
@@ -142,15 +142,15 @@
  {
   "id": 21,
   "tag": "P0006_1",
-  "en": "Fragrant carriages and precious horses were lined up for over thirty miles. The roads were filled with people, and spectators crowded in densely. Taejo went out of the city to welcome them and praised their efforts.",
-  "ko": "향기로운 수레와 보배로운 말이 서른여섯 마리나 이어져 있었다. 길은 사람들로 가득 메워졌고 구경꾼들이 빽빽하게 몰려들었다. 태조는 성 밖으로 나가 그들을 맞이하며 노고를 치하했다.",
+  "en": "Fragrant carriages and precious horses stretched for over thirty li. The roads were filled with people, and spectators crowded in densely. Taejo went out of the city to welcome them and praised their efforts.",
+  "ko": "향기로운 수레와 보배로운 말이 삼십여 리에 걸쳐 이어져 있었다. 길은 사람들로 가득 메워졌고 구경꾼들이 빽빽하게 몰려들었다. 태조는 성 밖으로 나가 그들을 맞이하며 노고를 치하했다.",
   "is_header": false
  },
  {
   "id": 22,
   "tag": "P0006_2",
-  "en": "Taejo gave a district in the east of the palace (now Jeongseongwon) and married off his eldest daughter, Nakranggongju. Since members of the Wang and Sa clans would live in another country if they stayed in their own land, he changed her title to Sinran-gongju as a metaphor for this.",
-  "ko": "태조는 궁궐 동쪽 한 구역(지금의 정승원)을 내어주어 장녀인 낙랑공주를 시집보냈다. 왕과 사가 가문은 자기 나라에 살면 다른 나라에서 살게 되므로, 이를 비유하여 신란공주로 봉호를 고쳤다.",
+  "en": "Taejo gave her a district in the east of the palace (now Jeongseung-won) and married off his eldest daughter, Princess Nakrang. Because the King felt ashamed at having left his own country to live in another, Taejo likened this to a phoenix and changed her title to Sinran-gongju.",
+  "ko": "태조는 궁궐 동쪽 한 구역(지금의 정승원)을 내어주어 장녀인 낙랑공주를 시집보냈다. 왕이 자기 나라를 떠나 다른 나라에 살게 된 것을 부끄러워하였으므로, 이를 난새에 비유하여 봉호를 신란공주로 고쳤다.",
   "is_header": false
  },
  {
@@ -163,7 +163,7 @@
  {
   "id": 24,
   "tag": "P0006_4",
-  "en": "When the King surrendered and offered his land, Taejo rejoiced greatly and treated him with generous hospitality. Taejo said, \"Now that you have given your country to me, the reward is very great. Therefore, let there be a marriage with the royal family.\"",
+  "en": "When the King surrendered and offered his land, Taejo rejoiced greatly and treated him with generous hospitality. Taejo said, \"Now that you have surrendered your land to me, the reward is immense. Therefore, I desire a marriage with the royal family.\"",
   "ko": "왕이 땅을 바치며 항복하자 태조는 크게 기뻐하며 두터운 예우로 대접했다. 태조가 말하기를 \"이제 왕이 나라를 내게 주었으니 그 보답이 매우 크다. 그러니 종실과 혼인하게 해달라.\"고 하였다.",
   "is_header": false
  },
@@ -191,7 +191,7 @@
  {
   "id": 28,
   "tag": "P0007_4",
-  "en": "The decree issued to the Sangbo stated, \"Since Hiju first opened the sacred work, the ruler of Yeoju was first enfeoffed. At the beginning of Liu Bang raising the king, Xiao He was established as the first. Great governance stabilized the land and broadly expanded the foundation.\"",
+  "en": "The decree issued to the Sangbo stated, \"Since the Zhou dynasty first opened the sacred work, the ruler of Yeoju was first enfeoffed. At the beginning of Liu Bang raising the king, Xiao He was established as the first. Great governance stabilized the land and broadly expanded the foundation.\"",
   "ko": "상보에게 내린 교지에 이르기를, \"희주가 성스러운 일을 처음으로 열었으니, 먼저 여주를 다스리는 자를 봉하였다. 유한이 왕을 일으킨 시작에 소하를 첫째로 세웠다. 큰 정치가 땅을 안정시키고 기틀을 넓게 펼쳤다.\"라고 적었다.",
   "is_header": false
  },
@@ -205,8 +205,8 @@
  {
   "id": 30,
   "tag": "P0008_2",
-  "en": "Kim Bu, who was appointed as the chief minister of King Nakrang and granted lands of eight thousand households, was called Gyerim throughout the world. He received a royal title, and his heroic spirit soared above the clouds. His writings possessed talent that shook the earth, and he possessed abundant knowledge and virtue.",
-  "ko": "낙랑왕의 정승으로 팔천 호의 토지를 하사받은 김부는 세상을 이어 계림이라 불렸다. 그는 왕의 작위를 받았으며 뛰어난 기개로 구름 위까지 뻗어 나갔다. 그의 문장은 땅을 뒤흔드는 재주가 넘쳤고, 풍부한 지식과 덕망을 갖추었다.",
+  "en": "Kim Bu — Meritorious Subject for Observing the Light and Compliant Transformation, Guardian of the Realm, Grand Pillar of State, and Chief Minister of King Nakrang, granted lands of eight thousand households — was known throughout the world as Gyerim (Silla). He received a royal title, and his heroic spirit soared above the clouds. His writings possessed talent that shook the earth, and he possessed abundant knowledge and virtue.",
+  "ko": "관광순화위국공신 상주국이며 낙랑왕의 정승으로 팔천 호의 토지를 하사받은 김부는 계림(신라)이라 세상에 알려졌다. 그는 왕의 작위를 받았으며 뛰어난 기개로 구름 위까지 뻗어 나갔다. 그의 문장은 땅을 뒤흔드는 재주가 넘쳤고, 풍부한 지식과 덕망을 갖추었다.",
   "is_header": false
  },
  {
@@ -240,7 +240,7 @@
  {
   "id": 35,
   "tag": "P0009_3",
-  "en": "The government office chose a date and issued the order with the necessary rites and strategies. The official in charge carried it out. On a day in the tenth month of Gaebong eight, Hanrim Sin Hyeok, appointed by Daegwang Naeui, received and executed it.",
+  "en": "The government office chose a date and issued the order with the necessary rites and strategies. The official in charge carried it out. On a day in the tenth month of Gaebong eight, Your servant Hyeok, the Hallim scholar, appointed by Daegwang Naeui, received and executed it.",
   "ko": "관청에서는 날짜를 정하여 예와 책략을 갖추어 명을 내렸다. 해당 관직자가 이를 시행하였다. 개보 팔 년 시월 날짜에 대광내의가 임명한 한림 신혁이 이를 받들어 행했다.",
   "is_header": false
  },
@@ -254,7 +254,7 @@
  {
   "id": 37,
   "tag": "P0010_1",
-  "en": "The office of Naebongsirang had no name. The office called Naebongsirang also had no name. The office of Gunbu-gyeong had no name, and the office called Gunbu-gyeong also had no name.",
+  "en": "The offices of Naebongsirang and Gunbu-gyeong were all nameless.",
   "ko": "내봉시랑이라는 관직은 이름이 없었다. 내봉시랑이라 부르는 관직도 이름이 없었다. 군부경이라는 관직도 이름이 없었으며, 군부경이라 부르는 관직 또한 이름이 없었다.",
   "is_header": false
  },
@@ -268,7 +268,7 @@
  {
   "id": 39,
   "tag": "P0010_3",
-  "en": "Geumbun obeyed the imperial edict and carried it out as instructed. When a talisman arrived, he received and acted upon it. The positions of jusamgwan, nangjung, seoryeongsa, and gongmok were all nameless.",
+  "en": "Kim Bu obeyed the imperial edict and carried it out as instructed. When a talisman arrived, he received and acted upon it. The positions of jusamgwan, nangjung, seoryeongsa, and gongmok were all nameless.",
   "ko": "김부는 황제의 명령을 받들어 그대로 행했다. 부명이 도착하면 그것을 받들어 행하였다. 사무관과 낭중, 서령사, 공목은 모두 이름이 없었다.",
   "is_header": false
  },
@@ -303,14 +303,14 @@
  {
   "id": 44,
   "tag": "P0011_3",
-  "en": "He also used the majesty and spiritual power of the royal army to conquer Baekje and Goguryeo. He took over their districts and counties, so it was truly prosperous. However, while he upheld the laws of Buddhism, he did not know its harmful effects.",
+  "en": "He also relied on the majesty and spiritual power of the royal preceptor to conquer Baekje and Goguryeo. He took over their districts and counties, so it was truly prosperous. However, while he upheld the laws of Buddhism, he did not know its harmful effects.",
   "ko": "또한 왕사의 위엄과 신통한 힘을 빌려 백제와 고구려를 평정했다. 그 땅의 현과 군을 차지했으니 참으로 번성한 것이었다. 그러나 불교의 법을 받들면서도 그 폐단을 알지 못했다.",
   "is_header": false
  },
  {
   "id": 45,
   "tag": "P0011_4",
-  "en": "As a result, pagodas and temples were built in every village. Common people abandoned their worldly clothes and entered the monkhood. As soldiers and farmers decreased, the nation declined day by day.",
+  "en": "As a result, pagodas and temples were built in every village. Common people fled into the monkhood, abandoning their worldly lives. As soldiers and farmers dwindled, the nation declined day by day.",
   "ko": "그 결과 마을마다 탑과 절이 세워졌다. 일반 백성들은 속세의 옷을 버리고 출가했다. 병사와 농민이 줄어들자 나라는 날로 쇠락해 갔다.",
   "is_header": false
  },
@@ -338,7 +338,7 @@
  {
   "id": 49,
   "tag": "P0012_4",
-  "en": "Innocent people also suffered great harm. He did not wait for surrender, sealed the storehouses, gathered the troops, and returned. He performed great deeds for the court and great virtues for the people.",
+  "en": "Innocent people suffered great harm. He did not wait for a surrender, sealed the state granaries, gathered the troops, and returned. He performed great deeds for the court and great virtues for the common people.",
   "ko": "무고한 백성들도 큰 피해를 입었다. 그는 항복을 기다리지 않고 창고를 봉인하고 군사들을 모아 돌아갔다. 그는 조정과 백성에게 큰 공과 덕을 베풀었다.",
   "is_header": false
  },

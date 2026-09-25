@@ -23,8 +23,8 @@
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "Gyeonhwon submitted a letter to Daejo. When Mahan first arose in the past, the world flourished greatly. At that time, Baekje founded its nation at Geummasan. Choe Chiwon said that Mahan was an ancient name and Jinhan was a name for a country.",
-  "ko": "견훤이 대조에게 글을 올렸다. 옛날 마한이 처음 일어났을 때 세상이 크게 번성했다. 이때 백제가 금마산에서 나라를 열었다. 최치원은 말하기를, 마한은 예스러운 이름이며 진한은 나라는 이름이라고 했다.",
+  "en": "Gyeonhwon submitted a letter to Taejo. When Mahan first arose in the past, the world flourished greatly. At that time, Baekje founded its nation at Geummasan. Choe Chiwon said that Mahan was an ancient name and Jinhan was a name for a country.",
+  "ko": "견훤이 태조에게 글을 올렸다. 옛날 마한이 처음 일어났을 때 세상이 크게 번성했다. 이때 백제가 금마산에서 나라를 열었다. 최치원은 말하기를, 마한은 예스러운 이름이며 진한은 나라는 이름이라고 했다.",
   "is_header": false
  },
  {
@@ -51,8 +51,8 @@
  {
   "id": 8,
   "tag": "P0003_2",
-  "en": "According to the Donganhonggi, the nine Han peoples were divided into Japan, China, Wu and Yue, Gara, Angyu, Malgal, Dankuk, Yeojin, and Haero. These were names referring to different ethnicities.",
-  "ko": "《동안홍기》에 따르면 아홉 한족은 일본, 중국, 오월, 가라, 앙유, 말갈, 단국, 여진, 해로로 나뉜다. 이들은 각각 다른 민족을 가리키는 이름이다.",
+  "en": "According to the Donganhonggi, the nine Han peoples were divided into Japan, China, Wu and Yue, Gara, Angyu, Malgal, Dankuk, Yeojin, and Yemaek.",
+  "ko": "《동안홍기》에 따르면 아홉 한족은 일본, 중국, 오월, 가라, 앙유, 말갈, 단국, 여진, 예맥으로 나뉜다.",
   "is_header": false
  },
  {
@@ -65,8 +65,8 @@
  {
   "id": 10,
   "tag": "P0005",
-  "en": "Book of the Later Han. In the fifth year of the first year of Emperor Sao, which was the year of Gihae, two outer prefectures were established. The former lands of Joseon, Pyeongna and Hyeondo-gun, were designated as the Pyeongju Dodokbu. For the lands of Imdun and Nakrang, two counties, the Dongbu Dowibu was established.",
-  "ko": "한나라 소제 원년 다섯째 해인 기해년에 두 곳의 외부를 설치했다. 조선 옛 땅인 평나와 현도군 등을 평주도독부로 삼았다. 임둔과 낙랑 등 두 군의 땅에는 동부도위부를 설치했다.",
+  "en": "The Book of the Former Han [records]: in the fifth year of the Shiyuan era of Emperor Zhao, the year Gihae, two outer commanderies were established. The former lands of Joseon, Pyeongna and Hyeondo-gun, were designated as the Pyeongju Dodokbu. For the lands of Imdun and Nakrang, two counties, the Dongbu Dowibu was established.",
+  "ko": "《전한서》. 한나라 소제 시원 다섯째 해인 기해년에 외부 두 곳을 설치했다. 조선 옛 땅인 평나와 현도군 등을 평주도독부로 삼았다. 임둔과 낙랑 등 두 군의 땅에는 동부도위부를 설치했다.",
   "is_header": false
  },
  {
@@ -114,8 +114,8 @@
  {
   "id": 17,
   "tag": "P0009_3",
-  "en": "In the twenty-seventh year of King Muhyul, Gwanghoje sent envoys to conquer Nakrang. He took that land and established it as counties and districts. The Sasu region had already belonged to the Han Dynasty in the south.",
-  "ko": "무휼왕 스물일곱 해에 광호제가 사신을 보내 낙랑을 정벌했다. 그는 그 땅을 거두어 군과 현으로 삼았다. 사수 지역은 이미 남쪽이 한나라에 속해 있었다.",
+  "en": "In the twenty-seventh year of King Muhyul, Emperor Guangwu sent envoys to conquer Nakrang. He seized the territory and organized it into counties and districts. The Sasu region had already belonged to the Han Dynasty in the south.",
+  "ko": "무휼왕 스물일곱 해에 광무제가 사신을 보내 낙랑을 정벌했다. 그는 그 땅을 거두어 군과 현으로 삼았다. 사수 지역은 이미 남쪽이 한나라에 속해 있었다.",
   "is_header": false
  },
  {
@@ -128,7 +128,7 @@
  {
   "id": 19,
   "tag": "P0010",
-  "en": "The people of Silla also called her Nakrang. Therefore, our current dynasty also followed this and called her the Wife of Nakrang-gun. The woman whom Taejo bestowed upon Kim Bu was also called Princess Nakrang.",
+  "en": "The people of Silla also called her Nakrang. Therefore, our current dynasty also followed this and called her the Lady of Nakrang-gun. The woman whom Taejo bestowed upon Kim Bu was also called Princess Nakrang.",
   "ko": "신라인들도 낙랑이라 불렀다. 그래서 지금 우리 왕조도 그 이름을 따라 낙랑군 부인이라 불렀다. 태조가 김부에게 내린 여인도 낙랑공주라고 불렀다.",
   "is_header": false
  },
@@ -142,8 +142,8 @@
  {
   "id": 21,
   "tag": "P0012",
-  "en": "Daebang in the north was originally called Jukdamseong. In the fourth year of King Nore of Silla, the people of Daebang and Nakrang surrendered to Ro. (These were both names of two districts established by Jeonmak; they later added the title of countries to them, and have now surrendered.)",
-  "ko": "북쪽의 대방은 본래 죽담성이라 불렀다. 신라 노례왕 사년이 되던 해에 대방 사람과 낙랑 사람이 로로에 투항했다. (이들은 모두 전막이 설치한 두 군의 이름이다. 그 후에는 나라라고 덧붙여 불렀으며 지금은 항복하였다.)",
+  "en": "Daebang in the north was originally called Jukdamseong. In the fourth year of King Nore of Silla, the people of Daebang and Nakrang surrendered to Silla. (These were both names of two districts established by Jeonmak; they later added the title of countries to them, and have now surrendered.)",
+  "ko": "북쪽의 대방은 본래 죽담성이라 불렀다. 신라 노례왕 사년이 되던 해에 대방 사람과 낙랑 사람이 신라에 투항했다. (이들은 모두 전막이 설치한 두 군의 이름이다. 그 후에는 나라라고 덧붙여 불렀으며 지금은 항복하였다.)",
   "is_header": false
  },
  {
@@ -163,7 +163,7 @@
  {
   "id": 24,
   "tag": "P0014_2",
-  "en": "The sea water to the south of Daebang stretched for a thousand li and was called Hanhae. (During the Jian'an period of the Later Han, the wasteland south of Mahan was established as Daebanggun. Wa and Han were subsequently subordinated. This is what it refers to.)",
+  "en": "The sea at the southern part of Daebang stretched for a thousand li and was called Hanhae. (During the Jian'an period of the Later Han, the wasteland south of Mahan was established as Daebanggun. Wa and Han were subsequently subordinated. This is what it refers to.)",
   "ko": "대방의 남쪽 바다 물이 천 리나 되어 이를 한해라고 불렀다. (후한 건안 중에 마한 남쪽 황무지를 대방군으로 삼았다. 왜와 한이 차례로 속하게 되었다. 이것을 말한다.)",
   "is_header": false
  },
@@ -177,15 +177,15 @@
  {
   "id": 26,
   "tag": "P0016_1",
-  "en": "(Another version has different Chinese characters.) The Tongjeon recorded Balhae. Balhae was originally a place where Goguryeo people lived mixed with the Manju people. Ugeo of that place established a nation and called himself Jindan.",
-  "ko": "(한자 표기가 다른 판본도 있다) 통전에서 발해를 기록했다. 발해는 본래 고구려인이 만주족과 섞여 살던 곳이다. 그곳의 우거가 나라를 세우고 스스로를 진단이라 불렀다.",
+  "en": "(Another version has different Chinese characters.) The Tongjeon recorded Balhae. Balhae was originally a place where Goguryeo people lived mixed with the Malgal. Ugeo of that place established a nation and called himself Jindan.",
+  "ko": "(한자 표기가 다른 판본도 있다) 통전에서 발해를 기록했다. 발해는 본래 고구려인이 말갈과 섞여 살던 곳이다. 그곳의 우거가 나라를 세우고 스스로를 진단이라 불렀다.",
   "is_header": false
  },
  {
   "id": 27,
   "tag": "P0016_2",
-  "en": "From the year of Seoncheon Jungnyeon (the son of Hyeonjong), they abandoned the name of the Manchu and called it only Balhae. When Ugeo died in the seventh year of Gaewon, he was posthumously honored as King Go. The crown prince succeeded him on the throne.",
-  "ko": "선천 중년(현종의 아들) 때부터 만주족이라는 이름을 버렸다. 오직 발해라고만 불렀다. 개원 일곱째 해에 우거가 죽자 고왕으로 추존했다. 세자가 뒤를 이어 왕위에 올랐다.",
+  "en": "From the year of Seoncheon Jungnyeon (the son of Hyeonjong), they abandoned the name of the Malgal and called it only Balhae. When Ugeo died in the seventh year of Gaewon, he was posthumously honored as King Go. The crown prince succeeded him on the throne.",
+  "ko": "선천 중년(현종의 아들) 때부터 말갈이라는 이름을 버렸다. 오직 발해라고만 불렀다. 개원 일곱째 해에 우거가 죽자 고왕으로 추존했다. 세자가 뒤를 이어 왕위에 올랐다.",
   "is_header": false
  },
  {
@@ -198,15 +198,15 @@
  {
   "id": 29,
   "tag": "P0016_4",
-  "en": "In the early years of Cheonsong of Later Tang, the Khitan attacked and destroyed this place. Afterward, it submitted to the Dan. (It was a different branch of the Mohe, but only the name was different. On the map, Balhae is located outside the northeast corner of the Great Wall.) This was recorded in the Gadamgungukji.",
-  "ko": "후당 천성 초기에 거란이 이곳을 공격하여 무너뜨렸다. 그 후로 단나라에 굴복했다. (만주족의 다른 갈래이나 이름만 다를 뿐이다. 지도상 발해는 장성 동북쪽 바깥에 있다.) 가담군국지에서 기록했다.",
+  "en": "In the early years of Cheonsong of Later Tang, the Khitan attacked and destroyed this place. Afterward, it submitted to the Dan. (It was a different branch of the Malgal, but only the name was different. On the map, Balhae is located outside the northeast corner of the Great Wall.) This was recorded in the Gadamgungukji.",
+  "ko": "후당 천성 초기에 거란이 이곳을 공격하여 무너뜨렸다. 그 후로 단나라에 굴복했다. (말갈의 다른 갈래이나 이름만 다를 뿐이다. 지도상 발해는 장성 동북쪽 바깥에 있다.) 가담군국지에서 기록했다.",
   "is_header": false
  },
  {
   "id": 30,
   "tag": "P0017_1",
-  "en": "The four places of Balhaeguk, Amnokseong, Namhae, and Buyeo, Chokseong were all former territories of Goguryeo. The distance from Silla's Seomu-hyeon to Chokseongbu was thirty-nine stations.",
-  "ko": "발해국과 압록성, 남해, 부여, 촉성 네 곳은 모두 고구려의 옛 땅이다. 신라의 샘우현에서 촉성부까지는 서른아홉 정거장 거리이다.",
+  "en": "The four places of Balhaeguk, Amnok, Namhae, Buyeo, and Chokseong were all former territories of Goguryeo. The distance from Silla's Seomu-hyeon to Chokseongbu was thirty-nine stations.",
+  "ko": "발해국과 압록, 남해, 부여, 촉성 네 곳은 모두 고구려의 옛 땅이다. 신라의 샘우현에서 촉성부까지는 서른아홉 정거장 거리이다.",
   "is_header": false
  },
  {
@@ -219,7 +219,7 @@
  {
   "id": 32,
   "tag": "P0017_3",
-  "en": "The people of Silla said that the land was in danger because there were the Malgal to the north, the Japanese to the south, and Baekje to the west. Furthermore, the land of the Malgal bordered Aseoro-ju and was recorded in the Dongmyeongseongwanggi.",
+  "en": "The people of Silla said that the land was in danger because there were the Malgal to the north, the Wa to the south, and Baekje to the west. Furthermore, the land of the Malgal bordered Aseoro-ju and was recorded in the Dongmyeongseongwanggi.",
   "ko": "신라인들은 북쪽에는 말갈이 있고, 남쪽에는 왜인이 있으며, 서쪽에는 백제가 있어 나라가 위태롭다고 말했다. 또한 말갈 땅은 아서로주와 맞닿아 있으며 동명성왕기에도 기록되어 있다.",
   "is_header": false
  },
@@ -233,8 +233,8 @@
  {
   "id": 34,
   "tag": "P0018_2",
-  "en": "In the fourteenth year of Gima-wang, which was the year of Eulchuk, Malgal soldiers invaded the northern border in great numbers. This occurred after they attacked Daeryungsae and crossed Niha. According to the records of the Wei Dynasty, the Malgal were called Makgil.",
-  "ko": "기마왕 열네 해인 을축년에 말갈 군사가 북쪽 경계로 크게 들이닥쳤다. 대령새를 습격하고 니하를 지난 뒤였다. 위나라의 기록에 따르면 말갈은 막길이라 불렸다.",
+  "en": "In the fourteenth year of Gima-wang, which was the year of Eulchuk, Malgal soldiers invaded the northern border in great numbers. This occurred after they attacked Daeryeongchaek and crossed Niha. According to the records of the Wei Dynasty, the Malgal were called Makgil.",
+  "ko": "기마왕 열네 해인 을축년에 말갈 군사가 북쪽 경계로 크게 들이닥쳤다. 대령책을 습격하고 니하를 지난 뒤였다. 위나라의 기록에 따르면 말갈은 막길이라 불렸다.",
   "is_header": false
  },
  {
@@ -275,8 +275,8 @@
  {
   "id": 40,
   "tag": "P0020_2",
-  "en": "In the sixth year of Jeonggwan, in the year of Imjin, land was donated at Yeongmisa in the current village of Iseogun. This location is in the area of Cheongdo-gun, Hyeon, and it is the same place as the former Iseogun of Cheongdo-gun.",
-  "ko": "정관 여섯째 해 임진년에 이서군 지금 마을 영미사에서 땅을 기부했다. 이곳은 지금 군 현 청도 지역이며, 청도군 옛 이서군과 같은 곳이다.",
+  "en": "In the year of Imjin in the sixth year of Jeonggwan, land was donated at Yeongmisa in what is now a village in Iseogun. This site is located in Cheongdo-gun and is the same place as the former Iseogun.",
+  "ko": "정관 여섯째 해 임진년에 이서군 지금 마을 영미사에서 땅을 기부했다. 이곳은 지금 청도 지역이며, 청도군 옛 이서군과 같은 곳이다.",
   "is_header": false
  },
  {
@@ -296,7 +296,7 @@
  {
   "id": 43,
   "tag": "P0022_2",
-  "en": "According to the Sallyak, a historical record of our country, Taejo changed the names of the five Gaya in the year Gyeongja of the fifth year of Cheonbok. The first was Geungwan (which became Geumhaebu), and the second was Goryeong (which became Garihyeon).",
+  "en": "According to the Sallyak, a historical record of our country, Taejo changed the names of the five Gaya in the year Gyeongja of the fifth year of Cheonbok. The first was Geumgwan (which became Geumhaebu), and the second was Goryeong (which became Garihyeon).",
   "ko": "우리나라의 역사 기록인 사략에 따르면, 태조는 천복 오년 경자년에 다섯 가야의 이름을 고쳤다. 첫째는 금관(금해부로 됨)이고, 둘째는 고령(가리현으로 됨)이다.",
   "is_header": false
  },

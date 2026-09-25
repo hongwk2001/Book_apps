@@ -23,14 +23,14 @@
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "He called his name Haemosu. He gave birth to a son and named him Buru, and took Hae as his clan name. Later, the king followed the command of the Heavenly Emperor and moved the capital to Dongbuyeo.",
+  "en": "He called his name Haemosu. He had a son named Buru and took Hae as his clan name. Later, the king followed the command of the Heavenly Emperor and moved the capital to Dongbuyeo.",
   "ko": "그는 자신의 이름을 해모수라 불렀다. 그가 아들을 낳아 부루라 이름 지었으며, 해씨를 성으로 삼았다. 이후 왕은 하늘의 명을 받들어 도읍을 동부여로 옮겼다.",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Dongmyeongje succeeded the Northern Buyeo and raised it. He established the capital in Jolbonju and called it Jolbonbuyeo. This person was the first ancestor of Goguryeo.",
+  "en": "Dongmyeongje succeeded the kingdom of Bukbuyeo and established it. He established the capital in Jolbonju and called it Jolbonbuyeo. This person was the first ancestor of Goguryeo.",
   "ko": "동명제가 북부여를 이어 일으켰다. 그는 졸본주에 도읍을 세우고 졸본부여라 불렀다. 이 사람이 바로 고구려의 시조이다.",
   "is_header": false
  },
@@ -44,8 +44,8 @@
  {
   "id": 7,
   "tag": "P0004_1",
-  "en": "Aranbul, the prime minister of King Haeburu of Bukbuyeo, had a dream. In the dream, the Emperor of Heaven descended and said, \"I shall let your descendants establish a nation here, so you should retreat to the shores of the East Sea to avoid the signs of Dongmyeongseongwang's rise.\"",
-  "ko": "북부여 왕 해부루의 재상 아란불이 꿈을 꾸었다. 꿈속에서 하늘의 임금이 내려와 말하였다. \"내가 네 자손을 이곳에 나라를 세우게 할 것이니, 너는 동명성왕이 일어날 징조를 피해 동해 바닷가로 물러나라.\"",
+  "en": "Aranbul, the prime minister of King Haeburu of Bukbuyeo, had a dream. In the dream, the Emperor of Heaven descended and said, \"I shall let your descendants establish a nation here, so you should retreat to the shores of the East Sea to avoid the signs of Dongmyeong's rise.\"",
+  "ko": "북부여 왕 해부루의 재상 아란불이 꿈을 꾸었다. 꿈속에서 하늘의 임금이 내려와 말하였다. \"내가 네 자손을 이곳에 나라를 세우게 할 것이니, 너는 동명이 일어날 징조를 피해 동해 바닷가로 물러나라.\"",
   "is_header": false
  },
  {
@@ -65,7 +65,7 @@
  {
   "id": 10,
   "tag": "P0004_4",
-  "en": "Beneath the rocks, there was a young child shaped like a golden frog. The king rejoiced and said, \"Is this child the descendant heaven has bestowed upon me?\" He took the child in to raise him and named him Geumwa.",
+  "en": "Beneath the rocks, there was a small child in the shape of a golden frog. The king rejoiced and said, \"Is this child the descendant heaven has bestowed upon me?\" He took the child in to raise him and named him Geumwa.",
   "ko": "바위 아래에는 금빛 개구리 모양의 어린아이가 있었다. 왕은 기뻐하며 \"이 아이는 하늘이 내게 내린 후손인가?\"라고 말했다. 왕은 아이를 거두어 기르며 금와라 이름 지었다.",
   "is_header": false
  },
@@ -100,7 +100,7 @@
  {
   "id": 15,
   "tag": "P0007_3",
-  "en": "When Haeburu died, Geumwa succeeded him. At one time, Geumwa found a woman at Ubalsu south of Taebaeksan.",
+  "en": "When Haeburu died, Geumwa succeeded him. At one point, Geumwa encountered a woman at Ubalsu south of Taebaeksan.",
   "ko": "해부루가 죽자 금와가 그 자리를 이어받았다. 어느 때에 금와는 태백산 남쪽 우발수에서 한 여자를 얻었다.",
   "is_header": false
  },
@@ -128,7 +128,7 @@
  {
   "id": 19,
   "tag": "P0008_3",
-  "en": "The egg was about five *doe* in size. King Geumwa gave the egg to dogs and pigs, but the animals did not eat it. The king abandoned the egg on the road, and cattle and horses avoided it. Birds and beasts attacked it.",
+  "en": "The egg was about five doe in size. King Geum-wa gave the egg to dogs and pigs, but the animals did not eat it. The king abandoned the egg on the road; cattle and horses avoided it, while birds and beasts pounced upon it.",
   "ko": "그 알은 크기가 대략 다섯 되 정도였다. 금와왕이 그 알을 개와 돼지에게 주었으나 짐승들은 먹지 않았다. 왕은 알을 길에 버렸고, 소와 말은 피하며 지나갔다. 새와 짐승들이 알을 덮치기도 했다.",
   "is_header": false
  },
@@ -142,7 +142,7 @@
  {
   "id": 21,
   "tag": "P0008_5",
-  "en": "The mother wrapped the egg in an object and placed it in a warm place. A child broke through the shell and came out. The child had an outstanding frame, and when he was seven years old, his appearance was extraordinary.",
+  "en": "The mother wrapped the egg in something and placed it in a warm place. A child broke through the shell and emerged. The child had a magnificent physique, and by the age of seven, his appearance was extraordinary.",
   "ko": "어머니는 물건으로 알을 싸서 따뜻한 곳에 두었다. 한 아이가 껍질을 깨고 나왔다. 그 아이는 골격이 빼어나고 일곱 살이 되자 외모가 비범했다.",
   "is_header": false
  },
@@ -177,15 +177,15 @@
  {
   "id": 26,
   "tag": "P0009_5",
-  "en": "The king's sons and the officials gathered to plot to harm Jumong. Jumong's mother learned of this and told her son, \"The people are going to harm you. With your talents and strategy, there is nowhere you cannot go if you choose to leave. You must make plans quickly.\" Thus, Jumong became friends with three people, including Ui.",
+  "en": "The king's sons and the officials plotted together to harm Jumong. Jumong's mother learned of this and told her son:",
   "ko": "왕의 아들들과 신하들이 모여 주몽을 해칠 음모를 꾸몄다. 주몽의 어머니가 이를 알고 아들에게 일러 말했다.",
   "is_header": false
  },
  {
   "id": 27,
   "tag": "P0009_6",
-  "en": "People intend to harm you. With your skills and strategy, there is nowhere you cannot go. Prepare a plan quickly. At this, Jumong became friends with three people, including Oi.",
-  "ko": "\"사람들이 너를 해치려 한다. 네 재주와 지략으로 어디를 가도 막지 못할 곳이 없다. 속히 대책을 세우거라. 이에 주몽은 오이 등 세 사람과 벗이 되었다.",
+  "en": "\"People intend to harm you. With your skills and strategy, there is nowhere you cannot go. Prepare a plan quickly.\" At this, Jumong became friends with three men, including Oi.",
+  "ko": "\"사람들이 너를 해치려 한다. 네 재주와 지략으로 어디를 가도 막지 못할 곳이 없다. 속히 대책을 세우거라.\" 이에 주몽은 오이 등 세 사람과 벗이 되었다.",
   "is_header": false
  },
  {
@@ -198,7 +198,7 @@
  {
   "id": 29,
   "tag": "P0010_2",
-  "en": "He crossed the bridge, but it immediately unraveled. The pursuing horses could not cross. He arrived at Jolbonju (the border of Hyeondo-gun) and stayed there. Since he had no time to build a palace, he built a hut above Biryusu and lived there. The nation was called Goguryeo.",
+  "en": "He crossed the bridge, but it immediately came apart, and the pursuing horsemen could not cross. He arrived at Jolbonju (the border of Hyeondo-gun) and settled there. Lacking time to build a palace, he built a hut along the Biryusu River and lived there. The nation was named Goguryeo.",
   "ko": "그는 그 다리를 건넜으나 다리가 곧 풀렸다. 추격하던 말들은 건너지 못했다. 그는 졸본주(현도군 경계)에 이르러 그곳에 머물렀다. 궁궐을 지을 겨를이 없었기에 비류수 위에 막사를 짓고 살았다. 그 나라는 고구려라 불렀다.",
   "is_header": false
  },
@@ -226,7 +226,7 @@
  {
   "id": 33,
   "tag": "P0011_3",
-  "en": "When the child was born, it was considered an ill omen and abandoned. The child, cast into a pigsty or a horse trough, did not die but survived and eventually became the king of Buyeo.",
+  "en": "When the child was born, it was considered an ill omen and abandoned. Cast into a pigpen or a horse manger, the child survived and eventually became the king of Buyeo.",
   "ko": "아이가 태어나자 불길하게 여겨 버려졌다. 돼지우리나 말구유에 버려진 아이는 죽지 않고 살아남아 결국 부여의 왕이 되었다.",
   "is_header": false
  }

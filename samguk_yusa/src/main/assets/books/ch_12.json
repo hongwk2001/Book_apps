@@ -16,8 +16,8 @@
  {
   "id": 3,
   "tag": "P0001_2",
-  "en": "Soldiers inside the city blocked them, but the Tang forces pressed the city while riding the momentum of victory. The King knew he would not escape. He lamented that he had reached this point by not following Seongchung's words.",
-  "ko": "군사들이 성 안에서 그들을 막아섰으나, 당나라 군사는 승세를 몰아 성을 압박했다. 왕은 자신이 살아남지 못할 것을 알았다. 그는 한탄하며 성충의 말을 듣지 않아 이 지경에 이르렀다고 말했다.",
+  "en": "Soldiers inside the city blocked them, and more than ten thousand died in defeat. The Tang forces pressed the city while riding the momentum of victory. The King knew he would not escape. He lamented that he had reached this point by not following Seongchung's words.",
+  "ko": "군사들이 성 안에서 그들을 막아섰으나, 또한 패하여 죽은 자가 만여 명이었다. 당나라 군사는 승세를 몰아 성을 압박했다. 왕은 자신이 살아남지 못할 것을 알았다. 그는 한탄하며 성충의 말을 듣지 않아 이 지경에 이르렀다고 말했다.",
   "is_header": false
  },
  {
@@ -30,7 +30,7 @@
  {
   "id": 5,
   "tag": "P0001_4",
-  "en": "Munsa, the son of the Crown Prince, said to Wang Tae, \"Since you left with the Crown Prince and my uncle became king, we cannot be safe unless the Tang army retreats.\" Munsa led his subordinates out of the fortress, and the people all followed him.",
+  "en": "Munsa, the son of the Crown Prince, said to Wang Tae, \"Since you left with the Crown Prince and my uncle took the throne, we will not be safe unless the Tang army retreats.\" Munsa led his subordinates out of the fortress, and the people all followed him.",
   "ko": "태자의 아들 문사가 왕태에게 말했다. \"왕께서 태자와 함께 떠나시고 숙부님이 왕이 되셨으니, 당나라 군대가 물러가지 않으면 우리도 무사할 수 없습니다.\" 문사는 부하들을 데리고 성을 나섰고 백성들도 모두 따랐다.",
   "is_header": false
  },
@@ -44,8 +44,8 @@
  {
   "id": 7,
   "tag": "P0002_2",
-  "en": "Jeongbang captured King Uija, Crown Prince Ryung, Prince Tae, and Prince Yeon. He also captured the minister and eighty-eight soldiers. They were escorted to the capital along with eleven thousand eight hundred seventy-one people of the commoner class.",
-  "ko": "소정방은 의자왕과 태자 륭, 왕자 태, 그리고 왕자 연을 붙잡았다. 그는 또한 대신과 군사 여든여덟 명을 붙잡았다. 그들은 백성 일만 이천팔백칠흔 명과 함께 수도로 압송되었다.",
+  "en": "Jeongbang captured King Uija, Crown Prince Ryung, Prince Tae, and Prince Yeon. He also captured the minister and eighty-eight soldiers. They were escorted to the capital along with twelve thousand eight hundred seven people of the commoner class.",
+  "ko": "소정방은 의자왕과 태자 륭, 왕자 태, 그리고 왕자 연을 붙잡았다. 그는 또한 대신과 군사 여든여덟 명을 붙잡았다. 그들은 백성 일만 이천팔백일곱 명과 함께 수도로 압송되었다.",
   "is_header": false
  },
  {
@@ -58,7 +58,7 @@
  {
   "id": 9,
   "tag": "P0002_4",
-  "en": "He promoted the heads of each region to the rank of military governors to govern those areas. He also appointed the general leader Yu Inwon to defend the capital city.",
+  "en": "He promoted the heads of each region to the rank of military governors to govern those areas. He also appointed Langjang Yu Inwon to defend the capital city.",
   "ko": "그는 각 지역의 장을 도독사로 승격시켜 그곳을 다스리게 했다. 또한 그는 랑장 유인원을 임명하여 도성을 지키게 하였다.",
   "is_header": false
  },
@@ -79,8 +79,8 @@
  {
   "id": 12,
   "tag": "P0003_3",
-  "en": "The Emperor permitted the former officials to come to Linzi.",
-  "ko": "황제는 옛 신하들이 임지로 오는 것을 허락했다.",
+  "en": "The Emperor permitted the former officials to come and mourn him.",
+  "ko": "황제는 옛 신하들이 조문하러 오는 것을 허락했다.",
   "is_header": false
  },
  {
@@ -93,7 +93,7 @@
  {
   "id": 14,
   "tag": "P0003_5",
-  "en": "So Jeongbang defeated the Goguryeo forces at Paesang. He established a camp at Maeupsan and besieged Pyeongyangseong.",
+  "en": "So Jeongbang defeated the Goguryeo forces at Paegang. He established a camp at Maeupsan and besieged Pyeongyangseong.",
   "ko": "소정방은 패강에서 고구려 군대를 격파했다. 그는 마읍산에 진을 치고 평양성을 에워쌌다.",
   "is_header": false
  },
@@ -107,21 +107,21 @@
  {
   "id": 16,
   "tag": "P0004_1",
-  "en": "The posthumous title of the Left Brave Cavalry Grand General and Governor of Youju was Jang. (This has already been recorded in the Tang history.) The Silla Byeolgi states that on the day of Gyeongja in the eighth month of the year Eulchuk, five years after King Munho ascended the throne, the king personally led a large army toward Ungjinseong.",
-  "ko": "좌효기대장군 유주도독의 시호는 장이라 한다. (이미 당나라 역사 기록에 올랐다.) 신라별기에서 말하기를, 문호왕이 왕위에 오른 지 다섯 해가 되던 을축년 팔월 경자일에 왕이 직접 대군을 거느리고 웅진성을 향해 나아갔다.",
+  "en": "The posthumous title of the Left Brave Cavalry Grand General and Governor of Youju was Jang. (This has already been recorded in the Tang history.) The Silla Byeolgi states that on the day of Gyeongja in the eighth month of the year Eulchuk, five years after King Munmu ascended the throne, the king personally led a large army toward Ungjinseong.",
+  "ko": "좌효기대장군 유주도독의 시호는 장이라 한다. (이미 당나라 역사 기록에 올랐다.) 신라별기에서 말하기를, 문무왕이 왕위에 오른 지 다섯 해가 되던 을축년 팔월 경자일에 왕이 직접 대군을 거느리고 웅진성을 향해 나아갔다.",
   "is_header": false
  },
  {
   "id": 17,
   "tag": "P0004_2",
-  "en": "The king met with Yungjak of Buyeo and built an altar. They sacrificed a white horse and swore an oath. First, they offered sacrifices to the heavenly gods and the spirits of the mountains and rivers. Afterward, they mixed blood and made the following oath for Munho:",
-  "ko": "왕은 부여의 융작과 만나 제단을 쌓았다. 그들은 백마를 잡아 제물로 바치고 맹세했다. 먼저 천신과 산천의 신령들에게 제사를 지냈다. 그 후에는 피를 섞으며 문호왕을 위해 다음과 같이 맹세했다.",
+  "en": "The king met with Yungjak of Buyeo and built an altar. They sacrificed a white horse and swore an oath. First, they offered sacrifices to the heavenly gods and the spirits of the mountains and rivers. Afterward, they mixed blood and made the following oath for Munmu:",
+  "ko": "왕은 부여의 융작과 만나 제단을 쌓았다. 그들은 백마를 잡아 제물로 바치고 맹세했다. 먼저 천신과 산천의 신령들에게 제사를 지냈다. 그 후에는 피를 섞으며 문무왕을 위해 다음과 같이 맹세했다.",
   "is_header": false
  },
  {
   "id": 18,
   "tag": "P0004_3",
-  "en": "The former kings of Baekje did not distinguish between right and wrong.",
+  "en": "The former kings of Baekje were lost in matters of right and wrong.",
   "ko": "\"지난 백제 선왕들은 옳고 그름을 분별하지 못했다.",
   "is_header": false
  },
@@ -135,7 +135,7 @@
  {
   "id": 20,
   "tag": "P0004_5",
-  "en": "They invaded villages and captured cities. There were almost no peaceful years. The Emperor pitied the loss of a nation and felt sorrow for the people who were poisoned.",
+  "en": "They invaded villages and destroyed cities. There were almost no peaceful years. The Emperor pitied the loss of a nation and felt sorrow for the common people who suffered under such tyranny.",
   "ko": "\"그들은 마을을 침범하고 성을 함락시켰다. 평화로운 해가 거의 없었다. 황제께서는 한 나라의 상실을 가엾게 여기셨고, 백성들이 독에 물든 것을 불쌍히 여기셨다.\"",
   "is_header": false
  },
@@ -149,14 +149,14 @@
  {
   "id": 22,
   "tag": "P0005_2",
-  "en": "Wherever the banners pointed, everything was decided in one great battle. Even if palaces or houses were defiled, they would serve as warnings to descendants. By blocking the sources and uprooting the roots, lessons would be passed down to later generations, and rebels would be subdued and governed.",
-  "ko": "군기가 가리키는 곳마다 한 번의 큰 싸움으로 모든 것이 결정되었다. 비록 성이나 집이 더럽혀졌을지라도 후손들에게 경계로 삼게 할 것이다. 근원을 막고 뿌리를 뽑아 후세에 교훈을 전하며, 반역한 자들을 굴복시켜 다스릴 것이다.",
+  "en": "Wherever the banners pointed, everything was decided in one great battle. Even if palaces or houses were defiled, they would serve as warnings to descendants. By cutting off the source and uprooting the root, lessons would be passed down to later generations, and rebels would be subdued and governed.",
+  "ko": "군기가 가리키는 곳마다 한 번의 큰 싸움으로 모든 것이 결정되었다. 비록 성이나 집이 더럽혀졌을지라도 후손들에게 경계로 삼게 할 것이다. 근원을 끊고 뿌리를 뽑아 후세에 교훈을 전하며, 반역한 자들을 굴복시켜 다스릴 것이다.",
   "is_header": false
  },
  {
   "id": 23,
   "tag": "P0005_3",
-  "en": "This was the command and ritual of former kings, a wisdom that continued the rise and fall and the continuity of nations. It was following the teachings of ancient sages and transmitting the records of old.",
+  "en": "This was the command and ritual of former kings, a wisdom that ensured the continuity of the nation through its rise and fall. It followed the teachings of ancient sages and transmitted the records of old.",
   "ko": "이는 옛 왕들의 명령과 법도이며 나라의 흥망과 끊어짐을 이어가는 지혜다. 옛 현인들의 가르침을 따르고 옛 기록을 전수하는 일이다.",
   "is_header": false
  },
@@ -184,8 +184,8 @@
  {
   "id": 27,
   "tag": "P0006_3",
-  "en": "After the oath was finished, they promised to protect each other even in the cold of winter. If there were any betrayal, their virtues would be diminished, armies would be raised, crowds moved, and the borders would be invaded. The gods would witness this, a hundred calamities would descend, and no descendants would be born.",
-  "ko": "맹세가 끝난 뒤에 그들은 추운 겨울에도 서로를 지켜주기로 약속했다. 만약 배신하면 그 덕을 깎고 군사를 일으켜 무리를 움직여 변방을 침범할 것이다. 신령이 이를 살피고 백 가지 재앙이 내릴 것이며 자손은 태어나지 못한다.",
+  "en": "After the oath was finished, they promised to protect each other even in the cold of winter. If there were any betrayal, any breach of the sworn oath, armies would be raised and mobilized to invade the borders. The gods would witness this, a hundred calamities would descend, and no descendants would be born.",
+  "ko": "맹세가 끝난 뒤에 그들은 추운 겨울에도 서로를 지켜주기로 약속했다. 만약 배신하여 그 맹세를 저버린다면 군사를 일으켜 무리를 움직여 변방을 침범할 것이다. 신령이 이를 살피고 백 가지 재앙이 내릴 것이며 자손은 태어나지 못한다.",
   "is_header": false
  },
  {
@@ -198,21 +198,21 @@
  {
   "id": 29,
   "tag": "P0007_1",
-  "en": "Corrupt people hid it in an altar made of silk. They concealed the Maengmun in the Daemyo. This Maengmun was made by the Daebang commander Yu In-gwe, and old records remain.",
+  "en": "Corrupt people hid it in an altar made of silk. They concealed the alliance treaty in the Daemyo. This alliance treaty was made by the Daebang commander Yu In-gwe, and old records remain.",
   "ko": "부패한 자들이 비단으로 만든 제단에 숨겼다. 그들은 대묘에 맹문을 감추어 두었다. 이 맹문은 대방 도독 유인궤가 만든 것이며 옛 기록이 남아 있다.",
   "is_header": false
  },
  {
   "id": 30,
   "tag": "P0007_2",
-  "en": "In the first year of Chongjang, in the year of Mujin, the people of Jinguk requested Tang troops. The Tang troops stayed near Pyeongyangseong. They sent a letter requesting that military supplies be delivered urgently.",
+  "en": "In the first year of Chongjang, in the year of Mujin, the people of Jinguk requested Tang troops. The Tang troops stayed near Pyeongyang. They sent a letter requesting that military supplies be delivered urgently.",
   "ko": "총장 원년 무진년에 진국 사람들이 당나라 군대를 요청했다. 당나라 군대는 평양 근처에 머물렀다. 그들은 급히 군수품을 보내달라는 글을 보냈다.",
   "is_header": false
  },
  {
   "id": 31,
   "tag": "P0007_3",
-  "en": "",
+  "en": "The King gathered his officials and asked, \"We must enter enemy territory to reach where the Tang troops are stationed. The situation is perilous. It is also improper to provide insufficient supplies or none at all to the Royal Army's provisions. What shall we do?\"",
   "ko": "왕이 신하들과 모여 물었다. 적국에 들어가서 당나라 군대가 있는 곳까지 가야 한다. 그 기세가 위태롭다. 요청한 왕사들에게 식량을 부족하게 주거나 아예 주지 않는 것도 옳지 않다. 어떻게 할 것인가?",
   "is_header": false
  },
@@ -233,7 +233,7 @@
  {
   "id": 34,
   "tag": "P0008_2",
-  "en": "When they asked the monk Wonhyo, he interpreted the meaning for them. He said, \"Withdraw your troops immediately,\" and explained that it meant the drawings of an ox and a phoenix. At this, Yusin turned his army back and sought to cross the Paeseong.",
+  "en": "When they asked the monk Wonhyo, he interpreted the meaning for them. He explained that the drawings of the ox and the phoenix meant, \"Withdraw your troops immediately.\" At this, Yusin turned his army back and sought to cross the Paeseong.",
   "ko": "그들이 원효 스님에게 물어보니, 스님이 그 뜻을 풀이해 주었다. \"어서 군대를 물러나게 하라.\"라고 말하며, 그것은 소와 봉황을 그린 그림이라는 뜻임을 알려주었다. 이에 유신은 군대를 돌려 패강을 건너려 했다.",
   "is_header": false
  },
@@ -275,8 +275,8 @@
  {
   "id": 40,
   "tag": "P0009_4",
-  "en": "There is a place called Danggyo on the border of Sangju. This was the site where they buried them. After Wangsa subdued Baekje and returned, the Silla king ordered his generals to pursue and eliminate the remnants of Baekje and gather them at Hansanseong.",
-  "ko": "지금 상주 경계에 당교라는 곳이 있다. 이곳은 그들이 매장한 장소이다. 왕사가 백제를 평정한 뒤 돌아오자, 신라 왕은 장수들에게 명령했다. 백제 잔당을 추격하여 소탕하고 한산성으로 모으게 했다.",
+  "en": "There is a place called Danggyo on the border of Sangju. This was the site where they buried them. After the royal army had pacified Baekje and returned, the Silla king ordered his generals to pursue and eliminate the remnants of Baekje and gather them at Hansanseong.",
+  "ko": "지금 상주 경계에 당교라는 곳이 있다. 이곳은 그들이 매장한 장소이다. 왕의 군대가 백제를 평정하고 돌아오자, 신라 왕은 장수들에게 명령했다. 백제 잔당을 추격하여 소탕하고 한산성으로 모으게 했다.",
   "is_header": false
  },
  {
@@ -303,21 +303,21 @@
  {
   "id": 44,
   "tag": "P0010_4",
-  "en": "The king built an altar on Seongbusan and performed divine arts. Suddenly, a light like a large jar appeared. That light rose from the altar and spread in all directions.",
-  "ko": "왕은 성부산에 제단을 쌓고 신비로운 술법을 행했다. 그러자 갑자기 커다란 항아리 같은 빛이 나타났다. 그 빛은 제단 위에서 솟아올라 사방으로 뻗어 나갔다.",
+  "en": "The king built an altar on Seongbusan and performed divine arts. Suddenly, a light like a large jar appeared. That light rose from the altar and flew toward the north and south.",
+  "ko": "왕은 성부산에 제단을 쌓고 신비로운 술법을 행했다. 그러자 갑자기 커다란 항아리 같은 빛이 나타났다. 그 빛은 제단 위에서 솟아올라 남북으로 날아갔다.",
   "is_header": false
  },
  {
   "id": 45,
   "tag": "P0010_5",
-  "en": "This light soon became a star and flew north and south before disappearing. (It was the energy of a father crying out, but it was not achieved, and he performed a protective rite instead. That night, his son came down the mountain and died from injuries inflicted by a tiger.)",
+  "en": "This light soon became a star and flew toward the north and south. (It was the sign of a father crying out, but it did not succeed; thus, he performed a rite to ward off evil. That night, his son came down the mountain and died from tiger wounds.)",
   "ko": "이 빛은 곧 별이 되어 남북으로 날아가 사라졌다. (아버지가 울며 부르는 기운이었으나, 결국 이루지 못하고 방어하는 법을 행했다. 그날 밤 그의 아들이 산을 내려오다 호랑이에게 다쳐 죽었다.)",
   "is_header": false
  },
  {
   "id": 46,
   "tag": "P0010_6",
-  "en": "The soldiers inside Hansanseong lamented that the relief forces did not arrive. They only looked at one another and wailed. As the situation became urgent, the enemies pressed on even more fiercely.",
+  "en": "The soldiers inside Hansanseong lamented that the relief forces did not arrive. They only looked at one another and wailed. The enemies, sensing the urgency, pressed their attack even more.",
   "ko": "한산성 안의 병사들은 구원군이 오지 않자 원망했다. 그들은 서로를 바라보며 울부짖기만 했다. 적들은 상황이 급해지자 더욱 거세게 몰아붙였다.",
   "is_header": false
  },
@@ -331,14 +331,14 @@
  {
   "id": 48,
   "tag": "P0011_2",
-  "en": "The enemy forces regained their senses only after a long while. They fled in panic, scattering in all directions. Our army then retreated. When Taejong first ascended the throne, a pig was offered.",
-  "ko": "적군은 한참 뒤에야 정신을 차렸다. 그들은 겁에 질려 뿔뿔이 흩어져 달아났다. 우리 군대는 그제야 퇴각했다. 태종이 처음 왕위에 올랐을 때 돼지 한 마리를 바쳤다.",
+  "en": "The enemy forces regained their senses only after a long while. They fled in panic, scattering in all directions. Our army then withdrew. When Taejong first ascended the throne, a pig was offered.",
+  "ko": "적군은 한참 뒤에야 정신을 차렸다. 그들은 겁에 질려 뿔뿔이 흩어져 달아났다. 우리 군대는 그제야 물러섰다. 태종이 처음 왕위에 올랐을 때 돼지 한 마리를 바쳤다.",
   "is_header": false
  },
  {
   "id": 49,
   "tag": "P0011_3",
-  "en": "The pig had two bodies and eight legs. Those who discussed it said, \"This is surely an auspicious omen of swallowing the whole world.\" It was from this time that the king began to wear Chinese clothing, official robes, and insignia.",
+  "en": "The pig had two bodies and eight legs. Those who discussed it said, \"This is surely an auspicious omen of swallowing the whole world.\" It was from this time that the king began to wear Chinese clothing, official robes, and ceremonial tablets.",
   "ko": "그 돼지는 몸이 둘이고 다리가 여덟이었다. 이를 논의하는 이들이 말했다. \"이것은 반드시 온 세상을 삼키는 상서로운 징조다.\" 왕이 중국의 옷과 관복, 관직을 받기 시작한 것은 이때부터였다.",
   "is_header": false
  },
@@ -366,8 +366,8 @@
  {
   "id": 53,
   "tag": "P0012_3",
-  "en": "At that time, a sound echoed from the heavens. It was a message stating that one of the thirty-three thousand heavens had descended to Silla and became Kim Yusin. When the Emperor found and examined the records, he was greatly alarmed. The Emperor sent an envoy and ordered that the title Taejong not be changed.",
-  "ko": "그때 하늘에서 소리가 울려 퍼졌다. 삼십삼천 하늘 중 한 사람이 신라에 내려와 김유신이 되었다는 내용이었다. 기록을 찾아내어 살피니 황제는 몹시 놀랐다. 황제는 사신을 보내 태종이라는 호칭을 고치지 말라고 명했다.",
+  "en": "At that time, a voice echoed from the heavens, proclaiming that one of the gods of the Heaven of the Thirty-Three (Trāyastriṃśa) had descended to Silla and become Kim Yusin. When the Emperor found and examined the records, he was greatly alarmed. The Emperor sent an envoy and ordered that the title Taejong not be changed.",
+  "ko": "그때 하늘에서 소리가 울려 퍼졌다. 도리천, 즉 삼십삼천의 신 한 사람이 신라에 내려와 김유신이 되었다는 내용이었다. 기록을 찾아내어 살피니 황제는 몹시 놀랐다. 황제는 사신을 보내 태종이라는 호칭을 고치지 말라고 명했다.",
   "is_header": false
  }
 ]

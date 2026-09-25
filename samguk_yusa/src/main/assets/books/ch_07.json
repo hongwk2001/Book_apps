@@ -16,7 +16,7 @@
  {
   "id": 3,
   "tag": "P0002_1",
-  "en": "(There is also a record that says Naemulwang. According to the account recorded by Kim Je-sang, in the year Gyeongin, which was the thirty-sixth year of Naemulwang's reign, an event occurred. The Japanese king sent envoys to pay tribute and said.",
+  "en": "(One version records him as King Naemul.) According to the record of Kim Je-sang, in the year Gyeongin, the thirty-sixth year of King Naemul's reign, an event occurred. The Japanese king sent envoys to pay tribute and said:",
   "ko": "(내물왕이라 쓰인 기록도 있다. 김제상이 기록한 내용에 따르면, 내물왕이 즉위한 지 서른여섯 해가 되는 경인년에 일이 있었다. 왜왕이 사신을 보내 조공하며 말했다.",
   "is_header": false
  },
@@ -37,7 +37,7 @@
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "The Japanese king did not send the envoy away and kept him for thirty years. Later, in the year Gimi, which was the third year of King Nulji's reign, this matter ended.",
+  "en": "The Japanese king kept him without sending him away for thirty years. This continued until the year Gimi, the third year of King Nulji's reign.",
   "ko": "왜왕은 사신을 보내지 않고 삼십 년 동안 머무르게 했다. 이후 눌지왕이 즉위한 지 삼 년째 되는 기미년에 이 일이 끝났다.",
   "is_header": false
  },
@@ -128,8 +128,8 @@
  {
   "id": 19,
   "tag": "P0005_3",
-  "en": "They first decided to return to Eumwol. They stayed at the Goseong sugu and waited. When the appointed day approached, Bohae feigned illness. He did not appear in the morning for several days.",
-  "ko": "그들은 먼저 음월로 돌아가기로 했다. 그들은 고성 수구에 머물며 기다렸다. 약속한 날이 다가오자 보해가 병을 핑계 삼았다. 그는 며칠 동안 아침에 나타나지 않았다.",
+  "en": "They first agreed to return on the 15th day of the fifth month. They stayed at the Goseong sugu and waited. When the appointed day approached, Bohae feigned illness. He did not appear in the morning for several days.",
+  "ko": "그들은 먼저 5월 15일에 돌아가기로 했다. 그들은 고성 수구에 머물며 기다렸다. 약속한 날이 다가오자 보해가 병을 핑계 삼았다. 그는 며칠 동안 아침에 나타나지 않았다.",
   "is_header": false
  },
  {
@@ -177,8 +177,8 @@
  {
   "id": 26,
   "tag": "P0006_5",
-  "en": "His wife called out to him earnestly, but Je-sang only waved his hand and did not stop. He arrived in Japan and lied, saying, \"The King of Gyerim killed my parents and brothers without cause, so I fled here.\"",
-  "ko": "아내가 간절하게 외치며 불렀으나, 제상은 손을 흔들기만 할 뿐 멈추지 않았다. 그는 왜나라에 도착하여 거짓말을 했다. \"계림 왕이 내 부모와 형제를 함부로 죽여서 이곳까지 도망쳐 왔다.\"",
+  "en": "His wife called out to him earnestly, but Je-sang only waved his hand and did not stop. He arrived in the land of Wa and lied, saying, \"The King of Gyerim killed my parents and brothers without cause, so I fled here.\" The King of Wa believed him.",
+  "ko": "아내가 간절하게 외치며 불렀으나, 제상은 손을 흔들기만 할 뿐 멈추지 않았다. 그는 왜나라에 도착하여 거짓말을 했다. \"계림 왕이 내 부모와 형제를 함부로 죽여서 이곳까지 도망쳐 왔다.\" 왜왕은 그 말을 믿었다.",
   "is_header": false
  },
  {
@@ -191,14 +191,14 @@
  {
   "id": 28,
   "tag": "P0007_2",
-  "en": "Tiseong offered the things he caught to the Japanese King every time. The King was very pleased by them and had no suspicions. Then, one day at dawn, a thick fog settled.",
+  "en": "Je-sang offered the things he caught to the Japanese King every time. The King was very pleased by them and had no suspicions. Then, one day at dawn, a thick fog settled.",
   "ko": "제상은 잡은 것들을 매번 왜왕에게 바쳤다. 왕은 그것을 매우 기뻐하며 아무런 의심도 하지 않았다. 그러던 어느 날 새벽에 안개가 자욱하게 끼었다.",
   "is_header": false
  },
  {
   "id": 29,
   "tag": "P0007_3",
-  "en": "Tiseong said, \"Now we can go.\" Mihae replied, \"Then let us go together.\" Tiseong said, \"If I go, I fear the Japanese will notice and pursue you. I will stay behind to block their pursuit.\"",
+  "en": "Je-sang said, \"Now we can go.\" Mihae replied, \"Then let us go together.\" Je-sang said, \"If I go, I fear the Japanese will notice and pursue you. I will stay behind to block their pursuit.\"",
   "ko": "제상이 \"이제 갈 수 있습니다\"라고 말했다. 미해가 \"그럼 함께 갑시다\"라고 대답했다. 제상이 \"제가 가면 왜인들이 알아채고 쫓아올까 걱정됩니다. 저는 남아서 추격을 막겠습니다\"라고 말했다.",
   "is_header": false
  },
@@ -212,7 +212,7 @@
  {
   "id": 31,
   "tag": "P0007_5",
-  "en": "Tiseong poured wine and offered it to Mihae, saying, \"I intend to save your life and soothe the Great King's feelings. Why do you wish to live?\" At this time, Kang Guryeo of Gyerim was in Waeguk.",
+  "en": "Je-sang poured wine and offered it to Mihae, saying, \"I intend to save your life and soothe the Great King's feelings. Why do you wish to live?\" At this time, Kang Guryeo of Gyerim was in Waeguk.",
   "ko": "제상은 \"저는 당신의 목숨을 구하고 대왕의 마음을 달래려 합니다. 어찌 살고 싶어 하십니까?\"라며 술을 따라 미해에게 바쳤다. 이때 계림 사람 강구려가 왜국에 있었다.",
   "is_header": false
  },
@@ -226,7 +226,7 @@
  {
   "id": 33,
   "tag": "P0008_2",
-  "en": "Je-sang stopped them and said, \"He was running and jumping during the hunt yesterday and is so exhausted that he has not yet risen.\" When day broke, the people found this strange and asked again where he was.",
+  "en": "Je-sang stopped them and said, \"He was riding hard during the hunt yesterday and is too exhausted to rise yet.\" When day broke, the people found this strange and asked again where he was.",
   "ko": "제상이 그들을 막으며 말했다. \"어제 사냥을 하느라 달리고 뛰어병이 심해 아직 일어나지 못했다.\" 날이 밝자 사람들은 이를 이상하게 여겨 어디 있느냐고 다시 물었다.",
   "is_header": false
  },
@@ -268,8 +268,8 @@
  {
   "id": 39,
   "tag": "P0009_3",
-  "en": "The king grew angry and stripped the skin from beneath the official's feet. The king smeared blood on the reeds and rushes, made him run over them, and asked again.",
-  "ko": "왕이 노하여 제상의 발밑 피부를 벗기고 말았다. 왕은 갈대와 부들 위에 피를 묻혀 그 위로 달리게 하며 다시 물었다.",
+  "en": "The king grew angry and stripped the skin from beneath the official's feet. He then made him run over the reeds and rushes, which were stained with his blood. (Even now there is blood on the reeds; folk tradition calls it Jesang's blood.) He asked again.",
+  "ko": "왕이 노하여 제상의 발밑 피부를 벗기고 말았다. 왕은 갈대와 부들을 베어 그 위로 달리게 했다. (지금도 갈대 위에 핏자국이 있어, 민간에서는 이를 제상의 피라 한다.) 다시 물었다.",
   "is_header": false
  },
  {
@@ -303,7 +303,7 @@
  {
   "id": 44,
   "tag": "P0010_4",
-  "en": "Zhou Ka was killed by the King of Chu. Considering the loyalty of the officials, there was nothing strange about the actions of Zhou Ka. When the official first departed for a distance, his wife heard the news and pursued him. She arrived at the south side of the gate of Mangdeoksa.",
+  "en": "Zhou Ka was killed by the King of Chu. Considering the loyal devotion of Jesang, there was nothing strange about the actions of Zhou Jia. When the official first departed for a distance, his wife heard the news and pursued him. She arrived at the south side of the gate of Mangdeoksa.",
   "ko": "주가는 초왕에게 죽임을 당했다. 제상의 충절을 생각하면 주가의 행동도 이상할 것이 없었다. 처음에 제상이 멀리 떠날 때 부인이 그 소식을 듣고 뒤쫓았다. 부인은 망덕사 문 남쪽에 이르렀다.",
   "is_header": false
  },
@@ -317,8 +317,8 @@
  {
   "id": 46,
   "tag": "P0011_2",
-  "en": "After some time, the wife could not endure her longing. She took her three sons and ascended Chiseullyeong. Looking toward Waeguk, she wept in agony and died. She became the goddess Chisulsinmo. A shrine still remains there today.",
-  "ko": "시간이 흐른 뒤 부인은 그리움을 견디지 못했다. 세 아들을 데리고 치술령에 올랐다. 부인은 왜국을 바라보며 고통스럽게 울다가 죽었다. 그리고 치술신모가 되었다. 지금도 그곳에 사당이 남아 있다.",
+  "en": "After some time, the wife could not endure her longing. She took her three daughters and ascended Chiseullyeong. Looking toward Waeguk, she wept in agony and died. She became the goddess Chisulsinmo. A shrine still remains there today.",
+  "ko": "시간이 흐른 뒤 부인은 그리움을 견디지 못했다. 세 딸을 데리고 치술령에 올랐다. 부인은 왜국을 바라보며 고통스럽게 울다가 죽었다. 그리고 치술신모가 되었다. 지금도 그곳에 사당이 남아 있다.",
   "is_header": false
  }
 ]

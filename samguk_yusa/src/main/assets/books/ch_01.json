@@ -30,21 +30,21 @@
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Therefore, after the painting emerged from the Hado and the writing emerged from the Luseo, sages appeared. The rainbow wrapped around the mother of the gods and gave birth to Fuxi, and the dragon moved Yuding and gave birth to Yan.",
-  "ko": "그래서 하도에서 그림이 나오고 낙서에서 글이 나온 뒤에 성인들이 나타났다. 무지개는 신의 어머니를 감싸며 복희를 낳았고, 용은 여등을 감응하게 하여 염제를 낳았다.",
+  "en": "Therefore, after Hado emerged from the Yellow River and Nakseo emerged from the Nak River, sages appeared. The rainbow wrapped around the mother of the gods and gave birth to Fuxi, and the dragon moved Yuding and gave birth to Yan.",
+  "ko": "그래서 황하에서 하도가 나오고 낙수에서 낙서가 나온 뒤에 성인들이 나타났다. 무지개는 신의 어머니를 감싸며 복희를 낳았고, 용은 여등을 감응하게 하여 염제를 낳았다.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "When Huang'a wandered the fields of Gungsang, a divine child identified himself as the son of Baekje and gave birth to Soho. Ganjeok swallowed an egg and gave birth to Seol, and Gangwon followed footprints and gave birth to Gi. After carrying for fourteen months in the womb, she gave birth to Yao.",
+  "en": "When Huang'a wandered the fields of Gungsang, a divine child identified himself as the Son of the White Emperor and gave birth to Soho. Ganjeok swallowed an egg and gave birth to Seol, and Gangwon followed footprints and gave birth to Gi. After carrying for fourteen months in the womb, she gave birth to Yao.",
   "ko": "황아는 궁상의 들판을 거닐 때 신동이 백제자라 자칭하며 소호를 낳았다. 간적은 알을 삼켜 설을 낳았고, 강원은 발자국을 밟으며 기를 낳았다. 태중에서 열네 달을 품어 요임금을 낳았다.",
   "is_header": false
  },
  {
   "id": 7,
   "tag": "P0003_1",
-  "en": "A dragon intertwined with a large pond and gave birth to Paegong. From this point, the records were cut off. How could everything be recorded?",
+  "en": "A dragon united with a great marsh and fathered Lord Pei. From this point, the records were cut off. How could everything be recorded?",
   "ko": "용이 큰 못과 엉켜 패공을 낳았다. 이때부터 기록이 끊겼다. 어찌 모든 것을 다 적을 수 있겠는가.",
   "is_header": false
  },
@@ -65,28 +65,28 @@
  {
   "id": 10,
   "tag": "P0005_1",
-  "en": "(Wanggeomseong Joseon) The *Wei Shu* states that long ago, two thousand years ago, there was Dangun Wanggeom. He established the capital at Asadal (the scriptures call it Muyeopsan or Baegak.",
+  "en": "(Wanggeomseong Joseon) The Wei Shu states that long ago, two thousand years ago, there was Dangun Wanggeom. He was at Asadal (the scriptures call it Muyeopsan, or also Baegak",
   "ko": "(왕검성 조선) 《위서》에 이르기를, 옛날에 두천 년 전 단군왕검이 있었다. 그는 아사달(경전은 무엽산이라 하고 또 백악이라도 한다.",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "P0005_2",
-  "en": "He established the capital at Asadal (the scriptures call it Muyeopsan, and some also call it Baegak; it is in the land of Baekju, while others say it is east of Gaeseong. It is the current Baegakgung) and founded the nation's name as Joseon. This was the same era as King Yao.",
+  "en": "it is in the land of Baekju, while others say it is east of Gaeseong. It is the current Baegakgung) and there he established the capital, founding the nation's name as Joseon. This was the same era as King Yao.",
   "ko": "백주 땅에 있으며 어떤 이는 개성 동쪽에 있다고 한다. 지금의 백악궁이다)에 도읍을 정하고 나라 이름을 조선이라 세웠다. 이는 요임금과 같은 시대였다.",
   "is_header": false
  },
  {
   "id": 12,
   "tag": "P0005_3",
-  "en": "The Gogi says: Long ago, there was Hwanung, the son of Hwanin (meaning the Heavenly King). Hwanung harbored the intent to rule the world and desired the human realm. His father knew his son's intention and looked down.",
+  "en": "The Gogi says: Long ago, there was Hwanung, the illegitimate son of Hwanin (meaning the Heavenly King). Hwanung harbored the intent to rule the world and desired the human realm. His father knew his son's intention and looked down.",
   "ko": "《고기》에 이르기를, 옛날에 환인(제석을 뜻한다)의 서자인 환웅이 있었다. 환웅은 천하를 다스릴 마음을 품고 인간 세상을 탐내었다. 아버지는 아들의 뜻을 알아서 아래를 굽어보았다.",
   "is_header": false
  },
  {
   "id": 13,
   "tag": "P0005_4",
-  "en": "The father saw that he could greatly benefit the people at Samwitaebaek. The father gave three heavenly seals to Hwanung and sent him down with them to rule the world.",
+  "en": "He saw that the people could be greatly benefited at Samwitaebaek. He bestowed three heavenly seals upon Hwanung and sent him down to govern the land.",
   "ko": "아버지는 삼위태백에서 사람들을 널리 이롭게 할 수 있음을 보았다. 아버지는 세 개의 천부인을 환웅에게 내어주었다. 그리고 그에게 그것을 가지고 내려가 세상을 다스리라고 보냈다.",
   "is_header": false
  },
@@ -163,7 +163,7 @@
  {
   "id": 24,
   "tag": "P0008_2",
-  "en": "Goryeo was originally Gojukguk (now Haeju). It was the land that the Zhou Dynasty bestowed upon Gija as Joseon. The Han Dynasty divided it into three districts and established them. They were called Hyeondo, Nakrang, and Daebang. Tongjeon also conveys this same account.",
+  "en": "Goguryeo was originally Gojukguk (now Haeju). It was the land that the Zhou Dynasty bestowed upon Gija as Joseon. The Han Dynasty divided it into three districts and established them. They were called Hyeondo, Nakrang, and Daebang. Tongjeon also conveys this same account.",
   "ko": "고구려는 본래 고죽국(지금의 해주)이었다. 주나라가 기자에게 조선을 봉한 땅이다. 한나라가 세 군을 나누어 설치했다. 이를 현도, 낙랑, 대방이라 불렀다. 통전에서도 이와 같은 설을 전한다.",
   "is_header": false
  },
@@ -191,7 +191,7 @@
  {
   "id": 28,
   "tag": "P0010_3",
-  "en": "The King of Yan, No Gwan, rebelled and entered the Xiongnu territory. Wiman, a person of Yan, fled to save his life. He gathered a group of about one thousand people and passed through the eastern fortress.",
+  "en": "The King of Yan, No Gwan, rebelled and entered the Xiongnu territory. Wiman, a native of Yan, fled to save his life. He gathered a group of about one thousand people and passed through the eastern fortress.",
   "ko": "연나라 왕 노관이 반란을 일으켜 흉노로 들어갔다. 연나라 사람 위만이 목숨을 구하기 위해 도망쳤다. 그는 천여 명의 무리를 모아 동쪽 성벽을 빠져나왔다.",
   "is_header": false
  },
@@ -205,7 +205,7 @@
  {
   "id": 30,
   "tag": "P0010_5",
-  "en": "He established his capital at Wanggeomseong and forced the neighboring villages to submit. Jinbeon and Imdun all obeyed, and the territory reached several thousand li. Wiman passed this on to his son, and this was passed on to his grandson Ugeo.",
+  "en": "He established his capital at Wanggeomseong and forced the neighboring villages to submit. Jinbeon and Imdun all submitted, and the territory reached several thousand li. Wiman passed this legacy to his son, who passed it to his grandson Ugeo.",
   "ko": "그는 왕검성에 도읍을 정하고 주변 마을을 굴복시켰다. 진번과 임둔이 모두 복종하였으며 그 땅은 수천 리에 달했다. 위만은 아들에게 전했고, 이 뜻은 손자 우거에게 전해졌다.",
   "is_header": false
  },
@@ -226,22 +226,22 @@
  {
   "id": 33,
   "tag": "P0011_3",
-  "en": "Joseon resented He and attacked him, killing him. The Emperor sent General Louliang Yang Pu to cross the Yellow Sea with troops from Qi. There were fifty thousand soldiers. Left General Xun Zhi went out to Liaodong to attack Ugeo.",
+  "en": "Joseon resented Seopha and attacked him, killing him. The Emperor sent General Louliang Yang Pu to cross the Yellow Sea with troops from Qi. There were fifty thousand soldiers. Left General Xun Zhi went out to Liaodong to attack Ugeo.",
   "ko": "조선이 섭하를 원망하며 습격하여 그를 죽였다. 천자는 누선장군 양복을 보내어 제나라 군사와 함께 황해를 건너게 했다. 병사는 오만 명이었다. 좌장군 순체는 요동으로 나가 우거를 공격했다.",
   "is_header": false
  },
  {
   "id": 34,
   "tag": "P0011_4",
-  "en": "Ugeo raised his troops and resisted in a rugged place. General Loutian led seven thousand people from Qi and arrived at Wanggeomseong first. Ugeo defended the city. He knew that the forces of General Loutian were small.",
+  "en": "Ugeo raised his troops and resisted in a rugged place. General Louliang led seven thousand people from Qi and arrived at Wanggeomseong first. Ugeo defended the city. He knew that the forces of General Louliang were small.",
   "ko": "우거가 군사를 일으켜 험한 곳에서 저항했다. 누선장군은 제나라 사람 칠천 명을 거느리고 먼저 왕검성에 도착했다. 우거는 성안에서 지키고 있었다. 그는 누선장군의 군세가 적다고 알았다.",
   "is_header": false
  },
  {
   "id": 35,
   "tag": "P0012_1",
-  "en": "They immediately went out to attack the ships of General Nuseon. General Nuseon was defeated and fled, and his subordinates lost their groups and escaped into the mountains to save their lives. The Left General attacked the western army of Joseon at Paesu but could not defeat them.",
-  "ko": "곧 출격하여 누선장군이 배를 공격했다. 누선장군은 패배하여 달아났고, 부하들은 무리를 잃고 산속으로 숨어 목숨을 건졌다. 좌장군은 조선의 패수 서쪽 군대를 공격했으나 이기지 못했다.",
+  "en": "They immediately went out to attack the enemy's ships. The fleet was defeated and fled, and the subordinates lost their groups and escaped into the mountains to save their lives. The Left General attacked the western army of Joseon at Paesu but could not defeat them.",
+  "ko": "곧 출격하여 적의 배들을 공격했다. 적의 배들은 패퇴하였고, 부하들은 무리를 잃고 산속으로 숨어 목숨을 건졌다. 좌장군은 조선의 패수 서쪽 군대를 공격했으나 이기지 못했다.",
   "is_header": false
  },
  {
@@ -282,14 +282,14 @@
  {
   "id": 41,
   "tag": "P0013_3",
-  "en": "Tao, Wanghyeop, and the elder all surrendered to the Han. The elder died. In the summer of the third year of Yuanfeng, Nigye Sangsam sent people to kill Wang Ugeo and make him surrender. Wanggeomseong was not yet captured. Seonggi, a minister of Ugeo, rebelled again.",
+  "en": "Han Do, Wanghyeop, and Norin all surrendered to the Han. Norin died along the way. In the summer of the third year of Yuanfeng, Nigye Sangsam sent people to kill Wang Ugeo and make him surrender. Wanggeomseong was not yet captured. Seonggi, a minister of Ugeo, rebelled again.",
   "ko": "한도와 왕협 그리고 노인은 모두 한나라에 항복했다. 노인은 죽었다. 원봉 삼년 여름에 니계상 삼이 사람을 시켜 왕우거를 죽이고 항복하게 했다. 왕검성은 아직 함락되지 않았다. 우거의 대신 성기가 다시 반기를 들었다.",
   "is_header": false
  },
  {
   "id": 42,
   "tag": "P0013_4",
-  "en": "The Left General ordered Jang, the son of Ugeo, and Choi, the son of the Old Man, to act. They informed the people and conspired to kill Seonggi. Thus, Gongsun Sui pacified Joseon and governed the four commanderies of Jinbeon, Imdun, Nakrang, and Hyeondo.",
+  "en": "The Left General ordered Jang, the son of Ugeo, and Choi, the son of Norin, to act. They informed the people and conspired to kill Seonggi. Thus, Gongsun Sui pacified Joseon and governed the four commanderies of Jinbeon, Imdun, Nakrang, and Hyeondo.",
   "ko": "좌장군은 우거의 아들 장과 노인의 아들 최를 시켰다. 그들은 백성들에게 알리고 성기를 죽이기로 모의했다. 그리하여 공순수가 조선을 평정했다. 진번, 임둔, 낙랑, 현도 네 군을 다스리게 되었다.",
   "is_header": false
  }

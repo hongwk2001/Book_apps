@@ -9,21 +9,21 @@
  {
   "id": 2,
   "tag": "P0001_1",
-  "en": "The majesty of the king was disregarded and a subordinate was called by an exalted title, so the order of high and low was disrupted. The upper and lower ranks shared the same concern. If Yuanbang were not loyal and pure, how could the realm be made peaceful again?",
+  "en": "The majesty of the king was disregarded and a subordinate was called by an exalted title, so the order of high and low was disrupted. The upper and lower ranks shared the same concern. If the Yuanbang were not loyal and pure, how could the realm be made peaceful again?",
   "ko": "왕의 지엄함을 무시하고 아랫사람을 높여 부르니 존비의 질서가 어긋났다. 위아래가 함께 걱정했다. 원방이 충성스럽고 순수하지 않다면 어떻게 나라를 다시 평안하게 할 수 있겠는가.",
   "is_header": false
  },
  {
   "id": 3,
   "tag": "P0001_2",
-  "en": "My heart cannot hide the evil, and my intention to revere the king is earnest. I intend to spread this throughout the court and support the nation in its peril. You saw only small interests and forgot the great grace of heaven and earth.",
-  "ko": "내 마음은 악한 것을 숨기지 못하고 왕을 받드는 뜻이 간절하다. 이를 조정에 널리 알리고 나라의 위태로움을 보필하고자 한다. 당신은 아주 작은 이익만 보고 하늘과 땅의 큰 은혜를 잊었다.",
+  "en": "The servant's heart cannot hide the evil, and my intention to revere the king is earnest. I intend to spread this throughout the court and support the nation in its peril. You saw only small interests and forgot the great grace of heaven and earth.",
+  "ko": "종의 마음은 악한 것을 숨기지 못하고 왕을 받드는 뜻이 간절하다. 이를 조정에 널리 알리고 나라의 위태로움을 보필하고자 한다. 당신은 아주 작은 이익만 보고 하늘과 땅의 큰 은혜를 잊었다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "P0001_3",
-  "en": "You slew the monarch and burned the palaces, insulted the ministers, and tormented the people. Your evil deeds were greater than those of the fierce and wicked rulers of old. Your wickedness was enough to collapse the heavens, and your furious momentum was like the pursuit of a hawk.",
+  "en": "You slew the monarch and burned the palaces, insulted the ministers, and tormented the people. Your evil deeds were greater than those of the fierce and wicked rulers of old. Your wickedness was profound and relentless, like the pursuit of a hawk.",
   "ko": "당신은 군주를 베고 궁궐을 불태웠으며 신하들을 모욕하고 백성들을 괴롭혔다. 그 악행이 거칠고 사악한 옛 임금들보다 더했다. 그 악함이 하늘을 무너뜨릴 정도였으며, 그 성난 기세는 매와 같은 추격과 같았다.",
   "is_header": false
  },
@@ -37,7 +37,7 @@
  {
   "id": 6,
   "tag": "P0002_2",
-  "en": "Yukho charged like lightning, and the water attack was like tigers and dragons lunging. Every movement succeeded, and every thrust of the spear hit its mark.",
+  "en": "Nukho charged like lightning, and the water attack was like tigers and dragons lunging. Every movement succeeded, and every thrust of the spear hit its mark.",
   "ko": "육호는 번개처럼 몰아쳤고, 수공은 호랑이와 용이 달려드는 듯했다. 모든 움직임은 반드시 성공했고, 휘두르는 창은 한 번도 허탕치지 않았다.",
   "is_header": false
  },
@@ -51,8 +51,8 @@
  {
   "id": 8,
   "tag": "P0002_4",
-  "en": "At Isangunseong, Suyeong was killed beneath the banner by the sharpness of a horse's edge. On the day Imjon was removed, hundreds including Hyeongjeok sacrificed their lives. When Cheongcheonhyeon was broken, several groups surrendered to their leaders.",
-  "ko": "이산군성에서는 말의 날카로움으로 수응을 깃발 아래서 죽였다. 임존이 뽑힌 날에 형적 등 수백 명이 목숨을 버렸다. 청천현을 무너뜨릴 때에는 여러 무리가 우두머리에게 항복했다.",
+  "en": "At Isangunseong, Suyeong was killed beneath the banner by the sharpness of a horse's edge. On the day Imjon was removed, hundreds including Hyeongjeok sacrificed their lives. When Cheongcheonhyeon was broken, four or five groups surrendered.",
+  "ko": "이산군성에서는 말의 날카로움으로 수응을 깃발 아래서 죽였다. 임존이 뽑힌 날에 형적 등 수백 명이 목숨을 버렸다. 청천현을 무너뜨릴 때에는 네다섯 무리가 목숨을 내놓았다(항복했다).",
   "is_header": false
  },
  {
@@ -65,15 +65,15 @@
  {
   "id": 10,
   "tag": "P0003_1",
-  "en": "Gangju-gun came from the south and Nabuseong moved from the west to become a vassal state.",
-  "ko": "강주군은 남쪽에서 올라왔고 나부성은 서쪽에서 옮겨와 속국이 되었다.",
+  "en": "Gangju came from the south and Nabu moved from the west to become a vassal state.",
+  "ko": "강주는 남쪽에서 왔고 나부는 서쪽에서 옮겨와 속국이 되었다.",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "P0003_2",
-  "en": "If the enemies invade in this manner, the reclaiming of peaceful lands will surely be decided within Cheongsuseong. The long-held grudges of Yeongjang and Icheon will also be resolved here, and on the banks of Ogang, the heart of the Han King will be unified to calm the rough waves and clear the seas.",
-  "ko": "적들이 이렇게 침공해 온다면, 평온한 땅을 되찾는 일은 반드시 청수성 안에서 결정될 것이다. 영장과 이천의 오랜 원한도 이곳에서 풀릴 것이며, 오강가에서는 한왕의 마음을 하나로 모아 거친 풍파를 잠재우고 바다를 맑게 할 것이다.",
+  "en": "If the enemies invade in this manner, reclaiming the peaceful lands will surely be decided within Chalsu. The long-held grudges of Yeongjang and Icheon will also be resolved here, and on the banks of Ogang, the heart of the Han King will be unified to calm the rough waves and clear the seas.",
+  "ko": "적들이 이렇게 침공해 온다면, 평온한 땅을 되찾는 일은 반드시 철수성 안에서 결정될 것이다. 영장과 이천의 오랜 원한도 이곳에서 풀릴 것이며, 오강가에서는 한왕의 마음을 하나로 모아 거친 풍파를 잠재우고 바다를 맑게 할 것이다.",
   "is_header": false
  },
  {
@@ -86,8 +86,8 @@
  {
   "id": 13,
   "tag": "P0003_4",
-  "en": "Moreover, His Highness the King of Wu and Yue possessed vast virtue that encompassed great matters, and his benevolence was deep and his name widely known, making him exceptionally outstanding. He was capable of halting ships and possessed excellent ability to resolve difficult matters at Cheonggu.",
-  "ko": "하물며 오월왕 전하께서는 덕이 넓고 큰일을 아우르시며, 인자함이 깊고 이름이 널리 알려져 특별하게 뛰어나셨다. 그분은 배를 막아 세우는 일에 능하시고 청구에서 어려운 일을 해결하시는 데 탁월한 능력을 갖추셨다.",
+  "en": "Moreover, His Highness the King of Wu and Yue possessed vast virtue that encompassed great matters, and his benevolence was deep and his name widely known, making him exceptionally outstanding. He was capable of restricting ships and possessed excellent ability to resolve difficult matters at Cheonggu.",
+  "ko": "하물며 오월왕 전하께서는 덕이 넓고 큰일을 아우르시며, 인자함이 깊고 이름이 널리 알려져 특별하게 뛰어나셨다. 그분은 배를 막는 일에 능하시고 청구에서 어려운 일을 해결하시는 데 탁월한 능력도 갖추셨다.",
   "is_header": false
  },
  {
@@ -100,14 +100,14 @@
  {
   "id": 15,
   "tag": "P0003_6",
-  "en": "If you follow the wise instructions and suppress all sinister schemes, it is not merely a matter of repaying the emperor's grace; it will also be an act of continuing the severed lineage of the East Sea.",
-  "ko": "만약 귀하께서 명석한 뜻을 받들어 모든 흉계를 잠재우신다면, 이는 단순히 임금의 은혜에 보답하는 일만이 아니다. 또한 동해의 끊어진 맥락을 이어 나가는 일이 될 것이다.",
+  "en": "If you follow the wise instructions and suppress all sinister schemes, it is not merely a matter of repaying the emperor's grace; it will also be an act of restoring the severed lineage of the East Sea.",
+  "ko": "만약 귀하께서 명석한 뜻을 받들어 모든 흉계를 잠재우신다면, 이는 단순히 임금의 은혜에 보답하는 일만이 아니라 동해의 끊어진 맥락을 이어 나가는 일이 될 것이다.",
   "is_header": false
  },
  {
   "id": 16,
   "tag": "P0003_7",
-  "en": "If this matter is not simply passed over but can be changed, a great transformation can be achieved.",
+  "en": "If this matter can be transformed rather than simply passing by, it will bring about great change.",
   "ko": "만약 이 일을 그냥 지나치지 않고 바꿀 수만 있다면, 큰 변화를 이룰 수 있다.",
   "is_header": false
  },
@@ -121,7 +121,7 @@
  {
   "id": 18,
   "tag": "P0004_2",
-  "en": "Gyeonhwon captured Gongjik's two sons and one daughter. He seared and severed their legs and crotches with fire. In the ninth month of autumn, Gyeonhwon sent one rider. He entered the Goguryeo Yeseonggang with soldiers.",
+  "en": "Gyeonhwon captured Gongjik's two sons and one daughter. He seared and severed their legs and crotches with fire. In the ninth month of autumn, Gyeonhwon sent one rider. He entered the Yeseonggang with soldiers.",
   "ko": "견훤은 공직의 두 아들과 한 딸을 붙잡았다. 그들의 다리와 가랑이를 불로 지져 끊어버렸다. 가을 아홉 달에 견훤은 한 명의 기사를 보냈다. 그는 병사들을 데리고 고구려 예성강으로 들어갔다.",
   "is_header": false
  },
@@ -149,7 +149,7 @@
  {
   "id": 22,
   "tag": "P0005_2",
-  "en": "\"Since the number of soldiers is much greater than the northern army, victory will not be difficult. Heaven will lend its hand so that Goguryeo will surrender and become a head of a district.\" Seonhwi said these words. However, his three sons Singeom, Yonggeom, and Yanggeom all did not respond.",
+  "en": "\"Since the number of soldiers is much greater than the northern army, victory will not be difficult. Heaven will lend its hand so that Goguryeo will surrender and become its local leaders.\" Seonhwi said these words. However, his three sons Singeom, Yonggeom, and Yanggeom all did not respond.",
   "ko": "\"지금 군사 수가 북방 군대보다 훨씬 많으니, 승리가 어렵지 않다. 하늘이 손을 빌려주어 고구려가 항복하고 수령이 될 것이다.\" 선휘는 이 말을 했다. 그러나 그의 아들인 신검, 용검, 양검 세 사람은 모두 응하지 않았다.",
   "is_header": false
  },
@@ -163,8 +163,8 @@
  {
   "id": 24,
   "tag": "P0005_4",
-  "en": "The sixth had no name, and the records for the seventh through the ninth did not remain. They were some of the many descendants Seonhwi had, and each held different titles and names.",
-  "ko": "여섯째는 이름이 없으며 일곱째부터 아홉째까지의 기록은 남아 있지 않다. 이들은 선휘가 가졌던 많은 자손 중 일부이며, 각각 다른 직함과 이름을 가지고 있었다.",
+  "en": "The sixth was missing, and there are no records for the seventh through ninth.",
+  "ko": "여섯째는 이름이 없으며 일곱째부터 아홉째까지의 기록은 남아 있지 않다.",
   "is_header": false
  },
  {
@@ -184,21 +184,21 @@
  {
   "id": 27,
   "tag": "P0006_3",
-  "en": "Geumgang's brothers Singeom, Yanggeom, and Yonggeom learned of this fact and worried. At that time, Yanggeom was the commander of Gangju and Yonggeom was the commander of Muju. Only Singeom was by his side. Singeom, together with Neunghwan, sent people to Gangju and Muju.",
+  "en": "Geumgang's brothers Singeom, Yanggeom, and Yonggeom learned of this fact and worried. At that time, Yanggeom was the commander of Gangju and Yonggeom was the commander of Muju. Only Singeom was by his side. Singeom, together with Neunghwan, sent messengers to Gangju and Muju.",
   "ko": "금강의 형제들인 신검과 양검 그리고 용검은 이 사실을 알고 걱정했다. 당시 양검은 강주 도독으로 있었고, 용검은 무주 도독이었다. 오직 신검만이 곁에 있었다. 신검은 능환과 함께 사람을 보내 강주와 무주로 보냈다.",
   "is_header": false
  },
  {
   "id": 28,
   "tag": "P0006_4",
-  "en": "Singeom conspired with Yanggeom there. In the third month of the year Eulmi, the second year of Cheongtae, Singeom and Yeongsun and others persuaded Geumgang. They kept Hyeon in a temple at Geumsan. Then they sent people to kill Geumgang.",
-  "ko": "신검은 그곳에서 양검과 공모했다. 청태 이년 을미년 삼월이 되자, 신검은 영순 등과 함께 금강을 설득했다. 그들은 훤을 금산 절에 머물게 했다. 그러고는 사람을 보내 금강을 죽였다.",
+  "en": "Neunghwan, together with Yeongsun and others, persuaded Singeom. They confined Hyeon at the temple in Geumsan, then sent people to kill Geumgang.",
+  "ko": "능환은 영순 등과 함께 신검을 부추겼다. 그들은 훤을 금산 절에 가두었다. 그러고는 사람을 보내 금강을 죽였다.",
   "is_header": false
  },
  {
   "id": 29,
   "tag": "P0007_1",
-  "en": "Singeom called himself the Great King. (He ascended to the throne of the king.) When he did not wake at dawn for the first time within the territory, he heard a clamorous sound from the palace in the distance.",
+  "en": "Singeom called himself the Great King. (He ascended to the throne of the king.) When he was still asleep at dawn, he heard a clamorous sound from the palace in the distance.",
   "ko": "신검이 스스로를 대왕이라 칭했다. (그는 왕의 자리에 올랐다.) 경계 안에서 처음으로 새벽에 잠에서 깨지 못했을 때, 멀리서 궁전이 소란스러운 소리를 내는 것이 들렸다.",
   "is_header": false
  },
@@ -219,7 +219,7 @@
  {
   "id": 32,
   "tag": "P0007_4",
-  "en": "They soon moved the father to a Buddhist temple in Geumsan. Thirty brave men as strong as the sea guarded it. Children's songs echoed.",
+  "en": "They soon moved the father to a Buddhist temple in Geumsan. Thirty brave warriors named Bada guarded it. Children's songs echoed.",
   "ko": "그들은 곧 아버지를 금산의 절로 옮겼다. 바다와 같은 용맹한 장사 서른 명이 그곳을 지켰다. 아이들의 노래가 울려 퍼졌다.",
   "is_header": false
  },
@@ -240,14 +240,14 @@
  {
   "id": 35,
   "tag": "P0008_2",
-  "en": "The Great King bestowed upon him the fief and fields of Yangju, as well as forty servants and slaves and nine horses. He appointed Gang, who was the first from his country to surrender, as a palace official.",
+  "en": "The Great King bestowed upon him the fief and fields of Yangju, as well as forty servants and slaves and nine horses. He appointed Gang, who was the first from his country to surrender, as an official of the inner court.",
   "ko": "대왕은 그에게 양주 땅의 식읍과 전답을 하사했다. 또한 종과 노비 사십 명과 말 아홉 필을 주었다. 그의 나라에서 가장 먼저 항복한 사람인 강을 야전으로 삼았다.",
   "is_header": false
  },
  {
   "id": 36,
   "tag": "P0008_3",
-  "en": "The general, who was the son-in-law of Gyeonhwon, whispered words that violated protocol to his wife. \"The Great King worked diligently for over forty years, and his great achievements were nearly complete. Yet, in a single moment, he lost his land due to family misfortune and followed Goguryeo.\"",
+  "en": "The general, who was Gyeonhwon's son-in-law, whispered some private words to his wife. \"The Great King worked diligently for over forty years, and his great achievements were nearly complete. Yet, in a single moment, he lost his land due to family misfortune and followed Goguryeo.\"",
   "ko": "견훤의 사위인 장군이 규칙에 어긋나는 비밀스러운 말을 아내에게 속삭였다. \"대왕께서 마흔 해 넘게 정성을 다해 일하셨고 큰 업적도 거의 완성하셨다. 그런데 한순간에 가족의 화로 땅을 잃고 고구려를 따랐다.\"",
   "is_header": false
  },
@@ -268,7 +268,7 @@
  {
   "id": 39,
   "tag": "P0009_2",
-  "en": "They wrote letters to comfort our king. They also sent sincere messages to the king and his lords. This was to seek future blessings in advance. The wife said to her husband, \"Your words are my thoughts.\"",
+  "en": "They wrote letters to comfort our king. They also sent letters written with great sincerity to the king and his lords. This was to seek future blessings in advance. The wife said to her husband, \"Your words are my thoughts.\"",
   "ko": "그들은 편지를 써서 우리 왕을 위로했다. 또한 왕과 제후들에게도 정성을 다해 보냈다. 이는 나중에 올 복을 미리 도모하기 위함이었다. 부인은 남편에게 \"당신의 말이 내 뜻과 같습니다\"라고 말했다.",
   "is_header": false
  },
@@ -282,7 +282,7 @@
  {
   "id": 41,
   "tag": "P0009_4",
-  "en": "The envoy Sayeonggyu said, \"If I receive your favor and there are no obstacles on the road, I will first visit the general. After that, I will go up to the main hall and bow to the lady. A brother serves and a sister respects; I will surely repay you greatly.\"",
+  "en": "The envoy Sayeonggyu said, \"If I receive your favor and find no obstacles on the road, I will first visit the general. Then, I shall enter the hall to pay my respects to the lady. As a brother serves and a sister honors, I shall surely repay you with great rewards.\"",
   "ko": "사자 샤영규가 말했다. \"은혜를 입어 길이 막히는 일이 없다면, 먼저 장군을 찾아뵙겠습니다. 그 후에 대청에 올라 부인께 절을 올리겠습니다. 오빠가 모시고 누이가 공경하니 반드시 큰 보답을 하겠습니다.\"",
   "is_header": false
  },
@@ -296,8 +296,8 @@
  {
   "id": 43,
   "tag": "P0010_2",
-  "en": "\"The reason this old official threw himself before Your Majesty was only because I hoped that your majesty's majesty would punish the rebel sons. I earnestly hope that the Great King will lend the Divine Sword to sweep away those ruffians. I have no regrets even if I die.\"",
-  "ko": "\"늙은 신하가 전하 앞에 몸을 던진 것은 오직 전하의 위엄으로 역적 자식을 처단하기를 바랐기 때문입니다. 대왕께서 신검을 빌려주어 저 무뢰배들을 소탕해 주시기를 간절히 바랍니다. 저는 죽어도 한이 없습니다.\"",
+  "en": "\"The reason this old official threw himself before Your Majesty was only because I hoped that your majesty's majesty would punish the rebel sons. I earnestly hope the Great King will lend me troops to sweep away those ruffians. I have no regrets even if I die.\"",
+  "ko": "\"늙은 신하가 전하 앞에 몸을 던진 것은 오직 전하의 위엄으로 역적 자식을 처단하기를 바랐기 때문입니다. 대왕께서 신병을 빌려주어 저 무뢰배들을 소탕해 주시기를 간절히 바랍니다. 저는 죽어도 한이 없습니다.\"",
   "is_header": false
  },
  {
@@ -317,14 +317,14 @@
  {
   "id": 46,
   "tag": "P0011_1",
-  "en": "Suddenly white clouds rose like swords and spears. My master moved toward that place. The soldiers advanced forward to the beat of drums. Baekje generals Hyobongdeok, Seoae, Myeonggil, and others looked at the enemy forces. They saw that the enemy's momentum was great and orderly.",
-  "ko": "갑자기 흰 구름이 칼과 창처럼 솟아올랐다. 나의 스승은 그곳을 향해 나아갔다. 군사들이 북소리에 맞춰 앞으로 전진했다. 백제 장수 효봉덕, 서애, 명길 등이 적군을 바라보았다. 그들은 적의 기세가 크고 정연함을 보았다.",
+  "en": "Suddenly white clouds rose like swords and spears. My master moved toward that place. The soldiers advanced forward to the beat of drums. Baekje generals Hyobongdeok, Sorae, Myeonggil, and others looked at the enemy forces. They saw that the enemy's momentum was great and orderly.",
+  "ko": "갑자기 흰 구름이 칼과 창처럼 솟아올랐다. 나의 스승은 그곳을 향해 나아갔다. 군사들이 북소리에 맞춰 앞으로 전진했다. 백제 장수 효봉덕, 소래, 명길 등이 적군을 바라보았다. 그들은 적의 기세가 크고 정연함을 보았다.",
   "is_header": false
  },
  {
   "id": 47,
   "tag": "P0011_2",
-  "en": "They cast off their armor and surrendered before the formation. Taejo comforted them for their efforts. Taejo asked where the commanders were located. Hyo-bong and the others replied that Marshal Singeom was in the center of the army. Taejo gave orders to Gongseon and the others.",
+  "en": "They cast off their armor and surrendered before the formation. Taejo comforted them for their efforts. Taejo asked where the commanders were located. Hyobong and the others replied that Marshal Singeom was in the center of the army. Taejo gave orders to Gongseon and the others.",
   "ko": "그들은 갑옷을 버리고 진영 앞에서 항복했다. 태조는 그들을 수고했다며 위로했다. 태조가 장수들이 어디에 있는지 물었다. 효봉 등은 원수 신검이 중심 군대에 있다고 답했다. 태조는 공선 등에게 명령을 내렸다.",
   "is_header": false
  },
@@ -338,8 +338,8 @@
  {
   "id": 49,
   "tag": "P0011_4",
-  "en": "Singeom and his two younger brothers Budal, Neunghwan, and forty others surrendered. Taejo accepted them. Taejo comforted the remaining people and permitted them to go up to Gyeongseong with their wives.",
-  "ko": "신검과 두 동생인 부달, 능환 등 마흔여 명이 항복했다. 태조는 그들을 받아들였다. 태조는 남은 이들을 위로하며 아내와 함께 경성으로 올라가라고 허락했다.",
+  "en": "Singeom and his two younger brothers Budal, Neunghwan, and forty others surrendered. Taejo accepted them. Taejo comforted the remaining people and permitted them to go up to Gyeongseong with their wives. Taejo then asked Neunghwan:",
+  "ko": "신검과 두 동생인 부달, 능환 등 마흔여 명이 항복했다. 태조는 그들을 받아들였다. 태조는 남은 이들을 위로하며 아내와 함께 경성으로 올라가라고 허락했다. 태조는 능환에게 물었다.",
   "is_header": false
  },
  {
@@ -352,8 +352,8 @@
  {
   "id": 51,
   "tag": "P0012_2",
-  "en": "Gyeonhwon eventually executed Singeom. Singeom had been coerced into usurping the throne, but it was not his true intention. Before he died, he surrendered and pleaded for mercy, and Gyeonhwon specially pardoned his death.",
-  "ko": "견훤은 결국 신검을 처형했다. 신검은 자리를 찬탈하라는 협박을 받았으나 그것은 본심이 아니었다. 그는 죽기 전 항복하며 죄를 빌었고, 견훤은 특별히 그의 죽음을 용서해 주었다.",
+  "en": "Taejo then ordered Neunghwan executed. Singeom had been coerced into usurping the throne, but it was not his true intention. Since he surrendered himself and pleaded for his crime, Taejo specially spared him from death.",
+  "ko": "태조는 마침내 능환을 처형하라 명했다. 신검은 자리를 찬탈하라는 협박을 받았을 뿐 그것은 본심이 아니었다. 그는 스스로 항복하며 죄를 빌었으므로, 태조는 특별히 그의 죽음만은 용서해 주었다.",
   "is_header": false
  },
  {
@@ -394,7 +394,7 @@
  {
   "id": 57,
   "tag": "P0013_3",
-  "en": "There is a historian's commentary recorded in the year Byeongsin. Silla had exhausted its way and became impoverished. Heaven offered no help, and the people had nowhere to turn. At this time, a group of bandits took advantage of the situation and rose up. It was like a porcupine raising its quills.",
+  "en": "There is a historian's commentary recorded in the year Byeongsin. Silla had reached a dead end and was impoverished. Heaven offered no help, and the people had nowhere to turn. At this time, a group of bandits took advantage of the situation and rose up. It was like a porcupine raising its quills.",
   "ko": "병신년에 기록된 역사학자의 논평이 있다. 신라는 도가 다하고 가난해졌다. 하늘도 돕지 않았고 백성은 의지할 곳이 없었다. 이때 무리한 도적들이 틈을 타서 일어났다. 마치 고슴도치가 털을 세우는 것과 같았다.",
   "is_header": false
  },
@@ -408,8 +408,8 @@
  {
   "id": 59,
   "tag": "P0014_1",
-  "en": "Those who sought to destroy Silla harbored hearts of calamity. They invaded the capital when the nation was in danger. The Yu clan and their subjects died like beasts. They were the most evil group in the world.",
-  "ko": "신라를 멸망시키려 했던 자들은 재앙의 마음을 품었다. 그들은 나라가 위태로울 때 도읍을 침범했다. 유씨와 신하들이 짐승처럼 죽어 나갔다. 그들은 천하에서 가장 악한 무리였다.",
+  "en": "Those who sought to destroy Silla harbored hearts of calamity. They invaded the capital when the nation was in danger. They slaughtered the ruler and his ministers like beasts. They were the most evil group in the world.",
+  "ko": "신라를 멸망시키려 했던 자들은 재앙의 마음을 품었다. 그들은 나라가 위태로울 때 도읍을 침범했다. 그들은 임금과 신하들을 짐승처럼 살육했다. 그들은 천하에서 가장 악한 무리였다.",
   "is_header": false
  },
  {
@@ -422,7 +422,7 @@
  {
   "id": 61,
   "tag": "P0014_3",
-  "en": "Even heroes like Xiang Yu and Li Mi could not stop the rise of the Han and Tang. How then could the violent Gungye and Gyeonhwon have stood against our Taego?",
+  "en": "Even heroes like Xiang Yu and Li Mi could not stop the rise of the Han and Tang. How then could the ferocious Gungye and Gyeonhwon have stood against our Taego?",
   "ko": "항우나 이밀 같은 영웅도 한나라와 당나라의 흥성함을 막지 못했다. 하물며 성격이 거친 궁예와 견훤이 어떻게 우리 태조와 맞설 수 있었겠는가.",
   "is_header": false
  }

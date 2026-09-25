@@ -37,14 +37,14 @@
  {
   "id": 6,
   "tag": "P0002_2",
-  "en": "The voice asked again, \"Where am I located?\" They replied, \"Gujibong.\" The voice spoke again, \"Heaven commanded me to be at this place. Because it intended for a new nation to be established and for someone to become king, it descended for this reason.",
+  "en": "The voice asked again, \"Where am I located?\" They replied, \"Gujibong.\" The voice spoke again, \"Heaven commanded me to be at this place. I have descended here for the purpose of establishing a new nation and crowning a king.\"",
   "ko": "그 소리가 다시 물었다. \"내가 있는 곳이 어디냐?\" 그들이 대답했다. \"구지봉이다.\" 소리가 다시 말했다. \"하늘이 나를 명하여 이 자리에 있게 했다. 새로운 나라를 세우고 임금이 되게 하려니, 바로 이 때문에 내려왔다.\"",
   "is_header": false
  },
  {
   "id": 7,
   "tag": "P0002_3",
-  "en": "You must dig the top of the peak, scrape out the earth, and sing. Sout \"Turtle, turtle.\" If it does not appear, it will be burned and eaten.",
+  "en": "You must dig the peak and scrape out the earth while singing, \"Turtle, turtle.\" If it does not appear, it shall be burned and consumed.",
   "ko": "\"너희는 봉우리 꼭대를 파서 흙을 긁어내며 노래하라. '거북아 거북아'라고 외쳐라. 만약 나타나지 않으면 불태워 먹으리라.",
   "is_header": false
  },
@@ -65,21 +65,21 @@
  {
   "id": 10,
   "tag": "P0003_2",
-  "en": "Everyone performed a hundred bows and withdrew. They carried the box and placed it on the bed in the Dado house. After the people dispersed, time passed. At dawn the next day, the people gathered again and opened and closed the box.",
+  "en": "Everyone performed a hundred bows and withdrew. They carried the box and placed it on the bed in the house of Ado. After the people dispersed, time passed. At dawn the next day, the people gathered again and opened and closed the box.",
   "ko": "사람들은 모두 백 배를 절하고 물러났다. 그들은 상자를 안고 아도 집안의 침상 위에 놓아두었다. 사람들이 흩어진 뒤에 시간이 흘렀다. 다음 날 동이 틀 무렵, 사람들은 다시 모여서 상자를 열고 닫았다.",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "P0003_3",
-  "en": "Then the six eggs transformed into children. The faces of the children were very majestic. The children sat on the bed as they were.",
+  "en": "Then the six eggs transformed into children. Their appearances were magnificent. The children sat on the bed as they were.",
   "ko": "그러자 여섯 알이 아이들로 변했다. 아이들의 얼굴은 매우 위엄이 있었다. 아이들은 침상 위에 그대로 앉아 있었다.",
   "is_header": false
  },
  {
   "id": 12,
   "tag": "P0003_4",
-  "en": "When the people bowed their heads to offer congratulations, everyone stopped in respectful silence. The children grew day by day, and after about ten days and nights, they reached a height of nine feet.",
+  "en": "When the people bowed their heads to offer congratulations, everyone stopped in respectful silence. The children grew day by day, and after about ten days and nights, they reached a height of nine feet, like Tang of Shang, and their faces resembled dragons, like Emperor Gaozu of Han.",
   "ko": "사람들이 머리를 조아려 축하하자 모두가 공경하며 멈추었다. 날마다 아이들이 자라나서 열흘 남짓한 밤낮이 지나자 키가 아홉 자에 달했다.",
   "is_header": false
  },
@@ -101,7 +101,7 @@
   "id": 15,
   "tag": "P0004_3",
   "en": "The land he ruled was called Garak and also called Gaya. It was one of the six Gayas. The remaining five people each became the leaders of the other five Gayas. The east was bounded by the Hwangsan River, and the southwest was bounded by the Tuhae.",
-  "ko": "그가 다스리는 나라를 가락이라 불렀고, 또 가야라고도 불렀다. 이 나라는 여섯 가야 중 하나였다. 나머지 다섯 사람은 각각 다섯 가야의 우두머리가 되었다. 동쪽은 황산강을 경계로 삼았고, 서남쪽은 濸해를 경계로 삼았다.",
+  "ko": "그가 다스리는 나라를 가락이라 불렀고, 또 가야라고도 불렀다. 이 나라는 여섯 가야 중 하나였다. 나머지 다섯 사람은 각각 다섯 가야의 우두머리가 되었다. 동쪽은 황산강을 경계로 삼았고, 서남쪽은 투해를 경계로 삼았다.",
   "is_header": false
  },
  {
@@ -135,15 +135,15 @@
  {
   "id": 20,
   "tag": "P0005_3",
-  "en": "The King continued, \"Furthermore, it is a suitable place for the saints of Ilseongsam and Samseongchil to reside. If the land is reclaimed and the boundaries expanded, it will surely become an excellent site.\"",
+  "en": "The King continued, \"Furthermore, it is a suitable place for the saints of Ilseongsam and Samseongchil to reside. If the land is reclaimed and the boundaries expanded, it will surely be a worthy site.\"",
   "ko": "임금은 이어 말씀하셨다. \"또한 일성삼과 삼성칠의 성인들이 머무는 자리로도 딱 알맞다. 땅을 개간하고 경계를 넓히면 분명 훌륭한 터가 될 것이다.\"",
   "is_header": false
  },
  {
   "id": 21,
   "tag": "P0005_4",
-  "en": "The king finished the work and returned to the palace. He summoned able-bodied men and skilled artisans from within the country. He gave them Geumyang every twentieth day of the month to work.",
-  "ko": "임금이 일을 마치고 궁으로 돌아왔다. 임금은 나라 안의 장정과 기술자들을 불러 모았다. 그들에게 매달 스무 날마다 금양을 주어 일하게 했다.",
+  "en": "He built a walled city with a circumference of fifteen hundred paces, laying out the palace halls, government offices, and storehouses. The king finished the work and returned to the palace. He summoned able-bodied men and skilled artisans from within the country. He gave them Geumyang as payment every twentieth day of the month.",
+  "ko": "그는 둘레 천오백 보의 나성을 쌓고, 궁궐과 전당, 관청 건물들, 그리고 창고 자리를 마련했다. 임금이 일을 마치고 궁으로 돌아왔다. 임금은 나라 안의 장정과 기술자들을 불러 모았다. 그들에게 매달 스무 날마다 금양을 주어 일하게 했다.",
   "is_header": false
  },
  {
@@ -156,14 +156,14 @@
  {
   "id": 23,
   "tag": "P0006_2",
-  "en": "The king entered the new palace and attended to the great and small affairs of the state while overseeing various matters. At that time, the wife of King Hamdal of the Meru Kingdom conceived a child and, after several months, laid an egg. The egg transformed into a human being, and his name was called Talhae.",
-  "ko": "왕이 새 궁궐에 입성하여 나라의 대소사를 돌보고 여러 살림을 살피고 있었다. 그때 머나라 함달왕의 부인이 아이를 배어 달이 지나 알을 낳았다. 그 알은 사람으로 변했고 이름은 탈해라 하였다.",
+  "en": "The king entered the new palace and attended to the great and small affairs of the state while overseeing various matters. At that time, the wife of King Hamdal of the Meru Kingdom conceived a child and, after several months, laid an egg. The egg transformed into a human being, named Talhae. He came from the sea; he stood three feet tall, with a head one foot around.",
+  "ko": "왕이 새 궁궐에 입성하여 나라의 대소사를 돌보고 여러 살림을 살피고 있었다. 그때 머나라 함달왕의 부인이 아이를 배어 달이 지나 알을 낳았다. 그 알은 사람으로 변했고 이름은 탈해라 하였다. 그는 바다를 건너왔는데, 키가 세 자이고 머리 둘레가 한 자였다.",
   "is_header": false
  },
  {
   "id": 24,
   "tag": "P0006_3",
-  "en": "Talhae came from the sea and arrived at the palace. He said to the king, \"I have come to seize your position as king.\" The king replied, \"Heaven has placed me in this position, so I cannot disobey the command to bring peace to the people,\" and he yielded his position to him.",
+  "en": "Talhae came from the sea and arrived at the palace. He said to the king, \"I have come to seize your position as king.\" The king replied, \"Heaven has placed me in this position, and I cannot disobey the mandate to bring peace to the people,\" and ceded the throne to him.",
   "ko": "탈해는 바다를 건너와 궁궐에 이르렀다. 그는 왕에게 \"나는 왕의 자리를 빼앗으려 왔소\"라고 말했다. 왕은 \"하늘이 나를 이 자리에 앉혔으니, 백성을 편안하게 하라는 명을 어길 수 없다\"고 답하며 그에게 자리를 내주었다.",
   "is_header": false
  },
@@ -184,8 +184,8 @@
  {
   "id": 27,
   "tag": "P0007_3",
-  "en": "Hae prostrated himself and said, \"I happened to reach the field of the horn techniques, so the hawk and eagle, and the sparrow and falcon were able to escape there. This was because of the benevolent heart of a sage who loathes taking lives.\"",
-  "ko": "해는 몸을 엎드려 말하기를, 내가 마침 뿔의 기술이 있는 곳에 이르렀으니 매와 수리, 참새와 황조가 그곳에서 벗어날 수 있었다고 했다. 이것은 성인이 생명을 해치는 것을 싫어하는 어진 마음 때문에 그러한 것이었다.",
+  "en": "Hae prostrated himself and said, \"I happened to reach the field of the horn arts, so the hawk and eagle, and the sparrow and falcon were able to escape there. This was because of the benevolent heart of a sage who loathes taking lives.\"",
+  "ko": "해는 몸을 엎드려 말하기를, 내가 마침 뿔의 술법이 있는 곳에 이르렀으니 매와 수리, 참새와 황조가 그곳에서 벗어날 수 있었다고 했다. 이것은 성인이 생명을 해치는 것을 싫어하는 어진 마음 때문에 그러한 것이었다.",
   "is_header": false
  },
  {
@@ -198,8 +198,8 @@
  {
   "id": 29,
   "tag": "P0007_5",
-  "en": "He reached the ferry outside Kirinseong, stopped the boat coming from the central court, and walked along the road. The King secretly feared that a rebellion might occur during the stay.",
-  "ko": "그는 기린성 밖 나루터에 이르러서 중앙 조정에서 오는 배를 멈추게 하고 길을 따라 걸어갔다. 왕은 혹시라도 머무르는 동안 모반이 일어날까 봐 내심 두려워했다.",
+  "en": "He reached the ferry outside Linkyo, stopped the boat coming from the central court, and walked along the road. The King secretly feared that a rebellion might occur during the stay.",
+  "ko": "그는 인교 밖 나루터에 이르러서 중앙 조정에서 오는 배를 멈추게 하고 길을 따라 걸어갔다. 왕은 혹시라도 머무르는 동안 모반이 일어날까 봐 내심 두려워했다.",
   "is_header": false
  },
  {
@@ -212,14 +212,14 @@
  {
   "id": 31,
   "tag": "P0008_2",
-  "en": "It was the twenty-fourth year of Geonwon, the month of Munsin, and the twenty-seventh day. Nine leaders appeared before the Great King and offered the following words.",
-  "ko": "건원탑 이십사년 무신칠월 이십칠일이었다. 아홉 우두머리들이 대왕을 알현하며 다음과 같이 올렸다.",
+  "en": "It was the twenty-seventh day of the seventh month in the year Musin, the twenty-fourth year of Geonwon. The nine leaders appeared before the Great King and offered the following words.",
+  "ko": "건원탑 이십사년 무신년 칠월 이십칠일이었다. 아홉 우두머리들이 대왕을 알현하며 다음과 같이 올렸다.",
   "is_header": false
  },
  {
   "id": 32,
   "tag": "P0008_3",
-  "en": "Since the Great King had only recently descended, he had not yet found a woman to his liking. Please select the most beautiful maidens from our dwellings and bring them into the palace to be made queens.",
+  "en": "Since the Great King had only recently descended, he had not yet found a woman of his liking. Please select and bring into the palace the most beautiful maidens from among those available to us to be made queens.",
   "ko": "\"대왕께서 강림하신 지 얼마 되지 않아 아직 마음에 드는 여인을 찾지 못하셨습니다. 저희가 거처하는 곳의 처녀 중 가장 아름다운 이들을 골라 궁으로 들여와 왕비로 삼게 하소서.\"",
   "is_header": false
  },
@@ -247,14 +247,14 @@
  {
   "id": 36,
   "tag": "P0009_3",
-  "en": "The group of Yucheon first raised fires on the island. Then, people crossed to the mainland as if in competition. They rushed forward one after another.",
+  "en": "The group of Yucheon first raised fires on the island. Then, they crossed over to the mainland in a rush. They rushed forward one after another.",
   "ko": "유천 일행이 먼저 섬 위에 불을 올렸다. 그러자 사람들이 서로 경쟁하듯 육지로 건너왔다. 사람들은 앞다투어 달려왔다.",
   "is_header": false
  },
  {
   "id": 37,
   "tag": "P0009_4",
-  "en": "The Singwigan looked at them. They entered the palace and reported to the king. The king heard the sounds of joy and was delighted.",
+  "en": "The Singwigan looked at them and entered the palace to report. The king heard their joyful cheers.",
   "ko": "신귀간들이 그들을 바라보았다. 그들은 궁궐 안으로 들어가 왕에게 보고했다. 왕은 기뻐하며 기뻐하는 소리를 들었다.",
   "is_header": false
  },
@@ -268,7 +268,7 @@
  {
   "id": 39,
   "tag": "P0009_6",
-  "en": "They attempted to enter the palace together immediately. At that moment, the Queen spoke: \"We are strangers who have never met before; how dare you treat me lightly and attempt to follow me inside?\"",
+  "en": "They attempted to enter the palace immediately. At that moment, the Queen spoke: \"We are strangers; how dare you disregard my status and follow me inside?\"",
   "ko": "그들이 곧바로 궁 안으로 함께 들어가려 했다. 이때 왕후가 말하였다. \"우리는 서로 생전 처음 보는 사이인데, 어찌 감히 가볍게 여기고 뒤따라 가려 하는가.\"",
   "is_header": false
  },
@@ -289,8 +289,8 @@
  {
   "id": 42,
   "tag": "P0010_2",
-  "en": "There were two attendants and accompanying officials at that place. Their names were Sinbu and Jogang. They each had a wife, who were called Mojeong and Moryang, respectively. They led more than twenty people whom they had captured as bandits or hunted as beasts.",
-  "ko": "그곳에는 시종과 수행하는 신하 두 명이 있었다. 이들의 이름은 신부와 조강이었다. 그들에게는 아내가 둘 있었으며, 각각 모정과 모량이라 불렀다. 그들은 도적이나 짐승을 잡아 합쳐 스무여 명의 사람을 거느렸다.",
+  "en": "There were two attendants and accompanying officials at that place. Their names were Sinbu and Jogang. They each had a wife, who were called Mojeong and Moryang, respectively. Together with their slaves, they numbered more than twenty people.",
+  "ko": "그곳에는 시종과 수행하는 신하 두 명이 있었다. 이들의 이름은 신부와 조강이었다. 그들에게는 아내가 둘 있었으며, 각각 모정과 모량이라 불렀다. 그들은 노비를 합쳐 스무여 명을 거느렸다.",
   "is_header": false
  },
  {
@@ -303,7 +303,7 @@
  {
   "id": 44,
   "tag": "P0010_4",
-  "en": "They entered the pavilion together. The accompanying officials withdrew, and the people saw them from below the stairs and retreated. The King ordered an official to bring these couples forward and spoke.",
+  "en": "They entered the pavilion together. The accompanying officials withdrew, and the others bowed at the foot of the stairs before retreating. The King ordered an official to bring these couples forward and spoke.",
   "ko": "함께 막사 안으로 들어갔다. 수행하던 신하들은 물러났고, 사람들은 계단 아래에서 그들을 보고 물러났다. 임금은 관리를 시켜 이 부부들을 데려오게 하며 말했다.",
   "is_header": false
  },
@@ -345,7 +345,7 @@
  {
   "id": 50,
   "tag": "P0012_1",
-  "en": "He was a divine and holy being. He was the only one. Furthermore, the house of myth had not yet determined a mate. The officials said that they must send the princess to join him. When the words finished, he ascended to heaven.",
+  "en": "He was a divine and holy being. He was the only one. Furthermore, the house of Shinwha had not yet determined a mate. The officials said that they must send the princess to join him. When the words finished, he ascended to heaven.",
   "ko": "그분은 신성한 존재였다. 오직 그 사람뿐이었다. 또한 신화의 가문이 아직 짝을 정하지 못했다. 신하들은 공주를 보내어 그와 맺어주어야 한다고 말했다. 말이 끝나자 하늘로 올라갔다.",
   "is_header": false
  },
@@ -359,8 +359,8 @@
  {
   "id": 52,
   "tag": "P0012_3",
-  "en": "She crossed the heavens and rushed to the place where fruit grew. It was a near thing for one with a shaved head to dare approach the face of the dragon. The king replied, \"I have been very holy since my birth.\"",
-  "ko": "그녀는 하늘을 건너 과일이 열리는 곳으로 달려갔다. 머리가 깎인 채 감히 용의 얼굴에 다가가는 것은 가까운 일이었다. 왕이 대답했다. 나는 태어나면서부터 매우 성스러웠다.",
+  "en": "She crossed the heavens and rushed to the place where fruit grew. It was a bold act for one so fair of brow to dare approach the dragon's face. The king replied, \"I have been very holy since my birth.\"",
+  "ko": "그녀는 하늘을 건너 과일이 열리는 곳으로 달려갔다. 아름다운 이마를 하고 감히 용의 얼굴에 다가가는 것은 대담한 일이었다. 왕이 대답했다. 나는 태어나면서부터 매우 성스러웠다.",
   "is_header": false
  },
  {
@@ -373,7 +373,7 @@
  {
   "id": 54,
   "tag": "P0012_5",
-  "en": "Now that a person of excellent qualities had approached on her own, it was a great fortune for my body. We spent the night together in joy, and when day broke, we returned by boat.",
+  "en": "Now that someone of noble qualities had approached on her own, I was greatly fortunate. We spent the night together in joy, and when day broke, we returned by boat.",
   "ko": "이제 훌륭한 자질을 가진 이가 스스로 다가왔으니 내 몸에 큰 행운이다. 우리는 밤새 즐겁게 지내고 날이 밝아 배를 타고 돌아왔다.",
   "is_header": false
  },
@@ -387,7 +387,7 @@
  {
   "id": 56,
   "tag": "P0013_2",
-  "en": "They returned to their home country and returned to the palace on the first day of the eighth month. They rode in the same carriage as the Queen, and the couple of accompanying officials also rode side by side.",
+  "en": "They returned to their home country and arrived at the palace on the first day of the eighth month. They shared a carriage with the Queen, while the accompanying official couple rode alongside.",
   "ko": "그들은 본국으로 돌아갔고, 여덟 달 첫날에 다시 궁으로 돌아왔다. 그들은 왕후와 같은 수레를 탔으며, 수행하던 신하 부부도 나란히 타고 왔다.",
   "is_header": false
  },
@@ -401,8 +401,8 @@
  {
   "id": 58,
   "tag": "P0013_4",
-  "en": "The Queen resided in Junggung. The Emperor gave private belongings to the accompanying official couple and had them enter two vacant rooms divided for their use.",
-  "ko": "왕후는 중궁에 머물고 있었다. 황제는 수행한 신부 부부에게 사적인 소유물을 나누어 주었다. 빈 방 두 곳을 나누어 그들이 들어가게 했다.",
+  "en": "The Queen resided in Junggung. The Emperor granted private property to the accompanying official couple and had them stay in two separate rooms.",
+  "ko": "왕후는 중궁에 머물고 있었다. 황제는 수행한 신하 부부에게 사적인 소유물을 나누어 주었다. 빈 방 두 곳을 나누어 그들이 들어가게 했다.",
   "is_header": false
  },
  {
@@ -429,8 +429,8 @@
  {
   "id": 62,
   "tag": "P0014_2",
-  "en": "They changed Adeu to Agong. They changed Yeodo to Yeohyeop, and Pido to Pidang. They changed Obang to Osang. For the names Yusu and Yucheon, they left the first characters unchanged but changed the lower characters to Yugong and Yuduk, respectively.",
-  "ko": "그들은 아도를 아공으로 고쳤다. 여도는 여협으로, 피도는 피장으로 바꾸었다. 오방은 오상으로 고쳤다. 유수와 유천이라는 이름은 첫 글자를 그대로 두었다. 다만 아래 글자를 각각 유공과 유덕으로 고쳤다.",
+  "en": "They changed Adeu to Agong. They changed Yeodo to Yeohae, and Pido to Pidang. They changed Obang to Osang. For the names Yusu and Yucheon, they left the first characters unchanged but changed the lower characters to Yugong and Yuduk, respectively.",
+  "ko": "그들은 아도를 아공으로 고쳤다. 여도는 여해로, 피도는 피장으로 바꾸었다. 오방은 오상으로 고쳤다. 유수와 유천이라는 이름은 첫 글자를 그대로 두었다. 다만 아래 글자를 각각 유공과 유덕으로 고쳤다.",
   "is_header": false
  },
  {
@@ -450,15 +450,15 @@
  {
   "id": 65,
   "tag": "P0015_2",
-  "en": "The way he lived with the Queen was like the existence of earth to heaven, moon to sun, and yin to yang. His achievements spread far and wide, making his name known throughout the world. For many years, he saw signs of bears and tigers in his dreams.",
+  "en": "Her life as the Queen was like the existence of earth to heaven, moon to sun, and yin to yang. His achievements spread far and wide, making his name known throughout the world. For many years, he saw signs of bears and tigers in his dreams.",
   "ko": "그가 왕후와 함께 살았던 모습은 하늘에 땅이 있고 해에 달이 있으며 양에 음이 있는 것과 같았다. 그의 공적은 널리 퍼져 세상에 이름을 떨쳤다. 그는 여러 해 동안 꿈에서 곰과 호랑이의 징조를 보았다.",
   "is_header": false
  },
  {
   "id": 66,
   "tag": "P0015_3",
-  "en": "She gave birth to the Crown Prince Geodeunggong. On the first day of the third month of Gisa, the sixth year of Jungpyeong during the reign of Emperor Yeong, the Queen passed away. She was one hundred and fifty-seven years old.",
-  "ko": "그는 태자 거등공을 낳았다. 영제 중평 여섯째 해 기사 삼월 초하루에 왕후가 세상을 떠났다. 나이는 백오십칠세였다.",
+  "en": "She gave birth to Crown Prince Geodeung. On the first day of the third month of Gisa, the sixth year of Jungpyeong during the reign of Emperor Yeong, the Queen passed away. She was one hundred and fifty-seven years old.",
+  "ko": "그는 태자 거등 공을 낳았다. 영제 중평 여섯째 해 기사 삼월 초하루에 왕후가 세상을 떠났다. 나이는 백오십칠세였다.",
   "is_header": false
  },
  {
@@ -478,22 +478,22 @@
  {
   "id": 69,
   "tag": "P0016_2",
-  "en": "Sinbun was an official of the government office, and Jo Gwang, the monitor of Sinbojongjeong, had remained in the country for thirty years. After that, the two produced two daughters each. Within one or two years, the couple lost all their children.",
-  "ko": "신분은 관청의 관리였고, 신보종정 감 조광은 나라에 머문 지 삼십 년이 되었다. 그 후 두 사람은 각각 딸을 둘씩 낳았다. 부부는 한두 해를 지나자 모두 자식을 잃었다.",
+  "en": "Saesin was an official of the government office, and Jo Gwang, the monitor of Sinbojongjeong, had remained in the country for thirty years. After that, they each gave birth to two daughters. Within one or two years, both lost their children.",
+  "ko": "사신은 관청의 관리였고, 신보종정 감 조광은 나라에 머문 지 삼십 년이 되었다. 그 후 두 사람은 각각 딸을 둘씩 낳았다. 부부는 한두 해를 지나자 모두 자식을 잃었다.",
   "is_header": false
  },
  {
   "id": 70,
   "tag": "P0016_3",
-  "en": "The others among the group of those who gathered did not have sons for seven or eight years. They mourned their longing for their hometown and died one by one. The remaining ones fell asleep alone in empty houses and sighed deeply.",
+  "en": "As for the rest of the group, they had not produced a son for seven or eight years. They only mourned their longing for their homeland and died one by one. The survivors, finding no one else to share their pillows with, lamented deeply.",
   "ko": "그 외에 마을 사람들은 일곱여덟 해 동안 아들을 얻지 못했다. 그들은 고향을 그리워하며 슬퍼하다가 하나둘 죽어갔다. 남은 이들은 빈 집에서 홀로 잠들며 깊이 탄식했다.",
   "is_header": false
  },
  {
   "id": 71,
   "tag": "P0017_1",
-  "en": "King Heonje died on the twenty-third day of the third month in the fourth year of Annyeon, the year of Gimyo. The king was one hundred and fifty-eight years old. The people in the land mourned as if the heavens had collapsed. That grief was much greater than the day of the concubine's death.",
-  "ko": "헌제왕은 안년 사년 기묘년 삼월 스무사흘에 세상을 떠났다. 왕의 나이는 백오십팔세였다. 나라 안의 사람들은 하늘이 무너진 듯 슬퍼했다. 그 슬픔은 후궁이 죽었을 때보다 훨씬 더 컸다.",
+  "en": "King Heonje died on the twenty-third day of the third month in the fourth year of Annyeon, the year of Gimyo. The king was one hundred and fifty-eight years old. The people in the land mourned as if the heavens had collapsed. That grief was much greater than the Queen's passing.",
+  "ko": "헌제왕은 안년 사년 기묘년 삼월 스무사흘에 세상을 떠났다. 왕의 나이는 백오십팔세였다. 나라 안의 사람들은 하늘이 무너진 듯 슬퍼했다. 그 슬픔은 왕후가 세상을 떠난 날보다 훨씬 더 컸다.",
   "is_header": false
  },
  {
@@ -506,29 +506,29 @@
  {
   "id": 73,
   "tag": "P0017_3",
-  "en": "Guchung, the son of Geodeungwang and his ninth-generation descendant, inherited this shrine. He offered sacrifices every year on the third and seventh days of early spring, the fifth day of midsummer, and the fifth and fifteenth days of early autumn. These rituals continued without end.",
-  "ko": "거등왕의 아들이자 구대손인 구충이 이 묘를 이어받았다. 그는 매년 초봄 삼일과 일곱째 날, 한여름 오월, 가을 초닷새와 열닷새에 제사를 지냈다. 그 제례는 끊이지 않고 계속 이어졌다.",
+  "en": "Guchung, a descendant — the ninth generation from King Geodeung — inherited this shrine. Every year he made abundant and pure offerings on the third and seventh days of early spring, the fifth day of midsummer, and the fifth and fifteenth days of early autumn. These rituals continued without end.",
+  "ko": "거등왕의 후손이자 구대손인 구충이 이 묘를 이어받았다. 그는 매년 풍성하고 정결한 제물로 초봄 삼일과 일곱째 날, 한여름 오월, 가을 초닷새와 열닷새에 제사를 지냈다. 그 제례는 끊이지 않고 계속 이어졌다.",
   "is_header": false
  },
  {
   "id": 74,
   "tag": "P0018_1",
-  "en": "Beommin, the thirtieth king of Silla, issued a decree in the first year of Yongsak, on the day of Sinyu in the third month. \"I am a descendant of Gudaeson, the first king of the Gaya nation. Sejong's son Sagong, whom I brought with me, and Myeongmyeonghwanghu, the daughter of Sagan, are truly my mother.\"",
-  "ko": "신라의 서른 번째 임금인 법민이 용삭 원년 신유삼월에 조서를 내렸다. \"나는 가야 나라의 첫 임금인 구대손의 후손이다. 내가 거느리고 온 세종의 아들 사공의 자손이자, 사간의 딸인 문명황후는 실로 나의 어머니이다.\"",
+  "en": "Beommin, the thirtieth king of Silla, issued a decree in the first year of Yongsak, on the day of Sinyu in the third month. \"I am a descendant of King Gudaeson, the first king of Gaya. The son of Prince Saryu whom I brought with me, and Myeongmyeonghwanghu, the daughter of Sagan, are truly my mother.\"",
+  "ko": "신라의 서른 번째 임금인 법민이 용삭 원년 신유삼월에 조서를 내렸다. \"나는 가야 나라의 첫 임금인 구충왕의 후손이다. 내가 거느리고 온 세종의 아들 사공의 자손이자, 사간의 딸인 문명황후는 실로 나의 어머니이다.\"",
   "is_header": false
  },
  {
   "id": 75,
   "tag": "P0018_2",
-  "en": "In the past, when King Won was young, he received the surname Chungin. He became the ancestor of the fifteenth generation. The land he ruled was already defeated, but the shrine where he was enshrined still remains today. Now, merge it into the lineage of the royal ancestral shrines and continue the sacrificial rites.",
-  "ko": "\"옛날 원임금이 어릴 적에 충인의 성을 받았다. 그는 열다섯 대의 시조가 되었다. 그가 다스리던 나라는 이미 패배하였으나, 그를 모시던 사당은 지금도 남아 있다. 이제 종묘의 계보에 합치고 제사 업무를 이어가도록 하라.\"",
+  "en": "In the past, King Gudaeson was captured as a child. He became the ancestor of the fifteenth generation. The land he ruled was already defeated, but the shrine where he was enshrined still remains today. Now, merge it into the lineage of the royal ancestral shrines and continue the sacrificial rites.",
+  "ko": "옛날 원임금(구충왕)이 어릴 적에 사로잡혔다. 그는 열다섯 대의 시조가 되었다. 그가 다스리던 나라는 이미 패배하였으나, 그를 모시던 사당은 지금도 남아 있다. 이제 종묘의 계보에 합치고 제사 업무를 이어가도록 하라.",
   "is_header": false
  },
  {
   "id": 76,
   "tag": "P0018_3",
-  "en": "Furthermore, set aside thirty *gi* of land near the shrine to be used for the costs of feeding and maintaining the army. Call this land Wangwijeon and include it in the original lands. (This is the old name of Silla.)",
-  "ko": "\"또한 사당 근처의 땅 서른 기를 내어주어 군대를 먹이고 돌보는 비용으로 쓰게 하라. 이 땅을 왕위전이라 부르고 본래의 땅에 속하게 하라.\" (이곳은 신라의 옛 이름이다.)",
+  "en": "Furthermore, set aside thirty gi of land near the shrine to be used for the costs of provisioning and maintaining the military camp. Call this land Wangwijeon and attach it to the local territory.",
+  "ko": "\"또한 사당 근처의 땅 서른 기를 내어주어 군사들의 양육과 관리 비용으로 쓰게 하라. 이 땅을 왕위전이라 부르고 본토에 귀속시켜라.\"",
   "is_header": false
  }
 ]

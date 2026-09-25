@@ -51,7 +51,7 @@
  {
   "id": 8,
   "tag": "P0002_3",
-  "en": "There was a woman of graceful appearance in that place. The woman said to her father that every time, a man in purple clothes came and shared her bed. The father told his daughter to thread a needle with long silk, sew the garment, and follow him.",
+  "en": "There was a woman of graceful appearance in that place. The woman said to her father that every time, a man in purple clothes came and shared her bed. The father told his daughter to thread a needle with long silk, pierce the garment, and follow him.",
   "ko": "그곳에 외모가 단정한 한 여자가 있었다. 여자는 아버지에게 말하기를, 매번 자줏빛 옷을 입은 남자가 찾아와 잠자리를 같이한다고 말했다. 아버지는 딸에게 긴 실로 바늘을 꿰어 그 옷을 꿰매고 따라가라고 일렀다.",
   "is_header": false
  },
@@ -100,15 +100,15 @@
  {
   "id": 15,
   "tag": "P0003_5",
-  "en": "His spirit always preceded that of the soldiers. For his merits, he was appointed as a lieutenant. (The first year of Gyeongbok under Emperor Saozong of Tang was the sixth year of Queen Jinseong's reign in Silla.)",
+  "en": "His spirit was always more formidable than that of the soldiers. For his merits, he was appointed as a lieutenant. (The first year of Gyeongbok under Emperor Saozong of Tang was the sixth year of Queen Jinseong's reign in Silla.)",
   "ko": "그의 기세는 늘 병사들보다 앞섰다. 그 공로를 인정받아 부장으로 임명되었다. (당나라 소종 경복 원년은 신라 진성여왕이 재위한 지 여섯 해째 되는 해이다.)",
   "is_header": false
  },
  {
   "id": 16,
   "tag": "P0004_1",
-  "en": "Sinbaek stayed by his side and secretly wielded the power of the state. Laws and order became disordered, and a famine occurred as well. The people lost their homes and wandered about, and bandits rose like bees.",
-  "ko": "신백이 곁에 머물며 몰래 나라의 권력을 휘둘렀다. 법도와 질서가 어지러워졌고 흉년까지 겹쳤다. 백성들은 삶의 터전을 잃고 떠돌았으며 도적들이 벌떼처럼 일어났다.",
+  "en": "Favored minions stayed by the king's side and secretly wielded state power. Laws and order became disordered, and a famine occurred as well. The people lost their homes and wandered about, and bandits rose like bees.",
+  "ko": "총애받는 간신들이 곁에 머물며 몰래 나라의 권력을 휘둘렀다. 법도와 질서가 어지러워졌고 흉년까지 겹쳤다. 백성들은 삶의 터전을 잃고 떠돌았으며 도적들이 벌떼처럼 일어났다.",
   "is_header": false
  },
  {
@@ -121,7 +121,7 @@
  {
   "id": 18,
   "tag": "P0004_3",
-  "en": "They raided Mujinju and proclaimed themselves king. However, they did not yet dare to openly call themselves king. Hyeon styled himself as the Saengnado Tonghaeng Jeonjusa and Eosajungseongsangjuk Hannamguk Gaegukgong of Silla's Southwest Command.",
+  "en": "They raided Mujinju and proclaimed themselves king. However, they did not yet dare to openly call themselves king. Hyeon styled himself as the Seonamdo Tonghaeng Jeonjusa and Eosajungseongsangjuk Hannamguk Gaegukgong of Silla's Southwest Command.",
   "ko": "그들은 무진주를 습격하여 스스로 왕이라 칭했다. 그러나 아직은 대놓고 왕이라 부르지 못했다. 현은 스스로를 신라 남서도통행 전주사 겸 어사중승상주국한남국개국공이라 칭했다.",
   "is_header": false
  },
@@ -163,7 +163,7 @@
  {
   "id": 24,
   "tag": "P0005_5",
-  "en": "In the fourth year of Jeongmyeong, the year of Muin, the people of Cheollyeon changed their minds. They proclaimed our Taejo as king.",
+  "en": "In the fourth year of Jeongmyeong, the year of Muin, the people of Cheollyeon suddenly changed their hearts. They proclaimed our Taejo as king.",
   "ko": "정명 사년 무인년에 철원의 백성들이 마음을 돌렸다. 그들은 우리 태조를 왕으로 추대했다.",
   "is_header": false
  },
@@ -184,7 +184,7 @@
  {
   "id": 27,
   "tag": "P0006_3",
-  "en": "Hyeon's army was sharp, but no victory or defeat was decided. Taejo sought to turn the situation toward peace to weaken the enemy's momentum. He sent a letter requesting peace and offered his cousin Wangsin as a hostage. Hyeon also offered his nephew Jinho as a hostage.",
+  "en": "Hyeon's army was sharp, but no victory or defeat was decided. Taejo sought to negotiate a peaceful settlement to weaken his opponent's momentum. He sent a letter requesting peace and offered his cousin Wangsin as a hostage. Hyeon also offered his nephew Jinho as a hostage.",
   "ko": "현의 군대는 날카로웠으나 승패를 가리지 못했다. 태조는 화친으로 상황을 돌려 적의 기세를 꺾으려 했다. 그는 서신을 보내 화친을 청하며 사촌 동생 왕신을 인질로 내놓았다. 현도 외조카 진호를 인질로 내놓았다.",
   "is_header": false
  },
@@ -212,8 +212,8 @@
  {
   "id": 31,
   "tag": "P0007_3",
-  "en": "In the ninth month of the year Jeonghae in the second year of Cheonseong, Hyeon attacked and burned Pumsseong nearby. The Silla king requested help from Taejo. As Taejo prepared to lead his troops out, Hyeon launched a surprise attack on Goulbu, captured it, and advanced.",
-  "ko": "천성 이년 정해년 구월에 현이 근처의 품성을 공격하여 불태웠다. 신라 왕은 태조에게 구원을 요청했다. 태조가 군사를 거느르고 나가려 할 때, 현이 고울부를 기습하여 점령하고 진격했다.",
+  "en": "In the ninth month of the year Jeonghae in the second year of Cheonseong, Hyeon attacked and burned Pinseong nearby. The Silla king requested help from Taejo. As Taejo prepared to lead his troops out, Hyeon launched a surprise attack on Goulbu (not the same as present-day Ulju) and advanced.",
+  "ko": "천성 이년 정해년 구월에 현이 근처의 품성을 공격하여 불태웠다. 신라 왕은 태조에게 구원을 요청했다. 태조가 군사를 거느르고 나가려 할 때, 현이 고울부(지금의 울주가 아니다)를 기습하여 점령하고 진격했다.",
   "is_header": false
  },
  {
@@ -226,8 +226,8 @@
  {
   "id": 33,
   "tag": "P0008_1",
-  "en": "Thus, the royal favor was greatly damaged. Hyeon forcibly took his wife and fled. He handed over his position to the king's younger brother Kim Bu. The Jurchen's younger brother obtained the official ranks of Hyo-ryeom and Yeonggyeong.",
-  "ko": "그리하여 성은이 크게 훼손되었다. 훤은 강제로 부인을 데리고 도망쳤다. 그는 왕의 친동생인 김부에게 자리를 물려주었다. 여진족의 동생은 효렴과 영경이라는 관직을 얻었다.",
+  "en": "Thus, the royal favor was greatly damaged. Hyeon forcibly took his wife and fled. He handed over his position to the king's younger brother Kim Bu. He then captured the king's brother Hyoryeom and the chief minister Yeonggyeong.",
+  "ko": "그리하여 성은이 크게 훼손되었다. 훤은 강제로 부인을 데리고 도망쳤다. 그는 왕의 친동생인 김부에게 자리를 물려주었다. 그런 다음 왕의 아우 효렴과 재상 영경을 사로잡았다.",
   "is_header": false
  },
  {
@@ -240,7 +240,7 @@
  {
   "id": 35,
   "tag": "P0008_3",
-  "en": "Taejo's general Kim Naksung died humbly. The other soldiers were all defeated. Taejo barely escaped with his life but could not confront the enemy. The enemies pressured him by firing arrows.",
+  "en": "Taejo's general Kim Naksung fell in battle. The other soldiers were all defeated. Taejo barely escaped with his life but could not hold them off as they pressed him with a barrage of arrows.",
   "ko": "태조의 장수 김낙숭이 겸허하게 죽음을 맞았다. 다른 군사들도 모두 패배했다. 태조는 겨우 몸만 빠져나왔으나 적과 맞서지 못했다. 적들은 화살을 쏘아 그를 압박했다.",
   "is_header": false
  },
@@ -261,21 +261,21 @@
  {
   "id": 38,
   "tag": "P0009_2",
-  "en": "The Silla forces fought repeatedly and were defeated. They captured the attendant Kim Eok. The next day, the Silla forces withdrew their troops and launched a surprise attack on Sunseong, breaking it. The castle master Wonbong could not defend it and abandoned the castle to flee.",
+  "en": "The Silla forces fought repeatedly and were defeated. They captured the Assistant Minister Kim Eok. The next day, the Silla forces withdrew their troops and launched a surprise attack on Sunseong, breaking it. The castle master Wonbong could not defend it and abandoned the castle to flee.",
   "ko": "신라군은 연달아 싸우다가 패배했다. 그들은 시랑 김액을 사로잡았다. 다음 날 신군이 군사를 거두어 순성을 기습하여 무너뜨렸다. 성주 원봉은 막지 못하고 성을 버리고 달아났다.",
   "is_header": false
  },
  {
   "id": 39,
   "tag": "P0009_3",
-  "en": "Taejo was greatly enraged. Taejo exiled Wonbong to Haju-hyeon (present-day Pungsan-hyeon, as Wonbong was originally a person of Sunseong). The military and officials of Silla declined in power and found it difficult to rise again. They decided to involve our Taejo to obtain assistance.",
+  "en": "Taejo was greatly enraged. Taejo exiled Wonbong to Haji-hyeon (present-day Pungsan-hyeon, as Wonbong was originally a person of Sunseong). The military and officials of Silla declined in power and found it difficult to rise again. They decided to involve our Taejo to obtain assistance.",
   "ko": "태조는 크게 노했다. 태조는 원봉을 하지현(지금의 풍산현, 원봉은 본래 순성 사람이었다)으로 내쫓았다. 신라의 군신들은 세력이 쇠퇴하여 다시 일어서기 어려워졌다. 그들은 우리 태조를 끌어들여 도움을 얻기로 했다.",
   "is_header": false
  },
  {
   "id": 40,
   "tag": "P0009_4",
-  "en": "Upon hearing this, the Silla forces intended to enter the royal capital and commit evil deeds. The Silla army feared that Taejo would move first. The Silla army sent a letter to Taejo and wrote as follows.",
+  "en": "Upon hearing this, Silla intended to enter the royal capital and commit evil deeds. They feared that Taejo would move first. They sent a letter to Taejo, stating:",
   "ko": "신라는 이 소식을 듣고 왕도에 들어가서 악행을 저지르려 했다. 신군은 태조가 먼저 움직일 것을 두려워했다. 신군은 태조에게 편지를 보내며 이렇게 적었다.",
   "is_header": false
  },
@@ -289,42 +289,42 @@
  {
   "id": 42,
   "tag": "P0010_2",
-  "en": "I first brandished the whip and alone swung the Han blade. I vowed to make a hundred houses shine like the bright sun. I also taught the righteous spirit to the six ministries. Unexpectedly, the treacherous officials fled and the kingdom's ruler met with calamity.",
-  "ko": "나는 먼저 채찍을 휘두르고 홀로 한 벼리칼을 휘둘렀다. 나는 백 개의 집이 밝은 해처럼 빛나게 하겠다고 다짐했다. 또한 여섯 부서에 의로운 풍모를 가르쳤다. 뜻밖에도 간신들은 도망치고 나라의 임금은 변고를 당했다.",
+  "en": "I first brandished the whip and alone swung the Han blade. I vowed to be as bright as the clear sun to all the officials. I also taught the righteous spirit to the six ministries. Unexpectedly, the treacherous officials fled and the kingdom's ruler met with calamity.",
+  "ko": "나는 먼저 채찍을 휘두르고 홀로 한 벼리칼을 휘둘렀다. 나는 모든 관리들이 밝은 해처럼 빛나게 하겠다고 다짐했다. 또한 여섯 부서에 의로운 풍모를 가르쳤다. 뜻밖에도 간신들은 도망치고 나라의 임금은 변고를 당했다.",
   "is_header": false
  },
  {
   "id": 43,
   "tag": "P0010_3",
-  "en": "I found the cousin of King Gyeongmyeong and presented the great-grandson of King Gang.",
-  "ko": "나는 경명왕의 사촌 동생을 찾아내어 강왕의 외손자를 바쳤다.",
+  "en": "I thus supported him — the cousin of King Gyeongmyeong and grandson of King Heongang through a daughter — and urged him to ascend the throne.",
+  "ko": "나는 마침내 경명왕의 외종형제이자 헌강왕의 외손자인 그를 받들어 왕위에 오르도록 권하였다.",
   "is_header": false
  },
  {
   "id": 44,
   "tag": "P0010_4",
-  "en": "I urged him to accept the high position and rebuild the endangered nation. The king had died, but there was no successor. You must not question things in detail; listen to the advice and endure the rumors and interference.",
-  "ko": "나는 그에게 높은 자리를 받아들여 위태로운 나라를 다시 세우라고 권했다. 임금이 죽었으나 후임자가 없었다. 그대는 자세히 따지지 말고 충고를 들으며 헛소문과 방해를 견뎌내라.",
+  "en": "I urged him to accept the high position and rebuild the endangered nation. The king had died, but there was no successor. You must not question things in detail; listen to the advice and endure the rumors and interference. Yet still, you could not even glimpse my horse's head, nor could you pluck a hair from my ox.",
+  "ko": "나는 그에게 높은 자리를 받아들여 위태로운 나라를 다시 세우라고 권했다. 임금이 죽었으나 후임자가 없었다. 그대는 자세히 따지지 말고 충고를 들으며 헛소문과 방해를 견뎌내라. 그런데도 그대는 여전히 내 말머리도 보지 못하였거늘, 내 소의 털 한 오라기도 뽑지 못하였다.",
   "is_header": false
  },
  {
   "id": 45,
   "tag": "P0011_1",
-  "en": "In early winter, Dodu stayed below the mountains of Sohang and Suksuseong. On a moonlit night, Left General Kimrak examined the corpses in front of Mirisa. There were many dead, and the number of hunted birds was not small.",
-  "ko": "초겨울에 도두가 소항과 속수성 산 아래에서 머물렀다. 달이 뜬 밤에 좌장 김락이 미리사 앞에서 시신을 살폈다. 죽은 자가 많았고 사냥한 새도 적지 않았다.",
+  "en": "In early winter, the commander Saksang was pinned down at his camp below Mt. Seongsan. On a moonlit night, Left General Kimrak examined the corpses in front of Mirisa. There were many dead, and the number of hunted birds was not small.",
+  "ko": "초겨울에 도두 색상이 성산 아래 진영에서 꼼짝 못 하게 되었다. 달이 뜬 밤에 좌장 김락이 미리사 앞에서 시신을 살폈다. 죽은 자가 많았고 사냥한 새도 적지 않았다.",
   "is_header": false
  },
  {
   "id": 46,
   "tag": "P0011_2",
-  "en": "The horses were exhausted and in this state, the outcome of the victory or defeat could be determined. They had hoped to hang their bows in the pavilion of Pyeongyangseong and drink at the waters of Paesang. However, a month ago, Ban Sangseo, an envoy from the state of Oyeol, arrived.",
+  "en": "The horses were exhausted and in this state, the outcome of the victory or defeat could be determined. They had hoped to hang their bows in the pavilions of Pyeongyang and drink at the waters of Paesang. However, a month ago, Ban Sangseo, an envoy from the state of Oyeol, arrived.",
   "ko": "말들이 기운이 없어 이와 같으니 승패를 가늠할 수 있었다. 그들은 평양의 누각에 활을 걸고 패강의 물가에서 말을 마시기를 기대했다. 그러나 한 달 전 오월국 사절인 반상서가 도착했다.",
   "is_header": false
  },
  {
   "id": 47,
   "tag": "P0011_3",
-  "en": "He conveyed the king's decree. He had long maintained a peaceful relationship with Goguryeo and shared a mutual alliance as neighboring states. However, after two hostages died, the old friendship between the houses was broken. The two nations invaded each other's borders and did not lay down their weapons.",
+  "en": "He conveyed the king's decree. He had long maintained a peaceful relationship with Goguryeo and shared a mutual alliance as neighboring states. However, after two hostages died, the long-standing friendship between the states was broken. The two nations invaded each other's borders and did not lay down their weapons.",
   "ko": "그는 왕의 명령을 전했다. 그는 고구려와 오래도록 화친하며 이웃한 나라끼리 서로 돕는 관계였다. 하지만 인질 둘이 죽자 집안의 옛 우정이 깨졌다. 두 나라는 서로 국경을 침범하고 무기를 거두지 않았다.",
   "is_header": false
  },
@@ -338,28 +338,28 @@
  {
   "id": 49,
   "tag": "P0012_1",
-  "en": "Bokui deeply revered the king. His feelings were deep and the matter was significant. When Boki heard the royal decree, he intended to accept it immediately. However, although Nojok tried to stop him, he could not do so and they continued to fight.",
-  "ko": "복의는 왕을 지극히 공경했다. 그의 마음은 깊고 일은 중대했다. 복의가 어명을 듣자 곧 그대로 받들고자 했다. 그러나 노족이 그만두려 했으나 멈추지 못하고 여전히 다투었다.",
+  "en": "Bokui deeply revered the king. His feelings were deep and the matter was significant. When Boki heard the royal decree, he intended to accept it immediately. But you, wretch, though wishing to stop, cannot, and still you fight on.",
+  "ko": "복의는 왕을 지극히 공경했다. 그의 마음은 깊고 일은 중대했다. 복의가 어명을 듣자 곧 그대로 받들고자 했다. 그러나 그대, 이 미천한 자여, 그만두려 해도 그만두지 못하고 여전히 다투고 있다.",
   "is_header": false
  },
  {
   "id": 50,
   "tag": "P0012_2",
-  "en": "I now record and send the royal decree. Pay close attention and examine it thoroughly. Furthermore, avoid unnecessary complications. Ultimately, you will be ridiculed. Holding out against one another becomes a laughingstock. Be wary so that this is not repeated again, and do not create matters for which you will later regret.",
+  "en": "I now record and send the royal decree. Pay close attention and examine it thoroughly. Furthermore, avoid tedious repetitions. Ultimately, you will be ridiculed. Holding out against one another becomes a laughingstock. Be wary so that this is not repeated again, and do not create matters for which you will later regret.",
   "ko": "이제 어서를 기록하여 보낸다. 마음을 써서 자세히 살펴라. 또한 번거로움을 피하라. 결국 비웃음을 사게 된다. 서로 버티는 일은 웃음거리가 된다. 이를 다시 되풀이하지 않도록 경계하며 스스로 후회할 일을 만들지 마라.",
   "is_header": false
  },
  {
   "id": 51,
   "tag": "P0012_3",
-  "en": "In the first month of 1312, Taejo replied: I received one imperial decree sent by Ban, the Minister of the Secretariat and Envoy of Wu and Yue. I also received a long letter in which Nojok reported the matters with due courtesy.",
-  "ko": "천이백삼십이년 정월에 태조가 답했다. 나는 오월국 통사 반상서가 전한 어지 서신 한 통을 받들었다. 또한 노족이 예의를 갖추어 보낸 긴 편지로 사건을 알린 것을 함께 받았다.",
+  "en": "In the first month of 1312, Taejo replied: I received one imperial decree sent by Ban, the Minister of the Secretariat and Envoy of Wu and Yue. I also received the long letter in which you courteously reported the matter.",
+  "ko": "천이백삼십이년 정월에 태조가 답했다. 나는 오월국 통사 반상서가 전한 어지 서신 한 통을 받들었다. 또한 그대가 예의를 갖추어 보낸 긴 편지로 사건을 알린 것을 함께 받았다.",
   "is_header": false
  },
  {
   "id": 52,
   "tag": "P0012_4",
-  "en": "I received this with the heart of a groom and an envoy. I received both the good news and the instructions contained in the Jeseo. My gratitude increased as I held the grass.",
+  "en": "I received this with the heart of a groom and an envoy. I received both the good news and the instructions contained in the Jeseo. My gratitude grew even more as I received the report with the ceremonial grass.",
   "ko": "나는 마부와 사절의 마음으로 이를 받았다. 제서에 담긴 좋은 소식과 가르침을 함께 받았다. 풀을 든 채로 감격이 더해졌다.",
   "is_header": false
  },
@@ -380,7 +380,7 @@
  {
   "id": 55,
   "tag": "P0013_3",
-  "en": "He tried to calm this turmoil. He strove to avert the disaster of saving the nation. He befriended neighbors and sought harmony. As a result, people lived and worked happily in farming lands spanning thousands of li.",
+  "en": "He tried to calm this turmoil. He strove to avert the disasters threatening the nation. He befriended neighbors and sought harmony. As a result, people lived and worked happily in farming lands spanning thousands of li.",
   "ko": "그는 이 혼란을 잠재우려 노력했다. 나라를 구하는 재앙을 막으려 애썼다. 그는 이웃과 친하게 지내며 화합을 꾀했다. 그 결과 수천 리나 되는 농사터에서 백성들이 즐겁게 일하며 살게 되었다.",
   "is_header": false
  },

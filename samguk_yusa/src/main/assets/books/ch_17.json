@@ -44,7 +44,7 @@
  {
   "id": 7,
   "tag": "P0002_5",
-  "en": "The King shed tears without realizing it and said, \"I have two daughters. Please become a spouse who supports them for their combs.\"",
+  "en": "The King shed tears without realizing it and said, \"I have two daughters. Please become a husband to one of them.\"",
   "ko": "왕은 자신도 모르게 눈물을 흘리며 말했다. \"내게 두 딸이 있다. 부디 이 아이들을 위해 빗과 빗을 받쳐주는 배필이 되어다오.\"",
   "is_header": false
  },
@@ -65,28 +65,28 @@
  {
   "id": 10,
   "tag": "P0003_2",
-  "en": "Beom Gyosa, the leader of Rang's followers, heard this news. He went home and asked Rang, \"Is it true that the Great King intends to make a princess your wife?\" Rang replied that it was so.",
+  "en": "Beom Gyosa, the head teacher among Rang's followers, heard this news. He went home and asked Rang, \"Is it true that the Great King intends to make a princess your wife?\" Rang replied that it was so.",
   "ko": "랑의 무리 중 우두머리인 범 교사가 이 소식을 들었다. 그는 집으로 가서 랑에게 물었다. \"대왕께서 공주를 당신의 아내로 삼으려 하신다는데 사실입니까?\" 랑은 그렇다고 대답했다.",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "P0003_3",
-  "en": "When he asked why he was marrying her, Rang replied, \"The two elders commanded me.\" The teacher said, \"If you marry the younger sister, I will die before you; if you marry the elder sister, you will surely obtain three beauties.\"",
-  "ko": "그가 왜 결혼하느냐고 묻자, 랑이 답했다. \"두 어른이 내게 명령하셨다.\" 스승이 말하기를, \"네가 동생과 혼인하면 나는 네 앞에서 죽을 것이요, 형과 혼인하면 반드시 세 가지 아름다움을 얻으리라.\"",
+  "en": "When he asked why he was marrying her, Rang replied, \"The two elders commanded me.\" The teacher said, \"If you marry the younger sister, I will die before you; if you marry the elder sister, you will surely obtain three fortunate outcomes.\"",
+  "ko": "그가 왜 결혼하느냐고 묻자, 랑이 답했다. \"두 어른이 내게 명령하셨다.\" 스승이 말하기를, \"네가 동생과 혼인하면 나는 네 앞에서 죽을 것이요, 형과 혼인하면 반드시 세 가지 좋은 일을 얻으리라.\"",
   "is_header": false
  },
  {
   "id": 12,
   "tag": "P0003_4",
-  "en": "Rang replied that he accepted the command. Some time later, the King sent someone to tell Rang, \"Bring the one of the two women whom you were commanded to take.\" Rang brought the princess back and submitted his intent. Soon, three months passed.",
+  "en": "Rang replied that he accepted the command. Some time later, the King sent someone to tell Rang, \"Bring the one of the two women whom you were commanded to take.\" Rang brought the princess back and reported his decision. Soon, three months passed.",
   "ko": "랑은 명을 받들었다고 대답했다. 얼마 후 왕이 사람을 보내 랑에게 말했다. \"두 여인 중 당신이 명령받은 자를 데려오라.\" 랑은 공주를 모시고 돌아와 뜻을 올렸다. 곧 삼 달이 지났다.",
   "is_header": false
  },
  {
   "id": 13,
   "tag": "P0004_1",
-  "en": "When the king's illness deepened, he summoned his officials. The king said, \"I have no son. The task of ruling the land must be inherited by Eungnyeom, the husband of my eldest daughter.\" The next day, the king passed away. Prince Rang received the final testament and ascended the throne.",
+  "en": "When the king's illness deepened, he summoned his officials. The king said, \"I have no son. The task of ruling the land must be inherited by Eungnyeom, the husband of my eldest daughter.\" The next day, the king passed away. The prince received the final testament and ascended the throne.",
   "ko": "왕이 병이 깊어지자 신하들을 불러 모았다. 왕은 \"내게는 아들이 없다. 나라를 다스리는 일은 큰딸의 남편인 응렴이 이어받아야 한다.\"라고 말했다. 다음 날 왕이 세상을 떠났다. 왕자 랑이 유언을 받들어 즉위했다.",
   "is_header": false
  },
@@ -100,7 +100,7 @@
  {
   "id": 15,
   "tag": "P0004_3",
-  "en": "\"The first is that the eldest daughter's husband ascended the position; the second is that the owner of the former Saseok was changed and could now be taken; and the third is that the brother and his wife are greatly rejoicing.\"",
+  "en": "\"The first is that the eldest daughter's husband ascended the position; the second is that the owner of Hinyeon-jeong was changed and could now be taken; and the third is that the brother and his wife are greatly rejoicing.\"",
   "ko": "첫째는 큰딸의 남편이 자리를 올랐고, 둘째는 옛날 사석의 주인이 바뀌어 취할 수 있게 되었으며, 셋째는 형과 부인이 크게 기뻐하는 것입니다.\"",
   "is_header": false
  },
@@ -114,14 +114,14 @@
  {
   "id": 17,
   "tag": "P0005_1",
-  "en": "The king could not sleep without a snake, so he did not forbid it. Every time the king slept, he extended his tongue across his chest. He placed it under him and took his position. Then, the king's ears suddenly grew long like donkey ears.",
+  "en": "The king could not sleep without a snake, so he did not forbid it. Every time the king slept, he extended his tongue across his chest. He lay upon it and took his position. Then, the king's ears suddenly grew long like donkey ears.",
   "ko": "왕은 뱀이 없으면 잠들지 못했다. 그래서 금지하지 않았다. 왕은 매번 잠잘 때 혀를 가슴까지 내밀었다. 그 혀를 깔고 자리를 올랐다. 그러자 왕의 귀가 갑자기 당나귀 귀처럼 길게 자라났다.",
   "is_header": false
  },
  {
   "id": 18,
   "tag": "P0005_2",
-  "en": "The queen and the palace people did not know this fact at all. Only one person, a bokdujang, knew it. However, that person did not tell others in his daily life. As he faced death, he entered the bamboo grove of Dorimsa.",
+  "en": "The queen and the palace people did not know this fact at all. Only one person, a maker of royal headwear, knew it. However, that person did not tell others in his daily life. As he faced death, he entered the bamboo grove of Dorimsa.",
   "ko": "왕후와 궁인들은 이 사실을 전혀 알지 못했다. 오직 복두장이 한 사람만이 그 사실을 알고 있었다. 그러나 그 사람은 평소에 남에게 말하지 않았다. 그 사람이 죽음을 앞두고 도림사 대숲으로 들어갔다.",
   "is_header": false
  },
@@ -177,8 +177,8 @@
  {
   "id": 26,
   "tag": "P0008_3",
-  "en": "The Ilgwan said that this was the transformed appearance of the Dragon of the East Sea. The King ordered the Seungsa to break the dragon's curse. Before those words could even be finished, the clouds dispersed and the mist vanished. In memory of this event, he named it Gaewunpo.",
-  "ko": "일관은 이곳이 동해 용이 변한 모습이라 말했다. 왕은 승사에게 명령하여 용의 저주를 풀어내라고 명했다. 그 말이 채 나오기도 전에 구름이 걷히고 안개가 사라졌다. 이 일을 기려 개운포라 이름 지었다.",
+  "en": "The Ilgwan said, 'This is the East Sea Dragon's doing; a meritorious deed should be performed to resolve it.' Before the order could even be carried out, the clouds dispersed and the mist vanished. In memory of this event, he named it Gaewunpo.",
+  "ko": "일관이 아뢰었다. '이는 동해 용이 조화를 부린 것이니, 마땅히 공덕이 될 만한 일을 행하여 풀어야 합니다.' 미처 다 이르기도 전에 구름이 걷히고 안개가 사라졌다. 이 일을 기려 개운포라 이름 지었다.",
   "is_header": false
  },
  {
@@ -205,7 +205,7 @@
  {
   "id": 30,
   "tag": "P0009_3",
-  "en": "His wife was very beautiful, and the plague god Yeoksin admired her. One night, Yeoksin entered Cheoyong's house secretly. He saw two people sleeping there. Cheoyong sang and danced and then withdrew.",
+  "en": "His wife was very beautiful, and the plague god Yeoksin admired her. One night, Yeoksin secretly entered Cheoyong's house and found two people sleeping there. Cheoyong then sang and danced before he withdrew.",
   "ko": "그의 아내는 매우 아름다웠다. 돌림병을 옮기는 귀신인 역신이 그녀를 흠모했다. 어떤 날 밤에 역신이 처용의 집으로 몰래 들어갔다. 그곳에서 두 사람이 잠자고 있는 것을 보았다. 처용은 노래하며 춤을 추고 물러났다.",
   "is_header": false
  },
@@ -233,21 +233,21 @@
  {
   "id": 34,
   "tag": "P0011_3",
-  "en": "After the king returned, he chose a good piece of land on the eastern foothills of Chuisan and established a temple. It was called Manghaesa or Sinbangsa, and it was built for the dragon.",
+  "en": "After the king returned, he chose a good piece of land on the eastern foothills of Chuisan and established a temple. It was called Manghaesa or Sinbangsa, and it was established as a sanctuary for the dragon.",
   "ko": "왕이 돌아온 뒤에는 취산 동쪽 기슭의 좋은 땅을 골라 절을 세웠다. 그곳을 망해사 또는 신방사라고 불렀으며, 용을 위해 세운 곳이었다.",
   "is_header": false
  },
  {
   "id": 35,
   "tag": "P0011_4",
-  "en": "Also, when the King stayed at Poseokjeong, he saw the Namsansin dancing before him. Those around him did not see it, and only the King saw it. When a person appeared in front of him and danced, the King also danced by himself and showed the movements to follow them.",
+  "en": "Also, when the King stayed at Poseokjeong, he saw the Namsansin dancing before him. Those around him did not see it, and only the King saw it. When a person appeared in front of him and danced, the King also danced, mimicking the movements.",
   "ko": "또한 왕은 포석정에 머물 때 남산신이 눈앞에서 춤을 추는 것을 보았다. 주변 사람들은 보지 못했고 오직 왕만이 그것을 보았다. 어떤 사람이 앞에 나타나 춤을 추자, 왕도 스스로 춤을 추며 그 동작을 따라 보여주었다.",
   "is_header": false
  },
  {
   "id": 36,
   "tag": "P0011_5",
-  "en": "The name of that deity was sometimes called Sangsim. Therefore, the people of the land have passed down this dance until today.",
+  "en": "The name of that deity was sometimes called Sangsim. Therefore, the people of the land have passed down this dance to this day.",
   "ko": "그 신의 이름은 혹은 상심이라 한다. 그래서 지금까지 나라 사람들이 이 춤을 전해 내려온다.",
   "is_header": false
  },
@@ -261,7 +261,7 @@
  {
   "id": 38,
   "tag": "P0012_2",
-  "en": "They ordered artisans to carve its shape to show later generations, which is why some called it Sangsim. Others called it Sangyeom, meaning a frost-like beard based on its appearance.",
+  "en": "They ordered artisans to carve its shape to show later generations, which is why some called it Sangsim. Others called it Sangyeommu, naming it after its appearance as a frost-like beard dance.",
   "ko": "그들이 장인에게 시켜 모양을 조각하게 하여 후대에 알리려 했다. 그래서 상심이라 부른 것이다. 또 어떤 이는 형상을 따라 소름 끼치는 수염이라는 뜻으로 상염이라 불렀다.",
   "is_header": false
  },
@@ -275,7 +275,7 @@
  {
   "id": 40,
   "tag": "P0012_4",
-  "en": "The Eobeopjip recorded that the mountain god offered a dance. The lyrics meant that the people of Jiri would realize and flee. Because they knew the land was about to fall, the deity tried to warn them, but the people took it as an auspicious sign and enjoyed it until the land finally fell.",
+  "en": "The Eobeopjip recorded that the mountain god offered a dance. The lyrics meant that those in Jiri would realize the danger and flee. Since the deity knew the land was about to fall, it performed a dance to warn them, but the people mistook it for an auspicious sign and indulged until the land finally fell.",
   "ko": "어법집에서는 산신이 춤을 올렸다고 기록했다. 노래 가사는 지리나라 사람들이 알아차리고 도망친다는 뜻이다. 나라가 망할 것을 알기에 경고하려 했으나, 백성들은 이를 상서로운 일로 여겨 즐기다가 결국 나라를 망쳤다.",
   "is_header": false
  }

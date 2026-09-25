@@ -37,7 +37,7 @@
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "The Great King found this strange and, at Musanjeong, told the Sutra of Two Souls for one day. He also established Changjangsa Temple in Hansanju to provide aid to the deceased.",
+  "en": "The Great King found this strange and, at Musanjeong, recited the Sutra of Two Souls for one day. He also established Changjangsa Temple in Hansanju to provide aid to the deceased.",
   "ko": "대왕은 이를 이상하게 여겨 무산정에서 하루 동안 두 영혼 설경을 들려주었다. 또한 그는 한산주에 창장사원을 세워 죽은 이들을 돕게 했다.",
   "is_header": false
  },
@@ -58,14 +58,14 @@
  {
   "id": 9,
   "tag": "P0004_2",
-  "en": "In the second year of Bonggeon, on the days of Jeongmyo and Chongjang Musin, the king led his troops. The king arrived at Pyeongyangseong with Kim Inmun, Heumsun, and others. He joined forces with the Tang army and destroyed Goguryeo. The Tang general Li Sik captured the King of Goryeong and brought him back to the country.",
+  "en": "In the second year of Bonggeon, on the days of Jeongmyo and Chongjang Musin, the king led his troops. The king arrived at Pyeongyangseong with Kim Inmun, Heumsun, and others. He joined forces with the Tang army and destroyed Goguryeo. The Tang general Li Sik captured King Gojang and brought him back to the country.",
   "ko": "봉건 둘째 해 정묘와 총장 무신에 왕이 군사를 거느렸다. 왕은 김인문, 흠순 등과 함께 평양에 이르렀다. 당나라 군대와 합세하여 고구려를 멸망시켰다. 당나라 장수 이적은 고장왕을 사로잡아 나라로 데려왔다.",
   "is_header": false
  },
  {
   "id": 10,
   "tag": "P0004_3",
-  "en": "Li Seok became the Grand Commander of the Paesang Road. So Jeongbang became the Grand Commander of the Yodong Road, and Yu Baekyeong became the Grand Commander of the Pyeongnyangdo. They moved to conquer Goguryeo. The following year, in the first month of the Sinyu year, So Sayeop became the commander of the Buseo Road.",
+  "en": "Li Sik became the Grand Commander of the Paesang Road. So Jeongbang became the Grand Commander of the Yodong Road, and Yu Baekyeong became the Grand Commander of the Pyeongnyangdo. They moved to conquer Goguryeo. The following year, in the first month of the Sinyu year, So Sayeop became the commander of the Buseo Road.",
   "ko": "이적은 패강의 길을 지휘하는 대총관이 되었다. 소정방은 요동도 대총관이 되었고, 유백영은 평양도 대총관이 되었다. 그들은 고구려를 정벌하기 위해 움직였다. 이듬해 신유년 정월에 소사업이 부서도 총관이 되었다.",
   "is_header": false
  },
@@ -93,7 +93,7 @@
  {
   "id": 14,
   "tag": "P0005_3",
-  "en": "On the day Giyu of the twelfth month, Li Jeok was appointed as the Grand General of the Haengdae for the Liaodong Circuit. He led the troops of six generals to conquer Goguryeo. On the day Gyesa of the ninth month in the year Mujin of the Chongjang era, Li Jeok captured King Gojang.",
+  "en": "On the day Giyu of the twelfth month, Li Jeok was appointed as the Grand General of the Liaodong Circuit. He led the troops of six generals to conquer Goguryeo. On the day Gyesa of the ninth month in the year Mujin of the Chongjang era, Li Jeok captured King Gojang.",
   "ko": "열둘달 기유에 이적을 요동도 행대대총관으로 임명했다. 그는 여섯 총관의 군사를 거느리고 고구려를 정벌했다. 총장 원년 무진년 구월 계사일에 이적은 고장왕을 사로잡았다.",
   "is_header": false
  },
@@ -121,8 +121,8 @@
  {
   "id": 18,
   "tag": "P0006_3",
-  "en": "Gojong summoned Kim Inmun and the others and commanded them, \"You shall borrow my troops to destroy Silla. Why do you refuse?\" He then gave orders to a man named Wonbi to train five hundred thousand soldiers and appoint him as commander to attack Silla.",
-  "ko": "고종이 김인문 등을 불러들여 명령했다. \"그대들이 내 군대를 빌려 신라를 멸하게 하겠소. 어찌하여 이를 거부하는가?\" 그러고는 원비라는 자에게 명을 내려, 오십만 군사를 훈련시켜 대장을 세우고 신라를 치려 했다.",
+  "en": "Gojong summoned Kim Inmun and the others and commanded them, \"You shall borrow my troops to destroy Silla. Why do you refuse?\" He then had Inmun thrown into prison, and trained five hundred thousand soldiers, appointing Xue Fang as commander to attack Silla.",
+  "ko": "고종이 김인문 등을 불러들여 명령했다. \"그대들이 내 군대를 빌려 신라를 멸하게 하겠소. 어찌하여 이를 거부하는가?\" 그러고는 인문을 옥에 가두고, 오십만 군사를 훈련시켜 설방을 대장으로 세워 신라를 치려 했다.",
   "is_header": false
  },
  {
@@ -142,7 +142,7 @@
  {
   "id": 21,
   "tag": "P0007_2",
-  "en": "Myeongrang answered, \"There is a place called Sinyurim to the south of Nungsan. If Sacheonwangsa is established there and a dojang is opened, it will be possible to defend.\"",
+  "en": "Myeongrang answered, \"There is a place called Sinyurim to the south of Nungsan. If Sacheonwangsa is established there and a sacred ground is opened, it will be possible to defend.\"",
   "ko": "명랑은 이렇게 답했다. \"낭산 남쪽에 신유림이라는 곳이 있습니다. 그곳에 사천왕사를 세우고 도량을 열면 방어할 수 있습니다.",
   "is_header": false
  },
@@ -156,21 +156,21 @@
  {
   "id": 23,
   "tag": "P0007_4",
-  "en": "The King summoned Myeongrang and asked what should be done as the situation became urgent. Myeongrang replied, \"It would be good to create false figures using colored silk.\" The King brought colored silk to arrange at the temple and drew and erected statues of gods in five directions.",
+  "en": "The King summoned Myeongrang and asked what should be done as the situation became urgent. Myeongrang replied, \"It would be good to create false figures using colored silk.\" The King brought colored silk to arrange at the temple and fashioned statues of gods in five directions.",
   "ko": "임금이 명랑을 불러 상황이 급박하니 어찌할 것인지 물었다. 명랑이 대답했다. \"채색 비단으로 가짜 형상을 만드는 것이 좋겠습니다.\" 임금은 채색 비단을 가져와 사찰에 배치하고, 다섯 방향의 신상들을 그려서 세웠다.",
   "is_header": false
  },
  {
   "id": 24,
   "tag": "P0007_5",
-  "en": "He summoned twelve monks and had them hold prayer beads. Myeongrang stood in the foremost position and chanted a secret method called Munduru while reciting incantations.",
-  "ko": "그는 십이 명의 승려를 불러내어 그들에게 옥수(염주)를 들게 했다. 명랑이 가장 앞자리에 서서 문두루라는 비밀스러운 법을 지어 외우며 주문을 외웠다.",
+  "en": "He summoned twelve monks of the esoteric Yoga tradition. Myeongrang stood in the foremost position and chanted a secret method called Munduru while reciting incantations.",
+  "ko": "그는 유가(밀교) 승려 열두 명을 불러 모았다. 명랑이 가장 앞자리에 서서 문두루라는 비밀스러운 법을 지어 외우며 주문을 외웠다.",
   "is_header": false
  },
  {
   "id": 25,
   "tag": "P0008_1",
-  "en": "When the Tang troops had not yet exchanged positions, fierce winds and waves rose. All of the Tang ships sank in the water. Later, a temple was rebuilt and named Sacheonwangsa. Since this site has not collapsed until now, that year was Sinmi.",
+  "en": "When the Tang troops had not yet exchanged positions, fierce winds and waves rose. All of the Tang ships sank in the water. The site remained intact until the year Sinmi, when it was rebuilt as Sacheonwangsa.",
   "ko": "당나라 군대가 아직 교대하지 않았을 때 거센 바람과 파도가 일었다. 당나라 배들이 모두 물에 가라앉았다. 나중에 절을 고쳐 짓고 사천왕사라 이름 지었다. 지금까지 이 자리가 무너지지 않았으니 그해는 신미년이었다.",
   "is_header": false
  },
@@ -191,14 +191,14 @@
  {
   "id": 28,
   "tag": "P0008_4",
-  "en": "Therefore, these servants have stayed in the Great Country for over ten years and do not know the affairs of our own land; however, there is one matter heard from afar. Having received great grace from the Great Country to unify the Three Kingdoms, we wish to repay that grace.",
+  "en": "We do not know the affairs of our own land, having lived in the Great Country for over ten years. We only know of one matter heard from afar: we have received great grace from the Great Country to unify the Three Kingdoms and wish to repay that grace.",
   "ko": "\"그래서 본래 고구려의 일을 알지 못합니다. 다만 멀리서 들은 일이 하나 있을 뿐입니다. 상국의 은혜를 듬뿍 입어 삼국을 하나로 합쳤으니, 그 은혜에 보답하고자 합니다.\"",
   "is_header": false
  },
  {
   "id": 29,
   "tag": "P0009_1",
-  "en": "They built Sinsa Cheonwangsa to the south of Namsan. They offered incense to pray for the emperor's longevity of ten thousand years and opened a seat of dharma for a long time. King Gojong heard this news and was greatly delighted.",
+  "en": "They built Sacheonwangsa to the south of Nangsan. They offered incense to pray for the emperor's longevity of ten thousand years and opened a seat of dharma for a long time. King Gojong heard this news and was greatly delighted.",
   "ko": "신사천왕사를 낭산 남쪽에 세웠다. 황제의 수명을 만 년이나 기원하며 법의 자리를 길게 열었다. 고종이 이 소식을 듣고 크게 기뻐했다.",
   "is_header": false
  },
@@ -212,14 +212,14 @@
  {
   "id": 31,
   "tag": "P0009_3",
-  "en": "The king prepared a separate place called Sinsa to the south to wait for the envoy. When the envoy arrived, he said, \"I shall first offer incense at Cheonwangsa, the place where the emperor's longevity is celebrated.\" Then they led him to Sinsa.",
+  "en": "The king prepared a new temple site (Sinsa) to the south to wait for the envoy. When the envoy arrived, he said, \"I shall first offer incense at Cheonwangsa, the place where the emperor's longevity is celebrated.\" Then they led him to Sinsa.",
   "ko": "왕은 사신을 맞이하기 위해 남쪽에 신사라는 곳을 따로 마련해 기다리게 했다. 사신이 도착하여 말했다. \"반드시 황제의 수명을 축하하는 장소인 천왕사에 먼저 향을 올리겠다.\" 그러자 그를 신사로 안내했다.",
   "is_header": false
  },
  {
   "id": 32,
   "tag": "P0009_4",
-  "en": "The envoy stood before the gate and said, \"This is not the Four Heavenly Kings Temple, but a temple of Wondeoksan.\" He did not enter at all. The people of the land gave him one thousand taels of gold to appease him. The envoy returned and reported on the Sacheonwangsa of Silla.",
+  "en": "The envoy stood before the gate and said, \"This is not Sacheonwangsa, but a temple of Wondeoksan.\" He did not enter at all. The people of the land gave him one thousand taels of gold to appease him. The envoy returned and reported on the Sacheonwangsa of Silla.",
   "ko": "사신은 문 앞에 서서 말했다. \"여기는 사천왕사가 아니라 원덕산의 절이다.\" 사신은 끝내 안으로 들어가지 않았다. 나라 사람들은 금 천 냥을 주어 사신을 달래었다. 사신은 돌아와 신라의 사천왕사를 보고했다.",
   "is_header": false
  },
@@ -268,7 +268,7 @@
  {
   "id": 39,
   "tag": "P0011_3",
-  "en": "He stored grain and weapons there and called it Ucheok. The place on the mountain northwest of Cheoneunsa was called Jaucheok. Other records state that Namsanseong was built in the eighth year of Geonbok, the year of Sinhae. Its circumference was two thousand eight hundred and fifty steps.",
+  "en": "He stored grain and weapons there and called it the right warehouse. The place on the mountain northwest of Cheoneunsa was called the left warehouse. Other records state that Namsanseong was built in the eighth year of Geonbok, the year of Sinhae. Its circumference was two thousand eight hundred and fifty steps.",
   "ko": "그곳에 곡식과 무기를 쌓아두었으며 이를 우측 창고라 불렀다. 천은사 북서쪽 산에 있는 곳을 좌측 창고라 했다. 다른 기록에는 건복 여덟 해 신해년에 남산성을 쌓았다고 전한다. 그 둘레는 이천팔백오십 걸음이었다.",
   "is_header": false
  },
@@ -317,8 +317,8 @@
  {
   "id": 46,
   "tag": "P0013_2",
-  "en": "One day, the king summoned his younger brother Chadeukgong and said, \"You shall take on the role of the Grand Priest. Govern all officials evenly and rule the whole world in peace.\" Chadeukgong replied.",
-  "ko": "왕이 하루는 어린 동생 차득공을 불러 말했다. \"그대는 제사장을 맡아라. 백관을 골고루 다스리고 온 세상을 평안하게 다스려라.\" 차득공이 말했다.",
+  "en": "One day, the king summoned his younger brother Chadeukgong and said, \"You shall take on the role of Chief Minister. Govern all officials evenly and rule the whole world in peace.\" Chadeukgong replied.",
+  "ko": "왕이 하루는 어린 동생 차득공을 불러 말했다. \"그대는 총재(재상)를 맡아라. 백관을 골고루 다스리고 온 세상을 평안하게 다스려라.\" 차득공이 말했다.",
   "is_header": false
  },
  {
@@ -338,7 +338,7 @@
  {
   "id": 49,
   "tag": "P0014_2",
-  "en": "When night fell, An-gil called his wife and two female servants and said, \"I have agreed to grow old with the scholar who is staying with us for life.\" The first wife said, \"If you promise to live together, I will follow.\" Then the servant also followed.",
+  "en": "When night fell, An-gil called his wife and two female servants and said, \"I have agreed to grow old with the scholar who is staying with us for life.\" The first wife said, \"If you agree to let us live together for life, I will comply.\" Then the servant also followed.",
   "ko": "밤이 되자 안길은 아내와 두 여종을 불러서 말했다. \"지금 함께 머무는 선비와 평생을 같이 늙어가기로 했다.\" 첫 번째 아내가 말했다. \"함께 살기로 약속한다면 따르겠습니다.\" 그러자 그 여종도 따랐다.",
   "is_header": false
  },
@@ -352,14 +352,14 @@
  {
   "id": 51,
   "tag": "P0015_1",
-  "en": "My name was Dano. (The common term referred to a person who made carriage coverings.) It was fortunate that when the master arrived at the capital, he would visit my house.",
+  "en": "My title was Dano. (The common term referred to a person in charge of carriages.) It was fortunate that when the master arrived at the capital, he would visit my house.",
   "ko": "내 이름은 단오이다. (속칭으로 수레 옷을 만드는 사람을 뜻한다.) 주인이 도성에 도착하면 내 집을 찾아오는 것이 다행스러운 일이었다.",
   "is_header": false
  },
  {
   "id": 52,
   "tag": "P0015_2",
-  "en": "He arrived at the capital and stayed at a government office. The laws of the land required that one official from the outer regions be selected each time to guard the capital. Various departments took charge of such individuals today. Anjil was selected this time and came to the capital.",
+  "en": "He arrived at the capital and stayed at a government office. The laws of the land required that one official from the outer regions be selected each time to guard the capital. Various departments were currently responsible for such individuals. Anjil was selected this time and came to the capital.",
   "ko": "그는 도성에 도착하여 관청에 머물렀다. 나라의 법도는 매번 외성에서 온 관리 한 명을 뽑아 도성을 지키게 했다. 여러 부서가 오늘날 이 사람을 맡았다. 안길이 이번에 뽑혀 도성에 왔다.",
   "is_header": false
  },
@@ -373,7 +373,7 @@
  {
   "id": 54,
   "tag": "P0015_4",
-  "en": "\"That house between the two temples is likely a place related to the inner palace. The name Dano refers to one who was in charge of obtaining carriages. You must have happened upon a connection when you returned from the outer districts.\" An-gil told his story.",
+  "en": "\"That house between the two temples is likely a place related to the inner palace. The name Dano refers to an official in charge of carriages. You must have happened upon a connection when you returned from the outer districts.\" An-gil told his story.",
   "ko": "\"두 절 사이의 저 집은 아마 궁궐과 관련된 곳일 것이다. 단오라는 이름은 수레를 얻는 일을 맡은 사람을 뜻한다. 그대가 외성에서 돌아올 때 우연히 인연이 닿았겠구나.\" 안길이 자신의 사정을 털어놓았다.",
   "is_header": false
  },
@@ -401,7 +401,7 @@
  {
   "id": 58,
   "tag": "P0016_4",
-  "en": "People did not dare to go near. People inside and outside admired it. There were thirty fields below the mountain. They planted three seok in each field. It was said that if these fields had a good harvest, Mujinju also had a good harvest, and if they had a poor harvest, Mujinju also had a poor harvest.",
+  "en": "People did not dare to go near. People inside and outside admired it. There were thirty mu of fields below the mountain. They planted three seok in each field. It was said that if these fields had a good harvest, Mujinju also had a good harvest, and if they had a poor harvest, Mujinju also had a poor harvest.",
   "ko": "사람들은 감히 가까이 가지 못했다. 안팎의 사람들이 이를 우러러보았다. 산 아래에는 서른 묘의 밭이 있었다. 한 묘에 세 섬을 심었다. 이 밭이 풍년이면 무진주도 풍년이고, 흉년이면 무진주도 흉년이라 하였다.",
   "is_header": false
  }

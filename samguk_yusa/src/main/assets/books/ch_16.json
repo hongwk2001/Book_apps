@@ -37,8 +37,8 @@
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "At that time, Iseon and three others came from Bonyeongsan to pay their respects.",
-  "ko": "이때 이선과 세 사람이 본래 산에서 찾아와 문안했다.",
+  "en": "At that time, Achan Yeosan (also written Bonyeosan) came to pay his respects.",
+  "ko": "그때 아찬 여산(본여산이라고도 한다)이 찾아와 문안했다.",
   "is_header": false
  },
  {
@@ -65,7 +65,7 @@
  {
   "id": 10,
   "tag": "P0003_3",
-  "en": "Holding a twelve-stringed zither was a sign that twelve grandsons would continue the lineage. Entering Cheongwanjeong and entering the palace forbidden zone were auspicious omens.",
+  "en": "Holding a twelve-stringed zither was a sign that twelve grandsons would continue the lineage. Entering Cheongwan-jeong and entering the palace forbidden zone were auspicious omens.",
   "ko": "\"열두 줄의 거문고를 든 것은 열두 손자가 대대로 이어질 징조다. 천관정에 들어가고 궁궐 금지에 들어간 것은 상서로운 길조다.",
   "is_header": false
  },
@@ -100,7 +100,7 @@
  {
   "id": 15,
   "tag": "P0004_2",
-  "en": "Juwon withdrew to Myeongju, and the King ascended to the highest position. At this time, Yeosan passed away. The King bestowed titles upon his descendants. Among the King's grandsons, there were five: Hyechung Taeja, Heonpyeong Taeja, Yeyeong Jagan, Daeryong Buin, and Soryong Buin.",
+  "en": "Juwon withdrew to Myeongju as the King ascended to the highest position. At that time, Yeosan passed away. The King bestowed titles upon his descendants. Among the King's grandsons, there were five:",
   "ko": "주원은 명주로 물러났고 왕은 최고의 자리에 올랐다. 이때 여산이 세상을 떠났다. 왕은 그의 자손들에게 작위를 내렸다. 왕의 손자 중에는 다섯 명이 있었다.",
   "is_header": false
  },
@@ -135,14 +135,14 @@
  {
   "id": 20,
   "tag": "P0005_3",
-  "en": "\"I wish to see the divine object and return it.\" The king rejected the previous answer and gave three thousand taels of silver to the envoy. The envoy returned the gold but did not accept the silver. When the envoy returned in August, the king hid the flute in the Naehwangjeon.",
+  "en": "\"I wish to see the divine object and return it.\" The king declined the previous offer and gave three thousand taels of silver to the envoy. The envoy returned the gold but did not accept the silver. When the envoy returned in August, the king hid the flute in the Naehwangjeon.",
   "ko": "\"나는 신비로운 물건을 보고 돌려보내고 싶다.\" 왕은 앞선 대답을 거절하고 은 삼천 냥을 사신에게 주었다. 사신은 금을 돌려주었으나 은은 받지 않았다. 팔월에 사신이 돌아오자 왕은 피리를 내황전에 감추어 두었다.",
   "is_header": false
  },
  {
   "id": 21,
   "tag": "P0005_4",
-  "en": "It was the year of Eulhae, the eleventh year of the king's reign. A Tang envoy came to Seoul. The envoy stayed for one month and left. One day later, two women entered the inner courtyard.",
+  "en": "It was the year of Eulhae, the eleventh year of the king's reign. A Tang envoy came to the capital. The envoy stayed for one month and left. One day later, two women entered the inner courtyard.",
   "ko": "왕이 즉위한 지 열한 해가 되는 을해년이었다. 당나라 사신이 서울에 왔다. 사신은 한 달을 머물고 돌아갔다. 그로부터 하루 뒤에 두 여자가 내정으로 들어왔다.",
   "is_header": false
  },
@@ -156,7 +156,7 @@
  {
   "id": 23,
   "tag": "P0006_2",
-  "en": "They cursed my husbands, the two dragons, and the three dragons of the Bunhwangsa well. They turned into small fish and were taken back in jars. I pray that Your Majesty commands those two men to release my husbands and appoint them as dragons who protect the nation.",
+  "en": "They cursed my husbands, the two dragons, and the three dragons of the Bunhwangsa well. They turned into small fish and were taken back in jars. I pray that Your Majesty orders the two men to release my husbands and let them serve as guardian dragons.",
   "ko": "그들이 제 남편인 두 용과 분황사 우물에 사는 세 용을 저주했습니다. 그들은 작은 물고기로 변해 항아리에 담겨 돌아갔습니다. 폐하께서 두 사람에게 명령하여 저희 남편들을 풀어주시고 나라를 지키는 용으로 삼아 주십시오.\"",
   "is_header": false
  },
@@ -177,7 +177,7 @@
  {
   "id": 26,
   "tag": "P0006_5",
-  "en": "The king released the fish in three places. Each of them spurted out water about one chang, leaped joyfully, and disappeared. The Tang people admired the king's brightness and holiness.",
+  "en": "The king released the fish in three places. Each of them spurted out water about one chang, leaped joyfully, and disappeared. The Tang people marveled at the King's wisdom and sagacity.",
   "ko": "왕이 물고기들을 세 곳에 풀어주었다. 물고기들은 각각 한 길 정도의 물을 뿜으며 기쁘게 뛰어올라 사라졌다. 당나라 사람들은 왕의 밝은 지혜와 성스러움에 감탄하였다.",
   "is_header": false
  },
@@ -191,22 +191,22 @@
  {
   "id": 28,
   "tag": "P0007_2",
-  "en": "The young monk Myojeong washed his feet every day at Geumgwangjeong (Note: the place where Master Daehyeon received his name), where a carp lived in the well, floating and sinking.",
-  "ko": "어린 중인 묘정이 매일 금광정(주석: 대현스님이 이름을 얻은 곳이다)가에서 발을 씻었다. 그곳에는 한 마리의 잉어가 우물 속에 떠오르내리며 살고 있었다.",
+  "en": "The young monk Myojeong washed his feet every day at Geumgwangjeong (Note: the place where Master Daehyeon received his name), where a turtle lived in the well, floating and sinking.",
+  "ko": "어린 중인 묘정이 매일 금광정(주석: 대현스님이 이름을 얻은 곳이다)가에서 발을 씻었다. 그곳에는 한 마리의 자라가 우물 속에 떠오르내리며 살고 있었다.",
   "is_header": false
  },
  {
   "id": 29,
   "tag": "P0007_3",
-  "en": "Myojeong used to play with the carp by tossing it leftover food. One day, as Myojeong was finishing his business, he said to the carp, \"I have cherished you for a long time; how will you repay me?\"",
-  "ko": "묘정은 남은 음식을 던져주며 잉어와 장난을 치곤 했다. 어느 날 묘정이 자리를 정리하며 잉어에게 말했다. \"내가 너를 오랫동안 아껴주었는데, 너는 내게 어떻게 보답하겠느냐?\"",
+  "en": "Myojeong used to play with the turtle by tossing it leftover food. One day, as the gathering was about to end, he said to the turtle, \"I have cherished you for a long time; how will you repay me?\"",
+  "ko": "묘정은 남은 음식을 던져주며 자라와 장난을 치곤 했다. 어느 날 묘정이 자리를 마치려 할 때 자라에게 말했다. \"내가 너를 오랫동안 아껴주었는데, 너는 내게 어떻게 보답하겠느냐?\"",
   "is_header": false
  },
  {
   "id": 30,
   "tag": "P0007_4",
-  "en": "A few days later, the carp spat out a small bead as if it intended to give it as a gift. Myojeong received the bead and hung it at the end of his belt. From then on, the Great King cherished and esteemed Myojeong, summoned him into the inner palace, and kept him by his side.",
-  "ko": "며칠 뒤에 잉어가 작은 구슬 하나를 뱉어내어 마치 선물이라도 주려는 듯했다. 묘정은 그 구슬을 얻어 띠 끝에 매달았다. 그 후로 대왕은 묘정을 아끼고 중히 여겨 내전으로 불러 곁에 두었다.",
+  "en": "A few days later, the turtle spat out a small bead as if it intended to give it as a gift. Myojeong received the bead and hung it at the end of his belt. From then on, the Great King cherished and esteemed Myojeong, summoned him into the inner palace, and kept him by his side.",
+  "ko": "며칠 뒤에 자라가 작은 구슬 하나를 뱉어내어 마치 선물이라도 주려는 듯했다. 묘정은 그 구슬을 얻어 띠 끝에 매달았다. 그 후로 대왕은 묘정을 아끼고 중히 여겨 내전으로 불러 곁에 두었다.",
   "is_header": false
  },
  {
@@ -254,7 +254,7 @@
  {
   "id": 37,
   "tag": "P0009_2",
-  "en": "The Great King posthumously honored Johun at Mangdeokru and appointed him as a Dagan, calling him the King of Heungpyeong. The great-grandfather was called the King of Sinyeong, and the grandfather, who was named Beopseon, was appointed as a Daegan and called the King of Hyeonsung. The father of the King of Hyeonsung was a Dagan named Mareukcha.",
+  "en": "The Great King posthumously honored Johun at Mangdeokru and appointed him as an Agan, calling him the King of Heungpyeong. The great-grandfather was titled the King of Sinyeong, and the grandfather, named Beopseon, was appointed as a Daagan and called the King of Hyeonsung. The father of the King of Hyeonsung was an Agan named Mareukcha.",
   "ko": "대왕은 망덕루에서 조훈을 추봉하고 아간으로 삼아 흥평대왕이라 불렀다. 증조는 신영대왕으로, 조부는 법선이라는 이름의 대아간으로 삼아 현성대왕이라 불렀다. 현성대왕의 아버지는 마륵차라는 이름의 아간이었다.",
   "is_header": false
  },
@@ -268,8 +268,8 @@
  {
   "id": 39,
   "tag": "P0011_1",
-  "en": "Forty-ninth, in the year of Mujo during the later years of King Aejang, snow fell on the fifteenth day of the eighth month. Fortieth, in the year of Musul of Yuanhwa thirteen during the reign of King Heundeok, heavy snow fell on the fourteenth day of the third month. (One edition says Byeongin, but it is incorrect; Yuanha only goes up to fifteen, and there is no Byeongin.)",
-  "ko": "마흔아홉째 애장왕의 말년인 무자년 팔월 열닷새에 눈이 내렸다. 마흔열째 헌덕왕 때 원화 십삼년 무술년 삼월 열나흘에 큰눈이 내렸다. (한 권에는 병인이라 되어 있으나 틀렸다. 원화는 모두 열다섯이다. 병인은 없다.)",
+  "en": "Forty-ninth, in the year of Mujo during the later years of King Aejang, snow fell on the fifteenth day of the eighth month. Forty-first, in the thirteenth year of Yuanha (year of Musul), during the reign of King Heundeok, heavy snow fell on the fourteenth day of the third month. (One edition says Byeongin, but it is incorrect; Yuanha only goes up to fifteen, and there is no Byeongin.)",
+  "ko": "마흔아홉째 애장왕의 말년인 무자년 팔월 열닷새에 눈이 내렸다. 마흔한째 헌덕왕 때 원화 십삼년 무술년 삼월 열나흘에 큰눈이 내렸다. (한 권에는 병인이라 되어 있으나 틀렸다. 원화는 모두 열다섯이다. 병인은 없다.)",
   "is_header": false
  },
  {
@@ -303,7 +303,7 @@
  {
   "id": 44,
   "tag": "P0013_3",
-  "en": "The bird pecked at the mirror with its beak and recognized its shadow. The bird wailed sorrowfully and died. The king composed a song, but it is not known.",
+  "en": "The bird pecked at the mirror and took its reflection for a mate. The bird wailed sorrowfully and died. The king composed a song, but it is not known.",
   "ko": "새는 거울을 부리로 쪼으며 그 그림자를 알아차렸다. 새는 슬프게 울다가 죽었다. 왕이 노래를 지었으나, (내용은 알 수 없다.)",
   "is_header": false
  },
@@ -317,7 +317,7 @@
  {
   "id": 46,
   "tag": "P0015_1",
-  "en": "Forty-five. When King Sinmu stayed at his private residence, he said to Gungpa of Gungholsan, \"I have a resentment that is different from even the heavens. If you can resolve this for me, I will grant you a great position. Once you attain that position, I will take your daughter as my queen.\"",
+  "en": "Forty-five. When King Sinmu stayed at his private residence, he said to Gungpa of Gungholsan, \"I have a grievance that transcends even the heavens. If you can resolve this for me, I will grant you a great position. Once you attain that position, I will take your daughter as my queen.\"",
   "ko": "사십오 신무대왕이 사저에 머물 때 궁홀산의 궁파에게 말했다. \"내게 하늘과도 다른 원한이 있다. 네가 이를 해결해 준다면 큰 자리를 내어주마. 그 자리에 오르면 네 딸을 내 왕비로 맞이하겠다.\"",
   "is_header": false
  },
@@ -345,7 +345,7 @@
  {
   "id": 50,
   "tag": "P0016_1",
-  "en": "Tong went to see Jang and said, \"I hold a grudge against the king. I wish to entrust my life to Myunggong.\"",
+  "en": "Tong went to see Jang and said, \"I hold a grudge against the king. I wish to entrust my life to His Highness.\"",
   "ko": "통이 장씨를 찾아가 말했다. \"나는 임금께 원한을 품고 있습니다. 내 몸을 바쳐 명공에게 의탁하고자 합니다.",
   "is_header": false
  },
@@ -359,7 +359,7 @@
  {
   "id": 52,
   "tag": "P0016_3",
-  "en": "Jang answered again, \"It was the matter that all officials advised upon, and not something I planned in advance. My Lord has nothing to do with it.\"",
+  "en": "Jang answered again, \"It was a matter advised by all officials, and not something I planned in advance. His Highness has nothing to do with it.\"",
   "ko": "장씨가 다시 대답했다. \"백관이 모두 간언한 일이며 내가 미리 꾸민 일이 아닙니다. 명공은 아무런 관련이 없습니다.",
   "is_header": false
  },
@@ -373,7 +373,7 @@
  {
   "id": 54,
   "tag": "P0016_5",
-  "en": "Jang answered, \"I have a conflict with the king and intend to hide under your protection to avoid harm.\"",
+  "en": "Jang answered, \"I have a conflict with the king and seek to take refuge under your protection to avoid harm.\"",
   "ko": "장씨가 대답했다. \"임금과 마찰이 있어 당신의 아래에 몸을 숨겨 화를 피하려 합니다.",
   "is_header": false
  },

@@ -16,15 +16,15 @@
  {
   "id": 3,
   "tag": "P0002_1",
-  "en": "It was the year Gyechuk in the ninth year of Uihui. At Daegyo in Pyeongyangseong, Wanggi tried to harm the former king and prince, Nuljiwang. Wanggi knew that Nuljiwang possessed great virtue and prestige and planned to kill him.",
-  "ko": "의희 구년 계축년이었다. 평양성 대교에서 왕기가 전임 왕인 태자 눌지왕을 해치려 했다. 왕기는 눌지왕이 덕망이 높음을 알고 그를 죽이려 계획했다.",
+  "en": "It was the year Gyechuk in the ninth year of Uihui. At Daegyo in Pyeongyangseong, the king dreaded Nulji, the former king's crown prince, who had great virtue and renown, and sought to harm him.",
+  "ko": "의희 구년 계축년이었다. 평양성 대교에서 왕이 전왕의 태자 눌지가 덕망이 높음을 두려워하여 그를 해치려 했다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "P0002_2",
-  "en": "Wanggi requested the Goguryeo soldiers to deceive and welcome Nuljiwang. The Goguryeo soldiers saw the virtuous conduct of Nuljiwang and changed their minds. They threw down their spears and killed Wanggi. They established Nuljiwang as king and departed.",
-  "ko": "왕기는 고구려 군사들에게 부탁하여 눌지왕을 속여 맞이하게 했다. 고구려 군사들은 눌지왕의 어진 행실을 보고 마음을 돌렸다. 그들은 창을 내던지고 왕기를 죽였다. 그들은 눌지왕을 왕으로 세우고 떠났다.",
+  "en": "The king requested the Goguryeo soldiers to deceive and welcome Nulji. The Goguryeo soldiers saw the virtuous conduct of Nulji and changed their minds. They threw down their spears and killed the king. They established Nulji as king and departed.",
+  "ko": "왕은 고구려 군사들에게 부탁하여 눌지를 속여 맞이하게 했다. 고구려 군사들은 눌지의 어진 행실을 보고 마음을 돌렸다. 그들은 창을 내던지고 왕을 죽였다. 그들은 눌지를 왕으로 세우고 떠났다.",
   "is_header": false
  },
  {
@@ -44,7 +44,7 @@
  {
   "id": 7,
   "tag": "P0004_2",
-  "en": "At this time, a crow and a mouse came and cried. The mouse spoke in human language, saying, \"Find the place where this crow stayed.\"",
+  "en": "At this time, a crow and a mouse came and cried. The mouse spoke in human language, saying, \"Find where this crow has been.\"",
   "ko": "이때 까마귀 한 마리와 쥐 한 마리가 찾아와 울었다. 쥐가 사람의 말로 \"이 까마귀가 머문 곳을 찾아라\"라고 말했다.",
   "is_header": false
  },
@@ -65,7 +65,7 @@
  {
   "id": 10,
   "tag": "P0004_5",
-  "en": "At that time, an old man emerged from a pond carrying a board with writing on it. On the outside, it was written, \"If opened, two people die; if not opened, one person dies.\"",
+  "en": "At that time, an old man emerged from a pond carrying a board with writing on it. On the outside, it was written: \"Open it and two will die; leave it closed and one will die.\"",
   "ko": "그때 한 노인이 연못에서 나오며 글이 적힌 판을 받쳐 들고 왔다. 겉면에는 \"열면 두 사람이 죽고, 열지 않으면 한 사람이 죽는다\"라고 적혀 있었다.",
   "is_header": false
  },
@@ -93,8 +93,8 @@
  {
   "id": 14,
   "tag": "P0005_3",
-  "en": "The people refrained from and were cautious in all matters from the first day of every month until the early morning hours of the hour of the pig and the hour of the rat. They designated the fifteenth day as the day to avoid crows. On this day, they offered glutinous rice and performed a ritual.",
-  "ko": "백성들은 매달 초하루부터 해시와 자시 등 이른 새벽까지 모든 일을 삼가고 조심했다. 그들은 열닷샛날을 까마귀를 꺼리는 날로 정했다. 그들은 이날 찰밥을 올리며 제사를 지냈다.",
+  "en": "The people refrained from all activity on the first Day of the Boar, the first Day of the Rat, and the first Day of the Horse each month. They designated the fifteenth day as the day to avoid crows. On this day, they offered glutinous rice and performed a ritual.",
+  "ko": "백성들은 매달 첫 해일과 첫 자일과 첫 오일에는 모든 일을 삼가고 조심하며 함부로 움직이지 않았다. 그들은 열닷샛날을 까마귀를 꺼리는 날로 정했다. 그들은 이날 찰밥을 올리며 제사를 지냈다.",
   "is_header": false
  },
  {
@@ -114,7 +114,7 @@
  {
   "id": 17,
   "tag": "P0007_1",
-  "en": "The twenty-second is King Jicheollo. His surname was Kim and his name was Jidaro, also called Jidoro. His posthumous title was Jijeung. The title of shiro began from this point. The people of the village called the king Maripkan.",
+  "en": "The twenty-second is King Jicheollo. His surname was Kim and his name was Jidaro, also called Jidoro. His posthumous title was Jijeung. The custom of posthumous titles began with this king. The people of the village called the king Maripkan.",
   "ko": "스물두 번째는 지철로왕이다. 성은 김씨이고 이름은 지대로이며 또 지도로라고도 했다. 시호는 지증이라 한다. 시호라는 명칭이 이때부터 시작되었다. 마을 사람들은 왕을 마립간이라 불렀다.",
   "is_header": false
  },
@@ -135,8 +135,8 @@
  {
   "id": 20,
   "tag": "P0007_4",
-  "en": "\"This is the place where the daughter of our Busanggong washed clothes. She hid it in the woods and left it behind.\" The envoy found that house and confirmed it.",
-  "ko": "\"이곳은 우리 부상공의 딸이 빨래를 하던 곳입니다. 숲에 숨어서 두고 간 것입니다.\" 사신이 그 집을 찾아가 확인했다.",
+  "en": "\"This is where our Sang-gong's daughter washed clothes. She hid it in the woods and left it behind.\" The envoy found that house and confirmed it.",
+  "ko": "\"이곳은 우리 상공의 딸이 빨래를 하던 곳입니다. 숲에 숨어서 두고 간 것입니다.\" 사신이 그 집을 찾아가 확인했다.",
   "is_header": false
  },
  {
@@ -149,8 +149,8 @@
  {
   "id": 22,
   "tag": "P0008_2",
-  "en": "Saryoju (now Myeongju) was located in the middle of the East Sea. For two days, the wind blew and circled Yeongneungseom (now called Ulleungdo). The islanders, believing the water to be deep, defied the king's orders and acted arrogantly.",
-  "ko": "사러주(지금은 명주)는 동해 가운데에 있었다. 바람이 이틀 동안 불어 령릉섬(지금은 울릉도라 한다)을 감쌌다. 섬의 원주민들은 물이 깊음을 믿고 왕의 명령을 거역하며 오만하게 굴었다.",
+  "en": "Saryoju (now Myeongju) was located in the middle of the East Sea. Two days' sail away, with favorable winds, lay Yeongneungseom (now called Ulleungdo), which measured twenty-six thousand seven hundred thirty paces in circumference. The islanders, believing the water to be deep, defied the king's orders and acted arrogantly.",
+  "ko": "사러주(지금은 명주)는 동해 가운데에 있었다. 바람이 순조로우면 이틀 만에 닿는 곳에 령릉섬(지금은 울릉도라 한다)이 있었으며, 둘레가 이만 육천칠백삼십 보였다. 섬의 원주민들은 물이 깊음을 믿고 왕의 명령을 거역하며 오만하게 굴었다.",
   "is_header": false
  },
  {
@@ -177,7 +177,7 @@
  {
   "id": 26,
   "tag": "P0010_1",
-  "en": "The twenty-fourth is King Jinheung. When he ascended the throne, he was fifteen years old. The Queen Dowager managed the government on his behalf. The Queen Dowager was the daughter of Queen Heung and the wife of King Galmun, named Ipjong.",
+  "en": "The twenty-fourth is King Jinheung. When he ascended the throne, he was fifteen years old. The Queen Dowager managed the government on his behalf. The Queen Dowager was the daughter of King Beopheung and the wife of King Galmun, named Ipjong.",
   "ko": "스물네 번째는 진흥왕이다. 진흥왕은 열다섯 살에 왕위에 올랐다. 태후가 대신 정사를 돌보았다. 태후는 법흥왕의 딸이었으며, 입종이라는 갈문왕의 아내였다.",
   "is_header": false
  },
@@ -198,7 +198,7 @@
  {
   "id": 29,
   "tag": "P0010_4",
-  "en": "Jinheung transmitted these words to Goguryeo. Goguryeo took these words to heart. Goguryeo and Silla maintained friendly relations, and Baekje, resentful of this, invaded.",
+  "en": "Jinheung transmitted these words to Goguryeo. Goguryeo was moved by these words. Goguryeo and Silla maintained friendly relations, and Baekje, resentful of this, invaded.",
   "ko": "진흥왕은 이 말을 고구려에 전했다. 고구려는 이 말을 마음에 깊이 새겼다. 고구려는 신라와 서로 친하게 지냈고, 백제는 이를 원망하며 쳐들어왔다.",
   "is_header": false
  }

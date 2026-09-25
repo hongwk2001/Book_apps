@@ -30,14 +30,14 @@
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Park Sukcheong, the official in charge of the sea, reported that a small mountain emerged in the East Sea and headed toward Geomeunsa. That mountain moved back and forth along the waves. The king found this strange.",
+  "en": "Park Sukcheong, a Pajinchan official, reported that a small mountain emerged in the East Sea and headed toward Geomeunsa. That mountain moved back and forth along the waves. The king found this strange.",
   "ko": "바다를 관장하는 파진찬 박숙청이 보고하였다. 동해에 작은 산 하나가 떠올러 감은사로 향했다. 그 산은 물결을 따라 오고 갔다. 왕이 이를 이상하게 여겼다.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "The king ordered the state official Kim Chunjil to perform a divination.",
+  "en": "The king ordered the Ilgwan Kim Chunjil to perform a divination.",
   "ko": "왕은 일관 김춘질에게 점을 치라 명했다.",
   "is_header": false
  },
@@ -58,8 +58,8 @@
  {
   "id": 9,
   "tag": "P0003_2",
-  "en": "The shape of that mountain was like a turtle's head. There was a stalk of bamboo on the mountain. It split into two during the day and joined into one at night. (Some said the mountain also opened and closed like bamboo during the day and night.) The envoy came and played it.",
-  "ko": "그 산의 형세는 거북이 머리와 같았다. 산 위에는 대나무 한 자루가 있었다. 낮에는 두 개로 나뉘고 밤에는 하나로 합쳐졌다. (어떤 이는 산도 낮과 밤에 대나무처럼 열리고 닫힌다고 하였다.) 사신이 와서 그것을 연주했다.",
+  "en": "The shape of that mountain was like a turtle's head. There was a stalk of bamboo on the mountain. It split into two during the day and joined into one at night. (Some said the mountain also opened and closed like bamboo during the day and night.) The envoy came and reported it to the king.",
+  "ko": "그 산의 형세는 거북이 머리와 같았다. 산 위에는 대나무 한 자루가 있었다. 낮에는 두 개로 나뉘고 밤에는 하나로 합쳐졌다. (어떤 이는 산도 낮과 밤에 대나무처럼 열리고 닫힌다고 하였다.) 사신이 와서 그것을 보고했다.",
   "is_header": false
  },
  {
@@ -79,7 +79,7 @@
  {
   "id": 12,
   "tag": "P0003_5",
-  "en": "A dragon came carrying a black jade tablet and presented it. The dragon welcomed the king and sat together. The king asked, \"Why do this mountain and the bamboo split and join?\" The dragon replied.",
+  "en": "A dragon came carrying a black jade belt and presented it. The dragon welcomed the king and sat together. The king asked, \"Why do this mountain and the bamboo split and join?\" The dragon replied.",
   "ko": "용 한 마리가 흑옥대를 받쳐 들고 와서 바쳤다. 용은 왕을 맞이하며 함께 앉았다. 왕이 \"이 산과 대나무는 어찌하여 나뉘고 합쳐지는가?\"라고 물었다. 용이 대답했다.",
   "is_header": false
  },
@@ -142,8 +142,8 @@
  {
   "id": 21,
   "tag": "P0005_5",
-  "en": "In the year Gyesa of the fourth year of Daicheonsusa during the reign of King Hyoso, the king learned of the strange occurrence of Ye Uirangsaeng's return. The king bestowed a new name upon the flute: Manmanpapakjeok. See the biography for further details.",
-  "ko": "효소대왕이 대천수사 사년 계사년에 예의랑생이 돌아온 기이한 일을 알게 되었다. 왕은 그 피리의 이름을 다시 만만파파식적이라 봉했다. 자세한 내용은 그 전에서 확인하라.",
+  "en": "In the year Gyesa of the fourth year of the Cheonsu era during the reign of King Hyoso, the king learned of the strange occurrence of Ye Uirangsaeng's return. The king bestowed a new name upon the flute: Manmanpapakjeok. See the biography for further details.",
+  "ko": "효소대왕이 천수 사년 계사년에 예의랑생이 돌아온 기이한 일을 알게 되었다. 왕은 그 피리의 이름을 다시 만만파파식적이라 봉했다. 자세한 내용은 그 전에서 확인하라.",
   "is_header": false
  },
  {
@@ -163,8 +163,8 @@
  {
   "id": 24,
   "tag": "P0007_2",
-  "en": "When he was not seen for fifteen days, Jukji-rang called his mother and asked where her son was. The mother replied, \"Two Agans named Dangjeon and Ikseon are taking my son to the Busanseong warehouse. They left in such a hurry that they did not have time to say goodbye.\"",
-  "ko": "그가 보름 동안 보이지 않자 죽지랑은 그의 어머니를 불러 아들의 행방을 물었다. 어머니가 대답했다. \"당전과 익선이라는 아간이 내 아들을 부산성 창고로 데려가려 합니다. 그들이 급히 가느라 작별 인사도 못 하고 떠났습니다.\"",
+  "en": "When he was not seen for fifteen days, Jukji-rang called his mother and asked where her son was. The mother replied, \"Ikseon, an Agan and the standard-bearer officer from Moryang, is taking my son to the Busanseong warehouse. He left in such a hurry that he did not have time to say goodbye.\"",
+  "ko": "그가 보름 동안 보이지 않자 죽지랑은 그의 어머니를 불러 아들의 행방을 물었다. 어머니가 대답했다. \"당전(지휘관)인 모량 출신 익선 아간이 내 아들을 부산성 창고로 데려가려 합니다. 그가 급히 가느라 작별 인사도 못 하고 떠났습니다.\"",
   "is_header": false
  },
  {
@@ -177,7 +177,7 @@
  {
   "id": 26,
   "tag": "P0007_4",
-  "en": "Jukji-rang set out with his servants. (Villagers say these servants were all those who understood speech.) One hundred and thirty-seven of Jukji-rang's followers also accompanied him in proper attire.",
+  "en": "Jukji-rang set out with his servants. (Villagers say these servants were all skilled in understanding commands.) One hundred and thirty-seven of Jukji-rang's followers also accompanied him in proper attire.",
   "ko": "죽지랑은 종들을 거느리고 길을 떠났다. (마을 사람들은 이 종들이 모두 말을 알아듣는 종이라 말한다.) 죽지랑의 무리 백서른일곱 명도 예법을 갖추어 그를 수행했다.",
   "is_header": false
  },
@@ -191,7 +191,7 @@
  {
   "id": 28,
   "tag": "P0008_2",
-  "en": "He went to perform labor according to custom, and the young man took wine and rice cakes to entertain him. When the young man asked Ikseon to let him stay, the two prepared to return together.",
+  "en": "He went to perform labor according to custom, and the youth took wine and rice cakes to entertain him. When he asked Ikseon for permission to stay, they prepared to return together.",
   "ko": "그는 관례에 따라 부역을 나갔고, 젊은 사내는 술과 떡을 가지고 가서 그를 대접했다. 젊은 사내가 익선에게 머물러 달라고 청하자, 두 사람은 함께 돌아가려 했다.",
   "is_header": false
  },
@@ -205,14 +205,14 @@
  {
   "id": 30,
   "tag": "P0008_4",
-  "en": "The young man looked down on the lowly Ikseon. He gave the thirty seong of tax grain he was in charge of to Ikseon and asked for his help.",
-  "ko": "젊은 사내는 신분이 낮은 익선을 무시했다. 그는 자신이 맡은 세성 삼십 석을 익선에게 주며 도와달라고 청했다.",
+  "en": "Because of the youth's high status and character, he offered the thirty seong of tax grain to Ikseon as a gesture of favor.",
+  "ko": "그 청년은 신분이 높고 인품이 훌륭했으므로, 자신이 맡은 세성 삼십 석을 호의로 익선에게 주었다.",
   "is_header": false
  },
  {
   "id": 31,
   "tag": "P0008_5",
-  "en": "When that still did not work, he gave up his official rank of Saji and gave him the horse and saddle as well. Then Iksun allowed it. A court official heard of this and sent a messenger to bring Iksun. They washed his dirty body, but he fled and hid.",
+  "en": "When that still did not work, he offered the Saji rank of Ganjin along with the horse and saddle. Then Ikseon allowed it. A court official heard of this and sent a messenger to fetch Ikseon. They washed his dirty body, but he fled and hid.",
   "ko": "그래도 안 되자, 그는 간진의 벼슬인 사지 직위를 내어주며 말과 안장을 함께 주었다. 그러자 익선이 허락했다. 조정의 관리가 이 소식을 듣고 사자를 보내 익선을 데려왔다. 그들은 익선의 더러운 몸을 씻겼으나, 그는 도망쳐 숨어버렸다.",
   "is_header": false
  },
@@ -233,8 +233,8 @@
  {
   "id": 34,
   "tag": "P0009_3",
-  "en": "They were no longer allowed to enter government offices and could not wear black clothes. If they were monks, they were not allowed to enter Jonggosa. When the Great King strictly ordered the historians, those from families with precious descendants found this matter strange.",
-  "ko": "그들은 더 이상 관청에 출입하지 못했고 검은 옷도 입지 못했다. 만약 승려라면 종고사 안에 들어오면 안 되었다. 대왕이 사관들에게 엄히 명하자, 귀한 자손을 둔 집안의 사람들은 이 일을 기이하게 여겼다.",
+  "en": "They were no longer allowed to enter government offices and could not wear black clothes. If they were monks, they were not allowed to enter Jonggosa. The Great King strictly ordered the historians to mark Ganjin's descendants and set them apart.",
+  "ko": "그들은 더 이상 관청에 출입하지 못했고 검은 옷도 입지 못했다. 만약 승려라면 종고사 안에 들어오면 안 되었다. 대왕이 사관들에게 엄히 명하여 간진의 자손을 특별히 표시하여 구별하게 했다.",
   "is_header": false
  },
  {
@@ -247,7 +247,7 @@
  {
   "id": 36,
   "tag": "P0009_5",
-  "en": "When Suljonggong was the Governor of Sakju and tried to return to his office, the armies of Samhan revolted, and three thousand cavalry escorted him. They reached Jukjireung.",
+  "en": "When Suljonggong was the Governor of Sakju and tried to return to his official post, the armies of Samhan revolted, and three thousand cavalry escorted him. They reached Jukjireung.",
   "ko": "처음에 술종공이 삭주도독사로 있을 때, 그가 관청으로 돌아가려 했다. 삼한의 군대가 난을 일으켜 기병 삼천이 그를 호송했다. 그들은 죽지령에 이르렀다.",
   "is_header": false
  },
@@ -261,7 +261,7 @@
  {
   "id": 38,
   "tag": "P0010_2",
-  "en": "A month later, the lord saw in a dream that the layer entered his room. The family members also had the same dream. Everyone was very surprised and found it strange. The next day, he sent someone to ask about the well-being of the layer.",
+  "en": "A month later, the lord saw in a dream that the hermit entered his room. The family members also had the same dream. Everyone was very surprised and found it strange. The next day, he sent someone to ask about the well-being of the hermit.",
   "ko": "한 달 뒤에 공은 꿈속에서 거사가 방 안으로 들어오는 것을 보았다. 집안 식구들도 똑같이 꿈을 꾸었다. 모두가 매우 놀라고 이상하게 여겼다. 다음 날 사람을 보내 거사의 안부를 물었다.",
   "is_header": false
  },
@@ -275,14 +275,14 @@
  {
   "id": 40,
   "tag": "P0010_4",
-  "en": "A stone Mirouk statue was erected and placed before the tomb. The wife had been pregnant since the day of the dream. When the child was born, it was said to follow the will of death, so no name was given.",
-  "ko": "그곳에 석미륵상을 하나 세워 무덤 앞에 두었다. 부인은 꿈을 꾼 날부터 아이를 배었다. 아이가 태어나자 죽의 뜻을 따르라 하여 이름도 취하지 않았다.",
+  "en": "A stone Mirouk statue was erected and placed before the tomb. The wife had been pregnant since the day of the dream. When the child was born, he was named Jukji.",
+  "ko": "그곳에 석미륵상을 하나 세워 무덤 앞에 두었다. 부인은 꿈을 꾼 날부터 아이를 배었다. 아이가 태어나자 이름을 죽지라 하였다.",
   "is_header": false
  },
  {
   "id": 41,
   "tag": "P0010_5",
-  "en": "He grew up and entered government service. He served as a deputy commander alongside Gong Yushin and ruled Samhan. Four generations—Jindeok Taejong, Munmuwang, Sinmunwang, and Munmusa—guarded the tomb and stabilized the land.",
+  "en": "He grew up and entered government service. He served as a deputy commander alongside Lord Yusin and ruled the Three Han. Four generations—Queen Jindeok, King Taejong, King Munmu, and King Sinmun—guarded the tomb and stabilized the land.",
   "ko": "그는 자라나서 관직에 나갔다. 그는 유신공과 함께 부사관이 되어 삼한을 다스렸다. 진덕태종과 문무왕, 신문왕 네 대가 무덤을 지키며 나라를 안정시켰다.",
   "is_header": false
  },
@@ -317,8 +317,8 @@
  {
   "id": 46,
   "tag": "P0013_3",
-  "en": "King Seongdeok became the Great King and built Bongdeoksa. He established the Inwang Dojo. He granted a general amnesty for seven days. From this time, the position of Simjung was established. (This originally occurred during the reign of King Hyoseong.)",
-  "ko": "성덕왕은 대왕이 되어 봉덕사를 지었다. 인왕도량을 세웠다. 일곱 날 동안 큰 사면을 베풀었다. 이때부터 시중이라는 직책이 생겼다. (본래는 효성왕 때의 일이다.)",
+  "en": "King Seongdeok built Bongdeoksa in honor of King Taejong. He established the Inwang Dojo. He granted a general amnesty for seven days. From this time, the position of Simjung was established. (This originally occurred during the reign of King Hyoseong.)",
+  "ko": "성덕왕이 태종대왕을 위하여 봉덕사를 지었다. 인왕도량을 세웠다. 일곱 날 동안 큰 사면을 베풀었다. 이때부터 시중이라는 직책이 생겼다. (본래는 효성왕 때의 일이다.)",
   "is_header": false
  }
 ]
