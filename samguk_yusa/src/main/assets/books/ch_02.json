@@ -30,15 +30,15 @@
  {
   "id": 5,
   "tag": "P0002_3",
-  "en": "Among the four frontiers and the nine tribes, the Guhan and Waljok were those overseen by the Zhouli and the Zhifangshi. The tribes of the eastern frontier were the nine tribes. The Samguksa records that Myeongju was the land of the Walguk in ancient times.",
-  "ko": "사방의 변방과 아홉 민족 중 구한과 왈족은 주례와 직방씨가 맡는 이들이었다. 동쪽 변방의 종족이 바로 아홉 민족이다. 삼국사에는 명주가 옛날 왈국의 땅이라 기록되어 있다.",
+  "en": "The Sayi (Four Yi), Guyi (Nine Yi), Guhan (Nine Han), and Yemaek were the peoples that the Zhouli's Office of the Zhifangshi called the \"Four Yi and Nine Mo.\" The Dongyi (Eastern Yi) were precisely the Nine Yi. The Samguksa records that Myeongju was the old kingdom of Ye.",
+  "ko": "사방의 오랑캐인 사이, 구이, 구한, 예맥은 주례 직방씨가 관장하는 사이구맥이라 불리는 이들이었다. 동이족이 바로 구이다. 삼국사에는 명주가 옛 예국이라 기록되어 있다.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0002_4",
-  "en": "A wild man in that place found a king's seal while plowing a field and presented it. Chunju was the name of Ususu-ju in the past and was the land of the Wal people. Some said that what is now Sakju was formerly the land of the Wal people.",
-  "ko": "그곳의 야인이 밭을 갈다 왕의 도장을 얻어 바쳤다. 춘주는 옛날 우수주의 이름이며 왈국의 땅이었다. 어떤 이는 지금의 삭주가 예전 왈국의 땅이었다고 말한다.",
+  "en": "A rustic there found the seal of the King of Ye while plowing a field and presented it. Chunju was the old Usu-ju, the ancient kingdom of Maek. Some also say that present-day Sakju was formerly Maekguk.",
+  "ko": "그곳의 야인이 밭을 갈다 예왕의 도장을 얻어 바쳤다. 춘주는 옛 우수주이며 옛 맥국이었다. 어떤 이는 지금의 삭주가 예전 맥국이었다고도 말한다.",
   "is_header": false
  },
  {
@@ -268,8 +268,8 @@
  {
   "id": 39,
   "tag": "P0020_1",
-  "en": "In the fourteenth year of King Nore, people from Iseoguk came and attacked Geumseong, the capital of Silla. This is the place recorded as Anunmusa Gojeon Jeonsung Sachal Napjeongi.",
-  "ko": "노례왕 열네째 해에 이서국 사람들이 찾아와 신라의 서울인 금성을 공격했다. 안운문사 고전 전승 사찰 납전기라고 기록된 곳이다.",
+  "en": "In the fourteenth year of King Nore, people from Iseoguk came and attacked Geumseong, the capital of Silla. According to Unmunsa's old tradition, the Record of Land Donations to the Various Temples states:",
+  "ko": "노례왕 열네째 해에 이서국 사람들이 찾아와 신라의 서울인 금성을 공격했다. 운문사의 옛 전승에 따르면, 여러 절에 땅을 바친 기록에 이렇게 적혀 있다.",
   "is_header": false
  },
  {
