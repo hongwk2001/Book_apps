@@ -1,0 +1,25 @@
+﻿{
+  "app_info": {
+    "app_name_en": "Frankenstein",
+    "app_name_ko": "프랑켄슈타인: 양방향 영어 원서 읽기",
+    "package_name": "com.tkprof.frankenstein",
+    "default_language": "en-US",
+    "app_type": "App",
+    "pricing": "Free"
+  },
+  "app_access": {
+    "is_restricted": true,
+    "name": "Reviewer Access",
+    "username": "N/A",
+    "password": "N/A",
+    "instructions": "This app does not require users to create an account or log in. The app uses standard Google Play Billing for a one-time purchase to unlock Chapters 3 through 28. Please use a Google Play test account to simulate the in-app purchase and bypass the paywall."
+  },
+  "release_notes": {
+    "ko-KR": "프랑켄슈타인(Frankenstein) 첫 출시를 환영합니다!\n• 인터랙티브 한영 양방향 텍스트로 메리 셸리의 고전 소설 '프랑켄슈타인'을 읽어보세요.\n• 영어 오디오와 텍스트가 동기화되어 제공됩니다.",
+    "en-US": "Welcome to the initial release of Frankenstein!\n• Read Mary Shelley's classic novel with our interactive bilingual (English-Korean) reader.\n• Enjoy synchronized text and audio."
+  },
+  "store_listing_ko": {
+    "short_description": "한영 양방향 텍스트와 동기화된 오디오로 명작 '프랑켄슈타인'을 원서로 읽어보세요!",
+    "full_description": "고전 명작 '프랑켄슈타인(Frankenstein)'을 영어 원서로 읽어보세요!\n영어 학습자와 원서 독서를 즐기는 분들을 위한 완벽한 '양방향(Bilingual) 원서 읽기' 앱입니다.\n\n[주요 기능]\n• 한영 양방향 텍스트: 영어 원문과 한국어 번역을 동시에 제공하여 문맥을 쉽게 파악할 수 있습니다.\n• 원어민 오디오 지원: 생동감 넘치는 원어민 오디오를 들으며 리스닝 실력을 키워보세요.\n• 오디오-텍스트 동기화: 오디오가 재생되는 동안 현재 읽고 있는 문장이 하이라이트 되어 길을 잃지 않습니다.\n• 자동 저장 기능: 마지막으로 읽은 위치를 기억하여 언제 어디서든 편하게 이어볼 수 있습니다.\n\n[이런 분들께 추천합니다!]\n- 영어 원서 읽기에 도전하고 싶지만 해석이 막막하신 분\n- 출퇴근길에 가볍게 오디오북을 들으며 영어를 접하고 싶으신 분\n- 고전문학의 감동을 원문 그대로 느끼고 싶으신 분\n\n지금 바로 강렬하고 아름다운 고딕 소설 '프랑켄슈타인'의 세계로 떠나보세요!"
+  }
+}

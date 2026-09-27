@@ -1,4 +1,4 @@
-﻿package com.tkprof.shared.data
+package com.tkprof.shared.data
 
 import android.content.Context
 import com.tkprof.shared.model.BilingualChapter
@@ -12,9 +12,12 @@ import kotlinx.serialization.json.Json
 @Serializable
 private data class RawParagraph(
     val id: Int,
+    val tag: String? = null,
+    val raw: String = "",
     val en: String,
     val ko: String,
-    val is_header: Boolean = false
+    val is_header: Boolean = false,
+    val image: String? = null
 )
 
 /**
@@ -34,12 +37,20 @@ class BookRepository(private val context: Context) {
     fun loadChapter(chapterNumber: Int): BilingualChapter? {
         val filename = "books/ch_%02d.json".format(chapterNumber)
         return try {
-            val raw = context.assets.open(filename).bufferedReader().readText()
-            val paragraphs = json.decodeFromString<List<RawParagraph>>(raw)
+            val rawText = context.assets.open(filename).bufferedReader().readText()
+            val paragraphs = json.decodeFromString<List<RawParagraph>>(rawText)
 
-            // First is_header paragraph (if any) provides the chapter title
-            val headerEn = paragraphs.firstOrNull { it.is_header }?.en ?: "Chapter $chapterNumber"
-            val headerKo = paragraphs.firstOrNull { it.is_header }?.ko ?: "제${chapterNumber}장"
+            val headerParagraphs = paragraphs.takeWhile { it.is_header }
+            val headerEn = if (headerParagraphs.isNotEmpty()) {
+                headerParagraphs.joinToString(" - ") { it.en.takeIf { t -> t.isNotBlank() } ?: it.raw }.trim(' ', '-')
+            } else {
+                "Chapter $chapterNumber"
+            }
+            val headerKo = if (headerParagraphs.any { it.ko.isNotBlank() }) {
+                headerParagraphs.mapNotNull { it.ko.takeIf { k -> k.isNotBlank() } }.joinToString(" - ")
+            } else {
+                "제${chapterNumber}장"
+            }
 
             BilingualChapter(
                 chapterNumber = chapterNumber,
@@ -48,9 +59,11 @@ class BookRepository(private val context: Context) {
                 paragraphs = paragraphs.map {
                     BilingualParagraph(
                         id = it.id,
+                        tag = it.tag,
                         en = it.en,
                         ko = it.ko,
-                        is_header = it.is_header
+                        is_header = it.is_header,
+                        image = it.image
                     )
                 }
             )
@@ -65,5 +78,40 @@ class BookRepository(private val context: Context) {
     fun availableChapterCount(): Int {
         val files = context.assets.list("books") ?: return 0
         return files.count { it.matches(Regex("ch_\\d+\\.json")) }
+    }
+
+    /**
+     * Quickly scans all chapter files to extract their true titles without keeping full text in memory.
+     */
+    fun loadAllChapterTitles(): List<com.tkprof.shared.model.ChapterTitle> {
+        val count = availableChapterCount()
+        val titles = mutableListOf<com.tkprof.shared.model.ChapterTitle>()
+        for (i in 1..count) {
+            val filename = "books/ch_%02d.json".format(i)
+            try {
+                val rawText = context.assets.open(filename).bufferedReader().readText()
+                val paragraphs = json.decodeFromString<List<RawParagraph>>(rawText)
+                
+                val headerParagraphs = paragraphs.takeWhile { it.is_header }
+                val headerEn = if (headerParagraphs.isNotEmpty()) {
+                    val candidateEn = headerParagraphs.joinToString(" - ") { it.en.takeIf { t -> t.isNotBlank() } ?: it.raw }.trim(' ', '-')
+                    if (candidateEn.length <= 150) candidateEn else "Chapter $i"
+                } else {
+                    "Chapter $i"
+                }
+                
+                val headerKo = if (headerParagraphs.any { it.ko.isNotBlank() }) {
+                    val candidateKo = headerParagraphs.mapNotNull { it.ko.takeIf { k -> k.isNotBlank() } }.joinToString(" - ")
+                    if (candidateKo.length <= 150) candidateKo else "제${i}장"
+                } else {
+                    "제${i}장"
+                }
+                
+                titles.add(com.tkprof.shared.model.ChapterTitle(headerEn, headerKo))
+            } catch (e: Exception) {
+                titles.add(com.tkprof.shared.model.ChapterTitle("Chapter $i", "제${i}장"))
+            }
+        }
+        return titles
     }
 }

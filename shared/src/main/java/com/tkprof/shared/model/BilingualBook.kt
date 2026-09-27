@@ -9,9 +9,11 @@ import kotlinx.serialization.Serializable
 data class BilingualParagraph(
     val id: Int,
     val tag: String? = null,
+    val raw_ref_id: Int = 0,
     val en: String,
     val ko: String,
-    val is_header: Boolean = false
+    val is_header: Boolean = false,
+    val image: String? = null
 )
 
 /**
@@ -24,6 +26,14 @@ data class BilingualChapter(
     val titleEn: String,
     val titleKo: String,
     val paragraphs: List<BilingualParagraph>
+)
+
+/**
+ * Basic title information extracted quickly without holding paragraphs in memory.
+ */
+data class ChapterTitle(
+    val en: String,
+    val ko: String
 )
 
 /**

@@ -1,0 +1,340 @@
+import json
+import os
+
+assets_dir = r"C:\git_repo\Book_apps\two_cities\src\main\assets\books"
+
+# Define the 23 splits:
+# Each entry has:
+#   file: filename
+#   tag: tag of the paragraph to split (or match on en text)
+#   en_part1: exact substring for part 1
+#   en_part2: exact substring for part 2
+#   ko_part1: exact substring for part 1
+#   ko_part2: exact substring for part 2
+
+splits = [
+    # 1. ch_30.json (Tag: P020)
+    {
+        "file": "ch_30.json",
+        "match": lambda p: p.get("tag") == "P020" and p["en"].startswith('"Nonsense, sir!'),
+        "tag1": "P020_1", "tag2": "P020_2",
+        "en1": '"Nonsense, sir! And, my dear Charles," said Mr. Lorry, glancing toward the partners again, "you must remember that getting anything out of Paris right now, no matter what it is, is next to impossible.',
+        "en2": 'Just today, papers and valuables were brought to us here by the strangest messengers, who were in constant danger of losing their heads as they crossed the borders. Normally, our mail would come and go as easily as in England, but now, everything is blocked.”',
+        "ko1": '"당치도 않네, 여보게! 그리고 친애하는 찰스," 로리 씨는 다시 동업자들을 바라보며 말했다. "지금 당장은 그것이 무엇이든 파리 밖으로 빼내는 것이 거의 불가능에 가깝다는 점을 기억해야 하네.',
+        "ko2": '바로 오늘만 해도, 국경을 넘으며 목숨을 잃을 뻔한 위험에 처했던 기묘한 전령들을 통해 서류와 귀중품들이 이곳으로 전달되었어. 평소라면 우편물이 영국에서처럼 쉽게 오갔겠지만, 지금은 모든 것이 막혀 있다네.”'
+    },
+    # 2. ch_07.json (Tag: P005_8)
+    {
+        "file": "ch_07.json",
+        "match": lambda p: p.get("tag") == "P005_8" and p["en"].startswith('Lighter boxes of family papers'),
+        "tag1": "P005_8", "tag2": "P005_9",
+        "en1": "Lighter boxes of family papers went upstairs into a useless dining room that had a massive table but never served any meals. Even in 1780, the old love letters and children's notes stored there had only recently been spared a grim fate.",
+        "en2": "The heads of executed criminals had long been displayed on Temple Bar just outside the windows. Their dead eyes seemed to stare right into the bank. It was a cruelty worthy of the most uncivilized lands.",
+        "ko1": "가벼운 가문 서류 상자들은 거대한 식탁이 있지만 식사는 전혀 제공되지 않는 위층의 쓸모없는 식당으로 올라갔습니다. 1780년 당시에도 그곳에 보관된 오래된 연애편지나 아이들의 쪽지들은 최근에야 끔찍한 운명을 피할 수 있었습니다.",
+        "ko2": "처형당한 범죄자들의 머리는 창문 바로 밖 템플 바에 오랫동안 전시되어 있었습니다. 그들의 죽은 눈은 은행 안을 곧바로 응시하는 듯했습니다. 그것은 가장 미개한 나라에나 어울릴 법한 잔인함이었습니다."
+    },
+    # 3. ch_08.json (Tag: P044_2)
+    {
+        "file": "ch_08.json",
+        "match": lambda p: p.get("tag") == "P044_2" and p["en"].startswith('Charles Darnay had pleaded not guilty'),
+        "tag1": "P044_2", "tag2": "P044_3",
+        "en1": "Charles Darnay had pleaded not guilty the day before to a long, repetitive indictment charging him with being a traitor to our king. He was accused of having assisted Louis, the King of France, in his wars against England on several occasions.",
+        "en2": "The charges claimed he did this by traveling back and forth between England and France, revealing to the French king what military forces England was preparing to send to Canada and North America.",
+        "ko1": "찰스 다네이는 우리 국왕에 대한 반역자라는 길고 반복적인 기소장에 대해 전날 무죄를 주장한 바 있었다. 그는 프랑스의 루이 국왕이 영국을 상대로 벌인 전쟁을 여러 차례 도왔다는 혐의를 받고 있었다.",
+        "ko2": "기소장에는 그가 영국과 프랑스를 오가며 영국이 캐나다와 북미로 보낼 군사력을 프랑스 국왕에게 누설하는 방식으로 그런 짓을 했다고 적혀 있었다."
+    },
+    # 4. ch_21.json (Tag: P043_3)
+    {
+        "file": "ch_21.json",
+        "match": lambda p: p.get("tag") == "P043_3" and p["en"].startswith('They looked like a rough jury.'),
+        "tag1": "P043_3", "tag2": "P043_4",
+        "en1": "They looked like a rough jury. Jacques One and Two sat on the old straw bed, each with his chin resting on his hand, staring intently at the road-mender.",
+        "en2": "Jacques Three was equally focused, resting on one knee behind them with his nervous hand constantly rubbing the fine nerves around his mouth and nose. Defarge stood between them and the storyteller, whom he had placed in the light of the window, looking back and forth from him to them.",
+        "ko1": "그들은 마치 거친 배심원들 같았다. 자크 1호와 2호는 낡은 짚 침대에 앉아 각자 손에 턱을 괴고 도로 보수공을 빤히 쳐다보았다.",
+        "ko2": "자크 3호도 똑같이 집중한 채, 그들 뒤에서 한쪽 무릎을 꿇고 신경질적인 손으로 입과 코 주위의 가는 신경을 끊임없이 문지르고 있었다. 드파르지는 그들과 이야기꾼 사이에 서서 그를 창가의 빛 속에 세워두고, 그와 그들을 번갈아 보았다."
+    },
+    # 5. ch_06.json (Tag: P050_4)
+    {
+        "file": "ch_06.json",
+        "match": lambda p: p.get("tag") == "P050_4" and p["en"].startswith('She stood there looking at him.'),
+        "tag1": "P050_4", "tag2": "P050_5",
+        "en1": "She stood there looking at him. At first, her hands had been raised in frightened pity, as if to shield herself from the sight of him. But now she was reaching out to him, trembling with eagerness to hold his ghost-like face to her warm chest and love him back to life and hope.",
+        "en2": "That same expression was reflected on her face, much stronger and clearer than on his. It looked as if a moving light had passed directly from him to her.",
+        "ko1": "그녀는 그곳에 서서 그를 바라보았습니다. 처음에 그녀는 두려움 섞인 동정심으로 그를 보는 것으로부터 자신을 보호하려는 듯 두 손을 들고 있었습니다. 하지만 이제 그녀는 유령 같은 그의 얼굴을 따뜻한 가슴에 품고 사랑으로 그를 삶과 희망으로 되돌려 놓고 싶다는 열망으로 떨며 그에게 손을 뻗고 있었습니다.",
+        "ko2": "같은 표정이 그의 얼굴보다 그녀의 얼굴에 훨씬 더 강하고 선명하게 나타났습니다. 마치 움직이는 빛이 그에게서 그녀에게로 직접 전해진 것 같았습니다."
+    },
+    # 6. ch_07.json (Tag: P031_1)
+    {
+        "file": "ch_07.json",
+        "match": lambda p: p.get("tag") == "P031_1" and p["en"].startswith('It could hardly be called a business,'),
+        "tag1": "P031_1", "tag2": "P031_2",
+        "en1": 'It could hardly be called a business, despite his favorite description of himself as an "honest tradesman." His equipment consisted of a wooden stool made from an old chair.',
+        "en2": 'Young Jerry carried this stool at his father’s side every morning to a spot beneath the bank window closest to Temple Bar. There, with a handful of straw gathered from passing carriages to keep the cold and wet off his feet, Jerry set up his spot for the day.',
+        "ko1": '스스로를 "정직한 상인"이라고 부르기를 좋아했음에도 불구하고, 그것은 도저히 사업이라고 부를 수 없는 일이었습니다. 그의 장비라고는 낡은 의자로 만든 나무 의자가 전부였습니다.',
+        "ko2": '어린 제리는 매일 아침 아버지 곁에서 이 의자를 들고 템플 바에 가장 가까운 은행 창문 아래 자리로 향했습니다. 그곳에서, 발이 차갑고 젖는 것을 막기 위해 지나가는 마차에서 주워 온 짚 한 움큼을 가지고 제리는 하루를 보낼 자리를 마련했습니다.'
+    },
+    # 7. ch_13.json (Tag: P010_2)
+    {
+        "file": "ch_13.json",
+        "match": lambda p: p.get("tag") == "P010_2" and p["en"].startswith('To keep the glamorous illusion going,'),
+        "tag1": "P010_2", "tag2": "P010_3",
+        "en1": "To keep the glamorous illusion going, the executioner had to do his grim job with curled and powdered hair, wearing a gold-laced coat, dress shoes, and white silk stockings.",
+        "en2": "At the gallows and the breaking wheel—the executioner's axe was rarely used—Monsieur Paris, which is what his fellow executioners from the provinces like Monsieur Orleans respectfully called him, presided over the executions in this delicate and fancy outfit.",
+        "ko1": "그 화려한 환상을 유지하기 위해 사형 집행인은 구부러지고 분칠된 머리에 금색 끈이 달린 코트, 정장 구두, 그리고 하얀 실크 스타킹을 신고 그의 끔찍한 직무를 수행해야 했다.",
+        "ko2": "교수대와 수레바퀴 처형대에서—사형 집행인의 도끼는 거의 사용되지 않았다—지방에서 온 오를레앙 씨와 같은 그의 동료 사형 집행인들이 정중하게 파리 씨라고 불렀던 그는, 이 섬세하고 화려한 복장으로 처형을 주재했다."
+    },
+    # 8. ch_40.json (Tag: P055_2)
+    {
+        "file": "ch_40.json",
+        "match": lambda p: p.get("tag") == "P055_2" and p["en"].startswith('We were plundered to the point'),
+        "tag1": "P055_2", "tag2": "P055_3",
+        "en1": "We were plundered to the point that if we happened to have a piece of meat, we ate it in fear with the door locked and the shutters closed so his servants wouldn't see it and take it from us.",
+        "en2": "I tell you, we were so robbed and hunted, and made so poor, that our father told us it was a terrible thing to bring a child into the world. He said we should pray that our women would be barren and our miserable family line would die out!’",
+        "ko1": "우리는 고기 한 점이라도 생기면 행여나 하인들이 보고 빼앗아갈까 봐 문을 잠그고 덧문을 닫은 채 두려움 속에서 먹어야 할 정도로 수탈당했습니다.",
+        "ko2": "정말이지 우리는 너무도 빼앗기고, 쫓기고, 가난해져서, 아버지께서는 이 세상에 아이를 낳는 것은 끔찍한 일이라고 말씀하셨습니다. 우리 여인들이 불임이 되어 이 비참한 가문이 끊어지게 해달라고 기도해야 한다고 하셨습니다!’"
+    },
+    # 9. ch_36.json (Tag: P034_2)
+    {
+        "file": "ch_36.json",
+        "match": lambda p: p.get("tag") == "P034_2" and p["en"].startswith('His great popularity and clear answers'),
+        "tag1": "P034_2", "tag2": "P034_3",
+        "en1": "His great popularity and clear answers made a strong impression. He explained that Charles was his first friend after being released from the Bastille, and that Charles had stayed in England to care for him and Lucie in their exile.",
+        "en2": "He also revealed that, far from being favored by the English government, Charles had actually been tried for his life in London for being a friend to the United States and an enemy to England.",
+        "ko1": "그의 큰 인기와 명확한 답변은 강한 인상을 남겼다. 그는 바스티유 감옥에서 풀려난 후 샤를이 그의 첫 번째 친구였으며, 샤를이 그와 루시가 망명 생활을 할 때 돌보기 위해 영국에 머물렀다고 설명했다.",
+        "ko2": "그는 또한 샤를이 영국 정부의 총애를 받기는커녕, 미국에 우호적이고 영국의 적이라는 이유로 런던에서 생사가 걸린 재판을 받았다는 사실을 밝혔다."
+    },
+    # 10. ch_20.json (Tag: P061_1)
+    {
+        "file": "ch_20.json",
+        "match": lambda p: p.get("tag") == "P061_1" and p["en"].startswith("He wouldn't have stopped then"),
+        "tag1": "P061_1", "tag2": "P061_2",
+        "en1": "He wouldn't have stopped then for anything less than needing to breathe. It felt like a ghostly race that he was desperate to finish. He had a terrifying thought that the coffin he had just seen was chasing him.",
+        "en2": "He pictured it hopping along behind him, standing straight up on its narrow end, always right about to catch him and hop alongside him—maybe even grabbing his arm. It was definitely something he wanted to escape.",
+        "ko1": "그는 숨을 쉬어야 하는 것 말고는 어떤 이유로도 멈추지 않았을 것입니다. 그것은 그가 필사적으로 끝내고 싶었던 유령과의 경주 같았습니다. 그는 방금 본 관이 자신을 쫓아오고 있다는 끔찍한 생각에 사로잡혔습니다.",
+        "ko2": "그는 좁은 끝으로 똑바로 서서 그의 뒤를 깡충깡충 뛰어다니고, 항상 그를 잡을 듯이 옆에서 뛰고, 어쩌면 그의 팔을 잡을지도 모른다고 상상했습니다. 그것은 확실히 그가 벗어나고 싶은 무언가였습니다."
+    },
+    # 11. ch_29.json (Tag: P006_1)
+    {
+        "file": "ch_29.json",
+        "match": lambda p: p.get("tag") == "P006_1" and p["en"].startswith('Lately, as the road-mender worked alone'),
+        "tag1": "P006_1", "tag2": "P006_2",
+        "en1": "Lately, as the road-mender worked alone in the dust, not thinking about life and death, but mostly about how little he had for dinner and how much more he would eat if he could, he would look up and see a rough traveler approaching on foot.",
+        "en2": "Such travelers used to be rare, but now they were a common sight. As the figure came closer, the road-mender was not surprised to see a tall, shaggy-haired man who looked almost wild.",
+        "ko1": "최근에 도로 보수공은 흙먼지 속에서 홀로 일하며 삶과 죽음에 대해서는 생각하지 않고, 주로 저녁 식사가 얼마나 적은지, 할 수만 있다면 얼마나 더 먹을지에 대해 생각하다가 고개를 들어 초라한 여행자가 걸어오는 것을 보곤 했다.",
+        "ko2": "그런 여행자는 드물었지만 이제는 흔한 풍경이 되었다. 그 모습이 가까워짐에 따라, 도로 보수공은 야생인처럼 보이는 털이 수북한 키 큰 남자를 보고도 놀라지 않았다."
+    },
+    # 12. ch_39.json (Tag: P012_4)
+    {
+        "file": "ch_39.json",
+        "match": lambda p: p.get("tag") == "P012_4" and p["en"].startswith("If it were true, which I still don't say"),
+        "tag1": "P012_4", "tag2": "P012_5",
+        "en1": "If it were true, which I still don't say it is (because I won't lie to you, sir), let that boy keep his father's job and take care of his mother. Don't inform on that boy's father—please don't do it, sir.",
+        "en2": "And let that father go into the business of regular grave-digging, so he can make up for what he might have un-dug—if that were true—by digging graves willingly and with a firm belief in keeping them safe in the future.",
+        "ko1": "만약 그것이 사실이라면, 저는 여전히 사실이라고 말하지 않지만(왜냐하면 저는 선생님께 거짓말을 하지 않을 테니까요), 그 아이가 아버지의 직업을 유지하고 어머니를 돌보게 해 주십시오. 그 아이의 아버지를 고발하지 마십시오—제발 그러지 마십시오, 선생님.",
+        "ko2": "그리고 그 아버지가 정식 무덤 파는 일에 종사하게 해 주셔서, 앞으로 기꺼이 그리고 무덤을 안전하게 지키겠다는 확고한 믿음을 가지고 무덤을 파서—만약 그것이 사실이라면—자신이 팠을지도 모르는 것을 만회할 수 있게 해 주십시오."
+    },
+    # 13. ch_40.json (Tag: P022_2)
+    {
+        "file": "ch_40.json",
+        "match": lambda p: p.get("tag") == "P022_2" and p["en"].startswith('Her eyes were wide and wild,'),
+        "tag1": "P022_2", "tag2": "P022_3",
+        "en1": "Her eyes were wide and wild, and she kept screaming and repeating the words, ‘My husband, my father, and my brother!’ She would then count up to twelve and say, ‘Hush!’ For just a second, she would stop to listen, and then the piercing screams would start all over again.",
+        "en2": "She would repeat the cry, ‘My husband, my father, and my brother!’ count to twelve, and say, ‘Hush!’ She never changed the order or the way she said it.",
+        "ko1": "그녀의 눈은 크고 광기가 서려 있었으며, 계속해서 비명을 지르며 ‘내 남편, 내 아버지, 내 오빠!’라는 말을 반복했다. 그러고 나서 열둘까지 센 다음 ‘쉿!’ 하고 말했다. 단 일 초 동안 그녀는 멈추고 귀를 기울였고, 그 후 찢어지는 듯한 비명이 다시 시작되었다.",
+        "ko2": "그녀는 ‘내 남편, 내 아버지, 내 오빠!’라는 절규를 반복하고 열둘을 센 다음 ‘쉿!’이라고 말했다. 그녀는 그것을 말하는 순서나 방식을 결코 바꾸지 않았다."
+    },
+    # 14. ch_28.json (Tag: P025_2)
+    {
+        "file": "ch_28.json",
+        "match": lambda p: p.get("tag") == "P025_2" and p["en"].startswith('Similarly, during two or three hours'),
+        "tag1": "P025_2", "tag2": "P025_3",
+        "en1": "Similarly, during two or three hours of slow talking and sifting through countless words, Madame Defarge's frequent shows of impatience were picked up surprisingly quickly by people far away.",
+        "en2": "This happened easily because certain men had agilely climbed the outside of the building to look in through the windows. These men knew Madame Defarge well and acted as a living telegraph, passing her signals to the crowd outside.",
+        "ko1": "마찬가지로, 두세 시간 동안 느릿한 대화가 이어지고 무수한 말들이 오가는 동안, 마담 드파르지가 자주 보이는 조바심은 멀리 있는 사람들에게 놀라울 정도로 빨리 전해졌다.",
+        "ko2": "어떤 남자들이 창문 안을 들여다보기 위해 날렵하게 건물 밖으로 기어올라갔기 때문에 이런 일이 쉽게 일어날 수 있었다. 이 남자들은 마담 드파르지를 잘 알고 있었고 살아있는 전신기 역할을 하며 군중 밖으로 그녀의 신호를 전달했다."
+    },
+    # 15. ch_10.json (Tag: P003_3)
+    {
+        "file": "ch_10.json",
+        "match": lambda p: p.get("tag") == "P003_3" and p["en"].startswith('While referencing his long years'),
+        "tag1": "P003_3", "tag2": "P003_4",
+        "en1": "While referencing his long years of suffering in prison would always trigger this state, as it had during the trial, it could also happen on its own, casting a shadow over him. To anyone who did not know his story, it was deeply puzzling.",
+        "en2": "It was as if the shadow of the Bastille prison had fallen across him right there in the bright summer sun. The prison itself was hundreds of miles away, but the shadow was very real.",
+        "ko1": "재판 때처럼 감옥에서의 오랜 고통을 언급하는 것은 항상 이런 상태를 유발했지만, 그 자체로도 일어날 수 있었고 그에게 그림자를 드리웠다. 그의 이야기를 모르는 사람에게 그것은 깊이 당혹스러운 일이었다.",
+        "ko2": "마치 바스티유 감옥의 그림자가 바로 그곳, 밝은 여름 햇살 속에 있는 그에게 드리워진 것 같았다. 감옥 자체는 수백 마일 떨어져 있었지만, 그림자는 매우 현실적이었다."
+    },
+    # 16. ch_02.json (Tag: P002_3)
+    {
+        "file": "ch_02.json",
+        "match": lambda p: p.get("tag") == "P002_3" and p["en"].startswith('He walked uphill in the mud beside the mail coach,'),
+        "tag1": "P002_3", "tag2": "P002_4",
+        "en1": "He walked uphill in the mud beside the mail coach, just like the rest of the passengers. They didn't do this because they had any desire for exercise in these conditions, but because the hill, the harness, the mud, and the coach itself were all so heavy.",
+        "en2": "The horses had already stopped three times, and had even once dragged the coach sideways across the road, rebelliously intending to pull it right back to Blackheath.",
+        "ko1": "그는 다른 승객들처럼 우편 마차 옆에서 진흙 속에서 언덕을 걸어 올라갔습니다. 그들은 이런 환경에서 운동하고 싶은 욕구가 있어서가 아니라 언덕, 마구, 진흙, 그리고 마차 자체가 모두 너무 무거웠기 때문에 그렇게 했습니다.",
+        "ko2": "말들은 이미 세 번이나 멈춰 섰고, 한 번은 마차를 길을 가로질러 옆으로 끌고 가 반항적으로 블랙히스까지 곧장 되돌아갈 작정이었습니다."
+    },
+    # 17. ch_30.json (Tag: P089_2)
+    {
+        "file": "ch_30.json",
+        "match": lambda p: p.get("tag") == "P089_2" and p["en"].startswith('He left his two letters with a trusted messenger,'),
+        "tag1": "P089_2", "tag2": "P089_3",
+        "en1": "He left his two letters with a trusted messenger, to be delivered exactly half an hour before midnight and no earlier. Then he took a horse for Dover and began his journey.",
+        "en2": "“For the love of Heaven, of justice, of generosity, and for the honor of your noble name!” was the poor prisoner's cry that he repeated to strengthen his failing courage, as he left everything he loved behind and floated toward the Loadstone Rock.",
+        "ko1": "그는 믿을 수 있는 메신저에게 자정 삼십분 전 정각에, 그보다 이르지 않게 배달해 달라고 두 통의 편지를 맡겼다. 그런 다음 도버로 가는 말을 타고 여행을 시작했다.",
+        "ko2": "하늘과 정의, 관대함, 그리고 귀하의 고귀한 가문 이름의 명예를 걸고! 불쌍한 죄수의 그 외침을 그는 자신이 사랑하는 모든 것을 뒤로 한 채 자석 바위를 향해 떠내려가며 약해지는 용기를 북돋우기 위해 반복했다."
+    },
+    # 18. ch_34.json (Tag: P009_6)
+    {
+        "file": "ch_34.json",
+        "match": lambda p: p.get("tag") == "P009_6" and p["en"].startswith('The preceding relative positions'),
+        "tag1": "P009_6", "tag2": "P009_7",
+        "en1": "The preceding relative positions of himself and Lucie were reversed, yet only as the liveliest gratitude and affection could reverse them, for he could have had no pride but in rendering some service to her who had rendered so much to him.",
+        "en2": "“All curious to see,” thought Mr. Lorry, in his amiably shrewd way, “but all natural and right; so, take the lead, my dear friend, and keep it; it couldn’t be in better hands.”",
+        "ko1": "자신과 루시 사이의 이전 관계는 역전되었으나, 이는 오직 깊은 감사와 애정만이 가져올 수 있는 역전이었다. 자신에게 그토록 많은 것을 베풀어 준 딸에게 도움을 주는 것만이 그의 유일한 자부심이었기 때문이다.",
+        "ko2": "‘참으로 보기 드문 광경이지만,’ 로리 씨는 특유의 상냥하면서도 예리한 태도로 생각했다. ‘모두 자연스럽고 마땅한 일이지. 그러니 앞장서게나, 친애하는 벗이여, 계속 이끌어 나가시게. 이보다 더 믿음직한 손길은 없을 테니.’"
+    },
+    # 19. ch_28.json (Tag: P027_2)
+    {
+        "file": "ch_28.json",
+        "match": lambda p: p.get("tag") == "P027_2" and p["en"].startswith('Defarge had just jumped over a railing'),
+        "tag1": "P027_2", "tag2": "P027_3",
+        "en1": "Defarge had just jumped over a railing and a table to grab the miserable wretch in a deadly hug. Madame Defarge had just followed and twisted her hand into one of the ropes tying him.",
+        "en2": 'The Vengeance and Jacques Three hadn\'t even reached them yet, and the men at the windows hadn\'t yet swooped into the Hall like birds of prey from their high perches, when the cry seemed to echo all over the city: "Bring him out!"',
+        "ko1": "드파르지가 난간과 탁자를 뛰어넘어 비참한 악당을 치명적인 포옹으로 붙잡은 참이었다. 마담 드파르지는 뒤따라와 그를 묶고 있는 밧줄 중 하나에 손을 비틀어 넣었다.",
+        "ko2": '복수의 여신과 자크 3세는 아직 그들에게 도달하지도 않았고, 창문에 있던 남자들도 높은 자리에서 맹금류처럼 홀로 아직 날아들기 전이었는데, 도시 전체에 메아리치는 듯한 외침이 들렸다. "그를 끌어내라!"'
+    },
+    # 20. ch_18.json (Tag: P053)
+    {
+        "file": "ch_18.json",
+        "match": lambda p: p.get("tag") == "P053" and p["en"].startswith('Then Mr. Stryver turned and stormed out'),
+        "tag1": "P053_1", "tag2": "P053_2",
+        "en1": "Then Mr. Stryver turned and stormed out of the bank. He moved with such a blast of air that the two old clerks, bowing behind their counters, had to use all their remaining strength just to stay on their feet.",
+        "en2": "These weak, elderly men were always seen bowing by the public. In fact, people joked that after they bowed a customer out, they just kept bowing in the empty office until they bowed the next one in.",
+        "ko1": "그러고 나서 스트라이버 씨는 돌아서서 은행을 폭풍처럼 빠져나갔다. 그가 어찌나 거센 바람을 일으키며 움직였는지 카운터 뒤에서 허리를 굽히고 있던 두 늙은 점원은 넘어지지 않기 위해 남은 힘을 다 써야만 했다.",
+        "ko2": "이 연약하고 나이 든 남자들은 언제나 대중 앞에서 고개를 숙이고 있는 모습만 보였다. 사실 사람들은 그들이 손님을 배웅하고 나서 다음 손님이 올 때까지 텅 빈 사무실에서 계속 고개를 숙이고 있을 것이라고 농담을 하곤 했다."
+    },
+    # 21. ch_26.json (Tag: P022_3)
+    {
+        "file": "ch_26.json",
+        "match": lambda p: p.get("tag") == "P022_3" and p["en"].startswith('If you can stand having such a worthless guy'),
+        "tag1": "P022_3", "tag2": "P022_4",
+        "en1": "If you can stand having such a worthless guy with a questionable reputation dropping by at random times, I'd like to ask for permission to come and go freely as a privileged guest here.",
+        "en2": "I'd like to be treated like a useless piece of furniture (and I'd say an ugly one, if it weren't for the resemblance I noticed between you and me) that you just keep around out of habit and otherwise completely ignore.",
+        "ko1": "만약 당신이 무작위로 들르는 의심스러운 평판을 가진 그런 쓸모없는 녀석을 견딜 수 있다면, 저는 이곳에서 특권 있는 손님으로서 자유롭게 드나들 수 있는 허락을 요청하고 싶습니다.",
+        "ko2": "저는 당신이 그저 습관적으로 곁에 두고 그 외에는 완전히 무시하는 쓸모없는 가구처럼 (그리고 제가 당신과 나 사이에서 알아차린 유사성이 없었다면 못생긴 가구라고 말했을 것입니다) 취급받고 싶습니다."
+    },
+    # 22. ch_34.json (Tag: P010_3)
+    {
+        "file": "ch_34.json",
+        "match": lambda p: p.get("tag") == "P010_3" and p["en"].startswith("It was as if dragon's teeth had been scattered"),
+        "tag1": "P010_3", "tag2": "P010_4",
+        "en1": "It was as if dragon's teeth had been scattered everywhere and sprouted soldiers equally on hills and plains, on rocky ground, in gravel, and in rich mud.",
+        "en2": "They rose under the bright southern skies and the cloudy northern skies, in wild moors and forests, in vineyards and olive groves, among short grass and leftover cornstalks, along the fertile banks of wide rivers, and in the sand along the seashore.",
+        "ko1": "마치 용의 이빨이 사방에 뿌려져 언덕과 평원, 바위투성이 땅, 자갈밭, 비옥한 진흙 위에서 똑같이 병사들로 싹을 틔운 것 같았다.",
+        "ko2": "그들은 눈부신 남쪽 하늘과 구름 낀 북쪽 하늘 아래에서, 황량한 황무지와 숲, 포도밭과 올리브 숲에서, 짧은 풀밭과 남은 옥수수 줄기 사이에서, 넓은 강가의 비옥한 둑을 따라, 그리고 해변의 모래사장에서 일어났다."
+    },
+    # 23. ch_15.json (Tag: P110_4)
+    {
+        "file": "ch_15.json",
+        "match": lambda p: p.get("tag") == "P110_4" and p["en"].startswith('Already, the road mender had pushed his way'),
+        "tag1": "P110_4", "tag2": "P110_5",
+        "en1": "Already, the road mender had pushed his way into the middle of a group of fifty specific friends, and he was beating himself on the chest with his blue cap. What did all this mean?",
+        "en2": "And what was the meaning of Monsieur Gabelle being quickly hoisted up behind a servant on horseback, and ridden away at a gallop, even though the horse was carrying a double load, like a scene from an old German ballad?",
+        "ko1": "이미 도로 수리공은 오십 명의 지인들 무리 한가운데로 밀고 들어가 파란 모자로 자신의 가슴을 치고 있었다. 이 모든 것이 무슨 의미일까?",
+        "ko2": "그리고 말이 두 배의 짐을 지고 있음에도 불구하고 옛 독일 발라드의 한 장면처럼 가벨 씨가 말을 탄 하인 뒤에 재빨리 올라타 전속력으로 달려간 것은 무슨 의미였을까?"
+    }
+]
+
+# Validation report collector
+validation_report = []
+
+# Group splits by file
+from collections import defaultdict
+splits_by_file = defaultdict(list)
+for s in splits:
+    splits_by_file[s['file']].append(s)
+
+for filename, file_splits in splits_by_file.items():
+    fpath = os.path.join(assets_dir, filename)
+    with open(fpath, encoding='utf-8') as f:
+        data = json.load(f)
+
+    for s in file_splits:
+        found = False
+        for idx, p in enumerate(data):
+            if s['match'](p):
+                # Verify exact character conservation
+                orig_en = p['en']
+                orig_ko = p['ko']
+                recombined_en = s['en1'] + ' ' + s['en2']
+                recombined_ko = s['ko1'] + ' ' + s['ko2']
+
+                # Normalize whitespace for check
+                assert orig_en.split() == recombined_en.split(), f"EN mismatch in {filename} tag {p.get('tag')}"
+                assert orig_ko.split() == recombined_ko.split(), f"KO mismatch in {filename} tag {p.get('tag')}"
+
+                chunk1 = {
+                    "id": 0,
+                    "tag": s['tag1'],
+                    "en": s['en1'],
+                    "ko": s['ko1'],
+                    "is_header": False,
+                    "raw_ref_id": p.get('raw_ref_id', p['id'])
+                }
+                chunk2 = {
+                    "id": 0,
+                    "tag": s['tag2'],
+                    "en": s['en2'],
+                    "ko": s['ko2'],
+                    "is_header": False,
+                    "raw_ref_id": p.get('raw_ref_id', p['id'])
+                }
+
+                data[idx] = chunk1
+                data.insert(idx + 1, chunk2)
+                found = True
+
+                validation_report.append({
+                    "file": filename,
+                    "orig_id": p['id'],
+                    "tag": p.get('tag'),
+                    "orig_len": len(orig_en),
+                    "chunk1_en_len": len(s['en1']),
+                    "chunk1_ko_len": len(s['ko1']),
+                    "chunk2_en_len": len(s['en2']),
+                    "chunk2_ko_len": len(s['ko2']),
+                    "chunk1_en": s['en1'],
+                    "chunk1_ko": s['ko1'],
+                    "chunk2_en": s['en2'],
+                    "chunk2_ko": s['ko2']
+                })
+                break
+        assert found, f"Could not find match for split in {filename}"
+
+    # Renumber sequentially
+    for new_id, p in enumerate(data, 1):
+        p['id'] = new_id
+
+    # Save
+    with open(fpath, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=2)
+    print(f"Updated {filename}: Now {len(data)} paragraphs.")
+
+# Write the validation report file
+with open('split_validation_report.txt', 'w', encoding='utf-8') as out:
+    out.write("VALIDATION REPORT: 23 MULTI-SENTENCE MEGA-PARAGRAPH SPLITS\n")
+    out.write(f"Total candidate paragraphs split: {len(validation_report)}\n")
+    out.write("Invariant check: 100% character and word conservation verified for both EN and KO.\n")
+    out.write("="*80 + "\n\n")
+
+    for i, r in enumerate(validation_report, 1):
+        out.write(f"[{i}] {r['file']} (Tag: {r['tag']}, Original Length: {r['orig_len']} chars)\n")
+        out.write(f"  --> Chunk A ({r['chunk1_en_len']} EN ch / {r['chunk1_ko_len']} KO ch):\n")
+        out.write(f"      EN: {r['chunk1_en']}\n")
+        out.write(f"      KO: {r['chunk1_ko']}\n\n")
+        out.write(f"  --> Chunk B ({r['chunk2_en_len']} EN ch / {r['chunk2_ko_len']} KO ch):\n")
+        out.write(f"      EN: {r['chunk2_en']}\n")
+        out.write(f"      KO: {r['chunk2_ko']}\n")
+        out.write("-" * 80 + "\n\n")
+
+print("SUCCESS: All 23 splits executed and verified! Report written to split_validation_report.txt")

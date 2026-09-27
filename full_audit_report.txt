@@ -1,0 +1,264 @@
+
+======================================================================
+BOOK AUDIT: Two Cities (45 chapters, 6768 paragraphs)
+======================================================================
+--- Character Length Distribution ---
+  500+ chars (Very Long)          :    0 (  0.0%)
+  400-499 chars (Long)            :   47 (  0.7%)
+  350-399 chars (Moderate-Long)   :   32 (  0.5%)
+  300-349 chars (Moderate)        :   92 (  1.4%)
+  200-299 chars (Bite-sized)      :  497 (  7.3%)
+  < 200 chars (Short)             : 6100 ( 90.1%)
+
+--- Sentence Count Distribution ---
+  Paragraphs with 4+ sentences    :   71 (  1.0%)
+
+--- TOP 10 LONGEST PARAGRAPHS ---
+
+[1] ch_39.json ID 175 (Tag: P090)
+    Length: 493 EN chars (85 words), 262 KO chars, 4 sentences
+    EN: "He looked at the lit windows where people were going to sleep, escaping the day's horrors for a few hours. He saw the dark church towers where no one prayed anymore, because the people had rejected religion after years of corrupt priests. He thought of the cemeteries with signs reading "Eternal Sleep," the crowded jails, and the streets where cartloads of people rode to their deaths daily. Walking through this city of death as it quieted down for the night, Carton crossed the river again."
+    KO: "그는 사람들이 몇 시간 동안이나마 그날의 공포에서 벗어나 잠자리에 들려 하는 불 켜진 창문들을 바라보았다. 그는 수년 동안의 타락한 사제들 이후 사람들이 종교를 거부했기 때문에 더 이상 아무도 기도하지 않는 어두운 교회 탑들을 보았다. 그는 "영원한 수면"이라는 팻말이 붙은 공동묘지들, 붐비는 감옥들, 그리고 마차에 실려 죽음을 향해 가는 사람들의 행렬이 매일 지나가는 거리들을 생각했다. 밤을 맞아 고요해져 가는 이 죽음의 도시를 걸으며, 카턴은 다시 강을 건넸다."
+
+[2] ch_28.json ID 69 (Tag: P028_1)
+    Length: 492 EN chars (95 words), 279 KO chars, 5 sentences
+    EN: "Dragged up and down the steps, now on his knees, now on his back, beaten and choked with grass and straw stuffed into his face, the old man begged for mercy. The crowd drew back to watch him struggle. They dragged him to the nearest street corner where a lamp post hung. Madame Defarge let him go like a cat releasing a mouse, watching quietly while they prepared the rope, as he begged her for help. The women screamed at him, and the men called for him to be hanged with grass in his mouth."
+    KO: "계단을 오르내리며 끌려다니고, 때로는 무릎을 꿇거나 등에 업힌 채, 맞고 얼굴에 쑤셔 넣어진 풀과 짚으로 숨이 막혀 늙은이는 자비를 구걸했다. 군중은 그가 발버둥 치는 것을 보려고 뒤로 물러섰다. 그들은 가로등 기둥이 매달려 있는 가장 가까운 길모퉁이로 그를 끌고 갔다. 마담 드파르지는 고양이가 쥐를 놓아주듯 그를 풀어주었고, 그가 도와달라고 애원하는 동안 그들이 밧줄을 준비하는 것을 조용히 지켜보았다. 여자들은 그에게 소리를 질렀고, 남자들은 입에 풀을 물린 채 그를 교수형에 처하라고 외쳤다."
+
+[3] ch_34.json ID 42 (Tag: P012_2)
+    Length: 487 EN chars (82 words), 203 KO chars, 1 sentences
+    EN: "A revolutionary tribunal in the capital, and forty or fifty thousand revolutionary committees all over the land; a law of the Suspected, which struck away all security for liberty or life, and delivered over any good and innocent person to any bad and guilty one; prisons gorged with people who had committed no offence, and could obtain no hearing; these things became the established order and nature of appointed things, and seemed to be ancient usage before they were many weeks old."
+    KO: "수도의 혁명재판소와 전국 각지의 사오만 개에 달하는 혁명위원회, 자유와 생명에 대한 모든 안전장치를 박탈하고 선량하고 무고한 사람을 악하고 죄 있는 자의 손에 넘겨버린 용의자법, 아무런 죄도 짓지 않고 재판조차 받지 못하는 사람들로 가득 찬 감옥들. 이러한 것들이 정해진 일상의 질서이자 본질이 되었고, 불과 몇 주가 지나기도 전에 아주 오래된 관습처럼 여겨졌다."
+
+[4] ch_27.json ID 150 (Tag: P075_2)
+    Length: 486 EN chars (87 words), 231 KO chars, 3 sentences
+    EN: "Saint Antoine's blood was boiling, while the blood of tyranny and cruel control spilled out—down on the steps of the City Hall where the governor's body lay, and down on Madame Defarge's shoe where she had stepped to steady the body while cutting it. "Lower that lamp over there!" yelled the crowd of Saint Antoine, looking for another way to kill. "Here's one of his soldiers to leave on guard!" The dead guard was strung up to swing from the lamppost, and the massive crowd rushed on."
+    KO: "생탕투안의 피가 끓고 있었고, 그동안 폭정과 잔인한 통제의 피가 쏟아져 나왔다. 총독의 시신이 누워 있는 시청 계단으로, 그리고 머리를 베기 위해 몸을 고정시키려 밟고 있던 마담 드파르지의 신발 위로 말이다. "저기 저 가로등을 내려!" 생탕투안의 군중이 또 다른 살인 방법을 찾으며 소리쳤다. "여기 경비를 서게 할 그의 병사가 있다!" 죽은 병사는 가로등에 매달려 흔들거렸고, 거대한 군중은 계속해서 몰려갔다."
+
+[5] ch_28.json ID 50 (Tag: P021_12)
+    Length: 482 EN chars (90 words), 218 KO chars, 4 sentences
+    EN: "Husbands, brothers, and young men, give us the blood of Foulon, give us the head of Foulon, give us the heart of Foulon, give us the body and soul of Foulon! Tear Foulon to pieces, and bury him in the ground so that grass can grow from him! Shouting these cries, many of the women were driven into a blind frenzy. They spun around, striking and scratching at their own friends until they collapsed in an exhausted faint, only saved from being trampled by the men who cared for them."
+    KO: "남편, 형제, 청년들이여, 풀롱의 피를 우리에게 주오, 풀롱의 머리를 우리에게 주오, 풀롱의 심장을 우리에게 주오, 풀롱의 몸과 영혼을 우리에게 주오! 풀롱을 갈기갈기 찢어 땅에 묻어 그에게서 풀이 자라게 하라! 이 외침을 지르며 많은 여성들이 맹목적인 광란에 빠져들었다. 그들은 빙빙 돌며 친구들을 때리고 할퀴다가 지쳐 쓰러졌고, 그들을 돌보는 남자들 덕분에 짓밟히는 것을 간신히 면했다."
+
+[6] ch_05.json ID 7 (Tag: P003_4)
+    Length: 481 EN chars (80 words), 253 KO chars, 3 sentences
+    EN: "Others dipped into the puddles with chipped clay mugs, or even with scarves taken from women's heads, which they squeezed dry into babies' mouths. Some made small mud walls to block the wine as it flowed, while others, directed by neighbors looking out from high windows, ran around to block small streams of wine branching off in new directions. A few focused on the wine-soaked wood from the broken barrel, licking and even chewing the wet, wine-stained fragments with enjoyment."
+    KO: "다른 이들은 이가 빠진 점토 머그잔으로 웅덩이를 떠내거나, 심지어 여자들의 머리에서 풀어낸 스카프를 적셔 아기들의 입에 짜 넣어주기도 했다. 어떤 사람들은 흐르는 와인을 막기 위해 작은 진흙 둑을 만들었고, 높은 창문에서 내다보는 이웃들의 지시를 받아 새롭게 갈라져 나가는 작은 와인 줄기들을 막으려 뛰어다니는 사람들도 있었다. 몇몇은 부서진 통에서 나온 와인에 흠뻑 젖은 나무에 매달려, 와인 얼룩이 진 젖은 나뭇조각들을 핥고 씹으며 즐기기까지 했다."
+
+[7] ch_12.json ID 31 (Tag: P016_3)
+    Length: 475 EN chars (78 words), 234 KO chars, 1 sentences
+    EN: "The arrangement of everything in the rooms, from the largest object to the smallest; the harmony of colors, the elegant variety and contrast achieved through thrift in small things, delicate hands, clear eyes, and good sense—were both so delightful in themselves and so expressive of their creator that, as Mr. Lorry stood looking around, the very chairs and tables seemed to ask him, with something of that distinctive expression he knew so well by now, whether he approved."
+    KO: "가장 큰 물건부터 가장 작은 것에 이르기까지 방 안의 모든 배치는 물론이고, 색상의 조화, 그리고 섬세한 손길과 맑은 눈, 훌륭한 감각으로 자잘한 것들을 알뜰하게 꾸며 얻어낸 우아한 다양성과 대비는 그 자체로 매우 유쾌했을 뿐 아니라 그것을 꾸민 사람의 모습을 고스란히 담아내고 있어서, 로리 씨가 서서 주위를 둘러볼 때 의자와 탁자들조차도 그가 이제는 아주 잘 알고 있는 특유의 표정으로 마음에 드느냐고 묻는 듯했다."
+
+[8] ch_31.json ID 173 (Tag: P097_1)
+    Length: 475 EN chars (73 words), 215 KO chars, 1 sentences
+    EN: "The jailer standing beside him and the other jailers moving about, who would have looked normal enough while performing their ordinary duties, appeared outrageously coarse compared to the grieving mothers and blooming daughters who were there—to the ghostly figures of the flirt, the young beauty, and the delicately raised mature woman—so much so that the total reversal of all normal experience and expectation presented by this shadowy scene was heightened to the extreme."
+    KO: "그의 곁에 서 있는 간수와 주위를 돌아다니는 다른 간수들은 평상시의 직무를 수행할 때라면 겉모습이 그럭저럭 무난해 보였겠지만, 그곳에 있는 슬픔에 잠긴 어머니들과 피어나는 딸들—교태를 부리는 여인, 젊은 미녀, 그리고 고상하게 자란 원숙한 여인의 유령 같은 모습들—과 대조되어 터무니없이 거칠어 보였기에, 그림자 같은 그 광경이 보여 주는 온갖 경험과 상식의 전도는 극에 달해 있었다."
+
+[9] ch_09.json ID 168 (Tag: P072_2)
+    Length: 474 EN chars (81 words), 221 KO chars, 2 sentences
+    EN: "Her brow was painfully tense and anxious as she gave this testimony, and during the pauses when she waited for the judge to write it down, she watched its effect on both the prosecution and the defense counsel. Among the spectators, the same expression was seen throughout the courtroom; so much so that most of their foreheads could have been mirrors reflecting the witness when the judge looked up from his notes to glare at that outrageous heresy about George Washington."
+    KO: "그녀가 이 증언을 하는 동안 그녀의 이마에는 뼈아픈 불안과 긴장감이 서려 있었고, 판사가 기록할 수 있도록 말을 멈춘 사이사이에 변호인과 검사에게 미치는 영향을 살폈다. 방청객들 사이에서도 법정 곳곳에서 똑같은 표정이 나타났다. 판사가 조지 워싱턴에 관한 그 엄청난 이단적 발언에 노기를 띠며 메모에서 고개를 들었을 때, 법정에 모인 대다수의 이마는 마치 증인을 비추는 거울과도 같았을 정도였다."
+
+[10] ch_32.json ID 13 (Tag: P005_1)
+    Length: 467 EN chars (77 words), 247 KO chars, 1 sentences
+    EN: "How much money would henceforth be withdrawn from Tellson’s, and how much would lie there, lost and forgotten; what silver plate and jewels would tarnish in Tellson’s vaults while the depositors languished in prison or violently perished; how many accounts with Tellson’s, never to be settled in this world, would have to be carried over into the next—no man could have said that night, any more than Mr. Jarvis Lorry could, though he pondered these questions deeply."
+    KO: "앞으로 텔슨 은행에서 얼마나 많은 돈이 인출될지, 그리고 얼마나 많은 돈이 잊힌 채 그곳에 방치되어 있을지, 예금주들이 감옥에서 썩어가거나 비참하게 목숨을 잃는 동안 얼마나 많은 은식기와 보석이 텔슨 은행의 비밀 금고 속에서 빛을 잃어갈지, 이 세상에서는 결코 정산되지 못하고 저세상으로 넘어가야 할 텔슨 은행의 계좌가 얼마나 많을지, 그날 밤 자비스 로리 씨가 이 문제들에 대해 깊은 생각에 잠겨 있었지만, 그 누구도 답을 내릴 수 없었다."
+
+======================================================================
+BOOK AUDIT: Dracula (27 chapters, 5327 paragraphs)
+======================================================================
+--- Character Length Distribution ---
+  500+ chars (Very Long)          :   17 (  0.3%)
+  400-499 chars (Long)            :  138 (  2.6%)
+  350-399 chars (Moderate-Long)   :  184 (  3.5%)
+  300-349 chars (Moderate)        :  345 (  6.5%)
+  200-299 chars (Bite-sized)      : 1362 ( 25.6%)
+  < 200 chars (Short)             : 3281 ( 61.6%)
+
+--- Sentence Count Distribution ---
+  Paragraphs with 4+ sentences    :    0 (  0.0%)
+
+--- TOP 10 LONGEST PARAGRAPHS ---
+
+[1] ch_14.json ID 217 (Tag: P100-6)
+    Length: 657 EN chars (129 words), 228 KO chars, 3 sentences
+    EN: "Can you tell me why, when other spiders die small and quickly, that one giant spider lived for centuries in the tower of the old Spanish church and grew and grew until, when it climbed down, it could drink the oil from all the church lamps? Can you tell me why in the Pampas, and elsewhere, there are bats that come at night, open the veins of cattle and horses, and suck them dry? How in some islands of the Western seas there are bats that hang in the trees all day, looking like giant nuts or pods, and when sailors sleep on the deck because it's hot, they flutter down on them, and in the morning, the men are found dead, as white as even Miss Lucy was?"
+    KO: "팜파스를 비롯한 다른 곳에 왜 밤마다 찾아와 소와 말의 정맥을 열고 피를 빨아먹는 박쥐가 있는지 말해 줄 수 있습니까? 서쪽 바다의 어떤 섬들에는 박쥐들이 하루 종일 나무에 매달려 있는데, 그것을 본 사람들은 거대한 견과류나 꼬투리 같다고 묘사합니다. 선원들이 너무 더워 갑판에서 잠을 잘 때면 그 박쥐들이 내려앉고, 아침이 되면 선원들이 미스 루시처럼 하얗게 변한 채 죽어 있는 이유를 설명할 수 있습니까?"
+
+[2] ch_14.json ID 220 (Tag: P102-1)
+    Length: 590 EN chars (113 words), 303 KO chars, 3 sentences
+    EN: "Can you tell me why the tortoise lives longer than generations of men, why the elephant lives on until it has seen dynasties fall, and why the parrot never dies except from the bite of a cat or dog or some other illness? Can you tell me why men in all ages and places have believed that there are a few who can live forever if they are allowed, that there are men and women who cannot die? We all know—because science has verified the fact—that there have been toads sealed in rocks for thousands of years, trapped in holes so small that they just fit them since the beginning of the world."
+    KO: "왜 거북이가 인간의 여러 세대보다 더 오래 사는지, 왜 코끼리가 왕조가 무너지는 것을 볼 때까지 계속 살아가는지, 왜 앵무새는 고양이나 개에게 물리거나 다른 병에 걸리지 않는 한 죽지 않는지 말해 줄 수 있습니까? 왜 모든 시대와 장소의 사람들이, 허락만 받는다면 영원히 살 수 있는 소수의 사람들과 절대 죽지 않는 남녀가 존재한다고 믿는지 말해 줄 수 있습니까? 우리는 모두 과학이 그 사실을 증명했기 때문에, 세상이 생겨날 때부터 자신에게 딱 맞는 작은 구멍에 갇혀 수천 년 동안 바위 속에 갇혀 있던 두꺼비가 있다는 것을 알고 있습니다."
+
+[3] ch_13.json ID 234 (Tag: P103d)
+    Length: 576 EN chars (91 words), 273 KO chars, 3 sentences
+    EN: "He added that if our newspaper's satirical cartoonists saw the scene firsthand, they could capture a bizarre irony within the dizzying gap between reality and imagination. The fact that the 'beautiful lady' has undeniably emerged as a popular role in the kids' impromptu outdoor plays might just be due to the shallow human nature of following trends. The correspondent joked aimlessly that seeing the dirt-covered kids acting alluringly with their wild imaginations, not even the greatest actress of our time, Ellen Terry, could pull off such a cute and charming performance."
+    KO: "그는 우리 신문사의 풍자 화가들이 현장을 직접 본다면 현실과 상상의 아찔한 간극 속에서 기괴한 아이러니를 포착해 낼 수 있을 거라 덧붙였다. 꼬마들의 즉흥적인 야외 연극에서 '아름다운 숙녀'가 단연 인기 배역으로 떠오른 건 그저 유행을 좇는 인간의 얄팍한 본성 때문일지도 모른다. 통신원은 흙먼지를 뒤집어쓴 꼬마들이 제멋대로 상상하며 요염하게 행세하는 꼴을 보아하니, 아무리 당대 최고의 여배우 엘렌 테리라 한들 저토록 앙증맞고 매력적인 연기를 펼치지는 못할 거라며 실없는 농담을 던졌다."
+
+[4] ch_07.json ID 11 (Tag: P006d-1)
+    Length: 559 EN chars (86 words), 253 KO chars, 3 sentences
+    EN: "Before the sun completely disappeared behind the towering black cliffs of Kettleness in the western sky, the sunset painted the clouds with brilliant golds, flames, purples, pinks, greens, and violets. Amidst these colors, small but pitch-black masses of clouds drifted in various shapes, drawing clear silhouettes. This intense scenery naturally caught the attention of painters, and surely a few sketches titled 'Prelude to a Great Storm' will decorate the exhibition walls of the Royal Academy and the Royal Institute of Painters in Water Colours next May."
+    KO: "해가 서쪽 하늘에 우뚝 솟은 케틀니스의 검은 암벽 너머로 자취를 감추기 전, 저녁놀은 불꽃과 자주, 분홍, 초록, 보라 등 찬란한 금빛으로 구름을 수놓았다. 그 사이사이로 작지만 칠흑같이 어두운 구름 덩어리들이 뚜렷한 실루엣을 그리며 다양한 형태로 떠다녔다. 이 강렬한 풍경은 당연히 화가들의 눈길을 사로잡았고, '대폭풍의 서곡'이라는 제목이 붙을 법한 스케치 몇 점은 틀림없이 내년 5월 영국 왕립미술원과 왕립수채화협회의 전시실 벽을 장식하게 되리라."
+
+[5] ch_13.json ID 233 (Tag: P103c)
+    Length: 554 EN chars (93 words), 273 KO chars, 3 sentences
+    EN: "Because the first child to go missing stated, "A beautiful lady coaxed me to go for a walk and I followed her," the local people assume that the other children simply overheard that plausible excuse and are mimicking it exactly. Considering that a game of deceiving each other with brazen lies is currently in full swing among the little ones, such adult speculation is not unreasonable. According to a message sent by our correspondent, the sight of muddy little brats scrambling over one another to play-act as the 'beautiful lady' is quite ridiculous."
+    KO: "첫 번째로 실종되었던 아이가 "아름다운 숙녀가 산책을 가자고 꼬드겨서 따라갔다"고 진술한 까닭에, 동네 사람들은 다른 아이들 역시 그 그럴싸한 변명을 주워듣고 고스란히 흉내 내는 것이라 지레짐작하고 있다. 요즘 코흘리개들 사이에서 뻔뻔한 거짓말로 서로를 속여 넘기는 놀이가 한창 유행이라는 점을 떠올리면, 이런 어른들의 추측도 무리는 아니다. 본지 통신원이 보내온 전언에 따르면, 흙투성이 꼬마 녀석들이 서로 앞다투어 '아름다운 숙녀' 흉내를 내며 노는 광경이 퍽이나 우스꽝스럽다고 한다."
+
+[6] ch_27.json ID 207 (Tag: P062a)
+    Length: 552 EN chars (90 words), 288 KO chars, 2 sentences
+    EN: "The leader roughly yanked his reins to ride forward, then screamed something incomprehensible, pointing at the sun half-set behind the mountain peak, and then pointing at the castle behind them. In response to that arrogant threat, our four men leaped off their horses simultaneously and rushed madly toward the wagon carrying the chest. I should have felt heart-stopping terror seeing my beloved Jonathan jump into such a reckless death trap, but bizarrely enough, at that moment, the hot blood of battle was boiling inside me just like the other men."
+    KO: "우두머리가 거칠게 고삐를 당겨 말을 앞으로 몰고 나오더니, 산봉우리 너머로 반쯤 넘어간 태양을 가리키고 이어서 뒤편의 성을 가리키며 알아들을 수 없는 말로 무어라 악을 썼습니다. 그 거만한 협박에 대한 대답으로, 우리 측 네 남자는 일제히 말에서 뛰어내려 궤짝이 실린 마차를 향해 미친듯이 돌진했습니다. 사랑하는 조나단이 그런 무모한 사지로 뛰어드는 것을 보며 심장이 멎을 듯한 공포를 느껴야 마땅했지만, 참으로 기이하게도 그 순간 내 안에서는 다른 남자들과 다를 바 없는 뜨거운 전투의 피가 끓어오르고 있었습니다."
+
+[7] ch_13.json ID 80 (Tag: P037b)
+    Length: 545 EN chars (90 words), 234 KO chars, 3 sentences
+    EN: "The undertaker, unable to discard his occupational habits, had displayed the funeral supplies as if showing them off, and that uniquely gloomy atmosphere weighed heavily on our hearts as soon as we entered the room. Professor Van Helsing instructed to restore it to the state we had decorated it in the night before, saying that keeping only the last image of his fiancée would slightly ease the grief of Lord Godalming, who would arrive soon. The undertaker, feeling awkward about his tactless behavior, hurriedly began to clear the items away."
+    KO: "장의사는 제 직업병을 버리지 못하고 장례용품들을 한껏 과시하듯 진열해 두었는데, 그 특유의 음산한 분위기는 방에 들어서자마자 우리 마음을 한없이 무겁게 짓눌렀다. 반 헬싱 교수는 약혼녀의 마지막 모습만 오롯이 눈에 담는 편이 곧 도착할 고달밍 경의 슬픔을 조금이나마 덜어줄 거라며, 전날 밤 우리가 꾸며둔 상태로 되돌려 놓으라고 지시했다. 장의사는 자신의 눈치 없는 행동에 머쓱해하며 허둥지둥 물건들을 치우기 시작했다."
+
+[8] ch_27.json ID 109 (Tag: P030)
+    Length: 542 EN chars (89 words), 265 KO chars, 3 sentences
+    EN: "We stayed awake like that until the red hue of dawn seeped through the snow-covered, ashen twilight. We were completely isolated, gripped by bone-chilling fear, sorrow, and terrible terror, but when the dazzling sun finally began to peek over the horizon, we felt the relief of being alive again. As the first light of dawn illuminated the snow, those terrible figures melted away vainly into the swirling snow and fog, and the transparent, ghost-like shapes scattered away toward the castle in the distance and soon vanished without a trace."
+    KO: "우리는 눈 덮인 잿빛 어스름 사이로 새벽의 붉은 기운이 스며들 때까지 그 상태로 뜬눈으로 밤을 새웠다. 철저히 고립된 채 뼛속까지 파고드는 두려움과 비통함, 그리고 끔찍한 공포에 사로잡혀 있었지만, 마침내 지평선 너머로 눈부신 태양이 고개를 내밀기 시작하자 비로소 다시 살아있다는 안도감을 느꼈다. 첫 새벽빛이 눈밭을 비추자 그 끔찍한 형상들은 소용돌이치는 눈과 안개 속으로 허무하게 녹아내렸고, 투명한 유령 같은 형체들은 저 멀리 성을 향해 흩어지더니 이내 자취를 감췄다."
+
+[9] ch_24.json ID 63 (Tag: P018c)
+    Length: 539 EN chars (98 words), 200 KO chars, 3 sentences
+    EN: "I told the party: I said that for hundreds of years, he has been plotting this terrible plan to abandon his barren homeland where even the smell of blood is hard to catch, and cross over to a new land densely packed with life like a cornfield. If another vampire like the Count had tried to commit this crazy act, probably no amount of long years in the past or future of the world would have been able to help him. Only this bastard has miraculously accomplished this task by gathering profound, powerful, and mysterious forces of nature."
+    KO: "만약 백작과 같은 또 다른 흡혈귀가 이 미친 짓을 벌이려 했다면, 아마 세상의 과거와 미래를 통틀어 그 어떤 오랜 세월도 놈을 도와주지는 못했을 겁니다. 오직 이놈만이 심오하고 막강하며 신비로운 자연의 힘들을 끌어모아 기적처럼 이 일을 해냈습니다. 그놈이 수백 년 동안 언데드로 살아온 그 저주받은 장소 자체가 지질학적으로나 화학적으로 몹시 기이한 곳이지요."
+
+[10] ch_13.json ID 75 (Tag: P035c)
+    Length: 530 EN chars (92 words), 219 KO chars, 2 sentences
+    EN: "Since the mother passed away before the daughter, the daughter would naturally have inherited the property, and even if the daughter had stayed alive just five minutes longer than the mother, she would have passed away without a will—as there was no time to leave a will in those circumstances—and the property would have lost its owner and been left floating in thin air. If that had happened, no matter how close Lord Godalming (Arthur Holmwood) was to the lady, he would be legally a stranger and couldn't claim a single penny."
+    KO: "어머니가 딸보다 먼저 세상을 떴으니 자연스레 딸이 재산을 물려받았을 테고, 딸이 어머니보다 단 5분만 더 숨을 붙어 있었더라도 유언장 하나 없이—그 경황에 유언장을 남길 턱이 없었으니—세상을 떠난 셈이 되어, 그 재산은 주인을 잃고 허공에 뜰 뻔했으니까요. 그리되었다면 고달밍 경(아서 홈우드)이 아무리 부인과 각별한 사이였다 한들 법적으로는 남남이니 단돈 한 푼도 주장할 수 없었을 겁니다."
+
+======================================================================
+BOOK AUDIT: Frankenstein (28 chapters, 1743 paragraphs)
+======================================================================
+--- Character Length Distribution ---
+  500+ chars (Very Long)          :   42 (  2.4%)
+  400-499 chars (Long)            :  105 (  6.0%)
+  350-399 chars (Moderate-Long)   :  118 (  6.8%)
+  300-349 chars (Moderate)        :  185 ( 10.6%)
+  200-299 chars (Bite-sized)      :  543 ( 31.2%)
+  < 200 chars (Short)             :  750 ( 43.0%)
+
+--- Sentence Count Distribution ---
+  Paragraphs with 4+ sentences    :  211 ( 12.1%)
+
+--- TOP 10 LONGEST PARAGRAPHS ---
+
+[1] ch_05.json ID 19 (Tag: P007-3)
+    Length: 650 EN chars (116 words), 340 KO chars, 2 sentences
+    EN: "I was their plaything and their idol, and something even better—their child, a pure and helpless creature given to them by heaven, destined to be raised toward goodness by their hands, whose future fate would turn to happiness or misery depending on how they fulfilled their duties to me. With this deep awareness of what they owed to the being they had given life to, combined with the active spirit of gentle love that animated them both, one can easily imagine that even while I was taught patience, kindness, and self-control every hour of my childhood, I was guided by such a soft silken cord that it all felt like one long continuous joy to me."
+    KO: "나는 그들의 장난감이요 우상이었으며, 그보다 더 나은 존재, 즉 하늘이 그들에게 내려준 순결하고 무력한 피조물이자, 그들의 손에 의해 선으로 자라나고, 그들이 내게 의무를 어떻게 다하느냐에 따라 미래의 운명이 행복이나 불행으로 향할 수 있는 그들의 아이였다. 그들이 생명을 준 존재에 대해 빚진 것이 무엇인지에 대한 이 깊은 인식과, 두 사람을 생동하게 한 부드러운 사랑의 활동적 정신이 더해졌으니, 내 유년 시절의 매 시간마다 인내와 자비, 절제의 가르침을 받으면서도 나는 그토록 부드러운 비단 줄에 이끌려 내게는 그 모든 것이 하나의 기나긴 즐거움의 연속으로 여겨졌을 것임을 능히 상상할 수 있을 것이다."
+
+[2] ch_01.json ID 8 (Tag: P004-4)
+    Length: 645 EN chars (113 words), 338 KO chars, 3 sentences
+    EN: "There I might discover the wondrous power that attracts the compass needle, or figure out thousands of rules for celestial observation that will make seemingly bizarre phenomena forever consistent—something that can only be done through this voyage. I will satisfy my passionate curiosity by gazing upon a part of the world that has never been visited before, and I might step on land untouched by human feet. These are the things that tempt me, and they are enough to conquer all fear of danger or death, making me begin this hard voyage with the joy a child feels when exploring up his hometown river in a small boat with friends on a holiday."
+    KO: "저는 그곳에서 나침반의 바늘을 끌어당기는 경이로운 힘을 발견할지도 모르고, 이 항해를 통해서만 겉보기에 기이해 보이는 현상들을 영원히 일관된 것으로 만들어줄 수천 가지 천체 관측의 규칙을 찾아낼지도 모릅니다. 저는 이전에 단 한 번도 방문한 적 없는 세계의 일부를 바라보며 저의 열렬한 호기심을 충족시킬 것이고, 인간의 발길이 한 번도 닿지 않은 땅을 밟게 될지도 모릅니다. 이것들이 바로 저를 유혹하는 것들이며, 위험이나 죽음에 대한 모든 두려움을 정복하고, 휴일에 친구들과 함께 작은 배를 타고 고향 강을 거슬러 탐험에 나서는 아이가 느끼는 기쁨으로 이 고된 항해를 시작하게 하기에 충분한 것들입니다."
+
+[3] ch_07.json ID 36 (Tag: P017-1)
+    Length: 618 EN chars (112 words), 327 KO chars, 7 sentences
+    EN: "These were the professor's words. I should rather say they were the words of fate declared to destroy me. As he kept talking, I felt as if my soul were wrestling with a tangible enemy. The various keys that made up the machinery of my being were pressed one by one, chord after chord rang out, and soon my mind was filled with one thought, one idea, one purpose. So much has been accomplished, the soul of Frankenstein cried out. I will achieve more, far more. Stepping in the footprints already left behind, I will pioneer a new path, explore unknown powers, and reveal the deepest mysteries of creation to the world."
+    KO: "이것이 교수의 말이었다. 차라리 나를 파멸시키기 위해 선언된 운명의 말이었다고 해두자. 그가 말을 이어감에 따라 나는 내 영혼이 실체가 있는 적과 격투를 벌이는 것처럼 느꼈다. 내 존재의 메커니즘을 형성하는 다양한 건반들이 하나씩 눌러졌고, 화음이 연이어 울려 퍼지더니, 곧 내 마음은 하나의 생각, 하나의 개념, 하나의 목적들로 가득 찼다. 그토록 많은 것이 이루어졌구나, 프랑켄슈타인의 영혼이 외쳤다. 나는 더, 훨씬 더 많은 것을 이룩할 것이다. 이미 남겨진 발자취를 딛고, 나는 새로운 길을 개척하고, 미지의 힘을 탐구하며, 창조의 가장 깊은 신비들을 세상에 펼쳐 보일 것이다."
+
+[4] ch_26.json ID 59 (Tag: P033-1)
+    Length: 601 EN chars (115 words), 305 KO chars, 4 sentences
+    EN: "In the meantime, I took all precautions to protect my body in case the monster attacked me openly. I carried a pistol and a dagger with me at all times and was always on guard to prevent any tricks, and thanks to these methods, I was able to gain greater peace of mind. In fact, as the time approached, the threat began to look more like a kind of delusion that was not worth breaking my peace. On the other hand, the happiness I hoped for through marriage took on a greater sense of certainty as the set date approached, and I constantly heard it talked about as an event that no accident could stop."
+    KO: "그동안 나는 악마가 공개적으로 나를 공격할 경우에 대비하여 내 몸을 지키기 위한 모든 예방책을 취했다. 나는 권총과 단검을 항상 지니고 다녔고 술책을 방지하기 위해 언제나 경계를 늦추지 않았으며, 이러한 방법들 덕분에 더 큰 평정을 얻을 수 있었다. 사실 그 시기가 다가올수록 그 위협은 내 평화를 깨뜨릴 가치가 없는 일종의 망상처럼 보이기 시작했다. 반면 결혼을 통해 내가 바라던 행복은 그것이 거행되기로 정해진 날짜가 다가올수록 더 큰 확신의 모습을 띠었고, 나는 그것이 어떤 사고로도 막을 수 없는 사건처럼 끊임없이 이야기되는 것을 들었다."
+
+[5] ch_26.json ID 64 (Tag: P036-2)
+    Length: 601 EN chars (103 words), 274 KO chars, 3 sentences
+    EN: "The sun was hot, but we enjoyed the beauty of the surrounding scenery while blocking the beating sunlight with a kind of cover. At one point, on one side of the lake, we saw Mount Salève and the pleasant banks of Montalègre, and far away, soaring above everything, the beautiful Mont Blanc and the group of snow-covered mountains vainly trying to compete with it. Sometimes we sailed along the shore on the opposite side and saw the magnificent Jura Mountains showing their dark side as an almost insurmountable barrier to ambitions of leaving the homeland and to invaders trying to enslave this land."
+    KO: "태양은 뜨거웠지만 우리는 일종의 덮개로 내리쬐는 햇빛을 피하면서 주변 풍경의 아름다움을 즐겼다. 한때는 호수의 한쪽 편에서 살레브 산과 몽탈레그르의 쾌적한 둔치를 보았고, 멀리 모든 것을 굽어보며 솟아 있는 아름다운 몽블랑과 그와 겨루려 헛되이 애쓰는 눈 덮인 산맥들의 무리를 보았다. 때로는 반대쪽 기슭을 따라 연안을 항해하며 웅장한 쥐라 산맥이 그 어두운 옆구리를 조국을 떠나려는 야심과, 이 땅을 노예로 만들고자 하는 침략자에게 거의 넘을 수 없는 장벽으로 내세우고 있는 것을 보았다."
+
+[6] ch_20.json ID 32 (Tag: P012-2)
+    Length: 598 EN chars (99 words), 276 KO chars, 3 sentences
+    EN: "When I thought of my friends, De Lacey's gentle voice, Agatha's affectionate eyes, and the Arabian's outstanding beauty, these thoughts disappeared and pouring tears somewhat soothed me. But when the thought returned that they had driven me out and abandoned me, anger, a rage of anger, returned, and since I could not hurt any human, I turned my fury to inanimate objects. As the night deepened, I placed various flammable materials around the cottage, and after destroying all traces of cultivation in the garden, I waited with forced impatience until the moon set and I could start my operation."
+    KO: "내 친구들, 드 라세의 온화한 목소리, 아가사의 다정한 눈빛, 아라비아인의 뛰어난 아름다움을 생각할 때면 이러한 생각들이 사라지고 쏟아지는 눈물이 나를 다소 달래주었습니다. 하지만 그들이 나를 쫓아내고 버렸다는 생각이 다시 들면 분노가, 분노의 격노가 돌아왔고 어떤 인간도 다치게 할 수 없었던 나는 무생물들에게 내 분노를 돌렸습니다. 밤이 깊어지자 오두막 주변에 다양한 가연물을 배치했고, 정원의 모든 경작의 흔적을 파괴한 후 달이 지고 작전을 시작할 때까지 억지스런 조바심으로 기다렸습니다."
+
+[7] ch_25.json ID 81 (Tag: P046-2)
+    Length: 585 EN chars (103 words), 312 KO chars, 3 sentences
+    EN: "I would get soaked in a gloomy joy, or be seized by an intense, terrible homesickness wishing to see the blue lake and the rushing Rhone River that I loved so much in my childhood one more time. However, my overall emotional state was lethargy, so a prison was as welcome a dwelling as the most sacred landscape of nature, and this lethargy was rarely broken except when fits of agony and despair occurred. In these moments I often tried to end this existence that I despised, and constant nursing and surveillance were required to prevent me from committing horrific acts of violence."
+    KO: "때때로 나는 진정 행복을 바랐고, 사랑하는 사촌을 떠올리며 우울한 기쁨에 젖기도 했으며, 혹은 어린 시절 그토록 사랑했던 푸른 호수와 급류하는 론 강을 다시 한 번 보고 싶다는 강렬한 지독한 향수병에 사로잡히기도 했다. 하지만 나의 전반적인 감정 상태는 무기력함이어서, 감옥도 자연의 가장 신성한 풍경만큼이나 환영받을 만한 거처였고, 이러한 무기력은 고뇌와 절망의 발작이 일어날 때를 제외하고는 좀처럼 깨지지 않았다. 이런 순간에 나는 종종 내가 혐오하는 이 존재를 끝내고자 애썼고, 내가 끔찍한 폭력 행위를 저지르지 않도록 끊임없는 간호와 감시가 필요했다."
+
+[8] ch_13.json ID 11 (Tag: P005-3)
+    Length: 583 EN chars (99 words), 266 KO chars, 3 sentences
+    EN: "When everything around me was peaceful, and I was the only anxious being wandering restlessly in such a beautiful, heavenly landscape—except for perhaps a bat or the harsh, broken croaking of frogs that could only be heard when approaching the shore—I was often seized by an impulse. I was often overwhelmed by the urge to plunge into the silent water of the lake, so that the water would cover me and my disasters forever. However, I suppressed that impulse whenever I thought of the heroic, suffering Elizabeth, whom I deeply loved and whose existence was intertwined with my life."
+    KO: "주변의 모든 것이 평화로운데, 이토록 아름답고 천상 같은 풍경 속에서 쉴 새 없이 방황하는 불안한 존재는 나 하나뿐일 때—해변에 다가갈 때만 들려오는 거칠고 뚝뚝 끊기는 개구리 울음소리나 박쥐 정도를 제외한다면—나는 종종 충동에 사로잡혔다. 호수의 고요한 물속으로 뛰어들어, 물이 나와 내 재앙을 영원히 덮어버리게 하고 싶은 충동에 종종 휩싸였다. 하지만, 내가 깊이 사랑했고 그 존재가 내 삶과 얽혀 있는 영웅적이고 고통받는 엘리자베스를 떠올리면 그 충동을 억누르게 되었다."
+
+[9] ch_18.json ID 20 (Tag: P013-2)
+    Length: 576 EN chars (103 words), 273 KO chars, 3 sentences
+    EN: "The fact that his blind and elderly father and his gentle sister were lying in a stinking dungeon while he enjoyed the free air and companionship with the woman he loved. This thought was torture to him. He immediately agreed with the Turkish man that if the Turkish man found a favorable opportunity to escape before Felix returned to Italy, Safie would remain as a boarder at a convent in Livorno, and leaving the lovely Arabian behind, he quickly hurried back to Paris to turn himself in to the vengeance of the law, hoping to free De Lacey and Agatha through this process."
+    KO: "그가 사랑하는 그녀와 함께 자유로운 공기와 교제를 즐기는 동안 그의 눈멀고 늙은 아버지와 온화한 누이가 악취 나는 지하 감옥에 누워있다는 사실. 이 생각은 그에게 고문이었습니다. 그는 즉시 터키인과 협의하여 만약 펠릭스가 이탈리아로 돌아오기 전에 터키인이 탈출할 유리한 기회를 찾는다면 사피는 리보르노의 수녀원 하숙인으로 남기로 했고, 사랑스러운 아라비아인을 뒤로한 채 그는 즉시 파리로 서둘러 돌아가 법의 복수 앞에 자수하며 이 과정으로 드 라세와 아가사를 자유롭게 하기를 희망했습니다."
+
+[10] ch_19.json ID 16 (Tag: P006-4)
+    Length: 575 EN chars (99 words), 309 KO chars, 4 sentences
+    EN: "I felt the greatest passion for virtue and a disgust for vice rising within me, at least as far as I understood the meaning of those terms—even though when I applied them, they related only to pleasure and pain. Drawn by these feelings, I naturally came to respect peaceful lawmakers like Numa, Solon, and Lycurgus over Romulus and Theseus. My protectors' patriarchal life made these impressions take a firm hold in my mind. Perhaps if the first human I had met was a young soldier thirsty for glory and slaughter, I would have been filled with completely different emotions."
+    KO: "나는 내가 이해하는 그 용어들의 의미—비록 내가 그것들을 적용할 때는 오직 쾌락과 고통에만 관련되어 있었지만—에 한해서, 미덕에 대한 가장 큰 열정과 악덕에 대한 혐오감이 내 안에서 솟아오르는 것을 느꼈습니다. 이러한 감정들에 이끌려 나는 자연스럽게 로물루스나 테세우스보다 누마, 솔론, 리쿠르구스와 같은 평화로운 입법자들을 존경하게 되었습니다. 내 보호자들의 족장 중심적 삶은 이러한 인상들이 내 마음에 확고히 자리 잡게 만들었습니다. 아마도 내가 처음 만난 인간이 영광과 학살에 목마른 젊은 군인이었다면, 나는 전혀 다른 감정으로 물들었을 것입니다."
+
+======================================================================
+BOOK AUDIT: Secret Garden (27 chapters, 3074 paragraphs)
+======================================================================
+--- Character Length Distribution ---
+  500+ chars (Very Long)          :    1 (  0.0%)
+  400-499 chars (Long)            :   11 (  0.4%)
+  350-399 chars (Moderate-Long)   :   36 (  1.2%)
+  300-349 chars (Moderate)        :   74 (  2.4%)
+  200-299 chars (Bite-sized)      :  477 ( 15.5%)
+  < 200 chars (Short)             : 2475 ( 80.5%)
+
+--- Sentence Count Distribution ---
+  Paragraphs with 4+ sentences    :   12 (  0.4%)
+
+--- TOP 10 LONGEST PARAGRAPHS ---
+
+[1] ch_24.json ID 76 (Tag: P047)
+    Length: 514 EN chars (87 words), 328 KO chars, 3 sentences
+    EN: "He resolved to eat less, but unfortunately, it was impossible to carry out this brilliant idea. Every morning, he woke up with a ravenous appetite, and the table near his sofa was set with a breakfast of homemade bread, fresh butter, snow-white eggs, raspberry jam, and clotted cream. Mary always had breakfast with him, and when they sat down at the table—especially if there were thin slices of sizzling ham sending tempting aromas from under a hot silver cover—they would look into each other's eyes in despair."
+    KO: "그는 음식을 덜 먹기로 결심했으나, 불행히도 이 기발한 아이디어를 실천하는 것은 불가능했다. 아침마다 그는 무시무시한 허기를 느끼며 잠에서 깼고, 소어비 부인이 챙겨 준 신선한 우유와 빵을 배불리 먹은 뒤에도 저택에 돌아오면 테이블에는 집에서 구운 빵과 신선한 버터, 눈처럼 하얀 달걀, 라즈베리 잼, 그리고 클로티드 크림이 곁들여진 아침 식사가 매번 완벽하게 차려졌기 때문이다. 메리는 늘 그와 함께 아침을 먹었는데, 테이블 앞에 마주 앉아 뜨거운 은 식기 덮개 아래로 군침 도는 냄새를 풍기며 지글지글 익은 얇은 햄 조각을 마주할 때면 두 아이는 절망적인 눈빛으로 서로를 바라보았다."
+
+[2] ch_23.json ID 41 (Tag: P030-4)
+    Length: 452 EN chars (81 words), 236 KO chars, 3 sentences
+    EN: "A mole pushing up its mound at the end of its tunnel, finally emerging with its long-clawed paws that looked like tiny elf hands, had kept him fascinated for an entire morning. The ways of ants, beetles, bees, frogs, birds, and plants gave him a new world to explore. And when Dickon revealed them all, adding the ways of foxes, otters, ferrets, squirrels, trout, water rats, and badgers, there was no end to the things they could talk and think about."
+    KO: "터널 끝자락에 흙더미를 밀어 올리다 마침내 조그만 요정의 손처럼 생긴 길쭉한 발톱을 드러내며 튀어나온 두더지는 아침 내내 그의 마음을 사로잡았다. 개미, 딱정벌레, 벌, 개구리, 새, 그리고 식물들의 살아가는 방식은 그에게 탐험해야 할 새로운 세상을 열어 주었다. 게다가 디콘이 여우, 수달, 족제비, 다람쥐, 송어, 물쥐, 오소리의 생태까지 더해 이 모든 세상을 보여주자, 그들이 이야기하고 생각할 거리에는 끝이 없었다."
+
+[3] ch_09.json ID 5 (Tag: P002-4)
+    Length: 451 EN chars (82 words), 217 KO chars, 3 sentences
+    EN: "Still, their thin gray and brown branches looked like a hazy mantle spreading over everything—the walls, the trees, and even the brown grass where the vines had fallen and run along the ground. It was this hazy tangle from tree to tree that made everything look so mysterious. Mary had thought it would be different from other gardens that had not been left alone for so long, and indeed, it was different from any place she had ever seen in her life."
+    KO: "하지만 회색과 갈색빛을 띤 가느다란 가지들은 벽과 나무, 그리고 덩굴이 흘러내려 땅바닥을 기어 다니는 갈색 잔디 위까지, 모든 것 위로 뿌연 장막을 넓게 드리운 듯했다. 나무와 나무 사이를 연결하는 이 뿌연 뒤엉킴 때문에 모든 것이 그토록 신비롭게 보였다. 오랫동안 버려져 있었으니 보통의 정원들과는 다를 것이라 짐작하긴 했지만, 정말이지 메리가 평생 보아온 그 어떤 곳과도 전혀 달랐다."
+
+[4] ch_17.json ID 50 (Tag: P034-1)
+    Length: 435 EN chars (82 words), 244 KO chars, 2 sentences
+    EN: "No one but Colin knew what a powerful effect those cross, childish words had on him. If he had ever had anyone to talk to about his secret terrors—if he had ever dared to ask questions—if he had had other children to play with, instead of lying on his back in the huge, closed house, surrounded by the fears of people who were mostly ignorant and tired of him, he would have realized that most of his fear and illness was self-created."
+    KO: "짓궂고 어린애 같은 메리의 투덜거림이 콜린에게 얼마나 커다란 위안이 되었는지는 오직 그 자신만이 알았다. 만약 콜린이 가슴 깊이 품어둔 은밀한 공포를 털어놓을 상대가 있었더라면, 감히 질문이라도 던질 용기가 있었더라면, 굳게 닫힌 거대한 저택에서 무지하고 그에게 넌더리가 난 사람들의 불안에 둘러싸여 누워 지내는 대신 함께 뛰놀 다른 아이들이 있었더라면, 그는 제 두려움과 병의 대부분이 스스로 만들어 낸 허상임을 진작 깨달았을 것이다."
+
+[5] ch_08.json ID 7 (Tag: P003-1)
+    Length: 432 EN chars (80 words), 229 KO chars, 3 sentences
+    EN: "Living almost entirely by herself in a house with a hundred mysteriously closed rooms, with nothing to do to pass the time, had started her inactive brain working and was actually waking up her imagination. There was no doubt that the fresh, strong, pure air from the moor had a lot to do with it. Just as the air had given her a healthy appetite, and fighting the wind had stirred her blood, these same things had stirred her mind."
+    KO: "신비롭게 닫힌 방이 백 개나 되는 저택에서 거의 온전히 혼자 지내며 소일거리도 없이 시간을 보내다 보니, 그동안 둔해져 있던 메리의 두뇌가 작동하기 시작했고 상상력이 실제로 깨어나고 있었다. 황야에서 불어오는 신선하고 강렬하며 맑은 공기가 큰 몫을 책임졌음이 틀림없었다. 공기가 메리에게 건강한 식욕을 돋워 주고, 거센 바람과 맞서 싸우며 혈액 순환이 활발해진 것처럼, 이 모든 것들이 메리의 정신을 일깨웠다."
+
+[6] ch_27.json ID 53 (Tag: P023-2)
+    Length: 413 EN chars (81 words), 212 KO chars, 3 sentences
+    EN: "When he finally woke up, it was a brilliant morning, and a servant was standing there, staring at him. He was an Italian servant, and like all the villa's staff, he was used to accepting without question any strange thing his foreign master might do. No one ever knew when Mr. Craven would go out or come in, where he would choose to sleep, or if he would roam the garden or lie in the boat on the lake all night."
+    KO: "마침내 눈을 떴을 때는 눈부신 아침이었고, 한 하인이 서서 그를 빤히 쳐다보고 있었다. 그는 이탈리아인 하인으로, 이 별장의 모든 직원들이 그러하듯 외국인 주인이 행하는 기이한 행동들을 아무런 질문 없이 당연하게 받아들이는 데 익숙해져 있었다. 크레이븐 씨가 언제 나가고 들어오는지, 어디서 잠을 청하는지, 밤새 정원을 거닐거나 호수 위의 배에 누워 지내는지 아무도 알지 못했다."
+
+[7] ch_26.json ID 60 (Tag: P035-1)
+    Length: 412 EN chars (72 words), 217 KO chars, 3 sentences
+    EN: "The door in the ivy-covered wall had been pushed gently open, and a woman had entered. She had come in during the last line of their song and stood still, listening and watching them. With the ivy behind her, the sunlight filtering through the trees and dappling her long blue cloak, and her fresh, pleasant face smiling across the greenery, she looked like a softly colored illustration in one of Colin's books."
+    KO: "담쟁이덩굴로 덮인 담장의 문이 부드럽게 밀려 열리더니, 한 여성이 들어섰다. 그녀는 노래의 마지막 소절이 울려 퍼질 때 들어와 가만히 서서 아이들을 바라보며 귀를 기울이고 있었다. 뒤로는 담쟁이덩굴이 우거져 있고, 나뭇가지 사이로 부서지는 햇살이 그녀의 파란 외투에 아른거렸으며, 풀밭 너머로 온화하고 싱그러운 얼굴로 미소 짓는 모습이 마치 콜린의 책에 나오는 은은한 색채의 삽화 같았다."
+
+[8] ch_14.json ID 134 (Tag: P105-1)
+    Length: 408 EN chars (73 words), 216 KO chars, 3 sentences
+    EN: "It was the absolute best thing she could have said. Talking about Dickon meant talking about the moor, the cottage, and the fourteen people who lived in it on sixteen shillings a week. It meant talking about the children who grew chubby on the fresh moor air just like the wild ponies, and about Dickon’s mother, the skipping rope, the sunlit moor, and the tiny green shoots pushing up through the dark soil."
+    KO: "그것은 메리가 할 수 있는 가장 훌륭한 처방이었다. 디콘에 대해 이야기하는 것은 곧 황무지와 오두막집, 그리고 일주일에 16실링으로 살아가는 열네 식구에 대해 이야기하는 것을 의미했다. 황무지의 야생 망아지들처럼 맑은 공기를 듬뿍 마시며 포동포동하게 자라는 아이들, 디콘의 어머니, 줄넘기, 햇빛이 내리쬐는 황무지, 그리고 어두운 흙을 뚫고 솟아나는 파릇파릇한 새싹들에 관한 이야기였다."
+
+[9] ch_16.json ID 12 (Tag: P010-1)
+    Length: 408 EN chars (79 words), 204 KO chars, 3 sentences
+    EN: "The little fox and the rook were just as happy and busy as they were, and the robin and his mate flew back and forth like tiny streaks of lightning. Sometimes the rook flapped his black wings and soared away over the treetops in the park. Each time he came back, he perched near Dickon and cawed several times as if he were sharing his adventures, and Dickon talked to him just as he had talked to the robin."
+    KO: "아기 여우와 떼까마귀도 아이들만큼이나 행복하고 분주했으며, 붉은가슴울새와 그 짝은 마치 작은 번개 줄기처럼 이리저리 날아다녔다. 가끔 떼까마귀는 검은 날개를 펄럭이며 공원의 나무 꼭대기 너머로 날아오르기도 했다. 녀석은 돌아올 때마다 디콘 곁에 앉아 마치 자신의 모험담을 들려주듯 여러 번 까악까악 울었고, 디콘은 붉은가슴울새에게 속삭이듯 떼까마귀에게 말을 건넸다."
+
+[10] ch_15.json ID 80 (Tag: P047)
+    Length: 406 EN chars (72 words), 196 KO chars, 3 sentences
+    EN: "The secret garden was full of joy that morning, but then came the greatest delight of all, because it was so wonderful. Something flew quickly over the wall and darted through the trees to a thick, overgrown corner—a little flash of a red-breasted bird with something hanging from its beak. Dickon stood completely still and put his hand on Mary's arm, warning her as if they were in a quiet, sacred place."
+    KO: "그날 아침 비밀의 화원은 기쁨으로 가득 차 있었지만, 곧이어 가장 멋진 기쁨이 찾아왔다. 무언가가 담장을 훌쩍 넘어 나무들 사이를 뚫고 수풀이 우거진 모퉁이로 빠르게 날아갔는데, 부리에 뭔가를 물고 있는 붉은 가슴을 가진 작은 새의 날갯짓이었다. 디콘은 완전히 동작을 멈추고 마치 조용하고 신성한 장소에 있는 것처럼 조심스레 메리의 팔에 손을 얹었다."

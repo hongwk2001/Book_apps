@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Secret Garden: 빴밀의 화원</string>
+    <string name="app_name">Secret Garden: 비밀의 화원</string>
     <string name="app_name_en">Secret Garden</string>
     <string name="app_name_ko">비밀의 화원</string>
     <string name="iap_product_id">com.tkprof.secretgarden.full</string>

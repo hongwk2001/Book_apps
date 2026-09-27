@@ -1,0 +1,138 @@
+INDEX | ID | EN TEXT | CURRENT KO TEXT
+================================================================================
+[18] ID 19 (P008_1):
+  EN: On a humid, misty afternoon, Mr. Lorry sat at his desk, and Charles Darnay stood leaning against it, speaking with him in a low voice.
+  KO: 후텁지근하고 안개 낀 어느 오후, 로리 씨는 책상에 앉아 있었고, 찰스 다네이는 책상에 기댄 채 낮은 목소리로 그와 이야기를 나누고 있었다.
+
+[19] ID 20 (P008_3):
+  EN: The gloomy room once used for private meetings was now packed with people exchanging news.
+  KO: 마감 시간 약 삼십 분 전이었다.
+
+[20] ID 21 (P008_4):
+  EN: It was about half an hour before closing time.
+  KO: “선생님께서 세상에서 가장 젊고 활기찬 분이시긴 하지만,” 찰스 다네이가 약간 머뭇거리며 말했다. “그래도 선생님께 제안을 하나 드려야겠습니다, ”
+
+[21] ID 22 (P009):
+  EN: “Even though you are the most youthful-spirited man alive,” Charles Darnay said, hesitating a bit, “I still have to suggest to you, ”
+  KO: “이해하네.
+
+[22] ID 23 (P010_1):
+  EN: “I understand.
+  KO: 자네는 내가 너무 늙었다고 생각하는 거지?” 로리 씨가 말했다.
+
+[23] ID 24 (P010_2):
+  EN: "That I am too old?" said Mr. Lorry.
+  KO: "내가 너무 늙었다는 말인가?" 로리 씨가 말했다.
+
+[24] ID 25 (P011):
+  EN: “Bad weather, a long journey, unreliable transport, a chaotic country, and a city that might not even be safe for you.”
+  KO: “친애하는 찰스,”
+
+[25] ID 26 (P012_1):
+  EN: "My dear Charles," said Mr. Lorry with cheerful confidence, "you are mentioning some of the reasons for me to go, not for staying away.
+  KO: "친애하는 찰스," 로리 씨가 유쾌한 자신감을 보이며 말했다. "자네가 말한 것들은 내가 가야 할 이유이지, 가지 말아야 할 이유가 아니라네.
+
+[26] ID 27 (P012_3):
+  EN: I will be safe enough. No one will bother an old man of nearly eighty when there are so many other people worth targeting.
+  KO: 혼란에 관해서라면, 도시가 혼란스럽지 않다면, 우리는 그곳의 상황과 사업을 알고 있으며 텔슨 은행이 완전히 신뢰하는 사람을 런던 본사에서 파리 지점으로 보낼 필요가 없을 거네.
+
+[27] ID 28 (P012_4):
+  EN: As for the chaos, if the city weren't chaotic, we wouldn't need to send someone from our London office to our Paris branch who knows the place and the business, and whom Tellson's trusts completely.
+  KO: 힘든 여행, 긴 여정, 그리고 겨울 날씨에 관해서라면, 지난 그 모든 세월을 텔슨 은행을 위해 일한 내가 약간의 고난을 기꺼이 마주하지 않는다면, 누가 해야겠는가?”
+
+[28] ID 29 (P012_5):
+  EN: As for the difficult travel, the long journey, and the winter weather, if I am not willing to face a few hardships for Tellson's after all these years, who should be?”
+  KO: “제가 직접 갔으면 좋겠습니다,” 찰스 다네이가 마음의 소리를 내뱉듯 불안하게 말했다.
+
+[29] ID 30 (P013):
+  EN: “I wish I were going myself,” Charles Darnay said restlessly, as if thinking aloud.
+  KO: “정말인가!
+
+[30] ID 31 (P014_1):
+  EN: “Really!
+  KO: 불평하고 조언을 하다니 자네 참 대단하네!” 미스터
+
+[31] ID 32 (P014_2):
+  EN: "You are a fine one to object and give advice!" exclaimed Mr. Lorry. "Do you wish you were going yourself?
+  KO: "반대하고 충고할 처지가 아니잖나!" 로리 씨가 외쳤다. "자네가 직접 가고 싶기라도 한 건가?
+
+[32] ID 33 (P014_4):
+  EN: A born Frenchman?
+  KO: 자네야말로 참으로 현명한 조언자군!”
+
+[33] ID 34 (P014_5):
+  EN: You are a very wise adviser indeed!”
+  KO: “나의 친애하는
+
+[34] ID 35 (P015_1):
+  EN: "My dear Mr. Lorry, it is because I was born a Frenchman that the thought (which I didn't mean to speak aloud here, though) has often crossed my mind.
+  KO: "친애하는 로리 씨, 비록 여기서 입 밖에 낼 생각은 아니었지만, 제가 태생이 프랑스인이기 때문에 그런 생각이 자주 머릿속을 스쳤던 것입니다.
+
+[35] ID 36 (P015_3):
+  EN: Having felt sympathy for the poor people and having given up my property to them,” he spoke thoughtfully, “I cannot help but think that they might listen to me. I might be able to persuade them to show some mercy.
+  KO: 어젯밤, 선생님께서 떠나신 후, 저는 루시와 대화하고 있었습니다, ”
+
+[36] ID 37 (P015_4):
+  EN: Only last night, after you left, I was talking to Lucie, ”
+  KO: “루시와 대화했다고,” 미스터
+
+[37] ID 38 (P016_1):
+  EN: "When you were talking to Lucie," Mr. Lorry repeated. "Yes.
+  KO: "루시에게 이야기할 때라고," 로리 씨가 되풀이했다. "그래.
+
+[38] ID 39 (P016_3):
+  EN: I'm surprised you're not ashamed to mention her name while wishing you were going to France at a time like this!”
+  KO: “음, 저는 가지 않습니다,” 찰스 다네이가 미소를 지으며 말했다. “선생님께서 가시는 것이 더 중요합니다.”
+
+[39] ID 40 (P017):
+  EN: “Well, I am not going,” Charles Darnay said with a smile. “It is more important that you are.”
+  KO: “그리고 나는 정말 갈 거라네.
+
+[40] ID 41 (P018_1):
+  EN: “And I really am.
+  KO: 사실을 말하자면, 친애하는 찰스,” 미스터
+
+[41] ID 42 (P018_2):
+  EN: "The truth is, my dear Charles," Mr. Lorry glanced at the distant bank partners and lowered his voice, "you can have no conception of the difficulty with which our business is conducted, and of the peril in which our books and papers over there are involved.
+  KO: "실상은 말이네, 친애하는 찰스," 로리 씨는 멀찍이 있는 동업자들을 흘끗 바라보고 목소리를 낮추었다. "자네는 그곳에서 우리의 업무가 얼마나 어렵게 처리되고 있는지, 그리고 저곳에 있는 우리의 장부와 서류들이 얼마나 큰 위험에 처해 있는지 상상조차 못할 걸세.
+
+[42] ID 43 (P018_4):
+  EN: God only knows what terrible trouble it would cause for many people if our documents were seized or destroyed. And that could happen at any moment, who knows if Paris will be set on fire today or looted tomorrow!
+  KO: 지금, 지체 없이 중요한 서류들을 조심스럽게 골라내어 묻거나 달리 안전한 곳으로 옮기는 것은, 소중한 시간을 낭비하지 않고는 나 말고는 할 수 있는 사람이 거의 없는 일이네.
+
+[43] ID 44 (P018_5):
+  EN: Now, carefully choosing the important papers right away, and burying them or otherwise getting them out of harm's way, is something that hardly anyone but me can do without wasting precious time.
+  KO: 텔슨 은행이 나를 필요로 할 때, 육십 년 동안 내게 급여를 준 텔슨 은행을, 단지 내 관절이 조금 뻣뻣하다는 이유로 거절해야 한단 말인가?
+
+[44] ID 45 (P018_6):
+  EN: Should I refuse, when Tellson's needs me, Tellson's, who has paid my salary for sixty years, just because my joints are a little stiff?
+  KO: 뭐, 여기서 일하는 노인들 절반에 비하면 나는 어린아이나 다름없네!”
+
+[45] ID 46 (P018_7):
+  EN: Why, I'm a boy compared to half the old men working here!”
+  KO: “선생님의 그 젊음의 용기에 진심으로 감탄했습니다, 미스터
+
+[46] ID 47 (P019_1):
+  EN: "How I admire the gallantry of your youthful spirit, Mr. Lorry."
+  KO: "로리 씨의 젊은 기백과 용기가 참으로 감탄스럽습니다."
+
+[47] ID 48 (P020_1):
+  EN: “Nonsense, sir!
+  KO: 그리고, 친애하는 찰스,” 미스터
+
+[48] ID 49 (P020_2):
+  EN: "Nonsense, sir! And, my dear Charles," said Mr. Lorry, glancing toward the partners again, "you must remember that getting anything out of Paris right now, no matter what it is, is next to impossible.
+  KO: "당치도 않네, 여보게! 그리고 친애하는 찰스," 로리 씨는 다시 동업자들을 바라보며 말했다. "지금 당장은 그것이 무엇이든 파리 밖으로 빼내는 것이 거의 불가능에 가깝다는 점을 기억해야 하네.
+
+[49] ID 50 (P020_4):
+  EN: Just today, papers and valuables were brought to us here, I tell you this in strict confidence, as it's not professional to gossip, even to you, by the strangest messengers, who were in constant danger of losing their heads as they crossed the borders.
+  KO: 바로 오늘, 서류와 귀중품들이 이곳으로 전달되었어. 자네에게조차 잡담을 하는 것은 전문가답지 않은 일이라 극비로 말하는 것이지만, 국경을 넘으며 목숨을 잃을 뻔한 끊임없는 위험에 처했던 아주 기묘한 전령들을 통해서 말이지.
+
+[50] ID 51 (P020_5):
+  EN: Normally, our mail would come and go as easily as in England, but now, everything is blocked.”
+  KO: 평소라면 우편물이 영국에서처럼 쉽게 오갔겠지만, 지금은 모든 것이 막혀 있다네.”
+
+[51] ID 52 (P021):
+  EN: “And are you really leaving tonight?”
+  KO: “그런데 정말 오늘 밤에 떠나시는 겁니까?”
+

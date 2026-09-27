@@ -1,0 +1,636 @@
+TOTAL PARAGRAPHS OVER 300 CHARACTERS IN TWO CITIES: 105
+  400 - 499 chars (Long)          : 13
+  350 - 399 chars (Moderate-Long) : 0
+  301 - 349 chars (Moderate)      : 92
+================================================================================
+
+[1] ch_34.json ID 46 (Tag: P012_2)
+    Length: 487 EN chars (82 words), 203 KO chars, 1 sentences
+    EN: A revolutionary tribunal in the capital, and forty or fifty thousand revolutionary committees all over the land; a law of the Suspected, which struck away all security for liberty or life, and delivered over any good and innocent person to any bad and guilty one; prisons gorged with people who had committed no offence, and could obtain no hearing; these things became the established order and nature of appointed things, and seemed to be ancient usage before they were many weeks old.
+    KO: 수도의 혁명재판소와 전국 각지의 사오만 개에 달하는 혁명위원회, 자유와 생명에 대한 모든 안전장치를 박탈하고 선량하고 무고한 사람을 악하고 죄 있는 자의 손에 넘겨버린 용의자법, 아무런 죄도 짓지 않고 재판조차 받지 못하는 사람들로 가득 찬 감옥들. 이러한 것들이 정해진 일상의 질서이자 본질이 되었고, 불과 몇 주가 지나기도 전에 아주 오래된 관습처럼 여겨졌다.
+--------------------------------------------------------------------------------
+
+[2] ch_12.json ID 32 (Tag: P016_3)
+    Length: 475 EN chars (78 words), 234 KO chars, 1 sentences
+    EN: The arrangement of everything in the rooms, from the largest object to the smallest; the harmony of colors, the elegant variety and contrast achieved through thrift in small things, delicate hands, clear eyes, and good sense—were both so delightful in themselves and so expressive of their creator that, as Mr. Lorry stood looking around, the very chairs and tables seemed to ask him, with something of that distinctive expression he knew so well by now, whether he approved.
+    KO: 가장 큰 물건부터 가장 작은 것에 이르기까지 방 안의 모든 배치는 물론이고, 색상의 조화, 그리고 섬세한 손길과 맑은 눈, 훌륭한 감각으로 자잘한 것들을 알뜰하게 꾸며 얻어낸 우아한 다양성과 대비는 그 자체로 매우 유쾌했을 뿐 아니라 그것을 꾸민 사람의 모습을 고스란히 담아내고 있어서, 로리 씨가 서서 주위를 둘러볼 때 의자와 탁자들조차도 그가 이제는 아주 잘 알고 있는 특유의 표정으로 마음에 드느냐고 묻는 듯했다.
+--------------------------------------------------------------------------------
+
+[3] ch_31.json ID 174 (Tag: P097_1)
+    Length: 475 EN chars (73 words), 215 KO chars, 1 sentences
+    EN: The jailer standing beside him and the other jailers moving about, who would have looked normal enough while performing their ordinary duties, appeared outrageously coarse compared to the grieving mothers and blooming daughters who were there—to the ghostly figures of the flirt, the young beauty, and the delicately raised mature woman—so much so that the total reversal of all normal experience and expectation presented by this shadowy scene was heightened to the extreme.
+    KO: 그의 곁에 서 있는 간수와 주위를 돌아다니는 다른 간수들은 평상시의 직무를 수행할 때라면 겉모습이 그럭저럭 무난해 보였겠지만, 그곳에 있는 슬픔에 잠긴 어머니들과 피어나는 딸들—교태를 부리는 여인, 젊은 미녀, 그리고 고상하게 자란 원숙한 여인의 유령 같은 모습들—과 대조되어 터무니없이 거칠어 보였기에, 그림자 같은 그 광경이 보여 주는 온갖 경험과 상식의 전도는 극에 달해 있었다.
+--------------------------------------------------------------------------------
+
+[4] ch_32.json ID 13 (Tag: P005_1)
+    Length: 467 EN chars (77 words), 247 KO chars, 1 sentences
+    EN: How much money would henceforth be withdrawn from Tellson’s, and how much would lie there, lost and forgotten; what silver plate and jewels would tarnish in Tellson’s vaults while the depositors languished in prison or violently perished; how many accounts with Tellson’s, never to be settled in this world, would have to be carried over into the next—no man could have said that night, any more than Mr. Jarvis Lorry could, though he pondered these questions deeply.
+    KO: 앞으로 텔슨 은행에서 얼마나 많은 돈이 인출될지, 그리고 얼마나 많은 돈이 잊힌 채 그곳에 방치되어 있을지, 예금주들이 감옥에서 썩어가거나 비참하게 목숨을 잃는 동안 얼마나 많은 은식기와 보석이 텔슨 은행의 비밀 금고 속에서 빛을 잃어갈지, 이 세상에서는 결코 정산되지 못하고 저세상으로 넘어가야 할 텔슨 은행의 계좌가 얼마나 많을지, 그날 밤 자비스 로리 씨가 이 문제들에 대해 깊은 생각에 잠겨 있었지만, 그 누구도 답을 내릴 수 없었다.
+--------------------------------------------------------------------------------
+
+[5] ch_12.json ID 70 (Tag: P045_1)
+    Length: 446 EN chars (77 words), 219 KO chars, 1 sentences
+    EN: Mr. Lorry knew Miss Pross was very jealous, but by this time he also knew that beneath the surface of her eccentricity, she was one of those selfless beings—found only among women—who, out of pure love and admiration, willingly bind themselves as slaves to youth when they have lost their own, to beauty they never had, to accomplishments they were never fortunate enough to gain, and to bright hopes that never shone upon their own somber lives.
+    KO: 로리 씨는 프로스 양이 질투심이 매우 강하다는 것을 알고 있었지만, 이 무렵에는 그녀의 기벽 아래에—오직 여성에게서만 발견되는—순수한 사랑과 헌신으로 자신은 이미 잃어버린 젊음에, 한 번도 가져보지 못한 아름다움에, 얻을 행운을 누리지 못했던 재능에, 그리고 자신의 어두운 삶에는 한 번도 비치지 않았던 밝은 희망에 기꺼이 스스로를 얽매어 종이 되는 이타적인 존재라는 사실 또한 알고 있었다.
+--------------------------------------------------------------------------------
+
+[6] ch_24.json ID 83 (Tag: P038_3)
+    Length: 438 EN chars (78 words), 188 KO chars, 1 sentences
+    EN: Together with Miss Pross, he took immediate steps toward this second precaution by letting it be known that the Doctor was unwell and needed a few days of complete rest. To help with the well-intentioned deception for his daughter, Miss Pross was to write to her, explaining that he had been called away for work and mentioning a fictional note of two or three rushed lines in his own handwriting, supposedly sent to her in the same mail.
+    KO: 프로스 양과 함께 그는 의사의 몸이 좋지 않아 며칠간 절대적인 안정이 필요하다는 소문을 내어 후자의 예방 조치를 즉시 취했다. 그리고 딸에게 베풀 선의의 거짓말을 돕기 위해, 프로스 양은 의사가 진료 업무로 급히 불려 나갔다고 적고, 같은 우편으로 그녀에게 보낸 것으로 꾸며낸 그가 직접 급히 쓴 서너 줄의 가상 편지를 언급하기로 했다.
+--------------------------------------------------------------------------------
+
+[7] ch_36.json ID 94 (Tag: P042_1)
+    Length: 424 EN chars (75 words), 191 KO chars, 1 sentences
+    EN: After grasping the Doctor’s hand, as he stood victorious and proud before him; after grasping the hand of Mr. Lorry, who came panting in breathless from his struggle against the waterspout of the Carmagnole; after kissing little Lucie, who was lifted up to clasp her arms round his neck; and after embracing the ever zealous and faithful Pross who lifted her; he took his wife in his arms, and carried her up to their rooms.
+    KO: 자신 앞에 당당하고 의기양양하게 서 있는 박사의 손을 잡고, 카르마뇰 춤의 거센 소용돌이 속을 뚫고 나오느라 헐떡이며 숨이 찬 로리 씨의 손을 쥐고, 자신의 목에 팔을 감을 수 있도록 안아 올려진 어린 루시에게 입을 맞추고, 아이를 들어 올려 준 언제나 열성적이고 충직한 프로스를 껴안은 후, 그는 아내를 품에 안고 자신들의 방으로 올라갔다.
+--------------------------------------------------------------------------------
+
+[8] ch_20.json ID 179 (Tag: P081_3)
+    Length: 423 EN chars (80 words), 228 KO chars, 1 sentences
+    EN: “Be careful to develop your talents, and never say any more than you can help to anybody, and there’s no telling right now what you may not become fit for.” As Young Jerry, thus encouraged, went on a few yards ahead to place the stool in the shadow of Temple Bar, Mr. Cruncher added to himself: “Jerry, you honest tradesman, there’s hope that that boy will yet be a blessing to you, and a recompense to you for his mother!”
+    KO: “네 재능을 부지런히 갈고닦고, 누구에게든 꼭 필요한 말 외에는 입도 벙긋하지 않도록 조심해라. 그러면 훗날 네가 얼마나 대단한 인물이 될지 지금은 알 수 없는 법이지.” 이렇게 용기를 얻은 어린 제리가 템플 바의 그늘 아래에 의자를 놓으려고 몇 걸음 앞서 걸어가자, 크런처 씨는 혼잣말로 덧붙였다. “제리, 이 정직한 상인아, 저 아이가 네게 축복이 되고 어미 대신 보상이 되어 줄 거라는 희망이 있구나!”
+--------------------------------------------------------------------------------
+
+[9] ch_40.json ID 6 (Tag: P003_2)
+    Length: 414 EN chars (77 words), 226 KO chars, 1 sentences
+    EN: Hope has completely departed from my breast. I know from terrible warnings I have noted in myself that my reason will not long remain unimpaired, but I solemnly declare that I am at this time in full possession of my right mind—that my memory is exact and detailed—and that I write the truth as I shall answer for these my last recorded words, whether they be ever read by men or not, at the Eternal Judgment Seat.
+    KO: 내 가슴속에서 희망은 완전히 사라졌다. 내 스스로 감지한 끔찍한 징조들로 미루어 볼 때 내 이성이 온전하게 오래 유지되지 못하리라는 것을 안다. 그러나 나는 지금 이 순간만큼은 온전한 정신을 유지하고 있으며, 내 기억이 정확하고 상세하다는 사실을 엄숙히 선언한다. 그리고 인간들이 이 글을 읽든 읽지 못하든, 영원한 심판대 앞에서 내가 기록한 이 마지막 말들에 대해 증언해야 하기에 오직 진실만을 적는다.
+--------------------------------------------------------------------------------
+
+[10] ch_13.json ID 39 (Tag: P008_1)
+    Length: 413 EN chars (67 words), 197 KO chars, 1 sentences
+    EN: Besides these fanatics, there were three others who had joined a different sect that resolved matters with mystical jargon about "the Center of Truth." They held that Man had strayed from the Center of Truth—which required little proof—but had not yet escaped its Circumference, and that he must be kept from flying beyond this perimeter and even pushed back into the Center through fasting and spiritual visions.
+    KO: 이들 광신도들 외에도 또 다른 종파에 뛰어든 세 사람이 있었는데, 그 종파는 '진리의 중심'에 관한 횡설수설로 문제를 얼버무렸다. 그들은 인간이 진리의 중심에서 벗어났으나—이는 굳이 증명할 필요도 없었지만—그 원주 밖으로까지 벗어난 것은 아니며, 단식과 영혼과의 접신을 통해 원주 밖으로 날아가지 못하게 막고 중심부로 다시 밀어 넣어야 한다고 주장했다.
+--------------------------------------------------------------------------------
+
+[11] ch_04.json ID 76 (Tag: P033_1)
+    Length: 411 EN chars (75 words), 181 KO chars, 1 sentences
+    EN: The darkness was so thick that Mr. Lorry, picking his way carefully across the worn Turkish carpet, assumed Miss Manette was in an adjacent room for a moment—until, having walked past the two tall candles, he saw a young lady of no more than seventeen standing to receive him by the table between the candles and the fire, wearing a riding cloak and still holding her straw travel hat by its ribbon in her hand.
+    KO: 어둠이 너무 짙어 낡은 터키산 카펫 위를 조심스레 걸어가던 로리 씨는 마네트 양이 이웃한 방에 있겠거니 생각했으나, 기다란 촛대 두 개를 지나치자 촛불과 벽난로 불길 사이의 탁자 옆에 열일곱 살을 넘지 않아 보이는 젊은 숙녀가 승마 망토를 입고 끈 달린 밀짚 여행 모자를 손에 쥔 채 그를 맞이하려고 서 있는 모습이 보였다.
+--------------------------------------------------------------------------------
+
+[12] ch_34.json ID 57 (Tag: P015_1)
+    Length: 410 EN chars (73 words), 218 KO chars, 1 sentences
+    EN: Among these terrors, and the brood belonging to them, the Doctor walked with a steady head: confident in his power, cautiously persistent in his end, never doubting that he would save Lucie’s husband at last. Yet the current of the time swept by, so strong and deep, and carried the time away so fiercely, that Charles had lain in prison one year and three months when the Doctor was thus steady and confident.
+    KO: 이러한 공포와 그에 수반되는 수많은 비극 속에서도 박사는 흔들림 없이 나아갔다. 자신의 영향력을 확신하고, 조심스러우면서도 끈기 있게 목적을 추구하며, 마침내 루시의 남편을 구해낼 것임을 결코 의심치 않았다. 그러나 시대의 흐름은 너무나 거세고 깊게 휘몰아쳐 맹렬하게 시간을 앗아갔기에, 박사가 그렇게 확고하고 자신감에 차 있는 동안 찰스는 이미 일 년 세 달 동안이나 감옥에 갇혀 있었다.
+--------------------------------------------------------------------------------
+
+[13] ch_04.json ID 222 (Tag: P095_1)
+    Length: 400 EN chars (69 words), 212 KO chars, 1 sentences
+    EN: Mr. Lorry was so exceedingly flustered by a question so hard to answer that he could only look on from a distance with much meeker sympathy and humility, while the strong woman—having banished the inn servants under the mysterious threat of “letting them know” a thing or two if they stayed staring—gradually revived her charge step by step and coaxed her to rest her drooping head upon her shoulder.
+    KO: 로리 씨는 대답하기 몹시 곤란한 질문에 너무나 당황한 나머지, 훨씬 주눅 든 동정과 겸손의 눈길로 멀찍이 떨어져 지켜볼 수밖에 없었다. 그 사이 억척스러운 여인은 멍하니 서서 쳐다보는 여관 하인들에게 계속 버티고 있으면 '맛 좀 보여주겠다'는 모호한 위협을 가해 내쫓고는, 차근차근 단계적으로 아가씨의 정신을 차리게 한 뒤 축 늘어진 그녀의 머리를 자신의 어깨에 기대도록 달랬다.
+--------------------------------------------------------------------------------
+
+[14] ch_22.json ID 197 (Tag: P118_1)
+    Length: 348 EN chars (62 words), 175 KO chars, 2 sentences
+    EN: In the evening, when the people of Saint Antoine came out to sit on their doorsteps, window-ledges, and street corners just to get a breath of fresh air, Madame Defarge would walk from group to group with her knitting. She acted like a dark missionary, spreading her message—one of many like her, whom the world would do well never to create again.
+    KO: 저녁이 되어 생탕투안 사람들이 신선한 공기를 마시러 문간, 창턱, 길모퉁이에 나와 앉았을 때, 마담 드파르지는 뜨개질을 하며 무리에서 무리로 걸어 다니곤 했다. 그녀는 어두운 선교사처럼 행동하며 자신의 메시지를 퍼뜨렸는데, 그녀는 세상이 결코 다시 만들어내지 않는 편이 좋을 그녀와 같은 많은 사람들 중 하나였다.
+--------------------------------------------------------------------------------
+
+[15] ch_05.json ID 26 (Tag: P007_5)
+    Length: 347 EN chars (62 words), 187 KO chars, 5 sentences
+    EN: Hunger hung out of the tall houses in the tattered clothes drying on poles. Hunger was patched into the windows with straw, rags, wood, and paper. Hunger was seen in the tiny scraps of firewood the man sawed. Hunger stared down from the smokeless chimneys. It rose from the filthy streets, where there wasn't even a scrap of discarded food to eat.
+    KO: 굶주림은 장대에서 마르고 있는 누더기 옷들에 배어 높은 집들에 매달려 있었다. 굶주림은 밀짚, 헝겊, 나무, 그리고 종이로 창문에 기워져 있었다. 굶주림은 남자가 톱질하는 아주 작은 땔감 조각들에서도 보였다. 굶주림은 연기 나지 않는 굴뚝에서 아래를 노려보았다. 그것은 주워 먹을 음식 쓰레기조차 하나 없는 더러운 거리에서 피어올랐다.
+--------------------------------------------------------------------------------
+
+[16] ch_34.json ID 3 (Tag: P002_2)
+    Length: 347 EN chars (65 words), 180 KO chars, 2 sentences
+    EN: They hid most of the terrible events from Lucie so well that only long afterward, when she was far away from France, did she learn that eleven hundred defenseless prisoners of all ages and genders had been killed by the mob. She didn't know that four days and nights had been filled with this horror, or that the very air was smelly from the dead.
+    KO: 그들은 끔찍한 사건들의 대부분을 루시에게 너무나 잘 숨겨서 그녀가 프랑스에서 멀리 떨어진 훨씬 나중에서야 천백 명의 무방비 상태인 모든 연령과 성별의 죄수들이 군중에 의해 살해되었다는 것을 알게 되었다. 그녀는 사 일 밤낮이 이 공포로 채워져 있었는지, 아니면 그 공기 자체가 죽은 자들로부터 악취를 풍겼는지 알지 못했다.
+--------------------------------------------------------------------------------
+
+[17] ch_04.json ID 77 (Tag: P033_3)
+    Length: 346 EN chars (64 words), 174 KO chars, 5 sentences
+    EN: He looked at her: short, slender, and pretty. Golden hair. Blue eyes looking at him searchingly. A smooth young forehead that had a unique way of wrinkling into a frown, not quite confusion, not quite wonder, not quite alarm, not quite deep focus, but all four at once. The moment he saw it, he remembered a child he had once carried in his arms.
+    KO: 그는 그녀를 쳐다보았다. 키가 작고 날씬하며 예뻤다. 금발 머리에 그를 유심히 바라보는 푸른 눈. 혼란스럽지도 않고 놀랍지도 않고 불안하지도 않고 깊은 집중도 아니지만 그 네 가지가 동시에 섞여 특유의 방식으로 찡그려지는 매끄럽고 젊은 이마. 그것을 본 순간 그는 언젠가 자신의 팔에 안았던 한 아이를 떠올렸다.
+--------------------------------------------------------------------------------
+
+[18] ch_04.json ID 211 (Tag: P090_1)
+    Length: 346 EN chars (57 words), 167 KO chars, 1 sentences
+    EN: A wild-looking woman—whom even in his agitation Mr. Lorry observed to be entirely dressed in red, with red hair, wearing remarkably tight-fitting clothes, and having on her head a most wonderful bonnet like a Grenadier wooden measure (and a generous measure at that) or a great Stilton cheese—came running into the room ahead of the inn servants.
+    KO: 로리 씨가 경황없는 와중에도 온통 붉은빛 옷차림에 붉은 머리칼, 기묘할 정도로 몸에 꽉 끼는 옷을 입고 머리에는 근위병의 나무 됫박(그것도 아주 큼직한 됫박)이나 커다란 스틸턴 치즈 같은 기이한 보닛 모자를 쓰고 있음을 알아챌 만큼 거친 용모의 한 여인이 여관 하인들보다 앞서 방으로 뛰어 들어왔다.
+--------------------------------------------------------------------------------
+
+[19] ch_43.json ID 291 (Tag: P132_1)
+    Length: 345 EN chars (56 words), 170 KO chars, 5 sentences
+    EN: Slowly, our four horses were unhitched. Slowly, the carriage stood horse-less in the street, looking like it would never move again. Slowly, the new horses appeared one by one. Slowly, the new drivers followed, braiding the leather of their whips. Slowly, the old drivers counted their tips, did their math wrong, and grumbled about the results.
+    KO: 천천히, 우리의 네 마리 말이 풀렸다. 천천히, 마차는 말이 없는 채로 거리에 서서, 다시는 움직이지 않을 것처럼 보였다. 천천히, 새로운 말들이 한 마리씩 나타났다. 천천히, 새로운 마부들이 채찍의 가죽을 땋으며 뒤따랐다. 천천히, 이전 마부들은 팁을 세고, 계산을 틀리고, 그 결과에 대해 투덜거렸다.
+--------------------------------------------------------------------------------
+
+[20] ch_09.json ID 186 (Tag: P085_2)
+    Length: 344 EN chars (63 words), 82 KO chars, 2 sentences
+    EN: The goal was to prove the prisoner secretly traveled with a co-conspirator on the Dover mail coach five years ago, got off in the dark to throw off suspicion, and then traveled back to a military town to gather intelligence. A witness was called to say he saw the prisoner waiting in a hotel coffee-room in that military town at the exact time.
+    KO: 피고측 변호사가 이 증인을 반대 심문하며 성과를 거두지 못하고 있을 때, 천장만 쳐다보고 있던 변호사가 종이에 무언가를 적고 접어서 그에게 던졌다.
+--------------------------------------------------------------------------------
+
+[21] ch_22.json ID 183 (Tag: P108_1)
+    Length: 343 EN chars (63 words), 149 KO chars, 1 sentences
+    EN: Having made, at least, this one hit, whatever it might prove to be worth, and no other customers coming in to help him gain any more, Mr. Barsad paid for what he had drunk and took his leave—taking the opportunity to say in a genteel manner before he departed that he looked forward to the pleasure of seeing Monsieur and Madame Defarge again.
+    KO: 얼마나 가치가 있든 간에 적어도 이 한 가지 성과는 건졌고, 다른 정보를 얻도록 도와줄 손님도 더 이상 들어오지 않자, 바사드 씨는 마신 술값을 치르고 자리를 떴다. 그는 떠나기 전 점잖은 태도로 드파르주 씨 부부를 다시 만나 뵙기를 고대하겠다는 인사를 잊지 않았다.
+--------------------------------------------------------------------------------
+
+[22] ch_27.json ID 154 (Tag: P074_1)
+    Length: 343 EN chars (60 words), 207 KO chars, 3 sentences
+    EN: In the screaming, angry chaos surrounding the grim old officer in his gray coat and red medal, only one figure stood perfectly steady: a woman. "Look, there's my husband!" she yelled, pointing at him. "See Defarge!" She stood firmly next to the grim old officer and stayed glued to him as Defarge and the crowd dragged him through the streets.
+    KO: 회색 코트를 입고 붉은 훈장을 단 무뚝뚝한 노장교를 둘러싼 비명 지르고 분노하는 혼돈 속에서, 오직 단 한 사람, 한 여자만이 완벽하게 흔들림 없이 서 있었다. "보라, 저기 내 남편이 있다!" 그녀가 그를 가리키며 소리쳤다. "드파르지를 보라!" 그녀는 무뚝뚝한 노장교 옆에 굳건히 서서, 드파르지와 군중이 그를 거리를 통해 끌고 갈 때 그에게 딱 붙어 연이어 있었다.
+--------------------------------------------------------------------------------
+
+[23] ch_38.json ID 185 (Tag: P089_1)
+    Length: 342 EN chars (56 words), 197 KO chars, 3 sentences
+    EN: The spy's smooth and polite manners strangely didn't match his deliberately rough clothes or his usual behavior. However, his confident act hit a wall against Carton's completely unreadable face. Carton was a mystery to men much smarter and more honest than the spy, so Barsad quickly lost his nerve and his smooth manner failed him entirely.
+    KO: 스파이의 매끄럽고 예의 바른 태도는 그의 의도적으로 거친 옷차림이나 평소의 행동과 묘하게 어울리지 않았다. 하지만 그의 자신감 넘치는 연기는 속을 전혀 알 수 없는 카턴의 얼굴 앞에서 벽에 부딪혔다. 카턴은 스파이보다 훨씬 똑똑하고 정직한 사람들에게도 미스터리한 인물이었기 때문에, 바사드는 빠르게 평정심을 잃었고 그의 능글맞은 태도는 완전히 무너졌다.
+--------------------------------------------------------------------------------
+
+[24] ch_08.json ID 83 (Tag: P044_3)
+    Length: 340 EN chars (53 words), 186 KO chars, 1 sentences
+    EN: This much Jerry—his hair bristling more and more as the legal terms confused him—figured out with great satisfaction, and so arrived indirectly at the understanding that the aforesaid, and repeatedly aforesaid, Charles Darnay stood before him on trial; that the jury was being sworn in; and that Mr. Attorney-General was preparing to speak.
+    KO: 법률 용어가 쏟아질 때마다 곤두서듯 머리카락을 빳빳이 세우던 제리는 이만큼을 파악하고는 대단히 만족스러워했고, 그리하여 앞서 언급되었고 수없이 되풀이하여 언급된 찰스 다네이라는 자가 지금 재판을 받기 위해 제 앞에 서 있으며, 배심원들이 선서를 하고 있고, 검찰총장이 변론을 시작하려 준비 중이라는 사실을 돌고 돌아 이해하게 되었다.
+--------------------------------------------------------------------------------
+
+[25] ch_21.json ID 181 (Tag: P084_2)
+    Length: 340 EN chars (56 words), 170 KO chars, 2 sentences
+    EN: The road-mender soaked in the jewels, silks, powder, splendor, and the gracefully snobby figures and handsome, arrogant faces of both sexes. He became so temporarily intoxicated by it all that he shouted, "Long live the King, long live the Queen, long live everybody and everything!" as if he had never even heard of the mysterious Jacques.
+    KO: 도로 보수공은 보석, 비단, 분, 화려함, 그리고 남녀 모두의 우아하게 거만한 자태와 잘생기고 오만한 얼굴들에 흠뻑 빠져들었다. 그는 그 모든 것에 일시적으로 몹시 취한 나머지, 마치 미스터리한 자크에 대해 들어본 적도 없는 것처럼 "국왕 만세, 왕비 만세, 모든 사람과 모든 것들 만세!"라고 소리쳤다.
+--------------------------------------------------------------------------------
+
+[26] ch_27.json ID 74 (Tag: P032_1)
+    Length: 339 EN chars (57 words), 164 KO chars, 2 sentences
+    EN: Nobody in the crowd could say who was handing them out, where they came from, or how they were being passed along over everyone's heads like flashes of lightning. But muskets were being handed out—along with bullets, gunpowder, iron and wood bars, knives, axes, pikes, and absolutely any weapon that desperate people could find or make up.
+    KO: 군중 속 누구도 그것을 누가 나눠주었는지, 어디서 왔는지, 어떻게 사람들의 머리 위로 번개처럼 전달되고 있는지 말할 수 없었습니다. 하지만 머스킷 총이 탄환, 화약, 철과 나무 막대기, 칼, 도끼, 창, 그리고 필사적인 사람들이 구하거나 만들어낼 수 있는 모든 무기와 함께 나눠지고 있었습니다.
+--------------------------------------------------------------------------------
+
+[27] ch_18.json ID 13 (Tag: P006_3)
+    Length: 338 EN chars (61 words), 170 KO chars, 1 sentences
+    EN: So, he pushed open the rattling door, stumbled down the two steps, passed the two elderly cashiers, and pushed his way into the musty back office where Mr. Lorry sat over large ledgers lined for figures, with vertical iron bars on his window as if it too were ruled for numbers and everything under the sun were merely a mathematical sum.
+    KO: 그리하여 그는 덜거덕거리는 문을 밀고 들어가 계단 두 개를 헛디디며 내려간 다음, 두 노인 출납원을 지나 로리 씨가 숫자가 빼곡한 커다란 장부 앞에 앉아 있는 퀴퀴한 뒷방으로 밀고 들어갔다. 창문에는 마치 그것마저도 숫자를 매겨 놓은 양 수직 철창이 드리워져 있어, 세상 만물이 하나의 계산서처럼 보였다.
+--------------------------------------------------------------------------------
+
+[28] ch_38.json ID 244 (Tag: P117_1)
+    Length: 338 EN chars (54 words), 183 KO chars, 4 sentences
+    EN: “Don’t you worry your head about this man,” the contentious Mr. Cruncher retorted. “You’ll have trouble enough paying attention to that gentleman. And look here! One more thing!”—Mr. Cruncher could not be restrained from making rather an ostentatious display of his generosity—“I’d grab you by the throat and choke you for half a guinea.”
+    KO: “이 사람에 대해선 전혀 신경 쓰지 마시오.” 말싸움하기 좋아하는 크런처 씨가 쏘아붙였다. “저 신사분에게 신경 쓰는 것만으로도 골치 아플 테니까. 그리고 이것 봐! 한 번 더 말하는데!”—크런처 씨는 자신의 관대함을 다소 과시하듯 뽐내는 것을 참지 못했다—“반 기니만 준대도 네 멱살을 잡고 숨통을 끊어놓을 수 있단 말이다.”
+--------------------------------------------------------------------------------
+
+[29] ch_40.json ID 7 (Tag: P004_1)
+    Length: 338 EN chars (62 words), 151 KO chars, 1 sentences
+    EN: “One cloudy, moonlit night, in the third week of December (I think the twenty-second of the month) in the year 1757, I was walking along a secluded part of the quay by the Seine to refresh myself in the frosty air, an hour’s distance from my residence in the Street of the School of Medicine, when a carriage approached rapidly behind me.
+    KO: “1757년 12월 셋째 주(내 생각으로는 그달 22일이었던 것 같다), 구름 낀 달밤에 나는 의과대학 거리에 있는 거처에서 한 시간쯤 떨어진 센강 변의 호젓한 부둣가를 거닐며 차가운 공기로 머리를 식히고 있었다. 그때 뒤쪽에서 마차 한 대가 아주 빠른 속도로 달려왔다.
+--------------------------------------------------------------------------------
+
+[30] ch_01.json ID 19 (Tag: P006_4)
+    Length: 337 EN chars (56 words), 151 KO chars, 2 sentences
+    EN: That day, in the rough sheds of farmers working the barren lands near Paris, there were likely rude carts sheltered from the weather, bespattered with unpaved mud, sniffed at by pigs, and roosted upon by poultry. The farmer named 'Death' had highly likely already set these carts apart to be the executioner's tumbrils of the Revolution.
+    KO: 그날 파리 근교의 척박한 땅을 일구는 농부들의 거친 헛간에는, 비바람을 피해 비포장도로의 진흙투성이가 된 채 돼지들이 킁킁거리고 가금류가 둥지를 튼 투박한 수레들이 있었을 텐데, '죽음'이라는 농부는 이미 이 수레들을 혁명의 사형수 호송차로 점찍어 두었을 가능성도 높다.
+--------------------------------------------------------------------------------
+
+[31] ch_03.json ID 32 (Tag: P009_4)
+    Length: 337 EN chars (58 words), 174 KO chars, 4 sentences
+    EN: More transactions were processed in five minutes of dreaming than Tellson's had managed in three times that duration in real life. Then the underground vaults opened in his mind. He walked through them with a large ring of keys and a dimly burning candle. He found everything exactly as he had left it: safe, secure, and perfectly quiet.
+    KO: 꿈속의 5분 동안 처리된 거래량이 현실에서 텔슨 은행이 15분 동안 처리한 것보다 더 많았다. 그러자 그의 마음속에서 지하 금고가 열렸다. 그는 커다란 열쇠 꾸러미와 희미하게 타오르는 촛불을 들고 그곳을 걸어 지나갔다. 그는 모든 것이 자신이 남겨둔 그대로임을 확인했다. 안전하고, 확실하며, 완벽하게 조용했다.
+--------------------------------------------------------------------------------
+
+[32] ch_27.json ID 39 (Tag: P012_3)
+    Length: 337 EN chars (65 words), 195 KO chars, 4 sentences
+    EN: She also heard sweet echoes of her father telling her she seemed even more devoted to him now that she was married. And her husband often said her daily chores never got in the way of her love or help. He would ask her, "What is your secret, my darling? How can you be everything to all of us without ever seeming rushed or overwhelmed?"
+    KO: 그녀는 또한 결혼한 후 자신에게 더욱 헌신적인 것 같다는 아버지의 달콤한 메아리도 들었습니다. 남편은 항상 그녀의 일상 집안일이 결코 사랑이나 도움의 손길을 방해하지 않는다고 말하곤 했습니다. 그는 그녀에게 묻곤 했습니다. "당신의 비결이 뭐요, 내 사랑? 어떻게 서두르거나 압도당하는 기색 한 번 없이 우리 모두에게 모든 것이 되어 줄 수 있소?"
+--------------------------------------------------------------------------------
+
+[33] ch_38.json ID 172 (Tag: P082_4)
+    Length: 336 EN chars (56 words), 168 KO chars, 3 sentences
+    EN: He knew that under the old government, he had spied on the Saint Antoine neighborhood and Defarge's wine shop. The police had given him enough details about Doctor Manette's imprisonment and release to help him start a conversation with the Defarges. He had tried to use this information on Madame Defarge, but he had failed completely.
+    KO: 그는 예전 정부 시절에 생탕투안 지역과 드파르지의 와인 가게를 감시했었다는 사실을 알고 있었다. 경찰은 그가 드파르지 부부와 대화를 시작하는 데 도움이 되도록 마네트 박사의 수감 및 석방에 대한 충분한 세부 정보를 그에게 제공했었다. 그는 드파르지 부인에게 이 정보를 써먹으려 했지만 완전히 실패했다.
+--------------------------------------------------------------------------------
+
+[34] ch_03.json ID 24 (Tag: P007_1)
+    Length: 335 EN chars (59 words), 189 KO chars, 5 sentences
+    EN: As he trotted back to deliver his message, the night shadows played tricks on his mind. He was heading for the night watchman's booth at the door of Tellson's Bank, near Temple Bar. The watchman would pass the message on to the senior officials inside. As Jerry rode, the word "recalled" haunted him. Strange shapes formed in the dark.
+    KO: 메시지를 전하기 위해 구보로 돌아가는 동안, 밤의 그림자들이 그의 마음을 희롱했다. 그는 템플 바 근처 텔슨 은행의 문 앞에 있는 야간 경비원 초소로 향하고 있었다. 경비원은 안쪽에 있는 고위 간부들에게 메시지를 전달할 것이었다. 제리가 말을 타고 가는 동안 "소환됨"이라는 단어가 그를 괴롭혔다. 어둠 속에서 기이한 형상들이 만들어졌다.
+--------------------------------------------------------------------------------
+
+[35] ch_05.json ID 8 (Tag: P003_2)
+    Length: 334 EN chars (56 words), 174 KO chars, 2 sentences
+    EN: Some made small mud walls to block the wine as it flowed, while others, directed by neighbors looking out from high windows, ran around to block small streams of wine branching off in new directions. A few focused on the wine-soaked wood from the broken barrel, licking and even chewing the wet, wine-stained fragments with enjoyment.
+    KO: 어떤 사람들은 흐르는 와인을 막기 위해 작은 진흙 둑을 만들었고, 높은 창문에서 내다보는 이웃들의 지시를 받아 새롭게 갈라져 나가는 작은 와인 줄기들을 막으려 뛰어다니는 사람들도 있었다. 몇몇은 부서진 통에서 나온 와인에 흠뻑 젖은 나무에 매달려, 와인 얼룩이 진 젖은 나뭇조각들을 핥고 씹으며 즐기기까지 했다.
+--------------------------------------------------------------------------------
+
+[36] ch_07.json ID 72 (Tag: P024_12)
+    Length: 334 EN chars (71 words), 179 KO chars, 4 sentences
+    EN: I feel as shaky as an old carriage, as sleepy as if I'd taken opium, and my muscles are so sore that I wouldn't know who I was if it weren't for the pain. Yet I haven't made a single penny from it, and I suspect you've been praying day and night to keep me poor. I won't put up with it, Aggerawayter! What do you have to say to that?"
+    KO: 낡은 마차처럼 몸이 떨리고, 아편이라도 먹은 것처럼 졸리고, 근육은 너무 아파서 통증이 아니면 내가 누군지조차 모를 지경이야. 그런데도 난 여기서 단 한 푼도 벌지 못했고, 당신이 나를 계속 가난하게 만들려고 밤낮으로 기도해왔다고 의심할 수밖에 없어. 난 이걸 참지 않을 거야, 애거러웨이터! 여기에 대해 할 말 있어?"
+--------------------------------------------------------------------------------
+
+[37] ch_27.json ID 124 (Tag: P058_1)
+    Length: 334 EN chars (57 words), 175 KO chars, 3 sentences
+    EN: They rushed through dark, gloomy vaults that had never seen sunlight, passing awful doors to dark cages. They ran down huge flights of stairs and then climbed up steep, rough brick and stone steps that looked more like dry waterfalls than staircases. Defarge, the jailer, and Jacques Three linked arms and moved as fast as they could.
+    KO: 그들은 햇빛을 본 적 없는 어둡고 우울한 지하 저장고를 서둘러 지나며 끔찍한 문들을 거쳐 어두운 철창으로 향했다. 그들은 거대한 계단을 뛰어내려간 다음, 계단이라기보다는 마른 폭포에 가까워 보이는 가파르고 거친 벽돌과 돌계단을 기어올랐다. 드파르지, 간수, 그리고 자크 삼세는 팔을 끼고 가능한 한 빨리 움직였다.
+--------------------------------------------------------------------------------
+
+[38] ch_31.json ID 28 (Tag: P017_1)
+    Length: 334 EN chars (60 words), 161 KO chars, 1 sentences
+    EN: The escorted prisoner governed his own horse, but a loose rope was attached to his bridle, the end of which one of the patriots kept wrapped around his wrist. In this condition they set forth with the sharp rain driving in their faces, clattering at a heavy dragoon trot over the uneven town pavement and out onto the mire-deep roads.
+    KO: 호송받는 죄수는 자신의 말을 직접 몰았지만, 굴레에는 느슨한 줄이 매여 있었고 그 끝은 애국자 중 한 명의 손목에 감겨 있었다. 이 상태로 그들은 매서운 비를 얼굴에 맞으며 길을 나섰다. 울퉁불퉁한 마을 포장도로 위를 묵직한 기병대 속보로 덜컥거리며 지나 진흙투성이 깊은 도로로 나아갔다.
+--------------------------------------------------------------------------------
+
+[39] ch_35.json ID 86 (Tag: P033_9)
+    Length: 333 EN chars (56 words), 153 KO chars, 3 sentences
+    EN: While some lay on the ground, the rest linked hands and spun around together. Then the big circle broke apart into smaller rings of two or four, and they kept spinning until they all stopped at the same time. They started up again—hitting, grabbing, and tearing at each other—before reversing direction and spinning the opposite way.
+    KO: 일부가 땅에 누워 있는 동안, 나머지는 손을 잡고 함께 빙빙 돌았다. 그런 다음 큰 원은 두 명 또는 네 명의 작은 원으로 쪼개졌고, 그들은 모두 동시에 멈출 때까지 계속 돌았다. 그들은 방향을 바꾸어 반대 방향으로 회전하기 전에 서로 치고, 잡고, 할퀴면서 다시 시작했다.
+--------------------------------------------------------------------------------
+
+[40] ch_07.json ID 33 (Tag: P008_4)
+    Length: 332 EN chars (55 words), 140 KO chars, 1 sentences
+    EN: The firm had always tolerated someone in that capacity, and time and circumstance had drifted this person into the post. His surname was Cruncher, and on the youthful occasion when his godparents renounced the works of darkness on his behalf at the eastern parish church of Houndsditch, he had received the additional name of Jerry.
+    KO: 은행은 언제나 그런 직책의 사람을 두고 보아왔고, 세월의 흐름에 밀려 이 사람이 그 자리에 이르게 되었다. 그의 성은 크런처였으며, 어린 시절 하운즈디치 동쪽 교구 교회에서 대부모를 통해 어둠의 행실을 버리겠노라 서약했을 때 제리라는 이름이 더해졌다.
+--------------------------------------------------------------------------------
+
+[41] ch_08.json ID 43 (Tag: P024_6)
+    Length: 332 EN chars (57 words), 176 KO chars, 5 sentences
+    EN: The court was also famous for the pillory. It was a punishment where no one could predict how much harm the crowd might do. Then there was the whipping post ,  another beloved tradition. And there was the practice of paying reward money for catching criminals. That system reliably led to terrible crimes committed purely for greed.
+    KO: 이 법원은 또한 칼 씌우기 형벌로도 유명했다. 이는 군중이 얼마나 많은 해를 끼칠지 아무도 예측할 수 없는 형벌이었다. 그리고 많은 이들의 사랑을 받는 또 다른 전통인 태형 기둥도 있었다. 또한 범죄자를 잡으면 포상금을 주는 관행도 있었다. 그 제도는 확실하게 오직 탐욕만을 위해 저질러지는 끔찍한 범죄로 이어졌다.
+--------------------------------------------------------------------------------
+
+[42] ch_12.json ID 16 (Tag: P006_3)
+    Length: 332 EN chars (65 words), 165 KO chars, 3 sentences
+    EN: In a building at the back, reached through a courtyard with a green plane tree, organs were made, silver was engraved, and gold was beaten. The craftsman who did this had hung a sign of a golden arm extending from the front hall wall. It looked as if he had turned his own arm to gold and was threatening to do the same to visitors.
+    KO: 푸른 플라타너스가 있는 안뜰을 통과해 갈 수 있는 뒤쪽 건물에서는 오르간이 만들어지고, 은에 조각이 새겨졌으며, 금이 두드려졌다. 이 일을 하는 장인은 앞쪽 현관 벽에서 뻗어 나온 황금 팔 간판을 걸어두었다. 마치 자신의 팔을 금으로 바꾸고 방문객들에게도 똑같이 하겠다고 위협하는 것처럼 보였다.
+--------------------------------------------------------------------------------
+
+[43] ch_16.json ID 74 (Tag: P041_1)
+    Length: 331 EN chars (61 words), 180 KO chars, 2 sentences
+    EN: "I know," said Darnay respectfully, "how could I not know, Doctor Manette, when I have seen you together day after day? The love between you and Miss Manette is so unusual, so touching, and so deeply tied to the circumstances in which it grew, that few things can compare to it, even in the tenderness between a father and a child.
+    KO: "압니다," 다네이가 정중하게 말했다. "마네트 박사님, 두 분이 함께 계신 모습을 매일 보아왔는데 어찌 모르겠습니까? 박사님과 마네트 양 사이의 사랑은 너무나 특별하고, 너무나 감동적이며, 그것이 자라난 상황과 너무나 깊이 연결되어 있어서, 심지어 아버지와 자식 간의 다정함 중에서도 비교할 수 있는 것이 거의 없습니다.
+--------------------------------------------------------------------------------
+
+[44] ch_19.json ID 6 (Tag: P003_2)
+    Length: 330 EN chars (57 words), 186 KO chars, 3 sentences
+    EN: Many a night he wandered there unhappily, when wine failed to bring even temporary cheer. Many a gloomy dawn found his solitary figure lingering there, even when the first rays of the sun lit up the church spires and tall buildings. Perhaps these quiet hours brought back memories of better things, now forgotten and out of reach.
+    KO: 술이 일시적인 기쁨조차 가져다주지 못할 때, 그는 수많은 밤을 그곳에서 불행하게 헤매었다. 우울한 수많은 새벽은 태양의 첫 광선이 교회 첨탑과 높은 건물들을 비출 때조차도 그곳을 서성이는 그의 고독한 모습을 발견했다. 아마도 이 조용한 시간들은 지금은 잊혀지고 닿을 수 없는 더 나은 것들에 대한 기억을 다시 불러일으켰을지도 모른다.
+--------------------------------------------------------------------------------
+
+[45] ch_43.json ID 140 (Tag: P064_2)
+    Length: 330 EN chars (62 words), 151 KO chars, 1 sentences
+    EN: The prisoner sprang up with a reproachful look, but Carton’s hand was held close and firm over his nostrils, and Carton’s left arm caught him around the waist. For a few seconds he struggled weakly against the man who had come to lay down his life for him; but within a minute or so, he was stretched out unconscious on the floor.
+    KO: 죄수는 원망스러운 눈빛으로 벌떡 일어났으나, 카턴의 손이 그의 콧구멍을 빈틈없이 꽉 틀어막았고 카턴의 왼팔은 그의 허리를 감싸 안았다. 몇 초 동안 그는 자신을 위해 목숨을 바치러 온 남자와 힘없이 몸싸움을 벌였지만, 채 1분도 지나지 않아 바닥에 의식을 잃고 쓰러졌다.
+--------------------------------------------------------------------------------
+
+[46] ch_13.json ID 25 (Tag: P007_1)
+    Length: 329 EN chars (57 words), 173 KO chars, 3 sentences
+    EN: The tax collector was a very wealthy man. He kept thirty horses in his stables, twenty-four male servants in his halls, and six ladies-in-waiting for his wife. As someone whose only job was to plunder and gather wealth wherever he could, he was at least the most honest reality among the guests at Monseigneur’s mansion that day.
+    KO: 그 세금 징수원은 매우 부유한 남자였다. 그는 마구간에 서른 마리의 말, 홀에 스물네 명의 남자 하인, 그리고 아내를 위해 여섯 명의 시녀를 두었다. 할 수 있는 한 어디서나 약탈하고 부를 긁어모으는 것이 유일한 직업인 사람으로서, 그는 적어도 그날 몽세뇌르의 저택에 온 손님들 중에서 가장 정직한 현실이었다.
+--------------------------------------------------------------------------------
+
+[47] ch_27.json ID 155 (Tag: P074_2)
+    Length: 329 EN chars (63 words), 178 KO chars, 3 sentences
+    EN: She stayed right next to him as they neared City Hall and people started hitting him from behind. She didn't budge even when a rain of stabs and heavy blows fell on him. She was so close that when he finally dropped dead, she suddenly sprang into action, stepped on his neck, and used her cruel, ready knife to hack off his head.
+    KO: 그들이 시청에 가까워지고 사람들이 뒤에서 그를 때리기 시작했을 때도 그녀는 그의 바로 옆에 머물렀다. 수많은 찌름과 거친 구타가 그에게 쏟아질 때조차 그녀는 꿈쩍도 하지 않았다. 그녀는 너무나 가까이 있어서, 마침내 그가 쓰러져 죽었을 때 갑자기 행동에 나서 그의 목을 밟고 잔인하게 준비된 칼로 그의 머리를 베어냈다.
+--------------------------------------------------------------------------------
+
+[48] ch_09.json ID 202 (Tag: P092_3)
+    Length: 328 EN chars (54 words), 180 KO chars, 1 sentences
+    EN: He now had to pay attention while Mr. Stryver tailored the prisoner's defense for the jury, like a tight-fitting suit of clothes; showing them how the 'patriot' Barsad was a hired spy and traitor, a shameless merchant of blood, and one of the greatest scoundrels on earth since cursed Judas—whom he certainly somewhat resembled.
+    KO: 그는 이제 스트라이버 씨가 배심원단에게 꼭 맞는 옷을 입히듯 피고인의 변론을 펼치는 것을 지켜보아야 했다. 스트라이버는 저 '애국자' 바사드가 고용된 스파이자 반역자이며, 뻔뻔스럽게 피를 사고파는 자이자, 저주받은 유다 이래 지구상에서 가장 악랄한 악당 중 한 명임을 보여주었다. 사실 그는 유다와 꽤 닮아 보이기도 했다.
+--------------------------------------------------------------------------------
+
+[49] ch_31.json ID 204 (Tag: P111_2)
+    Length: 328 EN chars (59 words), 197 KO chars, 3 sentences
+    EN: He made shoes, he made shoes, he made shoes. Five paces by four and a half.” With these random thoughts spinning in his mind, the prisoner walked faster and faster, stubbornly counting his steps. The roar of the city outside still sounded like muffled drums, but now he imagined hearing the cries of voices he knew in the noise.
+    KO: 그는 신발을 만들었다, 그는 신발을 만들었다, 그는 신발을 만들었다. 다섯 걸음에 네 걸음 반.” 이런 무작위적인 생각들이 그의 마음속에서 맴도는 가운데, 수감자는 점점 더 빨리 걸으며, 고집스럽게 발걸음을 세었다. 밖에서 들리는 도시의 굉음은 여전히 둔탁한 북소리처럼 들렸지만, 이제 그는 소음 속에서 자신이 아는 목소리들의 외침이 들린다고 상상했다.
+--------------------------------------------------------------------------------
+
+[50] ch_41.json ID 49 (Tag: P019_1)
+    Length: 328 EN chars (65 words), 156 KO chars, 1 sentences
+    EN: When they arrived at the gateway where he had paused in the dark only a few hours before, to picture to himself on which of the rough stones of the street her feet had trodden, he lifted her again, and carried her up the staircase to their rooms. There, he laid her down on a couch, where her child and Miss Pross wept over her.
+    KO: 불과 몇 시간 전 어둠 속에서 그녀의 발이 거친 길바닥의 어느 돌을 밟았을지 상상하며 걸음을 멈췄던 그 출입문에 다다르자, 그는 그녀를 다시 들어 올려 계단을 지나 방으로 안고 올라갔다. 그곳에서 그는 그녀를 소파에 눕혔고, 그녀의 아이와 프로스 양이 그녀를 보며 흐느껴 울었다.
+--------------------------------------------------------------------------------
+
+[51] ch_43.json ID 265 (Tag: P120_3)
+    Length: 328 EN chars (57 words), 145 KO chars, 3 sentences
+    EN: They slowly walked around the carriage and slowly climbed up to check the small amount of luggage on the roof. The local peasants standing nearby crowded closer to the carriage doors, staring greedily inside. A mother held out her little child's hand so it could touch the wife of the aristocrat who was going to the Guillotine.
+    KO: 그들은 마차 주변을 천천히 걷고 천천히 기어 올라가 지붕에 있는 적은 양의 수하물을 확인했다. 근처에 서 있던 지역 농민들은 마차 문으로 더 가까이 몰려들어 탐욕스럽게 안을 노려보았다. 한 어머니는 어린아이의 손을 뻗어 단두대로 갈 귀족의 아내를 만지게 했다.
+--------------------------------------------------------------------------------
+
+[52] ch_06.json ID 160 (Tag: P080_2)
+    Length: 327 EN chars (66 words), 217 KO chars, 1 sentences
+    EN: And if, when I tell you my name and about my father who is alive and my mother who is dead, you learn that I must kneel to my honored father and beg his forgiveness for never working all day, staying awake, and crying all night for his sake, because my mother's love kept his suffering a secret from me, cry for it, cry for it!
+    KO: 그리고 만약 제가 제 이름과 살아계신 제 아버지, 그리고 돌아가신 제 어머니에 대해 말씀드릴 때, 제가 하루 종일 일하지도, 깨어있지도, 그리고 밤새도록 그를 위해 울지도 않았던 것에 대해 존경하는 아버지께 무릎 꿇고 용서를 빌어야 한다는 것을 알게 되신다면, 왜냐하면 제 어머니의 사랑이 그의 고통을 저에게 비밀로 간직하셨기 때문인데, 그렇다면 그것을 위해 우세요, 그것을 위해 우세요!
+--------------------------------------------------------------------------------
+
+[53] ch_01.json ID 17 (Tag: P006_2)
+    Length: 325 EN chars (57 words), 174 KO chars, 1 sentences
+    EN: Furthermore, under the guidance of Christian pastors, France amused herself with such humane achievements as sentencing a young man to have his hands cut off, his tongue torn out with tongs, and to be burned alive, all for not kneeling in the rain to honor a filthy procession of monks passing some fifty or sixty yards away.
+    KO: 게다가 프랑스는 기독교 목자들의 지도 아래 인도적인 업적들을 즐겼는데, 예를 들면 오륙십 야드(약 45~55미터) 떨어진 곳에서 지나가는 지저분한 수도사 행렬에 경의를 표하며 빗속에 무릎을 꿇지 않았다는 이유로 한 젊은이의 두 손을 자르고, 집게로 혀를 뽑은 뒤, 산 채로 화형에 처하는 판결을 내리는 식이었다.
+--------------------------------------------------------------------------------
+
+[54] ch_04.json ID 152 (Tag: P070_2)
+    Length: 325 EN chars (62 words), 191 KO chars, 3 sentences
+    EN: It would be easy enough to guess which terrible place he had been sent to, even if no one could prove it. Suppose he had an enemy, someone with the power to sign blank arrest warrants and lock anyone away in a silent prison forever. That power was so feared in France that even the bravest people refused to whisper about it.
+    KO: 비록 아무도 그것을 증명할 수 없었더라도, 그가 어떤 끔찍한 곳으로 보내졌는지 짐작하기란 충분히 쉬웠을 것입니다. 그에게 백지 체포 영장에 서명하여 누구든 영원히 소리 없는 감옥에 가둘 수 있는 권력을 가진 적이 있었다고 가정해 봅시다. 그 권력은 프랑스에서 너무나 두려운 것이어서 가장 용감한 사람들조차 그것에 대해 속삭이기를 거부했습니다.
+--------------------------------------------------------------------------------
+
+[55] ch_07.json ID 14 (Tag: P005_2)
+    Length: 325 EN chars (56 words), 177 KO chars, 2 sentences
+    EN: The oldest clerks working there would take your check with hands that shook so much the paper rustled like leaves, while they examined your signature by the dirtiest windows. These windows were constantly sprayed with mud from Fleet Street and made even darker by heavy iron bars and the shadow of the nearby Temple Bar gate.
+    KO: 그곳에서 일하는 가장 나이 많은 직원들은 당신의 수표를 종이가 나뭇잎처럼 바스락거릴 정도로 손을 심하게 떨며 받을 것이고, 가장 더러운 창문 옆에서 당신의 서명을 확인할 것이다. 이 창문들은 항상 플리트 스트리트에서 튄 진흙으로 뒤덮여 있었고, 무거운 철창과 근처의 템플 바 게이트의 그림자 때문에 훨씬 더 어두웠다.
+--------------------------------------------------------------------------------
+
+[56] ch_33.json ID 66 (Tag: P036_1)
+    Length: 325 EN chars (58 words), 149 KO chars, 1 sentences
+    EN: The shadow attendant on Madame Defarge and her party seemed to fall so threatening and dark on the child that her mother instinctively kneeled on the ground beside her and held her to her breast. The shadow attendant on Madame Defarge and her party seemed then to fall, threatening and dark, on both the mother and the child.
+    KO: 드파르주 부인과 그 일행이 드리운 그림자가 아이 위에 너무나 어둡고 위협적으로 드리워져, 어머니는 본능적으로 아이 곁에 무릎을 꿇고 아이를 품에 꼭 껴안았다. 그러자 드파르주 부인과 일행의 그림자는 어머니와 아이 두 사람 모두에게 어둡고 위협적으로 드리워지는 듯했다.
+--------------------------------------------------------------------------------
+
+[57] ch_27.json ID 25 (Tag: P009_1)
+    Length: 324 EN chars (60 words), 200 KO chars, 3 sentences
+    EN: If a man truly loved a woman, lost her, and still cared for her respectfully after she became a wife and mother, her children always seemed to feel a strange connection with him. They had a natural, gentle pity for him. We don't know exactly why these hidden feelings happen, but they do, and that's exactly how it was here.
+    KO: 한 남자가 여자를 진심으로 사랑했고 그녀를 잃었지만, 그녀가 아내이자 어머니가 된 후에도 여전히 그녀를 정중하게 아낀다면, 그녀의 아이들은 항상 그 남자와 묘한 유대감을 느끼는 것 같았습니다. 그들은 그를 향한 자연스럽고 부드러운 연민을 가졌습니다. 이러한 숨겨진 감정들이 정확히 왜 일어나는지는 알 수 없지만 실제로 일어나며, 이곳에서도 정확히 그랬습니다.
+--------------------------------------------------------------------------------
+
+[58] ch_29.json ID 67 (Tag: P037_4)
+    Length: 324 EN chars (58 words), 134 KO chars, 3 sentences
+    EN: Monsieur Gabelle, the local official, became nervous. He went out on his rooftop alone and looked in that direction too. He peered down from behind his chimneys at the gloomy faces around the fountain below, and sent a message to the church official who had the keys, telling him they might need to ring the alarm bell soon.
+    KO: 지역 관리인 가벨 씨는 초조해졌다. 그도 혼자 지붕 위로 올라가 그 방향을 바라보았다. 그는 굴뚝 뒤에서 아래 분수대 주변의 우울한 얼굴들을 내려다보며, 열쇠를 가진 교회 관리인에게 메시지를 보내 곧 경보종을 울려야 할지도 모른다고 전했다.
+--------------------------------------------------------------------------------
+
+[59] ch_01.json ID 18 (Tag: P006_3)
+    Length: 323 EN chars (58 words), 147 KO chars, 2 sentences
+    EN: Around the time that sufferer was executed, it is highly likely that in the forests of France and Norway, trees were growing that the woodman named 'Fate' had already marked. These trees were to be cut down and sawn into boards to make the movable framework with a sack and a blade (the guillotine), so terrible in history.
+    KO: 그 수난자가 처형당할 무렵, 프랑스와 노르웨이의 숲속에는 '운명'이라는 나무꾼이 이미 찍어둔 나무들이 자라고 있었을 가능성이 높다. 이 나무들은 베어지고 판자로 켜져서, 훗날 역사상 그토록 끔찍한 자루와 칼이 달린 움직이는 틀(단두대)을 만드는 데 쓰일 참이었다.
+--------------------------------------------------------------------------------
+
+[60] ch_20.json ID 146 (Tag: P061_4)
+    Length: 323 EN chars (62 words), 195 KO chars, 3 sentences
+    EN: All this time, it kept hopping behind him and catching up, so that by the time the boy reached his own door, he felt half dead with fear. And even then, it wouldn't leave him alone. It followed him upstairs with a bump on every step, scrambled into bed with him, and landed heavily on his chest when he finally fell asleep.
+    KO: 내내 그것은 그의 뒤에서 깡충깡충 뛰며 따라잡았고, 그 소년이 자기 집 문에 도착했을 때 그는 두려움에 반쯤 죽은 것 같은 기분이 들었습니다. 그리고 심지어 그때도 그것은 그를 내버려 두지 않았습니다. 모든 계단에서 쿵쿵거리며 그를 따라 위층으로 올라갔고, 그와 함께 침대로 기어들어가 그가 마침내 잠들었을 때 그의 가슴 위에 무겁게 내려앉았습니다.
+--------------------------------------------------------------------------------
+
+[61] ch_28.json ID 81 (Tag: P031_2)
+    Length: 322 EN chars (53 words), 154 KO chars, 2 sentences
+    EN: Still, human companionship brought a little comfort to their hard, stale food and sparked some cheerfulness among them. Fathers and mothers who had endured the absolute worst of the day played gently with their skinny children; and lovers, despite the harsh world around them and ahead of them, continued to love and hope.
+    KO: 그래도 사람 간의 교감은 딱딱하고 굳은 음식에 약간의 위안을 주고 그들 사이에 어느 정도 명랑함을 불러일으켰다. 그날의 최악을 견뎌낸 아버지와 어머니들은 마른 아이들과 부드럽게 놀아 주었고, 연인들은 주변과 앞에 놓인 가혹한 세상에도 불구하고 계속해서 사랑하고 희망을 품었다.
+--------------------------------------------------------------------------------
+
+[62] ch_13.json ID 46 (Tag: P010_1)
+    Length: 321 EN chars (54 words), 155 KO chars, 1 sentences
+    EN: This obsession with dressing up like it was a costume party trickled all the way down from the royal Palace of the Tuileries, past Monseigneur and the entire Court, through the government chambers, the courts of justice, and all of high society (ignoring the poor people in rags), until it reached the common executioner.
+    KO: 마치 가장무도회인 것처럼 차려입는 것에 대한 이 집착은 왕궁인 튈르리 궁전에서부터 시작되어, 몽세뇌르와 궁정 전체를 지나, 정부 기관들, 사법 재판소들, 그리고 상류 사회 전체(누더기를 입은 가난한 사람들은 무시한 채)로 흘러내려 와, 마침내 흔한 사형 집행인에게까지 이르렀다.
+--------------------------------------------------------------------------------
+
+[63] ch_27.json ID 37 (Tag: P012_1)
+    Length: 321 EN chars (55 words), 156 KO chars, 2 sentences
+    EN: These were some of the echoes Lucie listened to from her quiet corner until her daughter was six years old, sometimes feeling thoughtful, and other times laughing. It goes without saying how close to her heart the footsteps of her child sounded, along with the steady steps of her confident father and her loving husband.
+    KO: 이것이 루시가 딸이 여섯 살이 될 때까지 조용한 구석에서 들었던 메아리 중 일부였으며, 그녀는 때론 생각에 잠기고 때론 웃기도 했습니다. 그녀의 아이의 발소리와 자신감 넘치는 아버지 및 사랑하는 남편의 안정된 발걸음이 그녀의 마음에 얼마나 가깝게 들렸는지는 말할 필요도 없습니다.
+--------------------------------------------------------------------------------
+
+[64] ch_32.json ID 91 (Tag: P036_2)
+    Length: 321 EN chars (58 words), 177 KO chars, 1 sentences
+    EN: For a few moments there was a pause, then a hurry, and a murmur, and the indistinguishable sound of his voice; and then Mr. Lorry saw him, surrounded by everyone, and in the middle of a line twenty men long, all linked shoulder to shoulder, and hand to shoulder, rushed out with cries of—“Long live the Bastille prisoner!
+    KO: 잠시 침묵이 흐르더니, 분주한 움직임과 웅성거림, 그리고 알아들을 수 없는 그의 목소리가 들려왔다. 그러고 나서 로리 씨는 그가 사람들에게 둘러싸인 채, 스무 명이나 되는 사람들이 어깨를 맞대고 서로의 어깨를 붙잡고 길게 늘어선 대열 한가운데서 “바스티유의 죄수 만세!”라는 함성을 받으며 급히 나가는 모습을 보았다.
+--------------------------------------------------------------------------------
+
+[65] ch_12.json ID 160 (Tag: P089_3)
+    Length: 320 EN chars (53 words), 162 KO chars, 2 sentences
+    EN: However, he did not say a single word about the discovery they had discussed. As they went inside, Mr. Lorry's sharp business eye noticed—or thought it noticed—the very same strange expression on Doctor Manette's face as he turned toward Charles Darnay that had appeared when he looked at him in the courthouse hallways.
+    KO: 하지만 그는 앞서 이야기된 그 발견에 대해 단 한 마디도 언급하지 않았고, 집 안으로 들어갈 때 로리 씨의 예리한 사업가적 눈썰미는 마네트 박사가 찰스 다네이를 바라볼 때 지은 표정에서, 언젠가 법원 복도에서 다네이를 바라보았을 때 나타났던 그 기이한 표정을 포착했거나 포착했다고 생각했다.
+--------------------------------------------------------------------------------
+
+[66] ch_36.json ID 91 (Tag: P040_3)
+    Length: 319 EN chars (61 words), 158 KO chars, 1 sentences
+    EN: Her father had gone on before, to prepare her, and when her husband stood upon his feet, she dropped insensible in his arms. As he held her to his heart and turned her beautiful head between his face and the brawling crowd, so that his tears and her lips might come together unseen, a few of the people fell to dancing.
+    KO: 그녀의 아버지가 그녀를 준비시키기 위해 먼저 가 있었고, 남편이 일어서자 그녀는 의식을 잃고 그의 품에 쓰러졌다. 그가 그녀를 가슴에 안고 소란스러운 군중의 시선을 피해 눈물과 입술이 남몰래 맞닿을 수 있도록 그녀의 아름다운 머리를 감싸 안자, 사람들 중 몇몇이 춤을 추기 시작했다.
+--------------------------------------------------------------------------------
+
+[67] ch_27.json ID 32 (Tag: P011_1)
+    Length: 318 EN chars (52 words), 161 KO chars, 2 sentences
+    EN: Mr. Stryver, exuding the most offensive kind of condescension from every pore, had marched these three young gentlemen before him like sheep to the quiet corner in Soho and offered them as pupils to Lucie’s husband, delicately saying, "Hello! Here are three lumps of bread and cheese for your marriage picnic, Darnay!"
+    KO: 온몸의 땀구멍마다 가장 불쾌한 오만함을 풍기던 스트라이버 씨는 이 세 젊은 신사를 양 떼처럼 몰고 소호의 한적한 구석으로 데려가 루시의 남편에게 제자로 삼으라며 제안했었다. 그는 '고상하게' 말하기를, "이보게! 자네의 결혼 소풍에 보탬이 될 빵과 치즈 세 덩이라네, 다네이!"라고 했다.
+--------------------------------------------------------------------------------
+
+[68] ch_09.json ID 212 (Tag: P095_1)
+    Length: 317 EN chars (53 words), 147 KO chars, 2 sentences
+    EN: His learned colleague, Mr. Stryver, gathered his papers before him, whispered with those sitting nearby, and from time to time glanced anxiously at the jury. All the spectators shifted around and formed new groups, and even the judge himself rose from his seat and slowly paced up and down his dais, looking agitated.
+    KO: 동료 변호사인 스트라이버 씨는 서류를 모으고 곁에 앉은 이들과 귓속말을 나누며 때때로 불안한 눈빛으로 배심원단을 힐끔거렸다. 모든 방청객들이 저마다 술렁이며 삼삼오오 흩어졌다 모였고, 심지어 판사조차 자리에서 일어나 단상을 천천히 서성이며 초조한 기색을 내비쳤다.
+--------------------------------------------------------------------------------
+
+[69] ch_02.json ID 18 (Tag: P005_6)
+    Length: 316 EN chars (63 words), 203 KO chars, 4 sentences
+    EN: The guard of the Dover mail knew all of this. That Friday night in November 1775, he stood on his platform at the back of the coach. He stamped his feet to stay warm. He kept one hand on the weapons chest. Inside it: a loaded shotgun on top, six or eight loaded horse pistols below, and a cutlass at the very bottom.
+    KO: 도버 우편의 호위병은 이 모든 것을 알고 있었습니다. 1775년 11월의 어느 금요일 밤, 그는 마차 뒤쪽 플랫폼에 서 있었습니다. 그는 따뜻하게 지내기 위해 발을 구르고 있었습니다. 그는 무기 상자에 한 손을 얹고 있었습니다. 그 안에는 맨 위에 장전된 산탄총이, 아래에는 6개 또는 8개의 장전된 기병 권총이, 그리고 맨 밑바닥에는 짧고 넓은 칼이 있었습니다.
+--------------------------------------------------------------------------------
+
+[70] ch_08.json ID 59 (Tag: P035_4)
+    Length: 316 EN chars (55 words), 161 KO chars, 1 sentences
+    EN: Mr. Lorry sat at a table among the gentlemen in wigs: not far from a wigged gentleman, the prisoner’s counsel, who had a large bundle of papers before him; and nearly opposite another wigged gentleman with his hands in his pockets, whose whole attention, when Mr. Cruncher looked at him, was directed to the ceiling.
+    KO: 로리 씨는 가발을 쓴 신사들 틈에 섞여 테이블에 앉아 있었다. 그의 자리는 앞에 커다란 서류 뭉치를 쌓아둔 가발 쓴 신사인 피고인 측 변호인과 그리 멀지 않았고, 주머니에 두 손을 찔러 넣은 또 다른 가발 쓴 신사의 거의 맞은편이었는데, 크런처 씨가 그의 모든 시선은 천장을 향해 있었다.
+--------------------------------------------------------------------------------
+
+[71] ch_12.json ID 71 (Tag: P045_3)
+    Length: 316 EN chars (55 words), 181 KO chars, 2 sentences
+    EN: He knew enough about the world to realize there is nothing better than loyal, heartfelt service given without any greed. He had such deep respect for it that, in his own mind, he placed Miss Pross much closer to the angels than many naturally beautiful or dressed-up ladies who kept large bank accounts at Tellson's.
+    KO: 그는 탐욕 없이 주어지는 충성스럽고 진심 어린 봉사보다 더 나은 것은 없다는 것을 깨달을 만큼 세상에 대해 충분히 알고 있었다. 그는 그것에 너무나 깊은 존경심을 가지고 있어서, 마음속으로 텔슨 은행에 큰 계좌를 가지고 있는 타고난 미녀들이나 화려하게 차려입은 숙녀들보다 프로스 양을 천사들에 훨씬 더 가까운 자리에 두었다.
+--------------------------------------------------------------------------------
+
+[72] ch_21.json ID 116 (Tag: P050_3)
+    Length: 316 EN chars (61 words), 174 KO chars, 2 sentences
+    EN: One old man at the fountain said that his right hand, holding the knife, would be burned off right in front of him. He said they would cut his arms, chest, and legs, and pour boiling oil, melted lead, hot resin, wax, and sulfur into the wounds, and finally, he would be torn apart limb by limb by four strong horses.
+    KO: 분수대에 있던 한 노인은 칼을 쥐었던 그의 오른손이 그가 보는 바로 앞에서 불태워질 것이라고 말했습니다. 그는 그들이 그의 팔, 가슴, 다리를 자르고 그 상처에 끓는 기름, 녹인 납, 뜨거운 수지, 밀랍, 유황을 쏟아부은 다음, 마침내 네 마리의 튼튼한 말들에 의해 사지가 갈기갈기 찢겨나갈 것이라고 말했습니다.
+--------------------------------------------------------------------------------
+
+[73] ch_29.json ID 88 (Tag: P042_3)
+    Length: 316 EN chars (47 words), 150 KO chars, 1 sentences
+    EN: The general scarcity of everything caused candles to be borrowed from Monsieur Gabelle in a rather forceful manner; and when that official hesitated and showed reluctance, the road-mender, once so submissive to authority, remarked that carriages were good for making bonfires and that post-horses would roast nicely.
+    KO: 모든 것이 전반적으로 부족하다 보니 가벨 씨에게서 다소 강압적인 태도로 양초를 빌려 가게 되었는데, 그 관리가 머뭇거리며 주저하자 한때 권력에 그토록 순종적이던 도로 보수공은 마차는 모닥불을 피우기에 안성맞춤이고 우편마차 말들은 통구이로 구워질 것이라고 한마디 던졌다.
+--------------------------------------------------------------------------------
+
+[74] ch_39.json ID 16 (Tag: P008_8)
+    Length: 315 EN chars (57 words), 200 KO chars, 2 sentences
+    EN: Or, if they flop, their flopping ends up providing more patients, and how can you truly have one without the other? Then, what with the undertakers, the parish clerks, the gravediggers, and the private watchmen (all of them greedy and in on the scheme), a man wouldn't make much money from it, even if it were true.
+    KO: 아니면, 그들이 털썩 주저앉더라도 그 주저앉는 행위가 결국 더 많은 환자를 제공하게 되는데, 어떻게 하나 없이 다른 하나가 진정으로 존재할 수 있겠습니까? 게다가, 장의사들, 교구 서기들, 무덤 파는 인부들, 그리고 사설 경비원들(모두 탐욕스럽고 음모에 가담한 자들) 때문에, 설령 그것이 사실이라 하더라도 한 남자가 거기서 많은 돈을 벌지는 못할 것입니다.
+--------------------------------------------------------------------------------
+
+[75] ch_44.json ID 88 (Tag: P041_2)
+    Length: 315 EN chars (52 words), 183 KO chars, 2 sentences
+    EN: She and Jerry had watched the carriage leave and knew who Solomon was carrying. They had spent ten agonizing minutes waiting in suspense, and were now finishing their plans to follow the carriage, even as Madame Defarge walked through the streets, drawing closer and closer to the apartment where they were talking.
+    KO: 그녀와 제리는 마차가 떠나는 것을 지켜보았고 솔로몬이 누구를 태우고 있는지 알고 있었다. 그들은 불안감 속에서 십 분 동안 고통스러운 기다림의 시간을 보냈고, 이제는 마차를 쫓아갈 계획을 마무리하고 있었다. 심지어 드파르지 부인이 거리를 걸으며 그들이 이야기하고 있는 아파트에 점점 더 가까이 다가오고 있는 그 순간에도 말이다.
+--------------------------------------------------------------------------------
+
+[76] ch_29.json ID 100 (Tag: P046_1)
+    Length: 314 EN chars (57 words), 135 KO chars, 2 sentences
+    EN: Monsieur Gabelle spent a very long night up there, using the burning chateau in the distance as his light, and the pounding on his door and the joyous bell-ringing as his music. Outside his gate, a street lantern hung across the road, and the villagers were dropping hints that they would love to hang him from it.
+    KO: 가벨 씨는 멀리서 불타는 성을 불빛 삼아, 그의 문을 두드리는 소리와 기쁨에 찬 종소리를 음악 삼아 그곳에서 아주 긴 밤을 보냈다. 그의 문 밖 도로에는 가로등이 매달려 있었고, 마을 사람들은 그를 거기에 매달고 싶다는 힌트를 흘리고 있었다.
+--------------------------------------------------------------------------------
+
+[77] ch_01.json ID 37 (Tag: P008_2)
+    Length: 313 EN chars (51 words), 140 KO chars, 1 sentences
+    EN: Surrounded by these events, while the woodman and the farmer worked unnoticed, those two with the large jaws (the kings of England and France), and those other two with the plain and beautiful faces (the queens of England and France), strutted about quite noisily, arrogantly wielding their divine right of kings.
+    KO: 이런 일들에 둘러싸인 채, 나무꾼과 농부가 남몰래 일하는 동안, 턱이 큰 두 사람(영국 왕과 프랑스 왕)과 평범한 얼굴, 아름다운 얼굴을 가진 다른 두 사람(영국 왕비와 프랑스 왕비)은 아주 소란스럽게 활보하며 자신들의 왕권신수설을 거만하게 휘둘렀다.
+--------------------------------------------------------------------------------
+
+[78] ch_09.json ID 203 (Tag: P092_5)
+    Length: 313 EN chars (53 words), 114 KO chars, 3 sentences
+    EN: He explained that Cly, the 'virtuous' servant, was actually Barsad's partner in crime. He argued these liars framed the prisoner, knowing he had to travel to France often for private family matters. Out of respect for his family, the prisoner refused to explain what those matters were, even to save his own life.
+    KO: 그는 괴로워하는 젊은 숙녀에게서 억지로 받아낸 증언이 아무런 의미가 없다고 지적했다. 그것은 분명히 거친 농담에 불과했던 조지 워싱턴에 대한 발언을 제외하면 젊은 남녀 사이의 순수한 정중함만을 보여주었다.
+--------------------------------------------------------------------------------
+
+[79] ch_12.json ID 119 (Tag: P074_1)
+    Length: 313 EN chars (58 words), 185 KO chars, 2 sentences
+    EN: Miss Pross was a pleasant sight, even if she looked a bit wild, red-faced, and grim. She took off her darling's bonnet when she came upstairs, dusted it with her handkerchief, folded her cloak, and smoothed her rich hair with as much pride as if she were the most vain and beautiful woman tending to her own hair.
+    KO: 조금 야성적이고 얼굴이 붉으며 엄숙해 보일지라도 프로스 양은 기분 좋은 광경이었습니다. 그녀는 위층으로 올라온 그녀가 가장 사랑하는 이의 보닛을 벗기고, 손수건으로 먼지를 털고, 망토를 개어놓았으며, 자신이 마치 자신의 머리를 다듬는 가장 허영심 많고 아름다운 여성인 것처럼 매우 자랑스럽게 그녀의 풍성한 머리카락을 쓰다듬었습니다.
+--------------------------------------------------------------------------------
+
+[80] ch_21.json ID 130 (Tag: P055_4)
+    Length: 313 EN chars (63 words), 146 KO chars, 2 sentences
+    EN: He was tied up as before, and there was a gag in his mouth, tied with a tight string that made him look almost as if he was laughing." He demonstrated this by stretching his mouth to his ears with his thumbs. "At the top of the gallows, they fixed the knife with the blade facing upwards and the point in the air.
+    KO: 그는 이전처럼 묶여 있었고, 입에는 재갈이 물려 있었는데 단단한 줄로 묶여 있어서 마치 웃고 있는 것처럼 보였습니다." 그는 엄지손가락으로 입을 귀까지 늘려가며 이를 시연했다. "교수대 꼭대기에 그들은 칼날이 위를 향하고 끝이 공중을 향하도록 칼을 고정했습니다.
+--------------------------------------------------------------------------------
+
+[81] ch_30.json ID 134 (Tag: P066_1)
+    Length: 313 EN chars (57 words), 158 KO chars, 2 sentences
+    EN: The happiness of his new English home, the need to stay busy, and the rapid pace of events in France, where the news of one week destroyed the plans of the week before, and the following week changed everything again, had overwhelmed him. He had let things drift, feeling uneasy but not doing anything to stop it.
+    KO: 새로운 영국 가정의 행복, 바쁘게 지내야 할 필요성, 그리고 한 주 전의 계획을 완전히 망가뜨리고 그다음 주에는 또 모든 것을 바꾸어버리는 프랑스의 급박한 사건 전개가 그를 압도했다. 그는 불안감을 느끼면서도 그것을 막기 위해 아무것도 하지 않은 채 상황이 흘러가도록 내버려 두었다.
+--------------------------------------------------------------------------------
+
+[82] ch_35.json ID 65 (Tag: P029)
+    Length: 313 EN chars (59 words), 156 KO chars, 2 sentences
+    EN: He was very curious, and sometimes when she had forgotten all about him while staring up at the prison roof and praying for her husband, she would look over to find him watching her, with his knee on his bench and his saw stopped. “But it's none of my business!” he would usually say, and then start sawing again.
+    KO: 그는 호기심이 아주 많아서, 때때로 그녀가 그에 대해 완전히 잊고 감옥 지붕을 올려다보며 남편을 위해 기도할 때면, 그녀를 쳐다보며 작업대에 무릎을 꿇고 톱질을 멈추고 있는 그를 발견하곤 했다. “하지만 내 알 바 아니지!” 그는 대개 이렇게 말하고는 다시 톱질을 시작하곤 했다.
+--------------------------------------------------------------------------------
+
+[83] ch_37.json ID 12 (Tag: P005_2)
+    Length: 313 EN chars (53 words), 157 KO chars, 1 sentences
+    EN: Partly on this account, and partly to avoid a domestic spy, they kept no servant; the citizen and citizeness who acted as porters at the courtyard gate, rendered them occasional service; and Jerry (almost wholly transferred to them by Mr. Lorry) had become their daily retainer, and had his bed there every night.
+    KO: 부분적으로는 이러한 이유 때문이었고, 또 부분적으로는 집안의 밀고자를 피하기 위해 그들은 하인을 두지 않았다. 안뜰 문지기 역할을 하는 시민 부부가 가끔씩 일손을 도와주었고, (로리 씨가 거의 전적으로 그들에게 내어준) 제리가 그들의 일상 시종이 되어 매일 밤 그곳에서 잠을 잤다.
+--------------------------------------------------------------------------------
+
+[84] ch_26.json ID 85 (Tag: P045_2)
+    Length: 310 EN chars (58 words), 157 KO chars, 1 sentences
+    EN: If the lonely wanderer then pacing the dark streets could have heard her innocent confession, and could have seen the tears of pity kissed away by her husband from the soft blue eyes that so loved him, he might have cried out to the night—and those words would not have parted from his lips for the first time.
+    KO: 만약 그때 어두운 거리를 거닐던 외로운 방랑자가 그녀의 순수한 고백을 듣고, 남편을 그토록 사랑하는 부드러운 푸른 눈에서 남편의 입맞춤으로 닦여 나가는 연민의 눈물을 볼 수 있었다면, 그는 밤을 향해 외쳤을지도 모른다—그리고 그 말이 그의 입술을 떠난 것이 처음은 아니었을 것이다.
+--------------------------------------------------------------------------------
+
+[85] ch_42.json ID 74 (Tag: P036_3)
+    Length: 310 EN chars (61 words), 175 KO chars, 5 sentences
+    EN: Defarge, that sister of the dying boy on the ground was my sister. Her husband was my brother-in-law. Their unborn child was my niece or nephew. That boy was my brother, that father was my father. Those dead are my dead, and it is up to me to make sure those crimes are answered for!’ Ask him if that is true.”
+    KO: 드파르지, 땅에서 죽어가는 소년의 누이는 내 언니였다. 그녀의 남편은 내 형부였다. 그들의 태어나지 않은 아이는 내 조카였다. 그 소년은 내 오빠였고, 그 아버지는 내 아버지였다. 그 죽은 이들은 나의 죽은 이들이고, 그 범죄에 대한 대가를 치르게 하는 것은 나에게 달려 있다!' 그게 사실인지 그에게 물어보라."
+--------------------------------------------------------------------------------
+
+[86] ch_39.json ID 173 (Tag: P088_3)
+    Length: 308 EN chars (57 words), 141 KO chars, 1 sentences
+    EN: The religious words read at his father's grave came back to him now as he walked through the dark, shadowy streets under the moon: “I am the resurrection and the life, saith the Lord: he that believeth in me, though he were dead, yet shall he live: and whosoever liveth and believeth in me, shall never die.”
+    KO: 달빛 아래 어둡고 그림자 진 거리를 걸어가며, 아버지의 무덤에서 낭독되었던 종교적인 말씀이 이제 그에게 다시 떠올랐다: “나는 부활이요 생명이니, 나를 믿는 자는 죽어도 살겠고, 무릇 살아서 나를 믿는 자는 영원히 죽지 아니하리라, 주께서 말씀하셨다.”
+--------------------------------------------------------------------------------
+
+[87] ch_27.json ID 161 (Tag: P077_2)
+    Length: 307 EN chars (54 words), 139 KO chars, 3 sentences
+    EN: The seven faces belonged to prisoners who had suddenly been freed by the riot that broke open their cells. They were carried high above the crowd, looking terrified, lost, and completely amazed. They looked like it was the end of the world, staring at the cheering people around them as if they were ghosts.
+    KO: 그 일곱 명의 얼굴은 감방을 부순 폭동으로 갑자기 풀려난 죄수들의 것이었다. 그들은 군중 위로 높이 들려진 채 겁에 질려 방황하며 완전히 경악한 모습이었다. 그들은 환호하는 주변 사람들을 유령처럼 멍하니 쳐다보며 마치 세상의 끝이 온 것처럼 보였다.
+--------------------------------------------------------------------------------
+
+[88] ch_38.json ID 158 (Tag: P077_7)
+    Length: 306 EN chars (55 words), 156 KO chars, 1 sentences
+    EN: “The inference is as clear as day in this land of suspicion: that Mr. Barsad, still in the pay of the aristocratic English government, is the spy of Pitt—the treacherous foe of the Republic crouching in its bosom, the English traitor and agent of all mischief so widely spoken of and so difficult to find.”
+    KO: “의심이 판치는 이곳에서는 대낮처럼 명백한 결론이 나오지. 바사드 씨는 여전히 영국 귀족 정부의 돈을 받고 있는 피트의 스파이이자, 공화국의 품속에 웅크리고 있는 배신자요, 세간에 그토록 자주 입에 오르내리면서도 찾아내기 힘든 온갖 악행의 주범인 영국인 반역자라는 결론 말이오.”
+--------------------------------------------------------------------------------
+
+[89] ch_38.json ID 179 (Tag: P084_1)
+    Length: 306 EN chars (57 words), 166 KO chars, 1 sentences
+    EN: “I think, sir,” said the spy in the most groveling manner as he turned to Mr. Lorry, “I may appeal to a gentleman of your years and benevolence to ask this other gentleman, so much your junior, whether he can under any circumstances reconcile it with his character to play that Ace of which he has spoken.”
+    KO: “제 생각에는, 어르신,” 스파이는 가장 비굴한 태도로 로리 씨를 돌아보며 말했다. “어르신처럼 연륜과 자애로움을 갖추신 신사분께서 어르신보다 한참 젊은 이 신사분에게, 그가 말한 그 에이스를 내미는 것이 과연 어떤 경우라도 자신의 신분에 부합하는 행동인지 따져 물어주실 수 있지 않을까 합니다.”
+--------------------------------------------------------------------------------
+
+[90] ch_40.json ID 138 (Tag: P061_1)
+    Length: 306 EN chars (57 words), 175 KO chars, 2 sentences
+    EN: “‘Then, with that nobleman's permission and even his help, his brother took her away. In spite of what I know she must have told the brother, and you will find out what that was soon enough, Doctor, if you don't know already, his brother took her away for his own pleasure and amusement for a little while.
+    KO: “‘그러고 나서 저 귀족의 허락과 심지어 그의 도움까지 받아, 저 자의 동생이 그녀를 끌고 갔습니다. 그녀가 동생에게 틀림없이 말했을 내용을 고려하더라도, 그리고 만약 선생님이 아직 모르신다 해도 그게 무엇인지 곧 알게 되시겠지만, 저 자의 동생은 잠시 동안 자신의 쾌락과 오락을 위해 그녀를 끌고 갔던 것입니다.
+--------------------------------------------------------------------------------
+
+[91] ch_03.json ID 3 (Tag: P002_2)
+    Length: 305 EN chars (55 words), 180 KO chars, 3 sentences
+    EN: It is a serious thought, when I enter a great city by night, that every one of those dark, clustered houses holds its own secret. Every room inside them holds its own secret, too. And every beating heart, among the hundreds of thousands of people there, holds secrets even from the person closest to them!
+    KO: 밤에 커다란 도시에 들어설 때면, 저렇게 무리 지어 있는 어두운 집들 하나하나가 각자의 비밀을 품고 있다는 사실이 새삼 진지하게 다가온다. 그 안의 모든 방들도 역시 저마다의 비밀을 간직하고 있다. 그리고 그곳에 있는 수십만 명의 사람들 속에서 고동치는 모든 심장들은, 심지어 가장 가까운 사람에게조차 비밀을 숨기고 있다!
+--------------------------------------------------------------------------------
+
+[92] ch_09.json ID 199 (Tag: P091_6)
+    Length: 305 EN chars (55 words), 159 KO chars, 1 sentences
+    EN: However, Mr. Stryver replied to the judge that he was not; but he would ask the witness to state whether what happened once might happen twice; whether he would have been so confident had he seen this demonstration of his rashness earlier; whether he could still be so confident having seen it; and so on.
+    KO: 하지만 스트라이버 씨는 재판장에게 그렇지 않다고 답했다. 다만 증인에게 한 번 일어난 일이 두 번 일어날 수도 있는지, 자신의 경솔함을 보여주는 이러한 예를 더 일찍 보았더라면 그렇게 확신할 수 있었을지, 그리고 그것을 본 지금도 여전히 그렇게 확신할 수 있는지 등을 묻겠다고 말했다.
+--------------------------------------------------------------------------------
+
+[93] ch_11.json ID 4 (Tag: P002_3)
+    Length: 305 EN chars (50 words), 140 KO chars, 1 sentences
+    EN: The learned legal profession was certainly not behind any other learned profession in its heavy drinking habits; nor was Mr. Stryver, who was already aggressively elbowing his way to a large and lucrative practice, behind his peers in this respect, any more than in the drier aspects of legal competition.
+    KO: 학식 있는 법조계는 음주 벽에 있어서 결코 다른 전문직에 뒤지지 않았으며, 이미 크고 수익성 높은 수임 업무를 향해 발 빠르게 치고 나가던 스트라이버 씨 역시 법률 경쟁의 무미건조한 분야에서만큼이나 이 술자리 방면에서도 결코 동료들에게 뒤지지 않았다.
+--------------------------------------------------------------------------------
+
+[94] ch_12.json ID 95 (Tag: P064_5)
+    Length: 304 EN chars (52 words), 174 KO chars, 2 sentences
+    EN: "Believe me, Miss Pross, I am not bringing up this topic out of mere curiosity, but out of genuine, earnest care." "Well! As far as I understand it—and you'll probably say my understanding isn't worth much," said Miss Pross, softened by his apologetic tone, "he is simply terrified of the whole subject."
+    KO: "제 말을 믿어주십시오, 프로스 양. 제가 이 문제를 꺼낸 것은 단순한 호기심 때문이 아니라, 진심 어린 깊은 관심 때문입니다." 사과하는 그의 어조에 마음이 누그러진 프로스 양이 말했다. "글쎄요! 제 좁은 소견으로는—그것도 보잘것없는 소견이라 하시겠지만—박사님은 그 이야기 자체를 통틀어 두려워하고 계세요."
+--------------------------------------------------------------------------------
+
+[95] ch_43.json ID 41 (Tag: P014_2)
+    Length: 304 EN chars (58 words), 160 KO chars, 5 sentences
+    EN: Where would he stand? How would they touch him, and would the hands that touched him be stained red? Which way would his face be turned? Would he be the first to die, or the last? These and many similar questions, which he did not want to think about, forced themselves into his mind over and over again.
+    KO: 그는 어디에 서게 될까? 그들이 그를 어떻게 만질 것이며, 그를 만지는 손은 붉게 물들어 있을까? 그의 얼굴은 어느 쪽을 향하게 될까? 그가 첫 번째로 죽게 될까, 아니면 마지막일까? 그가 생각하고 싶지 않은 이러한 것들과 이와 비슷한 많은 질문들이 계속해서 그의 마음속으로 밀려들었다.
+--------------------------------------------------------------------------------
+
+[96] ch_45.json ID 8 (Tag: P003_2)
+    Length: 304 EN chars (54 words), 139 KO chars, 1 sentences
+    EN: Turn them back to what they used to be, powerful magician Time, and they would be seen as the carriages of absolute kings, the coaches of feudal lords, the dressing tables of greedy women, the churches turned into dens of thieves instead of houses of God, and the shacks of millions of starving peasants!
+    KO: 그들을 예전의 모습으로 되돌려 놓아라, 강력한 마법사 시간아. 그러면 그들은 절대 군주의 마차, 봉건 영주의 마차, 탐욕스러운 여자들의 화장대, 하나님의 집 대신 도둑의 소굴로 변한 교회, 그리고 수백만 명의 굶주린 농민들의 오두막으로 보일 것이다!
+--------------------------------------------------------------------------------
+
+[97] ch_09.json ID 12 (Tag: P002_1)
+    Length: 303 EN chars (47 words), 137 KO chars, 1 sentences
+    EN: That the noble example of this flawless and unimpeachable witness for the Crown—to refer to whom, however unworthily, was an honor—had communicated itself to the prisoner’s servant, and had engendered in him a holy determination to examine his master’s table drawers and pockets, and secrete his papers.
+    KO: 국왕 측의 이 티 없고 흠잡을 데 없는 증인—아무리 보잘것없는 표현으로 언급하더라도 영광일 따름인 그 증인—의 숭고한 본보기가 피고인의 하인에게도 전해져, 주인의 서랍과 주머니를 뒤져 서류를 몰래 빼돌려야겠다는 거룩한 결의를 품게 만들었다는 것.
+--------------------------------------------------------------------------------
+
+[98] ch_30.json ID 22 (Tag: P010)
+    Length: 303 EN chars (57 words), 183 KO chars, 5 sentences
+    EN: “I understand. That I am too old?” said Mr. Lorry. "My dear Charles," he said with cheerful confidence, "you are mentioning some of the reasons for me to go, not for staying away. I will be safe enough. No one will bother an old man of nearly eighty when there are so many other people worth targeting.”
+    KO: “이해하네. 내가 너무 늙었다는 말인가?” 로리 씨가 말했다. "친애하는 찰스," 그가 유쾌한 자신감을 보이며 말했다. "자네가 말한 것들은 내가 가야 할 이유이지, 가지 말아야 할 이유가 아니라네. 나는 충분히 안전할 걸세. 표적으로 삼을 가치가 있는 다른 사람들이 너무나 많은데, 여든 살이 다 된 노인을 누가 괴롭히겠나.”
+--------------------------------------------------------------------------------
+
+[99] ch_40.json ID 36 (Tag: P017_2)
+    Length: 303 EN chars (58 words), 170 KO chars, 2 sentences
+    EN: About two miles from the gate, I did not measure the distance then, but did so later when I traveled it again, the carriage turned off the main road and soon stopped at a lonely house. The three of us got out and walked down a damp, soft garden path, past a neglected, overflowing fountain, to the door.
+    KO: 성문에서 약 이 마일쯤 떨어진 곳에서, 그때는 거리를 재지 않았지만 나중에 그 길을 다시 갔을 때 그렇게 쟀는데, 마차가 큰길에서 벗어나 곧 어느 외딴 집 앞에 멈춰 섰다. 우리 세 사람은 마차에서 내려 축축하고 부드러운 정원 오솔길을 따라 걸어갔고, 방치되어 물이 넘쳐흐르는 분수를 지나 문에 이르렀다.
+--------------------------------------------------------------------------------
+
+[100] ch_12.json ID 73 (Tag: P047_1)
+    Length: 302 EN chars (48 words), 133 KO chars, 1 sentences
+    EN: Here again, Mr. Lorry's inquiries into Miss Pross's personal history had established the fact that her brother Solomon was a heartless scoundrel who had stripped her of everything she possessed to use as gambling stakes, and had abandoned her in poverty forever, without the slightest touch of remorse.
+    KO: 또 다른 면에서도 그러했다. 로리 씨가 프로스 양의 개인적인 내력을 알아본 결과, 그녀의 남동생 솔로몬은 투기 밑천으로 누나의 전 재산을 가로채고는 일말의 가책도 없이 그녀를 영원한 빈곤 속에 내버려 둔 비정한 악당이라는 사실이 밝혀졌다.
+--------------------------------------------------------------------------------
+
+[101] ch_13.json ID 26 (Tag: P007_2)
+    Length: 302 EN chars (50 words), 154 KO chars, 3 sentences
+    EN: Although the rooms were beautiful and decorated with the finest art of the time, they did not represent a healthy society. Nearby lived starving people in rags and nightcaps. The towers of Notre Dame Cathedral could easily see both worlds, the mansion and the misery, standing between the two extremes.
+    KO: 비록 방들은 아름답고 당대 최고의 예술품들로 장식되어 있었지만, 그것들은 건강한 사회를 대변하지는 않았다. 근처에는 누더기를 입고 나이트캡을 쓴 굶주린 사람들이 살고 있었다. 노트르담 대성당의 탑들은 그 두 극단 사이에 서서 저택과 비참함이라는 두 세계를 쉽게 볼 수 있었다.
+--------------------------------------------------------------------------------
+
+[102] ch_28.json ID 40 (Tag: P021_2)
+    Length: 302 EN chars (46 words), 133 KO chars, 1 sentences
+    EN: Leaving behind what little household work their extreme poverty allowed, leaving their children, and leaving their sick and elderly crouching famished and naked on the bare ground, they rushed out with disheveled hair, driving one another and themselves into madness with the wildest cries and actions.
+    KO: 지독한 빈곤이 허락한 보잘것없는 집안일도 팽개치고, 굶주리고 헐벗은 채 맨땅에 웅크리고 있는 자식들과 노인, 병자들을 뒤로한 채, 여자들은 머리를 풀어헤치고 뛰쳐나와 거친 비명과 광란의 몸짓으로 서로를, 그리고 스스로를 미치도록 부추겼다.
+--------------------------------------------------------------------------------
+
+[103] ch_39.json ID 261 (Tag: P128)
+    Length: 302 EN chars (52 words), 171 KO chars, 3 sentences
+    EN: In absolute silence, Charles looked lovingly at his wife, who looked back and forth between him and her father. Doctor Manette kept his eyes on the reader, Madame Defarge stared at the prisoner, Defarge watched his wife, and everyone else looked at the Doctor. The paper was then read aloud as follows.
+    KO: 절대적인 침묵 속에서 다네이는 아내를 사랑스럽게 바라보았고, 루시는 남편과 아버지 사이를 번갈아 바라보았다. 마네트 박사는 낭독자에게 시선을 고정했고, 마담 드파르지는 죄수를 노려보았으며, 드파르지는 아내를 지켜보았고, 다른 모든 사람들은 박사를 바라보았다. 이윽고 그 종이가 다음과 같이 크게 낭독되었다.
+--------------------------------------------------------------------------------
+
+[104] ch_44.json ID 214 (Tag: P100_2)
+    Length: 302 EN chars (56 words), 132 KO chars, 4 sentences
+    EN: She arrived at the cathedral a few minutes before Jerry and waited there, worrying: what if the key was caught in a fishing net? What if it was identified? What if the apartment door was opened and the body discovered? What if she was stopped at the city gates, sent to prison, and charged with murder?
+    KO: 그녀는 제리보다 몇 분 먼저 성당에 도착해 기다리면서 걱정했다. 만약 열쇠가 그물에 걸리면 어쩌지? 그것이 식별되면 어쩌지? 아파트 문이 열리고 시체가 발견되면 어쩌지? 성문에서 멈춰 서서 감옥으로 보내져 살인 혐의를 받게 되면 어쩌지?
+--------------------------------------------------------------------------------
+
+[105] ch_45.json ID 88 (Tag: P036)
+    Length: 302 EN chars (61 words), 175 KO chars, 2 sentences
+    EN: “What I was thinking as we rode along, and what I am still thinking now as I look into your kind, strong face which gives me so much comfort, is this: if the Republic really does good for the poor, and they become less hungry and suffer less, she might live a long time. She might even live to be old.”
+    KO: “우리가 타고 오면서 제가 생각했던 것, 그리고 제게 큰 위로를 주는 당신의 다정하고 강인한 얼굴을 보며 지금도 생각하고 있는 것은 이것이에요. 만약 공화국이 정말로 가난한 사람들을 위해 좋은 일을 하고, 그들이 덜 굶주리고 덜 고통받게 된다면, 그녀는 오래 살지도 몰라요. 그녀는 늙을 때까지 살 수도 있어요.”
+--------------------------------------------------------------------------------
+

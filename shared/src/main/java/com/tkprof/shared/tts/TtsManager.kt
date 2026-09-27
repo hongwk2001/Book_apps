@@ -4,6 +4,7 @@ import android.content.Context
 import android.speech.tts.TextToSpeech
 import android.speech.tts.UtteranceProgressListener
 import android.speech.tts.Voice
+import com.tkprof.shared.model.Language
 import kotlinx.coroutines.flow.MutableStateFlow
 import kotlinx.coroutines.flow.StateFlow
 import java.util.Locale
@@ -13,6 +14,17 @@ import java.util.Locale
  * Supports Pitch, fine Speed control, and dynamic sample reading.
  */
 class TtsManager(private val context: Context) {
+
+    private val prefs = context.getSharedPreferences("ReaderPrefs", Context.MODE_PRIVATE)
+
+    companion object {
+        const val PREF_VOICE_EN = "tts_voice_en"
+        const val PREF_VOICE_KO = "tts_voice_ko"
+        const val PREF_SPEED_EN = "tts_speed_en"
+        const val PREF_SPEED_KO = "tts_speed_ko"
+        const val PREF_PITCH_EN = "tts_pitch_en"
+        const val PREF_PITCH_KO = "tts_pitch_ko"
+    }
 
     private var tts: TextToSpeech? = null
 
@@ -27,12 +39,27 @@ class TtsManager(private val context: Context) {
 
     var selectedEnglishVoice: Voice? = null
     var selectedKoreanVoice: Voice? = null
-    
-    var englishSpeed: Float = 1.0f
-    var koreanSpeed: Float = 0.9f
-    
-    var englishPitch: Float = 1.0f
-    var koreanPitch: Float = 1.0f
+
+    var englishSpeed: Float = prefs.getFloat(PREF_SPEED_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+    var koreanSpeed: Float = prefs.getFloat(PREF_SPEED_KO, 0.9f).let { if (it <= 0f) 0.9f else it }
+
+    var englishPitch: Float = prefs.getFloat(PREF_PITCH_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+    var koreanPitch: Float = prefs.getFloat(PREF_PITCH_KO, 1.0f).let { if (it <= 0f) 1.0f else it }
+
+    // Written from the caller's thread, read on the engine's callback thread.
+    @Volatile private var onCurrentUtteranceDone: (() -> Unit)? = null
+    @Volatile private var onCurrentUtteranceError: (() -> Unit)? = null
+
+    /**
+     * Id of the utterance whose callbacks are still wanted.
+     *
+     * speak() uses QUEUE_FLUSH, so the engine reports onDone/onError for the
+     * utterance it just flushed -- asynchronously, and often after the replacement
+     * has been queued. Without this guard that late callback advances the sentence
+     * queue and flushes the sentence we only just started.
+     */
+    @Volatile private var currentUtteranceId: String? = null
+    private val utteranceCounter = java.util.concurrent.atomic.AtomicLong(0)
 
     fun init() {
         tts = TextToSpeech(context) { status ->
@@ -43,6 +70,31 @@ class TtsManager(private val context: Context) {
                         .setContentType(android.media.AudioAttributes.CONTENT_TYPE_SPEECH)
                         .build()
                 )
+                tts?.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
+                    override fun onStart(id: String?) {
+                        if (id != currentUtteranceId) return
+                        _isSpeaking.value = true
+                    }
+                    override fun onDone(id: String?) {
+                        if (id != currentUtteranceId) return
+                        currentUtteranceId = null
+                        _isSpeaking.value = false
+                        val callback = onCurrentUtteranceDone
+                        onCurrentUtteranceDone = null
+                        onCurrentUtteranceError = null
+                        callback?.invoke()
+                    }
+                    @Deprecated("Deprecated in Java")
+                    override fun onError(id: String?) {
+                        if (id != currentUtteranceId) return
+                        currentUtteranceId = null
+                        _isSpeaking.value = false
+                        val callback = onCurrentUtteranceError
+                        onCurrentUtteranceDone = null
+                        onCurrentUtteranceError = null
+                        callback?.invoke()
+                    }
+                })
                 _isReady.value = true
                 loadVoices()
             }
@@ -52,67 +104,141 @@ class TtsManager(private val context: Context) {
     private fun loadVoices() {
         val all = tts?.voices ?: return
         
-        // Filter English voices to en-US if possible, otherwise any en
-        val enList = all.filter { it.locale.language == "en" && !it.isNetworkConnectionRequired }
-        val enUsList = enList.filter { it.locale.country == "US" }
-        englishVoices.value = (if (enUsList.isNotEmpty()) enUsList else enList).sortedBy { it.name }
+        // Include all English voices (US, UK, AU, etc.) so they sound different, including network voices
+        val enList = all.filter { it.locale.language == "en" }
+        englishVoices.value = enList.sortedBy { it.name }
         
         koreanVoices.value = all
-            .filter { it.locale.language == "ko" && !it.isNetworkConnectionRequired }
+            .filter { it.locale.language == "ko" }
             .sortedBy { it.name }
             
-        selectedEnglishVoice = englishVoices.value.firstOrNull()
-        selectedKoreanVoice  = koreanVoices.value.firstOrNull()
+        val savedEnVoice = prefs.getString(PREF_VOICE_EN, null)
+        selectedEnglishVoice = englishVoices.value.firstOrNull { it.name == savedEnVoice }
+            ?: englishVoices.value.firstOrNull()
+
+        val savedKoVoice = prefs.getString(PREF_VOICE_KO, null)
+        selectedKoreanVoice = koreanVoices.value.firstOrNull { it.name == savedKoVoice }
+            ?: koreanVoices.value.firstOrNull()
     }
 
-    fun speakEnglish(text: String, onDone: () -> Unit = {}) {
-        val engine = tts ?: return
+    fun saveVoiceSettings(
+        enVoice: Voice?,
+        koVoice: Voice?,
+        enSpeed: Float,
+        koSpeed: Float,
+        enPitch: Float,
+        koPitch: Float
+    ) {
+        selectedEnglishVoice = enVoice
+        selectedKoreanVoice = koVoice
+        englishSpeed = enSpeed
+        koreanSpeed = koSpeed
+        englishPitch = enPitch
+        koreanPitch = koPitch
+
+        prefs.edit()
+            .putString(PREF_VOICE_EN, enVoice?.name)
+            .putString(PREF_VOICE_KO, koVoice?.name)
+            .putFloat(PREF_SPEED_EN, enSpeed)
+            .putFloat(PREF_SPEED_KO, koSpeed)
+            .putFloat(PREF_PITCH_EN, enPitch)
+            .putFloat(PREF_PITCH_KO, koPitch)
+            .apply()
+        notifyBackupDataChanged()
+    }
+
+    private fun notifyBackupDataChanged() {
+        try {
+            android.app.backup.BackupManager(context).dataChanged()
+        } catch (_: Exception) {}
+    }
+
+    fun restoreSavedVoices() {
+        val savedEnVoice = prefs.getString(PREF_VOICE_EN, null)
+        selectedEnglishVoice = englishVoices.value.firstOrNull { it.name == savedEnVoice }
+            ?: englishVoices.value.firstOrNull()
+
+        val savedKoVoice = prefs.getString(PREF_VOICE_KO, null)
+        selectedKoreanVoice = koreanVoices.value.firstOrNull { it.name == savedKoVoice }
+            ?: koreanVoices.value.firstOrNull()
+
+        englishSpeed = prefs.getFloat(PREF_SPEED_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+        koreanSpeed = prefs.getFloat(PREF_SPEED_KO, 0.9f).let { if (it <= 0f) 0.9f else it }
+        englishPitch = prefs.getFloat(PREF_PITCH_EN, 1.0f).let { if (it <= 0f) 1.0f else it }
+        koreanPitch = prefs.getFloat(PREF_PITCH_KO, 1.0f).let { if (it <= 0f) 1.0f else it }
+    }
+
+    fun speakEnglish(text: String, onDone: () -> Unit = {}, onError: () -> Unit = {}) {
+        val engine = tts ?: run {
+            onError()
+            return
+        }
         engine.setSpeechRate(englishSpeed)
         engine.setPitch(englishPitch)
         selectedEnglishVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.US)
         
+        val utteranceId = "utt_en_${utteranceCounter.incrementAndGet()}"
+        currentUtteranceId = utteranceId
+        onCurrentUtteranceDone = onDone
+        onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_en")
-        engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-            override fun onStart(id: String?) {}
-            override fun onDone(id: String?) { _isSpeaking.value = false; onDone() }
-            @Deprecated("Deprecated in Java")
-            override fun onError(id: String?) { _isSpeaking.value = false }
-        })
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+        if (result != TextToSpeech.SUCCESS) {
+            currentUtteranceId = null
+            _isSpeaking.value = false
+            onCurrentUtteranceDone = null
+            onCurrentUtteranceError = null
+            onError()
+        }
     }
 
-    fun speakKorean(text: String, onDone: () -> Unit = {}) {
-        val engine = tts ?: return
+    fun speakKorean(text: String, onDone: () -> Unit = {}, onError: () -> Unit = {}) {
+        val engine = tts ?: run {
+            onError()
+            return
+        }
         engine.setSpeechRate(koreanSpeed)
         engine.setPitch(koreanPitch)
         selectedKoreanVoice?.let { engine.voice = it } ?: engine.setLanguage(Locale.KOREA)
         
+        val utteranceId = "utt_ko_${utteranceCounter.incrementAndGet()}"
+        currentUtteranceId = utteranceId
+        onCurrentUtteranceDone = onDone
+        onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, "utt_ko")
-        engine.setOnUtteranceProgressListener(object : UtteranceProgressListener() {
-            override fun onStart(id: String?) {}
-            override fun onDone(id: String?) { _isSpeaking.value = false; onDone() }
-            @Deprecated("Deprecated in Java")
-            override fun onError(id: String?) { _isSpeaking.value = false }
-        })
+        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+        if (result != TextToSpeech.SUCCESS) {
+            currentUtteranceId = null
+            _isSpeaking.value = false
+            onCurrentUtteranceDone = null
+            onCurrentUtteranceError = null
+            onError()
+        }
     }
 
-    fun speakSample(isEnglish: Boolean, bookTitle: String) {
-        if (isEnglish) {
-            speakEnglish("You are listening to $bookTitle. This voice is for English.")
-        } else {
-            speakKorean("${bookTitle}를 듣고 있습니다. 이 음성은 한국어입니다.")
+    fun speakSample(lang: Language, bookTitle: String) {
+        when (lang) {
+            Language.EN -> speakEnglish("You are listening to $bookTitle. This voice is for English.")
+            Language.KO -> speakKorean("${bookTitle}를 듣고 있습니다. 이 음성은 한국어입니다.")
         }
     }
 
     fun stop() {
+        currentUtteranceId = null
+        onCurrentUtteranceDone = null
+        onCurrentUtteranceError = null
         tts?.stop()
         _isSpeaking.value = false
     }
 
     fun shutdown() {
+        currentUtteranceId = null
+        onCurrentUtteranceDone = null
+        onCurrentUtteranceError = null
+        tts?.stop()
         tts?.shutdown()
         tts = null
         _isReady.value = false
+        _isSpeaking.value = false
     }
 }

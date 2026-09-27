@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">젊은 베르테르의 슬픔</string>
+    <string name="app_name_en">The Sorrows of Young Werther</string>
+    <string name="app_name_ko">젊은 베르테르의 슬픔</string>
+    <string name="iap_product_id">com.tkprof.werther.full</string>
+    <integer name="free_chapters">3</integer>
+    <integer name="total_chapters">15</integer>
+</resources>

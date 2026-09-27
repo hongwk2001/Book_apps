@@ -1,0 +1,165 @@
+[54] ch_07.json ID 33 (P009_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...on a windy March morning, in the year of our Lord 1780. (Mr.
+    Current KO end: ... 씨의 사적인 거처였다. 때는 서기 1780년, 바람 부는 3월 어느 날 아침 7시 반이었다. (크런처...
+    Next EN start : Mr. Cruncher’s lodgings were not in a pleasant neighborhood,...
+--------------------------------------------------
+[61] ch_08.json ID 16 (P011_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...Lorry, and you should make any gesture that will attract Mr.
+    Current KO end: ...문지기가 로리 씨에게 쪽지를 건넬 테니, 자네는...
+    Next EN start : Then, your job is simply to stay there until he needs you."...
+--------------------------------------------------
+[64] ch_08.json ID 58 (P035_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...ted to the doorkeeper, whom he saw making his way toward Mr.
+    Current KO end: ...이때 크런처 씨의 주의는 문지기에게로 쏠렸는데, 문지기가...
+    Next EN start : Mr. Lorry sat at a table among the gentlemen in wigs: not fa...
+--------------------------------------------------
+[65] ch_08.json ID 59 (P035_4) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...th his hands in his pockets, whose whole attention, when Mr.
+    Current KO end: ... 멀지 않았고, 주머니에 두 손을 찔러 넣은 또 다른 가발 쓴 신사의 거의 맞은편이었는데, 크런처 씨가...
+    Next EN start : After some gruff coughing, rubbing his chin, and gesturing w...
+--------------------------------------------------
+[68] ch_09.json ID 20 (P003_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...e prepared to leave. But the defense lawyer sitting near Mr.
+    Current KO end: .... 자신의 이야기를 나눈 후, 그는 떠날 준비를 했습니다. 그러나 로리 씨 근처에 앉아 있던 변호인이 그를.
+    Next EN start : Lorry stopped him for cross-examination. The other lawyer op...
+--------------------------------------------------
+[80] ch_09.json ID 198 (P091_3) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ... prisoner's counsel) whether they were next going to try Mr.
+    Current KO end: ...재판장은 (피고인의 변호인인) 스트라이버 씨에게, 다음에는 미스터
+    Next EN start : However, Mr. Stryver replied to the judge that he was not; b...
+--------------------------------------------------
+[81] ch_09.json ID 230 (P101_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...Mr. Carton came over at that moment and touched Mr.
+    Current KO end: ...카턴 씨가 바로 그 순간 다가와 미스터
+    Next EN start : "How is the young lady?"...
+--------------------------------------------------
+[82] ch_10.json ID 2 (P002_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...ette, Mr. Lorry, the defense solicitor, and its counsel, Mr.
+    Current KO end: ...고 있을 때, 마네트 박사와 그의 딸 루시 마네트, 로리 씨, 피고측 사무변호사, 그리고 법정변호사인 미스터
+    Next EN start : Even in much brighter light, it would have been hard to reco...
+--------------------------------------------------
+[83] ch_10.json ID 9 (P005_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...sed her hand fervently and gratefully, and had turned to Mr.
+    Current KO end: ...다네이 씨는 그녀의 손에 열렬하고 감사한 마음으로 입을 맞춘 뒤, 미스터
+    Next EN start : Mr. Stryver—a man barely over thirty, but looking twenty yea...
+--------------------------------------------------
+[84] ch_10.json ID 11 (P006_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...p, he said: “I am glad to have acquitted you with honor, Mr.
+    Current KO end: ...밀어낼 정도로 이전 의뢰인을 향해 당당하게 마주 서며 말했다. “명예롭게 무죄를 이끌어내어 기쁘군요, 미스터
+    Next EN start : "It was an infamous prosecution, absolutely disgraceful, but...
+--------------------------------------------------
+[85] ch_10.json ID 22 (P013_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...“I speak for myself,” answered Mr. Lorry, “and for Mr.
+    Current KO end: ...“제 자신을 위해서도 말하지만,” 로리 씨가 대답했다. “다네이 씨를
+    Next EN start : Doctor Manette's face had frozen into a strange look as he s...
+--------------------------------------------------
+[86] ch_10.json ID 35 (P020_4) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...He now walked up to where Mr. Lorry and Mr.
+    Current KO end: ...그는 이제 로리 씨와 미스터
+    Next EN start : “So, Mr. Lorry!...
+--------------------------------------------------
+[87] ch_10.json ID 44 (P025_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...ow," replied Mr. Carton carelessly. "Don't be irritated, Mr.
+    Current KO end: ..."*저도* 압니다, *저도* 알아요." 칼턴 씨가 무심하게 대꾸했다. "너무 언짢아하지 마십시오, 로리...
+    Next EN start : I'm sure you are as good as anyone else, probably better."...
+--------------------------------------------------
+[94] ch_12.json ID 120 (P074_4) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...s. But no hundreds of people came to see the sights, and Mr.
+    Current KO end: ...에 이런 안식처로 인도해 준 행운에 감사했다. 하지만 구경하러 온 수백 명의 사람들은 보이지 않았고, 미스터
+    Next EN start : By dinner time, there was still no crowd....
+--------------------------------------------------
+[96] ch_12.json ID 191 (P111_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...d night, Mr. Carton," said the businessman. "Good night, Mr.
+    Current KO end: ..."안녕히 가십시오, 카턴 씨." 은행가가 말했다. "안녕히 가십시오, 미스터
+    Next EN start : "Will we ever see such a night together again?"...
+--------------------------------------------------
+[129] ch_18.json ID 19 (P009_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...onsidered appropriate for the situation, "How do you do, Mr.
+    Current KO end: ...신중한 로리 씨는 그런 상황에 걸맞은 모범적인 어조로 말했다. "안녕하십니까, 미스터
+    Next EN start : How do you do, sir?" and shook hands....
+--------------------------------------------------
+[130] ch_18.json ID 22 (P010_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ..."Can I do anything for you, Mr. Stryver?" asked Mr.
+    Current KO end: ..."무엇을 도와드릴까요, 스트라이버 씨?" 미스터
+    Next EN start : "Why, no, thank you; this is a personal visit to you, Mr. Lo...
+--------------------------------------------------
+[131] ch_18.json ID 25 (P013_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...marriage to your delightful little friend, Miss Manette, Mr.
+    Current KO end: ...상 위에 은밀히 팔을 괴고 말했다. "당신의 사랑스러운 어린 친구인 마네트 양에게 청혼할 생각입니다, 미스터
+    Next EN start : "Oh dear me!" cried Mr. Lorry, rubbing his chin and looking ...
+--------------------------------------------------
+[132] ch_18.json ID 30 (P016_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ..."But—really, you know, Mr. Stryver—" Mr.
+    Current KO end: ..."하지만—정말이지, 스트라이버 씨—" 미스터
+    Next EN start : "Well!" said Stryver, slamming his combative hand on the des...
+--------------------------------------------------
+[133] ch_18.json ID 35 (P020_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...You are a good match," Mr.
+    Current KO end: ...당신은 좋은 짝입니다," 미스터
+    Next EN start : "Oh yes, you're eligible!" said Mr. Lorry. "If you say eligi...
+--------------------------------------------------
+[136] ch_18.json ID 57 (P036_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...“I mean to tell you, Mr. Stryver,” said Mr.
+    Current KO end: ...“내가 당신에게 하려는 말은 이겁니다, 스트라이버 씨,” 미스터
+    Next EN start : Having to stay quiet while he was furious had made Mr. Stryv...
+--------------------------------------------------
+[139] ch_18.json ID 76 (P047_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...ght to describe for myself—and understand me, sir,” said Mr.
+    Current KO end: ..., 스트라이버 씨, 내 스스로 규정할 권리가 있습니다—그리고 내 말을 분명히 알아들으십시오, 선생,” 미스터
+    Next EN start : "There!...
+--------------------------------------------------
+[140] ch_18.json ID 95 (P056_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...when Mr. Lorry called that night as late as ten o’clock, Mr.
+    Current KO end: ...그리하여, 그날 밤 열 시나 되어 늦게 로리 씨가 방문했을 때, 미스터
+    Next EN start : He even feigned surprise when he saw Mr. Lorry, acting compl...
+--------------------------------------------------
+[141] ch_18.json ID 117 (P065_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...y was so taken aback that he looked quite dumbfounded at Mr.
+    Current KO end: ...로리 씨는 너무나 어안이 벙벙하여 멍하니 미스터
+    Next EN start : Mr. Lorry found himself out in the night before he even real...
+--------------------------------------------------
+[169] ch_24.json ID 48 (P023_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...wandering away into his own room when they got upstairs, Mr.
+    Current KO end: .... 위층으로 올라갔을 때 멍하니 머리를 감싸 쥐고 자기 방으로 쓸쓸히 걸어 들어가는 모습을 보며, 로리...
+    Next EN start : He whispered to Miss Pross after thinking it over, "I think ...
+--------------------------------------------------
+[177] ch_25.json ID 15 (P007_4) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...without overstepping the delicate, gradual approach that Mr.
+    Current KO end: ...의사는 평소대로 불려 나와 아침 식사를 하러 왔다. 로리 씨가
+    Next EN start : A casual comment about the date set him thinking, which clea...
+--------------------------------------------------
+[181] ch_25.json ID 116 (P060_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ..."But," Mr.
+    Current KO end: ...하지만,
+    Next EN start : Lorry said, "as a practical man who deals only with money an...
+--------------------------------------------------
+[185] ch_27.json ID 41 (P015_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ..."I thought I would have to sleep at the bank," Mr.
+    Current KO end: ..."저는 은행에서 자야 할 줄 알았습니다," 미스터
+    Next EN start : We've been so incredibly busy all day that we didn't know wh...
+--------------------------------------------------
+[205] ch_30.json ID 183 (P086_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...reet. "Give my love to Lucie, and to little Lucie," said Mr.
+    Current KO end: ...플리트가의 안개 낀 공기 속으로 함께 나갔다. "루시와 어린 루시에게 내 사랑을 전해주게," 로리 씨가...
+    Next EN start : That night, it was August fourteenth, he stayed up late and ...
+--------------------------------------------------
+[246] ch_38.json ID 51 (P024_2) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...As if their estrangement were her fault, when Mr.
+    Current KO end: ...마치 둘 사이가 멀어진 것이 그녀의 잘못인 것처럼 행동하다니.
+    Next EN start : Lorry knew for a fact years ago in London that this worthles...
+--------------------------------------------------
+[261] ch_39.json ID 25 (P012_5) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ...That, Mr. Lorry,” said Mr.
+    Current KO end: ...그것이 바로, 로리 나으리,” 크런처 씨가 말했다.
+    Next EN start : A man can't see all this death around him in Paris, with so ...
+--------------------------------------------------
+[296] ch_44.json ID 104 (P051_1) - Type: Ends with abbreviation 'mrs.'
+    Current EN end: ...lpit—“and let my words be written down and delivered to Mrs.
+    Current KO end: ...단에서 설교하듯 몹시 불안한 기세로 말을 이었다. “—그리고 제 말을 받아적어 부인에게 전해 주십시오, 바로
+    Next EN start : “There, there!...
+--------------------------------------------------
+[298] ch_44.json ID 218 (P103_1) - Type: Ends with abbreviation 'mr.'
+    Current EN end: ... Pross couldn’t hear him. ‘So I’ll nod my head,’ thought Mr.
+    Current KO end: ...이 없었다. 프로스 양은 그의 말이 들리지 않았다. ‘그러니 고개나 끄덕여야겠군,’ 하고 생각한 크런처 씨는
+    Next EN start : “Is there any noise in the streets now?” Miss Pross asked ag...
+--------------------------------------------------

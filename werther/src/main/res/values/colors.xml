@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Werther's blue coat, the book's one iconic image. -->
+    <color name="werther_blue">#2E4057</color>
+    <color name="ic_launcher_background">@color/werther_blue</color>
+</resources>

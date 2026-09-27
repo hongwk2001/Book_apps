@@ -6,16 +6,25 @@ import com.tkprof.shared.R
 
 import android.content.Intent
 import android.net.Uri
+import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
+import androidx.compose.ui.draw.clip
+import androidx.compose.ui.graphics.asImageBitmap
+import androidx.compose.ui.layout.ContentScale
+import kotlinx.coroutines.Dispatchers
+import kotlinx.coroutines.withContext
 import android.content.ActivityNotFoundException
 import androidx.compose.foundation.lazy.rememberLazyListState
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.text.ClickableText
 import androidx.compose.foundation.verticalScroll
+import androidx.compose.foundation.gestures.awaitEachGesture
+import androidx.compose.foundation.gestures.awaitFirstDown
+import androidx.compose.ui.input.pointer.pointerInput
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
@@ -32,6 +41,7 @@ import androidx.compose.ui.text.buildAnnotatedString
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
+import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.foundation.relocation.BringIntoViewRequester
@@ -45,6 +55,9 @@ import com.tkprof.shared.model.Sentence
 import com.tkprof.shared.model.SentenceSplitter
 import com.tkprof.shared.ui.settings.SettingsDialog
 import kotlinx.coroutines.launch
+import androidx.lifecycle.Lifecycle
+import androidx.lifecycle.LifecycleEventObserver
+import androidx.lifecycle.compose.LocalLifecycleOwner
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
@@ -52,19 +65,48 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
     val chapter by viewModel.currentChapter.collectAsState()
     val chapterNumber by viewModel.currentChapterNumber.collectAsState()
     val totalChapters by viewModel.totalChapters.collectAsState()
+    val chapterTitles by viewModel.chapterTitles.collectAsState()
     val speakingId by viewModel.speakingSentenceId.collectAsState()
-    val isSpeaking by viewModel.isSpeaking.collectAsState()
+    val isPlaying by viewModel.isPlaying.collectAsState()
+    val canRead by viewModel.canRead.collectAsState()
     val isFullUnlocked by viewModel.isFullUnlocked.collectAsState()
-    val isEnFirst by viewModel.isEnFirst.collectAsState()
+    val bypassedUpToChapter by viewModel.bypassedUpToChapter.collectAsState()
+    val maxAccessible = maxOf(viewModel.bookConfig.freeChapters, bypassedUpToChapter + 2)
+    val showSoftPaywall = !isFullUnlocked && chapterNumber > maxAccessible
+    val isAccessible = !showSoftPaywall
+    val languageOrder by viewModel.languageOrder.collectAsState()
     val showEn by viewModel.showEn.collectAsState()
     val showKo by viewModel.showKo.collectAsState()
-    val isAccessible = viewModel.isChapterAccessible(chapterNumber)
     val activity = LocalContext.current as Activity
 
+    val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
+
     var showSettings by remember { mutableStateOf(false) }
+    var resumeTrigger by remember { mutableStateOf(0) }
+    
+    val lifecycleOwner = LocalLifecycleOwner.current
+    DisposableEffect(lifecycleOwner) {
+        val observer = LifecycleEventObserver { _, event ->
+            if (event == Lifecycle.Event.ON_RESUME) {
+                resumeTrigger++
+                viewModel.syncPlaybackState()
+            }
+        }
+        lifecycleOwner.lifecycle.addObserver(observer)
+        onDispose { lifecycleOwner.lifecycle.removeObserver(observer) }
+    }
     
     val drawerState = rememberDrawerState(initialValue = DrawerValue.Closed)
     val scope = rememberCoroutineScope()
+    val drawerListState = rememberLazyListState()
+
+    LaunchedEffect(drawerState.isOpen) {
+        if (drawerState.isOpen && totalChapters > 0) {
+            val targetIndex = (chapterNumber - 1).coerceIn(0, totalChapters - 1)
+            val scrollOffsetIndex = maxOf(0, targetIndex - 2)
+            drawerListState.scrollToItem(scrollOffsetIndex)
+        }
+    }
 
     if (showSettings) {
         SettingsDialog(
@@ -80,14 +122,49 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 Column(modifier = Modifier.fillMaxHeight()) {
                     Text(stringResource(R.string.chapters_title), modifier = Modifier.padding(16.dp), style = MaterialTheme.typography.titleLarge)
                     HorizontalDivider()
-                    LazyColumn(modifier = Modifier.weight(1f)) {
+                    LazyColumn(
+                        state = drawerListState,
+                        modifier = Modifier.weight(1f)
+                    ) {
                         items(totalChapters) { index ->
                             val i = index + 1
+                            val accessible = viewModel.isChapterAccessible(i)
+                            
+                            val titleObj = chapterTitles.getOrNull(index)
+                            val displayTitle = if (titleObj != null) {
+                                val firstLang = languageOrder.firstOrNull { it == Language.EN || it == Language.KO }
+                                if (firstLang == Language.KO) titleObj.ko else titleObj.en
+                            } else {
+                                stringResource(R.string.chapter_label, i)
+                            }
+
                             NavigationDrawerItem(
-                                label = { Text(stringResource(R.string.chapter_label, i)) },
+                                label = {
+                                    Text(
+                                        // Numbered so a chapter can be located at a
+                                        // glance; the top bar already shows the same
+                                        // number as "(n / total)".
+                                        text = "$i. $displayTitle",
+                                        style = MaterialTheme.typography.bodyMedium.copy(
+                                            fontFamily = androidx.compose.ui.text.font.FontFamily.Serif,
+                                            fontSize = 14.sp,
+                                            lineHeight = 19.sp,
+                                            fontWeight = if (i == chapterNumber) FontWeight.SemiBold else FontWeight.Normal
+                                        ),
+                                        maxLines = 1,
+                                        overflow = TextOverflow.Ellipsis,
+                                        color = if (accessible) LocalContentColor.current else MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f)
+                                    )
+                                },
+                                badge = {
+                                    if (!accessible) {
+                                        Icon(Icons.Default.Lock, contentDescription = null, modifier = Modifier.size(16.dp), tint = MaterialTheme.colorScheme.onSurface.copy(alpha = 0.38f))
+                                    }
+                                },
                                 selected = i == chapterNumber,
-                                onClick = { 
-                                    viewModel.loadChapter(i)
+                                onClick = {
+                                    val wasPlaying = isPlaying
+                                    viewModel.loadChapter(i, autoPlay = wasPlaying, selectOnLoad = true)
                                     scope.launch { drawerState.close() }
                                 },
                                 modifier = Modifier.padding(horizontal = 12.dp, vertical = 2.dp)
@@ -103,14 +180,25 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                         Button(
                             onClick = {
                                 try {
-                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:TKProf+LLC")))
+                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("market://search?q=pub:Billy+Wookyoung+Hong")))
                                 } catch(e: ActivityNotFoundException) {
-                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/developer?id=TKProf+LLC")))
+                                    activity.startActivity(Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/developer?id=Billy+Wookyoung+Hong")))
                                 }
                             },
                             modifier = Modifier.fillMaxWidth()
                         ) {
                             Text(stringResource(R.string.more_books_btn))
+                        }
+                        
+                        Spacer(modifier = Modifier.height(16.dp))
+                        Button(
+                            onClick = {
+                                viewModel.billingManager.launchPurchaseFlow(activity, "tip_small_1500")
+                            },
+                            modifier = Modifier.fillMaxWidth(),
+                            colors = ButtonDefaults.buttonColors(containerColor = MaterialTheme.colorScheme.tertiary)
+                        ) {
+                            Text(stringResource(R.string.btn_support_developer))
                         }
                     }
                 }
@@ -122,12 +210,32 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 TopAppBar(
                     title = {
                         Column {
-                            Text(text = viewModel.bookConfig.titleEn, style = MaterialTheme.typography.titleMedium)
-                            Text(text = "Chapter $chapterNumber / $totalChapters", style = MaterialTheme.typography.bodySmall, color = MaterialTheme.colorScheme.onSurfaceVariant)
+                            Text(
+                                text = viewModel.bookConfig.titleEn, 
+                                style = MaterialTheme.typography.titleMedium,
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis
+                            )
+                            val titleObj = chapterTitles.getOrNull(chapterNumber - 1)
+                            val displayTitle = if (titleObj != null) {
+                                val firstLang = languageOrder.firstOrNull { it == Language.EN || it == Language.KO }
+                                if (firstLang == Language.KO) titleObj.ko else titleObj.en
+                            } else {
+                                "Chapter $chapterNumber"
+                            }
+                            Text(
+                                text = "$displayTitle ($chapterNumber / $totalChapters)", 
+                                style = MaterialTheme.typography.bodySmall, 
+                                color = MaterialTheme.colorScheme.onSurfaceVariant,
+                                maxLines = 1,
+                                overflow = TextOverflow.Ellipsis
+                            )
                         }
                     },
                     navigationIcon = {
-                        IconButton(onClick = { scope.launch { drawerState.open() } }) {
+                        IconButton(
+                            onClick = { scope.launch { drawerState.open() } }
+                        ) {
                             Icon(Icons.Default.Menu, contentDescription = "Menu")
                         }
                     },
@@ -141,8 +249,9 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
             },
             bottomBar = {
                 ReaderBottomBar(
-                    isSpeaking = isSpeaking,
+                    isSpeaking = isPlaying,
                     isAccessible = isAccessible,
+                    canRead = canRead,
                     onPrevious = { viewModel.previousSentence() },
                     onNext = { viewModel.nextSentence() },
                     onPlayPause = { viewModel.playOrPause() }
@@ -150,18 +259,29 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
             }
         ) { padding ->
                     val listState = rememberLazyListState()
-                    val speakingParagraphIndex by viewModel.speakingParagraphIndex.collectAsState()
                     val fontSizeMultiplier by viewModel.fontSizeMultiplier.collectAsState()
-                    
-                    LaunchedEffect(speakingParagraphIndex, chapter) {
+
+                    // Scroll to top whenever the chapter changes
+                    LaunchedEffect(chapterNumber) {
+                        listState.scrollToItem(0)
+                    }
+
+                    // Scroll to active paragraph if not currently visible
+                    LaunchedEffect(speakingParagraphIndex, resumeTrigger) {
                         if (speakingParagraphIndex >= 0) {
-                            kotlinx.coroutines.delay(150)
-                            listState.animateScrollToItem(speakingParagraphIndex)
+                            val visibleItems = listState.layoutInfo.visibleItemsInfo
+                            val isVisible = visibleItems.any { it.index == speakingParagraphIndex }
+                            if (!isVisible) {
+                                listState.scrollToItem(speakingParagraphIndex)
+                            }
                         }
                     }
 
-                    if (!isAccessible) {
-                PaywallScreen(chapterNumber, viewModel.bookConfig) { viewModel.billingManager.launchPurchaseFlow(activity) }
+                    if (showSoftPaywall) {
+                SoftPaywallScreen(
+                    onTip = { tipId -> viewModel.billingManager.launchPurchaseFlow(activity, tipId) },
+                    onNotNow = { viewModel.bypassSoftPaywall() }
+                )
             } else {
                 chapter?.let { ch ->
                     // Wrapping in a Box to draw the scrollbar
@@ -175,42 +295,81 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                                 ParagraphCard(
                                     paragraph = paragraph,
                                     speakingId = speakingId,
-                                    isEnFirst = isEnFirst,
+                                    languageOrder = languageOrder,
                                     showEn = showEn,
                                     showKo = showKo,
                                     fontSizeMultiplier = fontSizeMultiplier,
+                                    resumeTrigger = resumeTrigger,
                                     onSentenceClick = { sentenceId -> viewModel.playFromSentence(sentenceId) }
                                 )
                             }
                         }
                         
-                        // Custom Scrollbar
+                        // Custom Interactive Scrollbar
                         val isScrollbarVisible = listState.layoutInfo.totalItemsCount > 0
                         if (isScrollbarVisible) {
                             val totalItems = listState.layoutInfo.totalItemsCount
                             val visibleItems = listState.layoutInfo.visibleItemsInfo.size
                             val firstVisible = listState.firstVisibleItemIndex
                             
+                            var isDragging by remember { mutableStateOf(false) }
+
                             if (visibleItems < totalItems) {
                                 BoxWithConstraints(
                                     modifier = Modifier
                                         .align(Alignment.TopEnd)
                                         .fillMaxHeight()
-                                        .padding(end = 4.dp, top = 8.dp, bottom = 8.dp)
-                                        .width(4.dp)
-                                        .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.1f))
+                                        .width(32.dp) // Wide invisible touch area
+                                        .padding(vertical = 8.dp)
+                                        .pointerInput(totalItems) {
+                                            awaitEachGesture {
+                                                val down = awaitFirstDown()
+                                                isDragging = true
+                                                val trackHeightPx = size.height.toFloat()
+                                                
+                                                fun updateScroll(y: Float) {
+                                                    val proportion = (y / trackHeightPx).coerceIn(0f, 1f)
+                                                    val targetItem = (proportion * totalItems).toInt().coerceIn(0, totalItems - 1)
+                                                    scope.launch { listState.scrollToItem(targetItem) }
+                                                }
+                                                
+                                                updateScroll(down.position.y)
+                                                
+                                                do {
+                                                    val event = awaitPointerEvent()
+                                                    val change = event.changes.firstOrNull()
+                                                    if (change != null && change.pressed) {
+                                                        change.consume()
+                                                        updateScroll(change.position.y)
+                                                    }
+                                                } while (event.changes.any { it.pressed })
+                                                isDragging = false
+                                            }
+                                        }
                                 ) {
-                                    val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
-                                    val thumbHeightFraction = (visibleItems.toFloat() / totalItems).coerceIn(0.1f, 1f)
                                     val trackHeight = maxHeight
+                                    val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
+                                    val thumbHeightFraction = (visibleItems.toFloat() / totalItems).coerceIn(0.05f, 1f)
                                     
                                     Box(
                                         modifier = Modifier
-                                            .fillMaxWidth()
-                                            .fillMaxHeight(thumbHeightFraction)
-                                            .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
-                                            .background(MaterialTheme.colorScheme.primary, shape = androidx.compose.foundation.shape.RoundedCornerShape(2.dp))
-                                    )
+                                            .align(Alignment.CenterEnd)
+                                            .fillMaxHeight()
+                                            .width(if (isDragging) 12.dp else 8.dp)
+                                            .padding(end = 4.dp)
+                                            .background(MaterialTheme.colorScheme.onSurface.copy(alpha = 0.2f), shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp))
+                                    ) {
+                                        Box(
+                                            modifier = Modifier
+                                                .fillMaxWidth()
+                                                .fillMaxHeight(thumbHeightFraction)
+                                                .offset(y = (trackHeight - (trackHeight * thumbHeightFraction)) * scrollProportion)
+                                                .background(
+                                                    if (isDragging) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.primary.copy(alpha = 0.8f),
+                                                    shape = androidx.compose.foundation.shape.RoundedCornerShape(4.dp)
+                                                )
+                                        )
+                                    }
                                 }
                             }
                         }
@@ -225,19 +384,37 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
 private fun ParagraphCard(
     paragraph: BilingualParagraph,
     speakingId: String?,
-    isEnFirst: Boolean,
+    languageOrder: List<Language>,
     showEn: Boolean,
     showKo: Boolean,
     fontSizeMultiplier: Float,
+    resumeTrigger: Int = 0,
     onSentenceClick: (String) -> Unit
 ) {
+    val enTextStyle = if (paragraph.is_header) {
+        MaterialTheme.typography.titleLarge.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (30 * fontSizeMultiplier).sp, fontSize = (22 * fontSizeMultiplier).sp)
+    } else if (paragraph.image != null) {
+        MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic, textAlign = TextAlign.Center, lineHeight = (22 * fontSizeMultiplier).sp, fontSize = (14 * fontSizeMultiplier).sp)
+    } else {
+        MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
+    }
+
+    val koTextStyle = if (paragraph.is_header) {
+        MaterialTheme.typography.titleMedium.copy(fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (18 * fontSizeMultiplier).sp)
+    } else if (paragraph.image != null) {
+        MaterialTheme.typography.bodyMedium.copy(fontStyle = FontStyle.Italic, textAlign = TextAlign.Center, lineHeight = (22 * fontSizeMultiplier).sp, fontSize = (14 * fontSizeMultiplier).sp)
+    } else {
+        MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp)
+    }
+
     if (paragraph.is_header) {
         Column(modifier = Modifier.fillMaxWidth().padding(vertical = 8.dp)) {
-            if (showEn) {
-                Text(text = paragraph.en, style = MaterialTheme.typography.titleLarge, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
-            }
-            if (showKo) {
-                Text(text = paragraph.ko, style = MaterialTheme.typography.titleMedium, fontWeight = FontWeight.Bold, color = MaterialTheme.colorScheme.secondary, textAlign = TextAlign.Center, modifier = Modifier.fillMaxWidth())
+            languageOrder.forEach { lang ->
+                when (lang) {
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, resumeTrigger, onSentenceClick)
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, resumeTrigger, onSentenceClick)
+                    else -> {}
+                }
             }
             HorizontalDivider(modifier = Modifier.padding(top = 8.dp))
         }
@@ -247,19 +424,68 @@ private fun ParagraphCard(
     Card(
         modifier = Modifier.fillMaxWidth(),
         colors = CardDefaults.cardColors(containerColor = MaterialTheme.colorScheme.surface),
-        elevation = CardDefaults.cardElevation(1.dp)
+        elevation = CardDefaults.cardElevation(if (paragraph.image != null) 3.dp else 1.dp)
     ) {
-        Column(modifier = Modifier.padding(16.dp)) {
-            if (isEnFirst) {
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
-                if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
-            } else {
-                if (showKo) SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, fontSizeMultiplier,  onSentenceClick)
-                if (showEn && showKo) Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
-                if (showEn) SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, fontSizeMultiplier,  onSentenceClick)
+        Column(
+            modifier = Modifier.padding(16.dp),
+            horizontalAlignment = if (paragraph.image != null) Alignment.CenterHorizontally else Alignment.Start
+        ) {
+            if (paragraph.image != null) {
+                AssetImage(
+                    imagePath = paragraph.image,
+                    contentDescription = paragraph.en.takeIf { it.isNotBlank() },
+                    modifier = Modifier.fillMaxWidth()
+                )
+                if (paragraph.en.isNotBlank() || paragraph.ko.isNotBlank()) {
+                    Spacer(modifier = Modifier.height(12.dp))
+                }
+            }
+            val visibleBlocks = mutableListOf<@Composable () -> Unit>()
+            for (lang in languageOrder) {
+                when (lang) {
+                    Language.EN -> if (showEn && paragraph.en.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.en, Language.EN, paragraph.id, speakingId, MaterialTheme.colorScheme.onSurface, enTextStyle, resumeTrigger, onSentenceClick) }
+                    Language.KO -> if (showKo && paragraph.ko.isNotBlank()) visibleBlocks.add { SentenceBlock(paragraph.ko, Language.KO, paragraph.id, speakingId, MaterialTheme.colorScheme.secondary, koTextStyle, resumeTrigger, onSentenceClick) }
+                    else -> {}
+                }
+            }
+            visibleBlocks.forEachIndexed { index, block ->
+                block()
+                if (index < visibleBlocks.size - 1) {
+                    Spacer(Modifier.height(8.dp).also { HorizontalDivider(color = MaterialTheme.colorScheme.outlineVariant) }.height(8.dp))
+                }
             }
         }
+    }
+}
+
+@Composable
+private fun AssetImage(
+    imagePath: String,
+    contentDescription: String?,
+    modifier: Modifier = Modifier
+) {
+    val context = LocalContext.current
+    val bitmapState = produceState<androidx.compose.ui.graphics.ImageBitmap?>(initialValue = null, key1 = imagePath) {
+        value = withContext(Dispatchers.IO) {
+            try {
+                context.assets.open(imagePath).use { stream ->
+                    android.graphics.BitmapFactory.decodeStream(stream)?.asImageBitmap()
+                }
+            } catch (e: Exception) {
+                null
+            }
+        }
+    }
+
+    bitmapState.value?.let { bitmap ->
+        Image(
+            bitmap = bitmap,
+            contentDescription = contentDescription,
+            modifier = modifier
+                .fillMaxWidth()
+                .clip(androidx.compose.foundation.shape.RoundedCornerShape(8.dp)),
+            contentScale = ContentScale.FillWidth
+        )
     }
 }
 
@@ -270,10 +496,12 @@ private fun SentenceBlock(
     paragraphId: Int,
     speakingId: String?,
     textColor: Color,
-    fontSizeMultiplier: Float,
+    textStyle: androidx.compose.ui.text.TextStyle,
+    resumeTrigger: Int = 0,
     onClick: (String) -> Unit
 ) {
-    val highlightColor = MaterialTheme.colorScheme.primaryContainer
+    val highlightColor = MaterialTheme.colorScheme.tertiaryContainer
+    val highlightTextColor = MaterialTheme.colorScheme.onTertiaryContainer
     
     val sentences = remember(text) { SentenceSplitter.split(text, lang, paragraphId) }
     
@@ -288,14 +516,22 @@ private fun SentenceBlock(
             val end = length
             
             addStringAnnotation(tag = "SENTENCE", annotation = s.id, start = start, end = end)
-            addStyle(style = SpanStyle(color = textColor, background = if (isHighlighted) highlightColor else Color.Transparent), start = start, end = end)
+            addStyle(
+                style = SpanStyle(
+                    color = if (isHighlighted) highlightTextColor else textColor,
+                    background = if (isHighlighted) highlightColor else Color.Transparent
+                ),
+                start = start,
+                end = end
+            )
         }
     }
 
-    Box {
+    Box(modifier = Modifier.fillMaxWidth()) {
         ClickableText(
             text = annotatedString,
-            style = MaterialTheme.typography.bodyLarge.copy(lineHeight = (26 * fontSizeMultiplier).sp, fontSize = (16 * fontSizeMultiplier).sp),
+            style = textStyle,
+            modifier = Modifier.fillMaxWidth(),
             onTextLayout = { layoutResult ->
                 val annotation = annotatedString.getStringAnnotations("SENTENCE", 0, annotatedString.length)
                     .firstOrNull { it.item == speakingId }
@@ -320,12 +556,12 @@ private fun SentenceBlock(
     }
     
     val density = LocalDensity.current
-    LaunchedEffect(speakingId, highlightY) {
+    LaunchedEffect(speakingId, highlightY, resumeTrigger) {
         if (sentences.any { it.id == speakingId }) {
-            // Pad the bounding box by 250dp above and below.
+            // Pad the bounding box by 350dp above and below.
             // This forces the scrolling list to place the sentence near the center of the screen,
             // rather than stopping the moment it barely crosses the bottom edge.
-            val padding = with(density) { 250.dp.toPx() }
+            val padding = with(density) { 350.dp.toPx() }
             requester.bringIntoView(Rect(0f, -padding, 1f, padding))
         }
     }
@@ -335,32 +571,39 @@ private fun SentenceBlock(
 private fun ReaderBottomBar(
     isSpeaking: Boolean,
     isAccessible: Boolean,
+    canRead: Boolean,
     onPrevious: () -> Unit,
     onNext: () -> Unit,
     onPlayPause: () -> Unit
 ) {
+    // Muting both languages in Settings leaves nothing to speak; show that in the
+    // transport rather than letting Play look broken.
+    val enabled = isAccessible && canRead
     BottomAppBar {
         Row(modifier = Modifier.fillMaxWidth(), horizontalArrangement = Arrangement.SpaceEvenly, verticalAlignment = Alignment.CenterVertically) {
-            IconButton(onClick = onPrevious) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
+            IconButton(onClick = onPrevious, enabled = enabled) { Icon(Icons.AutoMirrored.Filled.ArrowBack, contentDescription = "Previous Sentence") }
             FloatingActionButton(
-                onClick = onPlayPause,
-                containerColor = if (isAccessible) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant
+                onClick = { if (enabled) onPlayPause() },
+                containerColor = if (enabled) MaterialTheme.colorScheme.primary else MaterialTheme.colorScheme.surfaceVariant,
+                contentColor = if (enabled) MaterialTheme.colorScheme.onPrimary else MaterialTheme.colorScheme.onSurfaceVariant.copy(alpha = 0.38f)
             ) {
                 Icon(imageVector = if (isSpeaking) Icons.Default.Stop else Icons.Default.PlayArrow, contentDescription = if (isSpeaking) "Stop" else "Play")
             }
-            IconButton(onClick = onNext) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
+            IconButton(onClick = onNext, enabled = enabled) { Icon(Icons.AutoMirrored.Filled.ArrowForward, contentDescription = "Next Sentence") }
         }
     }
 }
 
 @Composable
-private fun PaywallScreen(chapterNumber: Int, bookConfig: com.tkprof.shared.model.BookConfig, onBuy: () -> Unit) {
-    Box(modifier = Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background), contentAlignment = Alignment.Center) {
+private fun SoftPaywallScreen(onTip: (String) -> Unit, onNotNow: () -> Unit) {
+    Box(modifier = Modifier.fillMaxSize().background(MaterialTheme.colorScheme.background).verticalScroll(rememberScrollState()), contentAlignment = Alignment.Center) {
         Column(horizontalAlignment = Alignment.CenterHorizontally, verticalArrangement = Arrangement.spacedBy(16.dp), modifier = Modifier.padding(32.dp)) {
-            Icon(Icons.Default.Lock, contentDescription = null, modifier = Modifier.size(64.dp), tint = MaterialTheme.colorScheme.primary)
-            Text(stringResource(R.string.paywall_locked_desc, chapterNumber), style = MaterialTheme.typography.headlineSmall, fontWeight = FontWeight.Bold, textAlign = TextAlign.Center)
-            Text(stringResource(R.string.paywall_purchase_desc), style = MaterialTheme.typography.bodyMedium, textAlign = TextAlign.Center, color = MaterialTheme.colorScheme.onSurfaceVariant)
-            Button(onClick = onBuy, modifier = Modifier.fillMaxWidth()) { Icon(Icons.Default.ShoppingCart, contentDescription = null); Spacer(Modifier.width(8.dp)); Text(stringResource(R.string.btn_unlock_now)) }
+            Icon(Icons.Default.Favorite, contentDescription = null, modifier = Modifier.size(64.dp), tint = MaterialTheme.colorScheme.primary)
+            Text(stringResource(R.string.tip_jar_message), style = MaterialTheme.typography.bodyLarge, textAlign = TextAlign.Center)
+            Spacer(Modifier.height(16.dp))
+            Button(onClick = { onTip("tip_small_1500") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_small)) }
+            Button(onClick = { onTip("tip_medium_3000") }, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.tip_medium)) }
+            TextButton(onClick = onNotNow, modifier = Modifier.fillMaxWidth()) { Text(stringResource(R.string.btn_not_now)) }
         }
     }
 }

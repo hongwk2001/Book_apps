@@ -7,15 +7,21 @@ class SentenceSplitterTest {
 
     @Test
     fun testKoreanSplitting() {
-        val text = "?????. ??? ??????! ? ?????"
+        val text = "안녕하세요. 만나서 반갑습니다! 좋은 하루 되세요."
         val sentences = SentenceSplitter.split(text, Language.KO, 2)
         
-        for (i in sentences.indices) {
-            println("Sentence $i: '${sentences[i].text}'")
-        }
-        
         assertEquals(3, sentences.size)
-        assertEquals("?????.", sentences[0].text)
+        assertEquals("안녕하세요.", sentences[0].text)
         assertEquals("2_KO_0", sentences[0].id)
+    }
+
+    @Test
+    fun testEnglishAbbreviation() {
+        val text = "To Mrs. Saville, England. Archangel, March 28th."
+        val sentences = SentenceSplitter.split(text, Language.EN, 1)
+        
+        assertEquals(2, sentences.size)
+        assertEquals("To Mrs. Saville, England.", sentences[0].text)
+        assertEquals("Archangel, March 28th.", sentences[1].text)
     }
 }
