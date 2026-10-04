@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep turmeric ochre, distinct from the other eight apps. -->
+    <color name="chunhyang_ochre">#7C5A14</color>
+    <color name="ic_launcher_background">@color/chunhyang_ochre</color>
+</resources>

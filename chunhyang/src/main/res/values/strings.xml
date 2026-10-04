@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">춘향전</string>
+    <string name="app_name_en">The Tale of Chunhyang</string>
+    <string name="app_name_ko">춘향전</string>
+    <string name="iap_product_id">com.tkprof.chunhyang.full</string>
+    <integer name="free_chapters">3</integer>
+    <integer name="total_chapters">21</integer>
+</resources>

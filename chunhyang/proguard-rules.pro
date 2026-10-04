@@ -1,0 +1,1 @@
+# Chunhyang app proguard rules
