@@ -63,8 +63,8 @@ def encode(rows):
 def build(ch):
     src = json.load(open(os.path.join(SRC, "json", f"ch_{ch:02d}.json"), encoding="utf-8"))
     head = src[0]
-    cards = [{"tag": "P0001", "en": f"Chapter {ch} — {head['en_title']}",
-              "ko": f"{ch}장 — {head['ko_title']}", "is_header": True}]
+    # The drawer and top bar already number chapters, so titles carry no "Chapter N".
+    cards = [{"tag": "P0001", "en": head["en_title"], "ko": head["ko_title"], "is_header": True}]
     if ch == 1:
         cards.append({**CREDIT, "is_header": False})
     errors = []
