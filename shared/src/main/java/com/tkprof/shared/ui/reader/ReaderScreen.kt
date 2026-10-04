@@ -25,6 +25,14 @@ import androidx.compose.foundation.verticalScroll
 import androidx.compose.foundation.gestures.awaitEachGesture
 import androidx.compose.foundation.gestures.awaitFirstDown
 import androidx.compose.ui.input.pointer.pointerInput
+import androidx.compose.ui.input.pointer.PointerEventPass
+import androidx.compose.ui.hapticfeedback.HapticFeedback
+import androidx.compose.ui.hapticfeedback.HapticFeedbackType
+import androidx.compose.ui.platform.LocalHapticFeedback
+import androidx.compose.foundation.lazy.LazyListState
+import kotlinx.coroutines.CoroutineScope
+import kotlinx.coroutines.withTimeoutOrNull
+import kotlin.math.roundToInt
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.automirrored.filled.ArrowBack
 import androidx.compose.material.icons.automirrored.filled.ArrowForward
@@ -284,8 +292,17 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                 )
             } else {
                 chapter?.let { ch ->
-                    // Wrapping in a Box to draw the scrollbar
-                    Box(modifier = Modifier.fillMaxSize().padding(padding)) {
+                    // Wrapping in a Box to draw the scrollbar. The scrollbar's gesture lives on this
+                    // Box, not on the strip itself, so a quick swipe or tap near the right edge still
+                    // reaches the list; the bar only takes over after a hold (see scrollbarGesture).
+                    var isScrollbarDragging by remember { mutableStateOf(false) }
+                    val haptics = LocalHapticFeedback.current
+                    Box(
+                        modifier = Modifier
+                            .fillMaxSize()
+                            .padding(padding)
+                            .scrollbarGesture(listState, scope, haptics) { isScrollbarDragging = it }
+                    ) {
                         LazyColumn(
                             state = listState,
                             contentPadding = PaddingValues(top = 8.dp, bottom = 8.dp, start = 16.dp, end = 16.dp),
@@ -312,40 +329,15 @@ fun ReaderScreen(viewModel: ReaderViewModel) {
                             val visibleItems = listState.layoutInfo.visibleItemsInfo.size
                             val firstVisible = listState.firstVisibleItemIndex
                             
-                            var isDragging by remember { mutableStateOf(false) }
+                            val isDragging = isScrollbarDragging
 
                             if (visibleItems < totalItems) {
                                 BoxWithConstraints(
                                     modifier = Modifier
                                         .align(Alignment.TopEnd)
                                         .fillMaxHeight()
-                                        .width(32.dp) // Wide invisible touch area
-                                        .padding(vertical = 8.dp)
-                                        .pointerInput(totalItems) {
-                                            awaitEachGesture {
-                                                val down = awaitFirstDown()
-                                                isDragging = true
-                                                val trackHeightPx = size.height.toFloat()
-                                                
-                                                fun updateScroll(y: Float) {
-                                                    val proportion = (y / trackHeightPx).coerceIn(0f, 1f)
-                                                    val targetItem = (proportion * totalItems).toInt().coerceIn(0, totalItems - 1)
-                                                    scope.launch { listState.scrollToItem(targetItem) }
-                                                }
-                                                
-                                                updateScroll(down.position.y)
-                                                
-                                                do {
-                                                    val event = awaitPointerEvent()
-                                                    val change = event.changes.firstOrNull()
-                                                    if (change != null && change.pressed) {
-                                                        change.consume()
-                                                        updateScroll(change.position.y)
-                                                    }
-                                                } while (event.changes.any { it.pressed })
-                                                isDragging = false
-                                            }
-                                        }
+                                        .width(SCROLLBAR_STRIP_WIDTH)
+                                        .padding(vertical = SCROLLBAR_TRACK_PAD)
                                 ) {
                                     val trackHeight = maxHeight
                                     val scrollProportion = firstVisible.toFloat() / (totalItems - visibleItems)
@@ -609,7 +601,75 @@ private fun SoftPaywallScreen(onTip: (String) -> Unit, onNotNow: () -> Unit) {
 }
 
 
+// Scrollbar strip on the right edge, and the track inset inside it.
+private val SCROLLBAR_STRIP_WIDTH = 32.dp
+private val SCROLLBAR_TRACK_PAD = 8.dp
 
+// How long a finger must rest on the strip before the scrollbar takes over. Shorter
+// than this, the touch is an ordinary swipe or tap and goes to the list.
+private const val SCROLLBAR_HOLD_MS = 250L
 
+/**
+ * Hold-to-grab, drag-the-thumb scrollbar gesture.
+ *
+ * 1. A touch in the right-edge strip is ignored until the finger has rested there for
+ *    SCROLLBAR_HOLD_MS without moving past touch slop; lifting or moving earlier leaves
+ *    the gesture to the list, so swipes and taps near the edge behave normally.
+ * 2. Once grabbed, the thumb moves with the finger from where it was (relative drag);
+ *    the list no longer jumps to wherever the finger first landed.
+ *
+ * Runs in the Initial pass on the Box around the list, so it sees touches before the
+ * list does and consumes them only after it has taken over.
+ */
+private fun Modifier.scrollbarGesture(
+    listState: LazyListState,
+    scope: CoroutineScope,
+    haptics: HapticFeedback,
+    onDragging: (Boolean) -> Unit,
+): Modifier = pointerInput(listState) {
+    val stripPx = SCROLLBAR_STRIP_WIDTH.toPx()
+    val padPx = SCROLLBAR_TRACK_PAD.toPx()
+    awaitEachGesture {
+        val down = awaitFirstDown(requireUnconsumed = false, pass = PointerEventPass.Initial)
+        if (down.position.x < size.width - stripPx) return@awaitEachGesture
+        val info = listState.layoutInfo
+        val total = info.totalItemsCount
+        val visible = info.visibleItemsInfo.size
+        if (total == 0 || visible >= total) return@awaitEachGesture
 
+        // 1. Wait for the hold. A non-null result means the finger lifted or moved first.
+        val letGo = withTimeoutOrNull(SCROLLBAR_HOLD_MS) {
+            var ended = false
+            while (!ended) {
+                val change = awaitPointerEvent(PointerEventPass.Initial).changes
+                    .firstOrNull { it.id == down.id }
+                ended = change == null || !change.pressed ||
+                    (change.position - down.position).getDistance() > viewConfiguration.touchSlop
+            }
+            true
+        }
+        if (letGo != null) return@awaitEachGesture
 
+        // 2. Grabbed: drag the thumb relative to where it started.
+        val thumbFraction = (visible.toFloat() / total).coerceIn(0.05f, 1f)
+        val travel = (size.height - 2 * padPx) * (1f - thumbFraction)
+        if (travel <= 0f) return@awaitEachGesture
+        val maxFirst = total - visible
+        val startFraction = listState.firstVisibleItemIndex.toFloat() / maxFirst
+        onDragging(true)
+        haptics.performHapticFeedback(HapticFeedbackType.LongPress)
+        try {
+            while (true) {
+                val change = awaitPointerEvent(PointerEventPass.Initial).changes
+                    .firstOrNull { it.id == down.id } ?: break
+                change.consume()
+                if (!change.pressed) break
+                val fraction = (startFraction + (change.position.y - down.position.y) / travel).coerceIn(0f, 1f)
+                val target = (fraction * maxFirst).roundToInt().coerceIn(0, total - 1)
+                scope.launch { listState.scrollToItem(target) }
+            }
+        } finally {
+            onDragging(false)
+        }
+    }
+}
