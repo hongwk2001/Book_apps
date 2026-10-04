@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Deep rose red, distinct from the other seven apps. -->
+    <color name="romeo_rose">#7A1F2B</color>
+    <color name="ic_launcher_background">@color/romeo_rose</color>
+</resources>
