@@ -30,17 +30,13 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         volumeControlStream = android.media.AudioManager.STREAM_MUSIC
 
-        // Debug builds unlock every chapter so the translation can be reviewed in the app;
-        // release builds keep 3 free.
-        val debuggable = (applicationInfo.flags and android.content.pm.ApplicationInfo.FLAG_DEBUGGABLE) != 0
-
         val bookConfig = BookConfig(
             bookId = "chunhyang",
             titleEn = "The Tale of Chunhyang",
             titleKo = "춘향전",
             author = "Anonymous (완판 84장본, 1911)",
             totalChapters = 21,
-            freeChapters = if (debuggable) 21 else 3,
+            freeChapters = 3,
             iapProductId = "com.tkprof.chunhyang.full"
         )
 
