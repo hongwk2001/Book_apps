@@ -9,8 +9,8 @@
  {
   "id": 2,
   "tag": "P0002_1",
-  "en": "A blind fortune-teller walks by. A city fortune-teller would call out politely, but this is a country one, so he shouts, \"Fortunes! Get your fortunes told!\"",
-  "ko": "점쟁이 봉사 하나가 지나간다. 서울 봉사 같으면 \"문수(問數) 하오.\" 하련만, 시골 봉사라 \"점 보시오!\" 하고 외치며 간다.",
+  "en": "A blind fortune-teller walks by outside the prison. A city fortune-teller would call out politely, but this is a country one, so he shouts, \"Fortunes! Get your fortunes told!\"",
+  "ko": "옥 밖으로 점쟁이 봉사 하나가 지나간다. 서울 봉사 같으면 \"문수(問數) 하오.\" 하련만, 시골 봉사라 \"점 보시오!\" 하고 외치며 간다.",
   "is_header": false
  },
  {
@@ -212,89 +212,82 @@
  {
   "id": 31,
   "tag": "P0005_5",
-  "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling,\"",
-  "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고,\"",
+  "en": "\"Tell me all of it.\" \"I saw my makeup mirror cracked, and the cherry blossoms outside my window falling, and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\"",
+  "ko": "\"어디 자세히 말해 보소.\" \"단장하던 거울이 깨져 보이고, 창 앞의 앵두꽃이 떨어져 보이고, 문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\"",
   "is_header": false
  },
  {
   "id": 32,
   "tag": "P0005_6",
-  "en": "\"and a scarecrow hanging over my door, and a great mountain falling down, and the sea drying up. Isn't it a dream that I will die?\"",
-  "ko": "\"문 위에 허수아비가 달려 보이고, 태산이 무너지고 바닷물이 말라 보였소. 나 죽을 꿈이 아니오?\"",
-  "is_header": false
- },
- {
-  "id": 33,
-  "tag": "P0005_7",
   "en": "The fortune-teller thinks for a long time. \"That dream is good.\"",
   "ko": "봉사가 한참 생각하다가 말한다. \"그 꿈 좋다.\"",
   "is_header": false
  },
  {
-  "id": 34,
-  "tag": "P0005_8",
+  "id": 33,
+  "tag": "P0005_7",
   "en": "\"When blossoms fall, fruit appears. When a mirror breaks, it makes a sound: news is coming, loud and clear.\"",
   "ko": "\"꽃이 떨어지면 열매가 열리는 법이요, 거울이 깨질 때 소리가 없겠느냐. 소식이 크게 울린다는 뜻이다.\"",
   "is_header": false
  },
  {
-  "id": 35,
-  "tag": "P0005_9",
+  "id": 34,
+  "tag": "P0005_8",
   "en": "\"A scarecrow over the door means everyone will look up at you. You'll be raised up high.\"",
   "ko": "\"문 위에 허수아비가 달렸으면 사람마다 우러러볼 것이니, 높이 될 꿈이다.\"",
   "is_header": false
  },
  {
-  "id": 36,
+  "id": 35,
   "tag": "P0006_1",
   "en": "\"When the sea dries, you can see the dragon's face. When the mountain falls, the land becomes smooth. Good! You'll ride in a fine sedan chair. Don't worry. It will be soon.\"",
   "ko": "\"바다가 마르면 용의 얼굴을 볼 것이요, 산이 무너지면 평지가 될 것이니, 좋다. 쌍가마 타고 갈 꿈이로세. 걱정 마소, 머지않았네.\"",
   "is_header": false
  },
  {
-  "id": 37,
+  "id": 36,
   "tag": "P0006_2",
   "en": "As they talk, a crow lands on the prison wall and caws, \"Caw, caw!\"",
   "ko": "한참 이렇게 이야기하는데, 뜻밖에 까마귀가 옥 담장에 와 앉아 \"까옥까옥\" 운다.",
   "is_header": false
  },
  {
-  "id": 38,
+  "id": 37,
   "tag": "P0006_3",
   "en": "Chunhyang waves it off. \"Shoo! Wretched crow, if you've come to take me, at least don't nag me about it.\"",
   "ko": "춘향이 손을 들어 \"후여!\" 날리며 말한다. \"방정맞은 까마귀야, 날 잡아가려거든 조르지나 말려무나.\"",
   "is_header": false
  },
  {
-  "id": 39,
+  "id": 38,
   "tag": "P0006_4",
   "en": "The fortune-teller hears this. \"Wait. That crow said 'caw, caw'?\" \"Yes, it did.\"",
   "ko": "봉사가 이 말을 듣고 말한다. \"가만있소. 그 까마귀가 '까옥까옥' 그렇게 울었소?\" \"예, 그래요.\"",
   "is_header": false
  },
  {
-  "id": 40,
+  "id": 39,
   "tag": "P0006_5",
   "en": "\"Good, good! 'Ka' sounds like the word for 'good,' and 'ok' sounds like the word for 'house.' Something good is coming to your house soon!\"",
   "ko": "\"좋다, 좋다. '가'는 아름다울 가(嘉) 자요, '옥'은 집 옥(屋) 자라. 아름답고 즐거운 일이 머지않아 집에 돌아온다는 뜻이다.\"",
   "is_header": false
  },
  {
-  "id": 41,
+  "id": 40,
   "tag": "P0006_6",
   "en": "\"All your sorrow will end. Don't worry at all. I won't take a penny for this fortune, not even a thousand nyang.\"",
   "ko": "\"평생 맺힌 한을 풀 것이니 조금도 걱정 마소. 지금은 점 값을 천 냥을 준대도 안 받겠네.\"",
   "is_header": false
  },
  {
-  "id": 42,
+  "id": 41,
   "tag": "P0006_7",
   "en": "\"Just wait and see. When you're a great lady, don't forget me. I'll be going now.\"",
   "ko": "\"두고 보소. 귀하게 되거든 그때 괄시나 마소. 나는 돌아가네.\"",
   "is_header": false
  },
  {
-  "id": 43,
+  "id": 42,
   "tag": "P0006_8",
   "en": "\"If only it were true,\" says Chunhyang. She sends him off, and the days pass in long sighs and worry.",
   "ko": "춘향이 말한다. \"그렇게만 되면 오죽 좋겠소.\" 봉사를 보내고 긴 한숨과 시름으로 세월을 보낸다.",

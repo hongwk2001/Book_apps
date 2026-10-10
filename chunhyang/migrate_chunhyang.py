@@ -16,7 +16,7 @@ Assets are generated, never hand-edited. assets/books/_source.json records the
 source commit and a sha256 per asset file. Before writing, the script refuses to
 run when:
   - the source json/ has uncommitted changes;
-  - any card has an empty side, or is over the card cap (en 300 / ko 120);
+  - any card has an empty side, or is over the card cap (en 300 / ko 170);
   - an existing asset no longer matches its recorded hash (someone edited the
     app copy; fix the source instead). --force skips only this check.
 
@@ -37,7 +37,7 @@ SRC = r"C:\git_repo\TKprof_book\books\chunhyang"
 DEST = os.path.join(BASE, "src", "main", "assets", "books")
 MANIFEST = os.path.join(DEST, "_source.json")
 CHAPTERS = 21
-EN_CAP, KO_CAP = 300, 120
+EN_CAP, KO_CAP = 300, 170  # Korean runs ~2x denser than English; 170 matches a 300-char English card
 
 CREDIT = {
     "tag": "P0001_src",

@@ -51,587 +51,538 @@
  {
   "id": 8,
   "tag": "P0002_7",
-  "en": "\"There are the pavilions of jeong where famous lovers met, and the spring jeong of a hundred flowers. Put them all together,\"",
-  "ko": "\"양귀비의 침향정, 아황과 여영의 소상강 정, 온갖 꽃이 핀 봄 정, 이 정 저 정 다 모으니,\"",
+  "en": "\"There are the pavilions of jeong where famous lovers met, and the spring jeong of a hundred flowers. Put them all together, and if our loving ever breaks, then that will be gyeol-jeong, the end of everything.\"",
+  "ko": "\"양귀비의 침향정, 아황과 여영의 소상강 정, 온갖 꽃이 핀 봄 정, 이 정 저 정 다 모으니, 우리 둘이 다정하다가 만일 깨어지면 그때는 결정(決定)이 나겠지.\"",
   "is_header": false
  },
  {
   "id": 9,
-  "tag": "P0002_8",
-  "en": "\"and if our loving ever breaks, then that will be gyeol-jeong, the end of everything.\"",
-  "ko": "\"우리 둘이 다정하다가 만일 깨어지면 그때는 결정(決定)이 나겠지.\"",
-  "is_header": false
- },
- {
-  "id": 10,
   "tag": "P0003_1",
   "en": "\"But we are in love, so all I want is jin-jeong, true love.\"",
   "ko": "\"내 정이 되었으니 진정(眞情)으로 원정(願情)하는 그 정 자로다.\"",
   "is_header": false
  },
  {
-  "id": 11,
+  "id": 10,
   "tag": "P0003_2",
   "en": "Chunhyang laughs happily and says, \"That's enough jeong. We have something to bless at our house, so read us a house-blessing prayer instead.\"",
   "ko": "춘향이 좋아라 하며 말한다. \"정 자 노래는 그만하오. 우리 집에 쓸 것이 있으니 안택경이나 좀 읽어 주오.\"",
   "is_header": false
  },
  {
-  "id": 12,
+  "id": 11,
   "tag": "P0003_3",
   "en": "Master Yi laughs. \"You think that's all? There's more.\"",
   "ko": "도련님이 허허 웃는다. \"그것뿐인 줄 아느냐. 또 있지.\"",
   "is_header": false
  },
  {
-  "id": 13,
+  "id": 12,
   "tag": "P0004_1",
   "en": "\"Listen to my song of gung, 'palace.'\"",
   "ko": "\"궁(宮) 자 노래를 들어 보아라.\"",
   "is_header": false
  },
  {
-  "id": 14,
+  "id": 13,
   "tag": "P0004_2",
   "en": "\"Oh, how silly and funny. What is a palace song?\"",
   "ko": "\"아이고, 얄궂고 우습다. 궁 자 노래가 뭐요?\"",
   "is_header": false
  },
  {
-  "id": 15,
+  "id": 14,
   "tag": "P0004_3",
   "en": "\"Listen. It's all good words. Gaetak-gung, where heaven and earth began. Changhap-gung, glowing with holy light in the thunder and storm.\"",
   "ko": "\"들어 보아라. 좋은 말만 했느니라. 하늘과 땅이 처음 열린 개탁궁, 천둥 번개 속에 상서로운 빛이 서린 창합궁.\"",
   "is_header": false
  },
  {
-  "id": 16,
+  "id": 15,
   "tag": "P0004_4",
   "en": "\"The great palaces of China's ancient kings and emperors, of the First Emperor, of the Han, of Lady Ban, and of the Tang.\"",
   "ko": "\"은나라 탕왕의 대정궁, 진시황의 아방궁, 한 고조의 함양궁과 장락궁, 반첩여의 장신궁, 당나라 임금의 상춘궁.\"",
   "is_header": false
  },
  {
-  "id": 17,
+  "id": 16,
   "tag": "P0004_5",
   "en": "\"Up here, a side palace; over there, a summer palace; the crystal palace under the sea and the moon palace in the sky.\"",
   "ko": "\"이리 올라 이궁, 저리 올라 별궁, 용궁 속의 수정궁, 달나라의 광한궁.\"",
   "is_header": false
  },
  {
-  "id": 18,
+  "id": 17,
   "tag": "P0004_6",
   "en": "\"And when you and I join together, that's hap-gung, our wedding night, and our love will be mu-gung, never-ending!\"",
   "ko": "\"너와 나와 합궁(合宮)하니 한평생 무궁(無窮)이라.\"",
   "is_header": false
  },
  {
-  "id": 19,
+  "id": 18,
   "tag": "P0005_1",
   "en": "\"Forget all those palaces. Let me find my way into your deep, secret palace!\"",
   "ko": "\"이 궁 저 궁 다 버리고, 네 깊은 수룡궁에 내가 길을 내 보자꾸나.\"",
   "is_header": false
  },
  {
-  "id": 20,
+  "id": 19,
   "tag": "P0005_2",
   "en": "Chunhyang half smiles. \"Stop that dirty talk.\"",
   "ko": "춘향이 반쯤 웃는다. \"그런 잡담은 마시오.\"",
   "is_header": false
  },
  {
-  "id": 21,
+  "id": 20,
   "tag": "P0005_3",
   "en": "\"It's not dirty talk. Chunhyang, let's play piggyback.\"",
   "ko": "\"그게 잡담이 아니로다. 춘향아, 우리 업음질이나 해 보자.\"",
   "is_header": false
  },
  {
-  "id": 22,
+  "id": 21,
   "tag": "P0005_4",
   "en": "\"Oh, how naughty! How do you play piggyback?\"",
   "ko": "\"아이고, 망측해라. 업음질은 어떻게 하는 거요?\"",
   "is_header": false
  },
  {
-  "id": 23,
+  "id": 22,
   "tag": "P0005_5",
   "en": "Master Yi talks as if he has played it many times.",
   "ko": "도련님은 업음질을 여러 번 해 본 사람처럼 말한다.",
   "is_header": false
  },
  {
-  "id": 24,
+  "id": 23,
   "tag": "P0005_6",
   "en": "\"Piggyback is the easiest thing in the world. We take off all our clothes, and I carry you, and you hug me. That's piggyback.\"",
   "ko": "\"업음질은 세상에서 제일 쉽지. 너와 나와 훨훨 벗고 업고도 놀고 안고도 놀면 그게 업음질이지.\"",
   "is_header": false
  },
  {
-  "id": 25,
+  "id": 24,
   "tag": "P0005_7",
   "en": "\"Oh no, I'm too shy to take my clothes off.\"",
   "ko": "\"아이고, 나는 부끄러워서 못 벗겠소.\"",
   "is_header": false
  },
  {
-  "id": 26,
+  "id": 25,
   "tag": "P0005_8",
   "en": "\"Oh, you little tease.\" Master Yi pulls off his own clothes, pushes them into a corner, and stands up straight.",
   "ko": "\"에라, 요 깍쟁이 같으니.\" 도련님이 제 옷을 훨훨 벗어 한쪽 구석에 밀쳐 놓고 우뚝 선다.",
   "is_header": false
  },
  {
-  "id": 27,
+  "id": 26,
   "tag": "P0005_9",
   "en": "Chunhyang sees him, giggles, and turns away. \"You look just like a goblin in broad daylight!\"",
   "ko": "춘향이 그 모습을 보고 빵긋 웃고 돌아서며 말한다. \"영락없이 낮도깨비 같소.\"",
   "is_header": false
  },
  {
-  "id": 28,
+  "id": 27,
   "tag": "P0005_10",
   "en": "\"Good, I like that. Everything in the world has a partner. Let's be two goblins together.\"",
   "ko": "\"오냐, 네 말이 좋다. 세상 만물에 짝 없는 게 없느니라. 두 도깨비가 놀아 보자.\"",
   "is_header": false
  },
  {
-  "id": 29,
+  "id": 28,
   "tag": "P0005_11",
   "en": "\"Then let's at least blow out the lamp.\"",
   "ko": "\"그러면 불이나 끄고 노십시다.\"",
   "is_header": false
  },
  {
-  "id": 30,
+  "id": 29,
   "tag": "P0005_12",
   "en": "\"Where's the fun without the light? Come on, take them off, take them off.\"",
   "ko": "\"불이 없으면 무슨 재미가 있겠느냐. 어서 벗어라, 벗어라.\"",
   "is_header": false
  },
  {
-  "id": 31,
+  "id": 30,
   "tag": "P0005_13",
-  "en": "\"Oh, I don't want to!\"",
-  "ko": "\"아이고, 나는 싫어요.\"",
+  "en": "\"Oh, I don't want to!\" Master Yi teases and plays with her as he tries to take off her clothes.",
+  "ko": "\"아이고, 나는 싫어요.\" 도련님이 춘향의 옷을 벗기려 하며 넘놀면서 어르는데,",
   "is_header": false
  },
  {
-  "id": 32,
+  "id": 31,
   "tag": "P0005_14",
-  "en": "Master Yi teases and plays with her as he tries to take off her clothes.",
-  "ko": "도련님이 춘향의 옷을 벗기려 하며 넘놀면서 어르는데,",
-  "is_header": false
- },
- {
-  "id": 33,
-  "tag": "P0005_15",
   "en": "He is like an old tiger in the deep mountains with a fat dog in its mouth, growling playfully because it has no teeth to eat it.",
   "ko": "깊은 산속 늙은 범이 살진 암캐를 물어다 놓고, 이가 없어 먹지는 못하고 으르렁 어르는 듯하다.",
   "is_header": false
  },
  {
-  "id": 34,
-  "tag": "P0005_16",
+  "id": 32,
+  "tag": "P0005_15",
   "en": "He is like a black dragon of the North Sea dancing in the clouds with a magic pearl in its mouth, or a phoenix playing among the paulownia trees.",
   "ko": "북해의 흑룡이 여의주를 입에 물고 오색구름 사이를 넘노는 듯, 봉황이 대나무 열매를 물고 오동나무 속을 넘노는 듯하다.",
   "is_header": false
  },
  {
-  "id": 35,
-  "tag": "P0005_17",
+  "id": 33,
+  "tag": "P0005_16",
   "en": "He sweeps her slender waist into his arms, stretches and shivers, and kisses her cheeks and lips again and again.",
   "ko": "춘향의 가는 허리를 후리쳐 담쑥 안고, 기지개를 켜며 몸을 떨고, 볼도 쪽쪽 입술도 쪽쪽 빨며,",
   "is_header": false
  },
  {
-  "id": 36,
+  "id": 34,
   "tag": "P0006_1",
   "en": "Cooing like a dove, he turns her around, holds her close, and takes off her top, her skirt, her pants, and her underwear.",
   "ko": "비둘기처럼 꾹꾹 꿍꿍 콧소리를 내며, 뒤로 돌아 담쑥 안고 저고리, 치마, 바지, 속옷까지 훨훨 벗겨 놓는다.",
   "is_header": false
  },
  {
-  "id": 37,
+  "id": 35,
   "tag": "P0006_2",
   "en": "Chunhyang is so shy that she curls up on one side. Master Yi, impatient, looks at her quietly.",
   "ko": "춘향이 부끄러워 한쪽으로 웅크리고 앉으니, 도련님이 답답하여 가만히 살펴본다.",
   "is_header": false
  },
  {
-  "id": 38,
+  "id": 36,
   "tag": "P0006_3",
   "en": "Her face is pink, and little drops of sweat shine on her skin.",
   "ko": "얼굴이 발그레하고 구슬땀이 송골송골 맺혔구나.",
   "is_header": false
  },
  {
-  "id": 39,
+  "id": 37,
   "tag": "P0006_4",
   "en": "\"Hey, Chunhyang, come here and climb on my back.\"",
   "ko": "\"이 애 춘향아, 이리 와 업혀라.\"",
   "is_header": false
  },
  {
-  "id": 40,
+  "id": 38,
   "tag": "P0006_5",
   "en": "Chunhyang is shy, so Master Yi says, \"Why be shy? We already know everything about each other. Come on, climb on.\"",
   "ko": "춘향이 부끄러워하자 도련님이 말한다. \"부끄럽긴 뭐가 부끄러우냐. 이미 다 아는 사이에. 어서 와 업혀라.\"",
   "is_header": false
  },
  {
-  "id": 41,
+  "id": 39,
   "tag": "P0006_6",
   "en": "He carries her on his back, bouncing her up, and says, \"Oh my, this girl's bottom is heavy! Just answer my questions.\"",
   "ko": "춘향을 업고 추슬러 올리며 말한다. \"아이고, 이 계집아이 엉덩이가 꽤 묵직하구나. 내가 묻는 말에 대답만 하여라.\"",
   "is_header": false
  },
  {
-  "id": 42,
+  "id": 40,
   "tag": "P0006_7",
   "en": "\"Ask, and I will answer.\"",
   "ko": "\"말씀하시면 대답하겠습니다. 해 보십시오.\"",
   "is_header": false
  },
  {
-  "id": 43,
+  "id": 41,
   "tag": "P0006_8",
   "en": "\"Are you gold?\"",
   "ko": "\"네가 금이냐?\"",
   "is_header": false
  },
  {
-  "id": 44,
+  "id": 42,
   "tag": "P0006_9",
   "en": "\"Gold? Of course not. Long ago, in the wars of China, a general threw away forty thousand pieces of gold to trap his enemy. There's no gold left!\"",
   "ko": "\"금이라니 당치 않소. 옛날 초나라와 한나라가 싸울 때 진평이 범증을 잡으려고 황금 사만 냥을 뿌렸으니, 금이 어찌 남았겠소.\"",
   "is_header": false
  },
  {
-  "id": 45,
+  "id": 43,
   "tag": "P0006_10",
   "en": "\"Then are you jade?\"",
   "ko": "\"그러면 진짜 옥이냐?\"",
   "is_header": false
  },
  {
-  "id": 46,
+  "id": 44,
   "tag": "P0006_11",
-  "en": "\"Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it,",
-  "ko": "\"옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로",
+  "en": "\"Jade? Of course not. The First Emperor of China took the best jade in the land, had famous words carved on it, and made it into the royal seal. It was passed down for ages. How could I be jade?\"",
+  "ko": "\"옥이라니 당치 않소. 진시황이 형산의 옥을 얻어 이사의 글씨로 '하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소.\"",
   "is_header": false
  },
  {
-  "id": 47,
+  "id": 45,
   "tag": "P0007_1",
-  "en": "and made it into the royal seal. It was passed down for ages. How could I be jade?\"",
-  "ko": "'하늘의 명을 받아 영원히 번창하리라' 새겨 옥새를 만들어 대대로 전했으니, 제가 어찌 옥이 되겠소.\"",
-  "is_header": false
- },
- {
-  "id": 48,
-  "tag": "P0007_2",
   "en": "\"Then what are you? A wild rose?\"",
   "ko": "\"그러면 네가 무엇이냐? 해당화냐?\"",
   "is_header": false
  },
  {
-  "id": 49,
-  "tag": "P0007_3",
+  "id": 46,
+  "tag": "P0007_2",
   "en": "\"A wild rose? Of course not. This isn't the famous white sand beach. How could I be a wild rose?\"",
   "ko": "\"해당화라니 당치 않소. 명사십리도 아닌데 해당화가 되겠소.\"",
   "is_header": false
  },
  {
-  "id": 50,
-  "tag": "P0007_4",
+  "id": 47,
+  "tag": "P0007_3",
   "en": "\"Then are you amber or a pearl?\"",
   "ko": "\"그러면 밀화, 금패, 호박, 진주냐?\"",
   "is_header": false
  },
  {
-  "id": 51,
-  "tag": "P0007_5",
+  "id": 48,
+  "tag": "P0007_4",
   "en": "\"No, not that either. Those were all used for the hat strings of great officials and the rings of gisaeng. There are none left.\"",
   "ko": "\"그것도 당치 않소. 높은 벼슬아치와 수령들의 갓끈 장식으로 쓰고, 나머지는 기생들 가락지로 다 만들었으니 당치 않소.\"",
   "is_header": false
  },
  {
-  "id": 52,
-  "tag": "P0007_6",
+  "id": 49,
+  "tag": "P0007_5",
   "en": "\"Then are you tortoiseshell or coral?\"",
   "ko": "\"그러면 대모나 산호냐?\"",
   "is_header": false
  },
  {
-  "id": 53,
-  "tag": "P0007_7",
+  "id": 50,
+  "tag": "P0007_6",
   "en": "\"No. Tortoiseshell decorates screens and coral makes railings in the Dragon King's palace under the sea.\"",
   "ko": "\"그것도 아니오. 대모로는 큰 병풍을 꾸미고 산호로는 난간을 만들어 용궁의 보물이 되었으니 당치 않소.\"",
   "is_header": false
  },
  {
-  "id": 54,
-  "tag": "P0007_8",
+  "id": 51,
+  "tag": "P0007_7",
   "en": "\"Then are you a half moon?\"",
   "ko": "\"그러면 반달이냐?\"",
   "is_header": false
  },
  {
-  "id": 55,
-  "tag": "P0007_9",
+  "id": 52,
+  "tag": "P0007_8",
   "en": "\"A half moon? Of course not. Tonight isn't the start of the month. How could I be the bright moon up in the sky?\"",
   "ko": "\"반달이라니 당치 않소. 오늘 밤이 초승도 아닌데, 하늘에 뜬 밝은 달이 내가 되겠소?\"",
   "is_header": false
  },
  {
-  "id": 56,
-  "tag": "P0007_10",
+  "id": 53,
+  "tag": "P0007_9",
   "en": "\"Then what are you? A fox who has bewitched me? Did your mother give birth to you and raise you so beautifully just to bewitch me?\"",
   "ko": "\"그러면 네가 무엇이냐? 나를 홀려 먹는 여우냐? 너의 어머니가 너를 낳아 곱게 길러 나만 홀려 먹으라고 생겼느냐?\"",
   "is_header": false
  },
  {
-  "id": 57,
-  "tag": "P0007_11",
+  "id": 54,
+  "tag": "P0007_10",
   "en": "\"Love, love, my love. What would you like to eat? Raw chestnuts? Steamed chestnuts?\"",
   "ko": "\"사랑 사랑 내 사랑이야. 너는 무엇을 먹으려느냐? 생밤, 찐 밤을 먹으려느냐?\"",
   "is_header": false
  },
  {
-  "id": 58,
-  "tag": "P0007_12",
+  "id": 55,
+  "tag": "P0007_11",
   "en": "\"Shall I cut open a round watermelon and feed you a bite of the red part with a silver spoon?\"",
   "ko": "\"둥글둥글 수박 꼭지 떼고 은숟가락으로 붉은 속 한 점 떠먹으려느냐?\"",
   "is_header": false
  },
  {
-  "id": 59,
-  "tag": "P0007_13",
+  "id": 56,
+  "tag": "P0007_12",
   "en": "\"No, I don't want that.\"",
   "ko": "\"아니, 그것도 싫소.\"",
   "is_header": false
  },
  {
-  "id": 60,
-  "tag": "P0007_14",
+  "id": 57,
+  "tag": "P0007_13",
   "en": "\"Then how about a sour wild apricot?\"",
   "ko": "\"그러면 시금털털 개살구를 먹으려느냐?\"",
   "is_header": false
  },
  {
-  "id": 61,
-  "tag": "P0007_15",
+  "id": 58,
+  "tag": "P0007_14",
   "en": "\"No, I don't want that either.\"",
   "ko": "\"아니, 그것도 싫소.\"",
   "is_header": false
  },
  {
-  "id": 62,
-  "tag": "P0007_16",
+  "id": 59,
+  "tag": "P0007_15",
   "en": "\"Then what will you eat? Shall I kill a pig or a dog for you? Or will you eat me up whole?\"",
   "ko": "\"그러면 무엇을 먹겠느냐? 돼지를 잡아 주랴, 개를 잡아 주랴? 내 몸뚱이를 통째로 먹으려느냐?\"",
   "is_header": false
  },
  {
-  "id": 63,
-  "tag": "P0007_17",
+  "id": 60,
+  "tag": "P0007_16",
   "en": "\"Young master, have you ever seen me eat people?\"",
   "ko": "\"여보 도련님, 내가 사람 잡아먹는 것 봤소?\"",
   "is_header": false
  },
  {
-  "id": 64,
-  "tag": "P0007_18",
-  "en": "\"Oh,",
-  "ko": "\"에라,",
+  "id": 61,
+  "tag": "P0007_17",
+  "en": "\"Oh, that's not right. Oh, my darling. Now you can get down.\"",
+  "ko": "\"에라, 요것 안 될 말이로다. 어화 둥둥 내 사랑이지. 이제 그만 내려라.\"",
   "is_header": false
  },
  {
-  "id": 65,
+  "id": 62,
   "tag": "P0008_1",
-  "en": "that's not right. Oh, my darling. Now you can get down.\"",
-  "ko": "요것 안 될 말이로다. 어화 둥둥 내 사랑이지. 이제 그만 내려라.\"",
-  "is_header": false
- },
- {
-  "id": 66,
-  "tag": "P0008_2",
   "en": "\"Everything should be fair. I carried you, so now you have to carry me.\"",
   "ko": "\"모든 일에는 품앗이가 있는 법이다. 내가 너를 업었으니 너도 나를 업어야지.\"",
   "is_header": false
  },
  {
-  "id": 67,
-  "tag": "P0008_3",
+  "id": 63,
+  "tag": "P0008_2",
   "en": "\"Oh, young master, you are strong, so you could carry me. I'm too weak to carry you.\"",
   "ko": "\"아이고, 도련님은 힘이 세서 나를 업었지만, 나는 힘이 없어 못 업겠소.\"",
   "is_header": false
  },
  {
-  "id": 68,
-  "tag": "P0008_4",
+  "id": 64,
+  "tag": "P0008_3",
   "en": "\"There's a trick. Don't lift me high. Just lean back and carry me so my feet nearly drag on the floor.\"",
   "ko": "\"업는 방법이 있단다. 나를 높이 들어 업으려 하지 말고, 발이 땅에 끌릴 듯 말 듯 뒤로 젖혀서 업어 다오.\"",
   "is_header": false
  },
  {
-  "id": 69,
-  "tag": "P0008_5",
+  "id": 65,
+  "tag": "P0008_4",
   "en": "Chunhyang carries him and gives him a bounce, but she loses her balance and wobbles.",
   "ko": "춘향이 도련님을 업고 툭 추어올리니, 균형이 틀어져 비틀거린다.",
   "is_header": false
  },
  {
-  "id": 70,
-  "tag": "P0008_6",
+  "id": 66,
+  "tag": "P0008_5",
   "en": "\"Oh, how silly!\" She sways this way and that.",
   "ko": "\"아이고, 망측해라.\" 이리 흔들 저리 흔들한다.",
   "is_header": false
  },
  {
-  "id": 71,
-  "tag": "P0008_7",
+  "id": 67,
+  "tag": "P0008_6",
   "en": "\"How does it feel to carry me? I said sweet things when I carried you, so you must say sweet things when you carry me.\"",
   "ko": "\"내가 네 등에 업혀 보니 마음이 어떠냐? 나도 너를 업고 좋은 말을 했으니, 너도 나를 업고 좋은 말을 해야지.\"",
   "is_header": false
  },
  {
-  "id": 72,
+  "id": 68,
+  "tag": "P0008_7",
+  "en": "\"I will say sweet things. Listen. It's like carrying Confucius, or a loyal minister who holds up the country, or the six faithful ministers of old.\"",
+  "ko": "\"좋은 말을 하겠습니다. 들어 보십시오. 공자님을 업은 듯, 큰 뜻을 품은 나라의 기둥 같은 충신을 업은 듯, 사육신과 생육신을 업은 듯,\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
   "tag": "P0008_8",
-  "en": "\"I will say sweet things. Listen.\"",
-  "ko": "\"좋은 말을 하겠습니다. 들어 보십시오.\"",
-  "is_header": false
- },
- {
-  "id": 73,
-  "tag": "P0008_9",
-  "en": "\"It's like carrying Confucius, or a loyal minister who holds up the country, or the six faithful ministers of old.\"",
-  "ko": "\"공자님을 업은 듯, 큰 뜻을 품은 나라의 기둥 같은 충신을 업은 듯, 사육신과 생육신을 업은 듯,\"",
-  "is_header": false
- },
- {
-  "id": 74,
-  "tag": "P0008_10",
   "en": "\"It's like carrying the great scholars of the past, and Admiral Yi Sun-sin, our hero of the sea.\"",
   "ko": "\"최고운과 같은 옛 선비들을 업은 듯, 의병장과 충무공 이순신을 업은 듯, 송시열과 퇴계 같은 학자를 업은 듯하오.\"",
   "is_header": false
  },
  {
-  "id": 75,
+  "id": 70,
   "tag": "P0009_1",
   "en": "\"My husband, my husband, my dear, dear husband! You will pass the state exam, join the royal court, and become a royal scholar.\"",
   "ko": "\"내 서방, 내 서방, 알뜰살뜰한 내 서방. 진사 급제하여 벼슬에 나가 한림학사가 되고,\"",
   "is_header": false
  },
  {
-  "id": 76,
+  "id": 71,
   "tag": "P0009_2",
   "en": "\"You will be a governor, then a minister, and then the prime minister.\"",
   "ko": "\"승지를 두루 거쳐 팔도 관찰사를 지낸 뒤, 내직으로 들어와 대제학과 판서를 거쳐 영의정까지 오를 내 서방.\"",
   "is_header": false
  },
  {
-  "id": 77,
+  "id": 72,
   "tag": "P0009_3",
   "en": "\"You will be a pillar of the country, my dear, dear husband.\"",
   "ko": "\"조정의 기둥 같은 신하, 알뜰살뜰한 내 서방이로다.\"",
   "is_header": false
  },
  {
-  "id": 78,
+  "id": 73,
   "tag": "P0009_4",
   "en": "\"Now we really work well together. Chunhyang, let's play horsey.\"",
   "ko": "\"이제는 손발이 척척 맞는구나. 춘향아, 우리 말놀음이나 좀 해 보자.\"",
   "is_header": false
  },
  {
-  "id": 79,
+  "id": 74,
   "tag": "P0009_5",
   "en": "\"Oh, how funny. What's horsey?\"",
   "ko": "\"아이고, 참 우스워라. 말놀음은 또 뭐요?\"",
   "is_header": false
  },
  {
-  "id": 80,
+  "id": 75,
   "tag": "P0009_6",
   "en": "Master Yi talks as if he has played it many times. \"It's the easiest thing in the world.\"",
   "ko": "도련님은 말놀음도 많이 해 본 듯이 말한다. \"세상에서 제일 쉽지.\"",
   "is_header": false
  },
  {
-  "id": 81,
+  "id": 76,
   "tag": "P0009_7",
   "en": "\"Since we're both undressed, you crawl around the floor on your hands and knees.\"",
   "ko": "\"너와 나와 벗은 김에, 너는 온 방바닥을 기어 다녀라.\"",
   "is_header": false
  },
  {
-  "id": 82,
+  "id": 77,
   "tag": "P0009_8",
-  "en": "\"I'll hold on tight to your waist from behind, and when I slap your bottom and say 'Giddy-up!'\"",
-  "ko": "\"나는 네 엉덩이에 딱 붙어서 네 허리를 꽉 잡고, 손바닥으로 볼기짝을 철썩 치면서 '이랴!' 하거든,\"",
+  "en": "\"I'll hold on tight to your waist from behind, and when I slap your bottom and say 'Giddy-up!' you say 'Neigh!' and kick back and jump. If you jump well, I have a riding song for you.\"",
+  "ko": "\"나는 네 엉덩이에 딱 붙어서 네 허리를 꽉 잡고, 손바닥으로 볼기짝을 철썩 치면서 '이랴!' 하거든, 너는 '호홍' 하고 뒷걸음질 치다가 뛰어라. 신나게 뛰면 '탈 승(乘)' 자 노래가 있느니라.\"",
   "is_header": false
  },
  {
-  "id": 83,
+  "id": 78,
   "tag": "P0009_9",
-  "en": "\"you say 'Neigh!' and kick back and jump. If you jump well, I have a riding song for you.\"",
-  "ko": "\"너는 '호홍' 하고 뒷걸음질 치다가 뛰어라. 신나게 뛰면 '탈 승(乘)' 자 노래가 있느니라.\"",
-  "is_header": false
- },
- {
-  "id": 84,
-  "tag": "P0009_10",
   "en": "\"Listen to the song of riding. The first emperor of China caught his enemy and rode home in a chariot.\"",
   "ko": "\"타고 노는 이야기를 들어 보아라. 옛날 헌원씨는 치우를 사로잡고 승전고를 울리며 지남거를 높이 탔다.\"",
   "is_header": false
  },
  {
-  "id": 85,
-  "tag": "P0009_11",
+  "id": 79,
+  "tag": "P0009_10",
   "en": "\"A wise king rode a cart, an immortal rode a cloud, the poet Li Bai rode a whale, and a hermit rode a crane.\"",
   "ko": "\"하우씨는 홍수를 다스릴 때 수레를 탔고, 적송자는 구름을, 여동빈은 흰 노새를, 이태백은 고래를, 맹호연은 나귀를, 신선은 학을 탔다.\"",
   "is_header": false
  },
  {
-  "id": 86,
-  "tag": "P0009_12",
-  "en": "\"The emperor rides an elephant, our king rides a royal carriage, ministers ride in chairs, generals ride carts, and magistrates ride in sedans,\"",
-  "ko": "\"중국 천자는 코끼리를, 우리 임금은 가마를, 삼정승은 평교자를, 육판서는 초헌을, 훈련대장은 수레를, 고을 수령들은 독교를 타고,\"",
+  "id": 80,
+  "tag": "P0009_11",
+  "en": "\"The emperor rides an elephant, our king rides a royal carriage, ministers ride in chairs, generals ride carts, and magistrates ride in sedans, the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset.\"",
+  "ko": "\"중국 천자는 코끼리를, 우리 임금은 가마를, 삼정승은 평교자를, 육판서는 초헌을, 훈련대장은 수레를, 고을 수령들은 독교를 타고, 남원 부사는 별연을 타고, 해 질 녘 강가의 어부들은 작은 배를 탄다.\"",
   "is_header": false
  },
  {
-  "id": 87,
+  "id": 81,
   "tag": "P0010_1",
-  "en": "\"the magistrate of Namwon rides a fine carriage, and fishermen ride little boats on the river at sunset.\"",
-  "ko": "\"남원 부사는 별연을 타고, 해 질 녘 강가의 어부들은 작은 배를 탄다.\"",
-  "is_header": false
- },
- {
-  "id": 88,
-  "tag": "P0010_2",
   "en": "\"I have nothing to ride, so tonight, deep in the night, I will quietly ride the boat called Chunhyang.\"",
   "ko": "\"나는 탈 것이 없으니, 오늘 밤 깊은 삼경에 춘향이라는 배를 넌지시 타고,\"",
   "is_header": false
  },
  {
-  "id": 89,
-  "tag": "P0010_3",
+  "id": 82,
+  "tag": "P0010_2",
   "en": "\"I'll use the thin quilt for a sail, row the oars, and sail across with the wind behind me.\"",
   "ko": "\"홑이불로 돛을 달고 노를 저어, 순풍을 받아 거침없이 건너가자꾸나.\"",
   "is_header": false
  },
  {
-  "id": 90,
-  "tag": "P0010_4",
+  "id": 83,
+  "tag": "P0010_3",
   "en": "\"And if I ride you like a horse, you'll need a good gait. I'll be the rider, hold the reins, and we'll go slow and then fast.\"",
   "ko": "\"말로 삼아 탄다면 걸음걸이가 없겠느냐. 내가 마부가 되어 고삐를 넌지시 잡고, 천천히 걷다가 빨리 달리다가 하자.\"",
   "is_header": false
  },
  {
-  "id": 91,
-  "tag": "P0010_5",
+  "id": 84,
+  "tag": "P0010_4",
   "en": "The two of them, both sixteen, had found each other. They were so wild with love that they forgot time was passing.",
   "ko": "열여섯 동갑내기 둘이 만났으니, 들뜬 마음에 세월 가는 줄도 몰랐던가 보더라.",
   "is_header": false

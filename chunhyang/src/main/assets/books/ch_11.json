@@ -51,355 +51,313 @@
  {
   "id": 8,
   "tag": "P0003_1",
-  "en": "\"I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night,\"",
-  "ko": "\"말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고,\"",
+  "en": "\"I'm afraid you will grow tired on horseback and fall ill. On rainy days, stop early for the night, and on windy, rainy mornings, leave late. You will have no one by your side to look after you, so please, please take good care of yourself. You are more precious than gold.\"",
+  "ko": "\"말 위에서 지쳐 병이 나실까 걱정되니, 풀이 우거진 비 오는 날엔 일찍 숙소에 드시고, 바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니, 부디부디 천금같이 귀한 몸을 잘 보살피십시오.\"",
   "is_header": false
  },
  {
   "id": 9,
-  "tag": "P0003_2",
-  "en": "\"and on windy, rainy mornings, leave late. You will have no one by your side to look after you,\"",
-  "ko": "\"바람 불고 비 오는 아침엔 늦게야 떠나시오. 채찍 하나 든 몸 곁에 모실 사람도 없으니,\"",
-  "is_header": false
- },
- {
-  "id": 10,
-  "tag": "P0003_3",
-  "en": "\"so please, please take good care of yourself. You are more precious than gold.\"",
-  "ko": "\"부디부디 천금같이 귀한 몸을 잘 보살피십시오.\"",
-  "is_header": false
- },
- {
-  "id": 11,
   "tag": "P0004_1",
   "en": "\"Go safely along the green rivers, and please write to me often. Even one word from you would be enough.\"",
   "ko": "\"푸른 물 맑은 길에 평안히 가시고, 한 글자 소식이나 듣고 싶으니 자주 편지나 하십시오.\"",
   "is_header": false
  },
  {
-  "id": 12,
+  "id": 10,
   "tag": "P0004_2",
   "en": "Master Yi says, \"Don't worry about news. Long ago, a goddess sent a bluebird across thousands of miles with her letters.\"",
   "ko": "도련님이 말한다. \"소식 걱정은 마라. 옛날 서왕모도 파랑새를 보내 수천 리 길에 소식을 전했다.\"",
   "is_header": false
  },
  {
-  "id": 13,
+  "id": 11,
   "tag": "P0004_3",
   "en": "\"An envoy once sent a letter tied to a wild goose's foot. Even without birds, there will be people going to Namwon.\"",
   "ko": "\"한나라 사신은 기러기 발에 매단 편지로 소식을 전했으니, 기러기와 파랑새는 없더라도 남원 가는 인편이야 없겠느냐.\"",
   "is_header": false
  },
  {
-  "id": 14,
+  "id": 12,
   "tag": "P0004_4",
   "en": "\"Don't be sad. Take care.\" Master Yi gets on his horse and says goodbye, and Chunhyang is heartbroken.",
   "ko": "\"서러워 말고 잘 있거라.\" 도련님이 말을 타고 하직하니, 춘향이 기가 막혀 말한다.",
   "is_header": false
  },
  {
-  "id": 15,
+  "id": 13,
   "tag": "P0004_5",
   "en": "\"He kept saying he was going, but I thought it was only talk. Now he is on his horse and turning away. He's really going.\"",
   "ko": "\"우리 도련님이 간다 간다 해도 거짓말로 알았더니, 말을 타고 돌아서니 참말로 가는구나.\"",
   "is_header": false
  },
  {
-  "id": 16,
+  "id": 14,
   "tag": "P0004_6",
   "en": "Chunhyang calls the groom. \"Groom, I can't go out past the gate, so hold the horse and stop for a moment.\"",
   "ko": "춘향이 마부를 부른다. \"마부야, 내가 문밖에 나설 수가 없으니, 말을 붙들고 잠깐 멈춰라.\"",
   "is_header": false
  },
  {
-  "id": 17,
+  "id": 15,
   "tag": "P0004_7",
   "en": "\"I want to say just one word to the young master.\" She runs out. \"Master Yi, now that you're going, when will you come back?\"",
   "ko": "\"도련님께 한 말씀만 여쭐란다.\" 춘향이 내달아 말한다. \"여보 도련님, 이제 가시면 언제나 오시려오?\"",
   "is_header": false
  },
  {
-  "id": 18,
+  "id": 16,
   "tag": "P0004_8",
   "en": "\"If no letters come, then everything is cut off, the end, jeol. But my faith, my jeol, is like the bamboo and the pine. It never changes.\"",
   "ko": "\"소식이 끊어지면 아주 영영 끊어지는 절(絶)이오. 대나무와 소나무처럼, 옛 충신처럼 변하지 않는 절개요.\"",
   "is_header": false
  },
  {
-  "id": 19,
+  "id": 17,
   "tag": "P0004_9",
-  "en": "\"No news in any season, all cut off. You leave me so coldly,\"",
-  "ko": "\"사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니,\"",
+  "en": "\"No news in any season, all cut off. You leave me so coldly, and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.\"",
+  "ko": "\"사철 소식이 끊어진 단절, 도련님은 날 버리고 박절(迫切)하게 가시니, 속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).\"",
   "is_header": false
  },
  {
-  "id": 20,
+  "id": 18,
   "tag": "P0004_10",
-  "en": "\"and I am left with my useless faithfulness, guarding my lonely room. When will it end? My sad, lonely faith.\"",
-  "ko": "\"속절없는 나의 정절, 빈방에서 지키는 수절, 언제나 깨어질까. 내 원망 서러운 고절(孤節).\"",
-  "is_header": false
- },
- {
-  "id": 21,
-  "tag": "P0004_11",
   "en": "\"I will think of you day and night, so please, please don't cut off your letters.\"",
   "ko": "\"밤낮 생각 끊이지 않을 테니, 부디 소식이나 끊지 마오.\"",
   "is_header": false
  },
  {
-  "id": 22,
-  "tag": "P0004_12",
+  "id": 19,
+  "tag": "P0004_11",
   "en": "She falls down outside the gate and beats the ground with her slender hands. \"Oh, oh, my poor life!\"",
   "ko": "대문 밖에 거꾸러져 가녀린 두 손으로 땅을 쾅쾅 치며 운다. \"아이고, 아이고, 내 신세야.\"",
   "is_header": false
  },
  {
-  "id": 23,
-  "tag": "P0004_13",
+  "id": 20,
+  "tag": "P0004_12",
   "en": "At her cry, the wind turns lonely, the flags lose their color, and even the sun grows pale.",
   "ko": "\"아이고.\" 하는 소리에, 바람은 쓸쓸하고 깃발은 빛을 잃고 해마저 엷어진다.",
   "is_header": false
  },
  {
-  "id": 24,
+  "id": 21,
   "tag": "P0005_1",
   "en": "She falls this way and that in her grief. At this rate, the goodbye could take days.",
   "ko": "엎어지며 자빠지며 서운한 이별에, 이대로라면 며칠이 걸릴지 모를 판이다.",
   "is_header": false
  },
  {
-  "id": 25,
+  "id": 22,
   "tag": "P0005_2",
   "en": "But Master Yi is riding a fast horse under the whip.",
   "ko": "그러나 도련님이 탄 말은 채찍질하는 준마가 아니냐.",
   "is_header": false
  },
  {
-  "id": 26,
+  "id": 23,
   "tag": "P0005_3",
   "en": "With tears in his eyes, he promises they will meet again, whips his horse, and is gone, like a little cloud blown away by a strong wind.",
   "ko": "도련님은 눈물을 흘리며 훗날을 기약하고, 말을 채쳐 떠나가니 거센 바람에 날리는 조각구름 같다.",
   "is_header": false
  },
  {
-  "id": 27,
+  "id": 24,
   "tag": "P0006_1",
   "en": "Chunhyang, with nothing else to do, goes into her bedroom. \"Hyangdan, roll up the screen, put a pillow down, and close the door.\"",
   "ko": "이때 춘향이 어쩔 수 없이 침방으로 들어간다. \"향단아, 주렴 걷고 안석 밑에 베개 놓고 문 닫아라.\"",
   "is_header": false
  },
  {
-  "id": 28,
+  "id": 25,
   "tag": "P0006_2",
   "en": "\"I can't see him while I am awake, so let me fall asleep and meet him in a dream.\"",
   "ko": "\"도련님을 생시에는 만나 보기 아득하니, 잠이나 들면 꿈에서 만나 보자.\"",
   "is_header": false
  },
  {
-  "id": 29,
+  "id": 26,
   "tag": "P0006_3",
   "en": "\"They say a lover in a dream can't be trusted, but I miss him so much. How else can I see him?\"",
   "ko": "\"옛말에 꿈에 보이는 임은 믿을 수 없다 했지만, 답답하게 그리우니 꿈 아니면 어찌 보리.\"",
   "is_header": false
  },
  {
-  "id": 30,
+  "id": 27,
   "tag": "P0006_4",
   "en": "\"Dream, dream, please come! But my worries pile up so high that I can't sleep. What can I do?\"",
   "ko": "\"꿈아, 꿈아, 너 오너라. 근심이 겹겹이 한이 되어 잠을 이루지 못하니 어찌하랴.\"",
   "is_header": false
  },
  {
-  "id": 31,
+  "id": 28,
   "tag": "P0006_5",
   "en": "\"Oh, oh, my life! Of everything in the world, parting is the worst. How can I live alone in this empty room?\"",
   "ko": "\"아이고, 아이고, 내 일이야. 세상 모든 일 가운데 이별이 으뜸인데, 홀로 지키는 빈방을 어찌할꼬.\"",
   "is_header": false
  },
  {
-  "id": 32,
+  "id": 29,
   "tag": "P0006_6",
   "en": "\"I miss him and I can't see him. Who understands how I feel?\"",
   "ko": "\"그리워도 보지 못하는 내 마음을 누가 알아주리.\"",
   "is_header": false
  },
  {
-  "id": 33,
+  "id": 30,
   "tag": "P0006_7",
   "en": "\"My heart is going mad. I try to push my worries away, but sleeping, lying down, eating, or awake, I can't see him, and my chest is so tight.\"",
   "ko": "\"미친 마음 이렁저렁, 흩어진 근심 다 떨쳐 버리고 자나 누우나 먹으나 깨나 임을 못 보니 가슴이 답답하다.\"",
   "is_header": false
  },
  {
-  "id": 34,
+  "id": 31,
   "tag": "P0006_8",
   "en": "\"His lovely face and voice still ring in my ears. I want to see him, I want to see him, I want to see his face.\"",
   "ko": "\"고운 모습 고운 목소리가 귀에 쟁쟁하다. 보고 싶다, 보고 싶다, 임의 얼굴 보고 싶다.\"",
   "is_header": false
  },
  {
-  "id": 35,
+  "id": 32,
   "tag": "P0006_9",
   "en": "\"I want to hear him, I want to hear him, I want to hear his voice.\"",
   "ko": "\"듣고 싶다, 듣고 싶다, 임의 목소리 듣고 싶다.\"",
   "is_header": false
  },
  {
-  "id": 36,
+  "id": 33,
   "tag": "P0006_10",
   "en": "\"What did we do wrong in a past life, that we were born only to long for each other?\"",
   "ko": "\"전생에 무슨 원수로 우리 둘이 태어나 그리움 하나에 매였을까.\"",
   "is_header": false
  },
  {
-  "id": 37,
+  "id": 34,
   "tag": "P0006_11",
-  "en": "\"We swore to live together for a hundred years. Gold and jewels meant nothing to us,\"",
-  "ko": "\"처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만,\"",
+  "en": "\"We swore to live together for a hundred years. Gold and jewels meant nothing to us, and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?\"",
+  "ko": "\"처음 맹세처럼 죽지 말고 함께 살며 백 년을 함께하자던 맹세, 천금 주옥도 하찮게 여겼건만, 근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.\"",
   "is_header": false
  },
  {
-  "id": 38,
+  "id": 35,
   "tag": "P0006_12",
-  "en": "\"and our love was as deep as a river and as high as a mountain. How could I know it would be cut off?\"",
-  "ko": "\"근원이 흘러 물이 되듯 깊고 깊은 사랑, 쌓이고 쌓여 산이 되듯 높고 높은 사랑이 끊어질 줄 어찌 알았으랴.\"",
-  "is_header": false
- },
- {
-  "id": 39,
-  "tag": "P0006_13",
   "en": "\"The spirits have played a trick on us, and heaven is jealous. In one morning I lost my love. When will I see him again?\"",
   "ko": "\"귀신이 훼방하고 하늘이 시기하는구나. 하루아침에 낭군과 이별하니 어느 날에나 만나 보리.\"",
   "is_header": false
  },
  {
-  "id": 40,
-  "tag": "P0006_14",
+  "id": 36,
+  "tag": "P0006_13",
   "en": "\"A million sorrows fill my heart. My face and hair will grow old for nothing. How cruel the sun and moon are.\"",
   "ko": "\"천만 가지 한이 가득하여 끝끝내 맺혔구나. 고운 얼굴 고운 머리도 다 헛되이 늙겠구나. 해와 달은 무정하구나.\"",
   "is_header": false
  },
  {
-  "id": 41,
+  "id": 37,
   "tag": "P0007_1",
   "en": "\"Why does the moonlit autumn night pass so slowly? Why does the summer sun set so slowly?\"",
   "ko": "\"오동잎 지는 가을밤 달 밝은 밤은 어찌 그리 더디 새며, 녹음방초 비낀 해는 어찌 그리 더디 지는고.\"",
   "is_header": false
  },
  {
-  "id": 42,
+  "id": 38,
   "tag": "P0007_2",
-  "en": "\"If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs,\"",
-  "ko": "\"이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고,\"",
+  "en": "\"If he knew how I long for him, he would long for me too. But I lie alone, and my only friend is my sighs, and from deep in my heart come only tears.\"",
+  "ko": "\"이 그리움을 알면 임도 나를 그리련만, 빈방에 홀로 누워 한숨만 벗이 되고, 굽이굽이 애간장에서 솟아나는 것은 눈물이라.\"",
   "is_header": false
  },
  {
-  "id": 43,
+  "id": 39,
   "tag": "P0007_3",
-  "en": "\"and from deep in my heart come only tears.\"",
-  "ko": "\"굽이굽이 애간장에서 솟아나는 것은 눈물이라.\"",
-  "is_header": false
- },
- {
-  "id": 44,
-  "tag": "P0007_4",
   "en": "\"If my tears made a sea and my sighs made a wind, I could sail a little boat to Seoul and find him. Why can't I see him?\"",
   "ko": "\"눈물 모아 바다 되고 한숨 지어 바람 되면, 조각배 타고 한양 낭군 찾아가련만, 어이 그리 못 보는고.\"",
   "is_header": false
  },
  {
-  "id": 45,
-  "tag": "P0007_5",
+  "id": 40,
+  "tag": "P0007_4",
   "en": "\"On this moonlit night, full of sorrow, I hoped to see him in a dream, but even the dream won't come.\"",
   "ko": "\"달 밝은 밤 시름에 잠기니, 꿈에나 보일까 했더니 꿈조차 오지 않는구나.\"",
   "is_header": false
  },
  {
-  "id": 46,
-  "tag": "P0007_6",
+  "id": 41,
+  "tag": "P0007_5",
   "en": "\"The moon must be shining on him too, but the sorrow in my heart is mine alone.\"",
   "ko": "\"저 달은 임 계신 곳에도 비추련만, 마음속의 시름은 나 혼자뿐이로다.\"",
   "is_header": false
  },
  {
-  "id": 47,
-  "tag": "P0007_7",
+  "id": 42,
+  "tag": "P0007_6",
   "en": "\"The night is dark and endless. Outside the window, only fireflies glow.\"",
   "ko": "\"밤빛은 아득한데 창밖에 반짝이는 것은 반딧불이로다.\"",
   "is_header": false
  },
  {
-  "id": 48,
-  "tag": "P0007_8",
+  "id": 43,
+  "tag": "P0007_7",
   "en": "\"It is past midnight. If I sit up, will he come? If I lie down, will I sleep? Neither my love nor sleep will come.\"",
   "ko": "\"밤은 깊어 삼경인데 앉아 있은들 임이 올까, 누워 있은들 잠이 오랴. 임도 잠도 아니 온다.\"",
   "is_header": false
  },
  {
-  "id": 49,
+  "id": 44,
+  "tag": "P0007_8",
+  "en": "\"What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship, and I have waited long and longed long. Who but him can untie this knot in my heart?\"",
+  "ko": "\"이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만, 기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
   "tag": "P0007_9",
-  "en": "\"What can I do? Fate is my enemy. They say sorrow follows joy, and joy follows hardship,\"",
-  "ko": "\"이 일을 어찌하리. 아마도 원수로다. 즐거움이 다하면 슬픔이 오고, 고생 끝에 낙이 온다고 했건만,\"",
-  "is_header": false
- },
- {
-  "id": 50,
-  "tag": "P0007_10",
-  "en": "\"and I have waited long and longed long. Who but him can untie this knot in my heart?\"",
-  "ko": "\"기다림도 적지 않고 그리움도 오래건만, 굽이굽이 맺힌 한을 임 아니면 누가 풀까.\"",
-  "is_header": false
- },
- {
-  "id": 51,
-  "tag": "P0007_11",
   "en": "\"Heaven, please look down on me and let me see him soon.\"",
   "ko": "\"하늘이시여, 굽어살피시어 어서 만나게 해 주옵소서.\"",
   "is_header": false
  },
  {
-  "id": 52,
-  "tag": "P0007_12",
+  "id": 46,
+  "tag": "P0007_10",
   "en": "\"I want to meet him again and live without parting until our hair turns white.\"",
   "ko": "\"못다 한 정을 다시 만나 흰머리가 다 되도록 이별 없이 살고 싶구나.\"",
   "is_header": false
  },
  {
-  "id": 53,
-  "tag": "P0007_13",
+  "id": 47,
+  "tag": "P0007_11",
   "en": "\"Tell me, green rivers and green mountains, where is my love? Since the day he left, there has been no word.\"",
   "ko": "\"묻노라, 푸른 물 푸른 산아. 우리 임은 어디 있나. 이날 헤어진 뒤로 소식조차 끊겼구나.\"",
   "is_header": false
  },
  {
-  "id": 54,
-  "tag": "P0007_14",
+  "id": 48,
+  "tag": "P0007_12",
   "en": "\"People are not made of wood or stone. Surely he thinks of me too.\"",
   "ko": "\"사람이 나무나 돌이 아닐진대 임도 응당 나를 생각하리라.\"",
   "is_header": false
  },
  {
-  "id": 55,
+  "id": 49,
   "tag": "P0008_1",
   "en": "\"Oh, oh, my poor life,\" she says, and she spends her days sitting and sighing.",
   "ko": "\"아이고, 아이고, 내 신세야.\" 하며 앉아서 탄식으로 세월을 보낸다.",
   "is_header": false
  },
  {
-  "id": 56,
+  "id": 50,
   "tag": "P0008_2",
   "en": "Meanwhile, Master Yi cannot sleep at any inn on his way to Seoul. \"I want to see her. I want to see my love.\"",
   "ko": "이때 도련님은 서울로 올라가며 묵는 곳마다 잠 못 이루고 생각한다. \"보고 싶다, 내 사랑 보고 싶다.\"",
   "is_header": false
  },
  {
-  "id": 57,
+  "id": 51,
   "tag": "P0008_3",
   "en": "\"My love, whom I can't forget day or night, is missing me. I must see her soon and comfort her.\"",
   "ko": "\"밤낮 잊지 못할 내 사랑, 날 보내고 그리워하는 그 마음을 어서 만나 풀어 주리라.\"",
   "is_header": false
  },
  {
-  "id": 58,
+  "id": 52,
   "tag": "P0008_4",
   "en": "He makes up his mind: he will pass the state exam and win an official post.",
   "ko": "그는 굳게 마음먹고 과거 급제하여 벼슬을 얻기만을 바란다.",

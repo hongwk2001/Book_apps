@@ -107,509 +107,460 @@
  {
   "id": 16,
   "tag": "P0002_15",
-  "en": "\"But now that you are leaving, you just cut her off. Even a willow with ten million branches",
-  "ko": "\"마지막에 가실 때는 똑 떼어 버리시니, 버들가지가 천만 가닥이라도",
+  "en": "\"But now that you are leaving, you just cut her off. Even a willow with ten million branches can't hold back the spring wind when it goes. When the flowers fall, what butterfly will come back?\"",
+  "ko": "\"마지막에 가실 때는 똑 떼어 버리시니, 버들가지가 천만 가닥이라도 가는 봄바람을 어찌 붙잡으며, 꽃이 지고 잎이 떨어지면 어느 나비가 다시 오겠소?\"",
   "is_header": false
  },
  {
   "id": 17,
   "tag": "P0003_1",
-  "en": "can't hold back the spring wind when it goes. When the flowers fall, what butterfly will come back?\"",
-  "ko": "가는 봄바람을 어찌 붙잡으며, 꽃이 지고 잎이 떨어지면 어느 나비가 다시 오겠소?\"",
-  "is_header": false
- },
- {
-  "id": 18,
-  "tag": "P0003_2",
   "en": "\"My Chunhyang is as fair as white jade, but even her lovely face will grow old, and her hair will turn white. Youth never comes back.\"",
   "ko": "\"백옥 같은 내 딸 춘향도 꽃 같은 얼굴이 세월 따라 늙어 흰머리가 되면, 때는 다시 돌아오지 않는 법이오.\"",
   "is_header": false
  },
  {
-  "id": 19,
-  "tag": "P0003_3",
+  "id": 18,
+  "tag": "P0003_2",
   "en": "\"What did she do that is so terrible that she must waste her whole life?\"",
   "ko": "\"무슨 죄가 그리 중하여 헛되이 백 년을 보내란 말이오?\"",
   "is_header": false
  },
  {
-  "id": 20,
-  "tag": "P0003_4",
+  "id": 19,
+  "tag": "P0003_3",
   "en": "\"After you leave, my Chunhyang will miss you. On bright moonlit nights, deep in the night, she will be full of sorrow.\"",
   "ko": "\"도련님이 가신 뒤에 내 딸 춘향이 임을 그리워할 때, 달 밝은 깊은 밤 시름에 겨워,\"",
   "is_header": false
  },
  {
-  "id": 21,
-  "tag": "P0003_5",
+  "id": 20,
+  "tag": "P0003_4",
   "en": "\"Thinking of you, she will stand in the flower garden, light a pipe, and walk back and forth.\"",
   "ko": "\"도련님 생각이 절로 나서 초당 앞 화단에 서서 담배를 피워 물고 이리저리 다니다가,\"",
   "is_header": false
  },
  {
-  "id": 22,
-  "tag": "P0003_6",
+  "id": 21,
+  "tag": "P0003_5",
   "en": "\"When her longing burns like fire, she will wipe her tears, let out a long sigh, and point to the north.\"",
   "ko": "\"불꽃 같은 그리움이 가슴에서 솟아오르면, 손을 들어 눈물을 닦고 후유 긴 한숨을 쉬며 북쪽을 가리키겠지요.\"",
   "is_header": false
  },
  {
+  "id": 22,
+  "tag": "P0003_6",
+  "en": "\"'Does Master Yi in Seoul miss me as much as I miss him? He is so heartless; he hasn't even sent me a single letter.' Her tears will soak her face and her red skirt. She will go to her room and not even take off her clothes.\"",
+  "ko": "\"'한양에 계신 도련님도 나처럼 그리워하실까. 무정하게도 아주 잊고 편지 한 장도 안 하시나.' 긴 한숨에 떨어지는 눈물이 옥 같은 얼굴과 붉은 치마를 다 적시고, 제 방에 들어가 옷도 벗지 않고,\"",
+  "is_header": false
+ },
+ {
   "id": 23,
   "tag": "P0003_7",
-  "en": "\"'Does Master Yi in Seoul miss me as much as I miss him? He is so heartless; he hasn't even sent me a single letter.'\"",
-  "ko": "\"'한양에 계신 도련님도 나처럼 그리워하실까. 무정하게도 아주 잊고 편지 한 장도 안 하시나.'\"",
-  "is_header": false
- },
- {
-  "id": 24,
-  "tag": "P0003_8",
-  "en": "\"Her tears will soak her face and her red skirt. She will go to her room and not even take off her clothes.\"",
-  "ko": "\"긴 한숨에 떨어지는 눈물이 옥 같은 얼굴과 붉은 치마를 다 적시고, 제 방에 들어가 옷도 벗지 않고,\"",
-  "is_header": false
- },
- {
-  "id": 25,
-  "tag": "P0003_9",
   "en": "\"She will lie on her lonely pillow, turn to the wall, and cry day and night. What is that, if not a sickness?\"",
   "ko": "\"외로운 베갯머리에 벽만 안고 돌아누워 밤낮으로 탄식하며 울 텐데, 그게 병이 아니고 무엇이오?\"",
   "is_header": false
  },
  {
-  "id": 26,
+  "id": 24,
   "tag": "P0004_1",
   "en": "\"If she can't cure this deep lovesickness and dies of grief, I, an old woman of nearly seventy, will lose my daughter and my son-in-law.\"",
   "ko": "\"그리움으로 생긴 깊은 병을 고치지 못하고 원통하게 죽게 되면, 일흔 다 된 늙은 것이 딸 잃고 사위 잃고,\"",
   "is_header": false
  },
  {
-  "id": 27,
+  "id": 25,
   "tag": "P0004_2",
   "en": "\"Like something a crow dropped on a mountain, I will have no one to lean on. Who will I live for?\"",
   "ko": "\"태백산 갈까마귀가 게발 물어다 던진 듯 의지할 데 없는 이 몸은 누구를 믿고 살란 말이오.\"",
   "is_header": false
  },
  {
-  "id": 28,
+  "id": 26,
   "tag": "P0004_3",
   "en": "\"Don't do what no decent person would do. Oh, oh, how sad! No, you can't! How many lives will you ruin by not taking her?\"",
   "ko": "\"남 못 할 짓 그리 마오. 아이고, 아이고, 서러워라. 못 하지요. 몇 사람 신세를 망치려고 안 데려가오?\"",
   "is_header": false
  },
  {
-  "id": 29,
+  "id": 27,
   "tag": "P0004_4",
   "en": "\"What, do you have two heads? Oh, how frightening, you heart of iron!\"",
   "ko": "\"도련님 대가리가 둘 돋쳤소? 아이고, 무서워라, 이 쇳덩이 같은 양반아!\"",
   "is_header": false
  },
  {
-  "id": 30,
+  "id": 28,
   "tag": "P0004_5",
   "en": "Wolmae lunges at him. Master Yi worries that if his father hears this, there will be terrible trouble.",
   "ko": "춘향 어머니가 왈칵 뛰어 달려드니, 도련님은 이 말이 사또 귀에 들어가면 큰 야단이 날까 걱정한다.",
   "is_header": false
  },
  {
-  "id": 31,
+  "id": 29,
   "tag": "P0004_6",
   "en": "\"Listen, mother-in-law. Won't it be fine if I just take Chunhyang with me?\"",
   "ko": "\"여보소, 장모. 춘향만 데려가면 그만 아닌가.\"",
   "is_header": false
  },
  {
-  "id": 32,
+  "id": 30,
   "tag": "P0004_7",
   "en": "\"Of course! How can you not take her?\"",
   "ko": "\"그래, 안 데려가고 견디겠소?\"",
   "is_header": false
  },
  {
-  "id": 33,
+  "id": 31,
   "tag": "P0004_8",
   "en": "\"Don't be so fierce. Sit down here and listen to me.\"",
   "ko": "\"너무 거세게 굴지 말고 여기 앉아 내 말 좀 들어 보소.\"",
   "is_header": false
  },
  {
-  "id": 34,
+  "id": 32,
   "tag": "P0004_9",
   "en": "\"Even if I take Chunhyang, if she rides in a palanquin or on a horse, people will find out. There is no way around that.\"",
   "ko": "\"춘향을 데려간다 해도, 가마나 쌍가마를 태우거나 말을 태워 가면 필경 소문이 날 것이니 그건 어쩔 수가 없네.\"",
   "is_header": false
  },
  {
-  "id": 35,
+  "id": 33,
   "tag": "P0004_10",
-  "en": "\"In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman,",
-  "ko": "\"내가 기가 막힌 가운데 묘한 꾀 하나를 생각했네. 그런데 이 말이 입 밖에 나가면 양반 망신만 하는 게 아니라,",
+  "en": "\"In my despair, I have thought of a clever trick. But if anyone hears of it, it won't just shame me as a nobleman, it will shame all my noble ancestors too.\"",
+  "ko": "\"내가 기가 막힌 가운데 묘한 꾀 하나를 생각했네. 그런데 이 말이 입 밖에 나가면 양반 망신만 하는 게 아니라, 우리 조상 양반들까지 모두 망신할 말이로세.\"",
   "is_header": false
  },
  {
-  "id": 36,
+  "id": 34,
   "tag": "P0005_1",
-  "en": "it will shame all my noble ancestors too.\"",
-  "ko": "우리 조상 양반들까지 모두 망신할 말이로세.\"",
-  "is_header": false
- },
- {
-  "id": 37,
-  "tag": "P0005_2",
   "en": "\"What kind of fine plan could that be?\"",
   "ko": "\"무슨 말이 그리 좋은 말이 있단 말이오?\"",
   "is_header": false
  },
  {
-  "id": 38,
-  "tag": "P0005_3",
+  "id": 35,
+  "tag": "P0005_2",
   "en": "\"Tomorrow, when my family leaves, the ancestral shrine will come behind them. I'll take care of the rest.\"",
   "ko": "\"내일 식구들이 떠날 때 식구들 뒤로 사당이 나올 걸세. 백성들 일은 내가 알아서 하겠네.\"",
   "is_header": false
  },
  {
-  "id": 39,
-  "tag": "P0005_4",
+  "id": 36,
+  "tag": "P0005_3",
   "en": "\"So? Do you understand now?\"",
   "ko": "\"그러면요? 그만하면 알겠지?\"",
   "is_header": false
  },
  {
-  "id": 40,
-  "tag": "P0005_5",
+  "id": 37,
+  "tag": "P0005_4",
   "en": "\"I do not understand what you mean.\"",
   "ko": "\"나는 그 말 모르겠소.\"",
   "is_header": false
  },
  {
-  "id": 41,
-  "tag": "P0005_6",
+  "id": 38,
+  "tag": "P0005_5",
   "en": "\"I'll take the ancestral tablets out and carry them in my sleeves, and Chunhyang will ride in the little palanquin meant for the tablets. That's the only way. Don't worry.\"",
   "ko": "\"조상 신주는 꺼내서 내 장옷 소매에 모시고, 춘향은 신주 싣는 작은 가마에 태워 갈 수밖에 없네. 걱정 말고 염려 마소.\"",
   "is_header": false
  },
  {
-  "id": 42,
+  "id": 39,
+  "tag": "P0005_6",
+  "en": "Chunhyang hears this, stares at Master Yi for a moment, and says, \"Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us.\"",
+  "ko": "춘향이 그 말을 듣고 도련님을 물끄러미 바라보더니 말한다. \"마오, 어머니. 도련님을 너무 조르지 마오. 우리 모녀의 평생 신세가 도련님 손안에 매였으니, 알아서 해 달라고 당부나 하오.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
   "tag": "P0005_7",
-  "en": "Chunhyang hears this, stares at Master Yi for a moment, and says,",
-  "ko": "춘향이 그 말을 듣고 도련님을 물끄러미 바라보더니 말한다.",
-  "is_header": false
- },
- {
-  "id": 43,
-  "tag": "P0005_8",
-  "en": "\"Stop it, Mother. Don't push Master Yi too hard. Our whole lives are in his hands, so just ask him to take care of us.\"",
-  "ko": "\"마오, 어머니. 도련님을 너무 조르지 마오. 우리 모녀의 평생 신세가 도련님 손안에 매였으니, 알아서 해 달라고 당부나 하오.\"",
-  "is_header": false
- },
- {
-  "id": 44,
-  "tag": "P0005_9",
   "en": "\"This time, it seems we have no choice but to part. If we must part, why should I keep begging him?\"",
   "ko": "\"이번에는 아마도 이별할 수밖에 없겠소. 이왕 이별하게 될 바에야 가시는 도련님을 왜 조르겠소.\"",
   "is_header": false
  },
  {
-  "id": 45,
-  "tag": "P0005_10",
+  "id": 41,
+  "tag": "P0005_8",
   "en": "\"I was just so upset. Oh, my fate! Mother, please go to the other room.\"",
   "ko": "\"우선 답답해서 그랬지요. 내 팔자야. 어머니는 건넌방으로 가십시오.\"",
   "is_header": false
  },
  {
-  "id": 46,
+  "id": 42,
   "tag": "P0006_1",
   "en": "\"So tomorrow we part. Oh, oh, my poor life. How can I bear this parting? Master Yi...\"",
   "ko": "\"내일은 이별인가 보오. 아이고, 아이고, 내 신세야. 이별을 어찌할꼬. 여보, 도련님.\"",
   "is_header": false
  },
  {
-  "id": 47,
+  "id": 43,
   "tag": "P0006_2",
   "en": "\"What?\"",
   "ko": "\"왜?\"",
   "is_header": false
  },
  {
-  "id": 48,
+  "id": 44,
   "tag": "P0006_3",
   "en": "\"Are you really going to leave?\"",
   "ko": "\"여보, 정말로 이별을 할 거요?\"",
   "is_header": false
  },
  {
-  "id": 49,
+  "id": 45,
   "tag": "P0006_4",
   "en": "They light the candle brighter and sit facing each other. Thinking of the one who must go and the one who must stay, they feel lost.",
   "ko": "촛불을 돋워 켜고 둘이 서로 마주 앉아, 갈 사람을 생각하고 보낼 사람을 생각하니 정신이 아득하다.",
   "is_header": false
  },
  {
-  "id": 50,
+  "id": 46,
   "tag": "P0006_5",
-  "en": "Choking on sighs and tears, she presses her face to his and touches his hands and feet.",
-  "ko": "한숨과 눈물에 겨워 흐느끼며, 얼굴도 대어 보고 손발도 만져 본다.",
+  "en": "Choking on sighs and tears, she presses her face to his and touches his hands and feet. \"How many more nights will I see you? Tonight is our last night to talk like this, so listen to my sad heart.\"",
+  "ko": "한숨과 눈물에 겨워 흐느끼며, 얼굴도 대어 보고 손발도 만져 본다. \"나를 볼 날이 몇 밤이나 남았소? 이렇게 다정하게 이야기하는 것도 오늘 밤이 마지막이니, 내 서러운 사연이나 들어 보오.\"",
   "is_header": false
  },
  {
-  "id": 51,
+  "id": 47,
   "tag": "P0006_6",
-  "en": "\"How many more nights will I see you? Tonight is our last night to talk like this, so listen to my sad heart.\"",
-  "ko": "\"나를 볼 날이 몇 밤이나 남았소? 이렇게 다정하게 이야기하는 것도 오늘 밤이 마지막이니, 내 서러운 사연이나 들어 보오.\"",
-  "is_header": false
- },
- {
-  "id": 52,
-  "tag": "P0006_7",
   "en": "\"My mother is almost sixty and has no relatives. As her only daughter, I hoped to find a happy life by relying on you, Master Yi.\"",
   "ko": "\"예순 다 된 내 어머니는 일가친척 하나 없고 외동딸 나 하나뿐이라, 도련님께 의지해 영화를 볼까 바랐더니,\"",
   "is_header": false
  },
  {
-  "id": 53,
-  "tag": "P0006_8",
+  "id": 48,
+  "tag": "P0006_7",
   "en": "\"But heaven was jealous and the spirits got in the way, and now it has come to this. Oh, oh, my fate.\"",
   "ko": "\"하늘이 시기하고 귀신이 훼방하여 이 지경이 되었구나. 아이고, 아이고, 내 일이야.\"",
   "is_header": false
  },
  {
-  "id": 54,
-  "tag": "P0006_9",
+  "id": 49,
+  "tag": "P0006_8",
   "en": "\"When you are gone, who will I live for? How can I bear thousands of worries, day and night?\"",
   "ko": "\"도련님 올라가시면 나는 누구를 믿고 살란 말이오. 천 가지 시름 만 가지 한을 밤낮 생각하니 어찌하오.\"",
   "is_header": false
  },
  {
-  "id": 55,
-  "tag": "P0006_10",
+  "id": 50,
+  "tag": "P0006_9",
   "en": "\"In the spring when peach and apricot blossoms bloom, how can I go flower viewing alone? In late autumn, how can I keep my loyalty alone among yellow chrysanthemums and red maple leaves?\"",
   "ko": "\"배꽃 복사꽃 만발할 봄에 꽃구경은 어찌하며, 노란 국화 붉은 단풍 늦가을에 홀로 맞는 절개는 어찌할꼬.\"",
   "is_header": false
  },
  {
-  "id": 56,
-  "tag": "P0006_11",
+  "id": 51,
+  "tag": "P0006_10",
   "en": "\"In my empty room on long nights, I will toss and turn. What can I do? When I breathe, it will be sighs; when I cry, it will be tears.\"",
   "ko": "\"홀로 지내는 빈방 긴긴 밤에 이리 뒤척 저리 뒤척 어찌하리. 쉬느니 한숨이요, 뿌리느니 눈물이라.\"",
   "is_header": false
  },
  {
-  "id": 57,
-  "tag": "P0006_12",
+  "id": 52,
+  "tag": "P0006_11",
   "en": "\"On quiet moonlit nights, how will I bear the cuckoo's cry? On frosty autumn nights, who will stop the wild goose crying for its mate?\"",
   "ko": "\"적막한 산천 달 밝은 밤에 두견새 우는 소리를 어찌하며, 서리 내린 가을밤 짝 찾는 기러기 울음을 누가 막으리.\"",
   "is_header": false
  },
  {
-  "id": 58,
-  "tag": "P0006_13",
+  "id": 53,
+  "tag": "P0006_12",
   "en": "\"In every season, spring, summer, autumn, and winter, everything I see and everything I hear will be sorrow.\"",
   "ko": "\"봄 여름 가을 겨울 사철마다 쌓이는 경치가 보이는 것도 시름이요, 들리는 것도 시름이로다.\"",
   "is_header": false
  },
  {
-  "id": 59,
+  "id": 54,
   "tag": "P0007_1",
-  "en": "\"Oh, oh.\" When she cries sorrowfully, Master Yi says,",
-  "ko": "\"아이고, 아이고.\" 서럽게 울 때, 이도령이 말한다.",
+  "en": "\"Oh, oh.\" When she cries sorrowfully, Master Yi says, \"Chunhyang, do not cry. In the past, many people were separated from their lovers.\"",
+  "ko": "\"아이고, 아이고.\" 서럽게 울 때, 이도령이 말한다. \"춘향아, 울지 마라. 옛날에도 임과 헤어진 사람이 많았다.\"",
   "is_header": false
  },
  {
-  "id": 60,
+  "id": 55,
   "tag": "P0007_2",
-  "en": "\"Chunhyang, do not cry. In the past, many people were separated from their lovers.\"",
-  "ko": "\"춘향아, 울지 마라. 옛날에도 임과 헤어진 사람이 많았다.\"",
-  "is_header": false
- },
- {
-  "id": 61,
-  "tag": "P0007_3",
   "en": "\"Wives in ancient China missed their husbands and grew old in their rooms, and soldiers far away longed for home.\"",
   "ko": "\"오나라 정부들은 동서로 임을 그리워하며 규방 깊이 늙어 갔고, 먼 변방에 나간 이는 고향 생각에 애가 탔다.\"",
   "is_header": false
  },
  {
-  "id": 62,
-  "tag": "P0007_4",
+  "id": 56,
+  "tag": "P0007_3",
   "en": "\"A girl picking lotus flowers missed her love when the autumn rivers were lonely. After I leave, when the moon is bright outside your window, don't let your longing make you sick.\"",
   "ko": "\"연꽃 따는 아가씨도 가을 강산이 쓸쓸할 때 임을 그리워했다. 내가 올라간 뒤에라도 창 앞에 달이 밝거든, 너무 그리워하지 마라.\"",
   "is_header": false
  },
  {
-  "id": 63,
-  "tag": "P0007_5",
+  "id": 57,
+  "tag": "P0007_4",
   "en": "\"Leaving you, every day will feel like ten days. How could I not care? Don't cry, don't cry.\"",
   "ko": "\"너를 두고 가는 나도 하루가 열흘 같은 마음이니, 어찌 무심하랴. 울지 마라, 울지 마라.\"",
   "is_header": false
  },
  {
-  "id": 64,
-  "tag": "P0007_6",
+  "id": 58,
+  "tag": "P0007_5",
   "en": "Chunhyang cries again. \"When you go back to Seoul, every street will be full of wine houses in the spring wind, and every house will have a beautiful girl.\"",
   "ko": "춘향이 또 울며 말한다. \"도련님이 올라가면 꽃 피는 봄바람 거리마다 술집이 즐비하고 집집마다 미인이 있겠지요.\"",
   "is_header": false
  },
  {
-  "id": 65,
-  "tag": "P0007_7",
+  "id": 59,
+  "tag": "P0007_6",
   "en": "\"Everywhere you look there will be beauties, music everywhere, and girls like flowers at every party.\"",
   "ko": "\"보이는 것마다 미인이요, 곳곳에 풍악 소리, 놀이터마다 꽃 같은 여자들이라.\"",
   "is_header": false
  },
  {
-  "id": 66,
-  "tag": "P0007_8",
+  "id": 60,
+  "tag": "P0007_7",
   "en": "\"When Master Yi, who loves women, enjoys himself day and night, he will not think of a lowly country girl like me even a little bit. Oh, oh, my poor fate.\"",
   "ko": "\"여자 좋아하시는 도련님이 밤낮으로 호강하며 노실 때, 나 같은 시골 천한 여자를 손톱만큼이나 생각하겠소. 아이고, 아이고, 내 일이야.\"",
   "is_header": false
  },
  {
-  "id": 67,
-  "tag": "P0007_9",
+  "id": 61,
+  "tag": "P0007_8",
   "en": "\"Chunhyang, don't cry. There are many beautiful women in the north and south of Seoul, but deep in my heart there is only you.\"",
   "ko": "\"춘향아, 울지 마라. 한양 북촌 남촌에 고운 여자가 많다지만, 내 마음 깊은 곳의 정은 너밖에 없다.\"",
   "is_header": false
  },
  {
-  "id": 68,
-  "tag": "P0007_10",
+  "id": 62,
+  "tag": "P0007_9",
   "en": "\"Even if I am a grown man, could I forget you for a single moment?\"",
   "ko": "\"내가 아무리 대장부라 한들 한시라도 너를 잊겠느냐.\"",
   "is_header": false
  },
  {
-  "id": 69,
-  "tag": "P0007_11",
+  "id": 63,
+  "tag": "P0007_10",
   "en": "Heartbroken, they cannot bear to part. Just then, the servant who is to take Master Yi home comes running in, out of breath.",
   "ko": "서로 기막혀 애틋하게 차마 떨어지지 못하는데, 도련님을 모시고 갈 하인이 헐떡헐떡 들어온다.",
   "is_header": false
  },
  {
-  "id": 70,
-  "tag": "P0007_12",
-  "en": "\"Master Yi, please hurry! There's trouble at home. The magistrate asked where you had gone,\"",
-  "ko": "\"도련님, 어서 행차하십시오. 안에서 야단났습니다. 사또께서 도련님 어디 가셨느냐 물으시기에,\"",
+  "id": 64,
+  "tag": "P0007_11",
+  "en": "\"Master Yi, please hurry! There's trouble at home. The magistrate asked where you had gone, and I told him you had just stepped out to say goodbye to a friend. Please hurry!\"",
+  "ko": "\"도련님, 어서 행차하십시오. 안에서 야단났습니다. 사또께서 도련님 어디 가셨느냐 물으시기에, 소인이 '놀던 친구와 작별하러 잠깐 문밖에 나가셨다'고 둘러댔으니, 어서 행차하십시오.\"",
   "is_header": false
  },
  {
-  "id": 71,
-  "tag": "P0007_13",
-  "en": "\"and I told him you had just stepped out to say goodbye to a friend. Please hurry!\"",
-  "ko": "\"소인이 '놀던 친구와 작별하러 잠깐 문밖에 나가셨다'고 둘러댔으니, 어서 행차하십시오.\"",
-  "is_header": false
- },
- {
-  "id": 72,
+  "id": 65,
   "tag": "P0008_1",
   "en": "\"Is the horse ready?\"",
   "ko": "\"말은 대령했느냐?\"",
   "is_header": false
  },
  {
-  "id": 73,
+  "id": 66,
   "tag": "P0008_2",
   "en": "\"Yes, the horse is ready.\"",
   "ko": "\"말은 마침 대령했습니다.\"",
   "is_header": false
  },
  {
-  "id": 74,
+  "id": 67,
   "tag": "P0008_3",
   "en": "The white horse neighs to go, and the beautiful girl holds on to her love.",
   "ko": "흰 말은 가자고 길게 울고, 푸른 눈썹의 여인은 떠나는 임을 붙잡는다.",
   "is_header": false
  },
  {
-  "id": 75,
+  "id": 68,
   "tag": "P0008_4",
   "en": "The horse paws the ground, but Chunhyang falls off the porch and clings to Master Yi's leg.",
   "ko": "말은 가자고 네 굽을 치는데, 춘향은 마루 아래로 툭 떨어져 도련님 다리를 부여잡는다.",
   "is_header": false
  },
  {
-  "id": 76,
+  "id": 69,
   "tag": "P0008_5",
   "en": "\"Kill me before you go! You can't leave me alive!\" She can say no more, and she faints.",
   "ko": "\"날 죽이고 가면 가지, 살리고는 못 가오.\" 하고 말을 못 하고 기절한다.",
   "is_header": false
  },
  {
-  "id": 77,
+  "id": 70,
   "tag": "P0008_6",
   "en": "Chunhyang's mother rushes over. \"Hyangdan, bring some cold water quickly. Brew some tea and grind some medicine.\"",
   "ko": "춘향 어머니가 달려든다. \"향단아, 찬물 어서 떠 오너라. 차를 달여라, 약을 갈아라.\"",
   "is_header": false
  },
  {
-  "id": 78,
+  "id": 71,
   "tag": "P0008_7",
   "en": "\"You wicked girl! What will your old mother do if you hurt yourself like this?\"",
   "ko": "\"이 몹쓸 년아, 늙은 어미 어쩌라고 몸을 이리 상하게 하느냐.\"",
   "is_header": false
  },
  {
-  "id": 79,
+  "id": 72,
   "tag": "P0008_8",
   "en": "When Chunhyang comes to, her mother says, \"Oh, what a mess!\"",
   "ko": "춘향이 정신을 차리니 어머니가 말한다. \"아이고, 답답해라.\"",
   "is_header": false
  },
  {
-  "id": 80,
+  "id": 73,
   "tag": "P0008_9",
   "en": "Wolmae is beside herself. \"Master Yi, how can you do this to someone's precious child?\"",
   "ko": "춘향 어머니가 기가 막혀 말한다. \"여보 도련님, 남의 생때같은 자식을 이리 만드는 게 웬일이오?\"",
   "is_header": false
  },
  {
-  "id": 81,
+  "id": 74,
   "tag": "P0008_10",
   "en": "\"If my faithful Chunhyang dies of grief, who will this lonely old woman live for?\"",
   "ko": "\"곧은 우리 춘향이 애통해 죽으면, 혈혈단신 이 늙은 몸은 누구를 믿고 살란 말이오.\"",
   "is_header": false
  },
  {
-  "id": 82,
+  "id": 75,
   "tag": "P0008_11",
   "en": "Master Yi is at a loss. \"Chunhyang, what are you doing? Don't you want to see me ever again?\"",
   "ko": "도련님이 어이없어 말한다. \"춘향아, 네가 이게 웬일이냐. 나를 영영 안 보려느냐?\"",
   "is_header": false
  },
  {
-  "id": 83,
+  "id": 76,
   "tag": "P0008_12",
   "en": "\"There have always been partings. Husbands went on long journeys, and soldiers went to war, leaving their wives behind.\"",
   "ko": "\"옛날에도 이별은 많았다. 먼 길 떠난 남편과 남은 아내의 이별, 전쟁터로 간 남편과 아내의 이별,\"",
   "is_header": false
  },
  {
-  "id": 84,
+  "id": 77,
   "tag": "P0008_13",
   "en": "\"Brothers missed each other on holidays, and friends said goodbye at the western gate.\"",
   "ko": "\"산에 올라 수유꽃 꽂으며 형제를 그리던 이별, 서쪽 관문을 나서며 벗과 나누던 이별도 있었다.\"",
   "is_header": false
  },
  {
-  "id": 85,
+  "id": 78,
   "tag": "P0009_1",
   "en": "\"But even after those partings, there was news, and there was a day to meet again. I will go to Seoul, pass the exam at the top, and come back for you. So don't cry. Take care of yourself.\"",
   "ko": "\"그런 이별도 소식 들을 날이 있고 다시 만날 날이 있었다. 내가 이제 올라가서 장원 급제하여 너를 데려갈 테니, 울지 말고 잘 있거라.\"",
   "is_header": false
  },
  {
-  "id": 86,
+  "id": 79,
   "tag": "P0009_2",
   "en": "\"If you cry too much, your eyes will swell, your voice will become hoarse, and your head will ache.\"",
   "ko": "\"울음을 너무 울면 눈도 붓고 목도 쉬고 머리도 아프다.\"",
   "is_header": false
  },
  {
-  "id": 87,
+  "id": 80,
   "tag": "P0009_3",
   "en": "\"A stone can be the Waiting Wife Rock that never crumbles in ten million years, and a tree can be the Longing Tree outside the window that never blooms, all spring long.\"",
   "ko": "\"돌이라도 망부석은 천만 년이 지나도 부서질 줄 모르고, 나무라도 상사목은 창밖에 우뚝 서서 봄이 다 가도 잎이 필 줄 모른다.\"",
   "is_header": false
  },
  {
-  "id": 88,
+  "id": 81,
   "tag": "P0009_4",
   "en": "\"And lovesickness kills, because you can never forget, awake or asleep. If you want to see me again, don't grieve. Take care of yourself.\"",
   "ko": "\"병이라도 그리움의 병은 자나 깨나 잊지 못해 죽는 법이다. 네가 나를 다시 보려거든 서러워 말고 잘 있거라.\"",

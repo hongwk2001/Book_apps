@@ -86,559 +86,475 @@
  {
   "id": 13,
   "tag": "P0002_12",
-  "en": "\"Hyangdan, push me.\"",
-  "ko": "\"향단아, 밀어라.\"",
+  "en": "\"Hyangdan, push me.\" She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher.",
+  "ko": "\"향단아, 밀어라.\" 한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다.",
   "is_header": false
  },
  {
   "id": 14,
   "tag": "P0002_13",
-  "en": "She pushes off once, then twice, putting her strength into it. Dust flies up from under her feet, and the swing goes higher and higher.",
-  "ko": "한 번 굴러 힘을 주고 두 번 굴러 힘을 주니, 발밑의 티끌이 바람을 따라 펄펄 날리고 그네는 앞뒤로 점점 멀어진다.",
-  "is_header": false
- },
- {
-  "id": 15,
-  "tag": "P0002_14",
   "en": "The leaves above her head shake back and forth as she moves.",
   "ko": "머리 위의 나뭇잎은 몸을 따라 흔들흔들 오고 간다.",
   "is_header": false
  },
  {
-  "id": 16,
-  "tag": "P0002_15",
+  "id": 15,
+  "tag": "P0002_14",
   "en": "Her red skirt flutters in the wind among the green trees, looking like a flash of lightning through the white clouds in the high sky.",
   "ko": "살펴보니 녹음 속의 붉은 치맛자락이 바람에 나부끼니, 구만 리 높은 하늘 흰 구름 사이로 번갯불이 번쩍이는 듯하다.",
   "is_header": false
  },
  {
-  "id": 17,
-  "tag": "P0002_16",
+  "id": 16,
+  "tag": "P0002_15",
   "en": "One moment she is in front, and the next moment she is behind.",
   "ko": "앞에 얼른 보이는가 하면 어느새 뒤에 가 있다.",
   "is_header": false
  },
  {
-  "id": 18,
+  "id": 17,
   "tag": "P0003_1",
   "en": "Her quick movements look like a swift swallow trying to catch a falling peach blossom.",
   "ko": "그 날렵한 모습은 가벼운 제비가 떨어지는 복숭아꽃 한 잎을 차려고 쫓아가는 듯하다.",
   "is_header": false
  },
  {
-  "id": 19,
+  "id": 18,
   "tag": "P0003_2",
   "en": "When she moves backward, she looks like a butterfly startled by a strong wind and searching for its partner.",
   "ko": "뒤로 번듯 물러나는 모양은 거센 바람에 놀란 나비가 짝을 잃고 가다가 돌아서는 듯하다.",
   "is_header": false
  },
  {
-  "id": 20,
+  "id": 19,
   "tag": "P0003_3",
   "en": "She looks like a fairy from the mountains riding a cloud down from the sky.",
   "ko": "무산의 선녀가 구름을 타고 양대 위로 내려오는 듯하다.",
   "is_header": false
  },
  {
-  "id": 21,
+  "id": 20,
   "tag": "P0003_4",
   "en": "Chunhyang puts a leaf in her mouth to try it and snaps a flower to pin it in her hair.",
   "ko": "춘향은 나뭇잎도 입에 물어 보고, 꽃도 질끈 꺾어 머리에 꽂아 본다.",
   "is_header": false
  },
  {
-  "id": 22,
+  "id": 21,
   "tag": "P0003_5",
   "en": "\"Hyangdan, the wind up here is so strong that I feel dizzy. Hold the rope for me.\"",
   "ko": "\"이 애 향단아, 그네 바람이 독해서 정신이 어질어질하다. 그넷줄 좀 붙들어라.\"",
   "is_header": false
  },
  {
-  "id": 23,
+  "id": 22,
   "tag": "P0003_6",
   "en": "While Hyangdan moves back and forth many times to hold them, Chunhyang plays happily, and a jade hairpin falls onto a large rock by the stream.",
   "ko": "향단이가 붙들려고 수없이 오락가락하며 한창 이리 노는데, 시냇가 너럭바위 위에 옥비녀가 떨어진다.",
   "is_header": false
  },
  {
-  "id": 24,
+  "id": 23,
   "tag": "P0003_7",
   "en": "The clear ringing sound is like a jade plate breaking under a coral stick.",
   "ko": "쟁그랑 울리는 그 소리는 산호 채로 옥 쟁반을 깨뜨리는 듯하다.",
   "is_header": false
  },
  {
-  "id": 25,
+  "id": 24,
   "tag": "P0003_8",
   "en": "Her attitude and appearance do not seem like those of an ordinary human being.",
   "ko": "그 태도와 그 모습은 이 세상 사람이 아니다.",
   "is_header": false
  },
  {
-  "id": 26,
+  "id": 25,
   "tag": "P0003_9",
   "en": "She is as light and graceful as a swallow flying in the spring.",
   "ko": "봄날 날아드는 제비처럼 가볍기도 하다.",
   "is_header": false
  },
  {
-  "id": 27,
+  "id": 26,
   "tag": "P0003_10",
   "en": "Master Yi feels his heart flutter and his head spin, and all kinds of thoughts come to his mind.",
   "ko": "이도령은 마음이 울렁이고 정신이 어질하여 온갖 생각이 다 든다.",
   "is_header": false
  },
  {
-  "id": 28,
+  "id": 27,
   "tag": "P0003_11",
-  "en": "He mutters to himself.",
-  "ko": "혼잣말로 중얼거린다.",
+  "en": "He mutters to himself, \"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\"",
+  "ko": "혼잣말로 중얼거린다. \"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\"",
   "is_header": false
  },
  {
-  "id": 29,
+  "id": 28,
   "tag": "P0003_12",
-  "en": "\"The most beautiful women in history are long gone. Xi Shi sailed away on a little boat,\"",
-  "ko": "\"조각배 타고 범려를 따라 오호로 떠났으니 서시는 올 리 없고,\"",
-  "is_header": false
- },
- {
-  "id": 30,
-  "tag": "P0003_13",
   "en": "\"and Lady Yu sang a sad song when she said goodbye to her king.\"",
   "ko": "\"달 밝은 해성에서 슬픈 노래로 초패왕과 이별하던 우미인도 올 리 없고,\"",
   "is_header": false
  },
  {
-  "id": 31,
-  "tag": "P0003_14",
+  "id": 29,
+  "tag": "P0003_13",
   "en": "\"Wang Zhaojun left the palace for a faraway land and was buried there alone.\"",
   "ko": "\"궁궐을 하직하고 오랑캐 땅으로 떠나 푸른 무덤에 홀로 묻혔으니 왕소군도 올 리 없다.\"",
   "is_header": false
  },
  {
-  "id": 32,
-  "tag": "P0003_15",
+  "id": 30,
+  "tag": "P0003_14",
   "en": "\"Lady Ban was locked away in a palace, and Zhao Feiyan, the king's favorite, is gone too. None of them can be here.\"",
   "ko": "\"장신궁에 갇혀 백두음을 읊었으니 반첩여도 올 리 없고, 소양궁에서 임금을 모시던 조비연도 올 리 없다.\"",
   "is_header": false
  },
  {
-  "id": 33,
-  "tag": "P0003_16",
+  "id": 31,
+  "tag": "P0003_15",
   "en": "\"So who is she? A fairy from the river, or a fairy from the mountains?\"",
   "ko": "\"그렇다면 낙포의 선녀인가, 무산의 선녀인가?\"",
   "is_header": false
  },
  {
-  "id": 34,
-  "tag": "P0003_17",
+  "id": 32,
+  "tag": "P0003_16",
   "en": "Master Yi's spirit seems to have flown into the sky, leaving only his body behind; he looks like a man who has completely lost his mind.",
   "ko": "도련님은 넋이 하늘로 날아가고 몸만 남은 듯하니, 참으로 정신이 나간 사람이로다.",
   "is_header": false
  },
  {
-  "id": 35,
+  "id": 33,
   "tag": "P0004_1",
   "en": "\"Tongin.\"",
   "ko": "\"통인아.\"",
   "is_header": false
  },
  {
-  "id": 36,
+  "id": 34,
   "tag": "P0004_2",
   "en": "\"Yes?\"",
   "ko": "\"예.\"",
   "is_header": false
  },
  {
-  "id": 37,
+  "id": 35,
   "tag": "P0004_3",
   "en": "\"Look closely at what is moving back and forth among the flowers and willows over there.\"",
   "ko": "\"저 건너 꽃과 버들 사이에서 오락가락 희뜩희뜩 얼른얼른하는 게 무엇인지 자세히 보아라.\"",
   "is_header": false
  },
  {
-  "id": 38,
+  "id": 36,
   "tag": "P0004_4",
-  "en": "Tongin looks carefully and answers.",
-  "ko": "통인이 살펴보고 아뢴다.",
+  "en": "Tongin looks carefully and answers, \"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\"",
+  "ko": "통인이 살펴보고 아뢴다. \"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\"",
   "is_header": false
  },
  {
-  "id": 39,
+  "id": 37,
   "tag": "P0004_5",
-  "en": "\"It is not anything else; it is a girl named Chunhyang, the daughter of Wolmae, a gisaeng from this town.\"",
-  "ko": "\"다른 것이 아니라, 이 고을 기생 월매의 딸 춘향이라는 아이로소이다.\"",
-  "is_header": false
- },
- {
-  "id": 40,
-  "tag": "P0004_6",
   "en": "The young master says suddenly, \"She is wonderful! She is magnificent!\"",
   "ko": "도령이 엉겁결에 말한다. \"참 좋다, 훌륭하다!\"",
   "is_header": false
  },
  {
-  "id": 41,
-  "tag": "P0004_7",
+  "id": 38,
+  "tag": "P0004_6",
   "en": "Tongin answers, \"Even though her mother is a gisaeng, Chunhyang is proud and refuses to act like one.\"",
   "ko": "통인이 아뢴다. \"제 어미는 기생이지만, 춘향이는 도도하여 기생 노릇을 마다합니다.\"",
   "is_header": false
  },
  {
-  "id": 42,
-  "tag": "P0004_8",
+  "id": 39,
+  "tag": "P0004_7",
   "en": "\"She knows the names of flowers and the meanings of words, and she is good at both sewing and writing. She is just like a girl from a respectable family.\"",
   "ko": "\"꽃과 풀의 이름에 글자 뜻까지 헤아리고, 바느질 솜씨와 글재주를 함께 갖추어 여염집 처녀와 다름이 없사옵니다.\"",
   "is_header": false
  },
  {
-  "id": 43,
-  "tag": "P0004_9",
-  "en": "The young master laughs and calls Bangja to give him an order.",
-  "ko": "도령이 허허 웃고 방자를 불러 분부한다.",
+  "id": 40,
+  "tag": "P0004_8",
+  "en": "The young master laughs and calls Bangja to give him an order. \"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\"",
+  "ko": "도령이 허허 웃고 방자를 불러 분부한다. \"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\"",
   "is_header": false
  },
  {
-  "id": 44,
+  "id": 41,
   "tag": "P0005_1",
-  "en": "\"I heard she is the daughter of a gisaeng. Go and bring her here immediately.\"",
-  "ko": "\"들으니 기생의 딸이라 하니, 급히 가서 불러 오너라.\"",
+  "en": "Bangja answers him, \"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\"",
+  "ko": "방자 놈이 아뢴다. \"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\"",
   "is_header": false
  },
  {
-  "id": 45,
+  "id": 42,
   "tag": "P0005_2",
-  "en": "Bangja answers him.",
-  "ko": "방자 놈이 아뢴다.",
-  "is_header": false
- },
- {
-  "id": 46,
-  "tag": "P0005_3",
-  "en": "\"Chunhyang has skin as white as snow and a face as beautiful as a flower. She is very famous in the southern region.\"",
-  "ko": "\"춘향이는 눈 같은 살결과 꽃 같은 얼굴로 남쪽 지방에 이름이 높습니다.\"",
-  "is_header": false
- },
- {
-  "id": 47,
-  "tag": "P0005_4",
   "en": "\"Navy officers, army officers, county chiefs, and plenty of rich playboys who think they are big shots all tried to see her, and they all failed.\"",
   "ko": "\"첨사, 병사, 부사, 군수, 현감 나리들에, 엄지발가락이 두 뼘 반씩 되는 거들먹거리는 양반 난봉꾼들도 숱하게 보려 했지만 못 봤습니다.\"",
   "is_header": false
  },
  {
-  "id": 48,
-  "tag": "P0005_5",
+  "id": 43,
+  "tag": "P0005_3",
   "en": "\"She has the beauty, the goodness, the writing talent, the gentle heart, and the loyalty of the most famous women in history.\"",
   "ko": "\"춘향이는 장강의 미모와 임사의 덕, 이두의 글솜씨, 태사의 온화함, 이비의 굳은 절개를 다 품었습니다.\"",
   "is_header": false
  },
  {
-  "id": 49,
-  "tag": "P0005_6",
+  "id": 44,
+  "tag": "P0005_4",
   "en": "\"She is so perfect that it is hard to call her here without showing great respect.\"",
   "ko": "\"천하의 절색이요 여자 중의 군자라, 황송하오나 함부로 불러오기 어렵습니다.\"",
   "is_header": false
  },
  {
-  "id": 50,
-  "tag": "P0005_7",
-  "en": "Master Yi laughs loudly.",
-  "ko": "도령이 크게 웃는다.",
+  "id": 45,
+  "tag": "P0005_5",
+  "en": "Master Yi laughs loudly, \"Bangja, you don't know that every precious thing has an owner.\"",
+  "ko": "도령이 크게 웃는다. \"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\"",
   "is_header": false
  },
  {
-  "id": 51,
-  "tag": "P0005_8",
-  "en": "\"Bangja, you don't know that every precious thing has an owner.\"",
-  "ko": "\"방자야, 네가 물건마다 다 임자가 있다는 말을 모르는구나.\"",
-  "is_header": false
- },
- {
-  "id": 52,
-  "tag": "P0005_9",
+  "id": 46,
+  "tag": "P0005_6",
   "en": "\"Even the finest jade and the purest gold have an owner. Stop talking and go bring her.\"",
   "ko": "\"형산의 백옥과 여수의 황금도 다 임자가 따로 있느니라. 잔말 말고 불러 오너라.\"",
   "is_header": false
  },
  {
-  "id": 53,
-  "tag": "P0005_10",
+  "id": 47,
+  "tag": "P0005_7",
   "en": "Bangja follows the order and goes across to call Chunhyang.",
   "ko": "방자는 분부를 듣고 춘향을 부르러 건너간다.",
   "is_header": false
  },
  {
-  "id": 54,
-  "tag": "P0005_11",
-  "en": "The stylish Bangja runs back and forth like a bird carrying an important message.",
-  "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다.",
+  "id": 48,
+  "tag": "P0005_8",
+  "en": "The stylish Bangja runs back and forth like a bird carrying an important message. \"Hey, girl! Chunhyang!\"",
+  "ko": "맵시 있는 방자 녀석이 서왕모의 편지를 전하던 파랑새처럼 이리저리 건너가서 부른다. \"여봐라, 이 애 춘향아!\"",
   "is_header": false
  },
  {
-  "id": 55,
-  "tag": "P0005_12",
-  "en": "\"Hey, girl! Chunhyang!\"",
-  "ko": "\"여봐라, 이 애 춘향아!\"",
+  "id": 49,
+  "tag": "P0005_9",
+  "en": "Chunhyang is surprised, \"Why are you shouting like that? You're startling people!\"",
+  "ko": "춘향이 깜짝 놀란다. \"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\"",
   "is_header": false
  },
  {
-  "id": 56,
-  "tag": "P0005_13",
-  "en": "Chunhyang is surprised.",
-  "ko": "춘향이 깜짝 놀란다.",
-  "is_header": false
- },
- {
-  "id": 57,
-  "tag": "P0005_14",
-  "en": "\"Why are you shouting like that? You're startling people!\"",
-  "ko": "\"무슨 소리를 그따위로 질러서 사람 정신을 놀래느냐?\"",
-  "is_header": false
- },
- {
-  "id": 58,
-  "tag": "P0005_15",
+  "id": 50,
+  "tag": "P0005_10",
   "en": "\"Don't say that. There is a problem.\"",
   "ko": "\"이 애야, 말 마라. 일이 났다.\"",
   "is_header": false
  },
  {
-  "id": 59,
-  "tag": "P0005_16",
+  "id": 51,
+  "tag": "P0005_11",
   "en": "\"What kind of problem?\"",
   "ko": "\"일이라니, 무슨 일?\"",
   "is_header": false
  },
  {
-  "id": 60,
-  "tag": "P0005_17",
+  "id": 52,
+  "tag": "P0005_12",
   "en": "\"The magistrate's son, the young master, came to Gwanghallu and saw you playing around. He ordered me to bring you.\"",
   "ko": "\"사또 자제 도련님이 광한루에 오셨다가 네가 노는 모양을 보고 불러오라고 분부하셨다.\"",
   "is_header": false
  },
  {
-  "id": 61,
-  "tag": "P0005_18",
-  "en": "Chunhyang gets angry.",
-  "ko": "춘향이 화를 낸다.",
+  "id": 53,
+  "tag": "P0005_13",
+  "en": "Chunhyang gets angry, \"You must be crazy! How does the young master know who I am?\"",
+  "ko": "춘향이 화를 낸다. \"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\"",
   "is_header": false
  },
  {
-  "id": 62,
-  "tag": "P0005_19",
-  "en": "\"You must be crazy! How does the young master know who I am?\"",
-  "ko": "\"네가 미친 자식이로구나. 도련님이 어찌 나를 알고 부른단 말이냐?\"",
-  "is_header": false
- },
- {
-  "id": 63,
-  "tag": "P0005_20",
+  "id": 54,
+  "tag": "P0005_14",
   "en": "\"You must have told him everything about me like a bird chirping news.\"",
   "ko": "\"이 자식, 네가 종달새 삼씨 까먹듯 내 이야기를 재잘재잘 일러바쳤나 보다.\"",
   "is_header": false
  },
  {
-  "id": 64,
-  "tag": "P0005_21",
+  "id": 55,
+  "tag": "P0005_15",
   "en": "\"No, I wouldn't tell him anything. You made a mistake, not me. Listen to me first.\"",
   "ko": "\"아니다. 내가 네 얘기를 할 리가 없지. 네가 잘못했지, 내가 잘못했냐? 내 말을 들어 보아라.\"",
   "is_header": false
  },
  {
-  "id": 65,
-  "tag": "P0005_22",
+  "id": 56,
+  "tag": "P0005_16",
   "en": "\"If a girl wants to ride a swing, she should do it quietly inside her own backyard so others don't notice.\"",
   "ko": "\"계집아이가 그네를 타려면, 너희 집 후원 담장 안에 줄을 매고 남이 알까 모를까 조용히 타는 게 도리에 맞지.\"",
   "is_header": false
  },
  {
-  "id": 66,
+  "id": 57,
   "tag": "P0006_1",
   "en": "\"Besides, Gwanghallu is close by, and this is the time of year when the green leaves and grass are even lovelier than flowers.\"",
   "ko": "\"더구나 광한루가 멀지 않은 데다, 때는 녹음과 향기로운 풀이 꽃보다 좋은 철이다.\"",
   "is_header": false
  },
  {
-  "id": 67,
+  "id": 58,
   "tag": "P0006_2",
   "en": "\"The grass is fresh and green. The willows by the front stream hang like green curtains, and the willows by the back stream hang like light green curtains.\"",
   "ko": "\"풀은 푸릇푸릇하고, 앞 냇가 버들은 초록 휘장을, 뒤 냇가 버들은 연둣빛 휘장을 둘렀다.\"",
   "is_header": false
  },
  {
-  "id": 68,
+  "id": 59,
   "tag": "P0006_3",
   "en": "\"One branch hangs down and another spreads out, and they dance in the strong wind.\"",
   "ko": "\"한 가지는 늘어지고 또 한 가지는 펑퍼져서, 거센 바람에 흔들흔들 춤을 추는 곳이다.\"",
   "is_header": false
  },
  {
-  "id": 69,
+  "id": 60,
   "tag": "P0006_4",
   "en": "\"You hung your swing right there where everyone comes to look. When you swung, your tiny feet danced among the white clouds and your red skirt flew in the air.\"",
   "ko": "\"그 광한루 구경터에 그네를 매고 네가 뛸 때, 외씨 같은 두 발이 흰 구름 사이를 노닐고 붉은 치맛자락이 펄펄 날렸다.\"",
   "is_header": false
  },
  {
-  "id": 70,
+  "id": 61,
   "tag": "P0006_5",
   "en": "\"Your white underpants flapped in the wind, and your skin, as white as the inside of a gourd, flashed between the clouds.\"",
   "ko": "\"흰 속곳 가랑이는 동남풍에 펄렁펄렁, 박 속같이 흰 네 살결이 구름 사이로 희뜩희뜩 보였다.\"",
   "is_header": false
  },
  {
-  "id": 71,
+  "id": 62,
   "tag": "P0006_6",
   "en": "\"The young master saw that and called you. What did I tell him? Stop talking and come with me.\"",
   "ko": "\"도련님이 그걸 보시고 너를 부르신 거지, 내가 무슨 말을 했단 말이냐. 잔말 말고 건너가자.\"",
   "is_header": false
  },
  {
-  "id": 72,
+  "id": 63,
   "tag": "P0006_7",
-  "en": "Chunhyang answers.",
-  "ko": "춘향이 대답한다.",
+  "en": "Chunhyang answers, \"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\"",
+  "ko": "춘향이 대답한다. \"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\"",
   "is_header": false
  },
  {
-  "id": 73,
+  "id": 64,
   "tag": "P0006_8",
-  "en": "\"You are right in a way, but isn't today the Dano festival? I wasn't the only one. Girls from other families came here and rode the swing too.\"",
-  "ko": "\"네 말이 옳기는 하다만, 오늘은 단옷날이 아니냐. 나만 탄 게 아니라 다른 집 처녀들도 여기 와서 함께 그네를 탔다.\"",
-  "is_header": false
- },
- {
-  "id": 74,
-  "tag": "P0006_9",
   "en": "\"Besides, even if you did talk about me, I am not a gisaeng who has to answer to the government office.\"",
   "ko": "\"그뿐 아니라, 설사 내 얘기를 했다 하더라도 나는 지금 관청에 매인 기생이 아니다.\"",
   "is_header": false
  },
  {
-  "id": 75,
-  "tag": "P0006_10",
+  "id": 65,
+  "tag": "P0006_9",
   "en": "\"He has no right to call for a girl from a private home, and even if he calls, she doesn't have to go. You must have heard him wrong.\"",
   "ko": "\"여염집 사람을 함부로 불러오라 할 리도 없고, 부른다 해도 갈 사람도 없다. 애초에 네가 말을 잘못 들은 게다.\"",
   "is_header": false
  },
  {
-  "id": 76,
-  "tag": "P0006_11",
+  "id": 66,
+  "tag": "P0006_10",
   "en": "Bangja feels embarrassed. He returns to Gwanghallu and reports this to Master Yi.",
   "ko": "방자가 무안을 당하고 광한루로 돌아와 도련님께 아뢴다.",
   "is_header": false
  },
  {
-  "id": 77,
+  "id": 67,
+  "tag": "P0006_11",
+  "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right. Go back and tell her this and this.\"",
+  "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나. 다시 가서 이러이러하게 말하여라.\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
   "tag": "P0006_12",
-  "en": "Master Yi hears this and says, \"She is a remarkable girl. What she says is right.\"",
-  "ko": "도련님이 그 말을 듣고 말한다. \"기특한 사람이로다. 말인즉 옳구나.\"",
-  "is_header": false
- },
- {
-  "id": 78,
-  "tag": "P0006_13",
-  "en": "\"Go back and tell her this and this.\"",
-  "ko": "\"다시 가서 이러이러하게 말하여라.\"",
-  "is_header": false
- },
- {
-  "id": 79,
-  "tag": "P0006_14",
   "en": "Bangja takes the message and crosses over, but in the meantime, Chunhyang has already returned home.",
   "ko": "방자가 전갈을 받아 건너가니, 그 사이 춘향은 제 집으로 돌아가 버렸다.",
   "is_header": false
  },
  {
-  "id": 80,
-  "tag": "P0006_15",
+  "id": 69,
+  "tag": "P0006_13",
   "en": "When he arrives at her house, he finds mother and daughter sitting across from each other, eating lunch.",
   "ko": "집으로 찾아가니 모녀가 마주 앉아 한창 점심을 먹고 있다.",
   "is_header": false
  },
  {
-  "id": 81,
-  "tag": "P0006_16",
+  "id": 70,
+  "tag": "P0006_14",
   "en": "As Bangja enters, Chunhyang asks, \"Why are you here again?\"",
   "ko": "방자가 들어가니 춘향이 말한다. \"너 왜 또 오느냐?\"",
   "is_header": false
  },
  {
-  "id": 82,
-  "tag": "P0006_17",
+  "id": 71,
+  "tag": "P0006_15",
   "en": "\"Sorry to bother you. The young master has sent another message.\"",
   "ko": "\"황송하다. 도련님이 다시 전갈하셨다.\"",
   "is_header": false
  },
  {
-  "id": 83,
+  "id": 72,
   "tag": "P0007_1",
   "en": "\"I am not calling you because I think you are a gisaeng. I heard that you are very good at writing, so I am asking you to come.\"",
   "ko": "\"'내가 너를 기생으로 알아서가 아니다. 들으니 네가 글을 잘한다기에 청하는 것이다.'\"",
   "is_header": false
  },
  {
-  "id": 84,
+  "id": 73,
   "tag": "P0007_2",
   "en": "\"It might sound strange to others to call a girl from a private home, but do not worry about what people say and just visit for a moment,\" he said.",
   "ko": "\"'여염집 처녀를 불러 보는 것이 남 듣기에 이상하겠지만, 허물로 여기지 말고 잠깐 다녀가라' 하셨다.\"",
   "is_header": false
  },
  {
-  "id": 85,
+  "id": 74,
   "tag": "P0007_3",
   "en": "Chunhyang wonders if this is her destiny. Suddenly, she feels like she wants to go.",
   "ko": "춘향은 연분이 되려고 그랬던지 문득 갈 마음이 생긴다.",
   "is_header": false
  },
  {
-  "id": 86,
+  "id": 75,
   "tag": "P0007_4",
   "en": "However, she does not understand her mother's feelings and sits silently for a long time.",
   "ko": "그러나 어머니의 뜻을 몰라 한참 말없이 앉아 있다.",
   "is_header": false
  },
  {
-  "id": 87,
+  "id": 76,
   "tag": "P0007_5",
-  "en": "Then Chunhyang's mother sits up and speaks.",
-  "ko": "그때 춘향 어머니가 썩 나앉으며 말한다.",
+  "en": "Then Chunhyang's mother sits up and speaks, \"Dreams are not just empty fantasies at all.\"",
+  "ko": "그때 춘향 어머니가 썩 나앉으며 말한다. \"꿈이라는 것이 전혀 헛것이 아니로구나.\"",
   "is_header": false
  },
  {
-  "id": 88,
+  "id": 77,
   "tag": "P0007_6",
-  "en": "\"Dreams are not just empty fantasies at all.\"",
-  "ko": "\"꿈이라는 것이 전혀 헛것이 아니로구나.\"",
-  "is_header": false
- },
- {
-  "id": 89,
-  "tag": "P0007_7",
   "en": "\"Last night I dreamed of a blue dragon. It appeared out of nowhere and lay in the peach-tree pond.\"",
   "ko": "\"간밤에 꿈을 꾸니, 난데없는 청룡 한 마리가 벽도 연못에 잠겨 보이더라.\"",
   "is_header": false
  },
  {
-  "id": 90,
-  "tag": "P0007_8",
+  "id": 78,
+  "tag": "P0007_7",
   "en": "\"I wondered if something good would happen, and it turns out this is no accident.\"",
   "ko": "\"무슨 좋은 일이 있으려나 했더니, 우연한 일이 아니로다.\"",
   "is_header": false
  },
  {
-  "id": 91,
-  "tag": "P0007_9",
+  "id": 79,
+  "tag": "P0007_8",
   "en": "\"I also heard that the magistrate's son is named Mongryong. The characters for 'dream' and 'dragon' match my dream perfectly!\"",
   "ko": "\"또 들으니 사또 자제 도련님 이름이 몽룡이라 하니, 꿈 몽 자, 용 룡 자로 신통하게도 꿈과 맞았구나.\"",
   "is_header": false
  },
  {
-  "id": 92,
-  "tag": "P0007_10",
+  "id": 80,
+  "tag": "P0007_9",
   "en": "\"But even so, how can you refuse when a nobleman invites you? Go there for a short visit.\"",
   "ko": "\"그러나 저러나 양반이 부르시는데 안 갈 수 있겠느냐. 잠깐 가서 다녀오너라.\"",
   "is_header": false
