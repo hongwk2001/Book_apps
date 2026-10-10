@@ -182,7 +182,7 @@ class TtsManager(private val context: Context) {
         onCurrentUtteranceDone = onDone
         onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+        val result = engine.speak(speakableText(text), TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         if (result != TextToSpeech.SUCCESS) {
             currentUtteranceId = null
             _isSpeaking.value = false
@@ -206,7 +206,7 @@ class TtsManager(private val context: Context) {
         onCurrentUtteranceDone = onDone
         onCurrentUtteranceError = onError
         _isSpeaking.value = true
-        val result = engine.speak(text, TextToSpeech.QUEUE_FLUSH, null, utteranceId)
+        val result = engine.speak(speakableText(text), TextToSpeech.QUEUE_FLUSH, null, utteranceId)
         if (result != TextToSpeech.SUCCESS) {
             currentUtteranceId = null
             _isSpeaking.value = false
