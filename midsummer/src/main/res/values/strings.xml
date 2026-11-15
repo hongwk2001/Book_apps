@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">한여름 밤의 꿈</string>
+    <string name="app_name_en">"A Midsummer Night's Dream"</string>
+    <string name="app_name_ko">한여름 밤의 꿈</string>
+    <string name="iap_product_id">com.tkprof.midsummer.full</string>
+    <integer name="free_chapters">3</integer>
+    <integer name="total_chapters">9</integer>
+</resources>

@@ -1,0 +1,142 @@
+[
+ {
+  "id": 1,
+  "tag": "P0492",
+  "en": "Act 4, Scene 2 — Athens. A Room in Quince’s House",
+  "ko": "4막 2장 — 아테네. 퀸스의 집 방",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0492_s",
+  "en": "Quince fears that Bottom is missing and the play is in danger. Bottom returns from the wood and tells the workmen about his strange dream.",
+  "ko": "퀸스는 보텀이 사라져서 연극이 위험해졌다고 걱정한다. 보텀이 숲에서 돌아와 직공들에게 자신의 이상한 꿈을 이야기한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0493",
+  "en": "Quince, Flute, Snout and Starveling enter.",
+  "ko": "퀸스, 플루트, 스나우트와 스털링이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0494_1",
+  "en": "Quince asks, \"Did you send a message to Bottom's house? Has he come home yet?\"",
+  "ko": "퀸스가 묻는다. \"보텀의 집으로 소식을 전했어? 그가 벌써 돌아왔니?\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0495_1",
+  "en": "Starveling, a tailor, who plays Moonshine, says, \"No one can find him. He is probably far away.\"",
+  "ko": "달빛 역을 맡은 재단사 스털링이 말한다. \"아무도 그를 못 찾고 있어. 아마 멀리 가 있을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0496_1",
+  "en": "Flute, a bellows-mender, who plays Thisbe, asks, \"If he does not come, the play will be ruined. It cannot continue without him, can it?\"",
+  "ko": "티스비 역을 맡은 풀무 수리공 플루트가 묻는다. \"그가 오지 않으면 연극을 망치게 될 거야. 그가 없으면 계속할 수 없잖아, 그렇지?\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0497_1",
+  "en": "Quince says, \"That is not possible. You do not have any other man in all Athens who can play Pyramus. Only he can do it.\"",
+  "ko": "퀸스가 말한다. \"그건 불가능해. 아테네에 피라모스 역을 맡을 다른 남자가 없잖아. 오직 그만이 할 수 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0498_1",
+  "en": "Flute says, \"No, he simply has the best wit of any craftsman in Athens.\"",
+  "ko": "플루트가 말한다. \"아니, 그는 단지 아테네의 기술자들 중 가장 재치가 넘칠 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0499_1",
+  "en": "Quince says, \"Yes, and he is the best person too. He is a great lover of a lovely voice.\"",
+  "ko": "퀸스가 말한다. \"그래, 그리고 그는 최고의 사람이지. 그는 아름다운 목소리를 아주 좋아해.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0500_1",
+  "en": "Flute says, \"You must say 'paragon'. A 'paramour' is, God bless us, a worthless thing.\"",
+  "ko": "플루트가 말한다. \"'모범'이라고 말해야 해. '애인'이라는 건, 맙소사, 가치 없는 단어야.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0501",
+  "en": "Snug enters.",
+  "ko": "스너그가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0502_1",
+  "en": "Flute goes on, \"Masters, the Duke is coming from the temple. There are two or three more lords and ladies married. If our play had continued, we would have all been promoted to men.\"",
+  "ko": "플루트가 말을 잇는다. \"동료들, 공작이 신전에서 오고 있어. 결혼한 귀족들이 두세 명 더 있어. 우리 연극이 계속되었다면 우리 모두 성인으로 인정받았을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0503_1",
+  "en": "Flute says, \"Oh dear Bottom! He has lost sixpence a day during his life. He could not have escaped earning sixpence a day. If the Duke had not paid him sixpence a day for playing Pyramus, I will be hanged. He would have deserved it. He would have received sixpence a day in Pyramus or nothing.\"",
+  "ko": "플루트가 말한다. \"오, 가여운 보텀! 그는 평생 하루에 6펜트씩 벌어왔어. 하루에 6펜트를 버는 일에서 벗어날 수 없었을 거야. 공작이 피라모스 역할을 맡아 그에게 하루 6펜트씩 주지 않았다면, 난 교수형에 처해졌을 거야. 그건 당연한 대가였어. 피라모스로서 하루 6펜트를 받거나 아니면 아무것도 못 받았겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0505_1",
+  "en": "Bottom enters and asks, \"Where are these boys? Where are these hearts?\"",
+  "ko": "보텀이 들어와 묻는다. \"이 아이들은 어디에 있지? 이 마음들은 어디에 있는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0506_1",
+  "en": "Quince says, \"Bottom! What a courageous day! What a happy hour!\"",
+  "ko": "퀸스가 말한다. \"보텀! 정말 용기 있는 날이야! 행복한 시간이야!\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0507_1",
+  "en": "Bottom says, \"Masters, I am to tell you wonderful things. But do not ask me what they are. If I tell you, I am not a true Athenian. I will tell you everything exactly as it happened.\"",
+  "ko": "보텀이 말한다. \"동료들, 내가 놀라운 것들을 말해줄게. 하지만 그게 뭔지 묻지는 마. 내가 말해버리면 진정한 아테네 사람이 아니게 되니까. 일어난 일들을 있는 그대로 전부 말해줄게.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0508_1",
+  "en": "Quince says, \"Let us hear, dear Bottom.\"",
+  "ko": "퀸스가 말한다. \"말해줘, 보텀.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0509_1",
+  "en": "Bottom says, \"Do not say a word to me. All I will tell you is that the Duke has eaten dinner. Get your clothes ready. Put ribbons in your beards. Put new ribbons on your shoes. Meet at the palace soon. Every man should look over his part. In any case, our play is preferred.\"",
+  "ko": "보텀이 말한다. \"나한테 아무 말도 하지 마. 내가 할 말은 공작이 저녁을 드셨다는 거야. 옷을 준비해. 수염에 리본을 달고. 신발에도 새 리본을 달아. 곧 궁전에서 만나자. 모두 자기 배역을 확인해. 어쨌든 우리 연극이 더 낫거든.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0509_2",
+  "en": "\"Let Thisbe have clean linen. The man who plays the lion must not cut his nails. They will hang out as the lion's claws. Dear actors, do not eat onions or garlic. We must speak with sweet breath. I do not doubt that they will call it a sweet comedy. No more words. Go away! Go, go away!\"",
+  "ko": "\"티스비는 깨끗한 옷을 입혀. 사자 역을 맡은 사람은 손톱을 깎으면 안 돼. 그건 사자의 발톱처럼 보일 거야. 배우들은 양파나 마늘을 먹지 마. 우리는 상쾌한 숨결로 말해야 해. 사람들이 이 연극을 아주 멋진 희극이라 부를 거라 확신해. 더 이상 말하지 마. 가버려! 가, 어서 가!\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0510",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

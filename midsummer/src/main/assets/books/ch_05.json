@@ -1,0 +1,625 @@
+[
+ {
+  "id": 1,
+  "tag": "P0195",
+  "en": "Act 3, Scene 1 — The Wood",
+  "ko": "3막 1장 — 숲",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0195_s",
+  "en": "The workmen rehearse in the wood. Puck gives Bottom a donkey's head. When Titania wakes, she falls in love with him and her fairies wait on him.",
+  "ko": "직공들이 숲에서 연습한다. 퍽은 보텀의 머리를 당나귀 머리로 바꾼다. 티타니아는 깨어나 그를 사랑하게 되고, 그녀의 요정들이 그를 시중든다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0196",
+  "en": "The Queen of Fairies is still sleeping.",
+  "ko": "요정의 여왕은 아직 잠들어 있다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0197",
+  "en": "Bottom, Quince, Snout, Starveling, Snug and Flute enter.",
+  "ko": "보텀, 퀸스, 스나우트, 스털링, 스너그와 플루트가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0198_1",
+  "en": "Bottom asks, \"Are we all here?\"",
+  "ko": "보텀이 묻는다. \"모두 모였나?\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0199_1",
+  "en": "Quince says, \"Good. This is a wonderful and convenient place for our rehearsal. This green area will be our stage. This thorn bush will be our dressing room. We will perform it in action. We will do it the same way we will do it before the Duke.\"",
+  "ko": "퀸스가 말한다. \"좋아. 여기는 연습하기에 아주 멋지고 편리한 장소야. 이 초록색 구역이 우리의 무대가 될 거야. 저 가시덤불은 우리 대기실이 될 거고. 우리는 연극을 실감 나게 공연할 거야. 공작님 앞에서 할 때와 똑같은 방식으로 할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0200_1",
+  "en": "Bottom asks, \"Peter Quince?\"",
+  "ko": "보텀이 묻는다. \"피터 퀸스?\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0201_1",
+  "en": "Quince asks, \"What do you say, bully Bottom?\"",
+  "ko": "퀸스가 묻는다. \"어떻게 생각하나, 힘센 보텀?\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0202_1",
+  "en": "Bottom says, \"There are parts in this comedy of Pyramus and Thisbe that will never please. First, Pyramus must draw a sword to kill himself. The ladies cannot stand to see this. How do you answer that? By my faith, it is a scary thought.\"",
+  "ko": "보텀이 말한다. \"이 피라모스와 티스비의 희극에는 절대 마음에 들지 않을 장면들이 있어. 먼저, 피라무스가 자신을 죽이기 위해 칼을 뽑아야 해. 여성들은 그런 장면을 보는 걸 견디지 못할 거야. 그럼 넌 어떻게 생각하나? 정말이지, 무서운 생각이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0203_1",
+  "en": "Starveling, a tailor, who plays Moonshine, says, \"I think we should leave out the killing when everything is finished.\"",
+  "ko": "달빛 역을 맡은 재단사 스털링이 말한다. \"모든 연극이 끝난 뒤에 죽이는 장면은 빼는 게 좋겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0204_1",
+  "en": "Bottom says, \"Not at all. I have a plan to make everything go well. Write me a prologue. Let the prologue say that we will do no harm with our swords. Let it say that Pyramus is not really killed. To be even safer, tell them that I, Pyramus, am not Pyramus. Tell them I am Bottom the weaver.\"",
+  "ko": "보텀이 말한다. \"전혀 아니야. 모든 걸 잘 풀어나갈 계획이 있어. 나를 위한 서문을 써줘. 서문에서 우리가 칼로 아무도 해치지 않을 거라고 말하게 해. 피라모스가 실제로 죽는 게 아니라고도 말하고. 더 안전하게 하려면, 나 피라모스가 진짜 피라모스가 아니라고 말해. 나는 베짜는 사람인 보텀이라고 말해.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0204_2",
+  "en": "\"This will stop them from being afraid.\"",
+  "ko": "\"그렇게 하면 사람들이 무서워하지 않을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0205_1",
+  "en": "Quince says, \"Good, we will have such a prologue. It will be written in eight and six lines.\"",
+  "ko": "퀸스가 말한다. \"좋아, 그런 서문을 넣자. 8행과 6행으로 구성해서 쓸게.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0206_1",
+  "en": "Bottom says, \"No, make it two more. Let it be written in eight and eight lines.\"",
+  "ko": "보텀이 말한다. \"아니, 두 줄 더 추가해. 8행과 8행으로 써줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0207_1",
+  "en": "Starveling says, \"I fear it, I promise you.\"",
+  "ko": "스털링이 말한다. \"그건 걱정 마, 약속할게.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0208_1",
+  "en": "Bottom says, \"Gentlemen, you should think about this. Bringing a lion among ladies is a very scary thing. There is no wild bird more frightening than your lion. We must be careful about it.\"",
+  "ko": "보텀이 말한다. \"여러분, 이 점을 생각해야 해. 여성들 사이에 사자를 데려오는 건 아주 무서운 일이야. 네가 말한 사자보다 더 무서운 야생 동물은 없어. 우리는 이 부분에 주의를 기울여야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0209_1",
+  "en": "Bottom says, \"No, you must say his name. Half of his face must be seen through the lion's neck. He must speak through the mask. He should say: 'Ladies.' Or he could say: 'Fair ladies, I would wish you.' Or he could say: 'I would request you.' Or he could say: 'I would entreat you.'\"",
+  "ko": "보텀이 말한다. \"아니, 그의 이름을 말해야 해. 사자 목 부분 사이로 얼굴 절반이 보여야 해. 가면을 쓴 채로 말해야 하고. 그는 '숙녀분들'이라고 말해야 해. 혹은 '숙녀분들, 당신들을 원합니다'라고 할 수도 있고. 아니면 '당신들에게 요청합니다'라고 해도 돼. 또는 '당신들에게 간청합니다'라고 말해도 좋아.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0209_2",
+  "en": "\"He must tell them not to fear. He must tell them not to tremble. He should say, 'My life for yours.' He should say, 'If you think I come here as a lion, it is a pity of my life.' He should say, 'No, I am no such thing.' He should say, 'I am a man like other men are.' Then he must say his name.\"",
+  "ko": "\"두려워하지 말라고 말해야 해. 떨지 말라고도 말해야 하고. 그는 '내 목숨을 바쳐서라도 당신들을 지키겠습니다'라고 해야 해. 그는 '내가 사자로 여기 온 것으로 생각하신다면, 내 인생에 큰 실수입니다'라고 말해야 해. 아니요, 나는 그런 존재가 아니라고 말해야 하고. 나는 다른 사람들과 같은 남자일 뿐이라고 말해야 해. 그러고 나서 자신의 이름을 말해야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0209_3",
+  "en": "\"He must tell them clearly that he is Snug the joiner.\"",
+  "ko": "\"자신이 목수 스너그라는 것을 분명히 밝혀야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0210_1",
+  "en": "Quince says, \"Well, it shall be so. But there are two hard things. One is to bring moonlight into a room. You know that Pyramus and Thisbe meet by moonlight.\"",
+  "ko": "퀸스가 말한다. \"그래, 그렇게 하자. 하지만 어려운 문제가 두 가지 있어. 하나는 방 안으로 달빛을 들여오는 거야. 피라모스와 티스비가 달빛 아래에서 만난다는 걸 너도 알잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0211_1",
+  "en": "Bottom says, \"A calendar, a calendar! Look in the almanac. Find out if there is moonshine. Find out if there is moonshine.\"",
+  "ko": "보텀이 말한다. \"달력, 달력을 봐! 연감에 적힌 걸 확인해 봐. 달빛이 비치는지 알아내야 해. 달빛이 비치는지 확인해 봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0212_1",
+  "en": "Quince says, \"Yes, it shines that night.\"",
+  "ko": "퀸스가 말한다. \"응, 그날 밤에는 빛나.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0213_1",
+  "en": "Bottom says, \"You can leave a window open in the large room. We will perform our play there. The moonlight can shine in through that window.\"",
+  "ko": "보텀이 말한다. \"큰 방에 창문을 하나 열어두면 돼. 우리는 거기서 연극을 할 거야. 그 창문으로 달빛이 들어올 수 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0214_1",
+  "en": "Quince says, \"Yes, or someone must enter with a bush of thorns and a lantern. That person must say he comes to show the moon's light. There is another problem. We must have a wall in the large room. The story says Pyramus and Thisbe talked through a crack in a wall.\"",
+  "ko": "퀸스가 말한다. \"그래, 아니면 누군가 가시 덤불과 등불을 들고 들어와야 해. 그 사람은 달빛을 보여주러 왔다고 말해야 하고. 또 다른 문제가 있어. 큰 방에 벽이 있어야 해. 이야기에서 피라모스와 티스비는 벽의 틈을 통해 대화했거든.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0214_2",
+  "en": "\"You can never bring in a real wall. What do you say, Bottom?\"",
+  "ko": "\"진짜 벽을 가져올 수는 없잖아. 보텀, 네 생각은 어때?\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0215_1",
+  "en": "Bottom says, \"Some man must act as the wall. He should have some plaster or dirt on him to look like a wall. He should hold his fingers like this. Pyramus and Thisbe will whisper through that crack.\"",
+  "ko": "보텀이 말한다. \"어떤 사람이 벽 역할을 해야 해. 벽처럼 보이게 몸에 석고나 흙을 좀 바르면 돼. 손가락은 이렇게 모으고 있어야 하고. 피라모스와 티스비가 그 틈으로 속삭일 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0216_1",
+  "en": "Quince says, \"If that works, then everything is fine. Come, sit down, everyone. Let us practice your parts. Pyramus, you start first. After you finish your speech, enter into that bush. Everyone else should act according to their cue.\"",
+  "ko": "퀸스가 말한다. \"그렇게 하면 문제없어. 자, 모두 앉아. 이제 각자 배역을 연습해 보자. 피라모스, 네가 먼저 시작해. 대사를 마치고 저 덤불 속으로 들어가면 돼. 다른 사람들도 신호에 맞춰 연기해.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0217",
+  "en": "Puck enters from behind.",
+  "ko": "퍽이 뒤에서 나타난다.",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0218_1",
+  "en": "Puck says, \"What people in rough clothes are walking here? They are very close to the Fairy Queen's cradle. Is there a play happening? I will listen to it. I might even act if I see a reason.\"",
+  "ko": "퍽이 말한다. \"거친 옷을 입은 사람들이 왜 여기서 걷고 있지? 요정 여왕의 요람에 아주 가까이 다가왔어. 연극이라도 하는 건가? 한번 들어나 보자. 이유가 있다면 나도 끼어들지.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0219_1",
+  "en": "Quince says, \"Speak, Pyramus. Thisbe, come forward.\"",
+  "ko": "퀸스가 말한다. \"말해봐요, 피라모스. 티스비, 앞으로 나오세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0220_1",
+  "en": "Pyramus, the lover who plays Pyramus in the workmen's play, says, \"Thisbe, the flowers of bad smells are sweet.\"",
+  "ko": "직공들의 연극에서 피라모스 역을 맡은 연인 피라모스가 말한다. \"티스비, 냄새나는 꽃들도 향기롭답니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0221_1",
+  "en": "Quince says, \"Smells. Scents.\"",
+  "ko": "퀸스가 말한다. \"냄새요. 향기요.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0222_1",
+  "en": "Pyramus says, \"The smells are lovely. Your breath is also dear, my dearest Thisbe. But listen! A voice is coming. Stay here for a moment. I will come back to you very soon.\"",
+  "ko": "피라모스가 말한다. \"향기가 정말 좋네요. 내 사랑 티스비, 당신의 숨결도 참 소중해요. 하지만 들어보세요! 목소리가 들려와요. 잠시만 여기 있어 주세요. 금방 다시 돌아올게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0223",
+  "en": "Pyramus leaves.",
+  "ko": "피라모스가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0224_1",
+  "en": "Puck says, \"A stranger Pyramus has never acted here before!\"",
+  "ko": "퍽이 말한다. \"피라모스는 여기서 연기해 본 적이 없는 낯선 사람이다!\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0225",
+  "en": "Puck leaves.",
+  "ko": "퍽이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0226_1",
+  "en": "Thisbe, the lover who plays Thisbe in the workmen's play, asks, \"Must I speak now?\"",
+  "ko": "직공들의 연극에서 티스비 역을 맡은 연인 티스비가 묻는다. \"지금 말해야 하나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0227_1",
+  "en": "Quince says, \"Yes, you must. You must understand that he is going only to check a noise. He heard it and will come back soon.\"",
+  "ko": "퀸스가 말한다. \"네, 말씀하셔야 해요. 그가 소리만 확인하러 가는 것이라는 걸 이해하셔야 해요. 소리를 듣고 곧 돌아올 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0228_1",
+  "en": "Thisbe says, \"Most radiant Pyramus. You are very white of face. Your color is like the red rose on a winning bush. You are a strong young man. You are also a very lovely man. You are as steady as the truest horse that never gets tired. I will meet you, Pyramus, at Ninus's tomb.\"",
+  "ko": "티스비가 말한다. \"눈부시게 아름다운 피라모스. 얼굴이 아주 창백해졌어요. 당신의 안색은 승리의 덤불에 핀 붉은 장미 같아요. 당신은 강인한 청년이에요. 또한 정말 매력적인 분이고요. 지치지 않는 가장 믿음직한 말처럼 든든해요. 피라모스, 니누스의 무덤에서 만나요.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0229_1",
+  "en": "Quince says, \"Ninus's tomb, man! Why, you must not say that yet. You are answering to Pyramus. Speak your whole part at once, including the cues. Pyramus, enter! Your cue has passed. It was 'never tire'.\"",
+  "ko": "퀸스가 말한다. \"니누스의 무덤이라고요! 아직 그렇게 말씀하시면 안 돼요. 피라모스에게 대답하는 중이시잖아요. 신호까지 포함해서 대사를 한꺼번에 말씀하세요. 피라모스, 등장! 방금 신호가 지났어요. 그건 '절대 지치지 않는'이었어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0230_1",
+  "en": "Thisbe says, \"Oh, as true as truest horse, that yet would never tire.\"",
+  "ko": "티스비가 말한다. \"오, 절대 지치지 않는 가장 충실한 말처럼요.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0231",
+  "en": "Puck and Bottom enter. Bottom has the head of a donkey.",
+  "ko": "퍽과 보텀이 등장한다. 보텀은 당나귀 머리를 하고 있다.",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0232_1",
+  "en": "Pyramus says, \"If I were handsome, Thisbe, I would be yours only.\"",
+  "ko": "피라모스가 말한다. \"내가 잘생겼다면, 티스비, 난 오직 네 것이었을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0233_1",
+  "en": "Quince says, \"Oh, how monstrous! Oh, how strange! We are haunted. Please, masters, run away! Help!\"",
+  "ko": "퀸스가 말한다. \"오, 정말 끔찍해요! 오, 정말 이상해요! 유령이 우리를 괴롭히고 있어요. 주인님들, 어서 도망치세요! 도와주세요!\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0234",
+  "en": "The Clowns leave.",
+  "ko": "광대들이 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0235_1",
+  "en": "Puck says, \"I will follow you. I will lead you around in a circle. I will go through swamps, bushes, thickets, and thorns. Sometimes I will be a horse. Sometimes I will be a hound. I will be a pig, a headless bear, or sometimes a fire. And I will neigh, bark, grunt, roar, and burn.\"",
+  "ko": "퍽이 말한다. \"내가 널 따라갈게. 너를 빙빙 돌게 만들 거야. 늪과 덤불, 가시덤불을 헤치고 지나가겠어. 때로는 말이 될 수도 있고. 때로는 사냥개가 될 수도 있어. 돼지나 머리 없는 곰, 혹은 불꽃이 되기도 하지. 히힝 울거나, 짖거나, 꿀꿀거리거나, 포효하거나, 타오를 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0235_2",
+  "en": "\"I will act like a horse, hound, pig, bear, and fire at every turn.\"",
+  "ko": "\"매 순간 말, 사냥개, 돼지, 곰, 그리고 불꽃으로 변신할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0236",
+  "en": "Puck leaves.",
+  "ko": "퍽이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0237_1",
+  "en": "Bottom says, \"Why do they run away? It is mean of them to make me afraid.\"",
+  "ko": "보텀이 말한다. \"왜 도망치는 거지? 나를 겁먹게 하다니 정말 못된 짓이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0238",
+  "en": "Snout enters.",
+  "ko": "스나우트가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0239_1",
+  "en": "Bottom goes on, \"SNOUT oh Bottom, you have changed! What do I see on you?\"",
+  "ko": "보텀이 말을 잇는다. \"스나우트, 보텀, 네 모습이 변했어! 너한테 뭐가 보이는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0240_1",
+  "en": "Bottom asks, \"What do you see? Do you see your own donkey head?\"",
+  "ko": "보텀이 묻는다. \"뭐가 보이는데? 네 머리에 달린 당나귀 머리가 안 보여?\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0241",
+  "en": "Snout leaves.",
+  "ko": "스나우트가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0243_1",
+  "en": "Quince enters and says, \"Bless you, Bottom! Bless you! You have been changed.\"",
+  "ko": "퀸스가 들어와 말한다. \"맙소사, 보텀! 세상에! 너의 모습이 변해버렸어.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0244",
+  "en": "Quince leaves.",
+  "ko": "퀸스가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0245_1",
+  "en": "Bottom says, \"I see their trick. They want to make a fool of me. They want to frighten me if they can. But I will not move from this place, no matter what they do. I will walk back and forth here. I will sing so that they hear I am not afraid.\"",
+  "ko": "보텀이 말한다. \"그들의 속임수를 알아챈다. 그들은 나를 바보로 만들려 한다. 가능하다면 나를 겁주려 한다. 하지만 그들이 무엇을 하든 이곳을 떠나지 않을 것이다. 이곳을 왔다 갔다 걸으며 노래할 것이다. 내가 두렵지 않다는 것을 들리게 하기 위해 노래한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0246",
+  "en": "Bottom sings.",
+  "ko": "보텀이 노래를 부른다.",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0247_1",
+  "en": "Bottom goes on, \"The ousel cock is very black. It has an orange-brown beak. The throstle has a very clear song. The wren has small feathers.\"",
+  "ko": "보텀이 말을 잇는다. \"오슬 콕은 아주 검은색이다. 부리는 주황빛 갈색이다. 스로슬은 노래가 매우 맑다. 휘는 깃털이 작다.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0248",
+  "en": "Titania wakes up.",
+  "ko": "티타니아가 깨어난다.",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0249_1",
+  "en": "Titania asks, \"What angel wakes me from my flowery bed?\"",
+  "ko": "티타니아가 묻는다. \"꽃이 가득한 내 침대에서 나를 깨운 천사는 누구니?\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0250",
+  "en": "Bottom sings.",
+  "ko": "보텀이 노래를 부른다.",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0251_1",
+  "en": "Bottom asks, \"The finch, the sparrow, and the lark. The plain-song cuckoo is gray. Many men notice its song. They do not dare to say no. Who would waste their time on such a foolish bird? Who would lie about a bird even if it never cried 'cuckoo'?\"",
+  "ko": "보텀이 묻는다. \"핀치와 참새, 그리고 종다리요. 평범한 뻐꾸기는 회색이에요. 많은 사람이 그 노래에 주목해요. 그들은 거절할 엄두도 못 내죠. 누가 이런 바보 같은 새를 위해 시간을 낭비하겠어요? 설령 '뻐꾹' 소리를 한 번도 내지 않더라도, 누가 이 새에 대해 거짓말을 하겠어요?\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0252_1",
+  "en": "Titania says, \"I pray you, gentle mortal, sing again. My ears love your music very much. My eyes are also captured by your shape. Your beautiful qualities move me to say I love you. I felt this way at the first sight.\"",
+  "ko": "티타니아가 말한다. \"부디, 가련한 필멸자여, 다시 노래해 줘. 네 노래가 내 귀에 아주 달콤하게 들려. 너의 모습 또한 내 눈을 사로잡는구나. 너의 아름다운 자태에 감동해 사랑한다고 말하게 돼. 첫눈에 그렇게 느꼈어.\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0253_1",
+  "en": "Bottom says, \"I think, mistress, you have little reason for that. However, to tell the truth, reason and love do not stay together much these days. It is a pity that some honest neighbors will not make them friends. No, I can smile on occasion.\"",
+  "ko": "보텀이 말한다. \"부인, 그렇게 생각하실 이유가 별로 없다고 봐요. 하지만 사실, 요즘은 이성과 사랑이 함께 가기 힘들거든요. 정직한 이웃들이 그 둘을 친구로 만들지 못하는 게 안타까워요. 아니요, 가끔은 웃을 수도 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0254_1",
+  "en": "Titania says, \"You are as wise as you are beautiful.\"",
+  "ko": "티타니아가 말한다. \"너는 아름다운 만큼 지혜롭기도 하구나.\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0255_1",
+  "en": "Bottom says, \"Not so, neither. But if I had enough wit to get out of this wood, I have enough to serve my own purpose.\"",
+  "ko": "보텀이 말한다. \"그렇지 않아요, 저도요. 하지만 이 숲을 빠져나갈 지혜가 있다면, 제 목적을 달성할 지혜도 충분히 있어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0256_1",
+  "en": "Titania says, \"Do not desire to go out of this wood. You will stay here whether you want to or not. I am a spirit of no common rank. The summer still serves my state. And I love you. Therefore, go with me. I will give you fairies to attend to you. They will fetch jewels from the deep for you.\"",
+  "ko": "티타니아가 말한다. \"이 숲을 나가고 싶어 하지 마라. 네가 원하든 원하지 않든 너는 여기 머물게 될 것이다. 나는 평범한 신분이 아니다. 여름은 여전히 내 지위에 어울린다. 그리고 난 너를 사랑한다. 그러니 나와 함께 가자. 너를 보필할 요정들을 붙여주마. 그들이 깊은 곳에서 보석을 가져다줄 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0256_2",
+  "en": "\"They will sing while you sleep on pressed flowers. I will remove your mortal grossness. Then you will move like an airy spirit. Peaseblossom! Cobweb! Moth! and Mustardseed!\"",
+  "ko": "\"네가 꽃 위에서 잠들 때 그들이 노래를 불러줄 거야. 너의 투박한 필멸자의 모습을 없애주마. 그러면 너는 공기 같은 영혼처럼 움직이게 될 것이다. 피즈블로섬! 코브웹! 모스! 그리고 머스터드시드!\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0257",
+  "en": "Four Fairies enter.",
+  "ko": "네 명의 요정이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0258_1",
+  "en": "Peaseblossom, one of Titania's fairies, says, \"Ready.\"",
+  "ko": "티타니아의 요정 중 하나 피즈블로섬이 말한다. \"준비됐어.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0259_1",
+  "en": "Cobweb, one of Titania's fairies, says, \"And I.\"",
+  "ko": "티타니아의 요정 중 하나 코브웹이 말한다. \"나도.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0260_1",
+  "en": "Moth, one of Titania's fairies, says, \"And I.\"",
+  "ko": "티타니아의 요정 중 하나 모스가 말한다. \"나도.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0261_1",
+  "en": "Mustardseed, one of Titania's fairies, says, \"And I.\"",
+  "ko": "티타니아의 요정 중 하나 머스터드시드가 말한다. \"나도.\"",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0262_1",
+  "en": "Everyone asks, \"Where shall we go?\"",
+  "ko": "모두가 묻는다. \"어디로 갈까요?\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0263_1",
+  "en": "Titania says, \"Be kind and polite to this gentleman. Hop in his walks and play in his eyes. Feed him with apricots and dewberries. Give him purple grapes, green figs, and mulberries. Steal honey bags from the humble bees. Use them as candles for the night. Make them from their waxen bodies.\"",
+  "ko": "티타니아가 말한다. \"이 분께 친절하고 예의 바르게 행동해라. 그분의 걸음걸이에 맞춰 춤추고 그분의 눈 속에서 놀아라. 살구와 데브베리로 그를 먹여라. 보랏빛 포도와 초록색 무화과, 그리고 오디를 주어라. 겸손한 벌들로부터 꿀주머니를 훔쳐라. 그것들을 밤을 밝히는 양초로 써라. 벌들의 밀랍 몸체로 그것들을 만들어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0263_2",
+  "en": "\"Light them at the glow-worm's eyes. Do this to take my love to bed and wake him. Pluck the wings from painted butterflies. Use them to fan the moonbeams from his sleeping eyes. Nod to him, elves. Show him respect.\"",
+  "ko": "\"반딧불이의 눈빛 아래에서 불을 밝혀라. 내 사랑을 침대로 데려가고 그를 깨우기 위해 이렇게 해라. 무늬가 있는 나비들의 날개를 떼어내라. 그 날개들로 잠든 그의 눈에 비치는 달빛을 부채질해라. 요정들아, 그에게 고개를 숙여 인사해라. 그를 공경하라.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0264_1",
+  "en": "Peaseblossom says, \"Hello, mortal!\"",
+  "ko": "피즈블로섬이 말한다. \"안녕, 필멸자여!\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0265_1",
+  "en": "Cobweb says, \"Hail!\"",
+  "ko": "코브웹이 말한다. \"반가워!\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0266_1",
+  "en": "Moth says, \"Hail!\"",
+  "ko": "모스가 말한다. \"반가워!\"",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0267_1",
+  "en": "Mustardseed says, \"Hail!\"",
+  "ko": "머스터드시드가 말한다. \"반가워!\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0268_1",
+  "en": "Bottom says, \"I beg your forgiveness from the bottom of my heart. I ask you for your name.\"",
+  "ko": "보텀이 말한다. \"진심으로 사과드려요. 성함을 여쭤봐도 될까요?\"",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P0269_1",
+  "en": "Cobweb says, \"Cobweb.\"",
+  "ko": "코브웹이 말한다. \"코브웹.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P0270_1",
+  "en": "Bottom asks, \"I will talk with you more later, good Master Cobweb. If I cut my finger, I will be bold with you. What is your name, honest gentleman?\"",
+  "ko": "보텀이 묻는다. \"나중에 더 이야기 나누기로 해요, 친절한 코브웹 선생. 내 손가락이 잘린다면 당신에게 당당하게 말할게요. 정직한 신사분, 성함이 어떻게 되시나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P0271_1",
+  "en": "Peaseblossom says, \"Peaseblossom.\"",
+  "ko": "피즈블로섬이 말한다. \"피즈블로섬.\"",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P0272_1",
+  "en": "Bottom says, \"Please give my regards to Mistress Squash, your mother. Give my regards to Master Peascod, your father. Good Master Peaseblossom, I will talk with you more later too. I ask you for your name, sir.\"",
+  "ko": "보텀이 말한다. \"어머니인 스쿼시 부인께 안부 전해 주세요. 아버지인 피스코드 선생께도 안부 전해 주세요. 친절한 피즈블로섬 선생, 당신과도 나중에 더 이야기할게요. 성함이 어떻게 되시는지 여쭤볼게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P0273_1",
+  "en": "Mustardseed says, \"Mustardseed.\"",
+  "ko": "머스터드시드가 말한다. \"머스터드시드.\"",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P0274_1",
+  "en": "Bottom says, \"Good Master Mustardseed, I know your patience well. That same cowardly giant-like ox-beef has eaten many a gentleman of your house. I promise you, your relatives have made my eyes water before now. I want to get to know you better, good Master Mustardseed.\"",
+  "ko": "보텀이 말한다. \"친절한 머스터드시드 선생, 당신의 인내심을 잘 알고 있어요. 그 겁쟁이 거인 같은 소고기가 당신 집안의 신사들을 많이 잡아먹었죠. 약속할게요, 당신 친척들이 내 눈시울을 적셨던 적이 많아요. 친절한 머스터드시드 선생, 당신을 더 잘 알아가고 싶어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P0275_1",
+  "en": "Titania says, \"Come, wait for him. Lead him to my shady, leafy place. I think the moon looks with a watery eye. When she weeps, every little flower weeps too. They cry because of some forced chastity. Tie up my love's tongue. Bring him silently.\"",
+  "ko": "티타니아가 말한다. \"와서 그를 기다려라. 그를 내 그늘지고 잎이 무성한 곳으로 데려와라. 달이 눈물을 머금고 있는 것 같구나. 달이 울 때면 모든 작은 꽃들도 함께 운다. 그들은 강요된 정조 때문에 울고 있어. 내 사랑의 혀를 묶어라. 그를 조용히 데려와라.\"",
+  "is_header": false
+ },
+ {
+  "id": 89,
+  "tag": "P0276",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]

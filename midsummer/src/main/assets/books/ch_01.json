@@ -1,0 +1,569 @@
+[
+ {
+  "id": 1,
+  "tag": "P0001",
+  "en": "Act 1, Scene 1 — Athens. A room in the Palace of Theseus",
+  "ko": "1막 1장 — 아테네. 테세우스 궁전의 방",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0001_s",
+  "en": "Theseus, the Duke of Athens, is about to marry Hippolyta. Egeus brings his daughter Hermia, who refuses to marry Demetrius because she loves Lysander. Theseus gives her four days to obey her father or face death or life in a nunnery.",
+  "ko": "아테네 공작 테세우스는 곧 히폴리타와 혼례를 올린다. 이지어스는 딸 허미아가 디미트리어스와 결혼하지 않겠다고 고소한다. 허미아는 라이샌더를 사랑하기 때문이다. 테세우스는 허미아에게 나흘의 시간을 주고, 아버지의 뜻을 따르지 않으면 사형이나 수녀원 생활 중 하나를 택해야 한다고 말한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0002",
+  "en": "Theseus, Hippolyta, Philostrate, and Attendants enter.",
+  "ko": "테세우스, 히폴리타, 필로스트레이트, 그리고 시종들이 등장한다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0003_1",
+  "en": "Theseus, the Duke of Athens, who is about to marry Hippolyta, says, \"Now, beautiful Hippolyta, our wedding hour is coming soon. Four happy days will bring another moon. But oh, I think this old moon fades so slowly! She delays my desires. She acts like a stepmother or a widow.\"",
+  "ko": "곧 히폴리타와 혼례를 치를 아테네의 공작 테세우스가 말한다. \"이제 아름다운 히폴리타, 우리의 혼례 시간이 곧 다가온다. 행복한 나흘이 지나면 달이 바뀔 것이다. 하지만 아, 이 늙은 달이 너무 느리게 저물어간다! 달이 내 욕망을 늦추고 있다. 그녀는 마치 계모나 과부처럼 행동한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0003_2",
+  "en": "\"She wastes away a young man's wealth for a long time.\"",
+  "ko": "\"젊은이의 재산을 오랫동안 낭비하게 만든다.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0004_1",
+  "en": "Hippolyta, the Queen of the Amazons, Theseus's bride-to-be, says, \"Four days will quickly pass into the night. Four nights will quickly pass while we dream. Then the moon, like a silver bow newly bent in heaven, will watch our celebration. It will see the night of our wedding.\"",
+  "ko": "아마존 여왕이자 테세우스의 신부 히폴리타가 말한다. \"나흘이 밤 속으로 빠르게 지나갈 거예요. 우리가 꿈을 꾸는 동안 나흘 밤이 금방 지나갈 거예요. 그때 하늘에 새로 휜 은빛 활 같은 달이 우리의 축제를 지켜볼 거예요. 달은 우리 혼례의 밤을 지켜볼 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0005_1",
+  "en": "Theseus says, \"Go, Philostrate. Wake up the Athenian youth for celebrations. Awake their lively and active spirit of joy. Send sadness away to funerals. The pale companion is not for our celebration.\"",
+  "ko": "테세우스가 말한다. \"가십시오, 필로스트레이트. 축제를 위해 아테네 청년들을 깨우십시오. 그들의 활기차고 즐거운 기운을 깨우십시오. 슬픔은 장례식으로 쫓아버리십시오. 창백한 동반자는 우리의 축제에 어울리지 않습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0006",
+  "en": "Philostrate leaves.",
+  "ko": "필로스트레이트가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0007_1",
+  "en": "Theseus goes on, \"Hippolyta, I won you with my sword. I won your love by hurting you. But I will marry you in a different way. It will be with pomp, triumph, and celebration.\"",
+  "ko": "테세우스가 말을 잇는다. \"히폴리타, 나는 당신을 내 칼로 이겼습니다. 당신을 아프게 함으로써 당신의 사랑을 얻었습니다. 하지만 이제는 다른 방식으로 당신과 결혼할 것입니다. 화려함과 승리, 그리고 축제와 함께할 것입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0008",
+  "en": "Egeus, Hermia, Lysander and Demetrius enter.",
+  "ko": "이지어스, 허미아, 라이샌더와 디미트리어스가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0009_1",
+  "en": "Egeus, Hermia's father, an Athenian nobleman, says, \"Long live Theseus, our famous Duke!\"",
+  "ko": "허미아의 아버지인 아테네 귀족 이지어스가 말한다. \"우리의 유명한 공작 테세우스여, 만세!\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0010_1",
+  "en": "Theseus asks, \"Thanks, good Egeus. What is your news?\"",
+  "ko": "테세우스가 묻는다. \"고맙소, 좋은 이지어스. 무슨 소식이오?\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0011_1",
+  "en": "Egeus says, \"I come full of worry with a complaint about my child, my daughter Hermia. Stand forth, Demetrius. My noble lord, this man has my permission to marry her. Stand forth, Lysander. And, my gracious Duke, this man has captured my child's heart. You, you, Lysander, you gave her poems.\"",
+  "ko": "이지어스가 말한다. \"제 딸 허미아에 관한 불만으로 걱정스러운 마음이 가득하여 왔습니다. 디미트리어스, 앞으로 나오십시오. 위대한 통치자여, 이 사람은 제 딸과 결혼할 허락을 받았습니다. 라이샌더, 앞으로 나오십시오. 그리고 자애로운 공작님, 이 사람이 제 아이의 마음을 사로잡았습니다. 당신, 당신, 라이샌더, 당신은 그녀에게 시를 주었소.\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0011_2",
+  "en": "\"You exchanged love-tokens with my child. You sang at her window by moonlight. You used a fake voice to sing verses of fake love. You stole her imagination with bracelets of your hair, rings, jewelry, and clever words.\"",
+  "ko": "\"당신은 내 아이와 사랑의 증표를 주고받았소. 당신은 달빛 아래 그녀의 창가에서 노래를 불렀소. 당신은 가짜 목소리로 가짜 사랑의 구절을 노래했소. 당신은 머리카락으로 만든 팔찌와 반지, 장신구, 그리고 교묘한 말들로 그녀의 상상력을 훔쳤소.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0011_3",
+  "en": "\"With trinkets, small gifts, bouquets, and sweets, which are ways to win the hearts of young people, you cleverly stole my daughter's heart. You turned her obedience, which she owes to me, into stubborn anger.\"",
+  "ko": "\"젊은이들의 마음을 사로잡는 방법인 장신구와 작은 선물, 꽃다발, 사탕으로 당신은 영리하게 제 딸의 마음을 훔쳤소. 당신은 나에게 마땅히 지켜야 할 그녀의 복종을 고집스러운 분노로 바꾸어 놓았소.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0011_4",
+  "en": "\"And, my gracious Duke, if she does not agree here before your grace to marry Demetrius, I ask for the ancient right of Athens. Since she is mine, I can decide her fate. It will be either marriage to this gentleman or her death. This is our law for such a case.\"",
+  "ko": "\"그리고 자애로운 공작님, 만약 그녀가 당신 앞에서 디미트리어스와 결혼하겠다고 동의하지 않는다면, 저는 아테네의 오래된 권리를 요구합니다. 그녀는 내 딸이기에 제가 그녀의 운명을 결정할 수 있습니다. 그것은 이 신사와의 결혼이거나 아니면 죽음입니다. 이런 경우에 대한 우리 법은 이렇습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0012_1",
+  "en": "Theseus says, \"What do you say, Hermia? Listen carefully, beautiful girl. Your father should be like a god to you. He created your beauty. You are like a figure of wax in his hands. He can shape your form or change it. He has the power to do this. Demetrius is a worthy gentleman.\"",
+  "ko": "테세우스가 말한다. \"허미아, 당신은 어떻게 생각하오? 잘 들으시오, 아름다운 소녀여. 당신의 아버지는 당신에게 신과 같은 분이셔야 합니다. 그분이 당신의 아름다움을 만드셨습니다. 당신은 그분의 손안에 있는 밀랍 인형과도 같소. 그분은 당신의 형태를 만들거나 바꿀 수 있습니다. 그분에게는 그럴 힘이 있습니다. 디미트리어스는 훌륭한 신사입니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0013_1",
+  "en": "Hermia, a young Athenian woman, in love with Lysander, says, \"So is Lysander.\"",
+  "ko": "라이샌더를 사랑하는 젊은 아테네 여인 허미아가 말한다. \"라이샌더도 마찬가지예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0014_1",
+  "en": "Theseus says, \"He is good in himself. But without your father's approval, the other man is better.\"",
+  "ko": "테세우스가 말한다. \"그도 좋은 사람입니다. 하지만 당신 아버지의 승인이 없다면, 다른 쪽이 더 낫습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0015_1",
+  "en": "Hermia says, \"I wish my father could see with my eyes.\"",
+  "ko": "허미아가 말한다. \"아버지가 제 눈으로 세상을 볼 수 있으면 좋겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0016_1",
+  "en": "Theseus says, \"Instead, your eyes must look with his judgment.\"",
+  "ko": "테세우스가 말한다. \"대신 당신의 눈은 아버지의 판단을 따라야 합니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0017_1",
+  "en": "Hermia asks, \"I beg your Grace to forgive me. I do not know what gives me the courage to speak. I do not know if it is proper for me to speak my thoughts here. But I ask your Grace to tell me the worst result. What will happen to me if I refuse to marry Demetrius?\"",
+  "ko": "허미아가 묻는다. \"저를 용서해 주십시오. 무슨 용기가 생겨서 말하는지 모르겠습니다. 여기서 제 생각을 말하는 게 옳은 일인지도 모르겠습니다. 하지만 최악의 결과라도 말씀해 주십시오. 제가 디미트리어스와 결혼하기를 거부하면 저에게 어떤 일이 생기나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0018_1",
+  "en": "Theseus asks, \"You will either face death or leave human society forever. Therefore, beautiful Hermia, think about your desires. Think about your youth and check your feelings. If you do not choose your father's choice, can you live as a nun?\"",
+  "ko": "테세우스가 묻는다. \"당신은 죽음을 맞거나 인간 사회에서 영원히 쫓겨날 것입니다. 그러니 아름다운 허미아, 당신의 욕망에 대해 생각하십시오. 당신의 젊음과 진심을 되돌아보십시오. 아버지의 선택을 따르지 않는다면 수녀로 살 수 있겠습니까?\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0018_2",
+  "en": "\"You would stay in a quiet convent for the rest of your life. You would be a sister who never marries. You would sing soft hymns to the cold moon. Those who control their feelings are blessed to go on such a journey. But a rose that is made into perfume is happier.\"",
+  "ko": "\"평생 조용한 수녀원에서 지내게 될 것입니다. 결코 결혼하지 않는 수녀가 되는 것이지요. 차가운 달을 향해 부드러운 찬송가를 부르게 될 것입니다. 자신의 감정을 절제하는 자들은 그런 길을 가는 것을 축복으로 여깁니다. 하지만 향수로 만들어진 장미가 더 행복합니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0018_3",
+  "en": "\"It is happier than a rose that grows and dies alone on a thorn.\"",
+  "ko": "\"가시 위에서 홀로 피고 시드는 장미보다 훨씬 더 행복합니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0019_1",
+  "en": "Hermia says, \"I will grow, live, and die that way, my lord. I will not give my freedom to his rule. My soul does not agree to let him have power over me.\"",
+  "ko": "허미아가 말한다. \"그렇게 자라고 살며 죽어갈 거예요, 전하. 그의 지배 아래 내 자유를 내어주지 않을 거예요. 내 영혼은 그가 나를 지배하는 것을 허락하지 않아요.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0020_1",
+  "en": "Theseus says, \"Take some time to think. By the next new moon, a day will be set for my wedding. On that day, you must make a choice. You must either prepare to die for disobeying your father's wish. Or you must marry Demetrius as he wants.\"",
+  "ko": "테세우스가 말한다. \"생각할 시간을 가지십시오. 다음 초승달이 뜨기 전까지 제 혼례 날짜가 정해질 것입니다. 그날, 당신은 선택을 내려야 합니다. 아버지의 뜻을 거역한 것에 대한 죽음을 각오하거나, 아니면 그가 원하는 대로 디미트리어스와 결혼하거나,\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0020_2",
+  "en": "\"Or you can go to Diana's altar to promise a life of strict celibacy.\"",
+  "ko": "\"혹은 다이아나의 제단에 가서 엄격한 독신을 약속해야 합니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0021_1",
+  "en": "Demetrius, a young Athenian, who loves Hermia, says, \"Give in, dear Hermia. And Lysander, give up your crazy claim to my certain right.\"",
+  "ko": "허미아를 사랑하는 젊은 아테네 청년 디미트리어스가 말한다. \"포기하세요, 사랑하는 허미아. 그리고 라이샌더, 내 당연한 권리에 대한 당신의 미친 주장을 그만두세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0022_1",
+  "en": "Lysander, a young Athenian, in love with Hermia, asks, \"You have her father's love, Demetrius. Let me have Hermia. Do you marry him?\"",
+  "ko": "허미아를 사랑하는 젊은 아테네 청년 라이샌더가 묻는다. \"디미트리어스, 넌 그녀의 아버지의 사랑을 받았어. 허미아를 내게 줘. 너랑 결혼할 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0023_1",
+  "en": "Egeus says, \"Lysander is scornful, but he has my love. My love will give him what I own. She is mine. I give all my rights to her to Demetrius.\"",
+  "ko": "이지어스가 말한다. \"라이샌더는 비웃고 있지만, 그는 내 사랑을 얻었습니다. 내 사랑이 내가 가진 것을 그에게 줄 것입니다. 그녀는 내 사람입니다. 그녀에 대한 모든 권리를 디미트리어스에게 양보합니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0024_1",
+  "en": "Lysander asks, \"I am as well born as he, my lord. I have the same status. My love for her is greater than his. My fortune is equal to Demetrius' in every way. If not better, it is at least equal. And I am loved by beautiful Hermia. Why should I not claim my right?\"",
+  "ko": "라이샌더가 묻는다. \"나도 그와 똑같이 태어난 몸입니다, 폐하. 내 지위도 그와 같습니다. 그녀를 향한 내 사랑이 더 큽니다. 내 운명도 모든 면에서 디미트리어스와 대등합니다. 못해도 최소한 같으니까요. 그리고 나는 아름다운 허미아의 사랑을 받고 있습니다. 내가 왜 권리를 주장하지 못하겠습니까?\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0024_2",
+  "en": "\"Demetrius made love to Nedar's daughter, Helena. He won her heart. And she, a lovely lady, loves him deeply. She worships this inconsistent man.\"",
+  "ko": "\"디미트리어스는 네다르의 딸인 헬레나와 사랑을 나누었습니다. 그는 그녀의 마음을 얻었고요. 그리고 매력적인 그녀도 그를 깊이 사랑합니다. 그녀는 이 변덕스러운 남자를 숭배하고 있습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0025_1",
+  "en": "Theseus says, \"I must admit that I have heard much of this. I planned to speak about it with Demetrius. But I was too busy with my own matters. My mind forgot it. But, Demetrius, come. And come, Egeus. You shall go with me. I have some private lessons for both of you.\"",
+  "ko": "테세우스가 말한다. \"이 이야기를 많이 들었다는 것을 인정해야겠습니다. 디미트리어스와 이 문제에 대해 이야기할 계획이었습니다. 하지만 제 일로 너무 바빴습니다. 생각이 났다가 잊어버렸습니다. 하지만, 디미트리어스, 이리 오십시오. 그리고 이지어스도 오십시오. 당신들은 나와 함께 가야 합니다. 두 분께 드릴 개인적인 지시가 있습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0025_2",
+  "en": "\"Hermia, prepare yourself to follow your father's will. Otherwise, the law of Athens gives you no choice. The law does not allow any excuses. You will face death or a vow of single life. Come, my Hippolyta. What cheer, my love? Demetrius and Egeus, go along.\"",
+  "ko": "\"허미아, 아버지의 뜻을 따를 준비를 하십시오. 그렇지 않으면 아테네의 법에 따라 선택권이 없습니다. 법은 어떤 변명도 허용하지 않습니다. 죽음을 맞거나 평생 독신으로 살겠다고 맹세해야 합니다. 오십시오, 나의 히폴리타. 기분이 어떠십니까, 내 사랑? 디미트리어스와 이지어스, 함께 가십시오.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0025_3",
+  "en": "\"I must involve you in some business regarding our wedding. I must talk with you about something that concerns you.\"",
+  "ko": "\"우리 혼례와 관련된 일에 당신들을 참여시켜야겠습니다. 당신들과 관련된 문제에 대해 이야기해야겠습니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0026_1",
+  "en": "Egeus says, \"We follow you out of duty and desire.\"",
+  "ko": "이지어스가 말한다. \"의무와 열망으로 당신을 따릅니다.\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0027",
+  "en": "Everyone leaves except Lysander and Hermia.",
+  "ko": "라이샌더와 허미아를 제외한 모두가 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0028_1",
+  "en": "Lysander asks, \"How are you, my love? Why is your face so pale? Why do the roses on your cheeks fade so quickly?\"",
+  "ko": "라이샌더가 묻는다. \"내 사랑, 기분이 어때요? 왜 얼굴이 이렇게 창백해요? 어째서 당신 뺨의 장미색이 이토록 빨리 시드는 건가요?\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0029_1",
+  "en": "Hermia says, \"Maybe it is because there is no rain. I could have stopped the tears from my eyes.\"",
+  "ko": "허미아가 말한다. \"비가 오지 않아서 그런 걸지도 몰라. 내 눈에서 흐르는 눈물을 막을 수도 있었어.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0030_1",
+  "en": "Lysander says, \"Oh dear! In every book I have ever read, and in every story I have ever heard, the path of true love is never smooth. But either it was different in blood—\"",
+  "ko": "라이샌더가 말한다. \"오, 세상에! 내가 읽은 모든 책과 들은 모든 이야기 속에서 진정한 사랑의 길은 결코 평탄하지 않았어. 하지만 혈통 때문에 달랐던 걸까—\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0031_1",
+  "en": "Hermia says, \"Oh, how cruel! It is too high to be captured by someone low.\"",
+  "ko": "허미아가 말한다. \"오, 정말 잔인해! 낮은 자가 가로채기엔 너무나 높이 있거든.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0032_1",
+  "en": "Lysander says, \"Or else it was a mistake because of age—\"",
+  "ko": "라이샌더가 말한다. \"아니면 나이 때문에 실수였던 걸까—\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0033_1",
+  "en": "Hermia says, \"Oh, what spite! It is too old to be joined with someone young.\"",
+  "ko": "허미아가 말한다. \"오, 정말 얄궂기도 해! 젊은 자와 결합하기엔 너무나 오래된 것이거든.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0034_1",
+  "en": "Lysander says, \"Or else it depended on the choice of friends—\"",
+  "ko": "라이샌더가 말한다. \"아니면 친구들의 선택에 달린 문제였을지도 몰라.\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0035_1",
+  "en": "Hermia says, \"Oh, what hell! To have love chosen by another person's eyes!\"",
+  "ko": "허미아가 말한다. \"오, 정말 끔찍해! 사랑이 다른 사람의 눈에 의해 결정되다니!\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0036_1",
+  "en": "Lysander says, \"Or, if there were a connection in choice, war, death, or sickness might attack it. These things would make it last only for a moment like a sound. It would be as fast as a shadow. It would be as short as any dream. It would be as brief as lightning in a dark night.\"",
+  "ko": "라이샌더가 말한다. \"아니면 선택에 연결고리가 있더라도 전쟁이나 죽음, 혹은 질병이 닥칠 수도 있어. 그런 일들은 사랑을 소리처럼 아주 잠깐만 지속되게 만들 거야. 그건 그림자처럼 순식간에 사라질 거야. 꿈처럼 짧게 끝날 거야. 어두운 밤에 번쩍이는 번개처럼 찰나일 뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0036_2",
+  "en": "\"That light shows both heaven and earth for a second. Before a man can say, 'Look!' The darkness swallows it up. So, bright things that happen quickly are soon lost.\"",
+  "ko": "\"그 빛은 하늘과 땅을 잠깐 동안만 보여주지. '봐!'라고 말하기도 전에, 어둠이 그것을 집어삼켜 버려. 그래서 순식간에 일어나는 밝은 것들은 금방 사라지는 법이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0037_1",
+  "en": "Hermia says, \"If true lovers have ever faced problems, it is because of destiny. Then let us teach our trial to be patient. This problem is a normal part of love. It is as natural as thoughts and dreams and sighs. It is like wishes and tears that follow imagination.\"",
+  "ko": "허미아가 말한다. \"진정한 연인들이 시련을 겪는다면, 그건 운명 때문일 거야. 그러니 우리도 이 시련을 인내하며 견뎌내자. 이 문제는 사랑의 당연한 부분이야. 생각이나 꿈, 한숨만큼이나 자연스러운 일이지. 상상력이 낳은 소망이나 눈물과 같은 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0038_1",
+  "en": "Lysander says, \"That is a good point; therefore, listen to me, Hermia. I have an aunt who is a widow. She is wealthy and has no children. Her house is far from Athens. She treats me like her only son. There, gentle Hermia, I can marry you. The strict Athenian law cannot follow us to that place.\"",
+  "ko": "라이샌더가 말한다. \"좋은 지적이야. 그러니 내 말을 들어봐, 허미아. 나에게는 과부인 고모가 한 분 계셔. 그분은 부유하시고 자녀도 없으셔. 그분의 집은 아테네에서 멀리 떨어져 있어. 그분은 나를 외동아들처럼 대하시지. 거기라면, 다정한 허미아, 너와 결혼할 수 있어. 엄격한 아테네의 법이 그곳까지 따라올 수는 없으니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0038_2",
+  "en": "\"If you love me, then leave your father's house tomorrow night. I will wait for you in the woods. It is one league away from the town. I met you there once with Helena. We were celebrating a morning in May. I will wait for you at that spot.\"",
+  "ko": "\"나를 사랑한다면 내일 밤에 네 아버지 집을 떠나와. 내가 숲에서 기다릴게. 그곳은 마을에서 한 리그 정도 떨어져 있어. 거기서 예전에 헬레나와 함께 너를 만난 적이 있어. 우리는 5월의 어느 아침을 축하하고 있었지. 내가 그 장소에서 너를 기다릴게.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0039_1",
+  "en": "Hermia says, \"My dear Lysander! I swear to you by Cupid's strongest bow. I swear by his best arrow with the golden head. I swear by the simple doves of Venus. I swear by that which joins souls and helps love succeed. I swear by the fire that burned the queen of Carthage.\"",
+  "ko": "허미아가 말한다. \"사랑하는 라이샌더! 큐피드의 가장 강력한 활을 걸고 맹세해. 황금 머리가 달린 그의 가장 멋진 화살을 걸고 맹세해. 비너스의 소박한 비둘기들을 걸고 맹세해. 영혼을 하나로 묶고 사랑을 성공하게 만드는 모든 것을 걸고 맹세해. 카르타고의 여왕을 태웠던 불꽃을 걸고 맹세해.\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0039_2",
+  "en": "\"That happened when she saw the false Trojan ship. I swear by all the promises that men have ever broken. Men break more promises than women speak. In that same place you told me, I will truly meet you tomorrow.\"",
+  "ko": "\"그건 그녀가 가짜 트로이 군함을 보았을 때 일어난 일이야. 남자들이 깨뜨린 모든 약속을 걸고 맹세해. 남자들은 여자들이 말하는 것보다 훨씬 많은 약속을 어기지. 네가 말한 바로 그 장소에서, 내일 꼭 너를 만나러 갈게.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0040_1",
+  "en": "Lysander says, \"Keep your promise, love. Look, here comes Helena.\"",
+  "ko": "라이샌더가 말한다. \"약속을 지켜줘, 내 사랑. 봐, 저기 헬레나가 온다.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0041",
+  "en": "Helena enters.",
+  "ko": "헬레나가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0042_1",
+  "en": "Hermia asks, \"Goodbye, beautiful Helena! Where are you going?\"",
+  "ko": "허미아가 묻는다. \"안녕, 아름다운 헬레나! 어디 가니?\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0043_1",
+  "en": "Helena, a young Athenian woman, in love with Demetrius, says, \"Do you call me beautiful? Take back that word 'beautiful'. Demetrius loves your beauty. Oh, happy beauty! Your eyes are like guiding stars. Your voice is more charming than a bird's song. It sounds better to a shepherd's ear.\"",
+  "ko": "디미트리어스를 사랑하는 젊은 아테네 여인 헬레나가 말한다. \"네가 나를 아름답다고 부르는 거야? '아름답다'는 말은 취소해. 디미트리어스는 네 아름다움에 반했어. 오, 행복한 아름다움이여! 네 눈은 길을 인도하는 별과 같아. 네 목소리는 새의 노래보다 더 매력적이야. 목동의 귀에는 훨씬 더 좋게 들려.\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0043_2",
+  "en": "\"This happens when the wheat is green and flowers appear. Sickness is catching. If beauty were contagious, I would catch your beauty, dear Hermia, before I leave. My ear would hear your voice. My eye would see your eyes. My tongue would hear your lovely melody.\"",
+  "ko": "\"밀이 푸르고 꽃이 피는 계절에 이런 일이 생기지. 병은 옮는 법이야. 만약 아름다움도 전염된다면, 사랑하는 허미아, 내가 떠나기 전에 네 아름다움을 물려받았을 거야. 내 귀가 네 목소리를 들었겠지. 내 눈이 네 눈을 보았겠지. 내 혀가 너의 사랑스러운 선율을 들었겠지.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0043_3",
+  "en": "\"If the world were mine and Demetrius was controlled, I would give everything to be like you. Teach me how you look. Tell me how you move Demetrius's heart!\"",
+  "ko": "\"세상이 내 것이고 디미트리어스가 내 통제하에 있다면, 너처럼 되기 위해 모든 것을 바쳤을 거야. 네가 어떻게 보이는지 가르쳐줘. 어떻게 디미트리어스의 마음을 움직이는지 말해줘!\"",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0044_1",
+  "en": "Hermia says, \"I frown at him, yet he still loves me.\"",
+  "ko": "허미아가 말한다. \"내가 인상을 써도 그는 여전히 나를 사랑해.\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0045_1",
+  "en": "Helena says, \"I wish your frowns could teach my smiles how to be so effective!\"",
+  "ko": "헬레나가 말한다. \"네가 찌푸리는 얼굴이 내 미소가 효과를 발휘하는 법을 가르쳐줄 수 있다면 좋을 텐데!\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0046_1",
+  "en": "Hermia says, \"I give him curses, but he still loves me.\"",
+  "ko": "허미아가 말한다. \"내가 저주를 퍼부어도 그는 여전히 나를 사랑해.\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0047_1",
+  "en": "Helena says, \"I wish my prayers could move him to love me like that!\"",
+  "ko": "헬레나가 말한다. \"내 기도도 그가 나를 그렇게 사랑하게 만들 수 있으면 좋겠어!\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0048_1",
+  "en": "Hermia says, \"The more I hate him, the more he follows me.\"",
+  "ko": "허미아가 말한다. \"내가 그를 미워할수록 그는 나를 더 쫓아다녀.\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0049_1",
+  "en": "Helena says, \"The more I love him, the more he hates me.\"",
+  "ko": "헬레나가 말한다. \"내가 그를 사랑할수록 그는 나를 더 싫어해.\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0050_1",
+  "en": "Hermia says, \"His foolishness is not my fault, Helena.\"",
+  "ko": "허미아가 말한다. \"그의 어리석음은 내 잘못이 아니야, 헬레나.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0051_1",
+  "en": "Helena says, \"It is only because of your beauty. I wish that flaw were mine!\"",
+  "ko": "헬레나가 말한다. \"그건 단지 네 미모 때문이야. 차라리 그 결점이 내 것이었으면 좋겠어!\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0052_1",
+  "en": "Hermia says, \"Take comfort. He will not see my face anymore. Lysander and I will run away from this place. Before I met Lysander, Athens seemed like a paradise to me. What qualities in my love are so great? They have turned heaven into hell!\"",
+  "ko": "허미아가 말한다. \"위안을 삼아. 그는 더 이상 내 얼굴을 보지 못할 거야. 라이샌더와 나는 이곳을 떠날 거야. 라이샌더를 만나기 전까지 아테네는 나에게 낙원 같았어. 내 사랑의 어떤 점이 그렇게 대단하길래? 그들이 천국을 지옥으로 만들어 버렸어!\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0053_1",
+  "en": "Lysander says, \"Helen, I will tell you our plan. Tomorrow night, Phoebe will look at her face in the water. She will see the grass decorated with water like pearls. This is a time that lovers' secret meetings stay hidden. We have planned to escape through the gates of Athens.\"",
+  "ko": "라이샌더가 말한다. \"허미아, 우리 계획을 말해줄게. 내일 밤, 피비가 물에 비친 자신의 얼굴을 볼 거야. 그녀는 물방울처럼 장식된 풀밭을 보게 될 거야. 이때는 연인들의 비밀스러운 만남이 숨겨지는 시간이야. 우리는 아테네의 성문을 통해 탈출하기로 계획했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0054_1",
+  "en": "Hermia says, \"In the woods, you and I often lay on beds of primroses. We shared our dear secrets there. My Lysander and I will meet in that place. Then we will turn away from Athens. We will look for new friends and different groups. Goodbye, my dear friend. Pray for us.\"",
+  "ko": "허미아가 말한다. \"숲속에서 너와 나는 종종 제비꽃 침대 위에 누워 있었지. 그곳에서 우리는 소중한 비밀을 나누었어. 나의 라이샌더와 나는 그곳에서 만날 거야. 그러고 나서 아테네를 떠날 거야. 우리는 새로운 친구들과 다른 무리들을 찾아다닐 거야. 안녕, 나의 소중한 친구야. 우리를 위해 기도해줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0054_2",
+  "en": "\"I hope good luck brings you Demetrius! Keep your promise, Lysander. We must stop looking at things that belong to lovers. We will do this until midnight tomorrow.\"",
+  "ko": "\"행운이 너에게 디미트리어스를 데려다주길 바라! 약속을 지켜, 라이샌더. 우리는 이제 연인들의 물건들을 보는 걸 멈춰야 해. 내일 자정까지 이렇게 할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0055_1",
+  "en": "Lysander says, \"I will, my Hermia.\"",
+  "ko": "라이샌더가 말한다. \"그럴게, 나의 허미아.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0056",
+  "en": "Hermia leaves.",
+  "ko": "허미아가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0057_1",
+  "en": "Lysander goes on, \"Helena, goodbye. May Demetrius love you as much as you love him!\"",
+  "ko": "라이샌더가 말을 잇는다. \"헬레나, 안녕. 디미트리어스가 너를 사랑하는 만큼 너도 그를 사랑하길!\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0058",
+  "en": "Lysander leaves.",
+  "ko": "라이샌더가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0059_1",
+  "en": "Helena says, \"Some people are much happier than others! People in Athens think I am as beautiful as she. But that does not matter. Demetrius does not think so. He will not know what everyone else knows. He is mistaken because he loves Hermia's eyes too much.\"",
+  "ko": "헬레나가 말한다. \"어떤 사람들은 다른 사람들보다 훨씬 더 행복하다! 아테네 사람들은 내가 그녀만큼 아름답다고 생각한다. 하지만 그것은 중요하지 않다. 디미트리어스는 그렇게 생각하지 않는다. 그는 다른 모든 사람들이 아는 것을 알지 못한다. 그는 허미아의 눈을 너무 사랑한 나머지 착각에 빠졌다.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0059_2",
+  "en": "\"I am also mistaken because I admire his qualities. Love can make low and ugly things look beautiful and noble. Love does not look with the eyes, but with the mind. That is why Cupid is painted blind. Love does not have any sense of judgment. Wings without eyes show that love moves in a hurry.\"",
+  "ko": "\"나 또한 그의 자질을 동경했기에 착각에 빠졌다. 사랑은 낮고 추한 것들을 아름답고 고귀하게 보이게 할 수 있다. 사랑은 눈이 아니라 마음으로 보는 것이다. 그것이 큐피드가 눈이 먼 채로 그려진 이유다. 사랑에는 판단력이 없다. 눈 없는 날개는 사랑이 서둘러 움직인다는 것을 보여준다.\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0059_3",
+  "en": "\"Therefore, people say love is like a child. This is because love often makes mistakes in its choices. Just as playful boys break their promises during games, the boy Love breaks his promises everywhere. Before Demetrius looked at Hermia's eyes, he promised many times that he was only mine.\"",
+  "ko": "\"그러므로 사람들은 사랑을 아이와 같다고 말한다. 이는 사랑이 선택에 있어 자주 실수하기 때문이다. 장난치는 소년들이 놀이 중에 약속을 어기듯, 소년 사랑도 곳곳에서 약속을 어긴다. 디미트리어스가 허미아의 눈을 바라보기 전, 그는 여러 번 자신은 오직 내 것이라고 약속했다.\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0059_4",
+  "en": "\"When these words reached Hermia, they melted away. I will go tell him that beautiful Hermia is running away. Then he will follow her into the woods tomorrow night. If I am thanked for this information, it is a high price to pay. But I want to make my pain better.\"",
+  "ko": "\"이 말들이 허미아에게 닿았을 때, 그것들은 녹아 없어졌다. 나는 아름다운 허미아가 도망치고 있다고 그에게 말하러 갈 것이다. 그러면 그는 내일 밤 그녀를 따라 숲으로 들어갈 것이다. 만약 이 정보로 내가 감사 인사를 듣는다면, 그것은 치러야 할 대가가 큰 것이다. 하지만 나는 나의 고통을 달래고 싶다.\"",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0059_5",
+  "en": "\"I want to see him go there and come back again.\"",
+  "ko": "\"나는 그가 그곳에 갔다가 다시 돌아오는 것을 보고 싶다.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0060",
+  "en": "Helena leaves.",
+  "ko": "헬레나가 나간다.",
+  "is_header": false
+ }
+]

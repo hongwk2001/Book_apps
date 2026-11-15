@@ -1,0 +1,16 @@
+{
+ "source": "TKprof_book/books/midsummer/json",
+ "commit": "uncommitted",
+ "generated_by": "midsummer/migrate_midsummer.py",
+ "files": {
+  "ch_01.json": "3246041fa5f8b1be7517699f168c6b0f870d7422fcfa00a26fefdb4be932d401",
+  "ch_02.json": "0064e1157209f6248e37c9ecc65df8f23da5d4f7f91175d8a1a07470691df933",
+  "ch_03.json": "1b31a9133fafb25fc4f1c02ab217f1715f94b2f2a58c867a0713d7136f76c33b",
+  "ch_04.json": "59444952f74e3294263a2344cbcdd34d5274f5f5dc10a74f4ea5748d956b804a",
+  "ch_05.json": "7ace02201b1928f361ec3b58e217d32fbd3865124ae29b7c1da5d9c98f4d8fe0",
+  "ch_06.json": "a708e1ccb05180952ad94328dc1d5605d169b02f44310f717553c74d44f8237b",
+  "ch_07.json": "fbfb0cde78d84040309b18def24de079ed59de77760d1073b1e867490f111603",
+  "ch_08.json": "aed59c06084133a95c2d1e167bf2ef0fb9a461301e9d82dcfe1594347942c6b3",
+  "ch_09.json": "ebadc14706795f638875d5fb9aee84c9c16d371f4a7b4c0321a7614ef911d312"
+ }
+}

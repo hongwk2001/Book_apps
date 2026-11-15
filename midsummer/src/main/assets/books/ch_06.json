@@ -1,0 +1,1164 @@
+[
+ {
+  "id": 1,
+  "tag": "P0277",
+  "en": "Act 3, Scene 2 — Another part of the wood",
+  "ko": "3막 2장 — 숲의 다른 곳",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0277_s",
+  "en": "Puck tells Oberon about his mistake. The four lovers quarrel in the wood. Oberon and Puck fix the mix-up, and each lover is at last matched with the right partner.",
+  "ko": "퍽은 오베론에게 자신의 실수를 알린다. 네 연인이 숲에서 다툰다. 오베론과 퍽은 엉킨 일을 바로잡고, 결국 연인들은 제짝을 찾는다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0279_1",
+  "en": "Oberon enters and says, \"I wonder if Titania is awake. Then, I want to see what she looks at next. She must love that thing very much.\"",
+  "ko": "오베론이 들어와 말한다. \"티타니아가 깨어 있을지 궁금하군. 그럼 그녀가 다음에 무엇을 바라보는지 보고 싶다. 그녀는 저것을 아주 사랑하는 게 분명하다.\"",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0280",
+  "en": "Puck enters.",
+  "ko": "퍽이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0281_1",
+  "en": "Oberon goes on, \"Here comes my messenger. How are you now, mad spirit? What rules do you follow in this haunted grove?\"",
+  "ko": "오베론이 말을 잇는다. \"내 전령이 온다. 어떠냐, 미친 영혼아? 이 유령이 나오는 숲에서 어떤 규칙을 따르고 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0282_1",
+  "en": "Puck says, \"My mistress is in love with a monster. She was near her private and holy place. She was in her dull and sleeping hour. A group of low-class, rude workers were together. They work for bread at Athenian stalls. They were practicing a play.\"",
+  "ko": "퍽이 말한다. \"내 주인은 괴물과 사랑에 빠졌다. 그녀는 개인적이고 신성한 장소 근처에 있었다. 그녀는 지루하고 졸린 시간대에 있었다. 천박하고 무례한 일꾼들이 모여 있었다. 그들은 아테네 노점에서 빵을 팔며 일한다. 그들은 연극 연습을 하고 있었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0282_2",
+  "en": "\"The play is for the great Theseus's wedding day. The most foolish man of that poor group who played Pyramus in their performance, left his scene and entered into a bush. When I took him at this moment, I put a donkey's nose on his head. His Thisbe must be answered soon. And my mimic comes out now.\"",
+  "ko": "\"그 연극은 위대한 테세우스의 혼례를 위한 것이다. 그 가련한 무리 중 피라모스 역을 맡은 가장 어리석은 자가 자기 장면을 떠나 덤불 속으로 들어갔다. 내가 그를 붙잡았을 때, 그의 머리에 당나귀 코를 씌웠다. 그의 티스비는 곧 대답해야 한다. 그리고 내 흉내쟁이가 이제 나온다.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0282_3",
+  "en": "\"When they see him, they are like wild geese watched by a hunter. Or they are like birds with red heads. Many of them fly up and cry at the sound of a gun. They separate and fly wildly through the sky. At his sight, his friends fly away. And at our noise, one falls here over and over.\"",
+  "ko": "\"그들이 그를 보면 사냥꾼에게 쫓기는 야생 거위처럼 행동한다. 혹은 머리가 붉은 새들처럼 행동한다. 많은 이들이 총소리에 놀라 날아오르며 비명을 지른다. 그들은 흩어져 하늘을 가로질러 미친 듯이 날아간다. 그가 나타나자 그의 친구들은 달아난다. 그리고 우리의 소음에, 한 명이 여기서 계속 넘어진다.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0282_4",
+  "en": "\"He cries out for murder. He calls for help from Athens. Their minds are weak with fear. They are lost in their fears. Because they are scared, things begin to hurt them. Briers and thorns grab at their clothes. Some sleeves and some hats are taken from everyone.\"",
+  "ko": "\"그는 살인이라며 외친다. 그는 아테네에 도움을 요청한다. 그들의 마음은 공포로 약해졌다. 그들은 두려움에 빠졌다. 겁에 질렸기 때문에, 사물들이 그들을 아프게 하기 시작했다. 가시덤불과 가시들이 그들의 옷을 붙잡는다. 몇몇 소매와 모자들이 모두에게서 사라진다.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0282_5",
+  "en": "\"I led them away in this confused fear. And I left the lovely Pyramus there. At that moment, it happened that Titania woke up. She loved a donkey immediately.\"",
+  "ko": "\"나는 혼란스러운 공포 속에서 그들을 멀리 데려갔다. 그리고 사랑스러운 피라무스를 그곳에 남겨두었다. 그때 마침 티타니아가 깨어났다. 그녀는 즉시 당나귀를 사랑하게 되었다.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0283_1",
+  "en": "Oberon asks, \"This turned out better than I planned. But have you already put the love-juice on the Athenian's eyes? Did you do it as I told you?\"",
+  "ko": "오베론이 묻는다. \"이건 내가 계획한 것보다 더 잘 풀렸어. 하지만 벌써 아테네 사람의 눈에 사랑의 묘약을 뿌렸니? 내가 말한 대로 했어?\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0284_1",
+  "en": "Puck says, \"I caught him while he was sleeping. That part is finished. And the Athenian woman is by his side. When she wakes, she must look at him with love.\"",
+  "ko": "퍽이 말한다. \"그가 자고 있을 때 붙잡았어. 그 부분은 끝났어. 그리고 아테네 여자가 그의 옆에 있어. 그녀가 깨어나면 그를 사랑스러운 눈으로 바라볼 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0285",
+  "en": "Demetrius and Hermia enter.",
+  "ko": "디미트리어스와 허미아가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0286_1",
+  "en": "Oberon says, \"Stand close. This is the same Athenian.\"",
+  "ko": "오베론이 말한다. \"가까이 서라. 이 자는 같은 아테네 사람이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0287_1",
+  "en": "Puck says, \"This is the woman. But this man is not the one.\"",
+  "ko": "퍽이 말한다. \"이 여자가 그 여자야. 하지만 이 남자는 그 사람이 아니야.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0288_1",
+  "en": "Demetrius says, \"Oh, why do you scold him who loves you so much? Speak such bitter words only to your bitter enemy.\"",
+  "ko": "디미트리어스가 말한다. \"오, 왜 당신을 그렇게나 사랑하는 사람을 꾸중하시나요? 그런 모진 말은 당신의 원수에게만 하세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0289_1",
+  "en": "Hermia says, \"Now I only scold you. I should treat you much worse. I fear you have given me a reason to curse you. If you killed Lysander while he was sleeping, and if you are covered in his blood, then jump into the deep water. Kill me too. The sun was more faithful to the day than he was to me.\"",
+  "ko": "허미아가 말한다. \"이제 난 너를 꾸짖는 거야. 너를 훨씬 더 심하게 대해야 해. 네가 나에게 저주할 이유를 준 것 같아 두렵구나. 만약 네가 잠든 라이샌더를 죽이고 그의 피로 뒤덮였다면, 당장 깊은 물속으로 뛰어들어라. 나도 죽여버려. 태양은 그보다 나에게 더 충실했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0289_2",
+  "en": "\"Would he have stolen away from a sleeping Hermia? I would believe it just as easily that this whole earth is full of holes. And I would believe that the moon could travel through the center of the earth. It would then upset its brother, the sun, in the other part of the world.\"",
+  "ko": "\"그가 자고 있는 허미아를 데리고 도망쳤을까? 이 세상이 구멍투성이라는 말도 똑같이 믿겠어. 그리고 달이 지구 중심을 통과할 수 있다는 것도 믿겠어. 그러면 반대편 세상에 있는 형제인 태양을 방해하게 될 테니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0289_3",
+  "en": "\"It cannot be anything other than you murdered him. A murderer should look like this. He should look so dead. He should look so grim.\"",
+  "ko": "\"네가 그를 죽인 게 아니고서야 설명이 안 돼. 살인자는 이런 모습이어야 해. 그렇게 죽은 것처럼 보여야 해. 그렇게 험악해 보여야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0290_1",
+  "en": "Demetrius says, \"So should a murdered man look. And so should I look. I feel pierced through the heart by your harsh cruelty. Yet you, the murderer, look as bright and clear. You look like Venus in her shining sky.\"",
+  "ko": "디미트리어스가 말한다. \"죽임을 당한 사람이라면 그래야지. 그리고 나도 그래야 해. 너의 잔인함에 내 심장이 찔린 기분이야. 그런데 살인자인 네가 이렇게 밝고 깨끗해 보이다니. 너는 빛나는 하늘 위의 비너스처럼 보여.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0291_1",
+  "en": "Hermia asks, \"What is this to my Lysander? Where is he? Oh, good Demetrius, will you give him to me?\"",
+  "ko": "허미아가 묻는다. \"내 라이샌더에게 이게 무슨 일이지? 그는 어디에 있어? 오, 착한 디미트리어스, 그를 내게 돌려줄래?\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0292_1",
+  "en": "Demetrius says, \"I would rather give his body to my dogs.\"",
+  "ko": "디미트리어스가 말한다. \"차라리 그의 시체를 개들에게 던져주겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0293_1",
+  "en": "Hermia asks, \"Get out, dog! Get out, mean dog! You have pushed me past the limits of a woman's patience. Have you killed him then? From now on, do not be counted among men! Oh, tell the truth once! Tell the truth for my sake! Did you look at him while he was awake?\"",
+  "ko": "허미아가 묻는다. \"저리 가, 개 같은 놈! 저리 가, 못된 개야! 너는 내 인내심을 한계까지 몰아붙였어. 그럼 네가 그를 죽인 거야? 이제부터 너를 인간으로 치지 않겠어! 제발 한 번만이라도 진실을 말해! 나를 봐서라도 사실대로 말해! 그가 깨어 있을 때 쳐다봤니?\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0293_2",
+  "en": "\"And did you kill him while he was sleeping? What a brave act! Could not a worm or a snake do that? A snake did it. Because no snake with a double tongue has ever stung more than you, you serpent.\"",
+  "ko": "\"그리고 그가 자고 있을 때 죽였어? 정말 용감한 행동이구나! 벌레나 뱀도 할 수 있는 일이 아니야. 뱀이 한 짓이지. 두 개의 혀를 가진 뱀 중에서도 너보다 더 사악하게 찌른 자는 없으니까, 이 뱀 같은 놈아.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0294_1",
+  "en": "Demetrius says, \"You are wasting your feelings on a wrong feeling. I am not guilty of Lysander's blood. He is not dead, as far as I can tell.\"",
+  "ko": "디미트리어스가 말한다. \"넌 잘못된 감정에 매달리고 있어. 난 라이샌더의 피에 죄가 없어. 내가 알기로 그는 죽지 않았어.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0295_1",
+  "en": "Hermia says, \"I pray you, tell me then that he is well.\"",
+  "ko": "허미아가 말한다. \"제발 그가 무사하다고 말해줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0296_1",
+  "en": "Demetrius asks, \"And if I could, what would I gain from it?\"",
+  "ko": "디미트리어스가 묻는다. \"설령 그렇다 해도 내가 얻는 게 뭐가 있겠어?\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0297_1",
+  "en": "Hermia says, \"I will never see you again. I leave your hated presence now. Do not look at me anymore. It does not matter if he is dead or alive.\"",
+  "ko": "허미아가 말한다. \"너를 다시는 보지 않을 거야. 이제 네 혐오스러운 모습에서 벗어나겠어. 더 이상 나를 쳐다보지 마. 그가 죽었든 살았든 상관없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0298",
+  "en": "Hermia leaves.",
+  "ko": "허미아가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0299_1",
+  "en": "Demetrius says, \"I cannot follow her in this angry mood. Therefore, I will stay here for a while. The weight of sadness grows heavier. Sleep is unable to pay the debt of sorrow. Staying here for his sake will help him slightly. It will give him some small relief.\"",
+  "ko": "디미트리어스가 말한다. \"이 화난 기분으로는 그녀를 따라갈 수 없어요. 그래서 잠시 여기 머물게요. 슬픔의 무게가 점점 더 무거워져요. 잠으로도 이 슬픔을 씻어낼 수 없어요. 그를 위해 여기 머무는 게 그에게 조금이라도 도움이 될 거예요. 그에게 작은 위안이 될 거예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0300",
+  "en": "Demetrius lies down.",
+  "ko": "디미트리어스가 눕는다.",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0301_1",
+  "en": "Oberon says, \"What have you done? You made a big mistake. You put the love juice on the eyes of a true lover. Your mistake will cause a problem. A true love will turn away. A false love will not become true.\"",
+  "ko": "오베론이 말한다. \"네가 무슨 짓을 저질렀는지 아느냐? 큰 실수를 했구나. 진정한 사랑을 하는 사람의 눈에 사랑의 묘약을 뿌렸어. 너의 실수로 문제가 생길 것이다. 진실한 사랑은 멀어질 것이고, 거짓된 사랑은 진실해지지 않을 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0302_1",
+  "en": "Puck says, \"Then fate rules everything. One man keeps his promise. But millions of others fail. Many oaths are confused with other oaths.\"",
+  "ko": "퍽이 말한다. \"그럼 운명이 모든 것을 결정하는 거지. 어떤 사람은 약속을 지키지만, 수많은 다른 이들은 실패한다. 많은 맹세가 서로 뒤섞여버리니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0303_1",
+  "en": "Oberon says, \"Go through the woods faster than the wind. Find Helena of Athens. She is very sad and pale. She sighs because she is in love. This love costs her a lot of energy. Bring her here using some illusion. I will cast a spell on his eyes. He will not see her when she appears.\"",
+  "ko": "오베론이 말한다. \"바람보다 빠르게 숲을 가로질러 가라. 아테네의 헬레나를 찾아내라. 그녀는 매우 슬퍼하고 창백한 얼굴이다. 사랑에 빠져 한숨을 내쉬고 있지. 이 사랑 때문에 그녀는 기운을 많이 소모하고 있다. 환상을 써서 그녀를 이곳으로 데려와라. 나는 그의 눈에 마법을 걸 것이다. 그녀가 나타나도 그는 그녀를 보지 못할 것이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0304_1",
+  "en": "Puck says, \"I am going, I am going. Look at how fast I go. I am faster than an arrow from the Tartar's bow.\"",
+  "ko": "퍽이 말한다. \"알았어, 지금 바로 갈게. 내가 얼마나 빨리 가는지 봐. 난 타르타로스의 활에서 쏜 화살보다 빠르니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0305",
+  "en": "Puck leaves.",
+  "ko": "퍽이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0306_1",
+  "en": "Oberon says, \"Flower of this purple color, hit by Cupid's arrows, sink into the apple of his eye. When he sees his love, let her shine as brightly as the Venus in the sky. When you wake up, if she is near, ask her for a cure.\"",
+  "ko": "오베론이 말한다. \"이 보랏빛 꽃아, 큐피드의 화살을 맞고 그의 눈동자에 스며들어라. 그가 사랑하는 사람을 볼 때, 그녀가 하늘의 금성처럼 밝게 빛나게 해라. 네가 깨어났을 때 그녀가 근처에 있다면, 치료법을 물어라.\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0308_1",
+  "en": "Puck enters and says, \"Captain of our fairy band, Helena is close by. And the youth was mistaken by me. He is begging for a lover's fee. Shall we see their silly performance? Lord, what fools these mortals be!\"",
+  "ko": "퍽이 들어와 말한다. \"우리 요정 부대의 대장, 헬레나가 근처에 있어. 그리고 그 청년은 내 실수로 속았어. 그는 연인에게 매달리고 있어. 저들의 우스꽝스러운 연극을 구경해 볼까? 주님, 이 인간들이 얼마나 바보 같은지 좀 봐!\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0309_1",
+  "en": "Oberon says, \"Stand aside. The noise they make will wake Demetrius.\"",
+  "ko": "오베론이 말한다. \"비켜. 그들이 내는 소음 때문에 디미트리어스가 깨어날 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0310_1",
+  "en": "Puck says, \"Then two will woo one at the same time. That must be funny alone. And those things please me most that happen in a ridiculous way.\"",
+  "ko": "퍽이 말한다. \"그러면 두 사람이 동시에 한 사람을 유혹하게 되겠지. 그것만으로도 충분히 재미있을 거야. 그리고 나는 우스꽝스러운 방식으로 일어나는 일들을 가장 좋아해.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0311",
+  "en": "Lysander and Helena enter.",
+  "ko": "라이샌더와 헬레나가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0312_1",
+  "en": "Lysander says, \"Why do you think I am trying to mock you? Scorn and mockery never cause tears. Look, I cry when I make my promises. Promises born of such feelings show the truth from the start. How can these things seem like mockery to you? They show signs of faith to prove they are true.\"",
+  "ko": "라이샌더가 말한다. \"내가 당신을 조롱하려 한다고 왜 생각하세요? 경멸과 조롱은 결코 눈물을 흘리게 하지 않아요. 보세요, 저는 약속을 할 때 울었어요. 그런 감정에서 나온 약속은 처음부터 진실을 보여줘요. 이런 일들이 어떻게 당신에게 조롱처럼 보일 수 있나요? 그것들은 약속이 진짜임을 증명하는 믿음의 표시예요.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0313_1",
+  "en": "Helena says, \"You are becoming more and more clever. When truth kills truth, oh what a devilish-holy fight! These promises belong to Hermia. Will you give her up? If you weigh one oath against another, they will have no weight. Your promises to her and me are equal in the scales.\"",
+  "ko": "헬레나가 말한다. \"너는 점점 더 영리해지고 있어. 진실이 진실을 죽일 때, 오, 얼마나 사악하면서도 성스러운 싸움인가! 이 약속들은 허미아의 것이야. 그녀를 포기할 거야? 약속과 약속을 저울질해 보면 무게가 전혀 없을 거야. 그녀와 나에게 한 네 약속은 저울 위에서 똑같아.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0313_2",
+  "en": "\"Both are as light as stories.\"",
+  "ko": "\"둘 다 이야기만큼이나 가벼워.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0314_1",
+  "en": "Lysander says, \"I had no judgment when I made those promises to her.\"",
+  "ko": "라이샌더가 말한다. \"그녀에게 그런 약속을 할 때는 아무런 생각도 없었어.\"",
+  "is_header": false
+ },
+ {
+  "id": 46,
+  "tag": "P0315_1",
+  "en": "Helena says, \"And I have none now that you give her up.\"",
+  "ko": "헬레나가 말한다. \"그리고 네가 그녀를 포기했으니, 이제 내게는 아무것도 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 47,
+  "tag": "P0316_1",
+  "en": "Lysander says, \"Demetrius loves her. He does not love you.\"",
+  "ko": "라이샌더가 말한다. \"디미트리어스가 그녀를 사랑해. 그는 너를 사랑하지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 48,
+  "tag": "P0317",
+  "en": "Demetrius wakes up.",
+  "ko": "디미트리어스가 깨어난다.",
+  "is_header": false
+ },
+ {
+  "id": 49,
+  "tag": "P0318_1",
+  "en": "Demetrius says, \"O goddess, nymph, perfect, and divine! To what should I compare your eyes? Crystal is muddy. How ripe your lips look like kissing cherries! They are growing tempting! That pure white snow on high Taurus, blown by the eastern wind, turns black when you hold up your hand.\"",
+  "ko": "디미트리어스가 말한다. \"오, 여신이여, 요정이며 완벽하고 신성한 존재여! 그대의 눈을 무엇에 비유해야 할까? 수정은 탁하다. 그대의 입술은 마치 잘 익은 체리를 입 맞춘 듯해! 점점 더 유혹적으로 변하는구나! 동풍에 날리는 높은 타우루스의 순백의 눈은 그대가 손을 들면 검게 변한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 50,
+  "tag": "P0318_2",
+  "en": "\"Let me kiss this princess of pure white! Let me kiss this seal of bliss!\"",
+  "ko": "\"이 순백의 공주에게 입맞추게 해다오! 이 행복의 인장에 입맞추게 해다오!\"",
+  "is_header": false
+ },
+ {
+  "id": 51,
+  "tag": "P0319_1",
+  "en": "Helena says, \"Oh, how mean of you! You are all trying to hurt me for your own fun. If you were polite and knew manners, you would not hurt me like this. Can you not just hate me? Do you have to join together to mock me too? If you were real men, you would not treat a lady this way.\"",
+  "ko": "헬레나가 말한다. \"어머, 정말 못됐구나! 너희는 단지 재미로 나를 괴롭히고 있어. 예의와 매너를 알았다면 나를 이렇게 대하지 않았을 거야. 그냥 나를 미워하면 안 돼? 꼭 떼를 지어 나를 조롱해야겠니? 진정한 남자라면 숙녀를 이런 식으로 대하지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 52,
+  "tag": "P0319_2",
+  "en": "\"You promised to love me and praised me before. But I am sure you hate me in your hearts. You are both rivals who love Hermia. Now you are both rivals trying to mock Helena. It is a clever plan to make a poor girl cry with your jokes. No noble man would insult a virgin like this.\"",
+  "ko": "\"너희는 나를 사랑한다고 약속했고 찬사도 보냈잖아. 하지만 속으로는 나를 미워하고 있다는 걸 알아. 너희 둘은 허미아를 사랑하는 경쟁자일 뿐이야. 이제는 너희 둘이 헬레나를 조롱하려는 경쟁자가 되었네. 농담으로 가련한 소녀를 울게 만드는 건 아주 영악한 계획이야. 품격 있는 남자라면 처녀를 이렇게 모욕하지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 53,
+  "tag": "P0319_3",
+  "en": "\"No one would test her patience just for your fun.\"",
+  "ko": "\"단지 재미를 위해 누군가의 인내심을 시험하는 일은 아무도 하지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 54,
+  "tag": "P0320_1",
+  "en": "Lysander says, \"You are unkind, Demetrius. Do not be so mean. You love Hermia, and I know that you know it. I give up my claim to her with all my heart. I leave my part in her love to you. Give your love of Helena to me. I love her and will love her until my death.\"",
+  "ko": "라이샌더가 말한다. \"너는 참 야박하구나, 디미트리어스. 그렇게 못되게 굴지 마. 넌 허미아를 사랑하고, 너도 그걸 알고 있어. 나는 그녀에 대한 내 권리를 진심으로 포기할게. 그녀의 사랑 중 내 몫을 네게 양보할게. 대신 네가 헬레나를 향한 마음을 나에게 줘. 난 그녀를 사랑하고 죽을 때까지 사랑할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 55,
+  "tag": "P0321_1",
+  "en": "Helena says, \"No mockers have ever wasted more breath than you.\"",
+  "ko": "헬레나가 말한다. \"너희만큼 비아냥거리느라 숨을 낭비하는 사람도 없었어.\"",
+  "is_header": false
+ },
+ {
+  "id": 56,
+  "tag": "P0322_1",
+  "en": "Demetrius says, \"Lysander, keep your Hermia. I want no one. If I ever loved her, all that love is gone. My heart stayed with her only as a guest. Now my heart has returned home to her. It will stay there.\"",
+  "ko": "디미트리어스가 말한다. \"라이샌더, 허미아는 네가 가져. 난 아무도 원하지 않아. 내가 그녀를 사랑했다면 그 마음은 이제 사라졌어. 내 마음은 그저 손님으로 머물렀을 뿐이야. 이제 내 마음은 원래 있던 곳으로 돌아왔어. 그곳에 계속 머물 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 57,
+  "tag": "P0323_1",
+  "en": "Lysander says, \"It is not so.\"",
+  "ko": "라이샌더가 말한다. \"그렇지 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 58,
+  "tag": "P0324_1",
+  "en": "Demetrius says, \"Do not speak about a faith you do not know. You might find it valuable and put yourself in danger. Look where your love is. Your beloved is over there.\"",
+  "ko": "디미트리어스가 말한다. \"네가 모르는 믿음에 대해 말하지 마. 그게 가치 있다고 생각해서 위험에 처할 수도 있어. 네 사랑이 어디 있는지 봐. 네가 사랑하는 사람은 저기 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 59,
+  "tag": "P0326_1",
+  "en": "Hermia enters and says, \"The dark night takes away the sight from his eyes. It makes the ears more sensitive to sounds. While it hurts the sense of seeing, it gives the hearing double reward. I did not find you with my eyes, Lysander. My ears brought me to your sound, and I thank them.\"",
+  "ko": "허미아가 들어와 말한다. \"어두운 밤은 눈을 멀게 해. 대신 귀는 소리에 더 민감해지지. 시각은 방해받지만 청각은 두 배로 보상을 받으니까. 라이샌더, 난 내 눈으로 널 찾은 게 아니야. 내 귀가 네 목소리를 찾아냈고, 난 그게 고마워.\"",
+  "is_header": false
+ },
+ {
+  "id": 60,
+  "tag": "P0326_2",
+  "en": "\"But why did you leave me alone so unkindly?\"",
+  "ko": "\"그런데 왜 그렇게도 매정하게 나를 혼자 두고 떠난 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 61,
+  "tag": "P0327_1",
+  "en": "Lysander asks, \"Why should he stay when love pushes him to go?\"",
+  "ko": "라이샌더가 묻는다. \"사랑이 그를 떠나게 밀어내는데 왜 머물러야 하겠어?\"",
+  "is_header": false
+ },
+ {
+  "id": 62,
+  "tag": "P0328_1",
+  "en": "Hermia asks, \"What love could push Lysander away from my side?\"",
+  "ko": "허미아가 묻는다. \"어떤 사랑이 라이샌더를 내 곁에서 떠나게 만들었을까?\"",
+  "is_header": false
+ },
+ {
+  "id": 63,
+  "tag": "P0329_1",
+  "en": "Lysander says, \"Lysander's love would not let him stay. He loves beautiful Helena. She shines more in the night than all those bright stars. Why do you look for me? Does this not show you my hatred for you? That hate made me leave you.\"",
+  "ko": "라이샌더가 말한다. \"라이샌더의 사랑은 그를 머물게 두지 않았어. 그는 아름다운 헬레나를 사랑해. 그녀는 밤하늘의 모든 밝은 별들보다 더 빛나거든. 왜 나를 찾는 거야? 이게 내가 너를 미워한다는 걸 보여주는 게 아니야? 그 증오 때문에 난 너를 떠난 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 64,
+  "tag": "P0330_1",
+  "en": "Hermia says, \"You are not speaking as you think. It cannot be true.\"",
+  "ko": "허미아가 말한다. \"네 말은 네 생각만큼 정확하지 않아. 그럴 리가 없어.\"",
+  "is_header": false
+ },
+ {
+  "id": 65,
+  "tag": "P0331_1",
+  "en": "Helena asks, \"Look, she is part of this group! Now I see they have joined together. They are all acting in this fake game against me. Unfair Hermia, you are very ungrateful! Did you plan this with them? Did you set this trap to mock me? Is all the advice we shared forgotten?\"",
+  "ko": "헬레나가 묻는다. \"봐, 저 여자도 이 무리에 속해 있어! 이제 그들이 한편이 된 게 보이네. 그들은 모두 나를 상대로 가짜 게임을 벌이고 있어. 어머나 허미아, 넌 정말 배은망덕하구나! 너 저들과 공모한 거야? 나를 비웃으려고 이런 함정을 판 거야? 우리가 함께 나눈 조언들을 다 잊은 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 66,
+  "tag": "P0331_2",
+  "en": "\"Are our sisters' promises and the hours we spent together gone? We complained when time moved too fast and separated us. Is our school-day friendship and childhood innocence gone? Hermia, we were like two artificial gods. We created one flower with our needles.\"",
+  "ko": "\"우리 자매들의 약속과 우리가 함께 보낸 시간들이 사라진 거야? 시간이 너무 빨리 흘러서 우리를 갈라놓을 때 우리는 불평했잖아. 우리의 학창 시절 우정과 어린 시절의 순수함도 사라진 거야? 허미아, 우리는 마치 두 명의 솜씨 좋은 여신 같았어. 우리는 바늘로 꽃 한 송이를 함께 만들었지.\"",
+  "is_header": false
+ },
+ {
+  "id": 67,
+  "tag": "P0331_3",
+  "en": "\"We sat on one cushion and worked on one piece of cloth. We sang the same song in the same key. It was as if our hands, bodies, voices, and minds were one. We grew together like a double cherry. They looked separate but were joined. They were two berries on one stem.\"",
+  "ko": "\"우리는 쿠션 하나에 앉아 천 한 조각을 같이 수놓았어. 우리는 같은 음조로 같은 노래를 불렀어. 마치 우리의 손과 몸, 목소리와 마음이 하나인 것처럼 말이야. 우리는 쌍체 체리처럼 함께 자랐어. 따로 보였지만 사실은 연결되어 있었지. 그것들은 한 줄기에 달린 두 개의 열매였어.\"",
+  "is_header": false
+ },
+ {
+  "id": 68,
+  "tag": "P0331_4",
+  "en": "\"We had two bodies but only one heart. We were like two coats with the same design. They belonged to one person and had one crown. Will you break our old love apart? Will you join with men who mock your poor friend? It is not friendly, and it is not lady-like.\"",
+  "ko": "\"우리는 몸은 둘이었지만 마음은 하나뿐이었어. 우리는 같은 디자인을 가진 두 벌의 코트 같았어. 그것들은 한 사람에게 속했고 하나의 왕관을 가졌지. 너는 우리의 오래된 사랑을 깨뜨릴 거야? 가여운 친구를 비웃는 남자들과 어울릴 거야? 그건 우정 어린 행동도 아니고, 숙녀다운 행동도 아니야.\"",
+  "is_header": false
+ },
+ {
+  "id": 69,
+  "tag": "P0331_5",
+  "en": "\"Our sex, as well as I, may scold you for this. Only I feel the hurt.\"",
+  "ko": "\"나뿐만 아니라 우리 성질도 이런 네 행동을 꾸짖을 거야. 상처받은 건 나뿐이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 70,
+  "tag": "P0332_1",
+  "en": "Hermia says, \"I am surprised by your passionate words. I do not look down on you. It seems that you are looking down on me.\"",
+  "ko": "허미아가 말한다. \"네 열정적인 말에 놀랐어. 난 널 무시하는 게 아니야. 오히려 네가 나를 무시하는 것 같아.\"",
+  "is_header": false
+ },
+ {
+  "id": 71,
+  "tag": "P0333_1",
+  "en": "Helena asks, \"Did you not tell Lysander to follow me? Did you tell him to praise my eyes and face? And did you make your other love, Demetrius, who just kicked me with his foot, call me a goddess, nymph, divine, and rare? Why does he say these things to her whom he hates?\"",
+  "ko": "헬레나가 묻는다. \"라이샌더에게 나를 따르라고 말한 적 없어? 그에게 내 눈과 얼굴을 찬양하라고 말했어? 그리고 방금 나를 발로 찬 네 다른 사랑, 디미트리어스에게 내가 여신이나 요정처럼 신성하고 특별하다고 말했어? 왜 그는 자기가 싫어하는 여자에게 그런 말을 하는 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 72,
+  "tag": "P0333_2",
+  "en": "\"And why does Lysander deny your love? He has so much love in his soul. He shows me affection only because you told him to. What if I am not as graceful as you? What if I am not so loved or lucky? I am miserable because I love someone who does not love me.\"",
+  "ko": "\"그리고 왜 라이샌더는 너의 사랑을 거부하는 거야? 그의 영혼에는 사랑이 가득해. 그가 나에게 호감을 보이는 건 단지 네가 시켰기 때문이야. 만약 내가 너만큼 우아하지 않다면 어떡할 거야? 내가 그렇게 사랑받거나 운이 좋지 않다면 어떡할 거야? 나는 나를 사랑하지 않는 사람을 사랑해서 비참해.\"",
+  "is_header": false
+ },
+ {
+  "id": 73,
+  "tag": "P0333_3",
+  "en": "\"You should pity me instead of looking down on me.\"",
+  "ko": "\"나를 무시하는 대신 가엽게 여겨줘야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 74,
+  "tag": "P0334_1",
+  "en": "Hermia says, \"I do not understand what you mean by this.\"",
+  "ko": "허미아가 말한다. \"네가 무슨 말을 하는 건지 모르겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 75,
+  "tag": "P0335_1",
+  "en": "Helena says, \"Yes, you do. Keep going. Pretend to look sad. Make faces at me when I turn my back. Wink at each other. Continue this charming joke. If you have any pity or kindness, you would not make me argue like this. But it is fine. It is partly my own fault.\"",
+  "ko": "헬레나가 말한다. \"응, 알고 있어. 계속해 봐. 슬픈 표정을 지어. 내가 뒤돌아설 때 나를 보고 익살스러운 표정을 지어. 서로 윙크도 하고. 이 매력적인 농담을 계속 이어가 봐. 네가 조금이라도 동정심이나 친절함이 있다면, 내가 이렇게 말다툼하게 만들지 않았을 거야. 하지만 괜찮아. 내 잘못도 어느 정도 있으니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 76,
+  "tag": "P0335_2",
+  "en": "\"Death or absence will soon fix this.\"",
+  "ko": "\"죽음이나 부재가 곧 이 문제를 해결해 줄 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 77,
+  "tag": "P0336_1",
+  "en": "Lysander says, \"Stop, gentle Helena. Listen to my excuse. My love, my life, and my soul, beautiful Helena!\"",
+  "ko": "라이샌더가 말한다. \"멈춰, 착한 헬레나. 내 변명을 들어봐. 내 사랑, 내 생명, 내 영혼, 아름다운 헬레나!\"",
+  "is_header": false
+ },
+ {
+  "id": 78,
+  "tag": "P0337_1",
+  "en": "Helena says, \"Oh, how excellent!\"",
+  "ko": "헬레나가 말한다. \"오, 정말 멋지다!\"",
+  "is_header": false
+ },
+ {
+  "id": 79,
+  "tag": "P0338_1",
+  "en": "Hermia says, \"Dear one, do not scorn her so.\"",
+  "ko": "허미아가 말한다. \"그대여, 그녀를 그렇게 무시하지 마.\"",
+  "is_header": false
+ },
+ {
+  "id": 80,
+  "tag": "P0339_1",
+  "en": "Demetrius says, \"If she cannot beg you, I can force you.\"",
+  "ko": "디미트리어스가 말한다. \"그녀가 부탁할 수 없다면, 내가 강제로 시킬 수 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 81,
+  "tag": "P0340_1",
+  "en": "Lysander says, \"You cannot force me any more than she can beg me. Your threats have no more power than her weak prayers. Helen, I love you with my life. I swear by what I will lose for you. I prove him wrong when he says I do not love you.\"",
+  "ko": "라이샌더가 말한다. \"그녀가 애원하는 것만큼 너도 나를 강요할 수 없어. 네 협박은 그녀의 약한 기도보다 아무런 힘이 없어. 헬레나, 난 목숨을 다해 널 사랑해. 너를 위해 잃게 될 것들을 걸고 맹세해. 내가 널 사랑하지 않는다는 그의 말은 틀렸어.\"",
+  "is_header": false
+ },
+ {
+  "id": 82,
+  "tag": "P0341_1",
+  "en": "Demetrius says, \"I say that I love you more than he can.\"",
+  "ko": "디미트리어스가 말한다. \"그보다 내가 너를 더 사랑한다고 말하는 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 83,
+  "tag": "P0342_1",
+  "en": "Lysander says, \"If you say so, go away. Prove it as well.\"",
+  "ko": "라이샌더가 말한다. \"네가 그렇게 말한다면, 이제 가버려. 증명도 똑같이 해봐.\"",
+  "is_header": false
+ },
+ {
+  "id": 84,
+  "tag": "P0343_1",
+  "en": "Demetrius says, \"Quick, come.\"",
+  "ko": "디미트리어스가 말한다. \"빨리, 이리 와.\"",
+  "is_header": false
+ },
+ {
+  "id": 85,
+  "tag": "P0344_1",
+  "en": "Hermia asks, \"Lysander, where is all this going?\"",
+  "ko": "허미아가 묻는다. \"라이샌더, 이게 대체 무슨 상황이야?\"",
+  "is_header": false
+ },
+ {
+  "id": 86,
+  "tag": "P0345_1",
+  "en": "Lysander says, \"Go away, you Ethiope!\"",
+  "ko": "라이샌더가 말한다. \"저리 가, 이 에티오피아 놈아!\"",
+  "is_header": false
+ },
+ {
+  "id": 87,
+  "tag": "P0346_1",
+  "en": "Demetrius says, \"No, no. He will seem to break free. Follow him as you want to. But do not come here. You are a tame man, go!\"",
+  "ko": "디미트리어스가 말한다. \"아니, 아니. 그는 도망칠 거야. 원하는 대로 쫓아가 봐. 하지만 여기로 오지는 마. 넌 길들여진 사람이야, 가버려!\"",
+  "is_header": false
+ },
+ {
+  "id": 88,
+  "tag": "P0347_1",
+  "en": "Lysander says, \"Let go, you cat! You burr! You vile thing, let go! Or I will shake you from me like a serpent.\"",
+  "ko": "라이샌더가 말한다. \"이 고양이 같은 놈아, 놓으라! 이 성가신 녀석! 비열한 것아, 놓으라고! 안 그러면 뱀처럼 떼어내 버릴 테다.\"",
+  "is_header": false
+ },
+ {
+  "id": 89,
+  "tag": "P0348_1",
+  "en": "Hermia asks, \"Why have you become so rude? What change is this, dear love?\"",
+  "ko": "허미아가 묻는다. \"왜 이렇게 무례하게 구는 거야? 사랑하는 이여, 이게 무슨 변화야?\"",
+  "is_header": false
+ },
+ {
+  "id": 90,
+  "tag": "P0349_1",
+  "en": "Lysander says, \"Your love? Out, tawny Tartar, out! Out, hated medicine! Oh hated potion, go away!\"",
+  "ko": "라이샌더가 말한다. \"네 사랑이라고? 이 황색 타르타로스 놈아, 물러가라! 증오스러운 약물아, 사라져라! 오, 저주스러운 묘약아, 저리 가!\"",
+  "is_header": false
+ },
+ {
+  "id": 91,
+  "tag": "P0350_1",
+  "en": "Hermia asks, \"Are you not joking?\"",
+  "ko": "허미아가 묻는다. \"농담하는 거 아니지?\"",
+  "is_header": false
+ },
+ {
+  "id": 92,
+  "tag": "P0351_1",
+  "en": "Helena says, \"Yes, I am telling the truth. And so are you.\"",
+  "ko": "헬레나가 말한다. \"응, 난 진실을 말하고 있어. 너도 마찬가지야.\"",
+  "is_header": false
+ },
+ {
+  "id": 93,
+  "tag": "P0352_1",
+  "en": "Lysander says, \"Demetrius, I will keep my promise to you.\"",
+  "ko": "라이샌더가 말한다. \"디미트리어스, 네게 한 약속을 지킬게.\"",
+  "is_header": false
+ },
+ {
+  "id": 94,
+  "tag": "P0353_1",
+  "en": "Demetrius says, \"I wish I had your agreement. I see that your bond is weak. I will not trust your word.\"",
+  "ko": "디미트리어스가 말한다. \"네 동의를 얻었으면 좋았겠지만. 네 결심은 약해 보여. 네 말을 믿지 않겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 95,
+  "tag": "P0354_1",
+  "en": "Lysander says, \"Should I hurt her? Should I hit her? Should I kill her? Even though I hate her, I will not harm her like that.\"",
+  "ko": "라이샌더가 말한다. \"내가 그녀를 다치게 해야 할까? 그녀를 때려야 할까? 그녀를 죽여야 할까? 그녀가 미워도 그런 식으로 해치지는 않을 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 96,
+  "tag": "P0355_1",
+  "en": "Hermia says, \"Can you hurt me more than by hating me? Hate me? Why? Oh me! What is the news, my love? Am I not Hermia? Are you not Lysander? I am as beautiful now as I was before. You loved me since last night. But you left me since last night. Why did you leave me? Oh, the gods forbid!\"",
+  "ko": "허미아가 말한다. \"나를 미워하는 것보다 더 나를 아프게 할 수 있어? 나를 미워해? 왜? 아, 내 팔자야! 내 사랑, 무슨 소식이야? 내가 허미아가 아니니? 네가 라이샌더가 아니야? 난 예전이나 지금이나 똑같이 아름다워. 넌 어젯밤부터 나를 사랑했잖아. 하지만 넌 어젯밤부터 나를 떠났어. 왜 나를 떠난 거야? 오, 신들이시여!\"",
+  "is_header": false
+ },
+ {
+  "id": 97,
+  "tag": "P0355_2",
+  "en": "\"Am I speaking seriously?\"",
+  "ko": "\"내가 진지하게 말하고 있는 거니?\"",
+  "is_header": false
+ },
+ {
+  "id": 98,
+  "tag": "P0356_1",
+  "en": "Lysander says, \"Yes, I swear by my life. I never wanted to see you anymore. Therefore, have no hope. Have no questions. Have no doubts. Be certain of this truth. It is not a joke. I hate you and I love Helena.\"",
+  "ko": "라이샌더가 말한다. \"그래, 내 목숨을 걸고 맹세해. 나는 더 이상 너를 보고 싶지 않아. 그러니 희망을 버려. 질문도 하지 마. 의심도 하지 마. 이 진실을 확신해. 농담이 아니야. 난 네가 싫고 헬레나를 사랑해.\"",
+  "is_header": false
+ },
+ {
+  "id": 99,
+  "tag": "P0357_1",
+  "en": "Hermia asks, \"Oh me! You trickster! You blossom-destroyer! You thief of love! Did you come by night? Did you steal my lover's heart from him?\"",
+  "ko": "허미아가 묻는다. \"아, 내 팔자야! 이 사기꾼! 꽃을 망치는 자여! 사랑을 훔치는 도둑! 밤에 몰래 온 거니? 내 연인의 마음을 그에게서 훔쳐간 거야?\"",
+  "is_header": false
+ },
+ {
+  "id": 100,
+  "tag": "P0358_1",
+  "en": "Helena says, \"Fine, I believe you! Do you have no modesty? Do you have no maiden shame? Do you have no sense of bashfulness? Do you want to force harsh answers from my gentle tongue? Shame on you, you fake! You are a puppet!\"",
+  "ko": "헬레나가 말한다. \"좋아, 네 말을 믿을게! 부끄러운 줄도 모르니? 처녀로서의 수치심도 없어? 조금도 부끄럽지 않아? 내 부드러운 입에서 거친 대답을 억지로 끌어내려는 거야? 가짜 주제에 정말 뻔뻔하구나! 넌 꼭 꼭두각시 같아!\"",
+  "is_header": false
+ },
+ {
+  "id": 101,
+  "tag": "P0359_1",
+  "en": "Hermia asks, \"Puppet! Why do you say that? Yes, the game is going that way. Now I see that she has compared our heights. She has emphasized her own height. She used her tall appearance to win him over. Have you become so high in his eyes because I am so small? How low am I, you painted maypole?\"",
+  "ko": "허미아가 묻는다. \"꼭두각시라니! 왜 그렇게 말해? 그래, 상황이 그렇게 흘러가고 있어. 이제야 그녀가 우리 키를 비교했다는 걸 알겠어. 그녀는 자기 키가 큰 걸 강조했지. 자신의 큰 키를 이용해 그를 유혹한 거야. 내가 작으니까 네가 그의 눈에 더 커 보인다는 거야? 이 색칠된 장대 같은 애야, 내가 얼마나 작아 보이는데?\"",
+  "is_header": false
+ },
+ {
+  "id": 102,
+  "tag": "P0359_2",
+  "en": "\"Tell me, how low am I? I am not so low that my nails cannot reach your eyes.\"",
+  "ko": "\"말해봐, 내가 얼마나 작아 보여? 내 손톱이 네 눈에 닿지 못할 정도로 내가 작지는 않아.\"",
+  "is_header": false
+ },
+ {
+  "id": 103,
+  "tag": "P0360_1",
+  "en": "Helena says, \"Please, gentlemen, even though you mock me, do not let her hurt me. I was never cursed. I have no talent for being mean. I am a true girl because of my cowardice. Do not let her hit me. You might think I can fight her because she is shorter than me.\"",
+  "ko": "헬레나가 말한다. \"제발, 얘들아, 네가 날 비웃더라도 그녀가 나를 다치게 내버려 두지 마. 난 저주받은 적 없어. 나는 못되게 구는 재주도 없어. 내 겁 많은 성격이 바로 내가 진짜 여자라는 증거야. 그녀가 나를 때리게 하지 마. 그녀가 나보다 키가 작으니까 내가 이길 수 있을 거라고 생각할지도 모르겠지만 말이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 104,
+  "tag": "P0361_1",
+  "en": "Hermia says, \"Lower! Listen, she said it again.\"",
+  "ko": "허미아가 말한다. \"더 낮게! 들어봐, 그녀가 방금 또 말했어.\"",
+  "is_header": false
+ },
+ {
+  "id": 105,
+  "tag": "P0362_1",
+  "en": "Helena says, \"Good Hermia, do not be so angry with me. I always loved you, Hermia. I always kept your secrets. I never wronged you. Except that I told Demetrius about your secret trip to this wood. He followed you. I followed him because of love.\"",
+  "ko": "헬레나가 말한다. \"착한 허미아, 나한테 너무 화내지 마. 난 항상 널 사랑했어, 허미아. 난 늘 네 비밀을 지켜줬어. 난 한 번도 널 잘못 대하지 않았어. 네가 이 숲으로 몰래 온 걸 디미트리어스에게 말한 것만 빼고 말이야. 그는 널 따라왔어. 나는 사랑 때문에 그를 뒤쫓았어.\"",
+  "is_header": false
+ },
+ {
+  "id": 106,
+  "tag": "P0362_2",
+  "en": "\"But he scolded me and told me to go away from here. He threatened to hit me, reject me, and even kill me. Now, if you let me leave in peace, I will take my foolish actions back to Athens. I will not follow you any further. Let me go. You can see how simple and how foolish I am.\"",
+  "ko": "\"하지만 그는 나를 꾸짖으며 여기서 떠나라고 했어. 그는 나를 때리고, 거절하고, 심지어 죽이겠다고 협박했어. 이제 네가 평화롭게 떠나게 해준다면, 내 어리석은 행동들을 모두 취소하고 아테네로 돌아갈게. 더 이상 널 뒤쫓지 않을게. 날 가게 해줘. 내가 얼마나 단순하고 어리석은지 알 수 있잖아.\"",
+  "is_header": false
+ },
+ {
+  "id": 107,
+  "tag": "P0363_1",
+  "en": "Hermia asks, \"Why, go away. Who is stopping you?\"",
+  "ko": "허미아가 묻는다. \"어머, 저리 가. 누가 널 막고 있는데?\"",
+  "is_header": false
+ },
+ {
+  "id": 108,
+  "tag": "P0364_1",
+  "en": "Helena says, \"A foolish heart that I left behind here.\"",
+  "ko": "헬레나가 말한다. \"여기에 두고 온 어리석은 마음이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 109,
+  "tag": "P0365_1",
+  "en": "Hermia asks, \"What! With Lysander?\"",
+  "ko": "허미아가 묻는다. \"뭐라고? 라이샌더랑?\"",
+  "is_header": false
+ },
+ {
+  "id": 110,
+  "tag": "P0366_1",
+  "en": "Helena says, \"With Demetrius.\"",
+  "ko": "헬레나가 말한다. \"디미트리어스랑.\"",
+  "is_header": false
+ },
+ {
+  "id": 111,
+  "tag": "P0367_1",
+  "en": "Lysander says, \"Do not be afraid. She will not hurt you, Helena.\"",
+  "ko": "라이샌더가 말한다. \"무서워하지 마. 그녀는 널 해치지 않을 거야, 헬레나.\"",
+  "is_header": false
+ },
+ {
+  "id": 112,
+  "tag": "P0368_1",
+  "en": "Demetrius says, \"No, sir, she will not. I do not take her side.\"",
+  "ko": "디미트리어스가 말한다. \"아니, 그럴 일 없어. 난 그녀 편이 아니야.\"",
+  "is_header": false
+ },
+ {
+  "id": 113,
+  "tag": "P0369_1",
+  "en": "Helena says, \"Oh, when she is angry, she is sharp and smart. She was a troublemaker when she went to school. Even though she is small, she is fierce.\"",
+  "ko": "헬레나가 말한다. \"오, 화가 날 때면 정말 똑똑하고 날카로워져. 학교 다닐 때도 말썽꾸러기였어. 덩치는 작아도 아주 사나운 애야.\"",
+  "is_header": false
+ },
+ {
+  "id": 114,
+  "tag": "P0370_1",
+  "en": "Hermia says, \"Small again! Nothing but low and small? Why do you let her mock me like this? Let me go to her.\"",
+  "ko": "허미아가 말한다. \"또 작아졌네! 그냥 낮고 작기만 하잖아? 왜 그녀가 나를 이렇게 비웃게 내버려 둬? 그녀에게 가게 해줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 115,
+  "tag": "P0371_1",
+  "en": "Lysander says, \"Go away, you dwarf. You are tiny, like a small weed. You are a bead. You are an acorn.\"",
+  "ko": "라이샌더가 말한다. \"저리 가, 이 난쟁이야. 넌 작은 잡초처럼 작기만해. 넌 구슬 같아. 너는 도토리야.\"",
+  "is_header": false
+ },
+ {
+  "id": 116,
+  "tag": "P0372_1",
+  "en": "Demetrius says, \"You are too busy trying to help her. She does not care about your help. Leave her alone. Do not speak of Helena. Do not take her side. If you do not intend to show her any love, then you will lose it.\"",
+  "ko": "디미트리어스가 말한다. \"넌 그녀를 돕느라 너무 바빠 보여. 그녀는 네 도움 따위 상관하지 않아. 그녀를 내버려 둬. 헬레나에 대해 말하지 마. 그녀 편을 들지 마. 그녀에게 사랑을 보여줄 생각이 없다면, 그 사랑을 잃게 될 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 117,
+  "tag": "P0373_1",
+  "en": "Lysander asks, \"Now she does not hold me. Now follow if you dare. Let us see whose right is greater. Is your right or mine stronger in Helena?\"",
+  "ko": "라이샌더가 묻는다. \"이제 그녀는 나를 붙잡지 않아. 자신 있으면 따라와 봐. 누구의 권리가 더 큰지 확인해 보자. 헬레나에 대한 권리는 네가 더 강해, 아니면 내가 더 강해?\"",
+  "is_header": false
+ },
+ {
+  "id": 118,
+  "tag": "P0374_1",
+  "en": "Demetrius says, \"Follow? No, I will go with you. I will stay by your side.\"",
+  "ko": "디미트리어스가 말한다. \"따라가라고? 아니, 너와 함께 갈게. 네 곁에 머물겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 119,
+  "tag": "P0375",
+  "en": "Lysander and Demetrius leave.",
+  "ko": "라이샌더와 디미트리어스가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 120,
+  "tag": "P0376_1",
+  "en": "Hermia says, \"You, lady, are the cause of all this trouble. No, do not go back.\"",
+  "ko": "허미아가 말한다. \"당신이 이 모든 문제의 원인이야. 안 돼, 돌아가지 마.\"",
+  "is_header": false
+ },
+ {
+  "id": 121,
+  "tag": "P0377_1",
+  "en": "Helena says, \"I will not trust you. I will not stay in your mean company any longer. Your hands are faster than mine for a fight. However, my legs are longer to run away.\"",
+  "ko": "헬레나가 말한다. \"너를 믿지 않아. 네가 있는 이 불쾌한 곳에 더는 머물지 않겠어. 싸울 때 네 손이 내 것보다 빠르지만, 도망칠 때는 내 다리가 더 길어.\"",
+  "is_header": false
+ },
+ {
+  "id": 122,
+  "tag": "P0378",
+  "en": "Helena leaves.",
+  "ko": "헬레나가 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 123,
+  "tag": "P0379_1",
+  "en": "Hermia says, \"I am surprised. I do not know what to say.\"",
+  "ko": "허미아가 말한다. \"깜짝 놀랐어요. 무슨 말을 해야 할지 모르겠어요.\"",
+  "is_header": false
+ },
+ {
+  "id": 124,
+  "tag": "P0380",
+  "en": "They leave while chasing Helena.",
+  "ko": "그들은 헬레나를 뒤쫓으며 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 125,
+  "tag": "P0381_1",
+  "en": "Oberon says, \"This is your carelessness. You keep making mistakes. Or you are doing these mean things on purpose.\"",
+  "ko": "오베론이 말한다. \"이건 네 부주의 때문이야. 너는 계속 실수를 저지르고 있어. 아니면 일부러 이런 못된 짓을 하는 건가.\"",
+  "is_header": false
+ },
+ {
+  "id": 126,
+  "tag": "P0382_1",
+  "en": "Puck says, \"Believe me, king of shadows, I made a mistake. Did you not tell me I should know the man by his Athenian clothes? My plan is successful so far because I anointed an Athenian's eyes. I am happy that it worked out this way. I think their fighting is funny.\"",
+  "ko": "퍽이 말한다. \"믿어줘, 그림자의 왕이여, 내가 실수했어. 아테네 옷차림으로 그 남자를 알아야 한다고 말해주지 않았어? 아테네 사람의 눈에 약을 발랐기에 내 계획은 지금까지 성공적이었어. 이렇게 잘 풀려서 기뻐. 그들이 싸우는 모습이 우스워.\"",
+  "is_header": false
+ },
+ {
+  "id": 127,
+  "tag": "P0383_1",
+  "en": "Oberon says, \"You see these lovers looking for a place to fight. Hurry then, Robin. Cover the night. Cover the starry sky soon with heavy fog. Make the fog as black as the river Acheron. Lead these angry rivals away from each other. Make sure they do not cross each other's paths.\"",
+  "ko": "오베론이 말한다. \"싸울 장소를 찾는 이 연인들을 봐. 어서 움직여, 로빈. 밤을 덮어라. 곧 별이 빛나는 하늘을 짙은 안개로 덮어버려. 안개를 아케론 강처럼 검게 만들어라. 화가 난 이 경쟁자들을 서로 멀리 떨어뜨려라. 그들이 서로의 길을 가로지르지 못하게 해라.\"",
+  "is_header": false
+ },
+ {
+  "id": 128,
+  "tag": "P0383_2",
+  "en": "\"Sometimes speak like Lysander. Then make Demetrius angry with a mean comment. And sometimes complain like Demetrius. Lead them away from each other like this. Do this until sleep looks like death on their faces. Then crush this herb into Lysander's eye. The liquid in it has this special power.\"",
+  "ko": "\"때로는 라이샌더처럼 말해라. 그러고는 무례한 말로 디미트리어스를 화나게 해라. 그리고 때로는 디미트리어스처럼 불평해라. 이렇게 그들을 서로 멀리 떨어뜨려라. 그들의 얼굴에 죽음 같은 잠이 올 때까지 이렇게 해라. 그러고 나서 이 약초를 라이샌더의 눈에 으깨어 발라라. 그 안에 든 액체에는 특별한 힘이 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 129,
+  "tag": "P0383_3",
+  "en": "\"It will remove all his mistakes with its strength. It will make his eyes move with normal sight. When they wake up next, all this joke will seem like a dream and a useless vision. And the lovers will go back to Athens. They will be together until death.\"",
+  "ko": "\"그 힘으로 그의 모든 실수를 없애줄 거야. 그의 눈이 정상적으로 보이게 해줄 거야. 다음에 깨어날 때, 이 모든 장난은 꿈이나 쓸모없는 환상처럼 보일 거야. 그리고 연인들은 아테네로 돌아갈 거야. 그들은 죽을 때까지 함께할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 130,
+  "tag": "P0384_1",
+  "en": "Puck says, \"My fairy lord, we must do this quickly. The fast dragons of night cut through the clouds very fast. And over there shines the sign of the morning. When it appears, ghosts wandering here and there go home to their graveyards. All cursed spirits stay away from the light.\"",
+  "ko": "퍽이 말한다. \"나의 요정 군주님, 빨리 처리해야 해. 밤의 빠른 용들이 구름을 가르고 빠르게 지나간다. 그리고 저기 아침의 징표가 빛나고 있어. 그것이 나타나면, 여기저기 떠도는 유령들은 무덤으로 돌아간다. 모든 저주받은 영혼은 빛을 멀리한다.\"",
+  "is_header": false
+ },
+ {
+  "id": 131,
+  "tag": "P0384_2",
+  "en": "\"They are buried in crossroads and rivers. They have already gone to their wormy beds. They hide from the light because they do not want the day to see their shame. They choose to stay with the dark night forever.\"",
+  "ko": "\"그들은 교차로와 강에 묻혀 있다. 그들은 이미 벌레가 득실거리는 침대로 들어갔어. 그들은 낮이 자신들의 수치를 보는 것을 원치 않아 빛을 피해 숨는다. 그들은 영원히 어두운 밤과 함께 있기로 선택했다.\"",
+  "is_header": false
+ },
+ {
+  "id": 132,
+  "tag": "P0385_1",
+  "en": "Oberon says, \"But we are spirits of a different kind. I have often played with the morning's love. Like a forester, I can walk through the groves until the eastern gate. It is fiery red and opens onto Neptune. Its blessed beams turn his green sea into yellow gold. However, hurry up. Do not delay.\"",
+  "ko": "오베론이 말한다. \"하지만 우리는 다른 종류의 영혼이야. 나는 종종 아침의 사랑을 가지고 놀았지. 숲지기처럼, 나는 동쪽 문까지 숲길을 걸어갈 수 있어. 그곳은 불타는 듯한 붉은색이며 네이투노스로 이어져. 축복받은 빛줄기가 그의 초록빛 바다를 황금색으로 바꿔놓지. 하지만 서둘러. 지체하지 마.\"",
+  "is_header": false
+ },
+ {
+  "id": 133,
+  "tag": "P0385_2",
+  "en": "\"We can still finish this work before day.\"",
+  "ko": "\"우리는 아직 해가 뜨기 전에 이 일을 끝낼 수 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 134,
+  "tag": "P0386",
+  "en": "Oberon leaves.",
+  "ko": "오베론이 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 135,
+  "tag": "P0387_1",
+  "en": "Puck says, \"Up and down, up and down. I will lead them up and down. I am afraid in the field and the town. Goblin, lead them up and down. Here comes one.\"",
+  "ko": "퍽이 말한다. \"올라갔다 내려갔다, 올라갔다 내려갔다. 내가 그들을 위아래로 이끌겠어. 들판과 마을이 두려워. 고블린아, 그들을 위아래로 이끌어라. 한 명이 오고 있다.\"",
+  "is_header": false
+ },
+ {
+  "id": 136,
+  "tag": "P0389_1",
+  "en": "Lysander enters and says, \"Where are you, proud Demetrius? Speak now.\"",
+  "ko": "라이샌더가 들어와 말한다. \"자존심 강한 디미트리어스, 어디 있나요? 지금 말해봐요.\"",
+  "is_header": false
+ },
+ {
+  "id": 137,
+  "tag": "P0390_1",
+  "en": "Puck asks, \"Here, villain, I am ready. Where are you?\"",
+  "ko": "퍽이 묻는다. \"여기 있다, 악당아. 준비됐어. 너는 어디에 있느냐?\"",
+  "is_header": false
+ },
+ {
+  "id": 138,
+  "tag": "P0391_1",
+  "en": "Lysander says, \"I will be with you right away.\"",
+  "ko": "라이샌더가 말한다. \"당장 당신 곁으로 갈게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 139,
+  "tag": "P0392_1",
+  "en": "Puck says, \"Follow me then to flatter ground.\"",
+  "ko": "퍽이 말한다. \"그럼 평평한 땅으로 따라와.\"",
+  "is_header": false
+ },
+ {
+  "id": 140,
+  "tag": "P0393",
+  "en": "Lysander leaves as he follows the voice.",
+  "ko": "라이샌더는 목소리를 따라가며 자리를 떠난다.",
+  "is_header": false
+ },
+ {
+  "id": 141,
+  "tag": "P0395_1",
+  "en": "Demetrius enters and asks, \"Lysander, speak again. You runaway, you coward, have you fled? Speak. Are you in some bush? Where are you hiding your head?\"",
+  "ko": "디미트리어스가 들어와 묻는다. \"라이샌더, 다시 말해봐요. 겁쟁이처럼 도망친 건가요? 말 좀 해봐요. 어느 덤불 속에 있는 거예요? 어디에 숨어서 머리를 감추고 있나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 142,
+  "tag": "P0396_1",
+  "en": "Puck says, \"You coward, are you bragging to the stars? Are you telling the bushes that you look for wars? And will you not come? Come, coward, come, you child! I will whip you with a rod. He is dirty who draws a sword on you.\"",
+  "ko": "퍽이 말한다. \"겁쟁이야, 별들에게 자랑이라도 하는 거냐? 덤불들에게 전쟁을 찾고 있다고 말하는 거야? 그러고도 안 나올 셈이냐? 이리 와, 겁쟁아, 이리 와, 꼬마야! 막대기로 때려줄 테다. 너에게 칼을 뽑는 자는 비겁한 자일 뿐이다.\"",
+  "is_header": false
+ },
+ {
+  "id": 143,
+  "tag": "P0397_1",
+  "en": "Demetrius asks, \"Yes, are you there?\"",
+  "ko": "디미트리어스가 묻는다. \"그래요, 거기 있나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 144,
+  "tag": "P0398_1",
+  "en": "Puck says, \"Follow my voice. We will try no manhood here.\"",
+  "ko": "퍽이 말한다. \"내 목소리를 따라와. 여기선 용맹함을 시험하지 않겠다.\"",
+  "is_header": false
+ },
+ {
+  "id": 145,
+  "tag": "P0399",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ },
+ {
+  "id": 146,
+  "tag": "P0401_1",
+  "en": "Lysander enters and says, \"He goes before me and still dares me. When I go where he calls, then he is gone. The villain is much lighter-heel’d than I. I followed fast, but he flew faster. I have fallen in the dark uneven way. And here I will rest. Come, gentle day!\"",
+  "ko": "라이샌더가 들어와 말한다. \"그가 내 앞서 가면서도 나를 도발한다. 그가 부르는 곳으로 가면 그는 사라진다. 이 악당은 나보다 훨씬 발이 빠르다. 나는 빨리 쫓아갔지만 그가 더 빨리 날아갔다. 어둡고 울퉁불퉁한 길에서 넘어지고 말았다. 여기서 쉬어야겠다. 오라, 부드러운 낮이여!\"",
+  "is_header": false
+ },
+ {
+  "id": 147,
+  "tag": "P0402",
+  "en": "Lysander lies down.",
+  "ko": "라이샌더가 눕는다.",
+  "is_header": false
+ },
+ {
+  "id": 148,
+  "tag": "P0403_1",
+  "en": "Lysander goes on, \"If you show me your gray light just once, I will find Demetrius. I will revenge this spite.\"",
+  "ko": "라이샌더가 말을 잇는다. \"네가 한 번만 회색 빛을 보여준다면, 디미트리어스를 찾아내겠다. 이 원한을 갚아주마.\"",
+  "is_header": false
+ },
+ {
+  "id": 149,
+  "tag": "P0404",
+  "en": "Lysander sleeps.",
+  "ko": "라이샌더가 잠든다.",
+  "is_header": false
+ },
+ {
+  "id": 150,
+  "tag": "P0405",
+  "en": "Puck and Demetrius enter.",
+  "ko": "퍽과 디미트리어스가 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 151,
+  "tag": "P0406_1",
+  "en": "Puck asks, \"Ha, ha, ha! Coward, why do you not come?\"",
+  "ko": "퍽이 묻는다. \"하, 하, 하! 겁쟁이야, 왜 나오지 않니?\"",
+  "is_header": false
+ },
+ {
+  "id": 152,
+  "tag": "P0407_1",
+  "en": "Demetrius asks, \"Stay and face me if you dare. I know that you are running away from me. You keep moving to every place. You do not stay still. You do not look me in the face. Where are you?\"",
+  "ko": "디미트리어스가 묻는다. \"용기가 있다면 멈춰서 내 앞에 나타나세요. 당신이 나를 피해 도망치고 있다는 걸 알고 있어요. 당신은 계속 다른 곳으로 옮겨 다니네요. 가만히 있지 않네요. 내 얼굴을 똑바로 보지도 않네요. 어디에 있나요?\"",
+  "is_header": false
+ },
+ {
+  "id": 153,
+  "tag": "P0408_1",
+  "en": "Puck says, \"Come here. I am here.\"",
+  "ko": "퍽이 말한다. \"이리 와. 나 여기 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 154,
+  "tag": "P0409_1",
+  "en": "Demetrius says, \"No, then you are mocking me. You will pay a high price if I ever see your face in the daylight. Now go away. I am too tired to move. I must lie on this cold bed. Be careful of being found when day comes.\"",
+  "ko": "디미트리어스가 말한다. \"아니, 그러면 나를 놀리는 거잖아요. 낮에 당신 얼굴을 보게 되면 큰 대가를 치르게 될 거예요. 이제 저리 가세요. 움직일 힘도 없어요. 이 차가운 침대에 누워야겠어요. 날이 밝으면 들키지 않게 조심하세요.\"",
+  "is_header": false
+ },
+ {
+  "id": 155,
+  "tag": "P0410",
+  "en": "Demetrius lies down and sleeps.",
+  "ko": "디미트리어스는 눕고 잠든다.",
+  "is_header": false
+ },
+ {
+  "id": 156,
+  "tag": "P0412_1",
+  "en": "Helena enters and says, \"Oh, tired night. Oh, long and boring night. Make the hours pass faster! Shine, comforts from the east. I want to go back to Athens by daylight. I hate this poor company. And let sleep come. Sleep hides my sadness. Let it take me away from my own company for a while.\"",
+  "ko": "헬레나가 들어와 말한다. \"오, 피곤한 밤. 오, 길고 지루한 밤. 시간이 빨리 지나가게 해줘! 동쪽에서 오는 위로의 빛들이여, 비춰라. 날이 밝으면 아테네로 돌아가고 싶어. 이 한심한 동료들이 정말 싫어. 그리고 잠이 찾아오길. 잠은 내 슬픔을 가려주지. 잠시 동안이라도 이 지겨운 상황에서 벗어나게 해줘.\"",
+  "is_header": false
+ },
+ {
+  "id": 157,
+  "tag": "P0413",
+  "en": "Helena sleeps.",
+  "ko": "헬레나는 잠든다.",
+  "is_header": false
+ },
+ {
+  "id": 158,
+  "tag": "P0414_1",
+  "en": "Puck says, \"Only three? Come one more. Two of each kind makes four. Here she comes, cursed and sad. Cupid is a dishonest boy. He makes poor women go mad like this.\"",
+  "ko": "퍽이 말한다. \"고작 셋뿐이야? 한 명 더 오라고 해. 종류별로 두 마리씩이면 네 마리가 되지. 저기 저 저주받고 슬픈 여자가 온다. 큐피드는 정직하지 못한 아이야. 그는 가여운 여자들을 이렇게 미치게 만들어.\"",
+  "is_header": false
+ },
+ {
+  "id": 159,
+  "tag": "P0416_1",
+  "en": "Hermia enters and says, \"I am so tired. I am in so much pain. My clothes are wet with dew. Briers have torn my skin. I cannot crawl any further. I cannot go any further. My legs cannot keep up with my desires. I will rest here until the break of day.\"",
+  "ko": "허미아가 들어와 말한다. \"너무 힘들어요. 몸이 너무 아파요. 옷이 이슬에 젖었어요. 가시덤불에 피부가 찢겼어요. 더 이상 기어갈 수 없어요. 더 이상 갈 수 없어요. 다리가 내 욕망을 따라가지 못해요. 날이 밝을 때까지 여기서 쉴게요.\"",
+  "is_header": false
+ },
+ {
+  "id": 160,
+  "tag": "P0416_2",
+  "en": "\"May heaven protect Lysander if they mean to fight!\"",
+  "ko": "\"싸우려 한다면 하늘이 라이샌더를 지켜주길요!\"",
+  "is_header": false
+ },
+ {
+  "id": 161,
+  "tag": "P0417",
+  "en": "Hermia lies down.",
+  "ko": "허미아가 눕는다.",
+  "is_header": false
+ },
+ {
+  "id": 162,
+  "tag": "P0418_1",
+  "en": "Puck says, \"On the ground. Sleep soundly. I will apply a remedy. I will put it on your eye. Gentle lover.\"",
+  "ko": "퍽이 말한다. \"바닥에. 푹 자거라. 치료제를 바르겠다. 네 눈에 바를게. 부드러운 연인아.\"",
+  "is_header": false
+ },
+ {
+  "id": 163,
+  "tag": "P0419",
+  "en": "Puck squeezes the juice onto Lysander's eye.",
+  "ko": "퍽이 라이샌더의 눈에 즙을 짜서 바른다.",
+  "is_header": false
+ },
+ {
+  "id": 164,
+  "tag": "P0420_1",
+  "en": "Puck goes on, \"When you wake up, you will feel true delight. You will see your former lady's eyes. A common saying is known. It says that every man should take his own. This will be shown when you wake. Jack shall have Jill. Nothing will go wrong. The man shall have his mare again.\"",
+  "ko": "퍽이 말을 잇는다. \"깨어나면 진정한 기쁨을 느낄 거야. 네가 예전에 사랑했던 여자의 눈을 보게 될 거야. 유명한 속담이 있지. 모든 남자는 자신의 것을 가져야 한다는 말이야. 네가 깨어날 때 증명될 거야. 잭은 질을 차지할 거야. 아무 문제도 없을 거야. 남자는 다시 자신의 말을 갖게 될 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 165,
+  "tag": "P0420_2",
+  "en": "\"Everything will be well.\"",
+  "ko": "\"모든 게 잘될 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 166,
+  "tag": "P0421",
+  "en": "Puck leaves.",
+  "ko": "퍽이 나간다.",
+  "is_header": false
+ }
+]

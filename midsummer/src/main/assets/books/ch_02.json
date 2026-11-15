@@ -1,0 +1,317 @@
+[
+ {
+  "id": 1,
+  "tag": "P0061",
+  "en": "Act 1, Scene 2 — The Same. A Room in a Cottage",
+  "ko": "1막 2장 — 같은 곳. 오두막의 방",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0061_s",
+  "en": "Quince and his workmen meet to choose their parts in a play for the Duke's wedding. Bottom wants every role. They agree to rehearse in the wood outside Athens, where no one can see them.",
+  "ko": "퀸스와 직공들이 모여 공작의 혼례 연극에서 맡을 배역을 정한다. 보텀은 모든 역할을 맡고 싶어 한다. 그들은 아무도 보지 않는 아테네 밖 숲에서 연습하기로 한다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "P0062",
+  "en": "Quince, Snug, Bottom, Flute, Snout and Starveling enter.",
+  "ko": "퀸스, 스너그, 보텀, 플루트, 스나우트와 스털링이 들어온다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "P0063_1",
+  "en": "Quince, a carpenter who leads the workmen's play, asks, \"Is everyone here?\"",
+  "ko": "직공들의 연극을 이끄는 목수 퀸스가 묻는다. \"모두 여기 있나?\"",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "P0064_1",
+  "en": "Bottom, a weaver, who wants to play every part, says, \"You should call them one by one. Call them according to the script.\"",
+  "ko": "모든 배역을 맡고 싶어 하는 직조공 보텀이 말한다. \"한 명씩 불러야 해. 대본에 맞춰서 불러.\"",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "P0065_1",
+  "en": "Quince says, \"Here is a list of every man's name. These men are chosen from all over Athens. They will perform in our play before the Duke and Duchess. The performance is on the Duke's wedding night.\"",
+  "ko": "퀸스가 말한다. \"여기 남자들의 이름 목록이 있어. 이 사람들은 아테네 곳곳에서 뽑힌 사람들이야. 그들은 공작과 공작부인 앞에서 우리 연극을 공연할 거야. 공연은 공작의 결혼식 날 밤에 열려.\"",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "P0066_1",
+  "en": "Bottom says, \"First, Peter Quince, tell us what the play is about. Then read the names of the actors. Then come to the point.\"",
+  "ko": "보텀이 말한다. \"먼저, 피터 퀸스, 이 연극이 무엇에 관한 건지 말해줘. 그다음 배우들의 이름을 읽어. 그러고 나서 본론으로 들어가자.\"",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0067_1",
+  "en": "Quince says, \"Our play is 'The most lamentable comedy and most cruel death of Pyramus and Thisbe'.\"",
+  "ko": "퀸스가 말한다. \"우리 연극은 '피라모스와 티스비의 가장 비극적인 희극과 잔혹한 죽음'이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0068_1",
+  "en": "Bottom says, \"I promise you it is a very good piece. It is also very funny. Now, Peter Quince, call the actors from the list. Gentlemen, spread out.\"",
+  "ko": "보텀이 말한다. \"정말 훌륭한 작품이라고 장담해. 매우 재미있기도 하고 말이야. 자, 피터 퀸스, 목록에서 배우들을 불러. 여러분, 흩어져라.\"",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0069_1",
+  "en": "Quince says, \"Answer when I call your name. Nick Bottom, the weaver.\"",
+  "ko": "퀸스가 말한다. \"이름을 부르면 대답해. 직조공인 닉 보텀.\"",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0070_1",
+  "en": "Bottom says, \"I am ready. Tell me what part I have. Then continue.\"",
+  "ko": "보텀이 말한다. \"준비됐어. 내가 맡은 역할이 뭔지 말해줘. 그럼 계속해.\"",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0071_1",
+  "en": "Quince says, \"You, Nick Bottom, are cast as Pyramus.\"",
+  "ko": "퀸스가 말한다. \"너, 닉 보텀은 피라모스 역이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0072_1",
+  "en": "Bottom asks, \"What is Pyramus? Is he a lover or a tyrant?\"",
+  "ko": "보텀이 묻는다. \"피라모스가 뭐야? 연인이야 아니면 폭군이야?\"",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "P0073_1",
+  "en": "Quince says, \"He is a lover. He kills himself bravely for love.\"",
+  "ko": "퀸스가 말한다. \"그는 연인이야. 사랑을 위해 용감하게 자결하는 인물이지.\"",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "P0074_1",
+  "en": "Bottom says, \"Performing that part will require some tears. If I do it, the audience should watch their eyes. I will show storms. I will show some sympathy. However, my main interest is playing a tyrant. I could play Hercules rarely.\"",
+  "ko": "보텀이 말한다. \"그 역할을 하려면 눈물을 좀 흘려야겠네. 내가 연기하면 관객들이 눈을 떼지 못할 거야. 폭풍 같은 감정을 보여주겠어. 동정심도 좀 표현하고 말이야. 하지만 내 진짜 관심사는 폭군 역할을 하는 거야. 가끔은 헤라클레스 역할도 할 수 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "P0074_2",
+  "en": "\"Or I could play a part that involves tearing a cat apart to make it split. The raging rocks and shivering shocks shall break the locks of prison gates. And Phibbus's car shall shine from far away. It will make and mar the foolish Fates. That was very grand. Now name the rest of the actors.\"",
+  "ko": "\"아니면 고양이를 갈기갈기 찢는 장면이 포함된 역할도 좋고. 분노한 바위와 떨리는 충격이 감옥 문을 부수고, 피부스의 마차가 멀리서 빛날 거야. 그건 어리석은 운명의 장난을 뒤바꿔 놓겠지. 정말 웅장하네. 이제 나머지 배우들의 이름을 불러.\"",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0074_3",
+  "en": "\"This is Hercules' style, a tyrant's style. A lover's part is more sympathetic.\"",
+  "ko": "\"이게 헤라클레스 스타일이고, 폭군의 스타일이야. 연인의 역할은 훨씬 더 동정심을 자아내지.\"",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "P0075_1",
+  "en": "Quince says, \"Francis Flute, the bellows-mender.\"",
+  "ko": "퀸스가 말한다. \"풀무 수리공인 플루트.\"",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "P0076_1",
+  "en": "Flute, a bellows-mender, who plays Thisbe, says, \"Here, Peter Quince.\"",
+  "ko": "티스비 역을 맡은 풀무 수리공 플루트가 말한다. \"여기 피터 퀸스야.\"",
+  "is_header": false
+ },
+ {
+  "id": 20,
+  "tag": "P0077_1",
+  "en": "Quince says, \"Flute, you must play Thisbe.\"",
+  "ko": "퀸스가 말한다. \"플루트, 네가 티스비를 맡아야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 21,
+  "tag": "P0078_1",
+  "en": "Flute asks, \"What is Thisbe? A wandering knight?\"",
+  "ko": "플루트가 묻는다. \"티스비가 뭐야? 떠돌이 기사 같은 건가?\"",
+  "is_header": false
+ },
+ {
+  "id": 22,
+  "tag": "P0079_1",
+  "en": "Quince says, \"She is the lady that Pyramus must love.\"",
+  "ko": "퀸스가 말한다. \"피라모스가 사랑해야 하는 여인이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 23,
+  "tag": "P0080_1",
+  "en": "Flute says, \"No, I really do not want to play a woman. I am starting to grow a beard.\"",
+  "ko": "플루트가 말한다. \"아니, 난 정말로 여자를 연기하고 싶지 않아. 나도 이제 수염이 나고 있다고.\"",
+  "is_header": false
+ },
+ {
+  "id": 24,
+  "tag": "P0081_1",
+  "en": "Quince says, \"That does not matter. You will wear a mask. You can speak in a very high voice if you want.\"",
+  "ko": "퀸스가 말한다. \"그건 상관없어. 가면을 쓰면 돼. 원한다면 아주 높은 목소리로 말해도 좋아.\"",
+  "is_header": false
+ },
+ {
+  "id": 25,
+  "tag": "P0082_1",
+  "en": "Bottom says, \"If I can hide my face, let me play Thisbe too. I will speak in a strange, small voice. I will say, 'Thisne, Thisne!' I will say, 'Oh, Pyramus, my dear lover!' I will say, 'Your dear Thisbe! and dear lady!'\"",
+  "ko": "보텀이 말한다. \"내 얼굴을 가릴 수 있다면 나도 티스비를 맡겠어. 나는 이상하고 작은 목소리로 말할게. 내가 '티스네, 티스네!'라고 말할게. 내가 '오, 나의 사랑하는 피라모스!'라고 말할게. 내가 '당신의 소중한 티스비! 그리고 아름다운 여인!'이라고 말할게.\"",
+  "is_header": false
+ },
+ {
+  "id": 26,
+  "tag": "P0083_1",
+  "en": "Quince says, \"No, no, you must play Pyramus. And Flute, you must play Thisbe.\"",
+  "ko": "퀸스가 말한다. \"아니, 아니, 너는 피라모스를 맡아야 해. 그리고 플루트, 네가 티스비를 맡아.\"",
+  "is_header": false
+ },
+ {
+  "id": 27,
+  "tag": "P0084_1",
+  "en": "Bottom says, \"Well, continue.\"",
+  "ko": "보텀이 말한다. \"좋아, 계속해.\"",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0085_1",
+  "en": "Quince says, \"Robin Starveling, the tailor.\"",
+  "ko": "퀸스가 말한다. \"재단사인 로빈 스털링.\"",
+  "is_header": false
+ },
+ {
+  "id": 29,
+  "tag": "P0086_1",
+  "en": "Starveling, a tailor, who plays Moonshine, says, \"Here, Peter Quince.\"",
+  "ko": "달빛 역을 맡은 재단사 스털링이 말한다. \"여기 있어, 피터 퀸스.\"",
+  "is_header": false
+ },
+ {
+  "id": 30,
+  "tag": "P0087_1",
+  "en": "Quince says, \"Robin Starveling, you must play Thisbe's mother. Tom Snout, you are the tinker.\"",
+  "ko": "퀸스가 말한다. \"로빈 스털링, 너는 티스비의 어머니 역할을 맡아. 톰 스나우트, 너는 수리공이야.\"",
+  "is_header": false
+ },
+ {
+  "id": 31,
+  "tag": "P0088_1",
+  "en": "Quince says, \"You will play Pyramus' father. I will play Thisbe's father. Snug, the joiner, you will play the lion. I hope this play is well-suited for us. Do you have the lion's part written? If it is ready, please give it to me. I am slow at studying.\"",
+  "ko": "퀸스가 말한다. \"자네는 피라모스의 아버지 역을 맡으면 돼. 나는 티스비의 아버지를 할게. 목수인 스너그, 자네가 사자 역할을 맡아. 이 연극이 우리에게 잘 어울렸으면 좋겠어. 사자 대사는 적혀 있나? 준비됐다면 나에게 줘. 나는 공부하는 게 느리거든.\"",
+  "is_header": false
+ },
+ {
+  "id": 32,
+  "tag": "P0089_1",
+  "en": "Quince says, \"You can do it without a script. It is nothing but roaring.\"",
+  "ko": "퀸스가 말한다. \"대본 없이도 할 수 있어. 그냥 포효하는 것뿐이니까.\"",
+  "is_header": false
+ },
+ {
+  "id": 33,
+  "tag": "P0090_1",
+  "en": "Bottom says, \"Let me play the lion too. I will roar so well that it will please everyone's heart. I will roar so well that the Duke will say, 'Let him roar again, let him roar again.'\"",
+  "ko": "보텀이 말한다. \"나도 사자 역할을 하게 해줘. 모두가 만족할 만큼 아주 멋지게 포효할게. 공작이 '다시 포효하게 해라, 다시 포효하게 해라'라고 말할 정도로 잘할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 34,
+  "tag": "P0091_1",
+  "en": "Quince says, \"If you do it too terribly, you will frighten the Duchess and the ladies. They might scream in fear. That would be enough to hang us all.\"",
+  "ko": "퀸스가 말한다. \"너무 형편없게 하면 공작부인과 숙녀들을 놀래키게 될 거야. 그분들이 겁에 질려 비명을 지를지도 몰라. 그렇게 되면 우리 모두 교수형을 당할 수도 있어.\"",
+  "is_header": false
+ },
+ {
+  "id": 35,
+  "tag": "P0092_1",
+  "en": "Bottom says, \"I agree, friends. If you frighten the ladies out of their minds, they will have no choice but to hang us. But I will control my voice. I will roar as gently as any sucking dove. I will roar like a nightingale.\"",
+  "ko": "보텀이 말한다. \"동의해, 친구들. 숙녀들을 겁에 질리게 하면 그들은 우리를 매달 수밖에 없을 거야. 하지만 목소리를 조절할게. 비둘기 울음소리처럼 부드럽게 포효할 거야. 꾀꼬리처럼 포효할 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 36,
+  "tag": "P0093_1",
+  "en": "Quince says, \"You can play no part except Pyramus. Pyramus is a man with a lovely face. He is a proper man that anyone can see on a summer day. He is a very handsome gentleman-like man. Therefore, you must play Pyramus.\"",
+  "ko": "퀸스가 말한다. \"너는 피라모스 역할만 맡으면 돼. 피라무스는 얼굴이 아주 잘생긴 남자야. 여름날 누구나 한눈에 알아볼 수 있는 번듯한 사내지. 매우 멋지고 신사적인 사람이야. 그러니 네가 피라모스를 맡아야 해.\"",
+  "is_header": false
+ },
+ {
+  "id": 37,
+  "tag": "P0094_1",
+  "en": "Bottom asks, \"Well, I will take the part. What beard should I wear to play it?\"",
+  "ko": "보텀이 묻는다. \"좋아, 그 역할을 맡을게. 그 역할을 하려면 어떤 수염을 달아야 할까?\"",
+  "is_header": false
+ },
+ {
+  "id": 38,
+  "tag": "P0095_1",
+  "en": "Quince says, \"Whatever you want is fine.\"",
+  "ko": "퀸스가 말한다. \"네가 원하는 건 뭐든 괜찮아.\"",
+  "is_header": false
+ },
+ {
+  "id": 39,
+  "tag": "P0096_1",
+  "en": "Bottom says, \"I will perform it in any of your beards. I can wear the straw-colored one. I can wear the orange-tawny one. I can wear the purple-in-grain one. I can wear the French-crown-color one. I can wear the perfect yellow one.\"",
+  "ko": "보텀이 말한다. \"어떤 수염이든 상관없어. 짚색 수염을 쓸 수도 있고. 황갈색 수염도 괜찮고. 자줏빛 수염도 가능해. 프랑스 왕관 색깔 수염도 좋아. 완벽한 노란색 수염도 괜찮아.\"",
+  "is_header": false
+ },
+ {
+  "id": 40,
+  "tag": "P0097_1",
+  "en": "Quince says, \"Some of your French crowns have no hair at all. In that case, you will play with a bare face. But, gentlemen, here are your parts. I ask and request you to learn them by tomorrow night. Meet me in the palace wood. It is one mile outside of town. We will meet by moonlight.\"",
+  "ko": "퀸스가 말한다. \"네가 가진 프랑스 왕관 수염 중에는 털이 하나도 없는 것도 있어. 그럴 경우엔 맨얼굴로 연기하면 돼. 자, 여러분, 여기 각자의 배역이 적힌 대본이야. 내일까지는 꼭 외워주길 바라. 궁전 근처 숲에서 만나자. 마을에서 한 마일 떨어진 곳이야. 달빛 아래서 만날 거야.\"",
+  "is_header": false
+ },
+ {
+  "id": 41,
+  "tag": "P0097_2",
+  "en": "\"We will rehearse there. If we meet in the city, people will crowd us. They will find out our plans. In the meantime, I will make a list of properties for the play. I hope you do not fail me.\"",
+  "ko": "\"거기서 연습할 거니까. 도시에서 만나면 사람들이 몰려들 거야. 그럼 우리 계획이 들통나고 말지. 그동안 나는 연극에 필요한 소품 목록을 만들게. 실망시키지 않았으면 좋겠어.\"",
+  "is_header": false
+ },
+ {
+  "id": 42,
+  "tag": "P0098_1",
+  "en": "Bottom says, \"We will meet there. We can rehearse very loudly and boldly there. Work hard and be perfect. Goodbye.\"",
+  "ko": "보텀이 말한다. \"거기서 만나자. 거기선 아주 크고 당당하게 연습할 수 있어. 열심히 해서 완벽하게 해내자. 그럼 안녕.\"",
+  "is_header": false
+ },
+ {
+  "id": 43,
+  "tag": "P0099_1",
+  "en": "Quince says, \"We will meet at the Duke's oak.\"",
+  "ko": "퀸스가 말한다. \"공작의 숲에 있는 오크 나무에서 만나자.\"",
+  "is_header": false
+ },
+ {
+  "id": 44,
+  "tag": "P0100_1",
+  "en": "Bottom says, \"That is enough. Stop, or cut the bow-strings.\"",
+  "ko": "보텀이 말한다. \"그만하면 됐어. 멈춰, 아니면 활시위를 끊어버려.\"",
+  "is_header": false
+ },
+ {
+  "id": 45,
+  "tag": "P0101",
+  "en": "They all leave.",
+  "ko": "모두 나간다.",
+  "is_header": false
+ }
+]
