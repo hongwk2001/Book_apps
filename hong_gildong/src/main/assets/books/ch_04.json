@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "tag": "P0010",
+  "en": "The Mother's Grief",
+  "ko": "어미의 슬픔",
+  "is_header": true
+ },
+ {
+  "tag": "P0010_1-a",
+  "en": "When the lady of the house learned that Gildong had left, she could not settle her mind all night and sighed without end. Her eldest son, Gilhyeon, comforted her: 'I too could not help it. Even after he is gone, how can I do nothing for him?",
+  "ko": "길동이 떠났다는 말을 들은 부인은 밤새 마음을 가라앉히지 못하고 한숨만 쉬었다. 맏아들 길현이 부인을 위로했다. “저도 어쩔 수 없었던 일입니다. 길동이 떠났다 해도 그냥 두고 볼 수는 없지요.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0010_1-b",
+  "en": "I will look after Mother more carefully so she lives in ease, and give his body a proper burial to ease our hearts a little.' They passed the night that way.",
+  "ko": "어머니를 더 잘 모시고 편히 지내시게 하겠습니다. 길동의 시신도 정성껏 장사 지내서 마음을 조금이라도 달래겠습니다.” 그렇게 그날 밤이 지나갔다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "tag": "P0010_2-a",
+  "en": "The next morning Chonang grew uneasy, since there had been no news from Gildong's room all night, and she sent a servant to look. Gildong was gone. Two headless bodies lay on the floor, and on closer look they were Teukja and the fortune-teller. Chonang rushed to the inner quarters to report it.",
+  "ko": "다음 날 아침, 밤새 길동 쪽에서 아무 소식이 없자 초낭은 불안해져서 사람을 보내 알아보게 했다. 길동은 이미 떠나고 없었다. 방바닥에는 머리가 없는 시체 두 구가 쓰러져 있었다. 자세히 보니 특자와 관상 보는 여자였다. 초낭은 안채로 달려가 이 사실을 알렸다.",
+  "is_header": false,
+  "id": 4
+ },
+ {
+  "tag": "P0010_2-b",
+  "en": "The lady of the house was dismayed and sent Gilhyeon to search for Gildong, but no one could find where he had gone.",
+  "ko": "부인은 깜짝 놀라 맏아들 길현을 보내 길동을 찾게 했다. 하지만 길동이 어디로 갔는지 아무도 알아내지 못했다.",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0010_3-a",
+  "en": "Chonang then asked the master to hear the whole story and confessed her part, asking for punishment. The master was shaken: 'This disaster will bring endless trouble. Last night Gildong said he was leaving home and asked to take his leave, and I did not know what had happened.",
+  "ko": "초낭은 대감을 찾아가 모든 일을 털어놓고 잘못을 빌었다. 대감은 충격을 받았다. “이런 일이 생기니 앞으로 큰 화가 닥치겠구나. 어젯밤 길동이 집을 떠난다며 작별 인사를 했을 때 무슨 일인지 몰랐는데, 이제 보니 이유가 있었구나.”",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "tag": "P0010_3-b",
+  "en": "Now I see there was a reason.' He turned to Chonang.",
+  "ko": "대감은 초낭을 돌아보았다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "tag": "P0010_4-a",
+  "en": "'You once heard strange talk and I told you to drive it away and never speak of it again. But you never changed your heart, and you have caused this disaster in our home. By your crime you deserve death.",
+  "ko": "“네가 전에 이상한 말을 듣고도, 내가 물리치면서 다시는 입에 올리지 말라고 했지. 그런데 너는 끝내 마음을 고치지 않고 우리 집에서 이런 큰일을 저질렀다. 죄를 따지면 죽어 마땅하다.",
+  "is_header": false,
+  "id": 8
+ },
+ {
+  "tag": "P0010_4-b",
+  "en": "How can I keep you before my eyes?' He quietly called the servants, had the two bodies secretly removed, and sat there uneasily, not knowing what to do next.",
+  "ko": "어떻게 너를 내 눈앞에 두고 보겠느냐.” 대감은 하인들을 몰래 불러 두 시신을 치우게 했다. 그러고는 어떻게 해야 할지 몰라 불안한 마음으로 앉아 있었다.",
+  "is_header": false,
+  "id": 9
+ }
+]

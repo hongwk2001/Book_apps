@@ -1,0 +1,464 @@
+[
+ {
+  "id": 1,
+  "tag": "P0016",
+  "en": "The Island and the Three Brides",
+  "ko": "섬과 세 부인",
+  "is_header": true
+ },
+ {
+  "tag": "P0016_1-a",
+  "en": "Gildong led his three thousand soldiers across the wide sea and reached an island called Seongdo. There he built storehouses and palaces, put his men to farming, sent merchants to trade with the neighbouring kingdoms, and taught martial arts and military strategy.",
+  "ko": "길동은 삼천 군사를 이끌고 넓은 바다를 건너 성도라는 섬에 이르렀다. 그곳에 창고와 궁궐을 짓고, 군사들에게 농사를 짓게 했다. 이웃 나라와 장사를 하도록 상인을 보냈고, 무예와 병법도 가르쳤다.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0016_1-b",
+  "en": "In three years the weapons and grain were piled high, and his soldiers were so strong that no enemy could stand against them.",
+  "ko": "삼 년 만에 무기와 곡식이 산처럼 쌓였다. 군사들은 강해져서 어떤 적도 그들을 막을 수 없었다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "tag": "P0016_2-a",
+  "en": "One day Gildong told his men: 'I will go to Mount Mangdang, gather medicine for arrow wounds, and return.' He set out and reached Nakcheon County. There lived a man named Baek Yong, who had no sons, and a single daughter who was gifted in every way.",
+  "ko": "하루는 길동이 부하들에게 말했다. “나는 망당산에 가서 화살 맞은 상처에 쓸 약초를 캐 오겠다.” 그는 길을 떠나 낙천현에 이르렀다. 그곳에는 백용이라는 부자가 살고 있었다. 백용에게는 아들이 없었고, 재주가 뛰어난 외동딸이 있었다.",
+  "is_header": false,
+  "id": 4
+ },
+ {
+  "tag": "P0016_2-b",
+  "en": "Her virtue was fine, her face and figure rare, her learning broad, and she was so accomplished that the whole county admired her. Her parents loved her dearly and sought a fine husband for her. When she reached eighteen, one day a violent storm rose, thunder rolled, and the sky went dark.",
+  "ko": "그녀는 마음씨가 곱고, 얼굴과 몸매가 빼어났다. 배움도 넓어서 고을 사람들이 모두 그녀를 칭찬했다. 부모는 딸을 끔찍이 아끼며 좋은 신랑감을 찾고 있었다. 딸이 열여덟 살이 되던 해, 어느 날 거센 바람과 비가 몰아치고 천둥이 울리며 하늘이 캄캄해졌다. 그 사이 딸이 감쪽같이 사라졌다.",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0016_2-c",
+  "en": "The girl vanished without a trace. Her parents, half mad with grief, scattered gold to search across the land, but there was no clue. Baek Yong, now a broken man, went through the streets putting up notices:",
+  "ko": "백용 부부는 놀라고 슬퍼서 정신이 나갈 지경이었다. 그들은 많은 돈을 풀어 사방으로 사람을 보냈지만, 아무 단서도 찾지 못했다. 백용은 제정신이 아닌 사람처럼 거리를 돌아다니며 방을 붙였다.",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "tag": "P0016_3-a",
+  "en": "'Whoever can tell us where our daughter is, will be given half of our fortune and our gratitude.' Meanwhile Gildong went up into Mount Mangdang to gather medicine. As evening fell, he wandered and did not know which way to go.",
+  "ko": "“우리 딸이 어디 있는지 알려 주는 사람에게는, 재산의 절반과 큰 사례를 하겠습니다.” 그 무렵 길동은 약초를 캐러 망당산에 올라갔다. 해가 지자 길을 잃고 헤맸다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "tag": "P0016_3-b",
+  "en": "Then he saw firelight in a valley and heard many voices singing and dancing with delight. Creeping closer, he saw that these were not people but creatures with the shape of men. Their leader was named Eul-dong.",
+  "ko": "그런데 골짜기에서 불빛이 보이더니, 여러 명이 노래하고 춤추며 즐기는 소리가 들렸다. 가까이 다가가 보니 사람이 아니라 사람처럼 생긴 짐승들이었다. 그들의 우두머리는 을동이라는 짐승이었다.",
+  "is_header": false,
+  "id": 8
+ },
+ {
+  "tag": "P0016_3-c",
+  "en": "Gildong drew his bow in secret and shot the leader in the middle of the revels, and as the arrow struck, the creatures screamed and fled in panic. Gildong followed the blood trail, reached a grand house, and knocked on the gate. A soldier came out and asked:",
+  "ko": "길동은 몰래 활을 당겨, 잔치 한가운데 우두머리를 쏘았다. 화살이 명중하자 짐승들은 비명을 지르며 달아났다. 길동은 피 자국을 따라가서 커다란 집에 이르렀고, 문을 두드렸다. 군사 한 명이 나와서 물었다.",
+  "is_header": false,
+  "id": 9
+ },
+ {
+  "tag": "P0016_4-a",
+  "en": "'Who are you, and why have you come to this place?' Gildong answered: 'I am a man of Joseon. I came to gather medicine in these mountains, lost my way, and came to this place.' The creature soldier looked friendly and said: 'Do you know medicine?",
+  "ko": "“너는 어떤 사람인데 이곳까지 왔느냐?” 길동이 대답했다. “나는 조선 사람입니다. 이 산속에 약초를 캐러 왔다가 길을 잃고 여기까지 왔습니다.” 짐승 군사는 반가운 기색으로 말했다. “너는 의술을 아느냐?",
+  "is_header": false,
+  "id": 10
+ },
+ {
+  "tag": "P0016_4-b",
+  "en": "Our leader was lately enjoying his new bride, when an unseen arrow struck him, and now he has come near death. If you know medicine, heal our leader.' Gildong replied: 'I am no great physician, but I am not unfamiliar with sickness.' The soldier was delighted and led him inside.",
+  "ko": "우리 대왕께서 새 신부를 맞아 잔치를 하고 계셨는데, 어디선가 화살이 날아와 가슴에 맞았다. 지금 목숨이 위태롭다. 의술을 안다면 우리 대왕을 살려 다오.” 길동이 대답했다. “나는 명의가 아니지만, 병을 고치는 일에 낯설지는 않다.” 군사는 크게 기뻐하며 길동을 안으로 안내했다.",
+  "is_header": false,
+  "id": 11
+ },
+ {
+  "tag": "P0016_4-c",
+  "en": "The leader, groaning, said:",
+  "ko": "우두머리가 신음하며 말했다.",
+  "is_header": false,
+  "id": 12
+ },
+ {
+  "tag": "P0016_5-a",
+  "en": "'My life is about to end, but by heaven's grace I have met a good physician. Teach me the good medicine and save my life.' Gildong examined the wound and said: 'This is not a difficult illness. I have a good medicine.",
+  "ko": "“내 목숨이 끝나 가는데, 하늘의 도움으로 좋은 의원을 만났구나. 좋은 약을 알려 주어 목숨을 구해 다오.” 길동은 상처를 살펴보고 말했다. “그리 어려운 병은 아니다. 내게 좋은 약이 있다.",
+  "is_header": false,
+  "id": 13
+ },
+ {
+  "tag": "P0016_5-b",
+  "en": "If you take it once, not only will this wound heal, but all your sicknesses will be cured and you will live long.' Eul-dong, overjoyed, said: 'I was about to die in shame, but by heaven's grace I have met you.",
+  "ko": "한 번만 먹으면 이 상처만 낫는 것이 아니라, 모든 병이 낫고 오래 살 수 있을 것이다.” 을동은 기뻐하며 말했다. “제가 몸을 제대로 살피지 못해서 큰 화를 당했는데, 하늘이 도와 선생을 만났습니다. 어서 그 약을 써 주십시오.",
+  "is_header": false,
+  "id": 14
+ },
+ {
+  "tag": "P0016_5-c",
+  "en": "Please quickly try your good medicine.' Gildong opened a small silk pouch, took out a packet of medicine, mixed it in wine, and gave it to him. The creature drank it, then turned over and cried out loudly:",
+  "ko": "길동은 작은 비단 주머니를 열어 약 한 봉지를 꺼내 술에 타서 주었다. 짐승이 그 약을 마셨다. 그러더니 몸을 뒤집으며 큰 소리로 외쳤다.",
+  "is_header": false,
+  "id": 15
+ },
+ {
+  "id": 16,
+  "tag": "P0016_6",
+  "en": "'I have no quarrel with you. Why do you harm me with this wicked poison?' He called his followers and cried: 'I was caught by an unexpected enemy and my life is ending. You must not let this man go, but avenge my death!' He fell back again, and all the creatures rushed out with swords and shouted:",
+  "ko": "“나는 너와 원수진 일이 없는데, 어째서 이런 못된 독약으로 나를 해치느냐?” 그는 동생들을 불러 소리쳤다. “생각지도 못한 적에게 당해서 나는 죽게 되었다. 이 사람을 절대 놓치지 말고, 내 원수를 갚아라!” 그러고는 다시 쓰러졌고, 짐승들이 일제히 칼을 들고 달려들며 외쳤다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0016_7-a",
+  "en": "Gildong said calmly, 'This is their fate. How could I have killed him?' The creatures raised their swords to strike him, but Gildong had no short sword to defend himself. In the desperate moment, he leapt into the air and flew away.",
+  "ko": "길동은 침착하게 말했다. “이건 이놈들의 운명이다. 내가 어떻게 그를 죽였겠느냐?” 짐승들이 칼을 들고 달려들었지만, 길동에게는 맞설 만한 칼이 없었다. 위급한 순간 그는 몸을 날려 하늘로 달아났다.",
+  "is_header": false,
+  "id": 17
+ },
+ {
+  "tag": "P0016_7-b",
+  "en": "The creatures were in truth false demons, able to stir wind and cloud and to summon countless beings. They rode the wind and came up after him. Gildong had no choice but to call on the six-day spirits. At once a host of spirits descended from the sky, bound the creatures, and tied them to a tree.",
+  "ko": "사실 짐승들은 오래된 요괴였다. 바람과 구름을 일으키고, 셀 수 없이 많은 귀신을 부를 수 있었다. 그들은 바람을 타고 길동을 쫓아 올라왔다. 길동은 어쩔 수 없이 육정육갑의 신장들을 불렀다. 그러자 하늘에서 수많은 신장이 내려와 짐승들을 묶어서 나무에 매달았다.",
+  "is_header": false,
+  "id": 18
+ },
+ {
+  "tag": "P0016_7-c",
+  "en": "Gildong took the swords of the bound creatures and slew them. He then went straight in to kill the women of the house, but one woman wept and said:",
+  "ko": "길동은 묶인 요괴들의 칼을 빼앗아 짐승들을 모두 베었다. 그리고 바로 집 안으로 들어가 여자들까지 죽이려고 했다. 그때 한 여자가 울면서 말했다.",
+  "is_header": false,
+  "id": 19
+ },
+ {
+  "tag": "P0016_8-a",
+  "en": "'We are not demons. We were captured by the demon and wanted to die, but could find no chance, so we did not die.' Gildong asked their names. One was the daughter of Baek Neung of Nakcheon County, and the other two were daughters of other families.",
+  "ko": "“저희는 요괴가 아닙니다. 요괴에게 붙잡혀 와서 죽고 싶었지만, 기회가 없어서 죽지 못했습니다.” 길동이 그들의 이름을 묻자, 한 사람은 낙천현 백용의 딸이었고, 나머지 두 사람은 다른 집안의 딸이었다.",
+  "is_header": false,
+  "id": 20
+ },
+ {
+  "tag": "P0016_8-b",
+  "en": "Gildong brought the three women back and questioned Baek Neung about them. Baek Neung, filled with joy at finding his lost daughter, held a great feast. The local people gathered to praise the event. The other two girls, daughters of the Jeong and Yang families, then invited Gildong and said:",
+  "ko": "길동은 세 여자를 데리고 돌아와 백용에게 사정을 알렸다. 백용은 잃어버린 딸을 찾아 기쁨을 주체하지 못하고, 큰돈을 들여 잔치를 열었다. 고을 사람들이 모두 모여서 길동을 칭찬했다. 정 씨와 양 씨 집안의 두 딸도 길동에게 사례하며 말했다.",
+  "is_header": false,
+  "id": 21
+ },
+ {
+  "tag": "P0016_9-a",
+  "en": "'We have no way to repay your kindness, so we each offer our daughters to you as wives.' Gildong, who had reached the age of twenty without knowing the joy of a phoenix mate, was suddenly given three noble brides, and their love grew so close that there was no comparison.",
+  "ko": "“은혜를 갚을 방법이 없으니, 저희를 아내로 받아 주십시오.” 길동은 스물한 살이 될 때까지 좋은 짝을 만난 적이 없었다. 그런데 그날 갑자기 세 명의 훌륭한 아내를 얻게 되었다. 그들과의 사랑은 비할 데 없이 깊었다.",
+  "is_header": false,
+  "id": 22
+ },
+ {
+  "tag": "P0016_9-b",
+  "en": "The Baek couple could not hide their joy. Then Gildong took his three new wives and all his kin and went to the capital, and the soldiers came out to meet him at the river to welcome him home.",
+  "ko": "백용 부부는 기쁨을 감추지 못했다. 길동은 세 아내와 가족들을 모두 데리고 제도로 들어갔다. 군사들이 강가까지 나와 맞이하며, 먼 길을 무사히 왔다고 위로했다.",
+  "is_header": false,
+  "id": 23
+ },
+ {
+  "id": 24,
+  "tag": "P0016_10",
+  "en": "Time passed, and about ten years had gone by since they had settled on the island. One day Gildong gazed at the moon, and when he looked up at the heavens he knew that his father had died. He wept bitterly. The lady Baek asked:",
+  "ko": "세월이 흘러, 그들이 섬에 자리 잡은 지 십 년 가까이 되었다. 어느 날 길동이 달을 바라보다가 하늘을 살펴보고는 아버지가 돌아가셨다는 것을 알았다. 그는 슬퍼서 크게 울었다. 백 씨 부인이 물었다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0016_11-a",
+  "en": "'You have never shown sorrow before, so why do you weep tonight?' Gildong sighed: 'I am a son who has failed heaven and earth. I was not born of this place. I am the illegitimate son of Minister Hong of Joseon. My family could not bear my existence, and I left my parents and hid in this land.",
+  "ko": "“당신이 평소에는 슬픈 기색을 보이지 않더니, 오늘은 무슨 일로 우는 것이오?” 길동이 한숨을 쉬며 말했다. “나는 하늘과 땅 사이에서 불효한 자식입니다. 나는 원래 이곳 사람이 아니고, 조선 홍 승상의 첩이 낳은 아들입니다.",
+  "is_header": false,
+  "id": 25
+ },
+ {
+  "tag": "P0016_11-b",
+  "en": "I have always thought of my parents' health. Tonight, when I read the heavens, I saw that my father will soon leave this world. I am ten thousand miles away and cannot reach him in time.",
+  "ko": "집안에서 나를 받아 주지 않아 부모님을 떠나 이곳에 숨어 살았습니다. 늘 부모님 건강이 걱정되었습니다. 오늘 밤 하늘을 보니 아버지께서 곧 세상을 떠나실 것 같습니다. 나는 만 리나 떨어져 있어서 제때 찾아갈 수 없습니다.",
+  "is_header": false,
+  "id": 26
+ },
+ {
+  "tag": "P0016_11-c",
+  "en": "I will never see him on his deathbed, and that is my sorrow.' Baek, hearing this, admired him in her heart: 'He does not forget his roots. What a man!' She comforted him again and again.",
+  "ko": "살아계신 아버지의 임종조차 지키지 못할 것이니, 그것이 가장 슬픕니다.” 백 씨는 그 말을 듣고 속으로 감탄했다. ‘자기 뿌리를 잊지 않는 사람이구나. 참으로 훌륭한 남자다.’ 그녀는 길동을 거듭 위로했다.",
+  "is_header": false,
+  "id": 27
+ },
+ {
+  "tag": "P0016_12-a",
+  "en": "Gildong took his soldiers to Mount Ilbong, studied the land, chose the auspicious site, and set a date for the funeral. He told his men: 'On such a day, prepare a ship and wait at the Seogang River in Joseon.",
+  "ko": "길동은 군사를 이끌고 일봉산으로 가서, 땅의 기운을 살펴 좋은 묏자리를 골랐다. 그리고 장례를 치를 날을 정했다. 그는 부하들에게 말했다. “아무 날에 배를 한 척 준비해서 조선의 서강에서 기다리라.",
+  "is_header": false,
+  "id": 28
+ },
+ {
+  "tag": "P0016_12-b",
+  "en": "I will bring my parents, so be ready beforehand.' He set off with his three wives and sailed for Joseon in a small ship.",
+  "ko": "내가 부모님을 모시고 올 테니, 미리 준비해 두어라.” 길동은 세 아내와 함께 작은 배를 타고 조선을 향해 떠났다.",
+  "is_header": false,
+  "id": 29
+ },
+ {
+  "tag": "P0016_13-a",
+  "en": "At this time, Minister Hong, now ninety years old and frail, fell sick in autumn. On the last day of the ninth month he became very weak. He called his wife and his eldest son Gilhyeon and said: 'I am ninety years old, and whether I die now makes no difference.",
+  "ko": "이때 홍 승상은 아흔 살이 되어 몸이 몹시 쇠약해져 있었다. 가을 구월 말이 되자 병이 더 깊어졌다. 승상은 부인과 맏아들 길현을 불러 말했다. “내 나이가 아흔이니, 지금 죽어도 여한은 없다.",
+  "is_header": false,
+  "id": 30
+ },
+ {
+  "tag": "P0016_13-b",
+  "en": "But Gildong, though he is a concubine's son, is still my bone and flesh. He has been out of the house and I have not known whether he lives or dies, and I cannot see him at my deathbed. How sad that is.",
+  "ko": "그런데 길동이 비록 첩의 자식이지만 내 핏줄이다. 그 아이가 집을 나간 뒤로 살았는지 죽었는지도 모르고, 내가 죽는 자리에서도 얼굴을 보지 못하니 얼마나 슬프냐.",
+  "is_header": false,
+  "id": 31
+ },
+ {
+  "tag": "P0016_13-c",
+  "en": "After I die, treat Gildong's mother well, and if Gildong returns, do not treat him as a low-born son but as a full brother, and do not betray my last wishes.' He then called Gildong's mother, took her hand, let tears fall, and said:",
+  "ko": "내가 죽은 뒤에라도 길동의 어머니를 잘 대접하고, 길동이 돌아오면 천한 자식으로 여기지 말고 친형제처럼 대해라. 내 마지막 부탁을 저버리지 마라.” 그러고는 길동의 어머니를 가까이 불러 손을 잡고, 눈물을 흘리며 말했다.",
+  "is_header": false,
+  "id": 32
+ },
+ {
+  "tag": "P0016_14-a",
+  "en": "'I could not forget you, because after Gildong was born, I was so troubled by the family's jealousy that I could not even learn whether he was alive or dead. Such was my heart's sorrow. Gildong is no ordinary man. If he lives, he will not betray you. Be careful of your health and live a long life.",
+  "ko": "“길동이 태어난 뒤로 집안의 질투 때문에 마음을 졸였고, 그 아이가 살았는지 죽었는지도 알지 못했다. 나의 마음이 이렇게 아픈데, 너야 오죽하겠느냐. 길동은 평범한 사람이 아니니, 살아 있다면 너를 저버리지 않을 것이다. 몸을 아끼고 오래 살아라.",
+  "is_header": false,
+  "id": 33
+ },
+ {
+  "tag": "P0016_14-b",
+  "en": "Even if I go to the yellow springs, I will not close my eyes.' Then he passed away. The lady fainted, and everyone present was overcome with grief, and the weeping spread through the house. Gilhyeon could not contain his sorrow, tears fell like rain, and he held his mother to comfort her.",
+  "ko": "내가 저승에 가서도 눈을 감지 못할 것이다.” 말을 마치고 승상은 세상을 떠났다. 부인은 정신을 잃었고, 그 자리에 있던 사람들은 모두 슬픔에 잠겼다. 곡소리가 집 안 가득 울려 퍼졌다. 맏아들 길현도 슬픔을 참지 못하고 눈물을 쏟으며, 어머니를 붙들고 위로했다.",
+  "is_header": false,
+  "id": 34
+ },
+ {
+  "tag": "P0016_14-c",
+  "en": "After the funeral rites were performed fully according to custom, Gildong's mother's grief was even deeper, and her appearance was too sad to look upon.",
+  "ko": "예법에 따라 장례 절차를 극진히 치렀지만, 길동의 어머니는 더욱 깊은 슬픔에 잠겼다. 그 모습이 너무 안타까워서 차마 쳐다볼 수 없을 정도였다.",
+  "is_header": false,
+  "id": 35
+ },
+ {
+  "tag": "P0016_15-a",
+  "en": "After the funeral, they searched for a good burial site, with servants and geomancers searching in every direction, but found nothing suitable and grew worried. Meanwhile Gildong reached the Seogang River, came ashore, went straight to his father's memorial, and knelt and wept.",
+  "ko": "장례를 마친 뒤 좋은 묏자리를 찾으려고, 하인들과 풍수들이 사방으로 땅을 살폈지만 마땅한 곳을 찾지 못해서 걱정이 많았다. 그때 길동이 서강에 닿아 배에서 내렸다. 그는 곧장 아버지의 신주를 모신 곳으로 가서 엎드려 크게 울었다.",
+  "is_header": false,
+  "id": 36
+ },
+ {
+  "tag": "P0016_15-b",
+  "en": "His servants saw that it was Gildong. After their mourning, he took Gildong inside to tell his mother. She was overjoyed and took Gildong's hand, and tears flowed:",
+  "ko": "하인들이 보니 그는 틀림없는 길동이었다. 길동은 한바탕 통곡한 뒤, 집 안으로 들어가 어머니께 알렸다. 부인은 크게 놀라고 기뻐하며 길동의 손을 잡았다. 눈물이 흘러내렸다.",
+  "is_header": false,
+  "id": 37
+ },
+ {
+  "tag": "P0016_16-a",
+  "en": "'You left home as a boy, and now you have returned. When I think back, it is strange. Why did you cut off all your trace for so long? When your father was dying, he spoke of you and sighed with regret. How sad that is.' She called Gildong's mother, who came quickly.",
+  "ko": "“네가 어려서 집을 떠난 뒤 오늘에야 돌아오니, 옛일을 생각하면 마음이 편치 않구나. 그동안 몇 년 동안 소식도 끊고 어디에 있었느냐? 대감께서 돌아가실 때 너를 그리워하며 후회하셨단다. 참으로 원통하구나.” 부인은 길동의 어머니를 불렀다.",
+  "is_header": false,
+  "id": 38
+ },
+ {
+  "tag": "P0016_16-b",
+  "en": "Mother and son met and wept tears without end. Gildong comforted both his stepmother and his birth mother, and then turned to his elder brother:",
+  "ko": "길동의 어머니는 아들이 돌아온 것을 알고 급히 달려왔다. 모자가 얼싸안고 눈물을 끝없이 흘렸다. 길동은 두 어머니를 위로한 뒤, 형에게 말했다.",
+  "is_header": false,
+  "id": 39
+ },
+ {
+  "tag": "P0016_17-a",
+  "en": "'I have lived in the mountains and studied the land, and I have long considered where to settle my parents' remains. Do you know whether there is a site?' His brother heard this and was even more pleased.",
+  "ko": "“저는 산속에 머물면서 땅의 기운을 공부해 왔습니다. 그래서 부모님의 유해를 모실 곳을 오래 생각해 두었습니다. 혹시 좋은 자리를 찾으셨습니까?” 형은 이 말을 듣고 더욱 기뻐했다.",
+  "is_header": false,
+  "id": 40
+ },
+ {
+  "tag": "P0016_17-b",
+  "en": "They talked of the matters not yet settled, and all the people gathered and held a feast the whole night. The next day Gildong took his brother to a place and said: 'This is a site I have chosen for my father.' Gilhyeon looked around and saw many rough rocks and many old graves without tombstones.",
+  "ko": "두 사람은 아직 정하지 못한 일들을 이야기했다. 집안사람들이 모두 모여 밤새 잔치를 열었다. 다음 날 길동은 형을 모시고 한 곳에 이르러 말했다. “이곳이 제가 아버지를 위해 정해 둔 자리입니다.” 길현은 주위를 둘러보았다. 울퉁불퉁한 바위가 많았고, 이름 없는 오래된 무덤도 여럿 있었다.",
+  "is_header": false,
+  "id": 41
+ },
+ {
+  "tag": "P0016_17-c",
+  "en": "In his heart he was displeased:",
+  "ko": "길현은 속으로 못마땅했다.",
+  "is_header": false,
+  "id": 42
+ },
+ {
+  "tag": "P0016_18-a",
+  "en": "'I do not know your deeper understanding, but I cannot think of burying our father in this place.",
+  "ko": "“네 생각이 얼마나 깊은지는 모르겠다. 하지만 나는 이곳에 아버지를 모실 생각은 없다. 다른 곳을 알아보아라.",
+  "is_header": false,
+  "id": 43
+ },
+ {
+  "tag": "P0016_18-b-a",
+  "en": "Choose another spot.' Gildong pretended to sigh: 'Although this place is like this, it is the true site for a man to rise to high office, but your judgment disagrees with mine,",
+  "ko": "길동은 짐짓 한숨을 쉬며 말했다. “이곳도 이렇긴 하지만, 높은 벼슬을 할 사람의 자리로는 좋습니다. 그런데 형님 생각이 제 생각과 다르니 안타깝습니다.",
+  "is_header": false,
+  "id": 44
+ },
+ {
+  "tag": "P0016_18-b-b",
+  "en": "which is regrettable.' He took his sword, struck the ground several times, and a cloud of five colours rose, and a pair of blue cranes flew out.",
+  "ko": "그러고는 칼을 뽑아 땅을 몇 번 내리치자, 오색 빛깔의 기운이 피어오르며 파란 학 한 쌍이 날아올랐다.",
+  "is_header": false,
+  "id": 45
+ },
+ {
+  "tag": "P0016_18-c",
+  "en": "His brother watched this and, deeply impressed, took Gildong's hand and said:",
+  "ko": "형은 이 광경을 보고 깊이 감탄했다. 그는 길동의 손을 잡으며 말했다.",
+  "is_header": false,
+  "id": 46
+ },
+ {
+  "tag": "P0016_19-a",
+  "en": "'I have lost my own judgment and worth in your eyes, so how can I not feel ashamed?",
+  "ko": "“내 생각이 네 앞에서 엉터리였구나. 얼마나 부끄러운지 모르겠다. 혹시 다른 곳은 없느냐?”",
+  "is_header": false,
+  "id": 47
+ },
+ {
+  "tag": "P0016_19-b-a",
+  "en": "Is there any other place?' Gildong said: 'There is one place here, but the road is ten thousand li away, and I worry about it.' His brother said: 'Even if it is ten thousand li away,",
+  "ko": "길동이 말했다. “여기 한 곳이 더 있기는 한데, 길이 수만 리나 멀어서 걱정입니다.” 형이 말했다. “수만 리가 되더라도, 부모님의 유해를 편히 모실 수 있다면 먼 길은 상관없다.",
+  "is_header": false,
+  "id": 48
+ },
+ {
+  "tag": "P0016_19-b-b",
+  "en": "if it gives our parents' remains peace, I will not mind the distance.' Gildong then returned home with him, told his mother the story, and she was unhappy.",
+  "ko": "길동은 집에 돌아와 이 이야기를 어머니께 전했다. 어머니는 마음이 편치 않으셨다.",
+  "is_header": false,
+  "id": 49
+ },
+ {
+  "tag": "P0016_20-a",
+  "en": "They chose a day and set out for the island, carrying the coffin of their father, with the mother and the wives. Gildong said to his mother: 'I came back but have not fully repaid my debt to you, and my father's spirit tablet is in disarray.",
+  "ko": "날을 골라서 아버지의 관을 모시고, 어머니와 아내들과 함께 섬을 향해 떠났다. 길동은 어머니께 말씀드렸다. “제가 돌아와서도 어머니께 한 효도를 다 하지 못했고, 아버지의 신주도 제대로 모시지 못하고 있습니다.",
+  "is_header": false,
+  "id": 50
+ },
+ {
+  "tag": "P0016_20-b",
+  "en": "If you go to the island with me, it will be good.' The lady agreed. On the appointed day they set off for the Seogang River, where the ship was waiting.",
+  "ko": "어머니께서 저와 함께 섬으로 가시면 좋겠습니다.” 어머니도 그러자고 하셨다. 정해진 날, 그들은 배가 기다리고 있는 서강으로 향했다.",
+  "is_header": false,
+  "id": 51
+ },
+ {
+  "tag": "P0016_20-c",
+  "en": "They placed the coffin on the boat, dismissed the servants, and with his parents, sailed away on the vast waters, not knowing where they were heading.",
+  "ko": "관을 배에 싣고 시중 드는 하인들을 모두 돌려보낸 뒤, 부모님과 함께 넓은 바다로 떠났다. 그들이 어디로 가는지는 아무도 몰랐다.",
+  "is_header": false,
+  "id": 52
+ },
+ {
+  "tag": "P0016_21-a",
+  "en": "'Do not be suspicious, brother. This place is not a site where Joseon people enter, and the sons of this land will not be blamed for burying their parents properly.' After the burial they came back to the island and stayed several months.",
+  "ko": "“형님, 의심하지 마십시오. 이곳은 조선 사람이 드나드는 곳이 아니고, 자식이 부모님을 정성껏 모신다면 아무 잘못이 없습니다.” 장례를 마친 뒤 그들은 섬으로 돌아와서 몇 달을 머물렀다.",
+  "is_header": false,
+  "id": 53
+ },
+ {
+  "tag": "P0016_21-b",
+  "en": "Then his brother wished to return to his home village, and Gildong prepared the road and bade farewell: 'I may not see you again. Our mother has already come to this island, and it is hard for us to part. You have kept our father's spirit with you, so we have nothing left unsaid.",
+  "ko": "그러다가 형이 고향으로 돌아가려고 하자, 길동은 길을 준비하며 작별 인사를 했다. “형님을 다시 뵙기가 어려울 것 같습니다. 어머니는 이미 이 섬에 와 계셔서, 모자의 정 때문에 차마 떠나지 못하시겠습니다. 형님은 아버지를 살아계실 때 모셨으니 여한이 없을 것입니다.",
+  "is_header": false,
+  "id": 54
+ },
+ {
+  "tag": "P0016_21-c",
+  "en": "As for ancestral rites after death, I will try to make amends for my unfilial conduct.' They went down to the ship together, and Gildong took his mother to say goodbye to his wife, Baek Neung. His brother took Gildong's hand and said:",
+  "ko": "돌아가신 뒤의 제사는 제가 맡아서, 불효한 죄를 조금이라도 덜겠습니다.” 두 사람은 함께 배에 올랐다. 길동은 어머니를 모시고 백 씨에게도 작별 인사를 시켰다. 서로 다시 만나기를 당부하며, 헤어지기 아쉬워 떠나지 못했다. 길현은 길동의 손을 잡고 말했다.",
+  "is_header": false,
+  "id": 55
+ },
+ {
+  "tag": "P0016_22-a",
+  "en": "'Alas, we must part. Please think of my heart, and let us meet again in the court.' Tears ran down his cheeks without end. Gildong also wept and said: 'Brother, return to your home country, serve the lady, and live a long life. I cannot promise when we will meet again.",
+  "ko": "“아, 이제 헤어져야 하는구나. 내 마음을 헤아려서, 나중에 궁궐에서라도 다시 보자.” 그는 눈물을 끝없이 흘렸다. 길동도 눈물을 흘리며 말했다. “형님은 고국으로 돌아가 어머니를 모시고 오래오래 건강하게 지내십시오. 언제 다시 만날지는 기약할 수 없습니다.",
+  "is_header": false,
+  "id": 56
+ },
+ {
+  "tag": "P0016_22-b",
+  "en": "Between the north and south, thousands of li apart, separated by rivers and seas, and with a long journey before you, I grieve in vain. I am sad, like the wild geese flying north in vain and the water flowing east, and I am heartbroken at parting.",
+  "ko": "남과 북으로 수천 리나 떨어지고, 강과 바다가 가로막고 있으니, 우리는 헛되이 그리워할 수밖에 없습니다. 북으로 날아가는 기러기가 헛되이 떠나고, 동으로 흐르는 물을 바라보는 것처럼 허전합니다. 이렇게 헤어지는 마음은 저도 형님과 같습니다.",
+  "is_header": false,
+  "id": 57
+ },
+ {
+  "tag": "P0016_22-c",
+  "en": "Even a heart of iron could not bear it.' Tears fell in two streams and their voices broke. It was a sorrow beyond words. They held each other, the river was in tears, and the clouds seemed to stop. They could not bring themselves to part.",
+  "ko": "쇠처럼 단단한 마음이라도 이 이별은 견디기 어렵습니다.” 두 사람의 눈물이 두 줄기로 흘러내리고, 목소리도 떨렸다. 참으로 말로 다 할 수 없는 슬픔이었다. 두 사람은 서로 붙잡고, 강도 울고 구름도 멈춘 듯했다. 그래도 차마 떠날 수가 없었다.",
+  "is_header": false,
+  "id": 58
+ },
+ {
+  "tag": "P0016_23-a",
+  "en": "After the brother parted, Gildong encouraged his troops to farm and practised military discipline. Years passed, and the granaries were full, and his tens of thousands of soldiers were trained in martial arts and military strategy, unmatched in the land. Near them was a kingdom called Yuldo.",
+  "ko": "형과 헤어진 뒤, 길동은 군사들에게 농사를 짓도록 권하고 군대의 규율을 가르쳤다. 몇 해가 지나서 곡식 창고가 가득 찼다. 수만 명의 군사들은 무예와 병법을 익혀서, 이 나라에서 그들을 당할 자가 없었다. 그 곁에는 율도국이라는 나라가 있었다.",
+  "is_header": false,
+  "id": 59
+ },
+ {
+  "tag": "P0016_23-b",
+  "en": "It had not bowed to China, and for dozens of generations it had passed down its virtue, so the country was at peace and the people prospered. Gildong discussed with his officers:",
+  "ko": "율도국은 중국에 신하로 복종하지 않았고, 수십 대에 걸쳐 덕을 쌓아 와서 나라가 평화롭고 백성이 넉넉했다. 길동은 부하들과 의논했다.",
+  "is_header": false,
+  "id": 60
+ },
+ {
+  "tag": "P0016_24-a",
+  "en": "'How can we just guard this island and spend our years? I now want to attack Yuldo. What do you each think?' No one objected. They chose a day to march. San Ho-geol became vanguard commander, Kim In-su became the rear commander, and Gildong himself became Grand General, commanding the centre.",
+  "ko": "“우리가 언제까지 이 섬만 지키며 세월을 보내겠느냐? 나는 이제 율도국을 치려고 한다. 여러분의 생각은 어떠한가?” 아무도 반대하지 않았다. 그들은 출정할 날을 정했다. 삼호걸은 선봉장이 되고, 김인수는 후방 부대의 장수가 되었다. 길동은 대원수가 되어 가운데 진을 지휘했다.",
+  "is_header": false,
+  "id": 61
+ },
+ {
+  "tag": "P0016_24-b",
+  "en": "The cavalry numbered five thousand and the infantry twenty thousand. Drums and shouts shook mountains and rivers, and banners and spears blotted out the sun and the moon. He led his army toward Yuldo, and no one could resist. Some towns simply opened their gates and surrendered.",
+  "ko": "기병은 오천 명이었고, 보병은 이만 명이었다. 북과 함성 소리에 산과 강이 흔들렸고, 깃발과 창이 해와 달을 가릴 정도였다. 그는 율도국을 향해 군대를 몰아갔고, 아무도 맞서지 못했다. 몇몇 고을은 아예 성문을 열고 항복했다.",
+  "is_header": false,
+  "id": 62
+ },
+ {
+  "tag": "P0016_24-c",
+  "en": "Within a few months he had taken seventy walled towns, and his fear struck the whole kingdom. He encamped fifty li outside the capital and sent a challenge to the King of Yuldo. It read:",
+  "ko": "몇 달 사이에 성을 일흔 개나 차지했다. 그의 위세는 나라 전체를 떨게 했다. 그는 도성에서 오십 리 떨어진 곳에 진을 치고, 율도왕에게 도전장을 보냈다. 그 글은 이렇게 쓰여 있었다.",
+  "is_header": false,
+  "id": 63
+ },
+ {
+  "tag": "P0016_25-a",
+  "en": "'The righteous general Hong Gildong sends this letter to the King of Yuldo. A kingdom cannot be kept by one man, so Tang defeated Jie of Xia, and King Wu drove out Zhou of Shang. Each did it for the people and set the troubled land in order.",
+  "ko": "“의병장 홍길동은 율도왕께 이 글을 보냅니다. 나라는 한 사람의 힘으로 오래 지킬 수 없습니다. 그래서 탕 임금은 하나라의 걸왕을 물리쳤고, 주나라 무왕은 상나라의 주왕을 쫓아냈습니다. 모두 백성을 위해 어지러운 세상을 바로잡은 것입니다.",
+  "is_header": false,
+  "id": 64
+ },
+ {
+  "tag": "P0016_25-b",
+  "en": "Now I have gathered an army of two hundred thousand, taken seventy walled towns, and reached your capital. If Your Majesty sees that the great trend is coming, decide quickly to fight; if your strength is spent, surrender at once and obey heaven's command.' He added a message of comfort:",
+  "ko": "이제 나는 이십만 의병을 모아서 성 일흔 개를 항복시키고, 이곳 도성까지 왔습니다. 전하께서 큰 흐름을 거스르기 어렵다고 보신다면, 빨리 싸울지 결정하십시오. 싸움에 힘이 다했다면 지금 당장 항복해 하늘의 뜻을 따르십시오.” 그러고는 위로하는 말을 덧붙였다.",
+  "is_header": false,
+  "id": 65
+ },
+ {
+  "id": 66,
+  "tag": "P0016_26",
+  "en": "'If you quickly send a letter of surrender for the sake of the people, I will not deprive you of your throne or your rank.'",
+  "ko": "“백성을 위해 서둘러 항복 문서를 보내면, 왕의 자리와 벼슬은 빼앗지 않겠다.”",
+  "is_header": false
+ }
+]

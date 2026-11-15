@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Placeholder icon copied from chunhyang; replace with a Hong Gildong design. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path android:strokeColor="#F4E9D2" android:strokeWidth="3.2" android:strokeLineCap="round"
+        android:strokeLineJoin="round" android:pathData="M14,44 L26,34 L40,28 L56,25 L72,25 L86,28 L96,33" />
+    <path android:strokeColor="#C9D98A" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M24,36 L21,52" />
+    <path android:strokeColor="#C9D98A" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M33,31 L31,49" />
+    <path android:strokeColor="#C9D98A" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M49,26 L48,40" />
+    <path android:strokeColor="#C9D98A" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M79,26 L81,44" />
+    <path android:strokeColor="#C9D98A" android:strokeWidth="2.2" android:strokeLineCap="round" android:pathData="M89,29 L92,47" />
+    <path android:strokeColor="#F4E9D2" android:strokeWidth="1.8" android:strokeLineCap="round" android:pathData="M44,27 L56,72" />
+    <path android:strokeColor="#F4E9D2" android:strokeWidth="1.8" android:strokeLineCap="round" android:pathData="M64,25 L76,70" />
+    <path android:fillColor="#D9573C"
+        android:pathData="M53,70 L79,70 Q81,70 81,72 L81,74 Q81,76 79,76 L53,76 Q51,76 51,74 L51,72 Q51,70 53,70 Z" />
+</vector>

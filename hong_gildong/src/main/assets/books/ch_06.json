@@ -1,0 +1,380 @@
+[
+ {
+  "id": 1,
+  "tag": "P0012",
+  "en": "The Band of the Poor",
+  "ko": "활빈당",
+  "is_header": true
+ },
+ {
+  "tag": "P0012_1-a",
+  "en": "Magistrate Hap-cheon chased the bandits with government troops, but found no trace of them and returned in confusion. He reported the matter to the provincial governor, who was alarmed.",
+  "ko": "합천 원님은 관군을 이끌고 도적을 쫓았지만 아무 흔적도 찾지 못하고 허둥지둥 돌아왔다. 그는 이 일을 감영에 보고했고, 감사는 놀라서 펄쩍 뛰었다.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0012_1-b",
+  "en": "The governor issued notices to every county to arrest the bandits, but the bandits' whereabouts remained unknown, and the officials were punished.",
+  "ko": "감사는 각 고을에 도적을 잡으라는 방을 붙였다. 하지만 도적들의 행방은 끝내 알 수 없었고, 애꿎은 아전들만 벌을 받았다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "tag": "P0012_2-a",
+  "en": "One day Gildong called his leaders together to discuss. 'We have taken to the greenwood, but we are all subjects of the king. We eat the grain of this land. If a time of national crisis comes, we must be ready to serve the king with our lives. I have a plan to gain arms.",
+  "ko": "하루는 길동이 부하들을 모아 의논했다. “우리가 비록 산적이 되었지만, 우리도 다 나라의 백성이다. 이 땅의 곡식을 먹고 살아가는 사람들이다. 나라에 위험한 일이 생기면 목숨을 걸고 임금을 도와야 한다. 그래서 지금부터 무기를 마련할 계획이 있다.",
+  "is_header": false,
+  "id": 4
+ },
+ {
+  "tag": "P0012_2-b",
+  "en": "On a certain day, cut firewood for fuel outside the south gate of the provincial office, by the grove at Neungso. On that night, set a great fire, but do not let it spread to the grove. I will lead a small force inside the walls to seize the weapons and the granary.'",
+  "ko": "정한 날 감영 남문 밖 능소 근처 숲에서 땔나무를 준비해 두어라. 그날 밤 불을 놓되, 숲으로는 번지지 않게 하여라. 나는 날랜 군사들과 성 안으로 들어가서 무기와 곡식 창고를 털겠다.”",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "id": 6,
+  "tag": "P0012_3",
+  "en": "They agreed on the plan. On the appointed day, Gildong divided his men into two groups. One group was to cut the firewood, and the other, led by Gildong himself, lay in ambush. At midnight, when the fire rose near the Neungso grove, Gildong hurried to the gate and beat on it, crying out:",
+  "ko": "모두 계획에 찬성했다. 약속한 날이 되자 길동은 부하들을 두 무리로 나눴다. 한 무리는 땔나무를 준비하고, 다른 무리는 길동이 직접 이끌고 숨어서 기다렸다. 자정이 되어 능소 근처에 불길이 치솟자, 길동은 급히 관문으로 달려가 문을 두드리며 외쳤다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0012_4-a",
+  "en": "'A fire has broken out at Neungso. Come quickly and help!' The governor woke in alarm and went out to see that the glow really did fill the sky. He took his servants and went out, and gathered troops in haste, and the whole city was in an uproar.",
+  "ko": "“능소에 불이 났습니다! 빨리 와서 도와주십시오!” 감사는 잠결에 놀라 일어나 밖을 보았다. 정말로 불빛이 하늘을 붉게 물들이고 있었다. 감사는 하인들을 데리고 서둘러 나가면서 군사들을 급히 모았고, 성 안은 시끌벅적해졌다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "tag": "P0012_4-b",
+  "en": "The townspeople all rushed to the fire, and the city was left nearly empty, with only the old and weak remaining. Gildong led his men in a sudden attack, seized the goods and the weapons, and with a wind spell returned to the mountain den in an instant.",
+  "ko": "백성들도 모두 불을 끄러 달려갔고, 성 안에는 노인과 어린 사람들만 남았다. 길동은 그 틈을 타서 부하들과 함께 갑자기 쳐들어가, 곡식과 무기를 훔쳐 나왔다. 그리고 축지법을 써서 눈 깜짝할 사이에 산채로 돌아갔다.",
+  "is_header": false,
+  "id": 8
+ },
+ {
+  "tag": "P0012_5-a",
+  "en": "When the governor came back from putting out the fire, the guard who kept the granary reported: 'Bandits broke in, emptied the granary, and took the weapons and grain.' The governor was greatly alarmed. He sent troops in every direction to search, but found no trace.",
+  "ko": "감사가 불을 끄고 돌아오니, 곡식 창고를 지키던 군사가 보고했다. “도적들이 창고를 털어 무기와 곡식을 모두 가져갔습니다.” 감사는 크게 놀랐다. 사방으로 군사를 보내 찾게 했지만 아무 흔적도 찾지 못했다.",
+  "is_header": false,
+  "id": 9
+ },
+ {
+  "tag": "P0012_5-b",
+  "en": "He realized it was a plot and reported the matter to the king.",
+  "ko": "감사는 이것이 꾀에 넘어간 일임을 깨닫고, 이 사정을 나라에 보고했다.",
+  "is_header": false,
+  "id": 10
+ },
+ {
+  "tag": "P0012_6-a",
+  "en": "That night Gildong returned to the den, held a feast, and spoke with his men, delighted: 'From now on, we will not take a single thing from the common people. We will seize the goods of corrupt county magistrates and rich men, and help the poor and suffering.",
+  "ko": "그날 밤 길동은 산채로 돌아와 잔치를 열었다. 그는 기뻐하며 부하들에게 말했다. “이제부터는 백성들의 재물은 털끝 하나도 건드리지 마라. 대신 탐관오리와 부자들의 재물을 빼앗아, 가난하고 힘든 사람들을 돕자.",
+  "is_header": false,
+  "id": 11
+ },
+ {
+  "tag": "P0012_6-b",
+  "en": "Let us call our band the Band of the Poor.' He added:",
+  "ko": "우리 무리의 이름을 ‘활빈당’이라고 하자.” 그러고는 덧붙였다.",
+  "is_header": false,
+  "id": 12
+ },
+ {
+  "tag": "P0012_7-a",
+  "en": "'The Hamgyong provincial office has lost its weapons and grain, and no one knows who took them. Many innocent people will be harmed for it. I bear the guilt.",
+  "ko": "“함경감영에서 무기와 곡식을 잃었는데, 누가 가져갔는지 아무도 모른다. 그 때문에 죄 없는 사람들이 많이 다칠 것이다. 그 죄는 내가 짊어져야 한다.",
+  "is_header": false,
+  "id": 13
+ },
+ {
+  "tag": "P0012_7-b",
+  "en": "Yet if I think of those innocent people, how can I not fear Heaven?' At once he had a notice pasted on the north gate of the provincial office:",
+  "ko": "그 죄 없는 사람들을 생각하면, 하늘이 두렵지 않을 수 없다.” 길동은 곧바로 감영 북문에 방을 써 붙이게 했다.",
+  "is_header": false,
+  "id": 14
+ },
+ {
+  "id": 15,
+  "tag": "P0012_8",
+  "en": "'Those who stole the weapons and grain are the Band of the Poor, led by Hong Gildong.'",
+  "ko": "“무기와 곡식을 훔쳐 간 자들은 홍길동이 이끄는 활빈당이다.”",
+  "is_header": false
+ },
+ {
+  "tag": "P0012_9-a",
+  "en": "Gildong thought to himself: 'My fate was unlucky, and I fled home and joined the greenwood heroes, but this is not my true heart. I was meant to make my name by serving the king, saving the people, and bringing honor to my parents. Scorned for my low birth, I came to this state.",
+  "ko": "길동은 혼자 생각했다. ‘내 팔자가 기구하여 집을 나와 산적 무리에 몸을 맡겼지만, 이것은 내 본래 뜻이 아니다. 원래는 나라를 위해 일하고, 백성을 구하고, 부모님께 영광을 드리고 싶었다. 그런데 천한 신분이라고 멸시를 받아 이 지경까지 왔구나.",
+  "is_header": false,
+  "id": 16
+ },
+ {
+  "tag": "P0012_9-b",
+  "en": "Perhaps I should use this path to earn a great name and pass it down to later ages.' He split his band into eight, each with fifty soldiers, and sent them across the eight provinces.",
+  "ko": "그렇다면 차라리 이 길에서 큰 이름을 얻어서 후세에 전해지게 하자.” 그는 무리를 여덟 갈래로 나누어, 한 갈래에 오십 명씩 보내서 전국 팔도로 흩어지게 했다.",
+  "is_header": false,
+  "id": 17
+ },
+ {
+  "tag": "P0012_9-c",
+  "en": "Each group had a different hiding place, so the soldiers doubted each other and no one knew which was truly Gildong's band.",
+  "ko": "각 무리마다 숨는 곳을 다르게 정했기 때문에, 부하들끼리도 서로 의심했다. 진짜 길동의 무리가 어디인지 아무도 알지 못했다.",
+  "is_header": false,
+  "id": 18
+ },
+ {
+  "tag": "P0012_10-a",
+  "en": "They roamed the eight provinces. They punished the unjust, seized bribes from county magistrates, opened the granaries to feed the people, and each province was thrown into turmoil. The soldiers guarding the granaries could not sleep and kept watch.",
+  "ko": "길동의 무리는 팔도를 누비고 다녔다. 못된 사람을 벌하고, 고을 수령들의 뇌물을 빼앗고, 창고를 열어 백성을 먹였다. 그러자 고을마다 큰 소동이 일어났다. 창고를 지키는 군사들은 불안해서 잠도 자지 못하고 밤새 지켰다.",
+  "is_header": false,
+  "id": 19
+ },
+ {
+  "tag": "P0012_10-b",
+  "en": "Gildong's powers were such that when he blew a breath, wind and rain roared and cloud and fog hid the earth, so the guards could not hold him back. Across the land, people shouted his name: 'Hong Gildong, leader of the Band of the Poor!' No one could catch the bandits.",
+  "ko": "길동의 재주는 놀라웠다. 그가 입김을 한 번 불면 바람과 비가 몰아치고, 구름과 안개가 땅을 가려서 아무도 그를 붙잡을 수 없었다. 나라 곳곳에서 사람들이 외쳤다. “활빈당 우두머리 홍길동!” 도적을 잡을 수 있는 사람은 아무도 없었다.",
+  "is_header": false,
+  "id": 20
+ },
+ {
+  "tag": "P0012_10-c",
+  "en": "All eight provinces sent reports to the king, and the king read them with alarm.",
+  "ko": "팔도의 감사들이 모두 임금에게 보고서를 올렸고, 임금은 크게 걱정하며 그 보고서를 읽었다.",
+  "is_header": false,
+  "id": 21
+ },
+ {
+  "tag": "P0012_11-a",
+  "en": "'Hong Gildong has used the winds and clouds to cause trouble in every county.",
+  "ko": "“홍길동이 바람과 구름을 부리며 고을마다 소란을 피우고 있습니다.",
+  "is_header": false,
+  "id": 22
+ },
+ {
+  "tag": "P0012_11-b-a",
+  "en": "On such and such a day, he stole the weapons of such and such a county, and on another day he seized the grain of another county, but we have not been able to find the bandit's trail,",
+  "ko": "어느 날은 이러이러한 고을의 무기를 훔치고, 다른 날에는 다른 고을의 곡식을 빼앗았는데, 도적의 흔적을 잡지 못했습니다.",
+  "is_header": false,
+  "id": 23
+ },
+ {
+  "tag": "P0012_11-b-b",
+  "en": "and we are ashamed to report.' The king, reading these reports and comparing the dates, found that Gildong's raids happened on the same day across all the provinces.",
+  "ko": "이에 대해 황송하여 송구스럽게 보고드립니다.” 임금은 여러 보고서를 읽고 날짜를 맞춰 보았는데, 길동이 일으킨 사건들이 팔도에서 같은 날 같은 시각에 일어났다는 것을 알게 되었다.",
+  "is_header": false,
+  "id": 24
+ },
+ {
+  "tag": "P0012_11-c",
+  "en": "Greatly worried, he issued a royal decree to every county: 'Whoever captures this bandit will be rewarded with a thousand pieces of gold.' He also sent officials to calm the people and told them to hunt the bandit.",
+  "ko": "임금은 크게 걱정하며 모든 고을에 명을 내렸다. “누구든 이 도적을 잡는 자에게는 천금을 상으로 주겠다.” 그러고는 암행어사들을 팔도에 보내 백성들을 안심시키고, 도적을 잡으라고 명령했다.",
+  "is_header": false,
+  "id": 25
+ },
+ {
+  "tag": "P0012_12-a",
+  "en": "After this, Gildong rode in a sedan chair, freely disciplined magistrates, opened the granaries to feed the people, punished criminals, opened the prison and freed the innocent, and made his appearances everywhere. The counties could never discover his trail, and the country was in a panic.",
+  "ko": "그 뒤 길동은 가마를 타고 다니며 수령들을 마음대로 쫓아내고, 창고를 열어 백성을 먹였다. 죄인을 다스리고, 감옥을 열어 억울한 사람을 풀어 주었다. 그는 이곳저곳에 나타났다. 고을 관리들은 끝내 그의 행방을 알아내지 못했고, 나라 전체가 불안에 떨었다.",
+  "is_header": false,
+  "id": 26
+ },
+ {
+  "tag": "P0012_12-b",
+  "en": "The king, anxious, asked his council:",
+  "ko": "임금은 몹시 불안해하며 신하들에게 물었다.",
+  "is_header": false,
+  "id": 27
+ },
+ {
+  "tag": "P0012_13-a",
+  "en": "'What kind of dragon is this, who ravages all eight provinces in a single day? I know of no one who can capture him.",
+  "ko": "“이런 용이 어디 있단 말이냐? 하루 만에 팔도를 휘젓고 다니는 놈을 잡을 사람이 없구나.",
+  "is_header": false,
+  "id": 28
+ },
+ {
+  "tag": "P0012_13-b",
+  "en": "This is a great worry.' Then one minister stepped forward and said: 'I am not talented, but if you give me a thousand soldiers, I will capture Hong Gildong and remove Your Majesty's worry.'",
+  "ko": "이것은 큰 걱정거리다.” 그때 한 신하가 앞으로 나서서 말했다. “제가 재주는 없지만, 군사 천 명만 주신다면 홍길동을 잡아 전하의 걱정을 덜어 드리겠습니다.”",
+  "is_header": false,
+  "id": 29
+ },
+ {
+  "tag": "P0012_14-a",
+  "en": "The men looked, and it was the Chief of the Police Force, Commander Lee Eop. The king admired his courage and gave him a thousand troops. Eop immediately bowed at the palace gate and took his leave, and the next day he set out.",
+  "ko": "사람들이 바라보니 포도대장 이업이었다. 임금은 그의 용기를 높이 사서 정예병 천 명을 내주었다. 이업은 궁궐 문 앞에서 절하고 물러 나와, 다음 날 바로 길을 떠났다.",
+  "is_header": false,
+  "id": 30
+ },
+ {
+  "tag": "P0012_14-b",
+  "en": "Crossing mountains and rivers, he issued orders to his soldiers, making a plan:",
+  "ko": "산을 넘고 강을 건너면서, 그는 군사들에게 명령을 내리고 계획을 세웠다.",
+  "is_header": false,
+  "id": 31
+ },
+ {
+  "tag": "P0012_15-a",
+  "en": "'Go by such and such a road, and meet at Mungyeong on such a day.' He travelled in disguise. After several days he came to a town, and as night fell he rested at an inn. Soon a young man rode in on a donkey with a few servants.",
+  "ko": "“너희는 이러이러한 길로 가서, 아무 날 문경에서 모이도록 하라.” 이업은 평복을 입고 길을 떠났다. 며칠 뒤 한 고을에 이르렀는데, 날이 저물어 주막에서 쉬게 되었다. 그때 한 젊은이가 당나귀를 타고 하인 몇 명과 함께 들어왔다.",
+  "is_header": false,
+  "id": 32
+ },
+ {
+  "tag": "P0012_15-b",
+  "en": "After settling in, the young man introduced himself and they began to talk. The young scholar sighed:",
+  "ko": "젊은이는 자리에 앉은 뒤 이름과 사는 곳을 밝히고 이야기를 나누기 시작했다. 젊은 선비가 한숨을 쉬며 말했다.",
+  "is_header": false,
+  "id": 33
+ },
+ {
+  "tag": "P0012_16-a",
+  "en": "'The land belongs to the king, and the people belong to the land. Now the bandit Hong Gildong runs wild in the eight provinces and disturbs the people. The king sends officials to every county to hunt him, yet they never catch him, and the anger is shared by the whole nation.",
+  "ko": "“온 세상의 땅은 임금의 것이고, 땅 위의 백성도 임금의 백성입니다. 그런데 지금 홍길동이라는 도적이 팔도를 휘젓고 다니며 백성을 불안하게 하고 있습니다. 임금께서 관리들을 고을마다 보내 잡으라고 하셨지만 끝내 잡지 못하니, 온 나라가 함께 분통해하고 있습니다.",
+  "is_header": false,
+  "id": 34
+ },
+ {
+  "tag": "P0012_16-b",
+  "en": "Even a man like me with some courage would like to capture this bandit to relieve the king's worry. But my strength is not enough, and there is no one to help me, so I sigh in vain.'",
+  "ko": "저처럼 조금이라도 용기가 있는 사람은, 이 도적을 잡아 임금의 걱정을 덜어 드리고 싶습니다. 하지만 제 힘은 부족하고, 함께 도울 사람도 없으니 그저 한숨만 쉴 뿐입니다.”",
+  "is_header": false,
+  "id": 35
+ },
+ {
+  "tag": "P0012_17-a",
+  "en": "When Eop heard the young man speak, he was truly moved; he saw a man of true righteousness. In his heart he was deeply impressed, and he came forward and clasped the young man's hand: 'Well said! You are a man of both loyalty and courage.",
+  "ko": "이업은 그 선비의 말을 듣고 감동했다. 그는 이 사람이 진정으로 의로운 사람임을 알아보았다. 가슴이 뭉클해진 이업은 앞으로 나가 선비의 손을 잡고 말했다. “훌륭하오! 그대는 충성과 용기를 함께 갖춘 사람이오.",
+  "is_header": false,
+  "id": 36
+ },
+ {
+  "tag": "P0012_17-b",
+  "en": "Though I am a man of some strength, I will help you, and together let us catch this bandit. What do you think?'",
+  "ko": "나도 힘이 많지는 않지만 그대를 돕겠소. 우리 함께 이 도적을 잡아 봅시다. 어떻소?”",
+  "is_header": false,
+  "id": 37
+ },
+ {
+  "tag": "P0012_18-a",
+  "en": "The young man replied: 'If that is what you say, now let us test our skills together and search for the lair where Hong Gildong stays.' Eop agreed, and followed the young man to a deep mountain.",
+  "ko": "젊은이가 대답했다. “그렇다면 우리 둘이 함께 재주를 시험해 보고, 홍길동이 머무는 소굴을 찾아봅시다.” 이업은 그 말에 따라 젊은이와 함께 깊은 산속으로 들어갔다.",
+  "is_header": false,
+  "id": 38
+ },
+ {
+  "tag": "P0012_18-b",
+  "en": "The young man climbed a steep cliff, sat on a high rock, and said: 'If you truly give your heart, let me see your strength.'",
+  "ko": "젊은이는 가파른 절벽에 올라 높은 바위에 걸터앉으며 말했다. “그대가 정말로 마음을 다한다면, 그 힘을 한번 보여 주시오.”",
+  "is_header": false,
+  "id": 39
+ },
+ {
+  "tag": "P0012_19-a",
+  "en": "Eop, relying on his strength, followed him. The young man turned and said: 'Well done. With this, you will surely not fail to catch Hong Gildong. The bandit is in this mountain now. I will go ahead and look for him. Wait for me here.' Eop agreed and waited at the spot.",
+  "ko": "이업은 있는 힘을 다해 젊은이를 뒤쫓았다. 그러자 젊은이가 돌아보며 말했다. “훌륭하오. 이 정도면 홍길동을 잡는 일은 걱정할 것 없겠소. 도적이 지금 이 산속에 있소. 내가 먼저 들어가 찾아보고 올 테니, 그대는 여기서 기다리시오.” 이업은 그 자리에 앉아 기다리기로 했다.",
+  "is_header": false,
+  "id": 40
+ },
+ {
+  "tag": "P0012_19-b",
+  "en": "After a while a crowd of strangely dressed soldiers came up, all wearing yellow scarves, shouting:",
+  "ko": "얼마 뒤 모습이 괴상한 군사 수십 명이 나타났다. 모두 누런 두건을 쓰고 있었고, 그들은 큰 소리로 외쳤다.",
+  "is_header": false,
+  "id": 41
+ },
+ {
+  "tag": "P0012_20-a",
+  "en": "'You are Commander Lee Eop! Under the order of the Great King of the Underworld, we have come to take you!' They rushed in at once, bound him with iron chains, and took him away. Eop was terrified and did not know whether he was a living man or a ghost.",
+  "ko": "“네가 포도대장 이업이로구나! 저승 대왕의 명을 받아 너를 잡으러 왔다!” 군사들은 달려들어 이업을 쇠사슬로 묶어 끌고 갔다. 이업은 너무 놀라서, 자기가 살아 있는 사람인지 귀신인지도 분간하지 못했다.",
+  "is_header": false,
+  "id": 42
+ },
+ {
+  "tag": "P0012_20-b",
+  "en": "In a moment they came to a place, a palace like a grand gate in the mist. They dragged him before the hall, and a voice from the throne began to rebuke him:",
+  "ko": "얼마 지나지 않아 안개 속에 웅장한 대궐 같은 건물이 나타났다. 군사들은 이업을 끌고 대청 앞에 꿇어앉혔다. 그러자 대청 위에서 꾸짖는 목소리가 들려왔다.",
+  "is_header": false,
+  "id": 43
+ },
+ {
+  "tag": "P0012_21-a",
+  "en": "'You will soon meet the bandit Hong Gildong and bind him in chains. Hong is a great general who received heaven's command. He saves the poor of the eight provinces from corrupt officials and greedy men, and feeds the suffering people.",
+  "ko": "“너는 곧 홍길동을 만나 쇠사슬로 묶이게 될 것이다. 홍길동은 하늘의 명을 받은 큰 장수다. 팔도의 탐관오리와 욕심 많은 자들에게서 재물을 빼앗아, 고통받는 백성을 구하고 있다.",
+  "is_header": false,
+  "id": 44
+ },
+ {
+  "tag": "P0012_21-b",
+  "en": "Yet you and your kind slandered him to the king, and wanted to bring down a man who had done no wrong. Because the Underworld wants to warn others like you, you will not be spared.' He ordered his messengers:",
+  "ko": "그런데 너희 같은 자들이 임금께 거짓으로 모함해서, 아무 죄 없는 사람을 해치려 했다. 저승에서는 너 같은 자들에게 본보기를 보여야 하니, 너를 용서하지 않겠다.” 그러고는 저승의 사자들에게 명령했다.",
+  "is_header": false,
+  "id": 45
+ },
+ {
+  "tag": "P0012_22-a",
+  "en": "'Take Lee Eop and send him to the wind of the afterlife, to be banished forever!' Eop knocked his head on the ground and begged for mercy: 'Indeed, General Hong travelled through the counties and caused great trouble, and the king, worried, sent me out with the police.",
+  "ko": "“이업을 잡아서 저승의 바람 속으로 보내 영원히 쫓아내라!” 이업은 땅에 머리를 찧으며 목숨을 빌었다. “정말로 홍 장군이 고을마다 돌아다니며 소란을 피우니, 임금께서 걱정하셔서 제가 포도대장으로 나왔을 뿐입니다.",
+  "is_header": false,
+  "id": 46
+ },
+ {
+  "tag": "P0012_22-b",
+  "en": "Spare the innocent life of this man, I beg you!' He pleaded so much that those around, including the magistrate in the courtyard, watched and laughed loudly.",
+  "ko": "제발 이 사람의 무고한 목숨을 살려 주십시오!” 이업이 하도 애원하니, 주위 사람들과 대청 아래의 관리들이 그 모습을 보고 크게 웃었다.",
+  "is_header": false,
+  "id": 47
+ },
+ {
+  "tag": "P0012_23-a",
+  "en": "'Raise your head and look at me. I am the man you met at the inn, and that man is Hong Gildong. Even a thousand men like you could not catch me.",
+  "ko": "“고개를 들어 나를 보아라. 나는 주막에서 만났던 사람이고, 그 사람이 바로 홍길동이다. 너 같은 사람이 천 명이 있어도 나를 잡을 수 없다.",
+  "is_header": false,
+  "id": 48
+ },
+ {
+  "tag": "P0012_23-b",
+  "en": "I brought you here to show you my power, and in the future, if such a man of bold spirit appears, I will have you speak to him for me.' He had a few men dragged before the hall, and said sternly:",
+  "ko": "네게 내 힘을 보여 주려고 여기까지 데려온 것이다. 앞으로 너처럼 기개가 있는 사람이 또 나타나면, 그 사람에게 내 뜻을 전하게 할 것이다.” 그는 군사 몇 명을 끌어다 대청 앞에 꿇리고 엄하게 꾸짖었다.",
+  "is_header": false,
+  "id": 49
+ },
+ {
+  "tag": "P0012_24-a",
+  "en": "'I could cut you all down, but since Lee Eop has been spared, I will let you go too. Go home, and from now on do not chase Hong Gildong's trail again.' Eop finally realized he was a human being, but was too ashamed to say anything, and bowed his head.",
+  "ko": "“너희들 모두를 베어 버릴 수도 있지만, 이업을 살려 주었으니 너희도 풀어 주겠다. 돌아가서 다시는 홍길동을 쫓지 마라.” 이업은 그제야 자기가 사람이라는 것을 알았지만, 부끄러워서 아무 말도 하지 못하고 고개를 숙였다.",
+  "is_header": false,
+  "id": 50
+ },
+ {
+  "tag": "P0012_24-b",
+  "en": "After a while he sat still, and then he fell into a deep sleep. Suddenly he woke, but he could not move his body, and he saw nothing around him. He struggled out, and found that he had fallen into a clump of wild grass. Ahead of him more wild grass lay in a row.",
+  "ko": "한참 앉아 있다가 깜빡 잠이 들었다. 갑자기 눈을 떴는데 몸을 움직일 수가 없었고, 눈앞에는 아무것도 보이지 않았다. 힘겹게 몸을 빼내고 보니 가시풀 덤불 속에 들어가 있었다. 그 앞에도 가시풀 무더기가 줄지어 있었다.",
+  "is_header": false,
+  "id": 51
+ },
+ {
+  "tag": "P0012_24-c",
+  "en": "He looked closer and saw that these were the soldiers who had gone with him the night before, sent to Mungyeong. Eop laughed bitterly and said:",
+  "ko": "자세히 보니 그것은 어젯밤 함께 떠났던 군사들이었다. 문경으로 보냈던 군사들이 가시풀 속에 쓰러져 있었던 것이다. 이업은 어처구니없어서 쓴웃음을 지으며 말했다.",
+  "is_header": false,
+  "id": 52
+ },
+ {
+  "tag": "P0012_25-a",
+  "en": "'I was tricked by some young man, and this is what happened to me. What about you all, how did you end up here?' The soldiers laughed and said: 'We were sleeping at an inn in some town, and we do not know how we came to this place.' Looking around, they realized it was a deserted spot at Jangan.",
+  "ko": "“나는 어떤 젊은이에게 속아서 이런 일을 당했다. 너희는 어떻게 여기까지 오게 되었느냐?” 군사들은 서로 웃으며 대답했다. “저희는 어느 마을 주막에서 자고 있었는데, 어떻게 여기까지 왔는지 모르겠습니다.” 주변을 둘러보니 장안 북쪽의 인적 없는 곳이었다.",
+  "is_header": false,
+  "id": 53
+ },
+ {
+  "tag": "P0012_25-b",
+  "en": "Eop said: 'This is a false affair. Let no one speak of it.'",
+  "ko": "이업이 말했다. “이건 허망한 일이다. 아무에게도 말하지 마라.”",
+  "is_header": false,
+  "id": 54
+ }
+]

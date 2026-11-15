@@ -1,0 +1,233 @@
+[
+ {
+  "id": 1,
+  "tag": "P0015",
+  "en": "Gildong Enters the Capital",
+  "ko": "길동이 서울에 들어오다",
+  "is_header": true
+ },
+ {
+  "tag": "P0015_1-a",
+  "en": "Gildong rushed through the wind like a storm. How could the trap be unseen? He rode a cloud over the boats and flew through the air for three days.",
+  "ko": "길동은 폭풍처럼 바람을 타고 달려왔다. 이런 함정을 어떻게 눈치채지 못했겠는가? 그는 구름을 타고 강 위를 날아서, 사흘 만에 서울에 도착했다.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0015_1-b",
+  "en": "When he entered the South Gate, the guards fired their muskets at once, but the powder in the barrels was wet and the shots were useless, so nothing could stop him. When he reached the palace gate he turned to the escort who had brought him and said:",
+  "ko": "길동이 남대문 안으로 들어서자, 문을 지키던 군사들이 일제히 총을 쏘았다. 그러나 총 안에 물이 가득 차 있어서 아무 소용이 없었다. 길동은 궁궐 문 앞에 이르러, 자기를 압송해 온 장교들을 돌아보며 말했다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "tag": "P0015_2-a",
+  "en": "'You brought me all this way under guard, and your guilt does not deserve death.' Then he leapt into the air, flew over the wall, and walked away slowly.",
+  "ko": "“너희가 나를 이곳까지 데려왔으니, 그 죄로 죽을 정도는 아니다.” 그러고는 몸을 날려 담장 너머로 훌쩍 뛰어올라, 천천히 걸어서 사라졌다.",
+  "is_header": false,
+  "id": 4
+ },
+ {
+  "tag": "P0015_2-b",
+  "en": "Mounted soldiers of the Five Gates galloped after him, but Gildong went on foot, and even a horse could not catch him, since he knew the art of shrinking distance. The people of the city all marvelled at his magic. That day a notice was posted at the city gate:",
+  "ko": "오군문의 기병들이 말을 달려 그를 뒤쫓았지만, 길동은 걸어가는데도 말은 아무리 채찍질해도 따라잡지 못했다. 축지법을 쓴 것이다. 도성 사람들은 모두 그의 신기한 재주에 감탄했다. 그날 도성의 네 성문에는 이런 글이 나붙었다.",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0015_3-a",
+  "en": "'Hong Gildong's lifelong wish is to become Minister of War. If Your Majesty will grant him the seal of the Minister of War, I will surrender myself.' The court discussed the matter. Some said: 'Let us grant him his wish and calm the people.' Others said: 'He is a lawless and disloyal bandit.",
+  "ko": "“홍길동의 평생소원은 병조판서가 되는 것이다. 전하께서 그에게 병조판서의 직인을 내리신다면, 저는 스스로 나와 항복하겠다.” 조정에서 이 일을 의논했다. 어떤 이는 말했다. “그의 소원을 들어주어 백성들의 마음을 안정시키자.” 다른 이는 말했다. “그는 나라의 법을 어기고 임금을 저버린 도적이다.",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "tag": "P0015_3-b",
+  "en": "He has caused the whole nation to panic and brought worry to the king. How could we give him the seal of a minister?' The debate went back and forth, and no decision was reached.",
+  "ko": "나라 전체를 불안하게 하고 임금께 걱정을 끼친 자에게 어떻게 장관 자리를 준단 말인가?” 의견이 오락가락하여, 끝내 결론을 내리지 못했다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "tag": "P0015_4-a",
+  "en": "One day, at a secluded place outside the East Gate, Gildong read the magic scrolls, commanded the spirits of the sixty-day cycle, and called up a great array of troops. Soon two officials came down from the sky, bowed, and stood on either side.",
+  "ko": "하루는 동대문 밖의 외진 곳에서 길동이 술법을 부리며 하늘의 신장들을 불러냈다. 얼마 뒤 두 명의 사자가 하늘에서 내려와 공손히 절하고 좌우에 섰다.",
+  "is_header": false,
+  "id": 8
+ },
+ {
+  "tag": "P0015_4-b",
+  "en": "Thousands of soldiers and horses appeared, no one knew from where. In an instant they formed a battle line, and in the middle they built a golden platform of several tiers, where Gildong sat in the place of honour. The army was in perfect order, and its majesty was like the autumn frost.",
+  "ko": "어디서 왔는지 알 수 없는 수천의 군사와 말이 나타났다. 순식간에 군사들이 진을 쳤고, 가운데에는 금빛 단을 세 층으로 쌓아 길동을 상석에 앉혔다. 군대의 질서는 완벽했고, 그 위엄은 가을 서리처럼 서늘했다.",
+  "is_header": false,
+  "id": 9
+ },
+ {
+  "tag": "P0015_4-c",
+  "en": "Gildong commanded the yellow-scarfed messengers:",
+  "ko": "길동은 노란 두건을 쓴 사자들에게 명령했다.",
+  "is_header": false,
+  "id": 10
+ },
+ {
+  "id": 11,
+  "tag": "P0015_5",
+  "en": "'Bring me the trusted men of the court who are trying to harm Hong Gildong.' The spirits obeyed, and after a while they brought in more than ten men, bound with iron chains, like chickens being carried by eagles. Gildong had them knelt before the platform and scolded them:",
+  "ko": "“홍길동을 해치려고 조정에서 꾸민 자들의 측근을 잡아 오너라.” 신장들은 명령을 받들고 나가더니, 한참 뒤 열 명이 넘는 사람들을 쇠사슬로 묶어 끌고 왔다. 마치 독수리에게 잡혀 온 병아리 같았다. 길동은 그들을 단 아래 꿇어앉히고 꾸짖었다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0015_6-a",
+  "en": "'You have become worms in the court, and you have deceived the king and wanted to harm General Hong. Your crime should deserve punishment, but because of human life, I will spare you.' He had each man given thirty strokes of the military rod. They barely escaped with their lives.",
+  "ko": "“너희는 조정에 해를 끼치는 좀벌레 같은 자들이다. 임금을 속이고, 홍 장군을 해치려 했다. 죄로 따지면 벌을 받아야 마땅하지만, 목숨이 아까워서 용서하겠다.” 그러고는 한 사람마다 군법으로 곤장 서른 대씩을 치게 했다. 그들은 겨우 목숨만 건졌다. 길동은 다시 신장들에게 명했다.",
+  "is_header": false,
+  "id": 12
+ },
+ {
+  "tag": "P0015_6-b",
+  "en": "Gildong then commanded the spirits:",
+  "ko": "길동은 신장들에게 또 명령했다.",
+  "is_header": false,
+  "id": 13
+ },
+ {
+  "tag": "P0015_7-a",
+  "en": "'When I was in the court, I wanted to abolish the false laws and destroy the monks and temples who deceive the people. But now I cannot stay in this land. Though it is my parents' country, I cannot remain even if I were a thousand miles away.",
+  "ko": "“내가 조정에 있을 때는 잘못된 법을 바로잡고, 백성을 속이는 중들과 사찰을 없애려 했다. 하지만 이제 이 나라에 오래 머물 수는 없게 되었다. 여기가 내 부모의 나라이지만, 만 리 밖에 있더라도 잊지 못할 것이다.",
+  "is_header": false,
+  "id": 14
+ },
+ {
+  "tag": "P0015_7-b",
+  "en": "Now seize all the wicked monks who fool the people, and the wicked merchants who steal from the poor in the capital. Bring me the officials who take bribes and commit injustice, and who hide the king's sight so that his wisdom cannot shine.",
+  "ko": "백성을 속이는 못된 중들을 모두 잡아 오고, 서울에서 가난한 사람들의 재물을 빼앗는 악덕 상인도 잡아 오너라. 뇌물을 받고 불의를 저지르는 관리들도 잡아 오너라. 임금의 눈을 가려서 임금의 지혜가 빛을 발하지 못하게 한 간신들도 잡아 오너라.",
+  "is_header": false,
+  "id": 15
+ },
+ {
+  "tag": "P0015_7-c",
+  "en": "Bring me the names of every household in the capital.' The spirits obeyed, flew into the air, and soon brought in more than ten monks, merchants, and officials. Gildong, showing his power and raising his voice, scolded each of them:",
+  "ko": "서울의 집집마다 명단을 가져오너라.” 신장들은 명을 받고 하늘로 날아올랐다. 얼마 뒤 열 명이 넘는 승려와 상인, 관리들을 잡아 왔다. 길동은 위엄을 보이며 목소리를 높여 한 사람씩 꾸짖었다.",
+  "is_header": false,
+  "id": 16
+ },
+ {
+  "tag": "P0015_8-a",
+  "en": "'You will never see the world again. Because I have received the king's decree and have not broken the law, I will spare you this time.",
+  "ko": "“너희는 다시는 세상을 보지 못할 것이다. 나는 임금의 명을 받았고 나라의 법을 어기지 않았으니, 이번에는 너희를 용서하겠다.",
+  "is_header": false,
+  "id": 17
+ },
+ {
+  "tag": "P0015_8-b",
+  "en": "But if you do not change in the future, even if you are ten thousand miles away, I will find you and kill you.' After severe punishment, he had them taken outside the army's gate.",
+  "ko": "하지만 앞으로도 행실을 고치지 않는다면, 만 리 밖에 있어도 찾아가서 죽여 버리겠다.” 혹독하게 벌을 준 뒤, 그들을 군영 밖으로 내보냈다.",
+  "is_header": false,
+  "id": 18
+ },
+ {
+  "tag": "P0015_9-a",
+  "en": "Gildong then slaughtered oxen and sheep to feed his soldiers, put the army in order, and forbade all noise and shouting. The thousands of miles of country were quiet, and the eight formations were under strict command. After drinking wine and growing a little drunk, he drew his sword and danced.",
+  "ko": "길동은 소와 양을 잡아 군사들을 대접했다. 그리고 군대의 질서를 바로잡고, 떠들고 소리 지르는 것을 모두 금지했다. 수천 리 나라가 조용해졌고, 여덟 진법에 따라 군사들이 엄격하게 움직였다. 길동은 술을 마시고 조금 취하자, 칼을 뽑아 춤을 추었다.",
+  "is_header": false,
+  "id": 19
+ },
+ {
+  "tag": "P0015_9-b",
+  "en": "The blades flashed like light and the sword's movements flew through the air. Then he gave the spirits a final look, leapt into the air, and returned to the den of the Band of the Poor.",
+  "ko": "칼날이 번뜩이며 빛나고, 칼끝의 움직임이 공중을 가로질렀다. 그런 다음 길동은 신장들을 한 번 돌아보고, 몸을 날려 활빈당 소굴로 돌아왔다.",
+  "is_header": false,
+  "id": 20
+ },
+ {
+  "tag": "P0015_10-a",
+  "en": "After this, the king ordered an even stricter search for Gildong, but could not find his trail. Gildong sent his men out, took bribes from the eight provinces that were sent to the capital, and when he found a harmed commoner, he took out grain and granaries and gave relief.",
+  "ko": "그 뒤로 임금은 길동을 더욱 엄하게 잡으라고 명령했지만, 그의 흔적조차 찾지 못했다. 길동은 부하들을 보내서, 팔도에서 서울로 가는 뇌물을 빼앗았다. 그리고 억울하게 고통받는 백성을 보면, 곡식 창고를 열어 굶주림을 덜어 주었다.",
+  "is_header": false,
+  "id": 21
+ },
+ {
+  "tag": "P0015_10-b",
+  "en": "No one could equal his magical skill. The king sighed in worry:",
+  "ko": "아무도 그의 신기한 재주를 따라갈 수 없었다. 임금은 걱정하며 한숨을 쉬었다.",
+  "is_header": false,
+  "id": 22
+ },
+ {
+  "tag": "P0015_11-a",
+  "en": "'This man's talent cannot be caught by human strength. The people are so shaken, and he is truly extraordinary. Better that we take his talents and keep him at court.' He took out the appointment papers for Minister of War, hung them up, and called for Gildong.",
+  "ko": "“이 사람의 재주는 사람의 힘으로는 잡을 수 없다. 백성들의 마음이 이렇게 흔들리고 있는데, 그는 참으로 특별한 인재다. 차라리 그 재주를 얻어서 조정에 두자.” 임금은 병조판서의 임명장을 꺼내 걸고, 길동을 불렀다.",
+  "is_header": false,
+  "id": 23
+ },
+ {
+  "tag": "P0015_11-b",
+  "en": "Gildong rode the wind with some tens of servants and came by the East Gate. The Ministry's attendants surrounded him and brought him to the palace, where he bowed low and said:",
+  "ko": "길동은 하인 수십 명을 거느리고 바람을 타고 와서 동대문에 이르렀다. 병조의 하인들이 그를 둘러싸고 궁궐로 데려갔다. 길동은 궁궐 앞에서 깊이 절하며 말했다.",
+  "is_header": false,
+  "id": 24
+ },
+ {
+  "tag": "P0015_12-a",
+  "en": "'Heaven's favour is boundless, and beyond my merit you have raised me to Minister of War. My heart is overwhelmed, and I fear I cannot repay even a small part of the king's favour.' He bowed and left, and from then on Gildong caused no more trouble.",
+  "ko": "“임금의 은혜가 한없이 크나큰데, 제 공로에 넘치게도 병조판서 자리에 올리셨습니다. 제 마음이 벅차서, 임금의 은혜를 만분의 일이라도 갚을 수 있을지 두렵습니다.” 그는 절을 올리고 물러갔다. 그 뒤로 길동은 더는 소란을 피우지 않았다.",
+  "is_header": false,
+  "id": 25
+ },
+ {
+  "tag": "P0015_12-b",
+  "en": "The king lifted the search order for Gildong in every province.",
+  "ko": "임금은 팔도에 내렸던 길동 체포 명령을 모두 거두셨다.",
+  "is_header": false,
+  "id": 26
+ },
+ {
+  "id": 27,
+  "tag": "P0015_13",
+  "en": "Three years later, on a moonlit night, the king took his cup and gazed at the bright moon. Suddenly a celestial figure descended on a cloud and knelt before him. The king was startled and asked:",
+  "ko": "삼 년이 지난 어느 달 밝은 밤, 임금은 술잔을 들고 밝은 달을 바라보고 계셨다. 그때 한 신선이 구름을 타고 내려와 임금 앞에 무릎을 꿇었다. 임금은 깜짝 놀라 물으셨다.",
+  "is_header": false
+ },
+ {
+  "id": 28,
+  "tag": "P0015_14",
+  "en": "'Noble guest, what fault do you come to report to this earthly place?' The man replied: 'I am the former Minister of War, Hong Gildong.' The king was astonished and took Gildong by the hand. 'Where have you been all this time?' Gildong answered:",
+  "ko": "“귀한 손님께서 인간 세상에 내려오셨으니, 무슨 일로 찾아오셨소?” 그 사람이 대답했다. “저는 전에 병조판서를 지낸 홍길동입니다.” 임금은 놀라서 길동의 손을 잡으셨다. “그동안 어디에 있었느냐?” 길동이 대답했다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0015_15-a",
+  "en": "'I was in the mountains. Now I have left Joseon and I can never see Your Majesty again, so I came to say farewell. If Your Majesty grants me a thousand jeong of land, thousands of lives will be saved, and I will carry your favour.' The king agreed and said: 'Tell me your plans.",
+  "ko": "“산속에 있었습니다. 이제 조선을 떠나면 전하를 다시 뵐 기회가 없을 것 같아서, 작별 인사를 드리러 왔습니다. 전하께서 땅 삼천 석을 내려 주시면, 수많은 목숨을 살릴 수 있을 것입니다. 그 은혜는 잊지 않겠습니다.” 임금은 허락하시고 말씀하셨다. “계획을 말해 보거라.",
+  "is_header": false,
+  "id": 29
+ },
+ {
+  "tag": "P0015_15-b",
+  "en": "I want to see your face.' Gildong raised his face but did not open his eyes, and said:",
+  "ko": "그대의 얼굴을 보고 싶구나.” 길동은 고개를 들었지만, 눈은 뜨지 않은 채로 말했다.",
+  "is_header": false,
+  "id": 30
+ },
+ {
+  "tag": "P0015_16-a",
+  "en": "'If I open my eyes, Your Majesty may be startled, so I will not open them.' He bowed for a while, then rode off on a cloud, bidding farewell: 'With Your Majesty's virtue, you have given me three thousand seok of rice.",
+  "ko": "“제가 눈을 뜨면 전하께서 놀라실지 몰라서 뜨지 않겠습니다.” 길동은 한동안 엎드려 있다가, 구름을 타고 떠나면서 작별 인사를 했다. “전하의 덕으로 쌀 삼천 석을 내려 주셨습니다.",
+  "is_header": false,
+  "id": 31
+ },
+ {
+  "tag": "P0015_16-b",
+  "en": "Please have the rice shipped by the Seogang River tomorrow.' He vanished into the sky, and the king gazed up for a long time, admiring his skill. The next day he issued a royal order in the court that three thousand seok of rice were to be shipped along the Seogang River.",
+  "ko": "내일 그 쌀을 서강으로 실어다 주십시오.” 길동은 하늘로 사라졌고, 임금은 오랫동안 하늘을 바라보며 그의 재주에 감탄하셨다. 다음 날 임금은 조정에 명령을 내려, 쌀 삼천 석을 서강을 통해 보내라고 하셨다.",
+  "is_header": false,
+  "id": 32
+ },
+ {
+  "tag": "P0015_16-c",
+  "en": "The officials did not know the reason. As the rice was carried along the river, a line of boats came down the stream, and on the boats the rice was loaded, while Gildong bowed toward the palace, and went on to some unknown place.",
+  "ko": "신하들은 그 이유를 알지 못했다. 쌀을 강을 따라 실어 나르고 있는데, 강 위에서 배 한 척이 내려왔다. 그 배에 쌀을 싣고 떠나면서, 길동은 궁궐을 향해 절하고 어디론가 떠나갔다.",
+  "is_header": false,
+  "id": 33
+ }
+]

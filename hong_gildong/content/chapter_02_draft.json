@@ -1,0 +1,163 @@
+[
+ {
+  "id": 1,
+  "tag": "P0007",
+  "en": "The Fortune-Teller",
+  "ko": "관상녀",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "P0007_1",
+  "en": "One day the master went into the inner quarters, called Gildong, and said to his wife: 'This boy has a hero's spirit, but what use can he be?' He was teasing. Suddenly a woman came in from outside and knelt in the courtyard. Puzzled, the master asked why she had come.",
+  "ko": "하루는 대감이 안채에 들어가 길동을 불러 놓고 부인에게 말했다. “이 아이가 영웅의 기질은 있지만 무엇에 쓰겠소?” 농담처럼 놀리고 있었는데, 한 여자가 바깥에서 들어와 마당에 엎드렸다. 대감이 이상하게 여겨 무슨 일로 왔는지 물었다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0007_2-a",
+  "en": "'I live outside the East Gate. When I was young I met a sage who taught me how to read people's faces.",
+  "ko": "“저는 동대문 밖에 살고 있습니다. 어렸을 때 한 도인을 만나 사람의 얼굴을 보는 법을 배웠습니다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "tag": "P0007_2-b",
+  "en": "I have travelled the city reading faces, and I have heard of your great fortune, so I came to test my humble skill.' The master found it strange to talk with such a woman, but since he had been teasing Gildong, he smiled and said:",
+  "ko": "그 뒤로 여러 곳을 다니며 관상을 봐 왔는데, 대감의 큰 복에 대해 들었습니다. 그래서 제 재주를 한번 시험해 보려고 왔습니다.” 대감은 이런 여자와 이야기하는 것이 이상했지만, 길동을 놀린 김에 웃으며 말했다.",
+  "is_header": false,
+  "id": 4
+ },
+ {
+  "tag": "P0007_3-a",
+  "en": "'Come up, then, and tell me my future.' The fortune-teller climbed to the hall and studied the master's face. She recounted his past and foretold his future without a single error. The master praised her greatly and asked her to read everyone in the household.",
+  "ko": "“그럼 가까이 올라와서 내 앞날을 말해 보아라.” 관상 보는 여자는 대청으로 올라가 대감의 얼굴을 살폈다. 지난 일과 앞으로 일을 하나도 틀리지 않게 말했다. 대감은 크게 칭찬하며 집안 사람들의 얼굴도 봐 달라고 했다.",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0007_3-b",
+  "en": "Her readings were all accurate, and everyone present called her a seer. When they came to Gildong's face, she praised him greatly and said:",
+  "ko": "그녀가 말하는 것은 모두 맞았고, 그 자리의 사람들은 모두 그녀를 신통한 사람이라고 했다. 이윽고 길동의 얼굴을 보게 되었다. 그녀는 크게 칭찬하며 말했다.",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "id": 7,
+  "tag": "P0007_4",
+  "en": "'I have travelled through many towns and seen thousands of people, but I have never seen a face like your young master's. I wonder, though, whether he is not the child of the lady of the house.'",
+  "ko": "“여러 고을을 다니며 많은 사람을 보았지만, 공자님 같은 얼굴은 처음 봅니다. 그런데 혹시 부인께서 낳으신 아이가 아닌지요?”",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "P0007_5",
+  "en": "'That may be so,' the master said. 'But everyone's fortune comes in its own time. Read this boy's face on its own.' She studied him for a long time, then put on a show of surprise. The master asked what was wrong, but she stayed silent. He said:",
+  "ko": "대감이 말했다. “그럴 수도 있다. 하지만 사람의 운이란 제때 오는 것이니, 이 아이의 얼굴만 따로 보아라.” 관상 보는 여자는 한참을 살피더니 일부러 놀란 척했다. 대감이 무슨 일이냐고 묻자 그녀는 입을 다물었다. 대감이 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "P0007_6",
+  "en": "'Do not hide the good or bad fortune. Speak what you see, so that I have no doubts.' She said, 'If I tell you the plain truth, I fear it will disturb your heart.' The master said:",
+  "ko": "“좋은 일이든 나쁜 일이든 숨기지 말고 보이는 대로 말해라. 그래야 내가 의심하지 않는다.” 여자가 말했다. “사실대로 말씀드리면 대감의 마음이 흔들리실까 걱정됩니다.” 대감이 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "P0007_7",
+  "en": "'Even a man like Guo Fenyang had times of fortune and times of misfortune. Why all this hesitation? Speak what the face shows.' Reluctantly, she asked Gildong to step aside, then quietly said:",
+  "ko": "“옛날 곽분양 같은 사람도 좋은 때가 있었고 나쁜 때가 있었다. 뭘 그리 망설이느냐. 얼굴에 나타나는 대로 말해라.” 여자는 마지못해 길동을 잠깐 물러나게 한 뒤 조용히 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "P0007_8",
+  "en": "'Your young master's future holds much that cannot be spoken lightly. If he prospers, he will have a king's bearing. If he falls, there is a calamity beyond measure.' The master was shaken. When he had calmed down, he rewarded her generously and said:",
+  "ko": "“공자님의 앞날은 함부로 말할 수 없는 일이 많습니다. 잘되면 임금이 될 얼굴이고, 잘못되면 헤아릴 수 없는 큰 화를 입을 얼굴입니다.” 대감은 깜짝 놀랐다. 진정한 뒤에 여자에게 후하게 상을 주며 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "P0007_9",
+  "en": "'Do not speak of this carelessly.' He gave a stern order and added: 'I will see to it that he never gets a chance to rise.'",
+  "ko": "“이 이야기는 함부로 입 밖에 내지 마라.” 대감은 엄하게 말한 뒤 덧붙였다. “저 아이가 조금이라도 출세하지 못하게 막겠다.”",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "P0007_10",
+  "en": "The fortune-teller said, 'How can kings, lords, generals and ministers have a separate bloodline?' The master repeated his warnings, and she bowed, accepted his command, and left.",
+  "ko": "관상 보는 여자가 말했다. “왕이나 높은 신하가 어찌 따로 혈통이 정해져 있겠습니까?” 대감이 거듭 당부하자, 그녀는 공손히 대답하고 떠났다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0008_1-a",
+  "en": "From then on the master was deeply troubled. He thought: 'This boy is no ordinary child. He resents his low birth. If he takes a wrong path, our family, which has served the king for generations, will be ruined and great disaster will fall on us all.",
+  "ko": "그날부터 대감은 마음이 몹시 무거웠다. 그는 생각했다. ‘이 아이는 평범한 아이가 아니다. 천한 신분을 원망하고 있다. 만약 나쁜 길로 빠진다면, 대대로 나라에 충성해 온 우리 집안이 망하고 큰 화가 닥칠 것이다.",
+  "is_header": false,
+  "id": 14
+ },
+ {
+  "tag": "P0008_1-b",
+  "en": "I would like to remove him quietly to avert the calamity, but I cannot bring myself to do it out of human feeling.' Unable to find a way out, his worry became an illness. He ate without taste and slept without peace. Madam Goksan watched his face, then came forward quietly and said:",
+  "ko": "몰래 없애서 화를 막고 싶지만, 사람의 도리로 도저히 그럴 수는 없다.’ 해결할 방법이 없자 걱정이 병이 되었다. 밥맛도 없고 잠도 편히 자지 못했다. 곡산모는 대감의 표정을 살피다가 조용히 다가가 말했다.",
+  "is_header": false,
+  "id": 15
+ },
+ {
+  "id": 16,
+  "tag": "P0008_2",
+  "en": "'As the fortune-teller said, Gildong carries the aura of a king. If he does anything lawless, the calamity will be beyond measure. In my humble view, do not weigh small doubts. For the greater good, it is better to remove him in advance.' The master answered sharply:",
+  "ko": "“관상 보는 여자가 말한 대로, 길동은 왕의 기운을 타고났습니다. 만약 법을 어기는 일이라도 저지르면 화가 어마어마할 것입니다. 제 생각으로는 작은 망설임은 접어 두시고, 큰일을 위해 미리 없애는 게 낫습니다.” 대감은 날카롭게 대답했다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "P0008_3",
+  "en": "'This is not something to say lightly. How can you not hold your tongue? The affairs of this household are none of your business.' Madam Goksan, in fear, said no more. She went to the inner quarters and spoke to the lady of the house and the eldest son, Gilhyeon:",
+  "ko": "“함부로 할 말이 아니다. 너는 왜 입을 다물지 못하느냐. 우리 집안 일은 네가 상관할 일이 아니다.” 곡산모는 두려워서 더는 말하지 못했다. 그녀는 안채로 가서 부인과 맏아들 길현에게 말했다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0008_4-a",
+  "en": "'Since the master heard the fortune-teller's words, he has been unable to settle his mind. He cannot sleep or eat well, and he has fallen ill. I told him what I had heard the other day, but I was afraid of his scolding, so I could not say more.",
+  "ko": "“대감께서는 관상 보는 여자의 말을 들은 뒤로 마음을 정하지 못하셨습니다. 잠도 밥도 제대로 드시지 못해서 병이 나셨습니다. 며칠 전에 제가 그 말씀을 드렸지만, 꾸중을 들을까 봐 더 말씀드리지 못했습니다.",
+  "is_header": false,
+  "id": 18
+ },
+ {
+  "tag": "P0008_4-b",
+  "en": "Judging his heart, I think he too wanted to remove the boy but could not bring himself to do it. In my foolish view, the only good solution is to remove Gildong first and tell the master afterward. Once it is done, he will have no choice but to forget the matter entirely.'",
+  "ko": "제 생각에는 대감께서도 길동을 없애고 싶으셨지만 차마 못 하고 계신 것 같습니다. 어리석은 제 생각으로는, 먼저 길동을 없앤 뒤에 대감께 말씀드리는 것이 좋겠습니다. 일이 끝나면 대감께서도 어쩔 수 없으니 결국 잊으실 겁니다.”",
+  "is_header": false,
+  "id": 19
+ },
+ {
+  "id": 20,
+  "tag": "P0008_5",
+  "en": "The lady of the house said quietly, 'That may be so, but in human feeling and in the order of heaven, I cannot bear to do such a thing.'",
+  "ko": "부인이 조용히 말했다. “그렇다 하더라도 사람의 도리로 차마 그런 일을 할 수는 없다.”",
+  "is_header": false
+ },
+ {
+  "tag": "P0008_6-a",
+  "en": "Madam Goksan spoke again: 'This matter touches several things. First, it serves the kingdom. Second, it serves the master's health. Third, it protects the Hong family.",
+  "ko": "곡산모가 다시 말했다. “이 일은 여러 가지와 관련이 있습니다. 첫째는 나라를 위한 일이고, 둘째는 대감의 건강을 위한 일이고, 셋째는 홍씨 집안을 지키는 일입니다.",
+  "is_header": false,
+  "id": 21
+ },
+ {
+  "tag": "P0008_6-b",
+  "en": "How can you be so indecisive over a small feeling, and fail to see the larger matters, and then regret it bitterly?' With all sorts of words she soothed them, until they reluctantly agreed.",
+  "ko": "그런데 작은 감정 때문에 우유부단하게 굴면서 큰일을 보지 않으시다가, 나중에 후회하시면 어떻게 하시겠습니까?” 곡산모는 온갖 말로 두 사람을 달랬고, 결국 부인과 대감도 마지못해 허락했다.",
+  "is_header": false,
+  "id": 22
+ },
+ {
+  "tag": "P0008_6-c",
+  "en": "She slipped out in secret, invited an assassin named Teukja, told him everything, and gave him a large sum of silver. They agreed to strike Gildong that very night. She went back in and reported the progress to the lady of the house, who stamped her feet and sighed bitterly.",
+  "ko": "곡산모는 몰래 나가서 특자라는 자객을 불렀다. 그에게 모든 사정을 말하고 큰돈을 주었다. 두 사람은 그날 밤 길동을 해치기로 약속했다. 곡산모는 다시 안채로 들어가 부인에게 일이 진행되고 있다고 알렸고, 부인은 발을 구르며 한숨을 쉬었다.",
+  "is_header": false,
+  "id": 23
+ }
+]

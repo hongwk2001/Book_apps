@@ -1,0 +1,18 @@
+{
+ "source": "hong_gildong/content (36장 완판본, 공유마당, 자유이용 만료)",
+ "generated_by": "content/ko_rewrite/migrate_assets.py from content/chapter_NN_draft.json",
+ "files": {
+  "ch_01.json": "ff1fb1e30f7df1ed3806b27ee5190b44556b818a6742f02f43d3eadf506bd326",
+  "ch_02.json": "f1141028855ad1918958e60b97d30cc7b69b16c34973dac305c072e3c7ac7880",
+  "ch_03.json": "78a44994f8b296c73816e03dbdc6c82d76648027efa52ec7349694b09313db31",
+  "ch_04.json": "b34c13be2578238d2cbebf8cd7acce6399ac1b5e38d0fc140835d2dd3c31a2de",
+  "ch_05.json": "86bee4bb03d7566af88b577ced17332e51b16cca0947882a893cbf484e997072",
+  "ch_06.json": "566bdef9ae0e4847c066a85f803f4755a8d486e82ef50e1797d5356f648c6494",
+  "ch_07.json": "782b89ba655de452fe0a0a698bb1df5fc8343b93018e8693125a86ac9c53c241",
+  "ch_08.json": "30cd1edfcdd77dc91ae81d0a58fb47a6ba5211b786d42b9289816f53ada45fe8",
+  "ch_09.json": "fa5fa53084ff5ce6518cc0c620f27593164cc08b99bc514a2c14ebe3a9b2f863",
+  "ch_10.json": "6b0d1aca7690412a53b061c1215e39740d932dc5e71faf653efa6ac881916ab8",
+  "ch_11.json": "cea3899509b30354fd69a1f5f747a2e76d1961a7958d5db495d10bf9b604ef24",
+  "ch_12.json": "f3ce4ffa1aea34d03d64b578dc76bf9b84fa84ee51646fcdb18925a2ce95c742"
+ }
+}

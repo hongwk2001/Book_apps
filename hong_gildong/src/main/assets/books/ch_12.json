@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "tag": "P0018",
+  "en": "Ascension",
+  "ko": "승천",
+  "is_header": true
+ },
+ {
+  "tag": "P0018_1-a",
+  "en": "One day thunder and lightning shook heaven and earth, and five-coloured clouds and mists surrounded the moon mountain. After a while the thunder died down, the sky grew clear, and the sound of cranes and immortal music drifted in the air. But the king and queen were nowhere to be seen.",
+  "ko": "어느 날 천둥 번개가 하늘과 땅을 울리고, 오색 구름과 안개가 월영산을 감쌌다. 한참 뒤 천둥이 멎고 하늘이 맑아졌다. 공중에서는 학의 울음소리와 신선의 음악 소리가 울려 퍼졌다. 그런데 임금과 왕비의 모습이 어디에도 보이지 않았다.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0018_1-b",
+  "en": "The king hurried to the moon mountain, but there was no trace of them. Unable to bear the grief, he gazed into the sky and called out again and again. They held a memorial burial for the king at Hyeondeok Tomb with an empty coffin, and the people said:",
+  "ko": "임금은 서둘러 월영산으로 갔지만, 아무 흔적도 찾을 수 없었다. 슬픔을 견딜 수 없었던 임금은 하늘을 바라보며 거듭 소리 내어 울었다. 그리고 현덕릉에 빈 관을 두고 임금의 장례를 치렀다. 백성들은 이렇게 말했다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "id": 4,
+  "tag": "P0018_2",
+  "en": "'Our great king has followed the path of the immortals and ascended to heaven.'",
+  "ko": "“우리 임금께서는 신선의 길을 닦아 대낮에 하늘로 오르셨다.”",
+  "is_header": false
+ },
+ {
+  "tag": "P0018_3-a",
+  "en": "The king gave his people peace and virtue, and the whole kingdom enjoyed prosperity for generations, passing the throne from father to son in peace.",
+  "ko": "임금은 백성을 평화롭고 덕스럽게 다스렸다. 나라는 여러 대에 걸쳐 번영했고, 왕위는 아버지에게서 아들에게로 평화롭게 전해졌다.",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0018_3-b",
+  "en": "Minister Hong's family in Joseon, after his wife died in old age, saw his eldest son Gilhyeon perform the funeral rites with great care, and bury her at Seonsan Yeoryeok.",
+  "ko": "조선에 있던 홍 승상 집안에서는, 승상의 부인이 늙어서 세상을 떠났다. 맏아들 길현은 극진히 예를 갖추어 장례를 치렀고, 어머니를 선산 여록에 모셨다. 삼 년 동안 상복을 입고 탈상한 뒤에,",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "tag": "P0018_3-c",
+  "en": "Gilhyeon rose in the court, held the post of Hallim Academician and Hongmun Hall Lecturer, then was promoted again to the post of Minister of State, and finally became Chancellor.",
+  "ko": "조정에 나아가 한림학사와 홍문관 교리를 겸했다. 그 뒤로 계속 승진하여 대신이 되었고, 마침내 승상의 자리에까지 올랐다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "tag": "P0018_3-d",
+  "en": "His good fortune was like this, and he enjoyed honour and wealth for the rest of his life. Yet whenever he thought of his younger brother, he sighed that they could not meet across the north and south lands, and he grieved.",
+  "ko": "이렇게 집안이 다시 일어나서, 길현은 평생 부귀와 명예를 누렸다. 하지만 동생 생각이 날 때마다, 남북으로 멀리 떨어져 만날 수 없는 처지를 한탄하며 슬퍼했다.",
+  "is_header": false,
+  "id": 8
+ },
+ {
+  "id": 9,
+  "tag": "P0018_4",
+  "en": "Oh, the story of Hong Gildong! A bold man. Though born of a low-born mother, he gave up his grievances, fulfilled his loyalty and filial piety, and his divine skill was truly unmatched in his age. This is why later generations should know of him.",
+  "ko": "아, 홍길동의 이야기여! 참으로 호방한 사내로다. 비록 천한 어머니에게서 태어났지만, 원한을 풀어 버리고 충성과 효도를 온전히 지켜서, 그 신기한 재주는 당대에 견줄 사람이 없었다. 그러므로 후세 사람들도 그의 이야기를 알아야 한다.",
+  "is_header": false
+ }
+]

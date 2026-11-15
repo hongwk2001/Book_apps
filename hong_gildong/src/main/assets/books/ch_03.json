@@ -1,0 +1,191 @@
+[
+ {
+  "id": 1,
+  "tag": "P0009",
+  "en": "The Assassin at Night",
+  "ko": "밤의 자객",
+  "is_header": true
+ },
+ {
+  "tag": "P0009_1-a",
+  "en": "Gildong was eleven. He was strong and handsome, and he understood everything at once. The master kept him from going out, so he lived alone in a separate room, studying the military strategies of Sun Wu and the magic arts that even ghosts could not measure.",
+  "ko": "이때 길동은 열한 살이었다. 체격이 좋고 얼굴이 빼어났으며, 무엇이든 한 번 들으면 다 알았다. 대감이 밖으로 나가지 못하게 해서, 혼자 별당에 머물며 병법책을 읽었다. 귀신도 알아채지 못하는 술법을 익히기도 했다.",
+  "is_header": false,
+  "id": 2
+ },
+ {
+  "tag": "P0009_1-b",
+  "en": "He could command wind and cloud, summon the spirits of the sixty-day cycle, and he feared nothing in the world. One night, after the third watch, he was about to put his writing desk aside and sleep when, outside the window, crows cried three times and flew to the west.",
+  "ko": "바람과 구름을 부리고, 하늘의 신장(神將)을 불러낼 줄도 알았다. 그래서 세상에 무서울 것이 없었다. 그날 밤 삼경이 되어 책상을 치우고 자려는데, 창밖에서 까마귀가 세 번 울고 서쪽으로 날아갔다.",
+  "is_header": false,
+  "id": 3
+ },
+ {
+  "id": 4,
+  "tag": "P0009_2",
+  "en": "'Assassins are coming from the west, crying out. Someone wants to harm me. I will set up a defense.' He arranged eight trigrams around the room, changing their directions, placed the wind and cloud in the center, and waited for the moment.",
+  "ko": "“서쪽에서 자객들이 몰려오고 있구나. 누군가 나를 해치려는 게로구나. 방비를 해야겠다.” 길동은 방 안에 여덟 방위의 진을 치고, 가운데에 바람과 구름을 두고 때를 기다렸다.",
+  "is_header": false
+ },
+ {
+  "tag": "P0009_3-a",
+  "en": "Meanwhile, Teukja held a dagger and hid by Gildong's room, waiting for his moment. Suddenly a crow cried out, and Teukja was startled. He thought: 'What is this crow crying about? Gildong is no ordinary boy.",
+  "ko": "그 무렵 특자는 비수를 들고 길동의 방 곁에 숨어 기회를 엿보고 있었다. 그때 까마귀가 갑자기 울자 특자는 깜짝 놀랐다. ‘이 까마귀는 무엇을 알리려고 우는 걸까? 길동은 보통 아이가 아니구나.’",
+  "is_header": false,
+  "id": 5
+ },
+ {
+  "tag": "P0009_3-b",
+  "en": "I should use him for something great.' He was about to turn back, but greed for silver kept him from thinking clearly. He jumped into the room. Gildong was gone. A violent wind rose, thunder and lightning shook the sky, and cloud and fog blinded him.",
+  "ko": "‘이런 아이는 나중에 큰일에 쓸 만하겠다. 살려 두자.’ 특자는 돌아가려 했지만, 은돈에 욕심이 나서 생각이 흐려졌다. 그는 방으로 뛰어들었다. 그런데 길동은 간데없고, 거센 바람이 불고 천둥 번개가 치며 안개가 자욱해졌다.",
+  "is_header": false,
+  "id": 6
+ },
+ {
+  "tag": "P0009_3-c",
+  "en": "Mountains and valleys surrounded him, and he could not tell east from west.",
+  "ko": "주위에는 산과 골짜기가 겹겹이 솟아 있었고, 동서남북도 분간할 수 없었다.",
+  "is_header": false,
+  "id": 7
+ },
+ {
+  "id": 8,
+  "tag": "P0009_4",
+  "en": "Suddenly he heard the sound of a jade flute. He looked up and saw a boy riding a white crane through the air, calling out: 'Who are you, sneaking in with a dagger on this deep night? Whom do you mean to kill?'",
+  "ko": "그때 피리 소리가 들려 올려다보니, 파란 옷을 입은 아이가 흰 학을 타고 하늘을 날고 있었다. 그 아이가 소리쳤다. “이 깊은 밤에 비수를 들고 몰래 들어온 너는 누구냐? 누구를 죽이려고 왔느냐?”",
+  "is_header": false
+ },
+ {
+  "tag": "P0009_5-a",
+  "en": "'You are Gildong, surely. I came on your father's orders to take your life.' He threw the dagger, but Gildong vanished. Thunder rolled, a dark wind blew, and a deadly aura filled the air.",
+  "ko": "“너는 분명 길동이로구나. 나는 너의 아버지 명을 받아 너를 죽이러 왔다.” 특자가 비수를 던졌지만, 길동은 어느새 사라졌다. 천둥이 울리고 어두운 바람이 불며 살기가 하늘을 가득 채웠다.",
+  "is_header": false,
+  "id": 9
+ },
+ {
+  "tag": "P0009_5-b",
+  "en": "Teukja was terrified and drew his sword, shouting: 'I took silver to take your life, and now my life is lost.' Then Gildong's voice came from the air:",
+  "ko": "특자는 겁이 나서 칼을 뽑으며 외쳤다. “은돈을 받고 너를 죽이러 왔다가, 이제 내 목숨도 끝이로구나!” 그때 허공에서 길동의 목소리가 들려왔다.",
+  "is_header": false,
+  "id": 10
+ },
+ {
+  "id": 11,
+  "tag": "P0009_6",
+  "en": "'Hear me, fool! You took silver to try to kill innocent people. If I spare you now, many innocent people will be harmed later. How can I let you live?' Teukja cried out: 'It was not my fault. It was the work of Miss Chonang, the master's favourite. Please spare me, so that I may repent in time.'",
+  "ko": "“어리석은 놈아, 잘 들어라. 너는 돈을 받고 죄 없는 사람을 해치려 했다. 지금 너를 살려 두면, 나중에 죄 없는 사람이 많이 다칠 것이다. 어떻게 너를 살려 보내겠느냐?” 특자가 애원했다. “제 잘못이 아닙니다. 대감의 총애를 받는 초낭 아씨가 시킨 일입니다. 살려 주시면 잘못을 뉘우치겠습니다.”",
+  "is_header": false
+ },
+ {
+  "tag": "P0009_7-a",
+  "en": "Gildong's anger grew. 'Your miserable life is no great thing.",
+  "ko": "길동은 더 화가 났다. “너의 비참한 목숨은 아무것도 아니다.",
+  "is_header": false,
+  "id": 12
+ },
+ {
+  "tag": "P0009_7-b",
+  "en": "Today I will borrow my own hand to end this evil.' With that he cut off Teukja's head, then commanded the spirits to seize the fortune-teller at the East Gate and charge her with her crimes: 'You wicked woman, you go in and out of the minister's house and harm human lives.",
+  "ko": "오늘 내 손으로 이 악한 자를 없애겠다.” 그러고는 특자의 목을 베었다. 그리고 신장들에게 명해 동대문 밖에 있는 관상 보는 여자를 잡아 오게 했다. “요망한 년아, 재상의 집을 드나들면서 사람의 목숨을 해쳤으니, 네가 무슨 죄인지 알겠느냐?”",
+  "is_header": false,
+  "id": 13
+ },
+ {
+  "tag": "P0009_7-c",
+  "en": "Do you know your own crime?'",
+  "ko": "네 죄를 알고 있느냐?",
+  "is_header": false,
+  "id": 14
+ },
+ {
+  "tag": "P0009_8-a",
+  "en": "The fortune-teller had been riding a wind on her way home, and she was carried through the air without knowing where she was going. When she heard Gildong's voice, she was frightened and said: 'This is not my doing, but the doing of Miss Chonang.",
+  "ko": "관상 보는 여자는 집으로 돌아가던 길에 바람에 휩싸여 어디로 가는지도 모르고 날아가고 있었다. 길동의 목소리를 듣자 겁에 질려 애원했다. “이건 제가 한 일이 아니라 초낭 아씨가 시킨 일입니다.",
+  "is_header": false,
+  "id": 15
+ },
+ {
+  "tag": "P0009_8-b",
+  "en": "Please forgive me, for you have a generous heart.' Gildong said: 'Chonang is my stepmother and I cannot speak against her. But I cannot keep wicked people like you alive.'",
+  "ko": "용서해 주십시오. 도량이 넓으신 분이라 믿습니다.” 길동이 말했다. “초낭은 나의 계모이니 내가 뭐라고 할 수 없다. 하지만 너 같은 악인을 살려 둘 수는 없다. 본보기로 벌을 주겠다.” 칼을 뽑아 그녀의 목을 베고 특자의 곁에 던졌다.",
+  "is_header": false,
+  "id": 16
+ },
+ {
+  "tag": "P0009_9-a",
+  "en": "Still angry, he went straight to his father and reported the strange events. He meant to kill Chonang too, but then he thought: 'As the saying goes, a man's fortune is not something to dismiss.' So he went quietly to the master's bedroom, knelt beneath the courtyard, and waited.",
+  "ko": "길동은 여전히 화가 난 채로 아버지 대감에게 가서 이 일을 알렸다. 초낭까지 죽이려 했지만, 문득 생각했다. ‘그래도 초낭은 어머니 항렬이다. 한때의 분노로 사람의 도리를 끊을 수는 없지.’ 그래서 조용히 대감의 방 앞 뜰에 엎드려 기다렸다.",
+  "is_header": false,
+  "id": 17
+ },
+ {
+  "tag": "P0009_9-b",
+  "en": "When the master woke and saw someone outside, he opened the window and looked. There was Gildong, kneeling in the yard. He said:",
+  "ko": "대감이 잠에서 깨어 문밖에 누가 있는 것을 보고 창문을 열었다. 뜰에 길동이 엎드려 있었다. 대감이 말했다.",
+  "is_header": false,
+  "id": 18
+ },
+ {
+  "id": 19,
+  "tag": "P0009_10",
+  "en": "Gildong kowtowed and said in tears: 'Tonight a wicked disaster has happened, and I have fled from my home. I have come to you first before going.' The master was alarmed, but thought: 'What strange circumstances these are!' He said, 'Explain at daybreak. Go now and wait for my command.'",
+  "ko": "길동은 엎드려 울며 말했다. “오늘 밤 끔찍한 일이 있어서 집을 떠나려고 합니다. 떠나기 전에 아버지께 먼저 인사드리러 왔습니다.” 대감은 놀랐지만, ‘무슨 사정이 있구나’ 싶었다. “무슨 일인지는 날이 밝으면 듣겠다. 지금은 가서 내 명을 기다려라.”",
+  "is_header": false
+ },
+ {
+  "tag": "P0009_11-a",
+  "en": "Gildong knelt and said: 'I am leaving home now. May you prosper, sir. I may never see you again.' The master knew that Gildong would not stay even if persuaded, so he asked: 'Where will you go?' Gildong bowed and said: 'I am fleeing, and the heavens are my home, so I do not know where I will settle.",
+  "ko": "길동이 무릎을 꿇고 말했다. “저는 이제 집을 떠납니다. 아버지께서는 건강하시기를 바랍니다. 다시는 뵙지 못할 수도 있습니다.” 대감은 아무리 말려도 길동이 떠날 것을 알았다. “어디로 갈 것이냐?” 길동이 엎드려 대답했다. “하늘과 땅을 집으로 삼고 떠돌아다닐 것이니, 어디에 정착할지는 저도 모릅니다.",
+  "is_header": false,
+  "id": 20
+ },
+ {
+  "tag": "P0009_11-b",
+  "en": "But my lifelong grievance has no end, and I am even more sorrowful.'",
+  "ko": "그래도 평생의 원한은 끝이 없어 더욱 서럽습니다.”",
+  "is_header": false,
+  "id": 21
+ },
+ {
+  "tag": "P0009_12-a",
+  "en": "The master comforted him: 'From today I will grant you your wish. Even if you wander the four corners of the land, do not commit crimes that bring disgrace on your father. Return quickly and comfort my heart. I have no more words to say.",
+  "ko": "대감이 길동을 달랬다. “오늘부터 너의 소원을 들어주겠다. 네가 어디를 떠돌더라도, 아버지 가문에 누를 끼치는 일은 하지 마라. 어서 돌아와서 내 마음을 위로하여라. 더 할 말은 없다.",
+  "is_header": false,
+  "id": 22
+ },
+ {
+  "tag": "P0009_12-b",
+  "en": "Take care of yourself.' Gildong rose, bowed again, and said: 'Father, you have granted me my long-held wish today. Even if I die now, I have no regret. Long live my father.'",
+  "ko": "몸조심하거라.” 길동은 일어나서 다시 절을 하며 말했다. “아버지께서 오늘 오랜 소원을 들어주시니, 이제 죽어도 한이 없습니다. 아버님은 오래오래 건강하십시오.” 그러고는 인사를 하고 나와서 바로 어머니 방으로 들어갔다.",
+  "is_header": false,
+  "id": 23
+ },
+ {
+  "tag": "P0009_13-a",
+  "en": "'I am leaving home now, Mother. Do not think of your unfilial son. If you stay well, I will return to see you one day. Do not worry; take care of yourself and guard your precious health.' He then told his mother all that Chonang had plotted, step by step.",
+  "ko": "“어머니, 저는 이제 집을 떠납니다. 불효한 자식이라 생각하지 마세요. 어머니가 건강하게 계시면 언젠가 돌아와 뵐 날이 있을 겁니다. 걱정하지 마시고 몸 조심하세요.” 그러고는 초낭이 꾸민 일을 처음부터 끝까지 낱낱이 말씀드렸다.",
+  "is_header": false,
+  "id": 24
+ },
+ {
+  "tag": "P0009_13-b",
+  "en": "His mother, after hearing the disaster, knew that she could not hold him back. She sighed and said:",
+  "ko": "어머니는 이야기를 자세히 듣고 나서, 길동을 붙잡을 수 없다는 것을 알았다. 그녀는 한숨을 쉬며 말했다.",
+  "is_header": false,
+  "id": 25
+ },
+ {
+  "tag": "P0009_14-a",
+  "en": "'Go out for now and avoid the trouble. Look at your mother's face and return soon, so that I am not left with the illness of disappointment.' She wept bitterly, and Gildong comforted her many times, wiped his tears, took leave, and stepped out the gate.",
+  "ko": "“지금은 일단 나가서 화를 피하거라. 어미 얼굴을 보러 속히 돌아와서, 내가 너 때문에 실망하는 병에 걸리지 않게 해다오.” 어머니가 서럽게 울자, 길동은 여러 번 위로하고 눈물을 닦은 뒤 인사를 하고 대문 밖으로 나섰다.",
+  "is_header": false,
+  "id": 26
+ },
+ {
+  "tag": "P0009_14-b",
+  "en": "The great earth was wide, but there was no place for one body. He went out sighing, with no destination.",
+  "ko": "넓은 세상이었지만 한 몸 둘 곳이 없었다. 길동은 한숨을 쉬며 정처 없이 떠났다.",
+  "is_header": false,
+  "id": 27
+ }
+]
