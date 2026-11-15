@@ -1,0 +1,19 @@
+{
+ "source": "sim_cheong/content (完板 71장본, 위키문헌, PD-old-100)",
+ "generated_by": "content/ko_rewrite/migrate_assets.py from content/chapter_NN_draft.json",
+ "files": {
+  "ch_01.json": "3313c8719074ab45907f3a785ee3e5ef9f3ba5494f43b69bfc71fee729d1705b",
+  "ch_02.json": "71e5390e4c8b7d49f37e50df32876bd98db39f6c6b89fb742632a2e9f3d82f8a",
+  "ch_03.json": "696bfa1f34237baa075d4dcadbed0a2a36fdc7b57f2ddad92f7b631b8b0bc3b6",
+  "ch_04.json": "c63c382c7bb1a5d16f73f5e66c5636a84ff6187f1a3f3e84e521c2e64b0c0b5f",
+  "ch_05.json": "88249670c15d45404ffa514c818d91446a10043071b08fa6752b51c5399e858a",
+  "ch_06.json": "9c7ed437d5789c671188e7cfd344c9a8c6b917207c1ea3687185e161b634f8a9",
+  "ch_07.json": "9b5e1f6d9abfba575f213cd75b7af0d3fb151e896102fa3dbf7195c4fdb5f79d",
+  "ch_08.json": "81cce7ce000d0a8d8fb3dc98cc8c03027e3214310800fb79fa0d747cedc1d56f",
+  "ch_09.json": "8e015bb3a9bc15bcc00ea3c3b303572d0ac79cefe791a42ad17516d692486a73",
+  "ch_10.json": "a0227647fcf2fcdb265dbb1beb2b8c818dbafb16530c70c96ae77706497362e2",
+  "ch_11.json": "f73255e3200efe149fdb4627d991b05f60ed729b082d71fff47177ad99893914",
+  "ch_12.json": "835b5ddfe110fae52c94ecd4b026de59e8d6f4d515dfab2063f79ed78bc44f2b",
+  "ch_13.json": "1e38cb7e63e9ab7bb799eb337dcbe44caaecc478b6322316f951d27d239fca82"
+ }
+}

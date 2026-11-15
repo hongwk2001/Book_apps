@@ -1,0 +1,107 @@
+[
+ {
+  "id": 1,
+  "tag": "C05_h",
+  "en": "The Poem of Farewell",
+  "ko": "이별의 시",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C05_1",
+  "en": "Shim Cheong bowed deeply. “I was born to a poor family, and my mother died when I was a baby. My blind father raised me by begging for milk. Now you offer to take me in as a daughter. I am grateful, but I cannot leave my father alone.”",
+  "ko": "심청은 깊이 절하며 말했다. “저는 가난한 집에서 태어나 갓난아기 때 어머니를 여의었습니다. 눈먼 아버지가 젖을 동냥해 저를 키우셨습니다. 이제 부인께서 저를 딸로 삼아 주시겠다니 고맙지만, 홀로 계신 아버지를 두고 떠날 수는 없습니다.”",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C05_2",
+  "en": "“If you take me as your daughter, my father would be left without anyone. Please keep your kindness in your heart, and let me serve my father as I always have.”",
+  "ko": "“부인의 수양딸이 되면 우리 아버지는 누구를 의지하시겠습니까. 부인의 은혜는 마음에 새기겠으니, 저는 늘 해 오던 대로 아버지를 모시게 해 주십시오.”",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C05_3",
+  "en": "Madam Jang was moved and held her, patting her back. “You are a filial daughter. Your words are right. I did not think of it that way. Let us keep in touch as mother and daughter.”",
+  "ko": "장승상 부인은 감동해서 심청의 등을 어루만졌다. “참으로 효녀로구나. 네 말이 옳다. 내가 미처 그것을 생각하지 못했구나. 앞으로 모녀처럼 지내자꾸나.”",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C05_4",
+  "en": "Night fell, and Shim Cheong said, “Madam, I must go home. My father is waiting for me, and I have been away all day.” Madam Jang gave her silk, cloth, and food, and told her to come back often.",
+  "ko": "날이 저물자 심청이 말했다. “부인, 이제 집에 가야겠습니다. 아버지께서 종일 기다리고 계실 겁니다.” 장승상 부인은 비단과 피륙, 양식을 후하게 싸 주며 자주 놀러 오라고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C05_5",
+  "en": "Before she left, Shim Cheong asked for paper and a brush. Her tears fell on the page like drops of rain. When she hung the scroll on the wall, it looked like a painting. Madam Jang read the lines:",
+  "ko": "떠나기 전에 심청은 종이와 붓을 청했다. 붓을 들자 눈물이 먼저 떨어져 글자가 번졌다. 글씨가 마치 그림 족자 같았다. 장승상 부인이 글을 읽었다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C05_6",
+  "en": "“Life and death are only a dream within a dream. Why should I weep? Yet in this world, the most heartbreaking thing is that the man from the south can never return.”",
+  "ko": "“살고 죽는 것은 한 꿈속의 일이니, 정을 이기지 못해 눈물을 흘릴 까닭이 있으랴. 그러나 세상에서 가장 애끊는 일은, 강남에 간 사람이 돌아오지 못하는 것이다.”",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C05_7",
+  "en": "Madam Jang was amazed. “You are not a mortal. You are truly a fairy. I will write a poem in reply.”",
+  "ko": "장승상 부인은 놀랐다. “너는 세상 사람이 아니로구나. 참으로 선녀다. 내가 답하는 시를 써 주마.”",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C05_8",
+  "en": "Her reply read: “Wind and rain come in the dark night, and the cold spreads. Flowers fall beneath the pines. Among humans, the sorrow of parents and children is a knot that is hard to undo.”",
+  "ko": "부인이 쓴 답시는 이러했다. “아무 까닭 없이 밤비와 바람이 몰아쳐 추워지니, 꽃을 꺾어 소매에 담아 문 앞에 두노라. 인간 세상의 괴로움은 부모와 자식이 서로 정으로 묶인 것이니, 그 정과 은혜를 쉽게 끊기 어렵구나.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C05_9",
+  "en": "Shim Cheong tucked the poem into her chest and said goodbye with tears. When she got home, she found her father waiting, hungry and cold, in a room with no fire.",
+  "ko": "심청은 그 글을 품 안에 간직하고 눈물을 흘리며 작별했다. 집으로 돌아와 아버지를 보니 가슴이 미어지는 듯했다. 그러나 아버지는 밥도 먹지 않고 기다리고 계셨다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C05_10",
+  "en": "Shim Hak-gyu held her and cried, “Do not go! You cannot go without me. Take me with you!” But a child could not cure her father’s grief. She soothed him, but her own heart was heavy.",
+  "ko": "심학규는 딸을 붙들고 울었다. “안 된다, 가지 마라. 너 혼자는 못 간다. 나도 데려가거라!” 심청은 아버지를 달랬지만, 자신도 마음이 무거웠다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C05_11",
+  "en": "One day, Shim went out to pray, but on his way home he slipped on the ice and fell into a ditch. He was almost dead in the freezing snow, unable to get up.",
+  "ko": "어느 날 심학규는 외출을 했다가 돌아오는 길에 얼음에 미끄러져 개울에 떨어졌다. 차가운 눈 속에서 기진맥진해 거의 죽게 되었는데, 아무도 그를 건져 주는 사람이 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C05_12",
+  "en": "A traveling monk from Mongun Temple was walking that way, collecting donations to repair his temple. He heard a faint voice asking for help. He ran to the stream and pulled the old man out of the ditch.",
+  "ko": "그때 몽운사의 화주승이 절을 중창하려고 시주를 받으러 내려오다가 실낱같은 소리를 들었다. 승려는 자비심에 소리가 나는 곳으로 달려가서 물에 빠진 노인을 건져 올렸다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "C05_13",
+  "en": "The monk set down his staff and his bag, and carried the blind man on his back to a room. He warmed him and asked, “Who are you, and how did you fall into the stream?”",
+  "ko": "승려는 지팡이와 보따리를 내려놓고 심학규를 업어다 방에 눕혔다. 몸을 녹여 주며 물었다. “어르신은 누구시며, 어떻게 개울에 빠지셨습니까?”",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "C05_14",
+  "en": "The old man told him his whole story, from his wife’s death to his daughter’s life. The monk said, “You are truly unlucky. Our Buddha is very powerful. If you give three hundred sacks of rice as an offering, with a sincere heart, your eyes will open, and you will see the world again.”",
+  "ko": "심학규는 아내의 죽음부터 딸이 효도를 해 온 이야기까지 지난 일을 낱낱이 들려주었다. 승려가 말했다. “참으로 안타까우십니다. 우리 부처님은 영험하십니다. 공양미 삼백 석을 지성으로 올리면 눈을 뜨고 세상을 보게 되실 겁니다.”",
+  "is_header": false
+ }
+]

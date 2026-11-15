@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "tag": "C13_h",
+  "en": "A Happy Ending",
+  "ko": "행복한 결말",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C13_1",
+  "en": "Empress Shim had a great sorrow and a great joy. Madam Ahn, now Lady of Virtue, gave birth to twin sons, and the empress also gave birth to a son. The Emperor was pleased, and sent gold, silk, and gifts to the family.",
+  "ko": "심황후는 큰 슬픔과 큰 기쁨을 함께 겪었다. 이제 정열부인이 된 안씨도 쌍둥이 아들을 낳았고, 황후 또한 아들을 낳았다. 황제는 기뻐하며 금은과 비단을 보내 축하했다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C13_2",
+  "en": "The empress asked her father to tell her about the boys. He was filled with pride. “Your mother is a good woman, and the two boys look just like you.” The house was full of laughter.",
+  "ko": "황후가 아버지께 여쭙자 심봉사는 자랑스러워했다. “네 어머니는 어진 분이었다. 저 두 아이도 모두 네 모습을 쏙 빼닮았구나.” 집 안은 웃음꽃이 피었다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C13_3",
+  "en": "The Emperor named the son of the empress as heir, and he was called Prince Taedong. He was clever and grew up quickly. He was well trained in the classics and in martial arts, and everyone admired him.",
+  "ko": "황제는 황후의 아들을 태자로 세웠는데, 이름은 태동이었다. 태동은 총명하여 빨리 자랐고, 경서와 글을 두루 익혔으며, 모든 사람이 그를 칭찬했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C13_4",
+  "en": "When Prince Taedong was about thirteen, the Emperor chose a bride for him. He chose Lady Kwon, a daughter of the house of Kwon, who was virtuous and beautiful, to be his wife. The prince was delighted.",
+  "ko": "태동이 열세 살이 되었을 때 황제는 그의 배필을 정했다. 권씨 집안의 현숙하고 아름다운 규수를 골라 태자비로 삼았다. 태동도 기뻐했다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C13_5",
+  "en": "The Emperor chose brides for the young princes. He chose Lady Kwon, a beautiful and virtuous girl, for the crown prince. He chose Princess An-yang of Yeon for Taedong. Both brides were sixteen years old.",
+  "ko": "황제는 두 왕자의 배필을 정했다. 태자의 배필로는 권씨 집안의 아름답고 어진 규수를 골랐다. 태동의 배필로는 연왕의 공주 안양공주를 맞이하게 했다. 두 신부는 모두 열여섯 살이었다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C13_6",
+  "en": "The weddings were held on the fifteenth day of the third spring month. The whole court celebrated, and every high official attended. Empress Shim and the Duke were full of joy. Taedong studied hard and served the country faithfully.",
+  "ko": "혼례는 춘삼월 보름날 치러졌다. 궁중은 크게 경사스러웠고, 모든 높은 관원이 자리했다. 황후와 부원군은 기뻐했다. 태동은 학문에 힘써 나라를 위해 충성을 다했다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C13_7",
+  "en": "Years passed. The Duke of Nampyeong, who was old, fell ill and died after a week. The empress wept and mourned for three years. The Emperor said, “Life is short, but do not grieve too much.” He buried the duke in the royal tomb.",
+  "ko": "세월이 흘러 늙은 남평왕이 병으로 쓰러져 일주일 만에 세상을 떠났다. 황후는 슬퍼하며 삼 년 동안 상복을 입었다. 황제는 “사람의 목숨은 길지 않으니 너무 애통해하지 마라”고 위로했고, 남평왕을 왕릉에 장사 지냈다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C13_8",
+  "en": "The story of Shim Cheong still lives. Sorrow and joy come to all people, and no one can avoid either. But Empress Shim’s name will be remembered for a thousand years.",
+  "ko": "사람들은 이렇게 말한다. 예로부터 세상은 고금이 다르지 않아 부귀영화를 누리는 이도 있고, 슬픔을 겪는 이도 있다. 흥진비래 고진감래는 누구에게나 찾아오는 법이다. 심황후의 어진 이름은 천 년 뒤에도 전해질 것이다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C13_9",
+  "en": "People say that times change, and no one stays rich or happy forever. Sorrow and joy come to everyone. Empress Shim’s good name will be remembered for a thousand years.",
+  "ko": "사람들은 말한다. 세상은 변하고 부귀영화도 영원하지 않다. 흥하면 쇠하고, 고생 끝에 낙이 오는 것은 누구에게나 찾아오는 일이다. 심황후의 어진 이름은 천 년 뒤에도 전해질 것이다.",
+  "is_header": false
+ }
+]

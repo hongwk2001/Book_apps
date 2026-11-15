@@ -1,0 +1,93 @@
+[
+ {
+  "id": 1,
+  "tag": "C04_h",
+  "en": "Cheong Begs for Food",
+  "ko": "심청의 밥 빌기",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C04_1",
+  "en": "By the age of seven or eight, Shim Cheong was clever and kind to everyone. She was so well mannered that the whole village praised her.",
+  "ko": "심청은 일고여덟 살이 되자 영리하고 착해서 누구에게나 예의가 발랐다. 마을 사람들은 모두 그녀를 칭찬했다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C04_2",
+  "en": "One day she said, “Father, a crow feeds its parents when they cannot find food. How much more should a person care for a parent? I am now eight years old. If I beg for food, you will not have to worry about your meals.”",
+  "ko": "하루는 심청이 말했다. “아버지, 까마귀도 어미가 먹이를 구하지 못하면 반포를 한다고 합니다. 사람이 어찌 미물만 못하겠어요? 제가 여덟 살이 되었으니, 오늘부터 제가 밥을 빌어 와서 아버지가 걱정 없이 지내시게 하겠어요.”",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C04_3",
+  "en": "She went out with a broken bowl hung from her arm and a basket. She wore a thin jacket, no socks, and worn-out shoes. She went from house to house asking for food. Even in the freezing cold, she knocked on every door.",
+  "ko": "그날부터 심청은 찢어진 옷에 맨발로 헌 바구니와 깨진 바가지를 들고 밥을 빌러 나갔다. 엄동설한의 추위도 아랑곳하지 않고, 이 집 저 집 문을 두드리며 애처롭게 청했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C04_4",
+  "en": "“My mother has passed away, and my father cannot see. Everyone knows this. If you give me a little from your meals, my blind father will not starve.”",
+  "ko": "“어머니는 세상을 떠나셨고, 우리 아버지는 눈이 어두워 앞을 못 보십니다. 모두 아시는 일이지요. 밥 한술씩 덜어 주시면, 눈먼 아버지가 굶지 않으실 겁니다.”",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C04_5",
+  "en": "People were moved. They gave her rice and sometimes asked her to stay and eat. She always said, “My father is waiting for me in the cold room. How can I eat alone? I must hurry home so he can eat too.”",
+  "ko": "그 말을 들은 사람들은 감격해서 밥을 듬뿍 담아 주었다. 어떤 이는 먹고 가라고 했다. 그러면 심청은 이렇게 대답했다. “추운 방에서 늙은 아버지가 기다리실 텐데, 제가 혼자 먹을 수 있겠습니까. 얼른 돌아가 아버지와 함께 먹겠습니다.”",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C04_6",
+  "en": "When she came home, she hurried to her father and said, “Father, are you cold? Are you hungry? I am sorry I was late.” She took his hand and rubbed it, and held a cloth to his feet to warm them.",
+  "ko": "집에 돌아온 심청은 방문 앞으로 달려가 말했다. “아버지, 춥지 않으세요? 시장하시지요? 기다리시게 해서 죄송해요.” 그리고 아버지의 손을 잡아 입김을 불어 녹이고, 발을 주물러 드렸다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C04_7",
+  "en": "Shim was overjoyed and in tears. “My child, your hands are cold! Come close to me.” He could not see her, but he touched her face and felt her hair and tears.",
+  "ko": "심학규는 기쁘고도 서러워 눈물을 흘렸다. “아이고, 내 딸. 손이 얼마나 시렸느냐. 이리 가까이 오너라.” 그는 앞을 볼 수 없었지만 딸의 얼굴과 머리를 쓰다듬으며 눈물을 훔쳤다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C04_8",
+  "en": "Years passed quickly. By fifteen, Shim Cheong was graceful, with a lovely face and a gentle heart. She was skilled in sewing and cooking, and she could do housework well. People in the neighborhood spoke of her as a rare beauty and a great daughter.",
+  "ko": "세월이 흘러 심청은 열다섯 살이 되었다. 얼굴이 곱고 마음씨가 온화했으며, 바느질과 음식 솜씨도 뛰어났다. 이웃 사람들은 그녀를 드문 미인이자 큰 효녀라고 칭찬했다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C04_9",
+  "en": "One day a servant from the household of Minister Jang came to call Shim Cheong. Madam Jang had asked for her, so Shim went to her father and said, “I will go and come back quickly. Your supper is on the table. Please eat it when you are hungry. Wait for me and be careful.”",
+  "ko": "하루는 월평 무릉촌 장승상댁 시비가 와서 부인의 말을 전하며 심청을 청했다. 심청은 아버지에게 말씀드렸다. “어른께서 부르셨으니 잠깐 다녀오겠습니다. 잡수시던 밥과 반찬을 상에 차려 두었으니, 시장하시면 드세요. 제가 돌아올 때까지 조심하세요.”",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C04_10",
+  "en": "As she followed the servant, she saw a willow tree planted by the gate, and beyond it the Jang house. A paulownia tree grew by the wall, and a crane was in its branches. Inside the gate, the flowers were in bloom, and a lotus pond shone in the garden. The house was grand, and the furniture was fine.",
+  "ko": "시비를 따라가 보니, 문 앞에는 버드나무가 심어져 있었고 대문 안에는 벽오동이 자라고 있었다. 오동나무 가지에서 학이 날갯짓을 하는 듯했다. 중문 안에는 꽃이 피고 연못에는 연꽃이 떠 있었으며, 집은 웅장하고 가구는 화려했다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C04_11",
+  "en": "Madam Jang was in her fine robes and looked dignified. When she saw Shim Cheong, she took her hand and said, “Is this really Shim Cheong? I heard about you, and you are just as I was told. You are truly a fairy of this world.”",
+  "ko": "장승상 부인은 화려한 옷을 입고 위엄이 있었다. 심청을 보자 손을 잡으며 말했다. “네가 정말 심청이냐? 소문으로 듣던 것과 똑같구나. 너는 이 세상의 선녀가 아니냐.”",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C04_12",
+  "en": "Madam Jang was sad that she had no daughters or grandchildren, and that her sons had married and no longer kept her company. “If you would come to me and learn needlework and manners, I would raise you like my own child. What do you think?”",
+  "ko": "장승상 부인은 말했다. “내 아들들은 모두 장가가서 각자 살림을 나고, 나는 자식도 손자도 없어 적막하기만 하구나. 너를 내 수양딸로 삼아 바느질과 예절을 가르치고 싶은데, 네 생각은 어떠냐?”",
+  "is_header": false
+ }
+]

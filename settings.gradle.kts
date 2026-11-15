@@ -30,4 +30,4 @@ plugins {
 }
 
 rootProject.name = "Book_apps"
-include(":shared", ":dracula", ":frankenstein", ":two_cities", ":secret_garden", ":the_heroes", ":werther", ":samguk_yusa", ":romeo_juliet", ":chunhyang", ":hong_gildong")
+include(":shared", ":dracula", ":frankenstein", ":two_cities", ":secret_garden", ":the_heroes", ":werther", ":samguk_yusa", ":romeo_juliet", ":chunhyang", ":hong_gildong", ":sim_cheong")

@@ -1,0 +1,135 @@
+[
+ {
+  "id": 1,
+  "tag": "C11_h",
+  "en": "The Woman from Ppaengdeok",
+  "ko": "뺑덕어미",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C11_1",
+  "en": "After Shim Cheong left, her father could barely survive. Villagers pitied him and tried to keep him alive. They said, “The blind man’s daughter was so filial. Her death is a shame. Let us help him.” They collected money and built him a small house.",
+  "ko": "심청이 떠난 뒤 심봉사는 모진 목숨을 간신히 이어 갔다. 마을 사람들은 심청의 지극한 효성을 안타까이 여겨 그를 돌봐 주었다. 돈을 모아 작은 집을 마련해 주고 살림을 도왔다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C11_2",
+  "en": "A woman named Ppaengdeok-eomi came to live with him. She was clever and did not mind the poor man. She had many faults. She drank, gambled, and gossiped. Her whole life was about getting something for free.",
+  "ko": "그러던 중 뺑덕어미라는 여인이 심봉사의 집에 들어와 살게 되었다. 그녀는 말솜씨가 좋고 살림에 능한 척했다. 그러나 허물이 많았다. 술을 즐기고, 노름을 하고, 남의 말을 옮기기를 좋아했다. 놀고먹으며 남의 것만 바라는 사람이었다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C11_3",
+  "en": "She sold the rice to buy liquor, and she gambled and quarreled with the neighbors. At night she came home drunk and wailed. Still, Shim was lonely, and he liked her company.",
+  "ko": "심봉사의 양식을 팔아 술을 사 먹고, 밤에 취해 들어와 소리를 지르거나 울었다. 이웃과 다투고 싸움을 걸기도 했다. 그래도 심봉사는 홀로 지내기 외로워서 그녀를 곁에 두었다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C11_4",
+  "en": "After a while, Shim said, “Ppaengdeok, I used to be known as a prosperous man. But lately your household has gone downhill. Our savings are running out. Why is this happening? I am now a beggar with nothing left.”",
+  "ko": "얼마 후 심봉사가 말했다. “뺑덕이네, 우리 살림이 착실하다고 남들이 칭찬했는데, 근래에는 살림이 기울어 점점 거지꼴이 되어 가오. 이 늙은 사람이 다시 빌어먹게 되었으니 어디로 가야 하오?”",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C11_5",
+  "en": "Ppaengdeok-eomi answered, “Sir, what did you think you had? Your savings are gone because you spend them on too much. You bought drinks and sweets, and you wasted the money. Now you say you are a beggar?”",
+  "ko": "뺑덕어미가 대꾸했다. “봉사님, 무슨 살림이 있다고 그러세요? 식전마다 허기를 면하려고 해장을 하시더니, 제 입에 맞는 것만 사다 드시니 살림이 남겠습니까? 이제 와서 거지가 되었다고 하시니 어이없네요.”",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C11_6",
+  "en": "Shim sighed. “Oh, Ppaengdeok, I have been a fool. You have no sense of shame, and you spend my money as you wish. I should sell what we have and go to a far place.”",
+  "ko": "심봉사는 한숨을 쉬었다. “허, 뺑덕이네, 내가 어리석었구나. 너는 체면도 없이 남의 것을 함부로 쓰는구나. 살림을 다 팔아 타관으로 떠나야겠다.”",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C11_7",
+  "en": "“That is fine,” Ppaengdeok said. They sold all the household goods, and then they left the village together.",
+  "ko": "“그도 그러하오.” 뺑덕어미가 답했다. 그들은 가진 살림을 다 팔아 치우고, 남의 눈을 피해 함께 마을을 떠났다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C11_11",
+  "en": "Meanwhile, Shim Hak-gyu and Ppaengdeok-eomi wandered far into the countryside. One day they came to a village. The woman said, “Let’s go and get something to eat. We have nothing left, so we cannot stay here long.”",
+  "ko": "한편 심봉사와 뺑덕어미는 멀리 타향으로 흘러가 떠돌아다녔다. 그러던 어느 날 두 사람은 한 고을에 이르렀다. 뺑덕어미가 말했다. “장터에 가서 먹을 것을 얻어 와요. 우리 가진 것이 없으니 여기 오래 머물 수는 없어요.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C11_12",
+  "en": "On the road, Shim had to sleep in the open. One night, he fell asleep, and Ppaengdeok-eomi ran off with his money and goods. When he woke, she was gone. He groped around and called, “Ppaengdeok, where did you go? You cruel woman, you have left me!”",
+  "ko": "길 위에서 심봉사는 잠에 빠졌다. 그 사이에 뺑덕어미는 그의 돈과 짐을 챙겨 달아났다. 잠에서 깬 심봉사는 손으로 더듬으며 외쳤다. “뺑덕이네, 어디 갔느냐? 이 무상한 계집아, 나를 버리고 가다니!”",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C11_13",
+  "en": "He cried loudly, “Ah, Ppaengdeok, you have run away! I was the one who looked after you. You have made a fool of me. My clothes and my hat are gone too. Where can I go now, with nothing?”",
+  "ko": "그는 소리 내어 울었다. “아이고, 뺑덕이가 도망쳤구나! 내가 너를 잘 돌봤는데, 나를 이리 속이다니. 옷도 갓도 다 가져갔구나. 이제 빈손으로 어디로 가란 말이냐?”",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C11_14",
+  "en": "Just then, a government messenger passed by on the road, shouting, “Make way! Clear the road!” Shim called out, asking for help, and the messenger came near. Shim begged to be taken to the magistrate, who would hear his complaint.",
+  "ko": "그때 관가의 행차가 지나가며 “비켜라, 길을 비켜라!” 하고 외쳤다. 심봉사는 목소리를 높여 도움을 청했다. 관원이 다가오자, 그는 원님께 하소연할 수 있게 데려가 달라고 부탁했다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C11_15",
+  "en": "The magistrate was touched by the blind man’s plea. He had a clerk write out a petition, and he gave Shim clothes, a hat, and a pair of shoes. Shim thanked him and set off toward the capital.",
+  "ko": "원님은 심봉사의 사정을 듣고 가엾게 여겼다. 아전을 불러 원정을 써 주게 하고, 옷과 갓과 신발을 내주었다. 심봉사는 고마워하며 황성을 향해 길을 떠났다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "C11_16",
+  "en": "He walked along the road. Shade trees lined the path, and birds sang in the branches. Shim was sad, and he thought of his daughter. “My child, I have no one to guide me on the road. How can I find the capital, with no one to help me?”",
+  "ko": "길을 걷는데 녹음은 짙고 풀꽃이 우거져 있었다. 새들은 가지마다 날아들어 노래했다. 심봉사는 딸을 떠올리며 한탄했다. “내 딸아, 나는 이제 길을 안내해 줄 사람도 없구나. 이 먼 황성까지 어떻게 간단 말이냐?”",
+  "is_header": false
+ },
+ {
+  "id": 15,
+  "tag": "C11_17",
+  "en": "At last he reached the outskirts of the capital. Some shepherd boys were singing and teasing him as he passed. They sang songs of the mountain and the rivers, and they joked about the blind man.",
+  "ko": "드디어 황성 근처에 이르렀다. 산에서 소를 먹이던 목동들이 노래를 부르며 그를 놀렸다. 산천의 풍경을 노래하며, 눈먼 나그네를 희롱하는 소리였다.",
+  "is_header": false
+ },
+ {
+  "id": 16,
+  "tag": "C11_18",
+  "en": "Shim crossed the river, and he entered a village with a tavern. The women there told him to come sit down. The blind man decided to make fun of them back. “Those who are in the lowest rank should bring me a seat, and I will sit.”",
+  "ko": "심봉사는 강을 건너 주막이 있는 마을로 들어갔다. 주막의 여인들이 “봉사님, 이리 와서 앉으시지요” 하고 불렀다. 심봉사는 짐짓 농을 되받으며 자리에 앉았다.",
+  "is_header": false
+ },
+ {
+  "id": 17,
+  "tag": "C11_19",
+  "en": "The women at the rice-pounding house laughed at him and invited him to sit. The blind man joked back and took a seat.",
+  "ko": "방앗간에서 쌀을 찧던 여인들이 심봉사를 보고 웃으며 자리에 앉으라고 불렀다. 심봉사는 짐짓 농을 되받으며 자리에 앉았다.",
+  "is_header": false
+ },
+ {
+  "id": 18,
+  "tag": "C11_20",
+  "en": "The women laughed, and Shim laughed too. They gave him food, and when he finished, he picked up his cane and went on. “Come back this way again!” they called. “Yes, I will,” he answered.",
+  "ko": "여인들은 웃고, 심봉사도 함께 웃었다. 음식을 대접받고 배를 채운 뒤 지팡이를 짚고 다시 길을 나섰다. “다음에 또 오시구려!” 하는 소리에 “그래, 또 오마” 하고 대답했다.",
+  "is_header": false
+ },
+ {
+  "id": 19,
+  "tag": "C11_21",
+  "en": "A woman standing at a gate called out to him, “Is that Shim, the blind man?” He was surprised. “How do you know who I am? I have never met you.” She said, “Please come in. I have something to tell you.”",
+  "ko": "문 앞에 서 있던 한 여인이 말을 걸었다. “저기 가시는 분이 심봉사시지요?” 심봉사가 깜짝 놀라 물었다. “나를 아시오? 나는 그대를 본 적이 없소.” 여인이 말했다. “안으로 들어오세요. 드릴 말씀이 있습니다.”",
+  "is_header": false
+ }
+]
