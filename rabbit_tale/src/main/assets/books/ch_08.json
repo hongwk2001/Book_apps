@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "tag": "C08_h",
+  "en": "The Sea Journey",
+  "ko": "바다 여행",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C08_1",
+  "en": "The rabbit climbed onto the turtle’s back, and the turtle slid into the sea. The waves were high, and the wind howled.",
+  "ko": "토끼가 별주부의 등에 올라탔다. 별주부가 바다로 미끄러져 들어가자 파도가 높이 일고 바람이 울부짖었다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C08_2",
+  "en": "The turtle swam with all his strength. The rabbit held on tightly, and he began to feel the sea spray on his face.",
+  "ko": "별주부는 힘을 다해 헤엄쳤다. 토끼는 등을 꼭 붙잡았고, 얼굴에 튀는 바닷물을 느꼈다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C08_3",
+  "en": "They passed a great island where the sea birds were circling. The rabbit looked down and said that the view was beautiful.",
+  "ko": "둘은 바닷새가 맴도는 큰 섬을 지나갔다. 토끼는 아래를 내려다보며 경치가 아름답다고 감탄했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C08_4",
+  "en": "The turtle was tired, but he kept swimming. He told the rabbit that the sea palace was very near, and they would soon arrive.",
+  "ko": "별주부는 지쳤지만 쉬지 않고 헤엄쳤다. 용궁이 아주 가깝다고 말하며, 곧 도착할 것이라고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C08_5",
+  "en": "Under the water they saw fish of many colors and great shells on the seabed. The rabbit was amazed, and his eyes shone with curiosity.",
+  "ko": "물속에는 색색의 물고기들과 바닥에 놓인 큰 조개들이 보였다. 토끼는 놀라서 눈을 반짝였다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C08_6",
+  "en": "The turtle said, “Look there! The gate of the sea palace!” Ahead of them stood gates of pearl and coral, and guards stood on each side.",
+  "ko": "별주부가 말했다. “저기 보시오! 용궁의 문이오!” 앞에는 진주와 산호로 된 문이 서 있었고, 양쪽에는 경비병이 서 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C08_7",
+  "en": "The guards bowed to the turtle, and they stared at the rabbit with surprise. The turtle announced that he had brought the king a guest.",
+  "ko": "경비병들은 별주부에게 인사했고, 토끼를 놀란 눈으로 바라보았다. 별주부는 용왕께 손님을 모셔 왔다고 알렸다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C08_8",
+  "en": "The rabbit slid off the turtle’s back and stood up tall. He said to himself, “Now I am in the Dragon King’s palace. I must be careful with every word.”",
+  "ko": "토끼는 별주부의 등에서 내려와 허리를 폈다. 속으로 생각했다. “이제 용왕의 궁궐에 들어왔다. 말 한마디도 조심해야겠다.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C08_9",
+  "en": "The turtle led the rabbit through the gates and into the great hall. Shining lamps lit the walls, and courtiers stood in rows to greet them.",
+  "ko": "별주부는 토끼를 이끌고 문을 지나 큰 대청으로 들어갔다. 등불이 벽을 밝히고, 신하들이 줄지어 서서 맞이했다.",
+  "is_header": false
+ }
+]

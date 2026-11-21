@@ -1,0 +1,100 @@
+[
+ {
+  "id": 1,
+  "tag": "C01_h",
+  "en": "The Dragon King Falls Ill",
+  "ko": "용왕의 병",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C01_1",
+  "en": "Long ago, the Dragon King of the Eastern Sea built a new palace called Yeongdeok Palace. He wanted to hold a feast there and invite the kings of the sea.",
+  "ko": "옛날 동해 용왕이 영덕전이라는 새 궁전을 지었다. 그는 그곳에서 잔치를 열어 바다의 여러 왕을 초대하고 싶었다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C01_2",
+  "en": "The palace needed a great gate, so the king sent for a sea helper called Yeo Seon-mun. Yeo Seon-mun built the gate with dragon pillars and pearl walls.",
+  "ko": "궁전에는 큰 문이 필요했다. 그래서 용왕은 여선문이라는 바다의 신하를 불렀다. 여선문은 용골 기둥과 진주 벽으로 큰 문을 세웠다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C01_3",
+  "en": "The king was pleased. He gave Yeo Seon-mun three hundred cups of wine and a jeweled bowl. The helper bowed low and thanked him.",
+  "ko": "용왕은 기뻐하며 어주 삼백 잔과 진주가 박힌 유리 그릇을 주었다. 여선문은 엎드려 절하며 감사를 올렸다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C01_4",
+  "en": "Then the king held the feast. He drank too much wine, and suddenly he became ill. The court doctors tried all their medicines, but none of them worked.",
+  "ko": "그 뒤 용왕은 잔치를 열었다. 그런데 술을 너무 많이 마신 탓인지, 갑자기 병이 들었다. 신하들이 온갖 약을 써 보았지만 아무 효과가 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C01_5",
+  "en": "The doctors tried cures for wind sickness, fever, and cold sickness, and still the king did not recover. His sickness grew worse, and the whole court was worried.",
+  "ko": "중풍과 열병, 감기 등 여러 병에 맞는 약을 써 보았지만 용왕은 낫지 않았다. 병은 점점 깊어졌고, 온 궁중이 근심에 잠겼다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C01_6",
+  "en": "The king groaned and cried, saying that even the famous medicines of the immortal mountains could not help him. The whole sea was full of his sorrow.",
+  "ko": "용왕은 신선 산의 불로초나 약도 소용없다며 한탄했다. 바닷속은 온통 슬픔에 잠겼다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C01_7",
+  "en": "In heaven, the Jade Emperor heard the news. He called his gods and said that the only medicine left was the liver of a rabbit.",
+  "ko": "하늘에서 옥황상제가 이 소식을 들었다. 그는 신선들을 불러 놓고, 남은 약은 토끼의 간뿐이라고 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C01_8",
+  "en": "The rabbit lives on land. Long ago, a rabbit was born from the moon palace, and he is the only one who could save the king.",
+  "ko": "토끼는 땅 위에 산다. 옛날 달나라의 계수나무 열매에서 태어난 토끼가 자손을 이어 왔으니, 왕을 살릴 수 있는 것은 그 자손의 간뿐이었다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C01_9",
+  "en": "The gods were sure that the rabbit could be found only on land. Finding him would be very hard, but the Dragon King had no other choice.",
+  "ko": "신선들은 토끼가 땅 위에 있을 뿐이라 찾기 어렵다고 여겼다. 그렇다고 달리 방법도 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C01_10",
+  "en": "The Dragon King then named the minister he trusted most. He called the turtle, the Minister of the Sea, and told him the plan.",
+  "ko": "그러자 용왕은 가장 믿는 신하를 떠올렸다. 바다의 재상인 별주부를 불러 계획을 말해 주었다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C01_11",
+  "en": "The king said, “Turtle, you have served me well for many years. Go to the land, find the rabbit, and bring him back. Then you will be the first among my servants.”",
+  "ko": "용왕이 말했다. “별주부야, 너는 오랜 세월 나를 충직하게 섬겼다. 땅으로 올라가 토끼를 찾아 데려오너라. 그러면 너는 내 신하 중 으뜸이 될 것이다.”",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C01_12",
+  "en": "The turtle bowed and accepted the task. He said he would go to the land, even though he was afraid of what the land held.",
+  "ko": "별주부는 머리를 조아리며 임무를 받았다. 땅에는 무엇이 있을지 몰라 두려웠지만, 그는 가겠다고 대답했다.",
+  "is_header": false
+ },
+ {
+  "id": 14,
+  "tag": "C01_13",
+  "en": "Before he left, the king asked the painters of the court to draw a picture of the rabbit, so the turtle would know what he looked like.",
+  "ko": "떠나기 전, 용왕은 궁중의 화공을 불러 토끼의 모습을 그리게 했다. 별주부가 토끼를 알아볼 수 있도록 하기 위해서였다.",
+  "is_header": false
+ }
+]

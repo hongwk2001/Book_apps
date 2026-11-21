@@ -1,0 +1,93 @@
+[
+ {
+  "id": 1,
+  "tag": "C10_h",
+  "en": "The Rabbit Escapes",
+  "ko": "토끼의 탈출",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C10_1",
+  "en": "When the turtle got home, his wife cried. She said, “You brought the rabbit, and now the king is angry with you. What will become of us?”",
+  "ko": "별주부가 집에 돌아오자 부인이 울었다. “토끼를 데려갔는데 용왕께서 노하셨다니, 우리는 어떻게 된단 말입니까?”",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C10_2",
+  "en": "The turtle was sad and ashamed. He said that the rabbit had tricked them both, and that he had no power to change the king’s mind.",
+  "ko": "별주부는 슬프고 부끄러웠다. 토끼에게 속았다며, 용왕의 마음을 돌릴 힘이 없다고 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C10_3",
+  "en": "Meanwhile, the king sent guards to the turtle’s house. The guards told the turtle that the king wanted the turtle to bring the rabbit back by force.",
+  "ko": "그사이 용왕은 별주부의 집에 병사를 보냈다. 병사들은 토끼를 강제로라도 데려오라는 명을 전했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C10_4",
+  "en": "The turtle went back to the land, now carrying the king’s anger. He reached the mountain and found the rabbit waiting on a rock, as if nothing had happened.",
+  "ko": "별주부는 용왕의 노여움을 안고 다시 땅으로 올라갔다. 산에 이르니 토끼가 아무 일도 없었다는 듯 바위 위에 앉아 기다리고 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C10_5",
+  "en": "The rabbit laughed when he saw the turtle. He said, “My friend, you are back so soon! Did the king miss me?”",
+  "ko": "토끼는 별주부를 보고 웃었다. “자네, 벌써 돌아왔구나! 용왕이 나를 그리워하셨던가?”",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C10_6",
+  "en": "The turtle was angry. He said, “You fooled the king! Now he wants you dead, and he has sent men to take you back.”",
+  "ko": "별주부는 화가 났다. “그대가 용왕을 속였소! 이제 그분은 그대를 죽이려 하고, 병사들까지 보냈소.”",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C10_7",
+  "en": "The rabbit did not panic. He said, “Then let us go back together. I will explain everything to the king, and he will forgive us both.”",
+  "ko": "토끼는 당황하지 않았다. “그럼 함께 돌아가세. 내가 용왕께 모두 설명하겠네. 그러면 우리 둘 다 용서하실 걸세.”",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C10_8",
+  "en": "The turtle agreed, though he was not sure. They went back into the sea together, and the rabbit rode on the turtle’s back once more.",
+  "ko": "별주부는 확신이 없었지만 동의했다. 둘은 다시 바다로 들어갔고, 토끼는 별주부의 등에 다시 올라탔다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C10_9",
+  "en": "At the palace, the rabbit bowed to the king and said, “Your Majesty, forgive my foolishness. My liver is in the mountain, and I was afraid to lose it.”",
+  "ko": "궁궐에 이르자 토끼는 용왕께 절하며 말했다. “폐하, 저의 어리석음을 용서하십시오. 간은 산에 있사옵니다. 그것을 잃을까 두려웠사옵니다.”",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C10_10",
+  "en": "The king was not pleased, but he saw that the rabbit had come back. He ordered his men to hold the rabbit, and then he waited to see what would happen next.",
+  "ko": "용왕은 못마땅했지만, 토끼가 돌아온 것을 보고 신하들에게 토끼를 붙잡으라고 명했다. 그리고 다음에 무슨 일이 일어날지 지켜보았다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C10_11",
+  "en": "The rabbit sighed and said, “Your Majesty, I should have told you the truth earlier. The liver is still in the mountain, and I will bring it if you let me go.”",
+  "ko": "토끼는 한숨을 쉬며 말했다. “폐하, 진작 사실을 말씀드렸어야 했사옵니다. 간은 아직 산에 있사옵니다. 놓아주시면 가져오겠사옵니다.”",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C10_12",
+  "en": "The king thought about it. Then he gave the rabbit one more chance, saying that the turtle must go with him to make sure he came back.",
+  "ko": "용왕은 잠시 생각하다가, 토끼에게 한 번 더 기회를 주었다. 다만 토끼가 돌아오는지 확인하도록 별주부를 함께 보내기로 했다.",
+  "is_header": false
+ }
+]

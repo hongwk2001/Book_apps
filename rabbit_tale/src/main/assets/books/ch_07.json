@@ -1,0 +1,72 @@
+[
+ {
+  "id": 1,
+  "tag": "C07_h",
+  "en": "The Hunters and the Sea Palace",
+  "ko": "사냥꾼과 용궁",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C07_1",
+  "en": "The rabbit suddenly stopped talking and looked around. He said that hunters were near, with guns and dogs, and that they were dangerous to both of them.",
+  "ko": "토끼는 갑자기 말을 멈추고 주위를 살폈다. 총과 개를 든 사냥꾼들이 가까이 있다며, 둘 다 위험하다고 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C07_2",
+  "en": "Then they heard a loud bang from the hills. The turtle shook with fear, and his shell rattled against the stones.",
+  "ko": "그때 산 너머에서 큰 총소리가 울렸다. 별주부는 겁에 질려 몸을 떨었고, 등껍질이 돌에 부딪혀 덜그럭거렸다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C07_3",
+  "en": "The rabbit calmly said, “Do not worry. Hunters are only men with guns, and we can outwit them if we are careful.”",
+  "ko": "토끼는 침착하게 말했다. “걱정하지 마시오. 사냥꾼은 총을 든 사람일 뿐이오. 조심하면 얼마든지 피할 수 있소.”",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C07_4",
+  "en": "The turtle asked how the rabbit could be so calm. The rabbit said that he had escaped hunters many times, and that he knew every trick.",
+  "ko": "별주부는 어떻게 그렇게 침착할 수 있는지 물었다. 토끼는 사냥꾼을 여러 번 피해 봤고 온갖 꾀를 안다고 대답했다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C07_5",
+  "en": "Then the rabbit began to talk about the sea palace. He described its gates of gold and jade, and its halls shining under the water.",
+  "ko": "그러자 토끼는 용궁 이야기를 시작했다. 금과 옥으로 된 문과 물속에서 빛나는 궁전들을 묘사했다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C07_6",
+  "en": "He said that the sea palace had rich food, fine wine, and beautiful dancers. The turtle’s eyes grew wide, and he could almost taste the food.",
+  "ko": "토끼는 용궁에는 맛있는 음식과 좋은 술, 아름다운 무희가 있다고 말했다. 별주부의 눈이 커졌고, 음식 맛이 떠오르는 듯했다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C07_7",
+  "en": "The rabbit said that he would be happy to visit such a place. But he added that it was a long way across the sea, and that he could not swim.",
+  "ko": "토끼는 그런 곳이라면 한번 가 보고 싶다고 했다. 그러나 바다는 멀고, 자신은 헤엄을 칠 줄 모른다고 덧붙였다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C07_8",
+  "en": "The turtle said, “Do not worry. You can ride on my back, and I will carry you safely across the sea.” The rabbit pretended to hesitate.",
+  "ko": "별주부가 말했다. “걱정하지 마시오. 내 등에 타시면 바다를 건너 안전하게 모셔 가겠소.” 토끼는 망설이는 체했다.",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C07_9",
+  "en": "At last the rabbit agreed. He said that he would trust the turtle, because a faithful friend is hard to find in the mountains.",
+  "ko": "마침내 토끼가 승낙했다. 산에서는 믿을 만한 친구를 찾기 어렵다며, 별주부를 믿겠다고 했다.",
+  "is_header": false
+ }
+]

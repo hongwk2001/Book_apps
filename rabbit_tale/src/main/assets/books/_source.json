@@ -1,0 +1,18 @@
+{
+ "source": "TKprof_book/books/rabbit_tale/json",
+ "generated_by": "rabbit_tale/migrate_rabbit_tale.py",
+ "files": {
+  "ch_01.json": "ac4a01e00a7b7e349c73e65e710a07e11a62c957dbe421b005527a602e79f06d",
+  "ch_02.json": "3a08b94d40c3ffd82cf1ad0584960899bf4513273a79901ff62328a5c8ce5927",
+  "ch_03.json": "8b31fff254d0df3ee75e8be62dce2f3de456b365974d5423073b0aafc03d6b69",
+  "ch_04.json": "00b1f1888b8fd12d119f03ca64b80d4346373dc009774f828757fa3da768c498",
+  "ch_05.json": "022c6dad95b9679fe2955f85c991f030ed20c6ba4941d8af9ad76359e04e5e54",
+  "ch_06.json": "4d669bb7303a2fde4a11a4db7ffeb5a853a471a8351288037650aee0b19fa0c5",
+  "ch_07.json": "b1ae634772df218188806b3ef6b4db7d13b7f8e22c3802684c8d906df4b695cd",
+  "ch_08.json": "dcad7f3a094c851210579e923ebfa095c81dc3ee2aef1e9076e552cbaa8dbddf",
+  "ch_09.json": "79460e85fcb1c9df8ad4b4a12d30e4743c9fb7de751c0fc94b6d90090754e895",
+  "ch_10.json": "a43fc20f8f0ef2c22106fb38b6ff7427d3c858e423825f6c1c2f3198eed690c7",
+  "ch_11.json": "43105ebdaaa98c3ab1da654e68af564ef115c325810299647f8b52e6c526a81d",
+  "ch_12.json": "7880f35f7050f37c953d061594fcb86799ffd1d14adb9e3541c8f55a1f6fe93d"
+ }
+}

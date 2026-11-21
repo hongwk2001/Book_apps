@@ -1,0 +1,93 @@
+[
+ {
+  "id": 1,
+  "tag": "C04_h",
+  "en": "The Rabbit’s Feast",
+  "ko": "토끼의 잔치",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C04_1",
+  "en": "The next day, the turtle and the rabbit walked on together. They came to a place where the animals were holding a great feast.",
+  "ko": "다음 날 별주부와 토끼는 함께 길을 나섰다. 산속에서 짐승들이 큰 잔치를 벌이고 있는 곳에 이르렀다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C04_2",
+  "en": "The tiger, the king of the mountain, sat at the head of the feast. The animals had come to honor him, and they welcomed the rabbit with bows.",
+  "ko": "산군인 호랑이가 잔치 자리의 상석에 앉아 있었다. 짐승들이 모두 모여 그를 받들었고, 토끼도 인사를 받았다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C04_3",
+  "en": "The raccoon, who was a guest and very clever, did not like the rabbit sitting near the tiger. He began to make fun of the rabbit’s small body.",
+  "ko": "너구리는 손님으로 와 있었는데, 토끼가 호랑이 가까이 앉는 것이 못마땅했다. 그는 토끼의 작은 몸을 놀리기 시작했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C04_4",
+  "en": "The tiger laughed and asked the rabbit where his family came from. The rabbit proudly told him his family history, and how his ancestors were famous.",
+  "ko": "호랑이가 웃으며 토끼에게 집안의 내력을 묻자, 토끼는 자랑스럽게 조상들의 이름을 늘어놓았다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C04_5",
+  "en": "The rabbit said that his family was wise and learned, and that he himself had studied the classics. He spoke with confidence, and some of the animals were impressed.",
+  "ko": "토끼는 집안이 지혜롭고 학문이 깊다고 말하며, 자신도 경서를 배웠다고 자랑했다. 그 말에 몇몇 짐승은 감탄했다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C04_6",
+  "en": "The raccoon could not stand it. He stood up and said that a small creature like the rabbit should not sit in a place of honor.",
+  "ko": "너구리는 참을 수 없었다. 그는 일어나 토끼 같은 작은 짐승이 상석에 앉는 것은 옳지 않다고 소리쳤다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C04_7",
+  "en": "The rabbit answered sharply. He said that rank belongs to those who are wise, not to those who are big. Then he sat down again, calm and proud.",
+  "ko": "토끼는 날카롭게 받아쳤다. 자리는 몸집이 큰 자가 아니라 지혜로운 자가 차지하는 것이라고 했다. 그러고는 다시 침착하게 앉았다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C04_8",
+  "en": "The tiger was pleased with the rabbit’s words. He said, “Let the rabbit sit near me. He is the wisest of all here.”",
+  "ko": "호랑이는 토끼의 말에 흡족해했다. 그는 말했다. “토끼를 내 곁에 앉혀라. 이 자리에서 가장 지혜로운 자다.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C04_9",
+  "en": "The raccoon gave up and sat down in silence. The feast continued with music, dancing, and wine, and the turtle watched the rabbit with growing unease.",
+  "ko": "너구리는 더 말하지 못하고 조용히 자리에 앉았다. 잔치는 음악과 춤, 술로 이어졌고, 별주부는 토끼를 바라보며 점점 불안해졌다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C04_10",
+  "en": "The turtle thought, “If the rabbit keeps boasting like this, he will forget why we came.” He wanted to remind him of the king’s illness.",
+  "ko": "별주부는 생각했다. “토끼가 이렇게 자랑만 하다가는 우리가 온 이유를 잊겠구나.” 그는 토끼에게 용왕의 병을 떠올리게 하고 싶었다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C04_11",
+  "en": "Meanwhile, the rabbit kept telling the tiger about his learning. He spoke of the great books he had read and the deep thoughts he had.",
+  "ko": "그 사이 토끼는 호랑이에게 자신의 학식을 계속 자랑했다. 읽은 책들과 깊은 생각들을 늘어놓았다.",
+  "is_header": false
+ },
+ {
+  "id": 13,
+  "tag": "C04_12",
+  "en": "The feast went on until the moon was high. Then the turtle quietly got up and walked to the edge of the crowd. He had to find a way to leave with the rabbit.",
+  "ko": "잔치는 달이 높이 뜰 때까지 이어졌다. 그때 별주부는 조용히 일어나 군중의 가장자리로 걸어 나갔다. 토끼와 함께 떠날 방법을 찾아야 했다.",
+  "is_header": false
+ }
+]

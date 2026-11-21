@@ -1,0 +1,79 @@
+[
+ {
+  "id": 1,
+  "tag": "C06_h",
+  "en": "Talk of the Human World",
+  "ko": "인간 세상 이야기",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C06_1",
+  "en": "The rabbit and the turtle sat together under the trees. The rabbit introduced himself, and the turtle learned that his name was Master Toe, a scholar of the mountain.",
+  "ko": "토끼와 별주부는 나무 아래 함께 앉았다. 토끼는 자신을 소개했다. 이름은 퇴 선생이며, 산중의 학자라고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C06_2",
+  "en": "The turtle asked him about his life. The rabbit said that he had studied the classics, and that he could recite many poems by heart.",
+  "ko": "별주부가 그의 생활을 묻자, 토끼는 경서를 배웠고 많은 시를 외운다고 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C06_3",
+  "en": "The rabbit began to describe the human world. He said that spring is the best season, when flowers bloom and birds sing across the hills.",
+  "ko": "토끼는 인간 세상 이야기를 시작했다. 봄이 가장 좋다고 했다. 꽃이 피고 새가 산과 들에서 노래하는 계절이라고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C06_4",
+  "en": "In summer, he said, the green trees shade the rivers, and people sit by the water to rest. He described the cool breezes and the sound of streams.",
+  "ko": "여름에는 푸른 나무가 강을 덮고, 사람들은 물가에 앉아 쉰다고 했다. 시원한 바람과 시냇물 소리를 이야기했다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C06_5",
+  "en": "Autumn, he said, brings red and yellow leaves to the mountains. The moon is bright, and the hills look painted. He spoke with great feeling.",
+  "ko": "가을에는 산에 붉고 노란 단풍이 든다고 했다. 달이 밝고 산이 그림처럼 보인다고 했다. 토끼는 감정을 담아 말했다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C06_6",
+  "en": "Winter, the rabbit said, is quiet and white, with snow on the pines. Even then, the people of the land enjoy the snow and the warm fire.",
+  "ko": "겨울에는 조용하고 하얗다고 했다. 소나무에 눈이 쌓이고, 사람들은 눈과 따뜻한 불을 즐긴다고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C06_7",
+  "en": "The turtle listened with wonder. He had never seen grass or flowers, and the rabbit’s words painted pictures in his mind.",
+  "ko": "별주부는 놀라며 들었다. 풀과 꽃을 본 적이 없었기에, 토끼의 말이 그의 마음에 그림을 그렸다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C06_8",
+  "en": "The rabbit went on to describe the mountains, the clear streams, and the cliffs with waterfalls. The turtle said, “It sounds like paradise.”",
+  "ko": "토끼는 산과 맑은 시내, 폭포가 있는 절벽을 이야기했다. 별주부가 말했다. “마치 낙원 같군요.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C06_9",
+  "en": "The rabbit smiled proudly and said that the land has many joys. But he also warned that the land is full of dangers, too.",
+  "ko": "토끼는 자랑스럽게 웃으며 땅에는 기쁨이 많다고 했다. 그러나 위험도 많다고 경고했다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C06_10",
+  "en": "The turtle grew more curious. He asked whether the rabbit ever went far from the mountains. The rabbit said that he had traveled to many places, and he knew the roads well.",
+  "ko": "별주부는 더 궁금해졌다. 토끼에게 산 밖으로 멀리 가 본 적이 있는지 물었다. 토끼는 여러 곳을 다녀 보았고 길을 잘 안다고 대답했다.",
+  "is_header": false
+ }
+]

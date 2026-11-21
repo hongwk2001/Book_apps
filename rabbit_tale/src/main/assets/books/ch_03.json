@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "tag": "C03_h",
+  "en": "The Turtle Meets the Rabbit",
+  "ko": "별주부와 토끼의 만남",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C03_1",
+  "en": "The turtle walked up to the rabbit and bowed. He said, “Sir, who are you? I am the turtle of the sea palace, and I have come from far away.”",
+  "ko": "별주부는 토끼 앞으로 가서 공손히 절했다. “어르신은 누구십니까? 저는 바다 용궁에서 온 별주부입니다. 먼 길을 왔습니다.”",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C03_2",
+  "en": "The rabbit looked at him and laughed. “I am a simple man of the mountains. Why would a sea creature come all this way to see me?”",
+  "ko": "토끼는 별주부를 보고 웃었다. “나는 산에 사는 보잘것없는 사람이오. 바다에 사는 자네가 나를 찾아오다니 무슨 일이오?”",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C03_3",
+  "en": "The turtle told him that he had heard of his fame, and that the sea kingdom had a special invitation for him. The rabbit did not believe him at first.",
+  "ko": "별주부는 토끼의 명성을 들었다며, 바다 나라에서 특별한 초대가 있다고 말했다. 토끼는 처음에는 믿지 않았다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C03_4",
+  "en": "The rabbit said, “My family was once great. My ancestors lived in the forest, and our family was known for wisdom and speed.”",
+  "ko": "토끼가 말했다. “우리 집안은 한때 대단했소. 조상들은 숲에서 살며 지혜와 날랜 몸으로 이름을 떨쳤지.”",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C03_5",
+  "en": "He told a long story about his family history. Hunters had chased his people, and many of his relatives had been caught and lost.",
+  "ko": "토끼는 집안의 긴 이야기를 들려주었다. 사냥꾼들이 쫓아와 많은 친척이 잡히고 목숨을 잃었다고 했다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C03_6",
+  "en": "The turtle listened carefully. He thought the rabbit was clever, but he also thought he was proud. He needed the rabbit to trust him.",
+  "ko": "별주부는 주의 깊게 들었다. 토끼가 영리하지만 자랑이 많다고 생각했다. 그래도 토끼가 자신을 믿게 만들어야 했다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C03_7",
+  "en": "The turtle said, “I am sorry for your family’s trouble. But I have a message from a friend. He asked me to look for you and bring you to him.”",
+  "ko": "별주부가 말했다. “가문이 겪은 고난이 참으로 안타깝습니다. 하지만 제게는 한 친구의 전갈이 있습니다. 어르신을 찾아 모셔 오라고 하더군요.”",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C03_8",
+  "en": "The rabbit asked, “What friend? Tell me his name.” The turtle answered, “He is a famous man, and he has been looking for you for many days.”",
+  "ko": "토끼가 물었다. “무슨 친구요? 이름을 말해 보시오.” 별주부가 답했다. “유명한 분입니다. 여러 날 동안 어르신을 찾고 계셨습니다.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C03_9",
+  "en": "The rabbit was pleased by the praise, but he was still careful. He asked again, “Tell me more, or I will not come with you.”",
+  "ko": "토끼는 칭찬을 듣고 기뻐했지만 여전히 조심스러웠다. 그는 다시 물었다. “더 자세히 말해 보시오. 그렇지 않으면 따라가지 않겠소.”",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C03_10",
+  "en": "The turtle smiled and said that the king was ill, and that only a rabbit’s liver could save him. He did not say this at once. He wanted the rabbit to come willingly.",
+  "ko": "별주부는 웃으며 용왕이 병이 들어 토끼의 간이 아니면 살릴 수 없다고 말했다. 그러나 곧바로 말하지는 않았다. 토끼가 스스로 따라오기를 바랐기 때문이다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C03_11",
+  "en": "The rabbit thought for a while. Then he said, “Let us talk again tomorrow. I need to think about your offer.” The turtle agreed and sat down to wait.",
+  "ko": "토끼는 한참 생각했다. 그리고 말했다. “내일 다시 이야기합시다. 자네 제안을 좀 더 생각해 봐야겠소.” 별주부는 고개를 끄덕이고 앉아서 기다렸다.",
+  "is_header": false
+ }
+]

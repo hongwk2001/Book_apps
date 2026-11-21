@@ -1,0 +1,65 @@
+[
+ {
+  "id": 1,
+  "tag": "C02_h",
+  "en": "The Turtle Sets Out",
+  "ko": "별주부의 길",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C02_1",
+  "en": "The painters drew the rabbit’s picture. The turtle took the painting and bowed to the king, then left the sea and climbed up to the land.",
+  "ko": "화공들이 토끼의 그림을 그렸다. 별주부는 그림을 받아 들고 용왕께 절한 뒤, 바다를 떠나 땅으로 올라갔다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C02_2",
+  "en": "The turtle's wife was sad too. Madam Turtle had to say goodbye, and the two of them cried together.",
+  "ko": "별주부의 부인도 슬퍼했다. 부부는 헤어지는 것이 서러워 함께 울었다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C02_3",
+  "en": "The turtle walked along the shore. Soon he met a man who asked him about his journey. The turtle said he was looking for a rabbit, and the man laughed.",
+  "ko": "별주부는 물가를 따라 걸었다. 그러다 한 사람을 만나 길을 물었다. 토끼를 찾는다고 하자 그 사람은 웃으며 대꾸했다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C02_4",
+  "en": "The turtle asked the way to the mountains. He walked for days through fields and forests. He was tired, but he kept going, because he had the king’s order.",
+  "ko": "별주부는 산으로 가는 길을 물었다. 며칠을 들판과 숲으로 걸었다. 지쳤지만 용왕의 명령이 있었기에 쉬지 않고 나아갔다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C02_5",
+  "en": "At last the turtle reached the mountains. He saw many animals, but none of them looked like the rabbit in the painting.",
+  "ko": "마침내 별주부는 산에 이르렀다. 많은 짐승을 보았지만 그림 속 토끼와 닮은 것은 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C02_6",
+  "en": "He searched from morning until night, and he began to worry that the king’s illness would not wait for him.",
+  "ko": "아침부터 밤까지 찾아다녔지만 토끼는 보이지 않았다. 별주부는 용왕의 병이 기다려 주지 않을까 걱정이 되었다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C02_7",
+  "en": "Then he saw a rabbit sitting on a rock under a pine tree. He came closer, and the rabbit looked just like the painting.",
+  "ko": "그때 소나무 아래 바위 위에 앉아 있는 토끼가 보였다. 가까이 가서 보니 그림과 똑같이 생겼다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C02_8",
+  "en": "The turtle thought carefully. He did not want to frighten the rabbit or make him run away, so he planned his words.",
+  "ko": "별주부는 조심스럽게 생각했다. 토끼를 놀라게 해서 달아나게 하면 안 되니, 할 말을 신중하게 고르기로 했다.",
+  "is_header": false
+ }
+]

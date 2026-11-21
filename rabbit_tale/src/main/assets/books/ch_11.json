@@ -1,0 +1,86 @@
+[
+ {
+  "id": 1,
+  "tag": "C11_h",
+  "en": "Back on Land",
+  "ko": "다시 땅 위로",
+  "is_header": true
+ },
+ {
+  "id": 2,
+  "tag": "C11_1",
+  "en": "The turtle carried the rabbit back toward the shore. As soon as they reached the land, the rabbit leaped off his back and ran into the bushes.",
+  "ko": "별주부는 토끼를 다시 물가로 실어 날랐다. 땅에 닿자마자 토끼는 등에서 뛰어내려 덤불 속으로 달아났다.",
+  "is_header": false
+ },
+ {
+  "id": 3,
+  "tag": "C11_2",
+  "en": "The turtle called after him, but the rabbit was already gone. The turtle sat on the shore, alone, and he wept for the king and for himself.",
+  "ko": "별주부가 불렀지만 토끼는 이미 사라지고 없었다. 별주부는 물가에 홀로 앉아 용왕과 자신을 생각하며 눈물을 흘렸다.",
+  "is_header": false
+ },
+ {
+  "id": 4,
+  "tag": "C11_3",
+  "en": "The rabbit hid in a thicket, and he laughed quietly to himself. He had escaped the sea king and the turtle, and he was free again.",
+  "ko": "토끼는 덤불에 숨어 혼자 웃었다. 바다 왕과 별주부에게서 벗어나 다시 자유로워졌다.",
+  "is_header": false
+ },
+ {
+  "id": 5,
+  "tag": "C11_4",
+  "en": "But as he walked on, he heard a voice from the hills. A hunter had seen him, and the man was coming down the path with a net.",
+  "ko": "그러나 걸어가던 토끼는 언덕에서 소리를 들었다. 사냥꾼이 그를 보고 그물을 들고 길을 내려오고 있었다.",
+  "is_header": false
+ },
+ {
+  "id": 6,
+  "tag": "C11_5",
+  "en": "The rabbit ran with all his might. He jumped over rocks and rushed through the tall grass, while the hunter’s dogs barked behind him.",
+  "ko": "토끼는 있는 힘을 다해 달렸다. 바위를 뛰어넘고 키 큰 풀숲을 헤치는 동안, 뒤에서는 사냥개들이 짖었다.",
+  "is_header": false
+ },
+ {
+  "id": 7,
+  "tag": "C11_6",
+  "en": "Just when he thought he was safe, an eagle swooped down from the sky. Its great wings blocked the sun, and its claws were sharp.",
+  "ko": "이제 살았다고 생각한 순간, 하늘에서 독수리가 내리 덮쳤다. 커다란 날개가 햇빛을 가리고, 날카로운 발톱이 번득였다.",
+  "is_header": false
+ },
+ {
+  "id": 8,
+  "tag": "C11_7",
+  "en": "The rabbit ducked under a bush and the eagle missed him. But the bird circled and came back, and the rabbit knew he was in great danger.",
+  "ko": "토끼는 덤불 아래로 몸을 숙여 독수리를 피했다. 그러나 독수리는 다시 원을 그리며 돌아왔고, 토끼는 큰 위험에 처했다는 것을 알았다.",
+  "is_header": false
+ },
+ {
+  "id": 9,
+  "tag": "C11_8",
+  "en": "He thought fast. He told the eagle, “I am a sick old rabbit. Eat me now and you will get nothing but bones. Let me go, and I will bring you a better meal.”",
+  "ko": "토끼는 재빨리 머리를 굴렸다. 독수리에게 말했다. “나는 병든 늙은 토끼다. 지금 나를 먹으면 뼈밖에 남지 않을 것이다. 놓아주면 더 좋은 먹이를 가져다주겠다.”",
+  "is_header": false
+ },
+ {
+  "id": 10,
+  "tag": "C11_9",
+  "en": "The eagle was curious and stopped. The rabbit slipped out of its claws and ran into a hollow in the rocks. The eagle could not follow him.",
+  "ko": "독수리는 호기심이 생겨 멈췄다. 토끼는 발톱 사이에서 빠져나와 바위틈으로 뛰어들었다. 독수리는 따라 들어갈 수 없었다.",
+  "is_header": false
+ },
+ {
+  "id": 11,
+  "tag": "C11_10",
+  "en": "The rabbit waited in the hollow, shaking. He thanked his own cleverness, and he promised himself never to trust the sea again.",
+  "ko": "토끼는 바위틈에서 몸을 떨며 기다렸다. 자신의 꾀에 감사하며, 다시는 바다를 믿지 않겠다고 다짐했다.",
+  "is_header": false
+ },
+ {
+  "id": 12,
+  "tag": "C11_11",
+  "en": "At last the hunter gave up and went home, and the eagle flew off in search of other prey. The rabbit crept out of the rocks, bruised but alive.",
+  "ko": "마침내 사냥꾼은 포기하고 집으로 돌아갔고, 독수리도 다른 먹이를 찾아 날아갔다. 토끼는 바위틈에서 기어 나왔다. 몸은 멍들었지만 살아 있었다.",
+  "is_header": false
+ }
+]
