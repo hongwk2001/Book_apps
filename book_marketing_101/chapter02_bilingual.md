@@ -6,18 +6,18 @@
 
 Goal: choose a price by its royalty, not by a guess, and draft the listing data a store will read.
 
-목표: 짐작이 아니라 로열티를 계산해서 가격을 고르고, 서점이 읽을 판매 정보를 초안으로 씁니다.
+목표: 짐작이 아니라 로열티(판매 수익의 몫)를 계산해서 가격을 고르고, 서점이 읽을 판매 정보를 초안으로 씁니다.
 
 1. Open `labs/ch02_royalty.py`. Change the price list to your three candidate ebook prices and run it.
-1. `labs/ch02_royalty.py`를 여세요. 전자책 후보 가격 세 개로 목록을 바꾸고 실행하십시오.
+1. `labs/ch02_royalty.py`를 여십시오. 전자책 후보 가격 세 개로 목록을 바꾸고 실행하십시오.
 2. Compare each price: royalty per sale, and whether the price falls in the 70% band ($2.99–$12.99).
-2. 가격마다 판매당 로열티와 70% 구간($2.99~$12.99) 안에 드는지 비교하십시오.
+2. 가격마다 판매당 로열티를 비교하십시오. 그리고 그 가격이 70% 구간($2.99~$12.99) 안에 드는지 보십시오.
 3. Run the paperback line with your page count's print cost. Note the $9.99 boundary: below it the rate drops from 60% to 50%.
-3. 쪽수에 맞는 인쇄 비용으로 종이책 줄을 실행하십시오. $9.99 경계를 기억하십시오. 그 아래에서는 요율이 60%에서 50%로 내려갑니다.
+3. 쪽수에 맞는 인쇄 비용을 넣고 종이책 줄을 실행하십시오. $9.99 기준선을 기억하십시오. 이보다 싸면 로열티 비율이 60%에서 50%로 떨어집니다.
 4. Fill the metadata table below with your title, 3 categories and 7 keyword phrases. Check each category has real bestsellers.
-4. 아래 메타데이터 표에 제목, 카테고리 3개, 키워드 구문 7개를 채우십시오. 각 카테고리에 실제 베스트셀러가 있는지 확인하십시오.
+4. 아래 메타데이터 표(책 정보 표)에 제목, 카테고리 3개, 키워드 7개를 채우십시오. 각 카테고리에 실제 베스트셀러가 있는지 확인하십시오.
 5. Write your blurb in 150–250 words using the fiction or nonfiction template in Appendix C. Count the words with `len(text.split())` in Python.
-5. 부록 C의 소설 또는 논픽션 템플릿으로 책 소개문을 150~250단어로 쓰십시오. Python의 `len(text.split())`로 단어 수를 세십시오.
+5. 부록 C의 소설 또는 논픽션 템플릿을 써서 책 소개문을 150~250단어로 쓰십시오. Python의 `len(text.split())`로 단어 수를 세십시오.
 
 ```
 $ python labs/ch02_royalty.py
@@ -34,7 +34,7 @@ list $8.99, print $3.50 -> royalty $1.00
 
 Checkpoint: your price gives you the royalty you want per sale, and every category and keyword in your table has been checked against real books.
 
-확인: 선택한 가격이 원하는 판매당 로열티를 주고, 표의 모든 카테고리와 키워드를 실제 책으로 확인했습니다.
+확인: 고른 가격이 원하는 판매당 로열티를 주고, 표의 모든 카테고리와 키워드를 실제 책으로 확인했습니다.
 
 | Element / 항목 | Your entry / 여러분의 입력 |
 |---|---|
@@ -48,19 +48,19 @@ Checkpoint: your price gives you the royalty you want per sale, and every catego
 
 The cover is your most important ad. Readers judge a book in about a second, usually as a phone thumbnail. Its job is to signal genre and tone so the right reader stops scrolling, not to illustrate a scene.
 
-표지는 가장 중요한 광고다. 독자는 약 1초 만에, 보통 휴대폰의 작은 썸네일로 책을 판단한다. 표지의 역할은 장면을 그리는 것이 아니라, 장르와 분위기를 알려서 맞는 독자가 스크롤을 멈추게 하는 것이다.
+표지는 가장 중요한 광고입니다. 독자는 약 1초 만에, 대개 휴대폰의 작은 썸네일(미리보기 그림)을 보고 책을 판단합니다. 표지의 역할은 장면을 그리는 것이 아니라 장르와 분위기를 알리는 것입니다. 그래야 맞는 독자가 스크롤을 멈춥니다.
 
 Price signals value and changes how stores treat your book. Check what readers in your genre already pay, then use the royalty rules to decide. Ebooks outside the $2.99–$12.99 band earn 35%. Paperbacks at or above $9.99 earn 60% of list price, and those below earn 50%, both minus printing cost.
 
-가격은 가치를 드러내고, 서점이 책을 다루는 방식을 바꾼다. 장르 독자가 이미 내는 가격대를 확인한 뒤, 로열티 규칙으로 결정하십시오. $2.99~$12.99 구간 밖의 전자책은 35%를 받는다. 종이책은 $9.99 이상이면 정가의 60%, 그 아래면 50%를 받으며, 둘 다 인쇄 비용을 뺀다.
+가격은 책의 가치를 보여 주고, 서점이 책을 다루는 방식도 바꿉니다. 먼저 같은 장르 독자들이 보통 얼마를 내는지 확인하십시오. 그다음 로열티 규칙으로 정하십시오. $2.99~$12.99 구간 밖의 전자책은 35%를 받습니다. 종이책은 정가가 $9.99 이상이면 정가의 60%, 그 아래면 50%를 받습니다. 두 경우 모두 인쇄 비용을 뺀 뒤 계산합니다.
 
 Metadata is the information behind your listing, which store search engines rely on. For AI shoppers, be plain: say who the book is for, the genre and the experience it delivers. Amazon's assistant answers questions like "a cozy mystery set in a bakery," so the description has to name those things in the reader's own words.
 
-메타데이터는 판매 페이지 뒤에 있는 정보이며, 서점 검색 엔진이 이에 의존한다. AI 쇼핑 도우미를 위해서는 분명하게 쓰십시오. 누구를 위한 책인지, 장르, 어떤 경험을 주는지 말하십시오. 아마존의 도우미는 "빵집을 배경으로 한 코지 미스터리" 같은 질문에 답하므로, 소개문이 독자의 말로 그 내용을 담고 있어야 합니다.
+메타데이터는 판매 페이지 뒤에 숨은 정보입니다. 서점의 검색 엔진이 이것을 읽습니다. AI 쇼핑 도우미를 위해서는 쉽고 분명하게 쓰십시오. 누구를 위한 책인지, 어떤 장르인지, 어떤 경험을 주는지 말하십시오. 아마존의 도우미는 "빵집을 배경으로 한 코지 미스터리" 같은 질문에 답합니다. 그래서 소개문에 독자가 쓰는 말로 이런 내용을 담아야 합니다.
 
 Amazon rules as of late 2026: KDP allows up to three categories per format and up to seven keyword boxes (Bookishelf guide; KDP Help). Amazon may add categories it judges relevant. Many newly added categories are nearly empty.
 
-2026년 말 기준 아마존 규칙: KDP는 형식별로 카테고리를 최대 3개, 키워드 칸을 최대 7개까지 허용한다(Bookishelf 가이드, KDP 도움말). 아마존은 관련이 있다고 판단하는 카테고리를 추가할 수 있다. 새로 추가된 카테고리 중 많은 수가 거의 비어 있다(ScribeCount).
+2026년 말 기준 아마존 규칙입니다. KDP(아마존 자가 출판 서비스)는 형식별로 카테고리를 최대 3개, 키워드 칸을 최대 7개까지 허용합니다(Bookishelf 가이드, KDP 도움말). 아마존은 관련이 있다고 판단하는 카테고리를 추가할 수 있습니다. 새로 추가된 카테고리 중 많은 수가 거의 비어 있습니다(ScribeCount).
 
 ---
 

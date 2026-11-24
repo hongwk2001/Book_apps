@@ -17,49 +17,49 @@
   "id": 3,
   "tag": "C02_003",
   "en": "Goal: end with 3 comparable books and one reader profile you can use in every later chapter.",
-  "ko": "목표: 이후 모든 장에서 쓸 비교 도서 3권과 독자 프로필 하나를 만듭니다.",
+  "ko": "목표: 이 장을 마치면 비교 도서 3권과, 이후 모든 장에서 쓸 독자 한 사람의 프로필이 생깁니다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "C02_004",
   "en": "Write your shelf in one line: genre + subgenre + the promise (for example, \"cozy fantasy with found family, a happy ending guaranteed\").",
-  "ko": "서가를 한 줄로 적으십시오: 장르 + 하위 장르 + 약속(예: \"가족을 찾아가는 따뜻한 판타지, 해피엔딩 보장\").",
+  "ko": "책이 속한 분야를 한 줄로 적으십시오. 장르, 하위 장르, 독자에게 약속하는 것을 함께 적습니다. 예: \"가족을 찾아가는 따뜻한 판타지, 해피엔딩 보장\".",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "C02_005",
   "en": "Find 4–6 recent books that share your reader. Use the store's \"readers also bought\" list and BookBub or Goodreads lists.",
-  "ko": "같은 독자를 가진 최근 책 4~6권을 찾으십시오. 서점의 \"함께 구매한 책\" 목록과 BookBub, Goodreads 목록을 쓰십시오.",
+  "ko": "여러분의 독자가 읽을 만한 최근 책 4~6권을 찾으십시오. 서점의 \"함께 구매한 책\" 목록이나 BookBub, Goodreads의 추천 목록을 활용하십시오.",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "C02_006",
   "en": "Put them into `labs/ch01_comps.py` (the `COMPS` list), set `MY_GENRE`, and run the script.",
-  "ko": "`labs/ch01_comps.py`의 `COMPS` 목록에 넣고, `MY_GENRE`를 정한 뒤 스크립트를 실행하십시오.",
+  "ko": "찾은 책을 `labs/ch01_comps.py`의 `COMPS` 목록에 넣으십시오. `MY_GENRE`에는 내 책의 장르를 적고, 스크립트를 실행하십시오.",
   "is_header": false
  },
  {
   "id": 7,
   "tag": "C02_007",
   "en": "Keep the titles marked KEEP. If fewer than 3 pass, search again. Do not lower the rules.",
-  "ko": "KEEP으로 표시된 책을 남기십시오. 3권보다 적으면 다시 찾으십시오. 기준을 낮추지 마십시오.",
+  "ko": "결과에서 KEEP(남김)으로 표시된 책만 남기십시오. 3권보다 적으면 다시 찾으십시오. 기준을 낮추지 마십시오.",
   "is_header": false
  },
  {
   "id": 8,
   "tag": "C02_008",
   "en": "Write your reader profile in the table below, then your hook (one sentence) and comp pitch (\"A meets B\").",
-  "ko": "아래 표에 독자 프로필을 쓰고, 훅(한 문장)과 비교 피치(\"A와 B를 합친 책\")를 쓰십시오.",
+  "ko": "아래 표에 독자 프로필을 적으십시오. 그다음 훅(독자의 눈길을 잡는 한 문장)과 비교 피치(\"A와 B를 합친 책\" 형식)를 쓰십시오.",
   "is_header": false
  },
  {
   "id": 9,
   "tag": "C02_009",
   "en": "Checkpoint: you have at least 3 KEEP titles, and your hook passes this test: a person who has never seen the book asks one follow-up question.",
-  "ko": "확인: KEEP 책이 3권 이상이고, 훅을 한 번도 본 적 없는 사람이 후속 질문을 한 번 하면 통과합니다.",
+  "ko": "확인: KEEP(남김) 책이 3권 이상 있어야 합니다. 그리고 훅을 한 번도 본 적 없는 사람에게 보여 줬을 때, 그 사람이 궁금해서 질문을 하나 하면 통과입니다.",
   "is_header": false
  },
  {
@@ -115,28 +115,28 @@
   "id": 17,
   "tag": "C02_017",
   "en": "Readers shop by category. \"Fantasy\" is too broad; \"cozy fantasy with found family\" tells a reader in seconds whether the book is for them. Nonfiction works the same way: \"personal finance\" versus \"personal finance for freelancers.\"",
-  "ko": "독자는 카테고리로 책을 고른다. \"판타지\"는 너무 넓다. \"가족을 찾아가는 따뜻한 판타지\"라고 하면 독자는 몇 초 만에 그 책이 자기 취향인지 안다. 논픽션도 같다. \"개인 재무\"보다 \"프리랜서를 위한 개인 재무\"가 훨씬 분명하다.",
+  "ko": "독자는 카테고리로 책을 고릅니다. \"판타지\"는 너무 넓습니다. \"가족을 찾아가는 따뜻한 판타지\"라고 하면, 독자는 몇 초 만에 이 책이 자기 취향인지 압니다. 논픽션도 마찬가지입니다. \"개인 재무\"보다 \"프리랜서를 위한 개인 재무\"가 훨씬 분명합니다.",
   "is_header": false
  },
  {
   "id": 18,
   "tag": "C02_018",
   "en": "Comps (\"comparable titles\") are recent books that share your reader. They show you what covers work, what readers expect, which keywords to use and which ads to target. A good comp is recent, successful but not a giant bestseller, and genuinely similar in tone, not just plot.",
-  "ko": "비교 도서(comps)는 여러분의 독자를 가진 최근 책이다. 어떤 표지가 통하는지, 독자가 무엇을 기대하는지, 어떤 키워드와 광고를 쓸지 알려 준다. 좋은 비교 도서는 최신이고, 성공했지만 거대한 베스트셀러가 아니며, 줄거리뿐 아니라 톤과 독자가 실제로 비슷하다.",
+  "ko": "비교 도서(comps, 비교 대상이 되는 책)는 여러분의 독자가 읽는 최근 책입니다. 이 책들을 보면 어떤 표지가 통하는지, 독자가 무엇을 기대하는지, 어떤 키워드와 광고를 쓸지 알 수 있습니다. 좋은 비교 도서는 최신이고, 성공했지만 초대형 베스트셀러는 아니며, 줄거리뿐 아니라 분위기도 실제로 비슷합니다.",
   "is_header": false
  },
  {
   "id": 19,
   "tag": "C02_019",
   "en": "There are three pitches, and you need all three: the hook (one line that makes someone say \"tell me more\"), the elevator pitch (hook, stakes and tone in 2–3 sentences), and the comp pitch (\"Book A meets Book B\").",
-  "ko": "피치는 세 가지가 필요하다. 훅(한 줄로 \"더 알려 주세요\"라는 말을 끌어내는 문장), 엘리베이터 피치(훅에 걸린 것과 분위기를 더한 2~3문장), 비교 피치(\"A와 B를 합친 책\")다.",
+  "ko": "피치(pitch, 짧게 설명하는 말)는 세 가지가 필요합니다. 훅은 \"더 듣고 싶다\"는 반응을 끌어내는 한 줄입니다. 엘리베이터 피치는 엘리베이터 안에서 말할 만큼 짧은 2~3문장으로, 훅, 걸린 것, 분위기를 담습니다. 비교 피치는 \"A와 B를 합친 책\" 형식입니다.",
   "is_header": false
  },
  {
   "id": 20,
   "tag": "C02_020",
   "en": "Real-world example: in 2021, Keila Shaheen self-published The Shadow Work Journal, a guided workbook built on Carl Jung's idea of the \"shadow self.\" It was a specific tool for a specific reader, and many of them were on TikTok. It sold more than a million copies, nearly 700,000 through TikTok Shop, promoted by creators who earned a commission on each sale (Boston Globe / New York Times). The lesson is that the narrower your reader profile, the easier it is for the right people to recognize your book as \"for me.\"",
-  "ko": "실제 사례: 2021년 케일라 셰이헌(Keila Shaheen)은 칼 융의 \"그림자 자아\" 개념을 바탕으로 한 가이드 워크북 *The Shadow Work Journal*을 직접 출간했다. 넓은 자기계발서가 아니라 특정 독자를 위한 구체적인 도구였고, 그 독자 중 많은 수가 틱톡 이용자였다. 100만 부가 넘게 팔렸고, 그중 거의 70만 부가 TikTok Shop을 통해 팔렸다. 판매마다 수수료를 받은 크리에이터들이 홍보했다(보스턴 글로브 / 뉴욕 타임스). 교훈은 독자 프로필이 좁을수록 맞는 사람들이 여러분의 책을 \"나를 위한 책\"으로 알아보기 쉽다는 것이다.",
+  "ko": "실제 사례: 2021년 케일라 셰이헌(Keila Shaheen)은 칼 융의 \"그림자 자아\" 개념을 바탕으로 한 가이드 워크북 *The Shadow Work Journal*을 직접 출간했습니다. 넓은 자기계발서가 아니라, 특정 독자를 위한 구체적인 도구였습니다. 그 독자 중 많은 사람이 틱톡을 썼습니다. 100만 부 넘게 팔렸고, 그중 약 70만 부가 TikTok Shop에서 팔렸습니다. 판매마다 수수료를 받는 크리에이터들이 책을 홍보했습니다(보스턴 글로브 / 뉴욕 타임스). 교훈은 이것입니다. 독자 프로필이 좁을수록, 맞는 사람들이 이 책을 \"나를 위한 책\"으로 알아보기 쉽습니다.",
   "is_header": false
  }
 ]

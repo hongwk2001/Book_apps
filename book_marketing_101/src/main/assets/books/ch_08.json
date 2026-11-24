@@ -24,14 +24,14 @@
   "id": 4,
   "tag": "C08_004",
   "en": "Open `labs/ch07_monthly_check.py`. Replace the `WEEKS` rows with your last four weeks: ad spend, ad-dashboard royalties, KDP royalties.",
-  "ko": "`labs/ch07_monthly_check.py`를 여십시오. `WEEKS` 행을 최근 4주의 광고비, 광고 대시보드 로열티, KDP 로열티로 바꾸십시오.",
+  "ko": "`labs/ch07_monthly_check.py`를 여십시오. `WEEKS` 행을 최근 4주의 광고비, 광고 대시보드의 로열티, KDP의 로열티로 바꾸십시오.",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "C08_005",
   "en": "Run it. Any week marked CHECK differs by more than 20%. Find out why before you trust the dashboard.",
-  "ko": "실행하십시오. CHECK로 표시된 주는 차이가 20%를 넘습니다. 대시보드를 믿기 전에 이유를 찾으십시오.",
+  "ko": "실행하십시오. CHECK로 표시된 주는 두 숫자의 차이가 20%를 넘습니다. 대시보드를 믿기 전에 이유를 찾으십시오.",
   "is_header": false
  },
  {
@@ -45,14 +45,14 @@
   "id": 7,
   "tag": "C08_007",
   "en": "Write three lines in your spreadsheet: what worked, what did not, and what you will test next month.",
-  "ko": "스프레드시트에 세 줄을 쓰십시오. 무엇이 효과가 있었나, 무엇이 없었나, 다음 달에 무엇을 시험할까.",
+  "ko": "스프레드시트에 세 줄을 쓰십시오. 무엇이 효과가 있었는지, 무엇이 없었는지, 다음 달에 무엇을 시험할지입니다.",
   "is_header": false
  },
  {
   "id": 8,
   "tag": "C08_008",
   "en": "Checkpoint: you have a flagged list of weeks, one explanation for each flagged week, and the read-through number.",
-  "ko": "확인: 표시된 주의 목록, 표시된 주마다 하나씩 설명, 연속 구매율 숫자가 있습니다.",
+  "ko": "확인: 표시된 주의 목록, 표시된 주마다 설명 하나, 연속 구매율 숫자가 있습니다.",
   "is_header": false
  },
  {
@@ -66,28 +66,28 @@
   "id": 10,
   "tag": "C08_010",
   "en": "You cannot improve what you do not measure. A few numbers checked once a month show which marketing to keep, which to fix and which to drop. Do not watch the daily sales rank; it moves constantly. Look for trends over weeks and months.",
-  "ko": "측정하지 않으면 개선할 수 없다. 한 달에 한 번 몇 가지 숫자만 확인해도, 어떤 마케팅을 유지하고 무엇을 고치고 무엇을 그만둘지 알 수 있다. 일일 판매 순위는 끊임없이 움직이므로 보지 않는다. 몇 주, 몇 달에 걸친 추세를 본다.",
+  "ko": "측정하지 않으면 개선할 수 없습니다. 한 달에 한 번 몇 가지 숫자만 확인해도, 어떤 마케팅을 계속하고 무엇을 고치고 무엇을 그만둘지 알 수 있습니다. 일일 판매 순위는 계속 바뀌므로 보지 마십시오. 몇 주, 몇 달에 걸친 추세를 보십시오.",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "C08_011",
   "en": "The core habit is checking one number against another. Compare the ad dashboard with the KDP report. As of November 2026, Amazon Ads no longer shows KDP authors an estimate of Kindle Unlimited page-read royalties after an ad click (PPC Land). For books in Kindle Unlimited, the KDP report is the number to trust, and a three-column spreadsheet (ad spend, sales royalties, page-read royalties) is enough.",
-  "ko": "핵심 습관은 숫자 하나를 다른 숫자와 맞춰 보는 것이다. 광고 대시보드를 KDP 보고서와 비교한다. 2026년 11월 기준, 아마존 광고는 광고 클릭 후 읽은 킨들 언리미티드 페이지 로열티의 추정치를 더 이상 KDP 작가에게 보여 주지 않는다(PPC Land). 킨들 언리미티드 책이라면 KDP 보고서를 믿어야 하며, 광고비, 판매 로열티, 페이지 읽기 로열티의 세 열짜리 스프레드시트면 충분하다.",
+  "ko": "핵심 습관은 한 숫자를 다른 숫자와 맞춰 보는 것입니다. 광고 대시보드를 KDP 보고서와 비교하십시오. 2026년 11월 기준으로 아마존 광고는 광고를 클릭한 뒤 읽힌 킨들 언리미티드(Kindle Unlimited, 구독형 전자책 서비스) 페이지 로열티의 추정치를 더 이상 KDP 작가에게 보여 주지 않습니다(PPC Land). 킨들 언리미티드에 있는 책이라면 KDP 보고서를 믿으십시오. 광고비, 판매 로열티, 페이지 읽기 로열티의 세 열짜리 스프레드시트면 충분합니다.",
   "is_header": false
  },
  {
   "id": 12,
   "tag": "C08_012",
   "en": "Read-through is the share of book 1 readers who go on to book 2. If 1,000 readers buy book 1 and 400 buy book 2, read-through is 40%. High read-through means each new reader is worth more than one sale. Low read-through suggests checking the ending of book 1 and the link to book 2 in its back matter.",
-  "ko": "연속 구매율은 1권 독자 중 2권으로 이어 읽는 비율이다. 1권을 산 독자가 1,000명이고 그중 400명이 2권을 샀다면, 연속 구매율은 40%다. 연속 구매율이 높으면 새 독자 한 명의 가치가 한 번의 판매보다 크다. 낮다면 1권의 결말과 뒷부분의 2권 링크를 확인해야 한다.",
+  "ko": "연속 구매율은 1권 독자 중 2권으로 이어 읽는 사람의 비율입니다. 1권을 산 독자가 1,000명이고 그중 400명이 2권을 샀다면, 연속 구매율은 40%입니다. 연속 구매율이 높으면 새 독자 한 명의 가치가 한 번의 판매보다 큽니다. 낮다면 1권의 결말과 뒷부분의 2권 링크를 확인하십시오.",
   "is_header": false
  },
  {
   "id": 13,
   "tag": "C08_013",
   "en": "Real-world check: a monthly routine takes about an hour, with three questions each month: what worked, what did not, and what to try next. Write the next book, since it is the best marketing.",
-  "ko": "실제 점검: 월간 루틴은 약 한 시간이 걸리며, 매달 세 가지 질문을 한다. 무엇이 효과가 있었나, 무엇이 없었나, 다음 달에는 무엇을 시도할까. 그리고 다음 책을 쓴다. 다음 책이 가장 좋은 마케팅이다.",
+  "ko": "실제 점검: 월간 루틴은 약 한 시간이 걸리며, 매달 세 가지 질문을 던집니다. 무엇이 효과가 있었는지, 무엇이 없었는지, 다음 달에 무엇을 시도할지입니다. 그리고 다음 책을 쓰십시오. 다음 책이 가장 좋은 마케팅입니다.",
   "is_header": false
  }
 ]

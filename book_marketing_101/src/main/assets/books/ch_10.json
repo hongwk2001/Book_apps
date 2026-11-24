@@ -24,21 +24,21 @@
   "id": 4,
   "tag": "C10_004",
   "en": "Manuscript professionally edited and proofread",
-  "ko": "원고를 전문가가 편집하고 교정했습니다",
+  "ko": "원고를 전문 편집자가 손보고 교정했습니다",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "C10_005",
   "en": "Cover tested at thumbnail size against genre bestsellers",
-  "ko": "표지를 장르 베스트셀러와 비교해 썸네일 크기로 테스트했습니다",
+  "ko": "표지를 썸네일 크기로 줄여 같은 장르 베스트셀러와 나란히 비교해 보았습니다",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "C10_006",
   "en": "Blurb final and tested on readers",
-  "ko": "책 소개문을 최종 확정하고 독자에게 테스트했습니다",
+  "ko": "책 소개문을 확정하고 독자에게 읽어 보게 했습니다",
   "is_header": false
  },
  {
@@ -52,7 +52,7 @@
   "id": 8,
   "tag": "C10_008",
   "en": "Back matter includes next-book link, newsletter sign-up and review request",
-  "ko": "뒷부분에 다음 권 링크, 뉴스레터 구독 신청, 리뷰 요청이 들어 있습니다",
+  "ko": "책 뒷부분에 다음 권 링크, 뉴스레터 구독 신청, 리뷰 요청이 들어 있습니다",
   "is_header": false
  },
  {
@@ -80,7 +80,7 @@
   "id": 12,
   "tag": "C10_012",
   "en": "Welcome sequence written and switched on",
-  "ko": "환영 메일 시리즈를 쓰고 켜 두었습니다",
+  "ko": "환영 메일 시리즈를 쓰고 자동 발송을 켜 두었습니다",
   "is_header": false
  },
  {
@@ -157,14 +157,14 @@
   "id": 23,
   "tag": "C10_023",
   "en": "ARC readers reminded to post reviews",
-  "ko": "ARC 독자에게 리뷰 작성을 리마인드했습니다",
+  "ko": "ARC 독자에게 리뷰 작성을 다시 알렸습니다",
   "is_header": false
  },
  {
   "id": 24,
   "tag": "C10_024",
   "en": "Launch price set, with end date announced",
-  "ko": "출간 가격을 정하고 종료일을 공지했습니다",
+  "ko": "출간 가격을 정하고 종료일을 알렸습니다",
   "is_header": false
  },
  {
@@ -199,7 +199,7 @@
   "id": 29,
   "tag": "C10_029",
   "en": "−90 to −76 · 13–11 weeks before · Final cover and blurb; set metadata and price; open ARC signups; set up reader magnet and welcome emails",
-  "ko": "−90~−76일 · 출간 13~11주 전 · 표지와 책 소개문 최종 확정; 메타데이터와 가격 설정; ARC 신청 열기; 리더 마그넷과 환영 메일 설정",
+  "ko": "−90~−76일 · 출간 13~11주 전 · 표지와 책 소개문 확정; 메타데이터와 가격 설정; ARC 신청 받기 시작; 리더 마그넷과 환영 메일 준비",
   "is_header": false
  },
  {
@@ -220,14 +220,14 @@
   "id": 32,
   "tag": "C10_032",
   "en": "−41 to −15 · 6–2 weeks before · Post teasers, excerpts and trope content weekly; email list with sneak peeks; plan launch-week schedule",
-  "ko": "−41~−15일 · 출간 6~2주 전 · 티저, 발췌문, 트로프 콘텐츠를 매주 게시; 이메일 리스트에 미리보기 전달; 출간 주간 일정 계획",
+  "ko": "−41~−15일 · 출간 6~2주 전 · 티저, 발췌문, 장르 특유의 소재(트로프) 콘텐츠를 매주 게시; 이메일 리스트에 미리보기 전달; 출간 주간 일정 계획",
   "is_header": false
  },
  {
   "id": 33,
   "tag": "C10_033",
   "en": "−14 to −1 · 2–1 weeks before · Remind ARC readers; write and schedule launch emails and posts; confirm events",
-  "ko": "−14~−1일 · 출간 2~1주 전 · ARC 독자에게 리마인드; 출간 이메일과 게시물 작성 및 예약; 행사 확정",
+  "ko": "−14~−1일 · 출간 2~1주 전 · ARC 독자에게 다시 알리기; 출간 이메일과 게시물 쓰고 예약하기; 행사 확정",
   "is_header": false
  },
  {
@@ -241,14 +241,14 @@
   "id": 35,
   "tag": "C10_035",
   "en": "8 to 30 · 1–4 weeks after · Thank readers; share reviews; start a small ad test; send newsletter update",
-  "ko": "8~30일 · 출간 1~4주 후 · 독자에게 감사; 리뷰 공유; 작은 광고 테스트 시작; 뉴스레터 업데이트 발송",
+  "ko": "8~30일 · 출간 1~4주 후 · 독자에게 감사 인사; 리뷰 공유; 작은 광고 테스트 시작; 뉴스레터 소식 발송",
   "is_header": false
  },
  {
   "id": 36,
   "tag": "C10_036",
   "en": "31 to 90 · 1–3 months after · Monthly review routine (Chapter 7); one promotion per month; newsletter swaps; keep writing the next book",
-  "ko": "31~90일 · 출간 1~3개월 후 · 월간 점검 루틴(7장); 매달 프로모션 하나; 뉴스레터 교환; 다음 책 계속 쓰기",
+  "ko": "31~90일 · 출간 1~3개월 후 · 월간 점검(7장); 매달 프로모션 하나; 뉴스레터 교환; 다음 책 계속 쓰기",
   "is_header": false
  },
  {
@@ -276,7 +276,7 @@
   "id": 40,
   "tag": "C10_040",
   "en": "[Character name] has always [normal life or belief]. But when [inciting incident], [he/she/they] must [goal].",
-  "ko": "[주인공 이름]은 늘 [평범한 삶이나 믿음]을 살아왔습니다. 그런데 [사건]이 일어나고, [그/그녀/그들]은 [목표]를 이뤄야 합니다.",
+  "ko": "[주인공 이름]은 늘 [평범한 삶이나 믿음] 속에 살았습니다. 그런데 [사건]이 일어나고, [그/그녀/그들]은 [목표]를 이뤄야 합니다.",
   "is_header": false
  },
  {
@@ -297,7 +297,7 @@
   "id": 43,
   "tag": "C10_043",
   "en": "Perfect for fans of [comp author or title]. [Trope list or tone words, such as: enemies to lovers, small town, slow burn.]",
-  "ko": "[비교 작가 또는 작품]의 팬에게 딱 맞습니다. [트로프 목록이나 분위기 단어. 예: 원수에서 연인으로, 작은 마을, 천천히 달아오르는.]",
+  "ko": "[비교 작가 또는 작품]의 팬에게 딱 맞습니다. [장르 특유의 소재 목록이나 분위기 단어. 예: 원수에서 연인으로, 작은 마을, 천천히 달아오르는 사랑.]",
   "is_header": false
  },
  {
@@ -353,7 +353,7 @@
   "id": 51,
   "tag": "C10_051",
   "en": "[One sentence on why you are the right guide: experience, results or story.]",
-  "ko": "[왜 여러분이 적합한 안내자인지 한 문장: 경험, 결과 또는 이야기.]",
+  "ko": "[여러분이 이 책의 적임자인 이유를 한 문장으로: 경험, 결과, 또는 이야기.]",
   "is_header": false
  },
  {
@@ -374,7 +374,7 @@
   "id": 54,
   "tag": "C10_054",
   "en": "Personalize every email. Mention something specific about the person's blog, show or audience.",
-  "ko": "모든 이메일을 맞춤형으로 쓰십시오. 상대의 블로그, 방송, 청중에 대한 구체적인 내용을 언급하십시오.",
+  "ko": "모든 이메일을 상대에게 맞춰 쓰십시오. 상대의 블로그, 방송, 청취자나 독자에 대한 구체적인 내용을 언급하십시오.",
   "is_header": false
  },
  {
@@ -409,14 +409,14 @@
   "id": 59,
   "tag": "C10_059",
   "en": "[For podcasts: I'd love to talk with your listeners about [topic angle], including [2–3 talking points].] [For reviewers: I'd be glad to send you a free copy in [format] for an honest review, if it fits your reading list.]",
-  "ko": "[팟캐스트의 경우: 청취자와 [주제 각도], 그리고 [2~3가지 이야기 거리]에 대해 이야기 나누고 싶습니다.] [리뷰어의 경우: 독서 목록에 맞는다면, 솔직한 리뷰를 조건으로 [형식] 무료 사본을 보내 드리고 싶습니다.]",
+  "ko": "[팟캐스트의 경우: 청취자와 [주제 방향]에 대해 이야기 나누고 싶습니다. [2~3가지 이야기 거리]를 다룰 수 있습니다.] [리뷰어의 경우: 독서 목록에 맞는다면, 솔직한 리뷰를 조건으로 [형식] 무료 사본을 보내 드리고 싶습니다.]",
   "is_header": false
  },
  {
   "id": 60,
   "tag": "C10_060",
   "en": "I've attached a short media kit with my bio, cover and book summary. Thank you for considering it, and no worries if it isn't the right fit.",
-  "ko": "작가 소개, 표지, 책 요약이 담긴 짧은 미디어 키트를 첨부했습니다. 검토해 주셔서 감사하며, 맞지 않으면 편하게 말씀해 주십시오.",
+  "ko": "작가 소개, 표지, 책 요약이 담긴 짧은 미디어 키트를 첨부했습니다. 검토해 주셔서 감사합니다. 맞지 않으면 편하게 말씀해 주십시오.",
   "is_header": false
  },
  {
@@ -430,7 +430,7 @@
   "id": 62,
   "tag": "C10_062",
   "en": "Follow up once after about a week if you have not heard back, then let it go.",
-  "ko": "일주일쯤 지나도 답이 없으면 한 번만 다시 연락하고, 그 뒤에는 놓아 주십시오.",
+  "ko": "일주일쯤 지나도 답이 없으면 한 번만 다시 연락하고, 그 뒤에는 그만두십시오.",
   "is_header": false
  }
 ]
