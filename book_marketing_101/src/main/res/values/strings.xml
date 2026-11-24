@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Book Marketing 101</string>
+    <string name="app_name_en">Book Marketing 101</string>
+    <string name="app_name_ko">Book Marketing 101</string>
+    <string name="iap_product_id">com.tkprof.bookmarketing101.full</string>
+    <integer name="free_chapters">10</integer>
+    <integer name="total_chapters">10</integer>
+</resources>
