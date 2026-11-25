@@ -17,49 +17,49 @@
   "id": 3,
   "tag": "P0151",
   "en": "Titania enters with her group of followers.",
-  "ko": "티타니아가 추종자들과 함께 등장한다.",
+  "ko": "티타니아가 부하들을 데리고 등장한다.",
   "is_header": false
  },
  {
   "id": 4,
   "tag": "P0152_1",
   "en": "Titania says, \"Come now. Sing a roundel and a fairy song. Then go away for the third part of a minute. Some of you must kill insects in the rose buds. Some fight with needles to make leather wings. These will be used for my small elves' coats. Some keep back the noisy owl.\"",
-  "ko": "티타니아가 말한다. \"자, 어서. 둥근 노래와 요정의 노래를 불러라. 그다음 20초 동안은 물러나 있어라. 너희 중 몇 명은 장미 꽃봉오리에 있는 벌레들을 죽여라. 몇 명은 바늘로 싸워 가죽 날개를 만들어라. 이것들은 내 작은 요정들의 코트에 쓰일 것이다. 어떤 이들은 시끄러운 올빼미를 쫓아내라.\"",
+  "ko": "티타니아가 말한다. \"자, 이리 오너라. 둥근 노래와 요정의 노래를 불러라. 그다음은 잠시 동안 물러나 있어라. 너희 중 몇 명은 장미 꽃봉오리에 있는 벌레들을 죽여라. 몇 명은 바늘로 싸워 가죽 날개를 만들어라. 이것들은 내 작은 요정들의 외투를 만드는 데 쓰일 것이다. 어떤 이들은 시끄러운 부엉이를 쫓아내라.\"",
   "is_header": false
  },
  {
   "id": 5,
   "tag": "P0152_2",
   "en": "\"The owl hoots every night and looks at our strange spirits. Sing me to sleep now. Then go back to your jobs. Let me rest. Fairies, sing.\"",
-  "ko": "\"올빼미는 매일 밤 울며 우리의 기묘한 영혼들을 지켜본다. 이제 나를 재워다오. 그다음 각자의 일로 돌아가거라. 내가 쉬게 해다오. 요정들아, 노래하라.\"",
+  "ko": "\"부엉이는 매일 밤 울며 우리의 신비로운 영혼들을 지켜본다. 이제 나를 재워다오. 그다음에는 각자의 일로 돌아가거라. 내가 쉴 수 있게 해다오. 요정들아, 노래하라.\"",
   "is_header": false
  },
  {
   "id": 6,
   "tag": "P0153_1",
   "en": "The first fairy says, \"You spotted snakes with double tongues. Thorny hedgehogs, do not be seen. Newts and blind worms do no harm. Do not come near our Fairy Queen.\"",
-  "ko": "첫째 요정이 말한다. \"너희는 혀가 두 개인 뱀을 발견했다. 가시 돋친 고슴도치야, 모습을 드러내지 마라. 영물과 눈먼 벌레들은 해를 끼치지 않는다. 우리 요정 여왕님께 가까이 오지 마라.\"",
+  "ko": "첫째 요정이 말한다. \"너희는 혀가 두 개인 뱀을 발견했다. 가시 돋친 고슴도치야, 눈에 띄지 마라. 영물과 눈먼 벌레들은 해를 끼치지 않는다. 우리 요정 여왕님께 가까이 오지 마라.\"",
   "is_header": false
  },
  {
   "id": 7,
   "tag": "P0154_1",
   "en": "The Chorus, the speaker of the prologue, says, \"Philomel, sing with a melody. Sing in our dear lullaby. Lulla, lulla, lullaby. Lulla, lulla, lullaby. Do not harm or cast a spell. Do not use a charm near our lovely lady. So good night with a lullaby.\"",
-  "ko": "프롤로그를 읊는 해설자 코러스가 말한다. \"필로멜, 선율을 얹어 노래하십시오. 우리의 소중한 자장가에 맞춰 부르십시오. 자장, 자장, 자장가. 자장, 자장, 자장가. 해를 끼치거나 마법을 걸지 마십시오. 우리의 아름다운 숙녀분 근처에서 주문을 외우지 마십시오. 그럼 자장가와 함께 안녕히 주무십시오.\"",
+  "ko": "프롤로그를 읊는 해설자 코러스가 말한다. \"필로멜, 선율을 담아 노래하십시오. 우리의 소중한 자장가에 맞춰 부르십시오. 자장, 자장, 자장가. 자장, 자장, 자장가. 해를 끼치거나 마법을 걸지 마십시오. 우리 아름다운 숙녀님 근처에서 주문을 외우지 마십시오. 그러니 자장가와 함께 안녕히 주무십시오.\"",
   "is_header": false
  },
  {
   "id": 8,
   "tag": "P0155_1",
   "en": "The first fairy says, \"Weaving spiders, do not come here. Go away, you long-legged spinners. Black beetles, do not come near. Worms and snails do no harm.\"",
-  "ko": "첫째 요정이 말한다. \"거미들아, 이리로 오지 마라. 다리가 긴 실을 짜는 자들아, 물러가라. 검은 딱정벌레들아, 가까이 오지 마라. 지렁이와 달팽이는 해를 끼치지 않는다.\"",
+  "ko": "첫째 요정이 말한다. \"거미들아, 이리로 오지 마라. 다리가 긴 실을 뽑는 자들아, 물러가라. 검은 딱정벌레들아, 가까이 오지 마라. 벌레와 달팽이는 해를 끼치지 않는다.\"",
   "is_header": false
  },
  {
   "id": 9,
   "tag": "P0156_1",
   "en": "The Chorus says, \"Philomel with melody, and so on.\"",
-  "ko": "코러스가 말한다. \"선율을 얹은 필로멜, 그리고 그 외의 것들입니다.\"",
+  "ko": "코러스가 말한다. \"선율을 담은 필로멜, 그리고 그 외의 것들입니다.\"",
   "is_header": false
  },
  {
@@ -87,14 +87,14 @@
   "id": 13,
   "tag": "P0161",
   "en": "Oberon squeezes the flower on Titania's eyelids.",
-  "ko": "오베론이 티타니아의 눈꺼풀 위에 꽃을 짓누른다.",
+  "ko": "오베론이 티타니아의 눈꺼풀 위에 있는 꽃을 꽉 누른다.",
   "is_header": false
  },
  {
   "id": 14,
   "tag": "P0162_1",
   "en": "Oberon goes on, \"Do it for your true love. Love and suffer for his sake. It might be a mouse, or a cat, or a bear. Or a deer, or a wild boar with hairy hair. It will appear in your eye. When you wake, it will be your dear one. Wake when some ugly thing is near.\"",
-  "ko": "오베론이 말을 잇는다. \"너의 진정한 사랑을 위해 그렇게 해라. 그를 위해 사랑하고 고통받아라. 그것은 생쥐나 고양이, 혹은 곰일 수도 있어. 혹은 사슴이나 털이 많은 멧돼지일 수도 있지. 그것이 네 눈에 나타날 거야. 네가 깨어났을 때 그것은 네 사랑하는 이가 될 것이다. 추한 것이 가까이 있을 때 깨어나라.\"",
+  "ko": "오베론이 말을 잇는다. \"너의 진정한 사랑을 위해 그렇게 해. 그를 위해 사랑하고 고통을 견뎌라. 그것은 생쥐나 고양이, 혹은 곰일 수도 있어. 아니면 사슴이나 털이 많은 멧돼지일 수도 있어. 그것이 네 눈앞에 나타날 거야. 네가 깨어났을 때 그것은 네 사랑하는 사람이 될 거야. 추한 것이 가까이 왔을 때 깨어나라.\"",
   "is_header": false
  },
  {
@@ -115,21 +115,21 @@
   "id": 17,
   "tag": "P0165_1",
   "en": "Lysander says, \"My dear love, you look tired from walking in the woods. To tell the truth, I have forgotten our way. We will rest, Hermia, if you think it is good. We will wait for the comfort of the day.\"",
-  "ko": "라이샌더가 말한다. \"내 사랑, 숲을 걸어 다니느라 지쳐 보이는구나. 솔직히 말하자면, 내가 우리 길을 잊어버렸어. 네가 좋다면, 허미아, 우리 좀 쉬자. 낮이 되어 편안해질 때까지 기다리자.\"",
+  "ko": "라이샌더가 말한다. \"내 사랑, 숲속을 걸어서 피곤해 보이네. 솔직히 말하면 내가 길을 잊어버렸어. 허미아, 네가 좋다면 우리 좀 쉬자. 낮이 되어 편안해질 때까지 기다리자.\"",
   "is_header": false
  },
  {
   "id": 18,
   "tag": "P0166_1",
   "en": "Hermia says, \"Let it be so, Lysander. Find a place for us to sleep. I will rest my head on this bank.\"",
-  "ko": "허미아가 말한다. \"그래, 그렇게 하자, 라이샌더. 우리가 잘 곳을 찾아봐. 난 이 둑에 머리를 기대고 쉴게.\"",
+  "ko": "허미아가 말한다. \"그렇게 하자, 라이샌더. 우리가 잘 곳을 찾아줘. 나는 이 둑에 머리를 기대고 쉴게.\"",
   "is_header": false
  },
  {
   "id": 19,
   "tag": "P0167_1",
   "en": "Lysander says, \"One piece of grass will serve as a pillow for both of us. One heart, one bed, two chests, and one promise. We share one truth.\"",
-  "ko": "라이샌더가 말한다. \"풀 한 포기면 우리 둘이 베개로 쓸 수 있어. 하나의 마음, 하나의 침대, 두 개의 가슴, 그리고 하나의 약속. 우리는 하나의 진실을 공유하고 있어.\"",
+  "ko": "라이샌더가 말한다. \"풀 한 포기가 우리 둘의 베개가 될 거야. 하나의 마음, 하나의 침대, 두 개의 가슴, 그리고 하나의 약속. 우리는 하나의 진실을 공유하고 있어.\"",
   "is_header": false
  },
  {
@@ -143,42 +143,42 @@
   "id": 21,
   "tag": "P0169_1",
   "en": "Lysander says, \"Oh, notice my innocence, my dear! Love loses its meaning when lovers talk. I mean that my heart is joined to yours. We can make one heart out of two. Two chests are joined by a promise. Then we have two bodies and one truth. Then do not deny me a place to sleep by your side.\"",
-  "ko": "라이샌더가 말한다. \"오, 나의 순수함을 알아줘, 내 사랑! 연인들이 말로 표현하면 사랑은 그 의미를 잃어버려. 내 말은 내 마음이 네 마음과 하나라는 뜻이야. 우리는 두 개의 마음을 하나로 만들 수 있어. 두 가슴은 약속으로 이어져 있지. 그러면 우리는 두 몸에 하나의 진실을 가진 거야. 그러니 네 곁에서 잘 곳을 내게 거부하지 마.\"",
+  "ko": "라이샌더가 말한다. \"오, 나의 순수한 마음을 알아줘! 연인들이 말로 표현하면 사랑의 의미가 사라져. 내 말은 내 마음이 네 마음과 하나라는 뜻이야. 우리는 두 개의 마음을 하나로 만들 수 있어. 두 가슴은 약속으로 이어져 있어. 그러면 우리는 두 몸에 하나의 진실을 가진 셈이지. 그러니 내 옆에서 잘 곳을 거부하지 마.\"",
   "is_header": false
  },
  {
   "id": 22,
   "tag": "P0169_2",
   "en": "\"Because in this way, Hermia, I am not lying.\"",
-  "ko": "\"이런 식으로라면, 허미아, 나는 거짓말을 하는 게 아니니까.\"",
+  "ko": "\"그렇게 하면, 허미아, 나는 거짓말을 하는 게 아니니까.\"",
   "is_header": false
  },
  {
   "id": 23,
   "tag": "P0170_1",
   "en": "Hermia says, \"Lysander speaks in very lovely riddles. Now scold my manners and my pride. Do this if I meant to say Lysander lied! But, dear friend, for love and courtesy, lie further away in human modesty. Such a distance is appropriate for a virtuous bachelor and a maid. Stay that far away.\"",
-  "ko": "허미아가 말한다. \"라이샌더는 아주 사랑스러운 수수께끼 같은 말을 하네. 이제 내 예의와 자존심을 꾸짖어줘. 만약 내가 라이샌더가 거짓말을 했다고 말하려 했다면 이렇게 해줘! 하지만, 내 사랑하는 친구야, 사랑과 예의를 위해 인간적인 겸손함을 갖고 좀 더 떨어져서 누워. 그 정도 거리는 고결한 총각과 처녀에게 적당한 거리야. 저만큼 떨어져서 있어.\"",
+  "ko": "허미아가 말한다. \"라이샌더는 아주 사랑스러운 수수께끼 같은 말을 하네. 이제 내 예의와 자존심을 꾸짖어줘. 내가 라이샌더가 거짓말을 했다고 말하려 했다면 이렇게 해줘! 하지만, 사랑하는 친구야, 사랑과 예의를 위해 인간적인 겸손함을 갖고 좀 더 떨어져서 누워. 그 정도 거리가 고결한 총각과 처녀에게는 적당해. 저만큼 떨어져서 있어.\"",
   "is_header": false
  },
  {
   "id": 24,
   "tag": "P0170_2",
   "en": "\"And good night, lovely friend. May your love never change until the end of your life!\"",
-  "ko": "\"그리고 잘 자, 사랑스러운 친구야. 네 사랑이 평생 변치 않기를 바랄게!\"",
+  "ko": "\"그리고 잘 자, 사랑스러운 친구야. 네 사랑이 평생 변치 않기를 빌어!\"",
   "is_header": false
  },
  {
   "id": 25,
   "tag": "P0171_1",
   "en": "Lysander says, \"Amen, I say to that lovely prayer. And then I will end my life when I end my loyalty! Here is my bed. May sleep give you full rest!\"",
-  "ko": "라이샌더가 말한다. \"아멘, 그 아름다운 기도에 동의해. 그리고 내 충성이 끝날 때 내 생명도 끝날 거야! 여기가 내 침대야. 잠이 너에게 온전한 휴식을 주길!\"",
+  "ko": "라이샌더가 말한다. \"아멘, 그 아름다운 기도에 동의해. 내 충성심이 끝날 때 내 생명도 끝날 거야! 여기가 내 침대야. 잠이 너에게 완전한 휴식을 주길!\"",
   "is_header": false
  },
  {
   "id": 26,
   "tag": "P0172_1",
   "en": "Hermia says, \"I wish the person who said that had eyes pressed shut!\"",
-  "ko": "허미아가 말한다. \"그런 말을 한 사람은 눈을 꼭 감아버렸으면 좋겠어!\"",
+  "ko": "허미아가 말한다. \"그 말을 한 사람이 눈을 꼭 감아버렸으면 좋겠어!\"",
   "is_header": false
  },
  {
@@ -192,14 +192,14 @@
   "id": 28,
   "tag": "P0175_1",
   "en": "Puck enters and says, \"I have traveled through the forest. But I found no Athenian people. I could not see how this flower's power stirs love in their eyes. Night and silence! Who is here? He wears weeds of Athens. My master said this is he. He rejected the Athenian maid.\"",
-  "ko": "퍽이 들어와 말한다. \"나는 숲을 가로질러 왔어. 하지만 아테네 사람은 한 명도 찾지 못했지. 이 꽃의 힘이 어떻게 그들의 눈에 사랑을 불러일으키는지 볼 수 없었어. 밤과 정적! 누가 여기 있나? 그는 아테네의 옷을 입고 있군. 내 주인은 이 사람이라고 말했어. 그는 아테네 처녀를 거부했지.\"",
+  "ko": "퍽이 들어와 말한다. \"나는 숲을 가로질러 왔어. 하지만 아테네 사람은 한 명도 찾지 못했어. 이 꽃의 힘이 어떻게 그들의 눈에 사랑을 불러일으키는지 알 수가 없었어. 밤과 정적! 누가 여기 있나? 그는 아테네 옷을 입고 있어. 내 주인은 이 사람이 그 사람이라고 말했어. 그는 아테네 처녀를 거부했어.\"",
   "is_header": false
  },
  {
   "id": 29,
   "tag": "P0175_2",
   "en": "\"And here the maiden sleeps deeply. She sleeps on the damp and dirty ground. Pretty soul, she did not dare to lie near this lack-of-love. This man lacks courtesy. You rude man, I cast all the power of this charm onto your eyes. When you wake up, let love forbid sleep to stay on your eyelid.\"",
-  "ko": "\"그리고 여기 처녀가 깊이 잠들어 있어. 그녀는 축축하고 더러운 땅 위에서 자고 있네. 아름다운 영혼이여, 그녀는 사랑이 없는 이 사람 곁에 눕는 것을 두려워했어. 이 남자는 예의가 없군. 무례한 자여, 이 마법의 힘을 모두 네 눈에 부어주마. 네가 깨어날 때, 사랑이 네 눈꺼풀에 잠이 머물지 못하게 하리라.\"",
+  "ko": "\"그리고 여기 처녀가 깊이 잠들어 있네. 그녀는 축축하고 더러운 땅 위에서 자고 있어. 아름다운 영혼아, 너는 이 사랑 없는 자의 곁에 눕는 것을 두려워했구나. 이 남자는 예의가 없어. 무례한 자여, 이 마법의 힘을 모두 네 눈에 부어주마. 네가 깨어날 때, 사랑이 네 눈꺼풀에 머무는 잠을 막아버리길 바란다.\"",
   "is_header": false
  },
  {
@@ -227,7 +227,7 @@
   "id": 33,
   "tag": "P0178_1",
   "en": "Helena says, \"Stay, even if you kill me, dear Demetrius.\"",
-  "ko": "헬레나가 말한다. \"죽여도 좋으니 머물러줘, 사랑하는 디미트리어스.\"",
+  "ko": "헬레나가 말한다. \"나를 죽일지라도 머물러줘, 사랑하는 디미트리어스.\"",
   "is_header": false
  },
  {
@@ -241,14 +241,14 @@
   "id": 35,
   "tag": "P0180_1",
   "en": "Helena says, \"Oh, will you leave me in the dark? Do not do that.\"",
-  "ko": "헬레나가 말한다. \"오, 나를 어둠 속에 혼자 두고 가려는 거야? 그러지 마.\"",
+  "ko": "헬레나가 말한다. \"어머, 나를 어둠 속에 혼자 두고 가려는 거야? 그러지 마.\"",
   "is_header": false
  },
  {
   "id": 36,
   "tag": "P0181_1",
   "en": "Demetrius says, \"Stay, even if it is dangerous for you. I will go alone.\"",
-  "ko": "디미트리어스가 말한다. \"위험하더라도 곁에 있어. 난 혼자 갈게.\"",
+  "ko": "디미트리어스가 말한다. \"네게 위험하더라도 곁에 있어. 난 혼자 갈게.\"",
   "is_header": false
  },
  {
@@ -262,21 +262,21 @@
   "id": 38,
   "tag": "P0183_1",
   "en": "Helena says, \"Oh, I am out of breath from this silly chase! The more I pray, the less grace I have. Hermia is happy wherever she lies. She has blessed and attractive eyes. Why are her eyes so bright? They are not bright from salt tears. If they were, my eyes would be washed more often than hers.\"",
-  "ko": "헬레나가 말한다. \"아, 이 바보 같은 추격전 때문에 숨이 턱까지 차올랐어! 기도를 하면 할수록 내 품위만 떨어지는 것 같아. 허미아는 어디에 누워 있든 행복할 거야. 그녀는 축복받고 매력적인 눈을 가졌지. 왜 그녀의 눈은 저토록 빛나는 걸까? 눈물 때문에 붓기가 생겨서 빛나는 게 아니야. 만약 그랬다면 내 눈이 그녀보다 더 자주 씻겼을 거야.\"",
+  "ko": "헬레나가 말한다. \"아, 이 바보 같은 추격전 때문에 숨이 차! 기도를 하면 할수록 내 품위는 떨어져만 가. 허미아는 어디에 누워 있든 행복할 거야. 그녀는 축복받고 매력적인 눈을 가졌어. 왜 그녀의 눈은 그렇게 빛나는 거지? 눈물 때문에 붓기가 생긴 게 아니야. 만약 그랬다면 내 눈이 그녀보다 더 자주 씻겼을 거야.\"",
   "is_header": false
  },
  {
   "id": 39,
   "tag": "P0183_2",
   "en": "\"No, no, I am as ugly as a bear. Beasts that meet me run away in fear. Therefore it is no surprise if Demetrius acts like a monster and runs away from me. What wicked and lying mirror of mine made me compare my eyes to Hermia's round eyes? But who is here? Lysander, you are on the ground!\"",
-  "ko": "\"아니, 아니, 난 곰처럼 못생긴 얼굴이야. 나를 마주치는 짐승들도 겁에 질려 도망쳐. 그러니 디미트리어스가 괴물처럼 행동하며 나를 피해 달아나는 것도 당연해. 어떤 사악하고 거짓된 거울이 내 눈을 허미아의 동그란 눈과 비교하게 만든 걸까? 그런데 여기 누가 있는 거지? 라이샌더, 당신이 땅에 쓰러져 있잖아!\"",
+  "ko": "\"아니, 아니, 난 곰처럼 못생겼어. 나를 마주치는 짐승들도 겁에 질려 도망쳐. 그러니 디미트리어스가 괴물처럼 행동하며 나를 피해 달아나는 것도 당연해. 내 눈을 허미아의 동그란 눈과 비교하게 만든 사악하고 거짓된 거울은 대체 뭐였을까? 그런데 여기 누가 있지? 라이샌더, 당신이 땅에 쓰러져 있어!\"",
   "is_header": false
  },
  {
   "id": 40,
   "tag": "P0183_3",
   "en": "\"Are you dead or asleep? I see no blood and no wound. Lysander, if you live, sir, wake up.\"",
-  "ko": "\"죽은 거야, 아니면 잠든 거야? 피도 안 나고 상처도 없어 보이는데. 라이샌더, 살아 있다면 어서 일어나.\"",
+  "ko": "\"죽은 거야 아니면 잠든 거야? 피도 보이지 않고 상처도 없어. 라이샌더, 살아 있다면 일어나 봐.\"",
   "is_header": false
  },
  {
@@ -290,42 +290,42 @@
   "id": 42,
   "tag": "P0185_1",
   "en": "Lysander says, \"I will run through fire for your dear sake. Clear Helena! Nature shows art. It makes me see your heart through your chest. Where is Demetrius? Oh, how fitting it is for that mean name to die on my sword!\"",
-  "ko": "라이샌더가 말한다. \"당신을 위해서라면 불길 속이라도 뛰어갈 거야. 맑은 정신의 헬레나! 자연이 예술을 보여주는군. 네 가슴을 통해 네 진심이 보이네. 디미트리어스는 어디에 있지? 오, 그 못된 이름이 내 칼끝에서 사라지다니 정말 딱 맞는 일이군!\"",
+  "ko": "라이샌더가 말한다. \"너를 위해서라면 불길 속이라도 뛰어갈 거야. 맑은 정신으로 봐, 헬레나! 자연은 예술을 보여줘. 그건 네 가슴을 통해 네 진심을 보게 해줘. 디미트리어스는 어디에 있지? 오, 그 못된 이름이 내 칼에 쓰러지는 게 정말 딱 어울리는구나!\"",
   "is_header": false
  },
  {
   "id": 43,
   "tag": "P0186_1",
   "en": "Helena says, \"Do not say that, Lysander. Do not say that. What if he loves your Hermia? Lord, what if he does? Yet Hermia still loves you. Then be content.\"",
-  "ko": "헬레나가 말한다. \"그렇게 말하지 마, 라이샌더. 그러지 마. 만약 그가 네 허미아를 사랑하면 어쩌려고? 세상에, 만약 그렇다면 어떡해? 그래도 허미아는 여전히 널 사랑해. 그럼 만족해.\"",
+  "ko": "헬레나가 말한다. \"그렇게 말하지 마, 라이샌더. 그러지 마. 만약 그가 네 허미아를 사랑하면 어떡해? 세상에, 만약 정말 그렇다면? 그래도 허미아는 여전히 너를 사랑해. 그럼 만족해.\"",
   "is_header": false
  },
  {
   "id": 44,
   "tag": "P0187_1",
   "en": "Lysander says, \"Content with Hermia? No, I regret the long minutes I spent with her. I do not love Hermia, but Helena. Who would not trade a crow for a dove? Human will is controlled by reason. And reason says you are the better woman. Growing things are not ripe until their season.\"",
-  "ko": "라이샌더가 말한다. \"허미아로 만족하냐고? 아니, 그녀와 보낸 긴 시간들이 후회돼. 난 허미아가 아니라 헬레나를 사랑해. 누가 비둘기를 까마귀와 바꾸겠어? 인간의 의지는 이성으로 통제되는 법이야. 그리고 이성은 네가 더 나은 여자라고 말하고 있어. 자라나는 것들은 제철이 되기 전까지는 익지 않아.\"",
+  "ko": "라이샌더가 말한다. \"허미아로 만족하냐고? 아니, 그녀와 함께 보낸 긴 시간이 후회돼. 나는 허미아가 아니라 헬레나를 사랑해. 누가 비둘기를 보고 까우스를 선택하겠어? 인간의 의지는 이성으로 통제돼. 그리고 이성은 네가 더 나은 여자라고 말해. 자라나는 것들은 제 때가 되기 전까지는 익지 않아.\"",
   "is_header": false
  },
  {
   "id": 45,
   "tag": "P0187_2",
   "en": "\"Since I am young, I was not ready for reason until now. Now that I have reached a high level of skill, reason leads my will. It leads me to your eyes. There I see the stories of love, written in the richest book of love.\"",
-  "ko": "\"내가 젊었을 때는 이제야 비로소 이성을 받아들일 준비가 됐어. 이제 높은 수준에 도달했으니, 이성이 내 의지를 이끌어. 그것은 나를 네 눈으로 인도해. 거기서 나는 사랑의 가장 풍성한 책에 쓰인 사랑의 이야기들을 봐.\"",
+  "ko": "\"내가 어렸을 때는 지금까지 이성을 받아들일 준비가 안 됐어. 이제 실력이 높아졌으니, 이성이 내 의지를 이끌어. 그것이 나를 네 눈으로 인도해. 거기서 나는 사랑의 가장 풍성한 책에 적힌 사랑 이야기들을 봐.\"",
   "is_header": false
  },
  {
   "id": 46,
   "tag": "P0188_1",
   "en": "Helena says, \"Why was I born for this cruel joke? Why did I deserve this scorn from you? Is it not enough, young man? I never deserved, and can never deserve, a dear look from Demetrius's eye. But must you mock my lack of worth? Truly, you are doing me wrong.\"",
-  "ko": "헬레나가 말한다. \"왜 내가 이런 잔인한 농담의 대상이 되어야 하지? 왜 내가 너에게 이런 멸시를 받아야 해? 그걸로 충분하지 않니, 젊은이? 나는 디미트리어스의 눈길을 받을 자격도 없고, 결코 가질 수도 없어. 하지만 내 가치가 없는 것을 비웃어야겠어? 정말로, 넌 나를 잘못 대하고 있어.\"",
+  "ko": "헬레나가 말한다. \"왜 내가 이런 잔인한 농담의 주인공으로 태어났을까? 왜 내가 너에게 이런 무시를 당해야 하지? 젊은이, 이 정도면 충분하지 않아? 나는 디미트리어스의 눈길을 받을 자격도 없고 결코 가질 수도 없어. 하지만 내 가치가 없다고 비웃어야겠어? 정말이지, 너는 나를 잘못 대하고 있어.\"",
   "is_header": false
  },
  {
   "id": 47,
   "tag": "P0188_2",
   "en": "\"You are being unfair to me by courting me in such a disrespectful way. But I wish you well. I must admit, I thought you were a man of more true kindness. Oh, that a lady rejected by one man should be mistreated by another!\"",
-  "ko": "\"그런 무례한 방식으로 나를 유혹하다니, 넌 나에게 불공평하게 구는 거야. 하지만 난 네가 잘되길 바라. 솔직히 말하면, 난 네가 더 진실된 친절을 가진 사람인 줄 알았어. 오, 한 남자에게 거절당한 여인이 다른 이에게 함부로 대우받다니!\"",
+  "ko": "\"너는 무례한 방식으로 나를 유혹하며 내게 불공평하게 굴고 있어. 그래도 난 네가 잘되길 바라. 솔직히 말하면, 난 네가 더 진실된 친절을 가진 사람인 줄 알았어. 오, 한 남자에게 거절당한 여성을 다른 남자가 함부로 대하다니!\"",
   "is_header": false
  },
  {
@@ -339,7 +339,7 @@
   "id": 49,
   "tag": "P0190_1",
   "en": "Lysander says, \"She does not see Hermia. Hermia, sleep there. You must never come near Lysander! Too much of the sweetest things makes the stomach hate them. People also hate the lies that others tell them. You are my excess and my lie. I hate you more than anyone else.\"",
-  "ko": "라이샌더가 말한다. \"그녀는 허미아를 보지 못해. 허미아, 거기서 자라. 너는 절대 라이샌더에게 가까이 가면 안 돼! 달콤한 것도 너무 많으면 속이 거부하게 마련이야. 사람들은 타인이 하는 거짓말도 싫어하지. 너는 나의 과잉이자 내 거짓말이야. 난 그 누구보다 너를 증오해.\"",
+  "ko": "라이샌더가 말한다. \"그녀는 허미아를 보지 못해. 허미아, 거기서 자라. 너는 절대 라이샌더에게 다가오면 안 돼! 달콤한 것도 너무 많이 먹으면 속이 거부하게 돼. 사람들은 남들이 하는 거짓말도 싫어해. 너는 나의 과잉이자 내 거짓말이야. 나는 그 누구보다 너를 증오해.\"",
   "is_header": false
  },
  {
@@ -367,14 +367,14 @@
   "id": 53,
   "tag": "P0193_1",
   "en": "Hermia asks, \"Help me, Lysander, help me! Do your best to pull this crawling snake from my chest! Oh, have pity on me! What a dream was here! Lysander, look at how I shake with fear. I thought a snake was eating my heart. You sat and smiled at its cruel prey. Lysander! Is it gone?\"",
-  "ko": "허미아가 묻는다. \"도와줘, 라이샌더, 도와줘! 내 가슴에서 꿈틀거리는 이 뱀을 뽑아내는 데 최선을 다해줘! 오, 나를 불쌍히 여겨줘! 여기에 어떤 꿈이 있었는데! 라이샌더, 내가 공포로 얼마나 떨고 있는지 봐. 뱀이 내 심장을 먹고 있는 줄 알았어. 당신은 앉아서 그 잔인한 먹잇감을 보며 미소 짓고 있었지. 라이샌더! 없어졌어?\"",
+  "ko": "허미아가 묻는다. \"도와줘, 라이샌더, 도와줘! 내 가슴에서 꿈틀거리는 이 뱀을 당겨서 꺼내줘! 오, 나를 불쌍히 여겨줘! 여기에 어떤 꿈이 있었는데! 라이샌더, 내가 공포로 떨고 있는 걸 봐. 뱀이 내 심장을 먹고 있다고 생각했어. 너는 앉아서 그 녀석이 사냥하는 것을 보며 웃었지. 라이샌더! 사라졌어?\"",
   "is_header": false
  },
  {
   "id": 54,
   "tag": "P0193_2",
   "en": "\"Lysander! Oh, my lord! Are you out of hearing? Is it gone? Is there no sound or word? Alas, where are you? Speak if you can hear me. Speak of all the things you love! I almost faint from fear. No? Then I see that you are not near. I will find either death or you immediately.\"",
-  "ko": "\"라이샌더! 오, 나의 주인님! 내 말이 들리지 않는 거야? 없어졌어? 아무 소리도 말도 없는 거야? 아아, 당신은 어디에 있는 거야? 들린다면 말해줘. 네가 사랑하는 모든 것들에 대해 말해줘! 난 공포로 거의 기절할 것 같아. 아니야? 그럼 네가 가까이 없다는 걸 알겠어. 나는 즉시 죽음이나 너를 찾을 거야.\"",
+  "ko": "\"라이샌더! 오, 나의 주인님! 내 말이 들리지 않는 거야? 사라졌어? 아무 소리도 말도 없어? 아아, 당신은 어디에 있는 거야? 내 목소리가 들린다면 말해줘. 네가 사랑하는 모든 것들에 대해 말해줘! 나는 너무 무서워서 쓰러질 것 같아. 아니야? 그럼 네가 가까이 없다는 걸 알겠어. 나는 곧 죽음이나 너를 마주하게 될 거야.\"",
   "is_header": false
  },
  {

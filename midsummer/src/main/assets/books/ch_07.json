@@ -31,7 +31,7 @@
   "id": 5,
   "tag": "P0425_1",
   "en": "Titania says, \"Come and sit down on this flowery bed. I will kiss your friendly cheeks. I will put musk-roses in your smooth hair. I will kiss your beautiful large ears, my gentle joy.\"",
-  "ko": "티타니아가 말한다. \"이 꽃이 가득한 침대에 와서 앉으렴. 너의 다정한 뺨에 입을 맞추마. 네 부드러운 머리카락에 머스크 장미를 꽂아주마. 나의 소중한 사랑아, 네 아름답고 커다란 귀에도 입을 맞추마.\"",
+  "ko": "티타니아가 말한다. \"이 꽃이 가득한 침대 위로 와서 앉으렴. 네 다정한 뺨에 입을 맞추마. 너의 부드러운 머리카락에 사향 장미를 꽂아주마. 나의 소중한 기쁨아, 너의 아름답고 큰 귀에도 입을 맞추마.\"",
   "is_header": false
  },
  {
@@ -52,7 +52,7 @@
   "id": 8,
   "tag": "P0428_1",
   "en": "Bottom asks, \"Scratch my head, Peaseblossom. Where is Monsieur Cobweb?\"",
-  "ko": "보텀이 묻는다. \"내 머리를 긁어줘, 피즈블로섬. 모르수어 코브웹은 어디에 있나요?\"",
+  "ko": "보텀이 묻는다. \"내 머리를 긁어줘, 피즈블로섬. 코브웹 씨는 어디에 있나요?\"",
   "is_header": false
  },
  {
@@ -66,14 +66,14 @@
   "id": 10,
   "tag": "P0430_1",
   "en": "Bottom says, \"Monsieur Cobweb, good monsieur. Take your weapons in your hands. Kill a red-hipped humble-bee on top of a thistle for me. And, good monsieur, bring me the honey-bag. Do not worry too much during the action, monsieur. Be careful that the honey-bag does not break.\"",
-  "ko": "보텀이 말한다. \"코브웹 씨, 좋은 분이시군요. 무기를 손에 쥐세요. 엉겅퀴 위에 있는 붉은 엉덩이의 벌을 나를 위해 잡아주세요. 그리고, 좋은 분이시니 꿀 주머니도 가져다주세요. 공연 중에 너무 걱정하지 마세요, 선생님. 꿀 주머니가 터지지 않게 조심하세요.\"",
+  "ko": "보텀이 말한다. \"코브웹 씨, 좋은 분이시군요. 무기를 손에 쥐세요. 엉겅퀴 위에 있는 엉덩이가 붉은 벌을 하나 잡아주세요. 그리고, 좋은 분이시니 꿀 주머니도 가져다주세요. 연극하는 동안 너무 걱정하지 마세요. 꿀 주머니가 터지지 않게 조심하세요.\"",
   "is_header": false
  },
  {
   "id": 11,
   "tag": "P0430_2",
   "en": "\"I would hate to see you covered in honey from a broken bag, signior. Where is Monsieur Mustardseed?\"",
-  "ko": "\"터진 주머니 때문에 몸에 꿀이 묻는 걸 보고 싶지 않거든요, 선생님. 머스터드시드 씨는 어디 있나?\"",
+  "ko": "\"터진 주머니 때문에 몸에 꿀이 묻는 걸 보고 싶지 않거든요. 머스터드시드 씨는 어디 있나요?\"",
   "is_header": false
  },
  {
@@ -94,14 +94,14 @@
   "id": 14,
   "tag": "P0433_1",
   "en": "Mustardseed asks, \"What do you want?\"",
-  "ko": "머스터드시드가 묻는다. \"무슨 말을 하고 싶은 거야?\"",
+  "ko": "머스터드시드가 묻는다. \"뭐가 필요해?\"",
   "is_header": false
  },
  {
   "id": 15,
   "tag": "P0434_1",
   "en": "Bottom says, \"Nothing, good monsieur, except to help Cavalry Cobweb to scratch. I must go to the barber, monsieur. I think my face is very hairy. I am such a sensitive donkey. If my hair even tickles me, I must scratch.\"",
-  "ko": "보텀이 말한다. \"아무것도 아니에요, 그저 코브웹 씨가 긁는 걸 도와주려는 것뿐이에요. 이발소에 가야 해요, 선생님. 제 얼굴에 털이 너무 많이 난 것 같아요. 전 정말 예민한 당나귀 같은 존재예요. 머리카락이 조금이라도 간지러우면 꼭 긁어야 하거든요.\"",
+  "ko": "보텀이 말한다. \"아무것도 아니에요, 코브웹 씨가 긁는 걸 도와주려는 것뿐이에요. 이발소에 가야 해요. 제 얼굴에 털이 너무 많이 난 것 같아요. 저는 아주 예민한 당나귀 같은 사람이에요. 머리카락이 조금이라도 따끔거리면 꼭 긁어야 하거든요.\"",
   "is_header": false
  },
  {
@@ -129,7 +129,7 @@
   "id": 19,
   "tag": "P0438_1",
   "en": "Bottom says, \"Truly, a small amount of food. I could munch your good dry oats. I think I have a great desire for a bundle of hay. Good hay, sweet hay, has no equal.\"",
-  "ko": "보텀이 말한다. \"정말이지, 아주 조금만 있으면 돼요. 당신의 마른 귀리를 씹어 먹을 수도 있고요. 건초 한 더미가 정말 간절하게 생각나네요. 좋은 건초, 달콤한 건초는 무엇과도 비교할 수 없죠.\"",
+  "ko": "보텀이 말한다. \"정말이지, 아주 조금만 있으면 돼요. 당신의 마른 보리라도 씹어 먹을 수 있어요. 건초 한 더미가 정말 간절하게 생각나네요. 좋은 건초, 달콤한 건초는 무엇과도 바꿀 수 없어요.\"",
   "is_header": false
  },
  {
@@ -143,14 +143,14 @@
   "id": 21,
   "tag": "P0440_1",
   "en": "Bottom says, \"I would rather have a few dried peas. Please do not let your people move me. I am falling into a deep sleep.\"",
-  "ko": "보텀이 말한다. \"차라리 말린 완두콩 몇 알이면 좋겠어요. 부디 당신의 부하들이 저를 옮기지 못하게 해주세요. 저는 깊은 잠에 빠져들고 있어요.\"",
+  "ko": "보텀이 말한다. \"차라리 말린 완두콩 몇 알이면 좋겠어요. 당신의 부하들이 저를 옮기지 않게 해주세요. 저는 깊은 잠에 빠져들고 있어요.\"",
   "is_header": false
  },
  {
   "id": 22,
   "tag": "P0441_1",
   "en": "Titania says, \"Sleep, and I will hold you in my arms. Fairies, go away now. Go far away from here. The woodbine and the lovely honeysuckle twist together gently. The female ivy wraps around the bark of the elm tree. Oh, how I love you! How I love you so much that I am foolish!\"",
-  "ko": "티타니아가 말한다. \"잠들어라, 내가 너를 품에 안아줄게. 요정들아, 이제 물러가라. 여기서 멀리 가버려라. 덩굴과 달콤한 인동초가 부드럽게 엉켜 있구나. 담쟁이덩굴이 느릅나무 줄기를 감싸고 있어. 오, 네가 정말 사랑스러워! 네가 너무 사랑스러워서 내가 바보가 된 것 같아!\"",
+  "ko": "티타니아가 말한다. \"잠들어라, 내가 너를 품에 안아 줄게. 요정들아, 이제 물러가라. 여기서 멀리 가버려라. 덩굴과 달콤한 인동초가 부드럽게 엉켜 있구나. 담쟁이덩굴이 느릅나무 줄기를 감싸고 있어. 오, 네가 정말 사랑스럽구나! 네가 너무 사랑스러워서 내가 바보가 된 것 같아!\"",
   "is_header": false
  },
  {
@@ -171,28 +171,28 @@
   "id": 25,
   "tag": "P0444_1",
   "en": "Oberon says, \"Welcome, good Robin. Do you see this lovely sight? I now begin to pity her foolish love for him. I met her recently behind the woods. She was looking for favors for this hateful fool. I scolded her and we had a fight. She had put a crown of fresh flowers on his hair.\"",
-  "ko": "오베론이 말한다. \"반갑구나, 착한 로빈. 이 아름다운 광경이 보이느냐? 이제 그녀가 그를 향해 품은 어리석은 사랑을 가엽게 여긴다. 최근에 숲 뒤편에서 그녀를 만났다. 그녀는 이 한심한 바보를 위해 호의를 구하고 있었어. 나는 그녀를 꾸짖었고 우리는 다투었다. 그녀는 그의 머리에 신선한 꽃관을 씌워주었지.\"",
+  "ko": "오베론이 말한다. \"반가워, 착한 로빈. 이 아름다운 광경이 보이느냐? 이제 그녀가 그를 향해 품은 어리석은 사랑을 가엽게 여긴다. 최근에 숲 뒤편에서 그녀를 만났다. 그녀는 이 미운 바보를 위해 도움을 구하고 있었다. 나는 그녀를 꾸짖었고 우리는 다투었다. 그녀는 그의 머리에 신선한 꽃관을 씌워 주었다.\"",
   "is_header": false
  },
  {
   "id": 26,
   "tag": "P0444_2",
   "en": "\"Dew used to look like round pearls on the flower buds. Now, the dew looked like tears in the small flowers. The tears looked like they were crying for their own shame. I teased her until I was satisfied. She asked me for my patience in kind words. Then I asked her for the changeling child.\"",
-  "ko": "\"이슬은 꽃봉오리 위에서 둥근 진주처럼 보였다. 이제 이슬은 작은 꽃들 속에서 눈물처럼 보였어. 그 눈물들은 마치 스스로의 부끄러움 때문에 흘리는 것 같았다. 나는 만족할 때까지 그녀를 놀렸어. 그녀는 정중한 말로 내게 인내심을 보여달라고 부탁했지. 그러고 나서 나는 그녀에게 바뀐 아이를 요구했다.\"",
+  "ko": "\"예전에는 이슬이 꽃봉오리 위에서 둥근 진주처럼 보였다. 이제 이슬은 작은 꽃들 속에서 눈물처럼 보인다. 그 눈물들은 마치 스스로의 부끄러움 때문에 흘리는 것처럼 보였다. 나는 만족할 때까지 그녀를 놀렸다. 그녀는 정중한 말로 나에게 참아달라고 부탁했다. 그러고 나서 나는 그녀에게 바뀐 아이를 달라고 했다.\"",
   "is_header": false
  },
  {
   "id": 27,
   "tag": "P0444_3",
   "en": "\"She gave it to me immediately. Her fairy took him to my shady place in fairyland. Now I have the boy. I will fix the problem of her eyes. Gentle Puck, take this changed head from his head. When he wakes up with the other one, he can go back to Athens. He will think of tonight only as a bad dream.\"",
-  "ko": "\"그녀는 즉시 아이를 내주었어. 그녀의 요정이 아이를 데리고 요정의 나라에 있는 나의 그늘진 곳으로 데려갔다. 이제 내가 그 아이를 가지고 있다. 나는 그녀의 눈 문제를 해결할 것이다. 부드러운 퍽, 그의 머리에서 이 바뀐 머리를 치워라. 그가 다른 머리로 깨어나면 아테네로 돌아갈 수 있을 것이다. 그는 오늘 밤을 그저 나쁜 꿈으로만 생각할 거야.\"",
+  "ko": "\"그녀는 즉시 아이를 내어주었다. 그녀의 요정이 아이를 데리고 요정의 나라에 있는 나의 그늘진 곳으로 데려갔다. 이제 내가 그 아이를 가지고 있다. 나는 그녀의 눈 문제를 해결할 것이다. 착한 퍽, 그의 머리에서 이 변한 머리를 치워라. 그가 다른 머리로 깨어나면 아테네로 돌아갈 수 있다. 그는 오늘 밤을 그저 나쁜 꿈으로만 생각할 것이다.\"",
   "is_header": false
  },
  {
   "id": 28,
   "tag": "P0444_4",
   "en": "\"But first I will set the Fairy Queen free.\"",
-  "ko": "\"하지만 먼저 요정 여왕을 자유롭게 해주겠다.\"",
+  "ko": "\"하지만 먼저 요정 여왕을 자유롭게 해줘야 한다.\"",
   "is_header": false
  },
  {
@@ -206,49 +206,49 @@
   "id": 30,
   "tag": "P0446_1",
   "en": "Oberon goes on, \"Be who you used to be. See what you used to see. The flower of the moon has power over the flower of love. Now, my Titania, wake up, my lovely queen.\"",
-  "ko": "오베론이 말을 잇는다. \"예전의 네 모습으로 돌아와라. 예전에 보던 것을 보아라. 달의 꽃은 사랑의 꽃보다 강력한 힘을 지녔다. 이제, 나의 티타니아, 깨어나라, 나의 아름다운 여왕이여.\"",
+  "ko": "오베론이 말을 잇는다. \"예전의 네 모습으로 돌아와라. 예전에 보던 것들을 다시 봐라. 달의 꽃은 사랑의 꽃을 지배하는 힘이 있다. 이제 나의 티타니아, 깨어나라, 나의 아름다운 여왕이여.\"",
   "is_header": false
  },
  {
   "id": 31,
   "tag": "P0447_1",
   "en": "Titania says, \"My Oberon, what visions have I seen! I thought I was in love with a donkey.\"",
-  "ko": "티타니아가 말한다. \"오, 나의 오베론, 내가 얼마나 엉뚱한 환상을 본 건지! 내가 당나귀와 사랑에 빠진 줄 알았어.\"",
+  "ko": "티타니아가 말한다. \"오베론, 내가 얼마나 이상한 환상을 봤는지 봐. 내가 당나귀와 사랑에 빠졌다고 생각했어.\"",
   "is_header": false
  },
  {
   "id": 32,
   "tag": "P0448_1",
   "en": "Oberon says, \"There lies your love.\"",
-  "ko": "오베론이 말한다. \"저기 당신의 사랑이 있소.\"",
+  "ko": "오베론이 말한다. \"당신의 연인이 저기 있어.\"",
   "is_header": false
  },
  {
   "id": 33,
   "tag": "P0449_1",
   "en": "Titania says, \"How did these things happen? Oh, how much my eyes hate his face now!\"",
-  "ko": "티타니아가 말한다. \"어쩌다 이런 일이 생긴 거지? 오, 이제 그의 얼굴을 보는 게 정말 싫어!\"",
+  "ko": "티타니아가 말한다. \"이런 일들이 어떻게 일어난 거지? 오, 이제 그의 얼굴을 보는 게 너무 싫어!\"",
   "is_header": false
  },
  {
   "id": 34,
   "tag": "P0450_1",
   "en": "Oberon says, \"Be silent for a moment. Robin, take off this head. Titania, call the music. Make these five people sleep very deeply. Make them lose all sense of themselves.\"",
-  "ko": "오베론이 말한다. \"잠시 조용히 해. 로빈, 이 머리 장식을 벗겨라. 티타니아, 음악을 연주하게 해. 이 다섯 사람을 아주 깊게 잠들게 해라. 그들이 정신을 완전히 잃도록 만들어라.\"",
+  "ko": "오베론이 말한다. \"잠시 조용히 해. 로빈, 이 머리 장식을 벗겨. 티타니아, 음악을 연주하게 해. 이 다섯 사람을 아주 깊게 잠들게 해. 그들이 정신을 완전히 잃게 만들어.\"",
   "is_header": false
  },
  {
   "id": 35,
   "tag": "P0451_1",
   "en": "Titania says, \"Music, yes, music. Play music that charms sleep.\"",
-  "ko": "티타니아가 말한다. \"음악, 그래, 음악이다. 잠이 솔솔 오는 매혹적인 음악을 연주해라.\"",
+  "ko": "티타니아가 말한다. \"음악, 그래, 음악이야. 잠이 솔솔 오는 음악을 연주해.\"",
   "is_header": false
  },
  {
   "id": 36,
   "tag": "P0452_1",
   "en": "Puck says, \"Now when you wake, look with your own fool's eyes.\"",
-  "ko": "퍽이 말한다. \"이제 깨어나면, 네 바보 같은 눈으로 직접 확인해 봐.\"",
+  "ko": "퍽이 말한다. \"이제 깨어나면, 네 바보 같은 눈으로 똑똑히 봐.\"",
   "is_header": false
  },
  {
@@ -269,35 +269,35 @@
   "id": 39,
   "tag": "P0455_1",
   "en": "Oberon goes on, \"Come, my queen. Hold my hands. Let us shake the ground where these people sleep. We have just become friends. Tomorrow at midnight, we will dance in Duke Theseus's house. We will celebrate with joy. We will bless it for everyone's success. Faithful couples will be married there.\"",
-  "ko": "오베론이 말을 잇는다. \"오라, 나의 여왕. 내 손을 잡아. 이 사람들이 잠든 땅을 흔들자. 우리는 방금 친구가 되었어. 내일 자정에 테세우스 공의 집에서 춤을 출 거야. 기쁘게 축하하자. 모두의 성공을 위해 축복할 거야. 신뢰하는 커플들이 그곳에서 결혼할 거야.\"",
+  "ko": "오베론이 말을 잇는다. \"오라, 나의 여왕. 내 손을 잡아. 이 사람들이 잠든 땅을 흔들자. 우리는 방금 친구가 되었다. 내일 자정에 테세우스 공의 집에서 춤을 출 것이다. 즐겁게 축하하자. 모두의 성공을 위해 축복하자. 신뢰하는 커플들이 그곳에서 결혼할 것이다.\"",
   "is_header": false
  },
  {
   "id": 40,
   "tag": "P0455_2",
   "en": "\"Theseus and everyone else will join the celebration.\"",
-  "ko": "\"테세우스와 다른 모든 이들이 축제에 참여할 거야.\"",
+  "ko": "\"테세우스와 다른 모든 이들이 축제에 참여할 것이다.\"",
   "is_header": false
  },
  {
   "id": 41,
   "tag": "P0456_1",
   "en": "Puck says, \"Fairy king, listen carefully. I hear the morning bird.\"",
-  "ko": "퍽이 말한다. \"요정 왕이여, 잘 들어. 새벽새의 울음소리가 들려.\"",
+  "ko": "퍽이 말한다. \"요정 왕, 내 말 잘 들어. 새벽새의 울음소리가 들려.\"",
   "is_header": false
  },
  {
   "id": 42,
   "tag": "P0457_1",
   "en": "Oberon says, \"Then, my queen, let us move in silence. We will move after the night's shadow is gone. We can travel around the world quickly. We will move faster than the moon moves across the sky.\"",
-  "ko": "오베론이 말한다. \"그럼, 나의 여왕, 조용히 움직이자. 밤의 그림자가 사라진 뒤에 이동할 거야. 우리는 세상을 빠르게 가로지를 수 있어. 달이 하늘을 가로지르는 것보다 더 빨리 움직일 거야.\"",
+  "ko": "오베론이 말한다. \"그럼 내 여왕, 조용히 움직이자. 밤의 그림자가 사라진 뒤에 이동하자. 우리는 세상을 빠르게 돌아다닐 수 있다. 달이 하늘을 가로지르는 것보다 더 빨리 움직일 것이다.\"",
   "is_header": false
  },
  {
   "id": 43,
   "tag": "P0458_1",
   "en": "Titania asks, \"Come, my lord. Tell me during our flight. Tell me how it happened tonight. How was I found sleeping here? Why was I on the ground with these humans?\"",
-  "ko": "티타니아가 묻는다. \"오세요, 나의 주님. 우리가 날아가는 동안 말해줘. 오늘 밤에 무슨 일이 있었는지 말해줘. 내가 왜 여기서 자고 있는 걸 들켰지? 왜 내가 이 인간들과 함께 땅에 있었던 거야?\"",
+  "ko": "티타니아가 묻는다. \"이리 오세요, 나의 주님. 우리가 날아가는 동안 말해줘. 오늘 밤에 무슨 일이 있었는지 말해줘. 내가 왜 여기서 자고 있는 걸 들켰지? 왜 내가 이 인간들과 함께 땅에 있었던 거야?\"",
   "is_header": false
  },
  {
@@ -318,7 +318,7 @@
   "id": 46,
   "tag": "P0461_1",
   "en": "Theseus says, \"One of you go and find the forester. Our observation is finished now. We have the start of the day. My love will hear the music of my hounds. Separate in the western valley. Let them go. Be quick, I say. Find the forester.\"",
-  "ko": "테세우스가 말한다. \"당신들 중 한 명이 가서 숲을 지키는 사람을 찾아오십시오. 우리의 관찰은 이제 끝났습니다. 이제 하루가 시작됩니다. 내 사랑은 내 사냥개들의 소리를 들을 것입니다. 서쪽 계곡에서 흩어지십시오. 그들을 가게 하십시오. 서두르라고 말합니다. 숲을 지키는 사람을 찾으십시오.\"",
+  "ko": "테세우스가 말한다. \"당신들 중 한 명이 가서 숲을 지키는 사람을 찾아오십시오. 우리의 관찰은 이제 끝났습니다. 이제 하루가 시작되었습니다. 내 사랑은 내 사냥개들의 소리를 들을 것입니다. 서쪽 계곡에서 갈라지십시오. 그들을 가게 하십시오. 서둘러 달라고 말씀드립니다. 숲을 지키는 사람을 찾으십시오.\"",
   "is_header": false
  },
  {
@@ -332,14 +332,14 @@
   "id": 48,
   "tag": "P0463_1",
   "en": "Theseus goes on, \"We will go to the top of the mountain, dear queen. We will listen to the mix of music. It is the sound of hounds and echoes together.\"",
-  "ko": "테세우스가 말을 잇는다. \"여왕님, 산 정상으로 올라가겠습니다. 우리는 섞인 음악 소리를 들을 것입니다. 그것은 사냥개들의 울음소리와 메아리가 합쳐진 소리입니다.\"",
+  "ko": "테세우스가 말을 잇는다. \"여왕님, 우리는 산꼭대기로 갈 것입니다. 우리는 섞여 들리는 음악 소리를 들을 것입니다. 그것은 사냥개 소리와 메아리가 함께 울리는 소리입니다.\"",
   "is_header": false
  },
  {
   "id": 49,
   "tag": "P0464_1",
   "en": "Hippolyta says, \"I was once with Hercules and Cadmus. They were in a forest in Crete. They used Spartan hounds to hunt a bear. I never heard such brave shouting before. The groves, the skies, the fountains, and every nearby area seemed to join in one cry. I never heard such musical noise.\"",
-  "ko": "히폴리타가 말한다. \"저는 한때 헤라클레스, 카드무스와 함께 있었어요. 그들은 크레타의 숲에 있었죠. 그들은 스파르타 사냥개들로 곰을 사냥했어요. 그렇게 용감한 외침은 들어본 적이 없어요. 수풀과 하늘, 샘물, 그리고 주변 모든 곳이 하나의 함성으로 합쳐지는 것 같았어요. 그렇게 음악 같은 소음도 들어본 적이 없어요.\"",
+  "ko": "히폴리타가 말한다. \"저는 한때 헤라클레스, 카드무스와 함께 있었어요. 그들은 크레타섬의 숲에 있었어요. 그들은 스파르타 사냥개들로 곰을 사냥했어요. 그렇게 용감한 외침은 들어본 적이 없어요. 숲과 하늘, 샘물, 그리고 주변 모든 곳이 하나의 함성으로 합쳐지는 것 같았어요. 그렇게 음악 같은 소음도 들어본 적이 없어요.\"",
   "is_header": false
  },
  {
@@ -353,28 +353,28 @@
   "id": 51,
   "tag": "P0465_1",
   "en": "Theseus says, \"My hounds are of Spartan breed. They are fast and strong. Their heads have long ears that sweep away the morning dew. They have curved knees and thick necks like Thessalian bulls. They are slow in pursuit, but they bark like bells. Each one barks after the other.\"",
-  "ko": "테세우스가 말한다. \"제 사냥개들은 스파르타 품종입니다. 그것들은 빠르고 힘이 셉니다. 머리에는 아침 이슬을 털어낼 만큼 긴 귀가 달려 있습니다. 굽은 무릎과 테살리아 황소처럼 두꺼운 목을 가졌습니다. 추격할 때는 느릿하지만 종소리처럼 짖어댑니다. 하나하나 차례대로 짖어댑니다.\"",
+  "ko": "테세우스가 말한다. \"제 사냥개들은 스파르타 종입니다. 그것들은 빠르고 힘이 셉니다. 머리에는 아침 이슬을 털어낼 만큼 긴 귀가 달려 있습니다. 굽은 무릎과 테살리아 황소처럼 두꺼운 목을 가졌습니다. 추격할 때는 느릿느릿하지만, 종소리처럼 짖어댑니다. 한 마리가 울면 다음 개도 차례로 짖습니다.\"",
   "is_header": false
  },
  {
   "id": 52,
   "tag": "P0465_2",
   "en": "\"No more musical cry was ever heard in Crete, Sparta, or Thessaly. You will judge when you hear them. But, wait, who are these nymphs?\"",
-  "ko": "\"크레타, 스파르타, 테살리아 어디에서도 이런 음악적인 울림은 들어본 적이 없습니다. 직접 들으시면 판단하실 것입니다. 그런데 잠깐만요, 이 요정들은 누구입니까?\"",
+  "ko": "\"크레타나 스파르타, 테살리아 어디에서도 이런 조화로운 소리는 들어본 적이 없습니다. 직접 들으시면 판단이 서실 것입니다. 그런데 잠깐만요, 이 여인들은 누구입니까?\"",
   "is_header": false
  },
  {
   "id": 53,
   "tag": "P0466_1",
   "en": "Egeus says, \"My lord, my daughter is sleeping here. And this is Lysander. This Demetrius is here too. This is Helena, old Nedar's Helena. I wonder why they are all here together.\"",
-  "ko": "이지어스가 말한다. \"주님, 제 딸이 여기서 자고 있어요. 그리고 이쪽은 라이샌더예요. 이 디미트리어스도 여기 있고요. 이분은 넬다르의 헬레나입니다. 왜 다들 여기 함께 있는지 궁금하네요.\"",
+  "ko": "이지어스가 말한다. \"주님, 제 딸이 여기서 자고 있어요. 그리고 이 사람은 라이샌더예요. 이 디미트리어스도 여기 있고요. 이쪽은 넬다르의 딸 헬레나예요. 왜 이들이 모두 함께 여기에 있는지 궁금하네요.\"",
   "is_header": false
  },
  {
   "id": 54,
   "tag": "P0467_1",
   "en": "Theseus asks, \"They probably woke up early to see the May festival. They heard our plan and came here to respect our ceremony. But tell me, Egeus. Is this not the day that Hermia must give her answer?\"",
-  "ko": "테세우스가 묻는다. \"그들은 아마 5월 축제를 보기 위해 일찍 일어났을 것입니다. 우리의 계획을 듣고 의식을 존중하기 위해 이곳으로 온 것이지요. 하지만 말씀해 주십시오, 이지어스. 오늘이 허미아가 대답을 해야 하는 날이 아닙니까?\"",
+  "ko": "테세우스가 묻는다. \"그들은 아마 오월 축제를 보려고 일찍 일어났을 것입니다. 우리의 계획을 듣고 우리의 의식을 존중하기 위해 이곳으로 온 것입니다. 하지만 말씀해 주십시오, 이지어스. 오늘이 바로 허미아가 대답을 해야 하는 날이 아닙니까?\"",
   "is_header": false
  },
  {
@@ -409,7 +409,7 @@
   "id": 59,
   "tag": "P0472_1",
   "en": "Lysander says, \"Please forgive me, my lord.\"",
-  "ko": "라이샌더가 말한다. \"용서해 주세요, 나의 주님.\"",
+  "ko": "라이샌더가 말한다. \"제발 용서해 주세요, 주인님.\"",
   "is_header": false
  },
  {
@@ -423,56 +423,56 @@
   "id": 61,
   "tag": "P0474_1",
   "en": "Theseus asks, \"I ask you all to stand up. I know that you two are rivals. Why is there such peace in the world? Why is hatred so far from jealousy? Why does hate sleep and not fear any enemies?\"",
-  "ko": "테세우스가 묻는다. \"모두 일어서십시오. 당신들 둘이 경쟁 관계라는 것을 알고 있습니다. 어찌 세상에 이토록 평화가 있습니까? 어찌 증오가 질투와는 이토록 동떨어져 있습니까? 어찌 증오는 잠들고 적을 두려워하지 않습니까?\"",
+  "ko": "테세우스가 묻는다. \"모두 일어서십시오. 당신들 둘이 라이벌이라는 것을 알고 있습니다. 왜 세상에 이토록 평화가 있습니까? 왜 증오는 질투와는 거리가 먼 것입니까? 왜 증오는 잠을 자고 적을 두려워하지 않습니까?\"",
   "is_header": false
  },
  {
   "id": 62,
   "tag": "P0475_1",
   "en": "Lysander says, \"My lord, I answer you in surprise. I am half asleep and half awake. I swear that I cannot truly say how I came here. But as I think about it, I remember now. It is true. I came here with Hermia. Our plan was to leave Athens. We wanted to be away from the danger of Athenian law.\"",
-  "ko": "라이샌더가 말한다. \"주님, 놀라서 대답합니다. 저는 반쯤 졸고 있고 반쯤 깨어 있는 상태입니다. 제가 어떻게 여기까지 왔는지 정말로 말할 수 없다고 맹세합니다. 하지만 생각해보니 이제 기억이 납니다. 그것은 사실입니다. 저는 허미아와 함께 이곳에 왔습니다. 우리의 계획은 아테네를 떠나는 것이었습니다. 우리는 아테네의 법이라는 위험에서 벗어나고 싶었습니다.\"",
+  "ko": "라이샌더가 말한다. \"주인님, 놀라서 대답합니다. 저는 반쯤 졸고 있고 반쯤 깨어 있는 상태예요. 제가 어떻게 여기까지 왔는지 정말로 말할 수 없다고 맹세해요. 하지만 생각해보니 이제 기억이 나요. 그게 사실이에요. 저는 허미아와 함께 이곳에 왔어요. 우리의 계획은 아테네를 떠나는 것이었어요. 우리는 아테네의 법이라는 위험에서 벗어나고 싶어 했어요.\"",
   "is_header": false
  },
  {
   "id": 63,
   "tag": "P0476_1",
   "en": "Egeus says, \"Enough, my lord; you have heard enough. I ask for the law to be applied to him. They tried to run away, Demetrius. They did this to defeat you and me. You would lose your wife, and I would lose my permission. I gave permission for her to be your wife.\"",
-  "ko": "이지어스가 말한다. \"그만하십시오, 주님. 충분히 들으셨습니다. 그에게 법을 적용해 줄 것을 요청합니다. 디미트리어스, 그들은 도망치려 했습니다. 그들은 당신과 저를 굴복시키려고 이렇게 한 것입니다. 당신은 아내를 잃게 될 것이고, 저는 허락을 취소당할 것입니다. 제가 그녀가 당신의 아내가 되도록 허락했습니다.\"",
+  "ko": "이지어스가 말한다. \"그만하십시오, 주인님. 충분히 들으셨습니다. 그에게 법을 적용해 주십시오. 디미트리어스, 그들은 도망치려 했습니다. 그들은 당신과 저를 이기려고 이렇게 행동했습니다. 당신은 아내를 잃게 될 것이고, 저는 허락을 취소당할 것입니다. 제가 그녀가 당신의 아내가 되는 것을 허락했으니까요.\"",
   "is_header": false
  },
  {
   "id": 64,
   "tag": "P0477_1",
   "en": "Demetrius says, \"My lord, beautiful Helena told me of their secret plan. She told me they planned to come to this wood. I followed them in anger. Beautiful Helena followed me because she was dreaming. But my good lord, I do not know how it happened.\"",
-  "ko": "디미트리어스가 말한다. \"주님, 아름다운 헬레나가 그들의 비밀 계획을 말해줬어요. 그녀는 그들이 이 숲으로 올 계획이라고 말했어요. 저는 화가 나서 그들을 뒤쫓았어요. 아름다운 헬레나도 꿈을 꾸듯 저를 따라왔어요. 하지만 좋은 주님, 어떻게 된 일인지는 모르겠어요.\"",
+  "ko": "디미트리어스가 말한다. \"주님, 아름다운 헬레나가 그들의 비밀 계획을 말해줬어요. 그녀는 그들이 이 숲으로 올 계획이라고 말했어요. 저는 화가 나서 그들을 뒤쫓았어요. 아름다운 헬레나는 꿈을 꾸는 듯한 상태로 저를 따라왔어요. 하지만 좋은 주님, 저는 어떻게 된 일인지 모르겠어요.\"",
   "is_header": false
  },
  {
   "id": 65,
   "tag": "P0477_2",
   "en": "\"By some power, my love for Hermia melted like snow. Now it feels like a memory of a toy I loved too much as a child. All the faith and virtue of my heart is now only for Helena. She is the only thing that pleases my eyes. I was engaged to her before I ever saw Hermia.\"",
-  "ko": "\"어떤 힘에 의해 허미아를 향한 제 마음이 눈처럼 녹아버렸어요. 이제 그 마음은 어린 시절 너무 아꼈던 장난감의 기억처럼 느껴져요. 제 마음속 모든 믿음과 미덕은 이제 헬레나만을 향합니다. 그녀만이 내 눈을 즐겁게 하는 유일한 존재예요. 허미아를 보기 전부터 저는 그녀와 약혼한 사이였어요.\"",
+  "ko": "\"어떤 힘에 의해 허미아를 향한 제 마음이 눈처럼 녹아버렸어요. 이제 그 마음은 어릴 때 너무 아꼈던 장난감의 기억처럼 느껴져요. 제 마음속 모든 믿음과 미덕은 이제 헬레나만을 향합니다. 그녀만이 내 눈에 즐거움을 주는 유일한 존재예요. 저는 허미아를 보기 전부터 그녀와 약혼한 상태였어요.\"",
   "is_header": false
  },
  {
   "id": 66,
   "tag": "P0477_3",
   "en": "\"But I hated it like a sickness. Now, as if I am healthy, I have returned to my natural taste. I want her and love her now. I long for her. I will be true to her forever.\"",
-  "ko": "\"하지만 그때는 병처럼 그 관계가 싫었어요. 이제 건강해진 것처럼, 원래의 취향으로 돌아왔어요. 저는 이제 그녀를 원하고 사랑해요. 그녀를 간절히 원해요. 영원히 그녀에게 진실할 거예요.\"",
+  "ko": "\"하지만 그때는 그것이 병처럼 싫었어요. 이제 건강을 되찾은 것처럼, 원래의 취향으로 돌아왔어요. 저는 이제 그녀를 원하고 사랑해요. 그녀를 간절히 원해요. 나는 영원히 그녀에게 진실할 거예요.\"",
   "is_header": false
  },
  {
   "id": 67,
   "tag": "P0478_1",
   "en": "Theseus says, \"Beautiful lovers, you have met each other luckily. We will hear more of this talk soon. Egeus, I will go against your will. In the temple, we will join these couples together forever. Since the morning is almost over, we will cancel our hunt. Let us go to Athens.\"",
-  "ko": "테세우스가 말한다. \"아름다운 연인들이여, 그대들은 운 좋게 서로를 만났습니다. 우리는 곧 이 대화에 대해 더 자세히 들을 것입니다. 이지어스, 나는 당신의 뜻에 반대하겠습니다. 신전에서 우리는 이 커플들을 영원히 결합할 것입니다. 아침이 거의 끝났으니, 사냥은 취소하겠습니다. 아테네로 갑시다.\"",
+  "ko": "테세우스가 말한다. \"아름다운 연인들이여, 당신들은 운 좋게 서로를 만났습니다. 우리는 곧 이 대화에 대해 더 자세히 듣게 될 것입니다. 이지어스, 저는 당신의 뜻에 반대하겠습니다. 신전에서 우리는 이 커플들을 영원히 결합할 것입니다. 아침이 거의 끝났으니 사냥을 취소하겠습니다. 아테네로 갑시다.\"",
   "is_header": false
  },
  {
   "id": 68,
   "tag": "P0478_2",
   "en": "\"The three couples will have a feast in great ceremony. Come, Hippolyta.\"",
-  "ko": "\"세 쌍의 커플은 성대한 의식 속에서 잔치를 벌일 것입니다. 오십시오, 히폴리타.\"",
+  "ko": "\"세 커플은 성대한 의식 속에서 잔치를 벌일 것입니다. 오십시오, 히폴리타.\"",
   "is_header": false
  },
  {
@@ -486,35 +486,35 @@
   "id": 70,
   "tag": "P0480_1",
   "en": "Demetrius says, \"These things seem small and not clear. They look like far mountains turned into clouds.\"",
-  "ko": "디미트리어스가 말한다. \"이것들이 작고 흐릿해 보여요. 멀리 있는 산이 구름으로 변한 것처럼 보여요.\"",
+  "ko": "디미트리어스가 말한다. \"이것들이 작고 흐릿하게 보여요. 멀리 있는 산이 구름으로 변한 것처럼 보여요.\"",
   "is_header": false
  },
  {
   "id": 71,
   "tag": "P0481_1",
   "en": "Hermia says, \"I think I see these things with one eye. Everything seems double.\"",
-  "ko": "허미아가 말한다. \"한쪽 눈으로 보는 것 같아. 모든 게 두 개로 겹쳐 보여.\"",
+  "ko": "허미아가 말한다. \"내 눈이 한쪽만 제대로 보이는 것 같아. 모든 게 두 개로 겹쳐 보여.\"",
   "is_header": false
  },
  {
   "id": 72,
   "tag": "P0482_1",
   "en": "Helena says, \"I think so too. I found Demetrius like a jewel. He is mine, but not my own.\"",
-  "ko": "헬레나가 말한다. \"나도 그렇게 생각해. 나는 디미트리어스를 보석처럼 찾아냈어. 그는 내 것이지만, 온전히 내 것은 아니야.\"",
+  "ko": "헬레나가 말한다. \"나도 그렇게 생각해. 나는 디미트리어스를 보석처럼 찾아냈어. 그는 내 사람이지만, 내 소유는 아니야.\"",
   "is_header": false
  },
  {
   "id": 73,
   "tag": "P0483_1",
   "en": "Demetrius asks, \"Are you sure that we are awake? It seems to me that we are still sleeping and dreaming. Do you not think the Duke was here? Did he not tell us to follow him?\"",
-  "ko": "디미트리어스가 묻는다. \"우리가 깨어 있는 게 확실해? 내 생각엔 아직 꿈속에서 자고 있는 것 같아. 공작이 여기 없었을 리 없어. 그가 우리에게 따라오라고 말하지 않았어?\"",
+  "ko": "디미트리어스가 묻는다. \"우리가 깨어 있는 게 확실해? 내 생각엔 우리가 아직 잠들어 꿈을 꾸는 것 같아. 공작이 여기 있었던 거 아니야? 그가 우리에게 따라오라고 말하지 않았어?\"",
   "is_header": false
  },
  {
   "id": 74,
   "tag": "P0484_1",
   "en": "Hermia says, \"Yes, and my father.\"",
-  "ko": "허미아가 말한다. \"응, 그리고 내 아버지도.\"",
+  "ko": "허미아가 말한다. \"응, 그리고 우리 아버지도.\"",
   "is_header": false
  },
  {
@@ -535,7 +535,7 @@
   "id": 77,
   "tag": "P0487_1",
   "en": "Demetrius says, \"We are awake then. Let us follow him. Let us tell each other about our dreams along the way.\"",
-  "ko": "디미트리어스가 말한다. \"그럼 우리는 깨어 있는 거네. 그를 따라가자. 가는 동안 서로 어떤 꿈을 꾸었는지 이야기하자.\"",
+  "ko": "디미트리어스가 말한다. \"그럼 우리는 깨어 있는 거네. 그를 따라가자. 가는 동안 서로 꿈 이야기를 하자.\"",
   "is_header": false
  },
  {
@@ -549,35 +549,35 @@
   "id": 79,
   "tag": "P0489",
   "en": "They wake up.",
-  "ko": "그들이 깨어난다.",
+  "ko": "그들이 잠에서 깬다.",
   "is_header": false
  },
  {
   "id": 80,
   "tag": "P0490_1",
   "en": "Bottom says, \"Call me when my cue comes, and I will answer. My next line is 'Most fair Pyramus'. Heigh-ho! Peter Quince! Flute, the bellows-mender! Snout, the tinker! Starveling! God's life! It was stolen from me and left me asleep! I had a very strange vision.\"",
-  "ko": "보텀이 말한다. \"내 차례가 오면 불러라, 그러면 대답하겠다. 내 다음 대사는 '아름다운 피라모스'다. 어이, 피터 퀸스! 풀무질을 고치는 플루트! 땜보기 장인 스나우트! 스털링! 세상에! 누군가 내 것을 훔쳐 가고 나를 잠들게 했다! 나는 아주 이상한 환상을 보았다.\"",
+  "ko": "보텀이 말한다. \"내 차례가 오면 불러라. 그러면 내가 대답하겠다. 내 다음 대사는 '아주 아름다운 피라모스'이다. 어이, 피터 퀸스! 풀무질을 고치는 플루트! 양잿그릇을 만드는 스나우트! 스털링! 세상에! 누군가 내 것을 훔쳐 가고 나를 잠들게 했다. 나는 아주 이상한 환상을 보았다.\"",
   "is_header": false
  },
  {
   "id": 81,
   "tag": "P0490_2",
   "en": "\"I had a dream that is too strange for a human to describe. A man is just a fool if he tries to explain this dream. I thought I was—no one can say what. I thought I was, and I thought I had—but a man is just a foolish person if he offers to say what I had. The eye of man has not heard.\"",
-  "ko": "\"사람이 설명하기에는 너무도 기괴한 꿈을 꾸었다. 이 꿈을 설명하려는 자는 바보일 뿐이다. 나는 내가 무엇인 줄 알았으나, 아무도 말할 수 없다. 내가 무엇을 가졌다고 생각했으나, 그것을 말하는 자는 어리석은 자다. 사람의 눈이 본 적이 없다.\"",
+  "ko": "\"사람이 설명하기에는 너무나 기괴한 꿈을 꾸었다. 이 꿈을 설명하려는 사람은 바보일 뿐이다. 나는 내가 무엇인 줄 알았으나, 아무도 말할 수 없다. 나는 무언가를 가진 줄 알았지만, 그것이 무엇인지 말하는 사람은 바보일 뿐이다. 사람의 눈은 그것을 보지 못했다.\"",
   "is_header": false
  },
  {
   "id": 82,
   "tag": "P0490_3",
   "en": "\"The ear of man has not seen. A man's hand is not able to taste. His tongue cannot think of it. His heart cannot report what my dream was. I will get Peter Quince to write a song about this dream. It shall be called 'Bottom's Dream', because it has no bottom.\"",
-  "ko": "\"사람의 귀가 들은 적이 없다. 사람의 손으로 맛볼 수도 없다. 혀로는 생각조차 할 수 없다. 심장도 내 꿈이 무엇이었는지 말할 수 없다. 피터 퀸스에게 이 꿈에 관한 노래를 쓰게 하겠다. 끝이 없으니 '보텀의 꿈'이라 부르기로 한다.\"",
+  "ko": "\"사람의 귀는 그것을 듣지 못했다. 사람의 손은 그것을 맛볼 수 없다. 그의 혀로는 그것을 생각할 수 없다. 그의 심장으로는 내 꿈이 무엇이었는지 말할 수 없다. 피터 퀸스에게 이 꿈에 관한 노래를 쓰게 하겠다. 끝이 없으니 '보텀의 꿈'이라 부르기로 했다.\"",
   "is_header": false
  },
  {
   "id": 83,
   "tag": "P0490_4",
   "en": "\"I will sing it at the end of a play before the Duke. Perhaps, to make it more pleasing, I will sing it at her death.\"",
-  "ko": "\"공작 앞에서 연극이 끝날 때 이 노래를 부르겠다. 더 즐겁게 하기 위해, 그녀가 죽을 때 부를 수도 있다.\"",
+  "ko": "\"공작 앞에서 연극이 끝나기 전에 그 노래를 부르겠다. 더 즐겁게 들리도록, 그녀가 죽을 때 부를 수도 있다.\"",
   "is_header": false
  },
  {
