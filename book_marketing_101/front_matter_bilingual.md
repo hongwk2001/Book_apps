@@ -1,6 +1,5 @@
 # Book Marketing 101
 # Book Marketing 101
-# Book Marketing 101
 
 A practical guide to finding readers for your book
 책을 읽어 줄 독자를 찾는 실용 가이드
